@@ -205,7 +205,7 @@ class ProfileScreen extends StatelessWidget {
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(16),
                     ),
-                    child: const Icon(Icons.crown_rounded, color: Colors.orange, size: 30),
+                    child: const Icon(Icons.workspace_premium, color: Colors.orange, size: 30),
                   ),
                 ],
               ),
