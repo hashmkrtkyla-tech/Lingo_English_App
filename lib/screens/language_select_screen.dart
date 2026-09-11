@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../data/language_config.dart';
 import '../widgets/language_card_widget.dart';
-import '../course_screen.dart'; // مؤقتًا: صفحتك الرئيسية الحالية، سنستبدلها لاحقًا بشاشة موحّدة تضم كل التبويبات
+import '../main.dart';
 
 class LanguageSelectScreen extends StatelessWidget {
   const LanguageSelectScreen({super.key});
@@ -41,4 +41,5 @@ class LanguageSelectScreen extends StatelessWidget {
               AppState.currentLanguageCode = lang.code;
               Navigator.pushReplacement(
                 context,
-                MaterialPageRoute(bui
+                
+MaterialPageRoute(builder: (_) => const MainNavigation()),
