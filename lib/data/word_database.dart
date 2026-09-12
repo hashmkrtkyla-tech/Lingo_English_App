@@ -1,11 +1,8 @@
-// ==========================================
-// نموذج الكلمة الواحدة في القاموس
-// ==========================================
 class WordEntry {
-  final String word;         // الكلمة بلغة التعلم
-  final String pronunciation; // النطق الصوتي
-  final String meaning;       // المعنى بالعربي
-  final String level;         // المستوى: A1, A2, B1...
+  final String word;
+  final String pronunciation;
+  final String meaning;
+  final String level;
 
   const WordEntry({
     required this.word,
@@ -15,10 +12,6 @@ class WordEntry {
   });
 }
 
-// ==========================================
-// قاعدة بيانات الكلمات مقسّمة حسب رمز اللغة
-// نموذج أولي بسيط - سيُوسّع لاحقًا باستخدام ملفات Frequency Words الجاهزة عندك
-// ==========================================
 final Map<String, List<WordEntry>> wordDatabaseByLanguage = {
   'en': [
     WordEntry(word: 'Hello', pronunciation: '/həˈloʊ/', meaning: 'مرحبًا', level: 'A1'),
@@ -40,4 +33,31 @@ final Map<String, List<WordEntry>> wordDatabaseByLanguage = {
     WordEntry(word: 'Danke', pronunciation: '/ˈdaŋkə/', meaning: 'شكرًا', level: 'A1'),
   ],
   'it': [
-    WordEntry(word: 'Ciao', pronunciation: '/ˈtʃaːo/', meaning: 'مرحبًا', lev
+    WordEntry(word: 'Ciao', pronunciation: '/tʃaːo/', meaning: 'مرحبًا', level: 'A1'),
+    WordEntry(word: 'Grazie', pronunciation: '/ˈɡrattsje/', meaning: 'شكرًا', level: 'A1'),
+  ],
+  'ja': [
+    WordEntry(word: 'こんにちは', pronunciation: 'Konnichiwa', meaning: 'مرحبًا', level: 'A1'),
+    WordEntry(word: 'ありがとう', pronunciation: 'Arigatou', meaning: 'شكرًا', level: 'A1'),
+  ],
+  'ko': [
+    WordEntry(word: '안녕하세요', pronunciation: 'Annyeonghaseyo', meaning: 'مرحبًا', level: 'A1'),
+    WordEntry(word: '감사합니다', pronunciation: 'Gamsahamnida', meaning: 'شكرًا', level: 'A1'),
+  ],
+  'tr': [
+    WordEntry(word: 'Merhaba', pronunciation: '/mer.haˈba/', meaning: 'مرحبًا', level: 'A1'),
+    WordEntry(word: 'Teşekkürler', pronunciation: '/teʃekˈkyɾ.leɾ/', meaning: 'شكرًا', level: 'A1'),
+  ],
+  'ru': [
+    WordEntry(word: 'Привет', pronunciation: 'Privet', meaning: 'مرحبًا', level: 'A1'),
+    WordEntry(word: 'Спасибо', pronunciation: 'Spasibo', meaning: 'شكرًا', level: 'A1'),
+  ],
+  'pt': [
+    WordEntry(word: 'Olá', pronunciation: '/oˈla/', meaning: 'مرحبًا', level: 'A1'),
+    WordEntry(word: 'Obrigado', pronunciation: '/obɾiˈɡadu/', meaning: 'شكرًا', level: 'A1'),
+  ],
+};
+
+List<WordEntry> getWordsForLanguage(String languageCode) {
+  return wordDatabaseByLanguage[languageCode] ?? [];
+}
