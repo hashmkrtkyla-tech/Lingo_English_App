@@ -29,11 +29,8 @@ class _AuthScreenState extends State<AuthScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            // زر جوجل - سيُربط لاحقًا بخدمة حقيقية في services/auth_service.dart
             OutlinedButton.icon(
-              onPressed: () {
-                // TODO: ربط Google Sign-In عبر auth_service.dart
-              },
+              onPressed: () {},
               icon: const Icon(Icons.g_mobiledata_rounded, size: 28),
               label: const Text('المتابعة عبر جوجل'),
               style: OutlinedButton.styleFrom(padding: const EdgeInsets.symmetric(vertical: 14)),
@@ -60,10 +57,29 @@ class _AuthScreenState extends State<AuthScreen> {
             ),
             const SizedBox(height: 24),
             ElevatedButton(
-              onPressed: _submit,
+              onPressed: () => _submit(),
               style: ElevatedButton.styleFrom(
                 backgroundColor: const Color(0xFF58CC02),
                 foregroundColor: Colors.white,
                 padding: const EdgeInsets.symmetric(vertical: 16),
               ),
               child: Text(isLogin ? 'دخول' : 'إنشاء حساب'),
+            ),
+            const SizedBox(height: 12),
+            TextButton(
+              onPressed: () => setState(() => isLogin = !isLogin),
+              child: Text(isLogin ? 'ليس لدي حساب؟ إنشاء حساب' : 'لدي حساب بالفعل؟ دخول'),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  void _submit() {
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (_) => const LanguageSelectScreen()),
+    );
+  }
+}
