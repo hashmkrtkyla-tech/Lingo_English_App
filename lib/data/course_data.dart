@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 
-// ==========================================
-// نماذج البيانات لمسار الدورة (الوحدات والدروس)
-// ==========================================
-
 enum NodeType { lesson, checkpoint, chest }
 enum NodeState { completed, active, locked }
 
@@ -35,10 +31,6 @@ class UnitData {
   });
 }
 
-// ==========================================
-// قاعدة بيانات الوحدات مقسّمة حسب رمز اللغة
-// أضف لغة جديدة أو وحدة جديدة بإضافة سطر هنا فقط
-// ==========================================
 final Map<String, List<UnitData>> courseDataByLanguage = {
   'en': [_starterUnit('Greetings & Introductions', const Color(0xFF58CC02), 'Say Hello', 'Introduce Yourself')],
   'es': [_starterUnit('Saludos y Presentaciones', const Color(0xFFFF6B6B), 'Decir Hola', 'Preséntate')],
@@ -52,5 +44,14 @@ final Map<String, List<UnitData>> courseDataByLanguage = {
   'pt': [_starterUnit('Saudações e Apresentações', const Color(0xFF00CEC9), 'Dizer Olá', 'Apresentar-se')],
 };
 
-// دالة مساعدة لبناء وحدة تجريبية موحّدة الشكل لأي لغة بسرعة
-UnitData _starterUn
+UnitData _starterUnit(String subtitle, Color color, String lesson1, String lesson2) {
+  return UnitData(
+    title: 'الوحدة 1',
+    subtitle: subtitle,
+    color: color,
+    nodes: [
+      PathNode(title: lesson1, icon: Icons.waving_hand_rounded, state: NodeState.active),
+      PathNode(title: lesson2, icon: Icons.person_rounded, state: NodeState.locked),
+    ],
+  );
+}
