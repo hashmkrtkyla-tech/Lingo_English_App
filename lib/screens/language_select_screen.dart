@@ -41,5 +41,12 @@ class LanguageSelectScreen extends StatelessWidget {
               AppState.currentLanguageCode = lang.code;
               Navigator.pushReplacement(
                 context,
-                
-MaterialPageRoute(builder: (_) => const MainNavigation()),
+                MaterialPageRoute(builder: (_) => const MainNavigation()),
+              );
+            },
+          );
+        },
+      ),
+    );
+  }
+}
