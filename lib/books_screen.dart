@@ -1,8 +1,9 @@
-import 'dart:convert';
+import 'dart0:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'models/book_model.dart';
 import 'widgets/book_card.dart';
+import 'screens/book_detail_screen.dart'; // تم إضافة استيراد شاشة التفاصيل هنا
 
 class BooksScreen extends StatefulWidget {
   const BooksScreen({Key? key}) : super(key: key);
@@ -101,7 +102,13 @@ class _BooksScreenState extends State<BooksScreen> {
                               return BookCard(
                                 book: book,
                                 onTap: () {
-                                  // TODO: Navigate to Book Details Screen
+                                  // تم الربط للانتقال إلى شاشة التفاصيل هنا
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                      builder: (context) => BookDetailScreen(book: book),
+                                    ),
+                                  );
                                 },
                               );
                             },
