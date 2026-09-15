@@ -1,0 +1,29 @@
+[
+  {
+    "id": "book_01",
+    "title": "Love and Money",
+    "author": "O. Henry",
+    "level": "A1",
+    "cover_image": "https://via.placeholder.com/150",
+    "is_premium": true,
+    "has_audio": true
+  },
+  {
+    "id": "book_02",
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "level": "A2",
+    "cover_image": "https://via.placeholder.com/150",
+    "is_premium": true,
+    "has_audio": true
+  },
+  {
+    "id": "book_03",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "level": "B1",
+    "cover_image": "https://via.placeholder.com/150",
+    "is_premium": false,
+    "has_audio": true
+  }
+]
