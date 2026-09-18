@@ -1,0 +1,14 @@
+{
+  "id": "b1_the_killers",
+  "title": "The Killers",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/The_Killers-Ernest_Hemingway.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Two men walked into Henry's diner just before dinner time.",
+      "translation": "دخل رجلان إلى مطعم هنري قبل وقت العشاء مباشرة."
+    }
+  ]
+}
