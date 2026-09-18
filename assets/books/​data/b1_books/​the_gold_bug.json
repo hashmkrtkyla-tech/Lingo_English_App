@@ -1,0 +1,14 @@
+{
+  "id": "b1_the_gold_bug",
+  "title": "The Gold Bug",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/The_GoldBug-Edgar_Allan_Poe.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "William Legrand found a mysterious beetle made of pure gold.",
+      "translation": "وجد ويليام ليجراند خنفساء غامضة مصنوعة من الذهب الخالص."
+    }
+  ]
+}
