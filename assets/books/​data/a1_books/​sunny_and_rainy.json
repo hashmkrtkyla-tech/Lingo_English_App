@@ -1,0 +1,14 @@
+{
+  "id": "a1_sunny_and_rainy",
+  "title": "Sunny and Rainy",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Sunny_and_Rainy-Louise_Spilsbury.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Weather changes from sunny days to rainy days.",
+      "translation": "يتغير الطقس من أيام مشمسة إلى أيام ممطرة."
+    }
+  ]
+}
