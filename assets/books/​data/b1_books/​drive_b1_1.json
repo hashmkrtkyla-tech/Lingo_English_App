@@ -1,0 +1,14 @@
+{
+  "id": "b1_drive_1",
+  "title": "B1 Audio Story 1",
+  "level": "B1",
+  "audio_url": "https://drive.google.com/uc?export=download&id=1-nkvdgK0C3QbZNfSMlvz_Tooh4o29Wn_",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Listening to intermediate audiobooks expands your vocabulary rapidly.",
+      "translation": "الاستماع إلى الكتب الصوتية للمستوى المتوسط يوسع مفرداتك بسرعة."
+    }
+  ]
+}
