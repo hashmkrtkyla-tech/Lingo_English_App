@@ -1,0 +1,14 @@
+{
+  "id": "b1_the_stars",
+  "title": "The Stars",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/The_Stars-Alphonse_Daudet.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The shepherd looked up at the night sky full of shining stars.",
+      "translation": "نظر الراعي إلى السماء الليلية المليئة بالنجوم الساطعة."
+    }
+  ]
+}
