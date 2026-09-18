@@ -1,0 +1,14 @@
+{
+  "id": "b2_bloody_legacy",
+  "title": "Bloody Legacy",
+  "level": "B2",
+  "audio_url": "assets/books/audio/b2_books/Bloody Legacy - Chapter 05....mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The secrets of the past were bound to be uncovered sooner or later.",
+      "translation": "كان لا بد لأسرار الماضي أن تُكشف عاجلاً أم أجلاً."
+    }
+  ]
+}
