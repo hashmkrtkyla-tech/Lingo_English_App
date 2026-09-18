@@ -1,0 +1,14 @@
+{
+  "id": "a1_give_us_the_money",
+  "title": "Give Us the Money",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Give_Us_the_Money-Clarke.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Two men demanded the bag immediately.",
+      "translation": "طالب رجلان بالحقيبة فوراً."
+    }
+  ]
+}
