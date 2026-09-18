@@ -1,0 +1,14 @@
+{
+  "id": "a1_all_about_ocean_life",
+  "title": "All About Ocean Life",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/All_About_Ocean_Life-Rachel_Bladon.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Many animals live in the blue ocean.",
+      "translation": "تعيش العديد من الحيوانات في المحيط الأزرق."
+    }
+  ]
+}
