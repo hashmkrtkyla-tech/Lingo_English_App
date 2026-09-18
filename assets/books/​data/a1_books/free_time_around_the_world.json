@@ -1,0 +1,14 @@
+{
+  "id": "a1_free_time_around_the_world",
+  "title": "Free Time Around the World",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Free_Time_Around_the_World.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "People enjoy doing different activities in their free time.",
+      "translation": "يستمتع الناس بالقيام بأنشطة مختلفة في أوقات فراغهم."
+    }
+  ]
+}
