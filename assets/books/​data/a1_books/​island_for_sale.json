@@ -1,0 +1,14 @@
+{
+  "id": "a1_island_for_sale",
+  "title": "Island for Sale",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Island_for_Sale-Anne_Collins.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Duncan wanted to buy a beautiful small island.",
+      "translation": "أراد دنكان شراء جزيرة صغيرة جميلة."
+    }
+  ]
+}
