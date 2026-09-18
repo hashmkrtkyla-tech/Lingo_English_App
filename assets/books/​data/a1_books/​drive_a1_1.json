@@ -1,0 +1,14 @@
+{
+  "id": "a1_drive_1",
+  "title": "A1 Starter Story 1",
+  "level": "A1",
+  "audio_url": "https://drive.google.com/uc?export=download&id=15q8wuA2QFkywmCO45bG7BOeR9pt4S8_l",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Welcome to your first English audiobook.",
+      "translation": "مرحباً بك في كتابك الصوتي الأول باللغة الإنجليزية."
+    }
+  ]
+}
