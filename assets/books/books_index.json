@@ -22,5 +22,65 @@
     "title": "The Woman in White",
     "level": "C1",
     "data_path": "assets/books/data/c1_books/the_woman_in_white.json"
+  },
+  {
+    "id": "b2_bloody_legacy",
+    "title": "Bloody Legacy",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/bloody_legacy.json"
+  },
+  {
+    "id": "b2_breaking_the_chain",
+    "title": "Breaking the Chain",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/breaking_the_chain.json"
+  },
+  {
+    "id": "b2_happy_new_year",
+    "title": "Happy New Year",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/happy_new_year.json"
+  },
+  {
+    "id": "b2_the_abc_murders",
+    "title": "The ABC Murders",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/the_abc_murders.json"
+  },
+  {
+    "id": "b2_this_rough_magic",
+    "title": "This Rough Magic - Part 1",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/this_rough_magic.json"
+  },
+  {
+    "id": "b2_this_rough_magic_ch2",
+    "title": "This Rough Magic - Part 2",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/this_rough_magic_ch2.json"
+  },
+  {
+    "id": "b2_drive_book_1",
+    "title": "B2 Advanced Audio Book 1",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/drive_b2_1.json"
+  },
+  {
+    "id": "b2_drive_book_2",
+    "title": "B2 Advanced Audio Book 2",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/drive_b2_2.json"
+  },
+  {
+    "id": "b2_drive_book_3",
+    "title": "B2 Advanced Audio Book 3",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/drive_b2_3.json"
+  },
+  {
+    "id": "b2_drive_book_4",
+    "title": "B2 Advanced Audio Book 4",
+    "level": "B2",
+    "data_path": "assets/books/data/b2_books/drive_b2_4.json"
   }
 ]
