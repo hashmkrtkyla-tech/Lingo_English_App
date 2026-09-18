@@ -1,0 +1,14 @@
+{
+  "id": "a1_jobs",
+  "title": "Jobs",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Jobs-Kamini_Khanduri.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "There are many different jobs people can do.",
+      "translation": "هناك العديد من الوظائف المختلفة التي يمكن للناس القيام بها."
+    }
+  ]
+}
