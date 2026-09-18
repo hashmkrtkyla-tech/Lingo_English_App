@@ -1,0 +1,14 @@
+{
+  "id": "a1_in_the_mountains",
+  "title": "In the Mountains",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/In_the_mountains-Richard_Northcott.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The mountain air is cold and fresh.",
+      "translation": "هواء الجبل بارد ومنعش."
+    }
+  ]
+}
