@@ -1,0 +1,14 @@
+{
+  "id": "a1_george_sees_stars",
+  "title": "George Sees Stars",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/George_Sees_Stars-Dave_Cousins.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "George looked up at the bright night sky.",
+      "translation": "نظر جورج إلى السماء الليلية المضيئة."
+    }
+  ]
+}
