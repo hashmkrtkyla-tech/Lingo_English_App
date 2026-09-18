@@ -1,0 +1,14 @@
+{
+  "id": "a1_electricity",
+  "title": "Electricity",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Electricity-Louise_Spilsbury.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Electricity gives power to lights and appliances.",
+      "translation": "الكهرباء تعطي الطاقة للأضواء والأجهزة."
+    }
+  ]
+}
