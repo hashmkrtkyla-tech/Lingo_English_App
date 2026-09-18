@@ -82,5 +82,125 @@
     "title": "B2 Advanced Audio Book 4",
     "level": "B2",
     "data_path": "assets/books/data/b2_books/drive_b2_4.json"
+  },
+  {
+    "id": "b1_a_white_heron",
+    "title": "A White Heron",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/a_white_heron.json"
+  },
+  {
+    "id": "b1_monkey_party",
+    "title": "Monkey Party",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/monkey_party.json"
+  },
+  {
+    "id": "b1_the_blind_man",
+    "title": "The Blind Man",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_blind_man.json"
+  },
+  {
+    "id": "b1_the_count_and_the_wedding",
+    "title": "The Count and the Wedding Guest",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_count_and_the_wedding.json"
+  },
+  {
+    "id": "b1_the_dream",
+    "title": "The Dream",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_dream.json"
+  },
+  {
+    "id": "b1_the_gold_bug",
+    "title": "The Gold Bug",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_gold_bug.json"
+  },
+  {
+    "id": "b1_the_killers",
+    "title": "The Killers",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_killers.json"
+  },
+  {
+    "id": "b1_the_stars",
+    "title": "The Stars",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_stars.json"
+  },
+  {
+    "id": "b1_the_stolen_letter",
+    "title": "The Stolen Letter",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_stolen_letter.json"
+  },
+  {
+    "id": "b1_the_things_we_do_for_love",
+    "title": "The Things We Do for Love",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/the_things_we_do_for_love.json"
+  },
+  {
+    "id": "b1_thinking_yourself_rich",
+    "title": "Thinking Yourself Rich",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/thinking_yourself_rich.json"
+  },
+  {
+    "id": "b1_drive_1",
+    "title": "B1 Audio Story 1",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_1.json"
+  },
+  {
+    "id": "b1_drive_2",
+    "title": "B1 Audio Story 2",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_2.json"
+  },
+  {
+    "id": "b1_drive_3",
+    "title": "B1 Audio Story 3",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_3.json"
+  },
+  {
+    "id": "b1_drive_4",
+    "title": "B1 Audio Story 4",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_4.json"
+  },
+  {
+    "id": "b1_drive_5",
+    "title": "B1 Audio Story 5",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_5.json"
+  },
+  {
+    "id": "b1_drive_6",
+    "title": "B1 Audio Story 6",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_6.json"
+  },
+  {
+    "id": "b1_drive_7",
+    "title": "B1 Audio Story 7",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_7.json"
+  },
+  {
+    "id": "b1_drive_8",
+    "title": "B1 Audio Story 8",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_8.json"
+  },
+  {
+    "id": "b1_drive_9",
+    "title": "B1 Audio Story 9",
+    "level": "B1",
+    "data_path": "assets/books/data/b1_books/drive_b1_9.json"
   }
 ]
