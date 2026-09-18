@@ -1,0 +1,14 @@
+{
+  "id": "a1_the_girl_with_green_eyes",
+  "title": "The Girl with Green Eyes",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/The_Girl_with_Green_Eyes.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Greg saw a mysterious girl on the train.",
+      "translation": "رأى غريغ فتاة غامضة في القطار."
+    }
+  ]
+}
