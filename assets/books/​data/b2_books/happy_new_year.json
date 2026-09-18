@@ -1,0 +1,14 @@
+{
+  "id": "b2_happy_new_year",
+  "title": "Happy New Year",
+  "level": "B2",
+  "audio_url": "assets/books/audio/b2_books/Happy_New_Year-Kathy_Bur....mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "New Year celebrations always bring new hope and unexpected surprises.",
+      "translation": "احتفالات رأس السنة تجلب دائماً أملاً جديداً ومفاجآت غير متوقعة."
+    }
+  ]
+}
