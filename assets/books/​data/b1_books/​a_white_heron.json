@@ -1,0 +1,14 @@
+{
+  "id": "b1_a_white_heron",
+  "title": "A White Heron",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/A_White_Heron-Sarah_Orne_Jewett.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Sylvia lived in a small house near the woods.",
+      "translation": "عاشت سيلفيا في منزل صغير بالقرب من الغابة."
+    }
+  ]
+}
