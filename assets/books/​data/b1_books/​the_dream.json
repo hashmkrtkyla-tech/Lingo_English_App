@@ -1,0 +1,14 @@
+{
+  "id": "b1_the_dream",
+  "title": "The Dream",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/The_Dream-Frank_Tilsley.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "He woke up suddenly after having a strange dream.",
+      "translation": "استيقظ فجأة بعد أن رأى حلمًا غريبًا."
+    }
+  ]
+}
