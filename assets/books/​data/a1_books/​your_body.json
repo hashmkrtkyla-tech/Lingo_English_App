@@ -1,0 +1,14 @@
+{
+  "id": "a1_your_body",
+  "title": "Your Body",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Your_Body-Louise_Spilsbury.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The human body is an amazing living system.",
+      "translation": "جسم الإنسان نظام حي مذهل."
+    }
+  ]
+}
