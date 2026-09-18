@@ -322,5 +322,77 @@
     "title": "A1 Starter Story 5",
     "level": "A1",
     "data_path": "assets/books/data/a1_books/drive_a1_5.json"
+  },
+  {
+    "id": "a2_drive_1",
+    "title": "A2 Elementary Story 1",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_1.json"
+  },
+  {
+    "id": "a2_drive_2",
+    "title": "A2 Elementary Story 2",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_2.json"
+  },
+  {
+    "id": "a2_drive_3",
+    "title": "A2 Elementary Story 3",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_3.json"
+  },
+  {
+    "id": "a2_drive_4",
+    "title": "A2 Elementary Story 4",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_4.json"
+  },
+  {
+    "id": "a2_drive_5",
+    "title": "A2 Elementary Story 5",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_5.json"
+  },
+  {
+    "id": "a2_drive_6",
+    "title": "A2 Elementary Story 6",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_6.json"
+  },
+  {
+    "id": "a2_drive_7",
+    "title": "A2 Elementary Story 7",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_7.json"
+  },
+  {
+    "id": "a2_drive_8",
+    "title": "A2 Elementary Story 8",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_8.json"
+  },
+  {
+    "id": "a2_drive_9",
+    "title": "A2 Elementary Story 9",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_9.json"
+  },
+  {
+    "id": "a2_drive_10",
+    "title": "A2 Elementary Story 10",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_10.json"
+  },
+  {
+    "id": "a2_drive_11",
+    "title": "A2 Elementary Story 11",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_11.json"
+  },
+  {
+    "id": "a2_drive_12",
+    "title": "A2 Elementary Story 12",
+    "level": "A2",
+    "data_path": "assets/books/data/a2_books/drive_a2_12.json"
   }
 ]
