@@ -1,29 +1,26 @@
 [
   {
-    "id": "book_01",
-    "title": "Love and Money",
-    "author": "O. Henry",
-    "level": "A1",
-    "cover_image": "https://via.placeholder.com/150",
-    "is_premium": true,
-    "has_audio": true
+    "id": "c1_age_of_dragons",
+    "title": "Age of Dragons",
+    "level": "C1",
+    "data_path": "assets/books/data/c1_books/age_of_dragons.json"
   },
   {
-    "id": "book_02",
-    "title": "The Adventures of Tom Sawyer",
-    "author": "Mark Twain",
-    "level": "A2",
-    "cover_image": "https://via.placeholder.com/150",
-    "is_premium": true,
-    "has_audio": true
+    "id": "c1_double_helix",
+    "title": "Double Helix",
+    "level": "C1",
+    "data_path": "assets/books/data/c1_books/double_helix.json"
   },
   {
-    "id": "book_03",
-    "title": "Romeo and Juliet",
-    "author": "William Shakespeare",
-    "level": "B1",
-    "cover_image": "https://via.placeholder.com/150",
-    "is_premium": false,
-    "has_audio": true
+    "id": "c1_the_portobello_road",
+    "title": "The Portobello Road",
+    "level": "C1",
+    "data_path": "assets/books/data/c1_books/the_portobello_road.json"
+  },
+  {
+    "id": "c1_the_woman_in_white",
+    "title": "The Woman in White",
+    "level": "C1",
+    "data_path": "assets/books/data/c1_books/the_woman_in_white.json"
   }
 ]
