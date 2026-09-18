@@ -1,0 +1,14 @@
+{
+  "id": "b2_this_rough_magic",
+  "title": "This Rough Magic",
+  "level": "B2",
+  "audio_url": "assets/books/audio/b2_books/This Rough Magic - Chapter ....mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The island was full of mysterious beauty and hidden dangers.",
+      "translation": "كانت الجزيرة مليئة بالجمال الغامض والمخاطر الخفية."
+    }
+  ]
+}
