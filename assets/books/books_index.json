@@ -202,5 +202,125 @@
     "title": "B1 Audio Story 9",
     "level": "B1",
     "data_path": "assets/books/data/b1_books/drive_b1_9.json"
+  },
+  {
+    "id": "a1_all_about_ocean_life",
+    "title": "All About Ocean Life",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/all_about_ocean_life.json"
+  },
+  {
+    "id": "a1_electricity",
+    "title": "Electricity",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/electricity.json"
+  },
+  {
+    "id": "a1_free_time_around_the_world",
+    "title": "Free Time Around the World",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/free_time_around_the_world.json"
+  },
+  {
+    "id": "a1_george_sees_stars",
+    "title": "George Sees Stars",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/george_sees_stars.json"
+  },
+  {
+    "id": "a1_give_us_the_money",
+    "title": "Give Us the Money",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/give_us_the_money.json"
+  },
+  {
+    "id": "a1_in_the_mountains",
+    "title": "In the Mountains",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/in_the_mountains.json"
+  },
+  {
+    "id": "a1_island_for_sale",
+    "title": "Island for Sale",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/island_for_sale.json"
+  },
+  {
+    "id": "a1_jobs",
+    "title": "Jobs",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/jobs.json"
+  },
+  {
+    "id": "a1_plastic",
+    "title": "Plastic",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/plastic.json"
+  },
+  {
+    "id": "a1_six_sketches",
+    "title": "Six Sketches",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/six_sketches.json"
+  },
+  {
+    "id": "a1_sunny_and_rainy",
+    "title": "Sunny and Rainy",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/sunny_and_rainy.json"
+  },
+  {
+    "id": "a1_super_structures",
+    "title": "Super Structures",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/super_structures.json"
+  },
+  {
+    "id": "a1_the_girl_with_green_eyes",
+    "title": "The Girl with Green Eyes",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/the_girl_with_green_eyes.json"
+  },
+  {
+    "id": "a1_tinkers_farm",
+    "title": "Tinkers Farm",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/tinkers_farm.json"
+  },
+  {
+    "id": "a1_your_body",
+    "title": "Your Body",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/your_body.json"
+  },
+  {
+    "id": "a1_drive_1",
+    "title": "A1 Starter Story 1",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/drive_a1_1.json"
+  },
+  {
+    "id": "a1_drive_2",
+    "title": "A1 Starter Story 2",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/drive_a1_2.json"
+  },
+  {
+    "id": "a1_drive_3",
+    "title": "A1 Starter Story 3",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/drive_a1_3.json"
+  },
+  {
+    "id": "a1_drive_4",
+    "title": "A1 Starter Story 4",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/drive_a1_4.json"
+  },
+  {
+    "id": "a1_drive_5",
+    "title": "A1 Starter Story 5",
+    "level": "A1",
+    "data_path": "assets/books/data/a1_books/drive_a1_5.json"
   }
 ]
