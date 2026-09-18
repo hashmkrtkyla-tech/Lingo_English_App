@@ -1,0 +1,14 @@
+{
+  "id": "b1_monkey_party",
+  "title": "Monkey Party",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/Monkey_Party-John_Bookwork.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "The monkeys gathered in the jungle for a big celebration.",
+      "translation": "تجمعت القردة في الغابة لحفل كبير."
+    }
+  ]
+}
