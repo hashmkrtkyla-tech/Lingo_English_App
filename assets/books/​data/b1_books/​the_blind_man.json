@@ -1,0 +1,14 @@
+{
+  "id": "b1_the_blind_man",
+  "title": "The Blind Man",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/The_Blind_Man-D_H_Lawrence.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Maurice lost his sight in the war, but his mind remained sharp.",
+      "translation": "فقد موريس بصره في الحرب، لكن عقله ظل حاداً."
+    }
+  ]
+}
