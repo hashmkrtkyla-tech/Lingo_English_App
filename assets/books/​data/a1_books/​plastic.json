@@ -1,0 +1,14 @@
+{
+  "id": "a1_plastic",
+  "title": "Plastic",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Plastic-Louise_Spilsbury.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Plastic is used to make many everyday items.",
+      "translation": "يُستخدم البلاستيك لصنع العديد من الأشياء اليومية."
+    }
+  ]
+}
