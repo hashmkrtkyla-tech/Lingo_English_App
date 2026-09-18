@@ -1,0 +1,14 @@
+{
+  "id": "b1_the_stolen_letter",
+  "title": "The Stolen Letter",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/The_Stolen_Letter-Edgar_Allan_Poe.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "An important letter was stolen from the royal apartments.",
+      "translation": "سُرقت رسالة هامة من الشقق الملكية."
+    }
+  ]
+}
