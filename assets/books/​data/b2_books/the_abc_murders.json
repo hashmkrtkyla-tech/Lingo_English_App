@@ -1,0 +1,14 @@
+{
+  "id": "b2_the_abc_murders",
+  "title": "The ABC Murders",
+  "level": "B2",
+  "audio_url": "assets/books/audio/b2_books/The Abc Murders - Chapter 0....mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Hercule Poirot faced one of the most intriguing cases of his entire career.",
+      "translation": "واجه هيركول بوارو واحدة من أكثر القضايا إثارة للاهتمام في مسيرته بأكملها."
+    }
+  ]
+}
