@@ -1,0 +1,14 @@
+{
+  "id": "a1_tinkers_farm",
+  "title": "Tinkers Farm",
+  "level": "A1",
+  "audio_url": "assets/books/audio/a1_books/Tinkers_Farm-Rabley_Stephe.mp3",
+  "sentences": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Life on Tinkers Farm is peaceful and hard working.",
+      "translation": "الحياة في مزرعة تينكرز هادئة وتتطلب عملاً جاداً."
+    }
+  ]
+}
