@@ -1,6 +1,5 @@
-
-name: Lingo
-description: "The Lingo interactive app for learning English"
+name: brilliant
+description: "Brilliant interactive app for learning English"
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -12,6 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  google_fonts: ^6.1.0
+  url_launcher: ^6.2.1
 
 dev_dependencies:
   flutter_test:
