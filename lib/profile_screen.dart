@@ -2,7 +2,8 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../utils/app_colors.dart';
-import 'settings_screen.dart';
+import 'screens/settings_screen.dart';
+import 'screens/auth_screen.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -20,7 +21,6 @@ class _ProfileScreenState extends State<ProfileScreen> {
   @override
   void initState() {
     super.initState();
-    // تغيير النص أسفل الشاشة بشكل دوري
     _timer = Timer.periodic(const Duration(seconds: 3), (timer) {
       if (mounted) {
         setState(() {
@@ -37,7 +37,6 @@ class _ProfileScreenState extends State<ProfileScreen> {
     super.dispose();
   }
 
-  // دالة لتعديل الاسم
   void _showEditNameDialog() {
     TextEditingController controller = TextEditingController(text: _userName);
     bool isChanged = false;
@@ -99,6 +98,15 @@ class _ProfileScreenState extends State<ProfileScreen> {
     );
   }
 
+  void _shareApp() {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text("تم نسخ رابط الدعوة!", style: GoogleFonts.cairo()),
+        backgroundColor: AppColors.sage,
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -108,7 +116,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         elevation: 0,
         title: Row(
           children: [
-            Text("ENGO", style: GoogleFonts.cairo(color: AppColors.lilac, fontWeight: FontWeight.bold, fontSize: 22)),
+            Text("Brilliant", style: GoogleFonts.cairo(color: AppColors.lilac, fontWeight: FontWeight.bold, fontSize: 22)),
             const SizedBox(width: 10),
             Text("الملف الشخصي", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold, fontSize: 20)),
           ],
@@ -126,15 +134,12 @@ class _ProfileScreenState extends State<ProfileScreen> {
         padding: const EdgeInsets.symmetric(horizontal: 16),
         child: Column(
           children: [
-            // صورة البروفايل والاسم
             GestureDetector(
-              onTap: () {
-                // هنا كود اختيار الصورة الرمزية
-              },
+              onTap: () {},
               child: const CircleAvatar(
                 radius: 45,
                 backgroundColor: AppColors.white,
-                child: Icon(Icons.person, size: 50, color: AppColors.lilac), // استبدلها بـ Image.asset
+                child: Icon(Icons.person, size: 50, color: AppColors.lilac),
               ),
             ),
             const SizedBox(height: 10),
@@ -151,7 +156,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
             ),
             const SizedBox(height: 15),
 
-            // بطاقة المستوى والماس (أصغر قليلاً)
+            // بطاقة المستوى والماس
             Container(
               padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 20),
               decoration: BoxDecoration(
@@ -170,32 +175,31 @@ class _ProfileScreenState extends State<ProfileScreen> {
             ),
             const SizedBox(height: 15),
 
-            // زر إنشاء حساب (تم وضعه بشكل أنيق)
-            Row(
-              children: [
-                Expanded(
-                  child: Container(
-                    padding: const EdgeInsets.all(12),
-                    decoration: BoxDecoration(
-                      color: AppColors.white,
-                      borderRadius: BorderRadius.circular(15),
-                    ),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            // زر إنشاء حساب (مرتبط بـ AuthScreen)
+            GestureDetector(
+              onTap: () {
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const AuthScreen()));
+              },
+              child: Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppColors.white,
+                  borderRadius: BorderRadius.circular(15),
+                ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text("إنشاء حساب", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold)),
-                            Text("احفظ تقدمك", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
-                          ],
-                        ),
-                        const Icon(Icons.arrow_forward_ios, size: 16, color: AppColors.textGrey),
+                        Text("إنشاء حساب", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold)),
+                        Text("احفظ تقدمك", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
                       ],
                     ),
-                  ),
+                    const Icon(Icons.arrow_forward_ios, size: 16, color: AppColors.textGrey),
+                  ],
                 ),
-              ],
+              ),
             ),
             const SizedBox(height: 15),
 
@@ -226,7 +230,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
             ),
             const SizedBox(height: 15),
 
-            // السلسلة اليومية (تصميم أصغر وأكثر ترتيباً)
+            // السلسلة اليومية
             Container(
               padding: const EdgeInsets.all(15),
               decoration: BoxDecoration(
@@ -268,30 +272,33 @@ class _ProfileScreenState extends State<ProfileScreen> {
             const SizedBox(height: 15),
 
             // دعوة الأصدقاء
-            Container(
-              padding: const EdgeInsets.all(15),
-              decoration: BoxDecoration(
-                color: AppColors.white,
-                borderRadius: BorderRadius.circular(20),
-                border: Border.all(color: AppColors.sage, width: 2),
-              ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Row(
-                    children: [
-                      const Icon(Icons.share, color: AppColors.sage),
-                      const SizedBox(width: 10),
-                      Text("دعوة أصدقاء", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold)),
-                    ],
-                  ),
-                  Text("شارك الرابط", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
-                ],
+            GestureDetector(
+              onTap: _shareApp,
+              child: Container(
+                padding: const EdgeInsets.all(15),
+                decoration: BoxDecoration(
+                  color: AppColors.white,
+                  borderRadius: BorderRadius.circular(20),
+                  border: Border.all(color: AppColors.sage, width: 2),
+                ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Row(
+                      children: [
+                        const Icon(Icons.share, color: AppColors.sage),
+                        const SizedBox(width: 10),
+                        Text("دعوة أصدقاء", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold)),
+                      ],
+                    ),
+                    Text("شارك الرابط", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
+                  ],
+                ),
               ),
             ),
             const SizedBox(height: 15),
 
-            // لوحة الصدارة (المتصدرين)
+            // لوحة الصدارة
             Container(
               padding: const EdgeInsets.all(15),
               decoration: BoxDecoration(
@@ -300,10 +307,9 @@ class _ProfileScreenState extends State<ProfileScreen> {
               ),
               child: Column(
                 children: [
-                  Text("لوحة صدارة ENGO", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold, fontSize: 16)),
+                  Text("لوحة صدارة Brilliant", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold, fontSize: 16)),
                   Text("تعلم وتدرب لتتقدم وتتفوق على الآخرين", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
                   const SizedBox(height: 10),
-                  // هنا يتم استدعاء قائمة المتصدرين (1-10)
                   _buildLeaderboardItem("1", "Felix", "1", "2", "162"),
                   _buildLeaderboardItem("2", "Yasmin", "1", "2", "148"),
                   _buildLeaderboardItem("3", "Yasmin", "1", "1", "115"),
