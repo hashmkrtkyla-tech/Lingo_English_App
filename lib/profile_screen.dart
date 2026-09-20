@@ -1,538 +1,380 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import '../utils/app_colors.dart';
+import 'settings_screen.dart';
 
-// ==========================================
-// 1. شاشة الملف الشخصي (Profile Screen)
-// ==========================================
-class ProfileScreen extends StatelessWidget {
+class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
+
+  @override
+  State<ProfileScreen> createState() => _ProfileScreenState();
+}
+
+class _ProfileScreenState extends State<ProfileScreen> {
+  String _bannerText = "احصل على حساب PRO";
+  String _userName = "My Name Hashem";
+  late Timer _timer;
+  bool _isBannerPro = true;
+
+  @override
+  void initState() {
+    super.initState();
+    // تغيير النص أسفل الشاشة بشكل دوري
+    _timer = Timer.periodic(const Duration(seconds: 3), (timer) {
+      if (mounted) {
+        setState(() {
+          _isBannerPro = !_isBannerPro;
+          _bannerText = _isBannerPro ? "احصل على حساب PRO" : "تعلم الإنجليزية بشكل أسرع";
+        });
+      }
+    });
+  }
+
+  @override
+  void dispose() {
+    _timer.cancel();
+    super.dispose();
+  }
+
+  // دالة لتعديل الاسم
+  void _showEditNameDialog() {
+    TextEditingController controller = TextEditingController(text: _userName);
+    bool isChanged = false;
+
+    showDialog(
+      context: context,
+      builder: (context) {
+        return StatefulBuilder(
+          builder: (context, setStateDialog) {
+            return AlertDialog(
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+              title: Text("الاسم", style: GoogleFonts.cairo(fontWeight: FontWeight.bold)),
+              content: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text("أدخل اسمك الأول", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 13)),
+                  const SizedBox(height: 10),
+                  TextField(
+                    controller: controller,
+                    onChanged: (value) {
+                      setStateDialog(() {
+                        isChanged = value != _userName;
+                      });
+                    },
+                    decoration: InputDecoration(
+                      filled: true,
+                      fillColor: AppColors.babyBlue,
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(15),
+                        borderSide: BorderSide.none,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              actions: [
+                TextButton(
+                  onPressed: () => Navigator.pop(context),
+                  child: Text("إلغاء", style: GoogleFonts.cairo(color: AppColors.navy)),
+                ),
+                ElevatedButton(
+                  onPressed: isChanged ? () {
+                    setState(() {
+                      _userName = controller.text;
+                    });
+                    Navigator.pop(context);
+                  } : null,
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: isChanged ? AppColors.lilac : AppColors.babyBlue,
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
+                  ),
+                  child: Text("حفظ", style: GoogleFonts.cairo(color: isChanged ? Colors.white : AppColors.navy)),
+                ),
+              ],
+            );
+          },
+        );
+      },
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFFF6F7FB),
+      backgroundColor: AppColors.babyBlue,
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: AppColors.babyBlue,
         elevation: 0,
         title: Row(
           children: [
-            const Text(
-              'الملف الشخصي ',
-              style: TextStyle(
-                color: Colors.black,
-                fontSize: 22,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-            Text(
-              'ENGO',
-              style: TextStyle(
-                color: Colors.purple.shade700,
-                fontSize: 22,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
+            Text("ENGO", style: GoogleFonts.cairo(color: AppColors.lilac, fontWeight: FontWeight.bold, fontSize: 22)),
+            const SizedBox(width: 10),
+            Text("الملف الشخصي", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold, fontSize: 20)),
           ],
         ),
         actions: [
-          Container(
-            margin: const EdgeInsets.symmetric(horizontal: 16),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(12),
-              border: Border.all(color: Colors.grey.shade200),
-            ),
-            child: IconButton(
-              icon: const Icon(Icons.settings_outlined, color: Colors.redAccent),
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => const Directionality(
-                      textDirection: TextDirection.rtl,
-                      child: SettingsScreen(),
-                    ),
-                  ),
-                );
-              },
-            ),
+          IconButton(
+            icon: const Icon(Icons.settings, color: AppColors.navy, size: 28),
+            onPressed: () {
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const SettingsScreen()));
+            },
           ),
         ],
       ),
       body: SingleChildScrollView(
-        padding: const EdgeInsets.only(left: 16, right: 16, top: 10, bottom: 100),
+        padding: const EdgeInsets.symmetric(horizontal: 16),
         child: Column(
           children: [
-            // صورة الملف الشخصي والاسم
-            const Center(
-              child: CircleAvatar(
+            // صورة البروفايل والاسم
+            GestureDetector(
+              onTap: () {
+                // هنا كود اختيار الصورة الرمزية
+              },
+              child: const CircleAvatar(
                 radius: 45,
-                backgroundColor: Color(0xFFE3F2FD),
-                child: Icon(Icons.person, size: 55, color: Colors.blue),
+                backgroundColor: AppColors.white,
+                child: Icon(Icons.person, size: 50, color: AppColors.lilac), // استبدلها بـ Image.asset
               ),
             ),
-            const SizedBox(height: 12),
+            const SizedBox(height: 10),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                const Text(
-                  'My Name Hashem',
-                  style: TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.black87,
-                  ),
+                Text(_userName, style: GoogleFonts.cairo(fontSize: 20, fontWeight: FontWeight.bold, color: AppColors.navy)),
+                const SizedBox(width: 5),
+                GestureDetector(
+                  onTap: _showEditNameDialog,
+                  child: const Icon(Icons.edit, size: 18, color: AppColors.textGrey),
                 ),
-                const SizedBox(width: 6),
-                Icon(Icons.edit_outlined, size: 18, color: Colors.grey.shade400),
               ],
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 15),
 
-            // كارت الإحصائيات (الماس والمستوى)
+            // بطاقة المستوى والماس (أصغر قليلاً)
             Container(
-              padding: const EdgeInsets.all(16),
+              padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 20),
               decoration: BoxDecoration(
-                color: Colors.white,
+                color: AppColors.white,
                 borderRadius: BorderRadius.circular(20),
+                boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.05), blurRadius: 10)],
               ),
               child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
-                  // المستوى
-                  Expanded(
-                    child: Column(
-                      children: [
-                        const Text(
-                          'المستوى',
-                          style: TextStyle(color: Colors.green, fontWeight: FontWeight.bold),
-                        ),
-                        const SizedBox(height: 6),
-                        const Row(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            Icon(Icons.stars, color: Colors.green, size: 22),
-                            SizedBox(width: 6),
-                            Text(
-                              '1',
-                              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-                            ),
-                          ],
-                        ),
-                        const SizedBox(height: 8),
-                        ClipRRect(
-                          borderRadius: BorderRadius.circular(10),
-                          child: LinearProgressIndicator(
-                            value: 0.3,
-                            backgroundColor: Colors.grey.shade200,
-                            color: Colors.greenAccent,
-                            minHeight: 6,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                  Container(
-                    height: 50,
-                    width: 1,
-                    color: Colors.grey.shade200,
-                    margin: const EdgeInsets.symmetric(horizontal: 16),
-                  ),
-                  // الماس
-                  const Expanded(
-                    child: Column(
-                      children: [
-                        Text(
-                          'الماس',
-                          style: TextStyle(color: Colors.purple, fontWeight: FontWeight.bold),
-                        ),
-                        SizedBox(height: 6),
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            Icon(Icons.diamond, color: Colors.deepPurpleAccent, size: 22),
-                            SizedBox(width: 6),
-                            Text(
-                              '100',
-                              style: TextStyle(
-                                fontSize: 22,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.purple,
-                              ),
-                            ),
-                          ],
-                        ),
-                      ],
-                    ),
-                  ),
+                  _buildStatItem("المستوى", "1", Icons.star, AppColors.sage),
+                  Container(height: 30, width: 1, color: Colors.grey.shade300),
+                  _buildStatItem("الماس", "100", Icons.diamond, AppColors.lilac),
                 ],
               ),
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 15),
 
-            // بنر حساب PRO
-            Container(
-              padding: const EdgeInsets.all(16),
-              decoration: BoxDecoration(
-                gradient: const LinearGradient(
-                  colors: [Color(0xFFFF5252), Color(0xFFFF7A00)],
-                ),
-                borderRadius: BorderRadius.circular(24),
-              ),
-              child: Row(
-                children: [
-                  const Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(
-                          'احصل على حساب PRO',
-                          style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                        SizedBox(height: 4),
-                        Text(
-                          'تعلّم الإنجليزية بشكل أسرع',
-                          style: TextStyle(color: Colors.white70, fontSize: 13),
-                        ),
-                      ],
-                    ),
-                  ),
-                  Container(
-                    padding: const EdgeInsets.all(10),
+            // زر إنشاء حساب (تم وضعه بشكل أنيق)
+            Row(
+              children: [
+                Expanded(
+                  child: Container(
+                    padding: const EdgeInsets.all(12),
                     decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(16),
+                      color: AppColors.white,
+                      borderRadius: BorderRadius.circular(15),
                     ),
-                    child: const Icon(Icons.workspace_premium, color: Colors.orange, size: 30),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text("إنشاء حساب", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold)),
+                            Text("احفظ تقدمك", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
+                          ],
+                        ),
+                        const Icon(Icons.arrow_forward_ios, size: 16, color: AppColors.textGrey),
+                      ],
+                    ),
                   ),
-                ],
-              ),
+                ),
+              ],
             ),
-            const SizedBox(height: 12),
+            const SizedBox(height: 15),
 
-            // بنر إنشاء حساب
+            // إعلان PRO
             Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+              padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
               decoration: BoxDecoration(
-                color: Colors.white,
+                gradient: const LinearGradient(colors: [AppColors.learningTeal, AppColors.lilac]),
                 borderRadius: BorderRadius.circular(20),
               ),
               child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  const Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(
-                          'إنشاء حساب',
-                          style: TextStyle(
-                            color: Colors.deepOrange,
-                            fontSize: 16,
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                        Text(
-                          'احفظ تقدمك',
-                          style: TextStyle(color: Colors.grey, fontSize: 12),
-                        ),
-                      ],
-                    ),
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text("احصل على حساب PRO", style: GoogleFonts.cairo(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
+                      Text("تعلم الإنجليزية بشكل أسرع", style: GoogleFonts.cairo(color: Colors.white70, fontSize: 13)),
+                    ],
                   ),
                   Container(
                     padding: const EdgeInsets.all(8),
-                    decoration: BoxDecoration(
-                      color: Colors.grey.shade100,
-                      shape: BoxShape.circle,
-                    ),
-                    child: const Icon(Icons.arrow_forward_rounded, color: Colors.grey),
+                    decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)),
+                    child: const Icon(Icons.workspace_premium, color: Colors.white),
                   ),
                 ],
               ),
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 15),
 
-            // قسم السلسلة اليومية
+            // السلسلة اليومية (تصميم أصغر وأكثر ترتيباً)
             Container(
-              padding: const EdgeInsets.all(16),
+              padding: const EdgeInsets.all(15),
               decoration: BoxDecoration(
-                color: Colors.white,
+                color: AppColors.white,
                 borderRadius: BorderRadius.circular(20),
+                boxShadow: [BoxShadow(color: Colors.black.withOpacity(0.05), blurRadius: 10)],
               ),
               child: Column(
                 children: [
-                  const Text(
-                    'السلسلة اليومية',
-                    style: TextStyle(
-                      color: Colors.orange,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 16,
-                    ),
-                  ),
-                  const SizedBox(height: 12),
-                  const Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceAround,
-                    children: [
-                      Column(
-                        children: [
-                          Row(
-                            children: [
-                              Icon(Icons.local_fire_department, color: Colors.orange, size: 28),
-                              Text('1', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.orange)),
-                            ],
-                          ),
-                          Text('الأفضل', style: TextStyle(color: Colors.grey, fontSize: 12)),
-                        ],
-                      ),
-                      Column(
-                        children: [
-                          Row(
-                            children: [
-                              Icon(Icons.local_fire_department, color: Colors.orange, size: 28),
-                              Text('1', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.orange)),
-                            ],
-                          ),
-                          Text('الحالي', style: TextStyle(color: Colors.grey, fontSize: 12)),
-                        ],
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 16),
-                  const Align(
-                    alignment: Alignment.centerRight,
-                    child: Text('آخر 7 أيام', style: TextStyle(color: Colors.grey, fontSize: 13)),
-                  ),
-                  const SizedBox(height: 12),
+                  Text("السلسلة اليومية", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold, fontSize: 16)),
+                  const SizedBox(height: 10),
                   Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
-                      _buildDayItem('الخميس', '03', false),
-                      _buildDayItem('الأربعاء', '02', true),
-                      _buildDayItem('الثلاثاء', '01', false),
-                      _buildDayItem('الاثنين', '31', false),
-                      _buildDayItem('الأحد', '30', false),
-                      _buildDayItem('السبت', '29', false),
-                      _buildDayItem('الجمعة', '28', false),
+                      _buildStreakItem("1", "الحالي", Icons.local_fire_department, AppColors.proOrange),
+                      _buildStreakItem("2", "الأفضل", Icons.local_fire_department, AppColors.proOrange),
                     ],
+                  ),
+                  const SizedBox(height: 10),
+                  Text("آخر 7 أيام", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
+                  const SizedBox(height: 5),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    children: List.generate(7, (index) {
+                      bool isActive = index == 5;
+                      return Column(
+                        children: [
+                          Icon(Icons.local_fire_department, color: isActive ? AppColors.proOrange : Colors.grey.shade300, size: 20),
+                          Text(["الاثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت", "الأحد"][index], 
+                              style: GoogleFonts.cairo(fontSize: 9, color: isActive ? AppColors.navy : AppColors.textGrey)),
+                          Text("${14 + index}", style: GoogleFonts.cairo(fontSize: 10, color: isActive ? AppColors.navy : AppColors.textGrey)),
+                        ],
+                      );
+                    }),
                   ),
                 ],
               ),
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 15),
 
-            // قسم لوحة الصدارة ENGO
+            // دعوة الأصدقاء
             Container(
-              padding: const EdgeInsets.all(16),
+              padding: const EdgeInsets.all(15),
               decoration: BoxDecoration(
-                color: Colors.white,
+                color: AppColors.white,
+                borderRadius: BorderRadius.circular(20),
+                border: Border.all(color: AppColors.sage, width: 2),
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Row(
+                    children: [
+                      const Icon(Icons.share, color: AppColors.sage),
+                      const SizedBox(width: 10),
+                      Text("دعوة أصدقاء", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold)),
+                    ],
+                  ),
+                  Text("شارك الرابط", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
+                ],
+              ),
+            ),
+            const SizedBox(height: 15),
+
+            // لوحة الصدارة (المتصدرين)
+            Container(
+              padding: const EdgeInsets.all(15),
+              decoration: BoxDecoration(
+                color: AppColors.white,
                 borderRadius: BorderRadius.circular(20),
               ),
               child: Column(
                 children: [
-                  Text(
-                    'لوحة صدارة ENGO',
-                    style: TextStyle(
-                      color: Colors.purple.shade700,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 16,
-                    ),
-                  ),
-                  const SizedBox(height: 4),
-                  const Text(
-                    'احصل على المزيد من الماس لتتقدم على الآخرين',
-                    style: TextStyle(color: Colors.grey, fontSize: 12),
-                  ),
-                  const SizedBox(height: 16),
-                  _buildLeaderboardRow('1', 'Antonio', '2', '2', '162', Colors.orange, false),
-                  _buildLeaderboardRow('2', 'Yasmin', '2', '2', '148', Colors.pinkAccent, false),
-                  _buildLeaderboardRow('3', 'Victoria', '3', '1', '115', Colors.brown, false),
-                  _buildLeaderboardRow('4', 'My Name ...', '1', '1', '100', Colors.blue, true),
+                  Text("لوحة صدارة ENGO", style: GoogleFonts.cairo(color: AppColors.navy, fontWeight: FontWeight.bold, fontSize: 16)),
+                  Text("تعلم وتدرب لتتقدم وتتفوق على الآخرين", style: GoogleFonts.cairo(color: AppColors.textGrey, fontSize: 12)),
+                  const SizedBox(height: 10),
+                  // هنا يتم استدعاء قائمة المتصدرين (1-10)
+                  _buildLeaderboardItem("1", "Felix", "1", "2", "162"),
+                  _buildLeaderboardItem("2", "Yasmin", "1", "2", "148"),
+                  _buildLeaderboardItem("3", "Yasmin", "1", "1", "115"),
+                  _buildLeaderboardItem("4", "My Name ...", "1", "1", "100", isUser: true),
+                  _buildLeaderboardItem("5", "Mateo", "2", "1", "100"),
+                  _buildLeaderboardItem("6", "Mila", "2", "1", "100"),
+                  _buildLeaderboardItem("7", "Mila", "1", "1", "100"),
+                  _buildLeaderboardItem("8", "Mila", "3", "1", "100"),
+                  _buildLeaderboardItem("9", "Sofia", "1", "1", "100"),
+                  _buildLeaderboardItem("10", "Mateo", "3", "1", "100"),
                 ],
               ),
             ),
+            const SizedBox(height: 20),
           ],
         ),
       ),
     );
   }
 
-  static Widget _buildDayItem(String day, String num, bool isToday) {
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 8),
-      decoration: BoxDecoration(
-        color: isToday ? Colors.orange.shade50 : Colors.transparent,
-        borderRadius: BorderRadius.circular(12),
-      ),
-      child: Column(
-        children: [
-          Icon(
-            Icons.local_fire_department,
-            color: isToday ? Colors.orange : Colors.grey.shade300,
-            size: 20,
-          ),
-          const SizedBox(height: 4),
-          Text(
-            day,
-            style: TextStyle(
-              fontSize: 10,
-              color: isToday ? Colors.orange : Colors.grey,
-              fontWeight: isToday ? FontWeight.bold : FontWeight.normal,
-            ),
-          ),
-          Text(
-            num,
-            style: TextStyle(
-              fontSize: 11,
-              color: isToday ? Colors.orange : Colors.grey,
-              fontWeight: isToday ? FontWeight.bold : FontWeight.normal,
-            ),
-          ),
-        ],
-      ),
+  Widget _buildStatItem(String label, String value, IconData icon, Color color) {
+    return Column(
+      children: [
+        Text(label, style: GoogleFonts.cairo(color: color, fontSize: 12, fontWeight: FontWeight.bold)),
+        Row(
+          children: [
+            Icon(icon, color: color, size: 18),
+            const SizedBox(width: 4),
+            Text(value, style: GoogleFonts.cairo(color: color, fontSize: 18, fontWeight: FontWeight.bold)),
+          ],
+        ),
+      ],
     );
   }
 
-  static Widget _buildLeaderboardRow(
-    String rank,
-    String name,
-    String fire,
-    String star,
-    String diamond,
-    Color avatarColor,
-    bool isCurrentUser,
-  ) {
+  Widget _buildStreakItem(String value, String label, IconData icon, Color color) {
+    return Column(
+      children: [
+        Icon(icon, color: color, size: 24),
+        Text(value, style: GoogleFonts.cairo(fontSize: 18, fontWeight: FontWeight.bold, color: color)),
+        Text(label, style: GoogleFonts.cairo(fontSize: 12, color: AppColors.textGrey)),
+      ],
+    );
+  }
+
+  Widget _buildLeaderboardItem(String rank, String name, String fire, String stars, String diamonds, {bool isUser = false}) {
     return Container(
-      margin: const EdgeInsets.only(bottom: 12),
-      padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 10),
+      margin: const EdgeInsets.symmetric(vertical: 4),
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
       decoration: BoxDecoration(
-        color: isCurrentUser ? Colors.purple.shade50 : Colors.transparent,
+        color: isUser ? AppColors.babyBlue : Colors.transparent,
         borderRadius: BorderRadius.circular(12),
       ),
       child: Row(
         children: [
-          Text(
-            rank,
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              fontSize: 16,
-              color: isCurrentUser ? Colors.purple : Colors.grey.shade600,
-            ),
-          ),
-          const SizedBox(width: 12),
-          CircleAvatar(
-            radius: 18,
-            backgroundColor: avatarColor.withOpacity(0.2),
-            child: Icon(Icons.person, color: avatarColor, size: 22),
-          ),
+          SizedBox(width: 20, child: Text(rank, style: GoogleFonts.cairo(color: AppColors.textGrey, fontWeight: FontWeight.bold))),
+          const CircleAvatar(radius: 15, backgroundColor: AppColors.white, child: Icon(Icons.person, size: 20, color: AppColors.navy)),
           const SizedBox(width: 10),
-          Expanded(
-            child: Text(
-              name,
-              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
-            ),
-          ),
+          Expanded(child: Text(name, style: GoogleFonts.cairo(fontWeight: FontWeight.bold, color: AppColors.navy))),
           Row(
             children: [
-              const Icon(Icons.local_fire_department, color: Colors.orange, size: 16),
-              Text(' $fire ', style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-              const Icon(Icons.stars, color: Colors.green, size: 16),
-              Text(' $star ', style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
-              const Icon(Icons.diamond, color: Colors.purple, size: 16),
-              Text(' $diamond', style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.purple, fontSize: 13)),
+              const Icon(Icons.local_fire_department, color: AppColors.proOrange, size: 14),
+              Text(fire, style: GoogleFonts.cairo(fontSize: 12, color: AppColors.navy)),
+              const SizedBox(width: 5),
+              const Icon(Icons.star, color: AppColors.sage, size: 14),
+              Text(stars, style: GoogleFonts.cairo(fontSize: 12, color: AppColors.navy)),
+              const SizedBox(width: 5),
+              const Icon(Icons.diamond, color: AppColors.lilac, size: 14),
+              Text(diamonds, style: GoogleFonts.cairo(fontSize: 12, color: AppColors.navy)),
             ],
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-// ==========================================
-// 2. شاشة الإعدادات (Settings Screen)
-// ==========================================
-class SettingsScreen extends StatelessWidget {
-  const SettingsScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: const Color(0xFFF6F7FB),
-      appBar: AppBar(
-        backgroundColor: Colors.transparent,
-        elevation: 0,
-        leading: Container(
-          margin: const EdgeInsets.all(8),
-          decoration: const BoxDecoration(
-            color: Colors.white,
-            shape: BoxShape.circle,
-          ),
-          child: IconButton(
-            icon: const Icon(Icons.arrow_back, color: Colors.black),
-            onPressed: () => Navigator.pop(context),
-          ),
-        ),
-        title: const Text(
-          'الإعدادات',
-          style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
-        ),
-      ),
-      body: ListView(
-        padding: const EdgeInsets.all(16),
-        children: [
-          _buildSettingsTile('الاسم', value: 'My Name Hash...'),
-          _buildSettingsTile('اللغة الأم', value: 'عربي'),
-          _buildSettingsTile('المستوى', value: 'A1'),
-          _buildSettingsTile('الاشتراك', value: 'غير نشط'),
-          const SizedBox(height: 10),
-          _buildSettingsTile('Instagram', value: '@engo.app'),
-          _buildSettingsTile('TikTok', value: '@engo.app'),
-          _buildSettingsTile('Facebook'),
-          _buildSettingsTile('Telegram'),
-          const SizedBox(height: 10),
-          _buildSettingsTile('الشروط والأحكام'),
-          _buildSettingsTile('سياسة الخصوصية'),
-          _buildSettingsTile('اتصل بنا', value: 'support@engo...'),
-          const SizedBox(height: 10),
-          _buildSettingsTile('تسجيل الدخول'),
-          _buildSettingsTile('إنشاء حساب'),
-          _buildSettingsTile('حذف الحساب', isDanger: true),
-        ],
-      ),
-    );
-  }
-
-  static Widget _buildSettingsTile(String title, {String? value, bool isDanger = false}) {
-    return Container(
-      margin: const EdgeInsets.only(bottom: 10),
-      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(16),
-      ),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          Text(
-            title,
-            style: TextStyle(
-              fontSize: 15,
-              fontWeight: FontWeight.w600,
-              color: isDanger ? Colors.red : Colors.black87,
-            ),
-          ),
-          Row(
-            children: [
-              if (value != null)
-                Text(
-                  value,
-                  style: const TextStyle(color: Colors.grey, fontSize: 13),
-                ),
-              const SizedBox(width: 8),
-              if (!isDanger)
-                const Icon(Icons.arrow_forward_ios, size: 14, color: Colors.grey),
-            ],
-          ),
+          )
         ],
       ),
     );
