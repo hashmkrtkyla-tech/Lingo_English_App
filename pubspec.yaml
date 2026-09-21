@@ -27,3 +27,18 @@ flutter:
 
   assets:
     - assets/books/
+    - assets/vocabulary/words/easy_1.json
+    - assets/vocabulary/words/easy_2.json
+    - assets/vocabulary/words/easy_3.json
+    - assets/vocabulary/words/easy_4.json
+    - assets/vocabulary/words/easy_5.json
+    - assets/vocabulary/words/medium_1.json
+    - assets/vocabulary/words/medium_2.json
+    - assets/vocabulary/words/medium_3.json
+    - assets/vocabulary/words/medium_4.json
+    - assets/vocabulary/words/medium_5.json
+    - assets/vocabulary/words/hard_1.json
+    - assets/vocabulary/words/hard_2.json
+    - assets/vocabulary/words/hard_3.json
+    - assets/vocabulary/words/hard_4.json
+    - assets/vocabulary/words/hard_5.json
