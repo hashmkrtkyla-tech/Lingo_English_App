@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 import '../models/word_model.dart';
+import '../utils/language_config.dart';
 
 class DictionaryService {
   static final DictionaryService _instance = DictionaryService._internal();
@@ -17,14 +18,21 @@ class DictionaryService {
   final Map<String, List<WordModel>> _cache = {};
   List<WordModel>? _allWordsCache;
 
-  /// يحمّل ملف كلمات واحد (مثلاً "easy_1") ويخزّنه مؤقتًا
+  /// يحمّل ملف كلمات واحد (مثلاً "easy_1") ويبنيه حسب لغتي التعلم والأم الحاليتين
   Future<List<WordModel>> loadFile(String fileName) async {
     if (_cache.containsKey(fileName)) return _cache[fileName]!;
 
     final raw = await rootBundle
         .loadString('assets/vocabulary/words/$fileName.json');
     final List<dynamic> data = jsonDecode(raw);
-    final words = data.map((e) => WordModel.fromJson(e)).toList();
+
+    final words = data
+        .map((e) => WordModel.fromDictionaryJson(
+              e as Map<String, dynamic>,
+              learningLangCode: LanguageConfig.learningLangCode,
+              nativeLangCode: LanguageConfig.nativeLangCode,
+            ))
+        .toList();
 
     _cache[fileName] = words;
     return words;
@@ -42,15 +50,22 @@ class DictionaryService {
     return all;
   }
 
-  /// بحث يطابق أي لغة من اللغات الـ15
+  /// بحث يطابق أي لغة من اللغات الـ15 (وليس فقط لغتي التعلم/الأم الحاليتين)
   Future<List<WordModel>> search(String query) async {
     if (query.trim().isEmpty) return [];
     final all = await loadAllWords();
     final q = query.trim().toLowerCase();
 
     return all.where((w) {
-      return w.translations.values
+      if (w.translations == null) return false;
+      return w.translations!.values
           .any((val) => val.toLowerCase().contains(q));
     }).toList();
+  }
+
+  /// يمسح الذاكرة المؤقتة (استخدمه عند تغيير لغة التعلم أو لغة الأم)
+  void clearCache() {
+    _cache.clear();
+    _allWordsCache = null;
   }
 }
