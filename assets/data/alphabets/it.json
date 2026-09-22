@@ -1,0 +1,23 @@
+[
+  {"letter": "A", "name": "a"},
+  {"letter": "B", "name": "bi"},
+  {"letter": "C", "name": "ci"},
+  {"letter": "D", "name": "di"},
+  {"letter": "E", "name": "e"},
+  {"letter": "F", "name": "effe"},
+  {"letter": "G", "name": "gi"},
+  {"letter": "H", "name": "acca"},
+  {"letter": "I", "name": "i"},
+  {"letter": "L", "name": "elle"},
+  {"letter": "M", "name": "emme"},
+  {"letter": "N", "name": "enne"},
+  {"letter": "O", "name": "o"},
+  {"letter": "P", "name": "pi"},
+  {"letter": "Q", "name": "cu"},
+  {"letter": "R", "name": "erre"},
+  {"letter": "S", "name": "esse"},
+  {"letter": "T", "name": "ti"},
+  {"letter": "U", "name": "u"},
+  {"letter": "V", "name": "vu"},
+  {"letter": "Z", "name": "zeta"}
+]
