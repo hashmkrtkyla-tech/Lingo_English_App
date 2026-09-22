@@ -43,3 +43,18 @@ flutter:
     - assets/vocabulary/words/hard_3.json
     - assets/vocabulary/words/hard_4.json
     - assets/vocabulary/words/hard_5.json
+    - assets/data/alphabets/ar.json
+    - assets/data/alphabets/en.json
+    - assets/data/alphabets/fr.json
+    - assets/data/alphabets/es.json
+    - assets/data/alphabets/de.json
+    - assets/data/alphabets/it.json
+    - assets/data/alphabets/ja.json
+    - assets/data/alphabets/ko.json
+    - assets/data/alphabets/tr.json
+    - assets/data/alphabets/ru.json
+    - assets/data/alphabets/pt.json
+    - assets/data/alphabets/zh.json
+    - assets/data/alphabets/hi.json
+    - assets/data/alphabets/nl.json
+    - assets/data/alphabets/sv.json
