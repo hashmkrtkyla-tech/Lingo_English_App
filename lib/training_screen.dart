@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../utils/practice_colors.dart';
 import '../services/practice_service.dart';
 import 'lesson_list_screen.dart';
+import 'quick_challenge_screen.dart';
 
 class TrainingScreen extends StatefulWidget {
   final int dailyGoalMinutes;
@@ -49,6 +50,32 @@ class _TrainingScreenState extends State<TrainingScreen> {
         padding: const EdgeInsets.all(16),
         children: [
           _DailyGoalCard(percent: percent, widget: widget),
+          const SizedBox(height: 14),
+          Material(
+            color: PracticeColors.mediumTier.withOpacity(0.12),
+            borderRadius: BorderRadius.circular(18),
+            child: InkWell(
+              borderRadius: BorderRadius.circular(18),
+              onTap: () => Navigator.push(
+                context,
+                MaterialPageRoute(builder: (_) => const QuickChallengeScreen()),
+              ),
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+                child: Row(
+                  children: [
+                    const Icon(Icons.bolt_rounded, color: PracticeColors.mediumTier, size: 28),
+                    const SizedBox(width: 12),
+                    const Expanded(
+                      child: Text('التحدي السريع',
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+                    ),
+                    const Icon(Icons.chevron_left, color: PracticeColors.textSecondary),
+                  ],
+                ),
+              ),
+            ),
+          ),
           const SizedBox(height: 24),
           const Text('أنواع التدريبات',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
