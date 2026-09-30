@@ -16,9 +16,11 @@ void main() async {
   runApp(const BrilliantApp());
 }
 
-/// حالة عامة بسيطة يمكن لأي شاشة الوصول إليها (لغة التعلم الحالية للمستخدم)
+/// حالة عامة بسيطة يمكن لأي شاشة الوصول إليها
+/// (لغة التعلم الحالية للمستخدم + رصيد الماس)
 class AppState {
   static String currentLanguageCode = 'en';
+  static int diamonds = 100;
 }
 
 class BrilliantApp extends StatelessWidget {
