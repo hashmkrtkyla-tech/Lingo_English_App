@@ -26,6 +26,10 @@ jobs:
 
       - run: flutter create . --platforms=android --project-name lingo_english_app
 
+      - name: Add microphone and internet permissions
+        run: |
+          sed -i '/<manifest /a\    <uses-permission android:name="android.permission.RECORD_AUDIO"/>\n    <uses-permission android:name="android.permission.INTERNET"/>' android/app/src/main/AndroidManifest.xml
+
       - run: flutter pub get
 
       - run: flutter build apk --release
