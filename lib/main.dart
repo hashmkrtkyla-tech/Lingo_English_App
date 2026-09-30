@@ -16,6 +16,11 @@ void main() async {
   runApp(const BrilliantApp());
 }
 
+/// حالة عامة بسيطة يمكن لأي شاشة الوصول إليها (لغة التعلم الحالية للمستخدم)
+class AppState {
+  static String currentLanguageCode = 'en';
+}
+
 class BrilliantApp extends StatelessWidget {
   const BrilliantApp({super.key});
 
