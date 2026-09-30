@@ -72,6 +72,8 @@ class _QuickChallengeScreenState extends State<QuickChallengeScreen> {
   }
 
   void _showResult() {
+    final earned = _correctCount * 10;
+    AppState.diamonds += earned;
     showDialog(
       context: context,
       barrierDismissible: false,
@@ -84,10 +86,16 @@ class _QuickChallengeScreenState extends State<QuickChallengeScreen> {
             Text('$_correctCount من أصل ${_questions.length} إجابات صحيحة',
                 style: const TextStyle(fontSize: 16)),
             const SizedBox(height: 10),
-            Text('+${_correctCount * 10} نقطة',
-                style: const TextStyle(
-                    fontWeight: FontWeight.bold, color: PracticeColors.premiumGold)),
-            // TODO: أرسل النقاط لخدمة نقاط المستخدم (نفس خدمة lesson_complete_screen)
+            Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Icon(Icons.diamond, color: PracticeColors.premiumGold, size: 18),
+                const SizedBox(width: 6),
+                Text('+$earned ماس',
+                    style: const TextStyle(
+                        fontWeight: FontWeight.bold, color: PracticeColors.premiumGold)),
+              ],
+            ),
           ],
         ),
         actions: [
