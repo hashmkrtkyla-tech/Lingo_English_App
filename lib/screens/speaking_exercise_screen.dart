@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 // TODO: أضف الحزم في pubspec.yaml:
 //   flutter_tts: ^4.0.2
 //   speech_to_text: ^7.0.0
+import '../main.dart';
 import '../utils/practice_colors.dart';
 import '../models/practice_sentence.dart';
 import 'lesson_complete_screen.dart';
@@ -21,7 +22,7 @@ class SpeakingExerciseScreen extends StatefulWidget {
 }
 
 class _SpeakingExerciseScreenState extends State<SpeakingExerciseScreen> {
-  final String learningLang = 'en';
+  final String learningLang = AppState.currentLanguageCode;
   final String nativeLang = 'ar';
 
   int _index = 0;
