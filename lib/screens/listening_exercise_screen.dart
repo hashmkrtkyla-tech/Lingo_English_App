@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 // TODO: أضف الحزمة في pubspec.yaml: flutter_tts: ^4.0.2
 // import 'package:flutter_tts/flutter_tts.dart';
+import '../main.dart';
 import '../utils/practice_colors.dart';
 import '../models/practice_sentence.dart';
 import '../services/practice_service.dart';
@@ -22,8 +23,7 @@ class ListeningExerciseScreen extends StatefulWidget {
 }
 
 class _ListeningExerciseScreenState extends State<ListeningExerciseScreen> {
-  // TODO: اربطهما بإعدادات المستخدم الفعلية (لغة التعلم / اللغة الأم)
-  final String learningLang = 'en';
+  final String learningLang = AppState.currentLanguageCode;
   final String nativeLang = 'ar';
 
   int _index = 0;
