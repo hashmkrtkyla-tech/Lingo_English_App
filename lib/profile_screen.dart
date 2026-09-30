@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import '../main.dart';
 import '../utils/app_colors.dart';
 import 'screens/settings_screen.dart';
 import 'screens/auth_screen.dart';
@@ -169,7 +170,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 children: [
                   _buildStatItem("المستوى", "1", Icons.star, AppColors.sage),
                   Container(height: 30, width: 1, color: Colors.grey.shade300),
-                  _buildStatItem("الماس", "100", Icons.diamond, AppColors.lilac),
+                  _buildStatItem("الماس", "${AppState.diamonds}", Icons.diamond, AppColors.lilac),
                 ],
               ),
             ),
