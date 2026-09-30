@@ -1,5 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
+import '../main.dart';
 import '../utils/practice_colors.dart';
 import '../models/practice_sentence.dart';
 import '../services/practice_service.dart';
@@ -12,7 +13,7 @@ class QuickChallengeScreen extends StatefulWidget {
 }
 
 class _QuickChallengeScreenState extends State<QuickChallengeScreen> {
-  final String learningLang = 'en';
+  final String learningLang = AppState.currentLanguageCode;
   final String nativeLang = 'ar';
 
   late List<PracticeSentence> _questions;
