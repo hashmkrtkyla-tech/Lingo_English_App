@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import '../main.dart';
 import '../utils/practice_colors.dart';
 
-class LessonCompleteScreen extends StatelessWidget {
+class LessonCompleteScreen extends StatefulWidget {
   final int correctCount;
   final int total;
   final int pointsEarned;
@@ -12,6 +13,17 @@ class LessonCompleteScreen extends StatelessWidget {
     required this.total,
     required this.pointsEarned,
   });
+
+  @override
+  State<LessonCompleteScreen> createState() => _LessonCompleteScreenState();
+}
+
+class _LessonCompleteScreenState extends State<LessonCompleteScreen> {
+  @override
+  void initState() {
+    super.initState();
+    AppState.diamonds += widget.pointsEarned;
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -28,7 +40,7 @@ class LessonCompleteScreen extends StatelessWidget {
               const Text('أكملت الدرس بنجاح! 🎉',
                   style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
               const SizedBox(height: 8),
-              Text('$correctCount من أصل $total إجابات صحيحة',
+              Text('${widget.correctCount} من أصل ${widget.total} إجابات صحيحة',
                   style: const TextStyle(color: PracticeColors.textSecondary)),
               const SizedBox(height: 24),
               Container(
@@ -40,14 +52,13 @@ class LessonCompleteScreen extends StatelessWidget {
                 child: Row(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    const Icon(Icons.star, color: PracticeColors.premiumGold),
+                    const Icon(Icons.diamond, color: PracticeColors.premiumGold),
                     const SizedBox(width: 8),
-                    Text('+$pointsEarned نقطة',
+                    Text('+${widget.pointsEarned} ماس',
                         style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
                   ],
                 ),
               ),
-              // TODO: أرسل pointsEarned إلى خدمة نقاط المستخدم لتحديث الملف الشخصي والمتصدرين
               const SizedBox(height: 40),
               SizedBox(
                 width: double.infinity,
