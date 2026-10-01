@@ -1,0 +1,17 @@
+[
+  {"code":"ar","nameAr":"العربية","native":"العربية","flag":"🇸🇦"},
+  {"code":"en","nameAr":"الإنجليزية","native":"English","flag":"🇬🇧"},
+  {"code":"fr","nameAr":"الفرنسية","native":"Français","flag":"🇫🇷"},
+  {"code":"es","nameAr":"الإسبانية","native":"Español","flag":"🇪🇸"},
+  {"code":"de","nameAr":"الألمانية","native":"Deutsch","flag":"🇩🇪"},
+  {"code":"it","nameAr":"الإيطالية","native":"Italiano","flag":"🇮🇹"},
+  {"code":"ja","nameAr":"اليابانية","native":"日本語","flag":"🇯🇵"},
+  {"code":"ko","nameAr":"الكورية","native":"한국어","flag":"🇰🇷"},
+  {"code":"tr","nameAr":"التركية","native":"Türkçe","flag":"🇹🇷"},
+  {"code":"ru","nameAr":"الروسية","native":"Русский","flag":"🇷🇺"},
+  {"code":"pt","nameAr":"البرتغالية","native":"Português","flag":"🇧🇷"},
+  {"code":"zh","nameAr":"الصينية","native":"中文","flag":"🇨🇳"},
+  {"code":"hi","nameAr":"الهندية","native":"हिन्दी","flag":"🇮🇳"},
+  {"code":"nl","nameAr":"الهولندية","native":"Nederlands","flag":"🇳🇱"},
+  {"code":"sv","nameAr":"السويدية","native":"Svenska","flag":"🇸🇪"}
+]
