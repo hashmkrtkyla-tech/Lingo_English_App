@@ -18,6 +18,7 @@ dependencies:
   url_launcher: ^6.2.1
   flutter_tts: ^4.2.0
   speech_to_text: ^7.0.0
+  shared_preferences: ^2.2.3   # جديد: حفظ تقدم الدروس
 
 dev_dependencies:
   flutter_test:
@@ -63,3 +64,20 @@ flutter:
     - assets/practice/sentences/medium_sentences.json
     - assets/practice/sentences/hard_sentences.json
     - assets/practice/sentences/practice_pairs.json
+    # ---------- جديد: الدورة (Course) ----------
+    - assets/course/languages.json
+    - assets/course/ar/
+    - assets/course/en/
+    - assets/course/fr/
+    - assets/course/es/
+    - assets/course/de/
+    - assets/course/it/
+    - assets/course/ja/
+    - assets/course/ko/
+    - assets/course/tr/
+    - assets/course/ru/
+    - assets/course/pt/
+    - assets/course/zh/
+    - assets/course/hi/
+    - assets/course/nl/
+    - assets/course/sv/
