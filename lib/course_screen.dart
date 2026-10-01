@@ -1,30 +1,66 @@
 import 'package:flutter/material.dart';
-import 'data/language_config.dart';
-import 'data/course_data.dart';
-import 'screens/lesson_screen.dart';
+import '../services/language_service.dart';
+import '../models/lesson_model.dart';
+import 'lesson_screen.dart'; // سنعدله لاحقاً
 
-class CourseScreen extends StatelessWidget {
+class CourseScreen extends StatefulWidget {
   const CourseScreen({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    final String langCode = AppState.currentLanguageCode;
-    final List<UnitData> units = courseDataByLanguage[langCode] ?? [];
+  State<CourseScreen> createState() => _CourseScreenState();
+}
 
+class _CourseScreenState extends State<CourseScreen> {
+  int _selectedLevelIndex = 0;
+  final List<String> _levelNames = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+  final List<Color> _levelColors = [
+    Colors.blue, Colors.teal, Colors.green, Colors.orange, Colors.deepOrange, Colors.brown,
+  ];
+
+  // افتراضياً، سنستخدم 'english' و 'A1' كتجربة
+  String _currentLangCode = 'english';
+  String get _currentLevel => _levelNames[_selectedLevelIndex];
+
+  @override
+  Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFF6F7FB),
       body: SafeArea(
         child: Column(
           children: [
             _buildTopBar(),
+            _buildLevelSelector(),
             Expanded(
-              child: units.isEmpty
-                  ? const Center(child: Text('لا يوجد محتوى بعد لهذه اللغة'))
-                  : ListView.builder(
-                      padding: const EdgeInsets.only(bottom: 100, top: 10),
-                      itemCount: units.length,
-                      itemBuilder: (context, index) => _UnitSection(unit: units[index]),
-                    ),
+              child: FutureBuilder<List<Lesson>>(
+                // إعادة بناء القائمة عند تغيير المستوى
+                key: ValueKey('$_currentLangCode-$_currentLevel'),
+                future: LanguageService.loadAllLessons(_currentLangCode, _currentLevel),
+                builder: (context, snapshot) {
+                  if (snapshot.connectionState == ConnectionState.waiting) {
+                    return const Center(child: CircularProgressIndicator());
+                  }
+                  if (!snapshot.hasData || snapshot.data!.isEmpty) {
+                    return const Center(child: Text('لا يوجد محتوى بعد لهذا المستوى'));
+                  }
+
+                  final lessons = snapshot.data!;
+                  return ListView.builder(
+                    padding: const EdgeInsets.only(bottom: 100, top: 10),
+                    itemCount: lessons.length,
+                    itemBuilder: (context, index) {
+                      // عمل التعرج (Zigzag)
+                      final alignments = [Alignment.center, const Alignment(0.55, 0), Alignment.center, const Alignment(-0.55, 0)];
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: 28),
+                        child: Align(
+                          alignment: alignments[index % alignments.length],
+                          child: _buildNode(context, lessons[index], _levelColors[_selectedLevelIndex]),
+                        ),
+                      );
+                    },
+                  );
+                },
+              ),
             ),
           ],
         ),
@@ -40,9 +76,9 @@ class CourseScreen extends StatelessWidget {
         children: [
           Row(
             children: [
-              Text(AppState.currentLanguage.flagEmoji, style: const TextStyle(fontSize: 22)),
+              const Text('🇬🇧', style: TextStyle(fontSize: 22)), // يمكن تغييرها حسب اللغة
               const SizedBox(width: 6),
-              Text(AppState.currentLanguage.name, style: const TextStyle(fontWeight: FontWeight.bold)),
+              Text(_currentLangCode == 'english' ? 'الإنجليزية' : _currentLangCode, style: const TextStyle(fontWeight: FontWeight.bold)),
             ],
           ),
           Row(
@@ -56,62 +92,53 @@ class CourseScreen extends StatelessWidget {
       ),
     );
   }
-}
 
-class _UnitSection extends StatelessWidget {
-  final UnitData unit;
-  const _UnitSection({required this.unit});
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      children: [
-        Container(
-          margin: const EdgeInsets.symmetric(horizontal: 16),
-          padding: const EdgeInsets.all(18),
-          decoration: BoxDecoration(color: unit.color, borderRadius: BorderRadius.circular(20)),
-          child: Row(
-            children: [
-              const Icon(Icons.menu_book_rounded, color: Colors.white, size: 26),
-              const SizedBox(width: 14),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(unit.title, style: const TextStyle(color: Colors.white70, fontSize: 13)),
-                    Text(unit.subtitle, style: const TextStyle(color: Colors.white, fontSize: 19, fontWeight: FontWeight.bold)),
-                  ],
+  Widget _buildLevelSelector() {
+    return Container(
+      height: 50,
+      padding: const EdgeInsets.symmetric(vertical: 8),
+      child: ListView.builder(
+        scrollDirection: Axis.horizontal,
+        itemCount: _levelNames.length,
+        padding: const EdgeInsets.symmetric(horizontal: 16),
+        itemBuilder: (context, index) {
+          bool isSelected = index == _selectedLevelIndex;
+          return GestureDetector(
+            onTap: () => setState(() => _selectedLevelIndex = index),
+            child: Container(
+              margin: const EdgeInsets.only(right: 10),
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
+              decoration: BoxDecoration(
+                color: isSelected ? _levelColors[index] : Colors.grey[200],
+                borderRadius: BorderRadius.circular(20),
+              ),
+              child: Text(
+                _levelNames[index],
+                style: TextStyle(
+                  color: isSelected ? Colors.white : Colors.black,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
-            ],
-          ),
-        ),
-        const SizedBox(height: 24),
-        ...List.generate(unit.nodes.length, (i) {
-          final alignments = [Alignment.center, const Alignment(0.55, 0), Alignment.center, const Alignment(-0.55, 0)];
-          return Padding(
-            padding: const EdgeInsets.only(bottom: 28),
-            child: Align(
-              alignment: alignments[i % alignments.length],
-              child: _buildNode(context, unit.nodes[i], unit.color),
             ),
           );
-        }),
-      ],
+        },
+      ),
     );
   }
 
-  Widget _buildNode(BuildContext context, PathNode node, Color color) {
-    final bool locked = node.state == NodeState.locked;
-    final bool completed = node.state == NodeState.completed;
-
+  Widget _buildNode(BuildContext context, Lesson lesson, Color color) {
+    // للتبسيط، الدرس الأول مفتوح، والباقي مقفل (يمكنك تطوير منطق القفل لاحقاً)
+    final bool locked = lesson.id != 1;
+    
     return GestureDetector(
       onTap: locked
           ? null
           : () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (_) => LessonScreen(lessonTitle: node.title)),
+                MaterialPageRoute(
+                  builder: (_) => LessonScreen(lesson: lesson, levelColor: color),
+                ),
               );
             },
       child: Column(
@@ -119,11 +146,28 @@ class _UnitSection extends StatelessWidget {
           Container(
             width: 68,
             height: 68,
-            decoration: BoxDecoration(shape: BoxShape.circle, color: locked ? Colors.grey.shade300 : color),
-            child: Icon(completed ? Icons.check_rounded : (locked ? Icons.lock_rounded : node.icon), color: Colors.white),
+            decoration: BoxDecoration(
+              shape: BoxShape.circle,
+              color: locked ? Colors.grey.shade300 : color,
+              boxShadow: [
+                if (!locked) BoxShadow(color: color.withOpacity(0.4), blurRadius: 10, offset: const Offset(0, 4)),
+              ],
+            ),
+            child: Icon(
+              locked ? Icons.lock_rounded : Icons.star_rounded,
+              color: Colors.white,
+              size: 30,
+            ),
           ),
           const SizedBox(height: 8),
-          Text(node.title, style: TextStyle(fontSize: 12, color: locked ? Colors.grey : Colors.black87)),
+          Text(
+            lesson.title,
+            style: TextStyle(
+              fontSize: 12,
+              fontWeight: FontWeight.bold,
+              color: locked ? Colors.grey : Colors.black87,
+            ),
+          ),
         ],
       ),
     );
