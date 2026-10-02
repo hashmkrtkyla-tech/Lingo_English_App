@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../data/language_config.dart';
 import '../widgets/language_card_widget.dart';
-import '../main.dart';
+import 'goal_select_screen.dart'; // ✏️ بدل استيراد main.dart
 
 class LanguageSelectScreen extends StatelessWidget {
   const LanguageSelectScreen({super.key});
@@ -38,10 +38,12 @@ class LanguageSelectScreen extends StatelessWidget {
                 );
                 return;
               }
-              AppState.currentLanguageCode = lang.code;
-              Navigator.pushReplacement(
+              // ✏️ الآن: ننتقل لاختيار الهدف، ومنها تفتح الدورة بهذه اللغة
+              Navigator.push(
                 context,
-                MaterialPageRoute(builder: (_) => const MainNavigation()),
+                MaterialPageRoute(
+                  builder: (_) => GoalSelectScreen(languageCode: lang.code),
+                ),
               );
             },
           );
