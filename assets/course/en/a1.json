@@ -5,7 +5,157 @@
       "id": "en_a1_01",
       "topic": "greetings",
       "title": "Greetings & introductions",
-      "exercises": []
+      "exercises": [
+        {
+          "type": "choice",
+          "layout": "bigcard",
+          "prompt": "Hello",
+          "hint": "/həˈloʊ/",
+          "promptLang": "target",
+          "audio": "Hello",
+          "answerLang": "native",
+          "options": ["شكرًا", "مرحبًا", "صديق"],
+          "answer": "مرحبًا",
+          "meaning": "مرحبًا"
+        },
+        {
+          "type": "choice",
+          "prompt": "مرحبًا",
+          "promptLang": "native",
+          "answerLang": "target",
+          "options": ["welcome", "sugar", "hi"],
+          "answer": "hi",
+          "meaning": "hi تعني مرحبًا"
+        },
+        {
+          "type": "match",
+          "pairs": [
+            ["Hello", "مرحبًا"],
+            ["Goodbye", "وداعًا"],
+            ["Thank you", "شكرًا"],
+            ["Please", "من فضلك"]
+          ],
+          "meaning": "تحيات وكلمات مهذبة أساسية"
+        },
+        {
+          "type": "choice",
+          "title": "ترجم الجملة",
+          "prompt": "Good morning",
+          "promptLang": "target",
+          "audio": "Good morning",
+          "answerLang": "native",
+          "options": ["مساء الخير", "صباح الخير", "تصبح على خير"],
+          "answer": "صباح الخير",
+          "meaning": "صباح الخير"
+        },
+        {
+          "type": "build",
+          "prompt": "مرحبًا، اسمي ديفيد.",
+          "promptLang": "native",
+          "answerLang": "target",
+          "words": ["Hi", "my", "name", "is", "David"],
+          "distractors": ["welcome", "water"],
+          "meaning": "مرحبًا، اسمي ديفيد."
+        },
+        {
+          "type": "build",
+          "promptIsAudio": true,
+          "audio": "Hi my name is Anna",
+          "audioLang": "target",
+          "answerLang": "target",
+          "words": ["Hi", "my", "name", "is", "Anna"],
+          "distractors": ["please", "water"],
+          "meaning": "مرحبًا، اسمي آنا."
+        },
+        {
+          "type": "fill",
+          "sentence": "My ___ is Anna .",
+          "audio": "My name is Anna",
+          "blanks": ["name"],
+          "distractors": ["water", "please", "milk"],
+          "meaning": "اسمي آنا."
+        },
+        {
+          "type": "listenpick",
+          "sentence": "This is ___ dad .",
+          "audio": "This is my dad",
+          "options": ["my", "hi"],
+          "answer": "my",
+          "meaning": "هذا أبي."
+        },
+        {
+          "type": "speak",
+          "sentence": "Hi, Anna!",
+          "meaning": "مرحبًا يا آنا!"
+        },
+        {
+          "type": "build",
+          "title": "ترجم هذه الجملة",
+          "prompt": "This is my mom.",
+          "promptLang": "target",
+          "audio": "This is my mom",
+          "audioLang": "target",
+          "answerLang": "native",
+          "words": ["هذه", "أمي"],
+          "distractors": ["وديفيد", "أخ"],
+          "meaning": "هذه أمي."
+        },
+        {
+          "type": "typeword",
+          "sentence": "My mom and my ___",
+          "audio": "My mom and my dad",
+          "answer": "dad",
+          "meaning": "أمي وأبي."
+        },
+        {
+          "type": "fill",
+          "sentence": "This ___ ___ .",
+          "audio": "This is Max",
+          "blanks": ["is", "Max"],
+          "distractors": [],
+          "meaning": "هذا ماكس."
+        },
+        {
+          "type": "choice",
+          "title": "ترجم الجملة",
+          "prompt": "Thank you",
+          "promptLang": "target",
+          "audio": "Thank you",
+          "answerLang": "native",
+          "options": ["من فضلك", "شكرًا", "وداعًا"],
+          "answer": "شكرًا",
+          "meaning": "شكرًا"
+        },
+        {
+          "type": "build",
+          "prompt": "وداعًا يا صديقي",
+          "promptLang": "native",
+          "answerLang": "target",
+          "words": ["Goodbye", "my", "friend"],
+          "distractors": ["hello", "water"],
+          "meaning": "وداعًا يا صديقي."
+        },
+        {
+          "type": "listenpick",
+          "sentence": "Nice to ___ you .",
+          "audio": "Nice to meet you",
+          "options": ["meet", "milk"],
+          "answer": "meet",
+          "meaning": "سررت بلقائك."
+        },
+        {
+          "type": "typeword",
+          "sentence": "Thank you very ___",
+          "audio": "Thank you very much",
+          "answer": "much",
+          "meaning": "شكرًا جزيلًا."
+        },
+        {
+          "type": "speak",
+          "sentence": "Nice to meet you.",
+          "meaning": "سررت بلقائك."
+        }
+      ]
     }
   ]
 }
