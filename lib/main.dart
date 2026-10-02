@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:shared_preferences/shared_preferences.dart'; // ➕ جديد: حفظ اختيارات المستخدم
 
-import 'course_screen.dart';
+import 'screens/course_screen.dart'; // ✏️ تغيّر المسار: الدورة الجديدة داخل screens
 import 'vocabulary_screen.dart';
 import 'books_screen.dart';
 import 'training_screen.dart';
@@ -13,6 +14,7 @@ import 'utils/app_colors.dart'; // ✅ استيراد الألوان الجدي�
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(); // ✅ تهيئة Firebase
+  await AppState.load(); // ➕ جديد: تحميل اللغة والهدف المحفوظين
   runApp(const BrilliantApp());
 }
 
@@ -21,6 +23,26 @@ void main() async {
 class AppState {
   static String currentLanguageCode = 'en';
   static int diamonds = 100;
+
+  // ➕ جديد
+  static String nativeLanguageCode = 'ar'; // لغة المستخدم الأم (تظهر بها المعاني والرسائل)
+  static String goal = 'study'; // study | work | friends | travel | fun
+
+  /// تحميل الاختيارات المحفوظة عند فتح التطبيق
+  static Future<void> load() async {
+    final p = await SharedPreferences.getInstance();
+    currentLanguageCode = p.getString('learn_lang') ?? currentLanguageCode;
+    nativeLanguageCode = p.getString('native_lang') ?? nativeLanguageCode;
+    goal = p.getString('goal') ?? goal;
+  }
+
+  /// حفظ الاختيارات (استدعِها بعد أي تغيير)
+  static Future<void> save() async {
+    final p = await SharedPreferences.getInstance();
+    await p.setString('learn_lang', currentLanguageCode);
+    await p.setString('native_lang', nativeLanguageCode);
+    await p.setString('goal', goal);
+  }
 }
 
 class BrilliantApp extends StatelessWidget {
