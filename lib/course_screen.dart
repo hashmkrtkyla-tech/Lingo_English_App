@@ -1,29 +1,42 @@
 import 'package:flutter/material.dart';
 import '../data/level_config.dart';
+import '../main.dart';
 import '../models/language_model.dart';
 import '../models/lesson_model.dart';
 import '../services/course_service.dart';
 import '../services/progress_service.dart';
+import '../utils/app_colors.dart';
+import 'lesson_screen.dart';
 
+/// صفحة الدورة (التبويب الأول). تقرأ اللغة من AppState وتحفظ أي تغيير فيها.
 class CourseScreen extends StatefulWidget {
-  final String langCode;
-  const CourseScreen({super.key, this.langCode = 'en'});
+  const CourseScreen({super.key});
+
   @override
   State<CourseScreen> createState() => _CourseScreenState();
 }
 
 class _CourseScreenState extends State<CourseScreen> {
   List<LanguageModel> _langs = [];
-  late String _lang = widget.langCode;
+  String _lang = AppState.currentLanguageCode;
   int _levelIdx = 0;
   List<LessonModel> _lessons = [];
   int _done = 0;
   bool _loading = true;
-  final int _streak = 7; // TODO: من بيانات المستخدم
+  final int _streak = 7; // TODO: من بيانات المستخدم لاحقاً
 
   LevelConfig get _lv => kLevels[_levelIdx];
-  LanguageModel? get _current =>
-      _langs.where((l) => l.code == _lang).cast<LanguageModel?>().firstOrNull;
+
+  // ألوان مشتقة من ألوان التطبيق (AppColors)
+  Color get _deep => Color.lerp(AppColors.lilac, Colors.black, 0.3)!;
+  Color get _deeper => Color.lerp(AppColors.lilac, Colors.black, 0.55)!;
+
+  LanguageModel? get _current {
+    for (final l in _langs) {
+      if (l.code == _lang) return l;
+    }
+    return null;
+  }
 
   @override
   void initState() {
@@ -47,32 +60,57 @@ class _CourseScreenState extends State<CourseScreen> {
     showModalBottomSheet(
       context: context,
       backgroundColor: Colors.white,
+      isScrollControlled: true,
       shape: const RoundedRectangleBorder(
           borderRadius: BorderRadius.vertical(top: Radius.circular(28))),
-      builder: (_) => ListView(
-        padding: const EdgeInsets.all(16),
-        children: _langs
-            .map((l) => ListTile(
-                  leading: Text(l.flag, style: const TextStyle(fontSize: 26)),
-                  title: Text(l.nameAr),
-                  subtitle: Text(l.native),
-                  trailing: l.code == _lang
-                      ? const Icon(Icons.check_circle, color: Color(0xFF2563EB))
-                      : null,
-                  onTap: () {
-                    Navigator.pop(context);
-                    _lang = l.code;
-                    _levelIdx = 0;
-                    _load();
-                  },
-                ))
-            .toList(),
+      builder: (_) => Directionality(
+        textDirection: TextDirection.rtl,
+        child: SizedBox(
+          height: MediaQuery.of(context).size.height * 0.7,
+          child: ListView(
+            padding: const EdgeInsets.all(16),
+            children: _langs
+                .map((l) => ListTile(
+                      leading: Text(l.flag, style: const TextStyle(fontSize: 26)),
+                      title: Text(l.nameAr),
+                      subtitle: Text(l.native),
+                      trailing: l.code == _lang
+                          ? Icon(Icons.check_circle, color: _deep)
+                          : null,
+                      onTap: () {
+                        Navigator.pop(context);
+                        _lang = l.code;
+                        AppState.currentLanguageCode = l.code;
+                        AppState.save();
+                        _levelIdx = 0;
+                        _load();
+                      },
+                    ))
+                .toList(),
+          ),
+        ),
       ),
     );
   }
 
-  void _openLesson(LessonModel l) {
-    // TODO المرحلة 2: Navigator.push(... LessonScreen(lesson: l, ...))
+  Future<void> _openLesson(LessonModel l) async {
+    if (l.exercises.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('محتوى هذا الدرس قيد الإعداد')));
+      return;
+    }
+    final done = await Navigator.push<bool>(
+      context,
+      MaterialPageRoute(
+        builder: (_) => LessonScreen(
+          lang: _lang,
+          nativeLang: AppState.nativeLanguageCode,
+          levelKey: _lv.key,
+          lesson: l,
+        ),
+      ),
+    );
+    if (done == true) _load();
   }
 
   @override
@@ -80,10 +118,10 @@ class _CourseScreenState extends State<CourseScreen> {
     return Directionality(
       textDirection: TextDirection.rtl,
       child: Scaffold(
-        backgroundColor: const Color(0xFFF4F7FE),
+        backgroundColor: AppColors.babyBlue,
         body: SafeArea(
           child: ListView(
-            padding: const EdgeInsets.fromLTRB(20, 16, 20, 40),
+            padding: const EdgeInsets.fromLTRB(20, 16, 20, 30),
             children: [
               _topBar(),
               const SizedBox(height: 16),
@@ -117,17 +155,18 @@ class _CourseScreenState extends State<CourseScreen> {
           child: Container(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
             decoration: BoxDecoration(
-                color: Colors.white, borderRadius: BorderRadius.circular(22)),
+                color: AppColors.white,
+                borderRadius: BorderRadius.circular(22)),
             child: Row(children: [
               Container(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
                 decoration: BoxDecoration(
-                    color: const Color(0xFFE8EFFD),
+                    color: AppColors.lilac.withOpacity(0.25),
                     borderRadius: BorderRadius.circular(12)),
                 child: Text(_lang.toUpperCase(),
-                    style: const TextStyle(
-                        color: Color(0xFF2563EB), fontWeight: FontWeight.bold)),
+                    style: TextStyle(
+                        color: _deep, fontWeight: FontWeight.bold)),
               ),
               const SizedBox(width: 10),
               Text(_current?.nameAr ?? '',
@@ -143,7 +182,7 @@ class _CourseScreenState extends State<CourseScreen> {
           width: 56,
           height: 56,
           decoration: BoxDecoration(
-              color: const Color(0xFF2563EB),
+              color: _deep,
               borderRadius: BorderRadius.circular(18),
               border: Border.all(color: Colors.white, width: 3)),
           alignment: Alignment.center,
@@ -174,13 +213,13 @@ class _CourseScreenState extends State<CourseScreen> {
       padding: const EdgeInsets.all(26),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(40),
-        gradient: const LinearGradient(
+        gradient: LinearGradient(
             begin: Alignment.topRight,
             end: Alignment.bottomLeft,
-            colors: [Color(0xFF3B7CE6), Color(0xFF1D4FC8)]),
+            colors: [_deep, _deeper]),
         boxShadow: [
           BoxShadow(
-              color: const Color(0xFF2563EB).withOpacity(.25),
+              color: _deep.withOpacity(.3),
               blurRadius: 30,
               offset: const Offset(0, 14))
         ],
@@ -256,14 +295,15 @@ class _CourseScreenState extends State<CourseScreen> {
             },
             child: Container(
               decoration: BoxDecoration(
-                color: sel ? l.soft : Colors.white,
+                color: sel ? l.soft : AppColors.white,
                 borderRadius: BorderRadius.circular(22),
                 border: Border.all(color: const Color(0xFFE6EBF5)),
                 boxShadow: sel
                     ? [BoxShadow(color: l.color, offset: const Offset(0, 4))]
                     : null,
               ),
-              child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+              child:
+                  Column(mainAxisAlignment: MainAxisAlignment.center, children: [
                 Text(l.code,
                     style: TextStyle(
                         fontSize: 26,
@@ -271,8 +311,7 @@ class _CourseScreenState extends State<CourseScreen> {
                         color: sel ? l.color : const Color(0xFF4B5873))),
                 Text(l.nameAr,
                     style: TextStyle(
-                        fontSize: 13,
-                        color: sel ? l.color : Colors.black45)),
+                        fontSize: 13, color: sel ? l.color : Colors.black45)),
               ]),
             ),
           );
@@ -301,7 +340,8 @@ class _CourseScreenState extends State<CourseScreen> {
           ),
           const SizedBox(width: 18),
           Expanded(
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            child:
+                Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
               Text('المستوى ${lv.number} من 6',
                   style: const TextStyle(color: Colors.black45)),
               Text(lv.nameAr,
@@ -314,7 +354,7 @@ class _CourseScreenState extends State<CourseScreen> {
         ]),
         const SizedBox(height: 22),
         Row(children: [
-          Text('تقدم المستوى', style: const TextStyle(color: Colors.black54)),
+          const Text('تقدم المستوى', style: TextStyle(color: Colors.black54)),
           const Spacer(),
           Text('$_done / $kLessonsPerLevel',
               style: TextStyle(color: lv.color, fontWeight: FontWeight.bold)),
@@ -343,7 +383,7 @@ class _CourseScreenState extends State<CourseScreen> {
         Row(children: [
           _dot(const Color(0xFF22B573), 'مكتمل'),
           const SizedBox(width: 18),
-          _dot(const Color(0xFF2563EB), 'الحالي'),
+          _dot(_deep, 'الحالي'),
           const SizedBox(width: 18),
           _dot(const Color(0xFFCBD2E1), 'مقفل'),
         ]),
@@ -393,18 +433,18 @@ class _CourseScreenState extends State<CourseScreen> {
       child: GestureDetector(
         onTap: locked ? null : () => _openLesson(l),
         child: Container(
-          margin: EdgeInsets.only(
-              right: l.order.isEven ? 0 : 0, left: 0, top: 6, bottom: 6),
+          margin: const EdgeInsets.symmetric(vertical: 6),
           padding: const EdgeInsets.all(20),
           decoration: BoxDecoration(
-            color: locked ? const Color(0xFFFAFBFE) : Colors.white,
+            color: locked ? const Color(0xFFFAFBFE) : AppColors.white,
             borderRadius: BorderRadius.circular(26),
             boxShadow: const [
               BoxShadow(
                   color: Color(0x14000000), blurRadius: 18, offset: Offset(0, 8))
             ],
           ),
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          child:
+              Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Row(children: [
               Text('الدرس ${l.order}',
                   style: const TextStyle(color: Colors.black38, fontSize: 13)),
@@ -433,7 +473,7 @@ class _CourseScreenState extends State<CourseScreen> {
       ),
     );
 
-    // الدروس الفردية: البطاقة يمين والدائرة يسار، والعكس للزوجية (حلزوني)
+    // الفردية: البطاقة يميناً والدائرة يساراً، والعكس للزوجية (مسار حلزوني)
     return Padding(
       padding: const EdgeInsets.only(bottom: 18),
       child: Row(
