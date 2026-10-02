@@ -1,157 +1,303 @@
-import 'dart:math';
 import 'package:flutter/material.dart';
-import 'celebration_screen.dart';
-import '../data/language_config.dart';
-import '../data/word_database.dart';
+import '../data/feedback_messages.dart';
+import '../models/exercise_model.dart';
+import '../models/lesson_model.dart';
+import '../services/feedback_service.dart';
+import '../services/progress_service.dart';
+import '../widgets/exercises/build_exercise.dart';
+import '../widgets/exercises/choice_exercise.dart';
+import '../widgets/exercises/ex_common.dart';
+import '../widgets/exercises/fill_exercise.dart';
+import '../widgets/exercises/listenpick_exercise.dart';
+import '../widgets/exercises/match_exercise.dart';
+import '../widgets/exercises/speak_exercise.dart';
+import '../widgets/exercises/typeword_exercise.dart';
+import 'lesson_result_screen.dart';
 
 class LessonScreen extends StatefulWidget {
-  final String lessonTitle;
-  const LessonScreen({super.key, required this.lessonTitle});
+  final String lang, nativeLang, levelKey;
+  final LessonModel lesson;
+  const LessonScreen({
+    super.key,
+    required this.lang,
+    required this.levelKey,
+    required this.lesson,
+    this.nativeLang = 'ar',
+  });
 
   @override
   State<LessonScreen> createState() => _LessonScreenState();
 }
 
 class _LessonScreenState extends State<LessonScreen> {
-  late List<WordEntry> _words;
-  int currentQuestion = 0;
-  int totalQuestions = 5;
-  String? selectedAnswer;
-  bool answered = false;
-  late List<String> _currentOptions;
+  late final List<ExerciseModel> _items;
+  late final UiText _ui = uiFor(widget.nativeLang);
+
+  int _i = 0, _combo = 0, _right = 0, _wrong = 0, _tries = 0;
+  bool _checked = false, _lastOk = false, _busy = false;
+  String _msg = '';
+  ExerciseController _ctrl = ExerciseController();
+  Key _exKey = UniqueKey();
+  final DateTime _start = DateTime.now();
 
   @override
   void initState() {
     super.initState();
-    _words = wordDatabaseByLanguage[AppState.currentLanguageCode] ?? [];
-    if (_words.isEmpty) {
-      // احتياط: لو مافيش كلمات لهذه اللغة بعد، رجّع كلمات إنجليزية افتراضية
-      _words = wordDatabaseByLanguage['en'] ?? [];
-    }
-    _generateOptions();
+    _items =
+        widget.lesson.exercises.map((e) => ExerciseModel.fromJson(e)).toList();
   }
 
-  WordEntry get _currentWord => _words[currentQuestion % _words.length];
-
-  void _generateOptions() {
-    final correct = _currentWord.meaning;
-    final wrongPool = _words
-        .where((w) => w.meaning != correct)
-        .map((w) => w.meaning)
-        .toSet()
-        .toList();
-    wrongPool.shuffle();
-
-    final options = <String>[correct, ...wrongPool.take(3)];
-    // لو مافيش كلمات كفاية للخيارات الخاطئة، نكمل بخيارات عامة
-    const fallback = ['اختيار خاطئ', 'إجابة أخرى', 'لا شيء مما سبق'];
-    int i = 0;
-    while (options.length < 4) {
-      options.add(fallback[i % fallback.length]);
-      i++;
-    }
-    options.shuffle();
-    _currentOptions = options;
-  }
-
-  void _selectAnswer(String option) {
-    if (answered) return;
+  /// "هيا نرى"
+  Future<void> _check() async {
+    if (_checked || _busy) return;
+    _busy = true;
+    final ok = _ctrl.checker();
+    _ctrl.onResult?.call(ok);
+    final msg = ok
+        ? await FeedbackService.nextPraise(_ui.praise)
+        : await FeedbackService.nextRetry(_ui.retryMsgs);
+    _busy = false;
+    if (!mounted) return;
     setState(() {
-      selectedAnswer = option;
-      answered = true;
+      _checked = true;
+      _lastOk = ok;
+      _msg = msg;
+      if (ok) {
+        if (_tries == 0) {
+          _right++;
+          _combo++;
+        }
+        _tries = 0;
+      } else {
+        _wrong++;
+        _tries++;
+        _combo = 0;
+      }
     });
   }
 
-  void _nextQuestion() {
-    if (currentQuestion < totalQuestions - 1) {
-      setState(() {
-        currentQuestion++;
-        selectedAnswer = null;
-        answered = false;
-        _generateOptions();
-      });
-    } else {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (_) => const CelebrationScreen(xpEarned: 20)),
-      );
+  /// "محاولة أخرى": نفس التمرين من جديد
+  void _retry() {
+    setState(() {
+      _checked = false;
+      _ctrl = ExerciseController();
+      _exKey = UniqueKey();
+    });
+  }
+
+  /// "رائع لنكمل" أو تخطي (للصوت والنطق)
+  void _advance() {
+    if (_i + 1 >= _items.length) {
+      _finish();
+      return;
+    }
+    setState(() {
+      _i++;
+      _checked = false;
+      _tries = 0;
+      _ctrl = ExerciseController();
+      _exKey = UniqueKey();
+    });
+  }
+
+  Future<void> _finish() async {
+    await ProgressService.completeLesson(
+        widget.lang, widget.levelKey, widget.lesson.order);
+    final secs = DateTime.now().difference(_start).inSeconds;
+    if (!mounted) return;
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) =>
+            LessonResultScreen(seconds: secs, right: _right, wrong: _wrong),
+      ),
+    );
+    if (mounted) Navigator.pop(context, true);
+  }
+
+  Future<void> _confirmExit() async {
+    final yes = await showDialog<bool>(
+      context: context,
+      builder: (_) => Directionality(
+        textDirection: TextDirection.rtl,
+        child: AlertDialog(
+          title: Text(_ui.exitTitle),
+          content: Text(_ui.exitBody),
+          actions: [
+            TextButton(
+                onPressed: () => Navigator.pop(context, false),
+                child: Text(_ui.exitStay)),
+            TextButton(
+                onPressed: () => Navigator.pop(context, true),
+                child: Text(_ui.exitLeave, style: const TextStyle(color: kRed))),
+          ],
+        ),
+      ),
+    );
+    if (yes == true && mounted) Navigator.pop(context, false);
+  }
+
+  Widget _exercise(ExerciseModel ex) {
+    final l = widget.lang, n = widget.nativeLang;
+    switch (ex.type) {
+      case ExType.choice:
+        return ChoiceExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
+      case ExType.build:
+        return BuildExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
+      case ExType.fill:
+        return FillExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
+      case ExType.listenpick:
+        return ListenPickExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
+      case ExType.typeword:
+        return TypeWordExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
+      case ExType.speak:
+        return SpeakExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
+      case ExType.match:
+        return MatchExercise(
+            key: _exKey, ex: ex, lang: l, nativeLang: n, ctrl: _ctrl, onSkip: _advance);
     }
   }
 
-  Color _optionColor(String option) {
-    if (!answered) return Colors.white;
-    if (option == _currentWord.meaning) return Colors.green.shade100;
-    if (option == selectedAnswer) return Colors.red.shade100;
-    return Colors.white;
+  Widget _header() {
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(8, 8, 16, 0),
+      child: Column(children: [
+        if (_combo >= 3)
+          Padding(
+            padding: const EdgeInsets.only(bottom: 2),
+            child: Text('$_combo ${_ui.comboSuffix}',
+                style: const TextStyle(
+                    color: Color(0xFFFF9600),
+                    fontWeight: FontWeight.w800,
+                    fontSize: 16)),
+          ),
+        Row(children: [
+          IconButton(
+            onPressed: _confirmExit,
+            icon: const Icon(Icons.close_rounded, size: 32, color: Colors.black45),
+          ),
+          const SizedBox(width: 4),
+          Expanded(
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(10),
+              child: TweenAnimationBuilder<double>(
+                tween: Tween(end: _i / _items.length),
+                duration: const Duration(milliseconds: 350),
+                builder: (_, v, __) => LinearProgressIndicator(
+                  value: v,
+                  minHeight: 16,
+                  backgroundColor: kLine,
+                  color: kGreen,
+                ),
+              ),
+            ),
+          ),
+        ]),
+      ]),
+    );
+  }
+
+  Widget _button(String text, Color c, Color shadow, VoidCallback? onTap) {
+    final enabled = onTap != null;
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        width: double.infinity,
+        height: 56,
+        alignment: Alignment.center,
+        decoration: BoxDecoration(
+          color: enabled ? c : kLine,
+          borderRadius: BorderRadius.circular(16),
+          boxShadow:
+              enabled ? [BoxShadow(color: shadow, offset: const Offset(0, 4))] : null,
+        ),
+        child: Text(text,
+            style: TextStyle(
+                color: enabled ? Colors.white : Colors.black38,
+                fontSize: 18,
+                fontWeight: FontWeight.w800)),
+      ),
+    );
+  }
+
+  Widget _bottom(ExerciseModel ex) {
+    if (!_checked) {
+      return SafeArea(
+        top: false,
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(20, 10, 20, 16),
+          child: AnimatedBuilder(
+            animation: _ctrl,
+            builder: (_, __) => _button(
+                _ui.check, kGreen, kGreenDark, _ctrl.ready ? _check : null),
+          ),
+        ),
+      );
+    }
+    final ok = _lastOk;
+    final fg = ok ? kGreenDark : kRed;
+    return Container(
+      width: double.infinity,
+      color: ok ? kGreenSoft : kRedSoft,
+      child: SafeArea(
+        top: false,
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(20, 16, 20, 16),
+          child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(children: [
+                  Icon(ok ? Icons.check_circle : Icons.info_rounded,
+                      color: fg, size: 30),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: Text(_msg,
+                        style: TextStyle(
+                            color: fg, fontSize: 21, fontWeight: FontWeight.w800)),
+                  ),
+                ]),
+                // عند النجاح فقط: معنى الجملة بلغة المستخدم
+                if (ok && ex.meaning.isNotEmpty) ...[
+                  const SizedBox(height: 8),
+                  Text('${_ui.meaning} ${ex.meaning}',
+                      style: TextStyle(color: fg, fontSize: 17)),
+                ],
+                const SizedBox(height: 14),
+                _button(
+                  ok ? _ui.next : _ui.retryBtn,
+                  ok ? kGreen : kRed,
+                  ok ? kGreenDark : const Color(0xFFB71C1C),
+                  ok ? _advance : _retry,
+                ),
+              ]),
+        ),
+      ),
+    );
   }
 
   @override
   Widget build(BuildContext context) {
-    final word = _currentWord;
-    return Scaffold(
-      backgroundColor: Colors.white,
-      appBar: AppBar(
-        leading: IconButton(icon: const Icon(Icons.close), onPressed: () => Navigator.pop(context)),
-        title: LinearProgressIndicator(
-          value: (currentQuestion + 1) / totalQuestions,
-          backgroundColor: Colors.grey.shade200,
-          color: const Color(0xFF58CC02),
-          minHeight: 10,
-        ),
-      ),
-      body: Padding(
-        padding: const EdgeInsets.all(20),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text('ما معنى هذه الكلمة؟', style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-            const SizedBox(height: 30),
-            Container(
-              width: double.infinity,
-              padding: const EdgeInsets.all(20),
-              decoration: BoxDecoration(
-                color: const Color(0xFFF6F7FB),
-                borderRadius: BorderRadius.circular(16),
-              ),
-              child: Column(
-                children: [
-                  Text(word.word, style: const TextStyle(fontSize: 28, fontWeight: FontWeight.bold)),
-                  const SizedBox(height: 6),
-                  Text(word.pronunciation, style: TextStyle(fontSize: 14, color: Colors.grey.shade600)),
-                ],
-              ),
+    final ex = _items[_i];
+    return Directionality(
+      textDirection: TextDirection.rtl,
+      child: Scaffold(
+        backgroundColor: Colors.white,
+        body: SafeArea(
+          bottom: false,
+          child: Column(children: [
+            _header(),
+            Expanded(
+              child: IgnorePointer(ignoring: _checked, child: _exercise(ex)),
             ),
-            const SizedBox(height: 24),
-            ..._currentOptions.map((option) => Padding(
-                  padding: const EdgeInsets.only(bottom: 12),
-                  child: GestureDetector(
-                    onTap: () => _selectAnswer(option),
-                    child: Container(
-                      width: double.infinity,
-                      padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 16),
-                      decoration: BoxDecoration(
-                        color: _optionColor(option),
-                        borderRadius: BorderRadius.circular(12),
-                        border: Border.all(color: Colors.grey.shade300),
-                      ),
-                      child: Text(option, style: const TextStyle(fontSize: 16)),
-                    ),
-                  ),
-                )),
-            const Spacer(),
-            SizedBox(
-              width: double.infinity,
-              child: ElevatedButton(
-                onPressed: answered ? _nextQuestion : null,
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color(0xFF58CC02),
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(vertical: 16),
-                ),
-                child: Text(currentQuestion < totalQuestions - 1 ? 'متابعة' : 'إنهاء'),
-              ),
-            ),
-          ],
+            _bottom(ex),
+          ]),
         ),
       ),
     );
