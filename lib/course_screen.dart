@@ -51,7 +51,7 @@ class _CourseScreenState extends State<CourseScreen> {
 
   Future<void> _load() async {
     setState(() => _loading = true);
-    _lessons = await CourseService.lessons(_lang, _lv);
+    _lessons = await CourseService.lessons(_lang, AppState.nativeLanguageCode, _lv);
     _done = await ProgressService.completed(_lang, _lv.key);
     if (mounted) setState(() => _loading = false);
   }
@@ -453,7 +453,7 @@ class _CourseScreenState extends State<CourseScreen> {
                   style: TextStyle(color: c, fontSize: 13)),
             ]),
             const SizedBox(height: 8),
-            Text(kTopicNames[l.topic]![0],
+            Text(l.topic,
                 style: TextStyle(
                     fontSize: 22,
                     color: locked ? Colors.black45 : Colors.black87)),
