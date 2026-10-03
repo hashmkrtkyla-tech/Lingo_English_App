@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_01",
+      "exercises": [
+        {"t":"choice","c":"hello","dir":"t2n","big":true,"d":["thanks","yes"]},
+        {"t":"choice","c":"hi","dir":"n2t","d":["goodbye","please"]},
+        {"t":"match","cs":["hello","goodbye","thanks","please"]},
+        {"t":"choice","c":"good_morning","dir":"t2n","d":["good_night","how_are_you"]},
+        {"t":"build","c":"how_are_you","dir":"n2t","d":["yes","no"]},
+        {"t":"listenpick","c":"im_fine"},
+        {"t":"build","c":"im_fine","dir":"audio","d":["yes","no"]},
+        {"t":"fill","c":"good_morning"},
+        {"t":"speak","c":"hello"},
+        {"t":"choice","c":"thanks","dir":"n2t","d":["please","sorry"]},
+        {"t":"typeword","c":"how_are_you"},
+        {"t":"build","c":"good_night","dir":"t2n","d":["yes","no"]},
+        {"t":"match","cs":["yes","no","sorry","welcome"]},
+        {"t":"listenpick","c":"welcome"},
+        {"t":"speak","c":"how_are_you"}
+      ]
+    },
+    {
+      "id": "a1_02",
+      "exercises": [
+        {"t":"choice","c":"my_name_is","dir":"t2n","d":["i_am_from","whats_your_name"]},
+        {"t":"choice","c":"whats_your_name","dir":"n2t","d":["where_from","nice_meet"]},
+        {"t":"match","cs":["name","country","friend","you"]},
+        {"t":"build","c":"my_name_is","dir":"n2t","d":["friend","country"]},
+        {"t":"build","c":"where_from","dir":"audio","d":["name","friend"]},
+        {"t":"fill","c":"i_am_from"},
+        {"t":"listenpick","c":"nice_meet"},
+        {"t":"speak","c":"nice_meet"},
+        {"t":"build","c":"i_am_student","dir":"t2n","d":["friend","country"]},
+        {"t":"typeword","c":"my_name_is"},
+        {"t":"choice","c":"i_am_from","dir":"t2n","d":["i_am_student","my_name_is"]},
+        {"t":"build","c":"where_from","dir":"n2t","d":["name","friend"]},
+        {"t":"fill","c":"whats_your_name"},
+        {"t":"match","cs":["i","student","friend","country"]},
+        {"t":"speak","c":"whats_your_name"}
+      ]
+    },
+    {
+      "id": "a1_03",
+      "exercises": [
+        {"t":"choice","c":"mom","dir":"t2n","big":true,"d":["dad","sister"]},
+        {"t":"choice","c":"dad","dir":"n2t","d":["brother","mom"]},
+        {"t":"match","cs":["mom","dad","sister","brother"]},
+        {"t":"build","c":"this_is_my_mom","dir":"n2t","d":["dad","sister"]},
+        {"t":"build","c":"this_is_my_dad","dir":"audio","d":["mom","brother"]},
+        {"t":"fill","c":"this_is_my_sister"},
+        {"t":"listenpick","c":"this_is_my_brother"},
+        {"t":"speak","c":"this_is_my_mom"},
+        {"t":"choice","c":"family","dir":"t2n","d":["sister","grandma"]},
+        {"t":"typeword","c":"mom_and_dad"},
+        {"t":"build","c":"mom_and_dad","dir":"t2n","d":["brother","sister"]},
+        {"t":"match","cs":["grandma","grandpa","family","brother"]},
+        {"t":"fill","c":"have_sister"},
+        {"t":"build","c":"i_love_family","dir":"n2t","d":["mom","dad"]},
+        {"t":"speak","c":"i_love_family"}
+      ]
+    },
+    {
+      "id": "a1_04",
+      "exercises": [
+        {"t":"choice","c":"one","dir":"t2n","big":true,"d":["two","three"]},
+        {"t":"choice","c":"two","dir":"n2t","d":["four","five"]},
+        {"t":"match","cs":["one","two","three","four"]},
+        {"t":"match","cs":["five","six","seven","eight"]},
+        {"t":"choice","c":"nine","dir":"t2n","d":["six","ten"]},
+        {"t":"build","c":"count_1_5","dir":"audio","d":["six","seven"]},
+        {"t":"build","c":"i_have_two_brothers","dir":"n2t","d":["three","four"]},
+        {"t":"fill","c":"i_am_ten"},
+        {"t":"listenpick","c":"i_have_five_books"},
+        {"t":"typeword","c":"i_am_ten"},
+        {"t":"speak","c":"count_1_5"},
+        {"t":"choice","c":"ten","dir":"n2t","d":["seven","eight"]},
+        {"t":"build","c":"i_have_five_books","dir":"t2n","d":["three","four"]},
+        {"t":"match","cs":["three","seven","nine","ten"]},
+        {"t":"speak","c":"i_am_ten"}
+      ]
+    },
+    {
+      "id": "a1_05",
+      "exercises": [
+        {"t":"choice","c":"red","dir":"t2n","big":true,"d":["blue","green"]},
+        {"t":"choice","c":"blue","dir":"n2t","d":["red","yellow"]},
+        {"t":"match","cs":["red","blue","green","yellow"]},
+        {"t":"match","cs":["black","white","color","apple"]},
+        {"t":"choice","c":"green","dir":"t2n","d":["black","white"]},
+        {"t":"build","c":"sky_blue","dir":"n2t","d":["red","green"]},
+        {"t":"build","c":"apple_red","dir":"audio","d":["blue","yellow"]},
+        {"t":"fill","c":"sky_blue"},
+        {"t":"listenpick","c":"i_like_green"},
+        {"t":"typeword","c":"apple_red"},
+        {"t":"speak","c":"what_color"},
+        {"t":"build","c":"it_is_yellow","dir":"t2n","d":["red","blue"]},
+        {"t":"choice","c":"yellow","dir":"n2t","d":["white","black"]},
+        {"t":"fill","c":"what_color"},
+        {"t":"speak","c":"sky_blue"}
+      ]
+    }
+  ]
+}
