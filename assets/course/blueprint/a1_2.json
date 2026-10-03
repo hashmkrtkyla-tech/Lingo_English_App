@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_06",
+      "exercises": [
+        {"t":"choice","c":"water","dir":"t2n","big":true,"d":["milk","tea"]},
+        {"t":"choice","c":"bread","dir":"n2t","d":["rice","egg"]},
+        {"t":"match","cs":["water","milk","bread","rice"]},
+        {"t":"match","cs":["egg","tea","coffee","breakfast"]},
+        {"t":"build","c":"i_eat_bread","dir":"n2t","d":["rice","egg"]},
+        {"t":"build","c":"i_drink_water","dir":"audio","d":["milk","tea"]},
+        {"t":"fill","c":"i_like_milk"},
+        {"t":"listenpick","c":"do_you_like_tea"},
+        {"t":"speak","c":"i_want_coffee"},
+        {"t":"choice","c":"i_drink_water","dir":"t2n","d":["i_eat_bread","i_like_milk"]},
+        {"t":"typeword","c":"i_eat_bread"},
+        {"t":"build","c":"she_eats_rice","dir":"t2n","d":["bread","egg"]},
+        {"t":"fill","c":"i_want_coffee"},
+        {"t":"choice","c":"tea","dir":"n2t","d":["coffee","milk"]},
+        {"t":"speak","c":"do_you_like_tea"}
+      ]
+    },
+    {
+      "id": "a1_07",
+      "exercises": [
+        {"t":"choice","c":"menu","dir":"t2n","big":true,"d":["bill","waiter"]},
+        {"t":"choice","c":"hungry","dir":"n2t","d":["thirsty","delicious"]},
+        {"t":"match","cs":["menu","waiter","bill","hungry"]},
+        {"t":"match","cs":["thirsty","delicious","water","bread"]},
+        {"t":"build","c":"i_am_hungry","dir":"n2t","d":["thirsty","delicious"]},
+        {"t":"build","c":"can_i_see_menu","dir":"audio","d":["bill","waiter"]},
+        {"t":"fill","c":"id_like_water"},
+        {"t":"listenpick","c":"table_for_two"},
+        {"t":"speak","c":"the_bill_please"},
+        {"t":"choice","c":"i_am_thirsty","dir":"t2n","d":["i_am_hungry","it_is_delicious"]},
+        {"t":"typeword","c":"it_is_delicious"},
+        {"t":"build","c":"the_bill_please","dir":"t2n","d":["waiter","hungry"]},
+        {"t":"fill","c":"can_i_see_menu"},
+        {"t":"build","c":"thank_you_very_much","dir":"n2t","d":["please","sorry"]},
+        {"t":"speak","c":"id_like_water"}
+      ]
+    },
+    {
+      "id": "a1_08",
+      "exercises": [
+        {"t":"choice","c":"monday","dir":"t2n","big":true,"d":["tuesday","sunday"]},
+        {"t":"choice","c":"friday","dir":"n2t","d":["thursday","saturday"]},
+        {"t":"match","cs":["monday","tuesday","wednesday","thursday"]},
+        {"t":"match","cs":["friday","saturday","sunday","week"]},
+        {"t":"match","cs":["today","tomorrow","yesterday","week"]},
+        {"t":"build","c":"today_is_monday","dir":"n2t","d":["tuesday","sunday"]},
+        {"t":"build","c":"tomorrow_is_friday","dir":"audio","d":["monday","today"]},
+        {"t":"fill","c":"today_is_monday"},
+        {"t":"listenpick","c":"i_work_monday"},
+        {"t":"speak","c":"what_day_today"},
+        {"t":"choice","c":"tomorrow","dir":"t2n","d":["yesterday","today"]},
+        {"t":"typeword","c":"week_seven"},
+        {"t":"build","c":"today_is_monday","dir":"t2n","d":["week","sunday"]},
+        {"t":"fill","c":"what_day_today"},
+        {"t":"speak","c":"tomorrow_is_friday"}
+      ]
+    },
+    {
+      "id": "a1_09",
+      "exercises": [
+        {"t":"choice","c":"morning","dir":"t2n","big":true,"d":["night","evening"]},
+        {"t":"choice","c":"clock","dir":"n2t","d":["night","now"]},
+        {"t":"match","cs":["morning","afternoon","evening","night"]},
+        {"t":"match","cs":["now","clock","early","late"]},
+        {"t":"build","c":"what_time","dir":"n2t","d":["now","clock"]},
+        {"t":"build","c":"its_three","dir":"audio","d":["early","late"]},
+        {"t":"fill","c":"wake_at_seven"},
+        {"t":"listenpick","c":"see_you_evening"},
+        {"t":"speak","c":"good_evening"},
+        {"t":"choice","c":"im_late","dir":"t2n","d":["good_evening","its_three"]},
+        {"t":"typeword","c":"its_three"},
+        {"t":"build","c":"good_evening","dir":"t2n","d":["morning","night"]},
+        {"t":"fill","c":"what_time"},
+        {"t":"choice","c":"early","dir":"n2t","d":["late","now"]},
+        {"t":"speak","c":"wake_at_seven"}
+      ]
+    },
+    {
+      "id": "a1_10",
+      "exercises": [
+        {"t":"choice","c":"house","dir":"t2n","big":true,"d":["room","kitchen"]},
+        {"t":"choice","c":"door","dir":"n2t","d":["window","table"]},
+        {"t":"match","cs":["house","room","kitchen","bed"]},
+        {"t":"match","cs":["door","window","table","chair"]},
+        {"t":"build","c":"this_is_my_house","dir":"n2t","d":["room","bed"]},
+        {"t":"build","c":"open_the_door","dir":"audio","d":["window","chair"]},
+        {"t":"fill","c":"my_room_is_small"},
+        {"t":"listenpick","c":"the_kitchen_is_big"},
+        {"t":"speak","c":"this_is_my_house"},
+        {"t":"choice","c":"my_room_is_small","dir":"t2n","d":["the_kitchen_is_big","this_is_my_house"]},
+        {"t":"typeword","c":"the_book_on_table"},
+        {"t":"build","c":"sit_on_chair","dir":"t2n","d":["door","table"]},
+        {"t":"fill","c":"the_book_on_table"},
+        {"t":"choice","c":"window","dir":"n2t","d":["door","bed"]},
+        {"t":"speak","c":"open_the_door"}
+      ]
+    }
+  ]
+}
