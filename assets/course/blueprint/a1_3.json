@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_11",
+      "exercises": [
+        {"t":"choice","c":"read","dir":"t2n","big":true,"d":["write","sleep"]},
+        {"t":"choice","c":"run","dir":"n2t","d":["walk","play"]},
+        {"t":"match","cs":["read","write","walk","run"]},
+        {"t":"match","cs":["sleep","play","study","book"]},
+        {"t":"build","c":"i_read_book","dir":"n2t","d":["write","school"]},
+        {"t":"build","c":"we_walk_school","dir":"audio","d":["run","play"]},
+        {"t":"fill","c":"i_write_letter"},
+        {"t":"listenpick","c":"she_runs_fast"},
+        {"t":"speak","c":"i_sleep_night"},
+        {"t":"choice","c":"they_play_football","dir":"t2n","d":["she_runs_fast","i_sleep_night"]},
+        {"t":"typeword","c":"do_you_read_daily"},
+        {"t":"build","c":"i_sleep_night","dir":"t2n","d":["read","school"]},
+        {"t":"fill","c":"we_walk_school"},
+        {"t":"choice","c":"study","dir":"n2t","d":["write","sleep"]},
+        {"t":"speak","c":"do_you_read_daily"}
+      ]
+    },
+    {
+      "id": "a1_12",
+      "exercises": [
+        {"t":"choice","c":"happy","dir":"t2n","big":true,"d":["sad","tired"]},
+        {"t":"choice","c":"angry","dir":"n2t","d":["scared","excited"]},
+        {"t":"match","cs":["happy","sad","tired","angry"]},
+        {"t":"match","cs":["scared","excited","happy","sad"]},
+        {"t":"build","c":"i_am_happy","dir":"n2t","d":["sad","tired"]},
+        {"t":"build","c":"why_are_you_sad","dir":"audio","d":["angry","happy"]},
+        {"t":"fill","c":"she_is_sad"},
+        {"t":"listenpick","c":"are_you_okay"},
+        {"t":"speak","c":"i_am_not_angry"},
+        {"t":"choice","c":"he_is_tired","dir":"t2n","d":["she_is_sad","i_am_happy"]},
+        {"t":"typeword","c":"we_are_excited"},
+        {"t":"build","c":"i_am_happy","dir":"t2n","d":["angry","tired"]},
+        {"t":"fill","c":"i_am_not_angry"},
+        {"t":"choice","c":"scared","dir":"n2t","d":["angry","tired"]},
+        {"t":"speak","c":"why_are_you_sad"}
+      ]
+    },
+    {
+      "id": "a1_13",
+      "exercises": [
+        {"t":"choice","c":"shirt","dir":"t2n","big":true,"d":["shoes","hat"]},
+        {"t":"choice","c":"dress","dir":"n2t","d":["pants","jacket"]},
+        {"t":"match","cs":["shirt","shoes","hat","dress"]},
+        {"t":"match","cs":["jacket","pants","red","blue"]},
+        {"t":"build","c":"i_wear_shirt","dir":"n2t","d":["pants","hat"]},
+        {"t":"build","c":"she_has_red_dress","dir":"audio","d":["shoes","jacket"]},
+        {"t":"fill","c":"my_shoes_are_black"},
+        {"t":"listenpick","c":"the_hat_is_white"},
+        {"t":"speak","c":"put_on_jacket"},
+        {"t":"choice","c":"it_is_cold","dir":"t2n","d":["put_on_jacket","the_hat_is_white"]},
+        {"t":"typeword","c":"it_is_cold"},
+        {"t":"build","c":"the_hat_is_white","dir":"t2n","d":["shirt","shoes"]},
+        {"t":"fill","c":"she_has_red_dress"},
+        {"t":"choice","c":"hat","dir":"n2t","d":["shirt","dress"]},
+        {"t":"speak","c":"i_wear_shirt"}
+      ]
+    },
+    {
+      "id": "a1_14",
+      "exercises": [
+        {"t":"choice","c":"sun","dir":"t2n","big":true,"d":["rain","snow"]},
+        {"t":"choice","c":"wind","dir":"n2t","d":["cloud","rain"]},
+        {"t":"match","cs":["sun","rain","snow","wind"]},
+        {"t":"match","cs":["cloud","hot","cold","summer"]},
+        {"t":"build","c":"it_is_raining","dir":"n2t","d":["sun","snow"]},
+        {"t":"build","c":"weather_today","dir":"audio","d":["hot","cold"]},
+        {"t":"fill","c":"summer_is_hot"},
+        {"t":"listenpick","c":"it_is_sunny"},
+        {"t":"speak","c":"bring_umbrella"},
+        {"t":"choice","c":"i_like_snow","dir":"t2n","d":["summer_is_hot","winter_cold"]},
+        {"t":"typeword","c":"winter_cold"},
+        {"t":"build","c":"it_is_sunny","dir":"t2n","d":["rain","wind"]},
+        {"t":"fill","c":"weather_today"},
+        {"t":"choice","c":"winter","dir":"n2t","d":["summer","cold"]},
+        {"t":"speak","c":"it_is_raining"}
+      ]
+    },
+    {
+      "id": "a1_15",
+      "exercises": [
+        {"t":"choice","c":"street","dir":"t2n","big":true,"d":["shop","park"]},
+        {"t":"choice","c":"hospital","dir":"n2t","d":["bank","bus"]},
+        {"t":"match","cs":["street","shop","park","hospital"]},
+        {"t":"match","cs":["bus","car","bank","school"]},
+        {"t":"build","c":"where_is_bank","dir":"n2t","d":["shop","park"]},
+        {"t":"build","c":"the_park_is_near","dir":"audio","d":["street","bus"]},
+        {"t":"fill","c":"i_take_bus"},
+        {"t":"listenpick","c":"the_shop_is_open"},
+        {"t":"speak","c":"turn_left"},
+        {"t":"choice","c":"go_straight","dir":"t2n","d":["turn_left","i_take_bus"]},
+        {"t":"typeword","c":"hospital_far"},
+        {"t":"build","c":"where_is_bank","dir":"t2n","d":["car","shop"]},
+        {"t":"fill","c":"the_park_is_near"},
+        {"t":"choice","c":"car","dir":"n2t","d":["bus","bank"]},
+        {"t":"speak","c":"go_straight"}
+      ]
+    }
+  ]
+}
