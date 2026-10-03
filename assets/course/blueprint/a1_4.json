@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_16",
+      "exercises": [
+        {"t":"choice","c":"head","dir":"t2n","big":true,"d":["hand","foot"]},
+        {"t":"choice","c":"eye","dir":"n2t","d":["ear","nose"]},
+        {"t":"match","cs":["head","hand","eye","mouth"]},
+        {"t":"match","cs":["foot","nose","ear","head"]},
+        {"t":"build","c":"i_have_two_eyes","dir":"n2t","d":["ear","nose"]},
+        {"t":"build","c":"raise_hand","dir":"audio","d":["foot","mouth"]},
+        {"t":"fill","c":"wash_hands"},
+        {"t":"listenpick","c":"touch_nose"},
+        {"t":"speak","c":"my_head_hurts"},
+        {"t":"choice","c":"wash_hands","dir":"t2n","d":["touch_nose","raise_hand"]},
+        {"t":"typeword","c":"i_hear_ears"},
+        {"t":"build","c":"touch_nose","dir":"t2n","d":["hand","ear"]},
+        {"t":"fill","c":"i_have_two_eyes"},
+        {"t":"choice","c":"mouth","dir":"n2t","d":["nose","ear"]},
+        {"t":"speak","c":"wash_hands"}
+      ]
+    },
+    {
+      "id": "a1_17",
+      "exercises": [
+        {"t":"choice","c":"doctor","dir":"t2n","big":true,"d":["medicine","fever"]},
+        {"t":"choice","c":"medicine","dir":"n2t","d":["doctor","headache"]},
+        {"t":"match","cs":["doctor","medicine","sick","headache"]},
+        {"t":"match","cs":["fever","healthy","hospital","doctor"]},
+        {"t":"build","c":"i_have_headache","dir":"n2t","d":["fever","sick"]},
+        {"t":"build","c":"call_doctor","dir":"audio","d":["medicine","hospital"]},
+        {"t":"fill","c":"take_medicine"},
+        {"t":"listenpick","c":"healthy_food"},
+        {"t":"speak","c":"i_feel_sick"},
+        {"t":"choice","c":"i_have_headache","dir":"t2n","d":["i_feel_sick","take_medicine"]},
+        {"t":"typeword","c":"sleep_early"},
+        {"t":"build","c":"take_medicine","dir":"t2n","d":["doctor","fever"]},
+        {"t":"fill","c":"call_doctor"},
+        {"t":"choice","c":"healthy","dir":"n2t","d":["sick","fever"]},
+        {"t":"speak","c":"drink_water_often"}
+      ]
+    },
+    {
+      "id": "a1_18",
+      "exercises": [
+        {"t":"choice","c":"teacher","dir":"t2n","big":true,"d":["doctor","driver"]},
+        {"t":"choice","c":"engineer","dir":"n2t","d":["nurse","farmer"]},
+        {"t":"match","cs":["teacher","doctor","driver","engineer"]},
+        {"t":"match","cs":["chef","nurse","farmer","teacher"]},
+        {"t":"build","c":"my_father_teacher","dir":"n2t","d":["doctor","driver"]},
+        {"t":"build","c":"she_is_nurse","dir":"audio","d":["chef","farmer"]},
+        {"t":"fill","c":"my_mother_doctor"},
+        {"t":"listenpick","c":"i_am_engineer"},
+        {"t":"speak","c":"what_do_you_do"},
+        {"t":"choice","c":"they_are_teachers","dir":"t2n","d":["she_is_nurse","i_am_engineer"]},
+        {"t":"typeword","c":"he_is_driver"},
+        {"t":"build","c":"my_father_teacher","dir":"t2n","d":["nurse","chef"]},
+        {"t":"fill","c":"what_do_you_do"},
+        {"t":"choice","c":"farmer","dir":"n2t","d":["chef","driver"]},
+        {"t":"speak","c":"my_mother_doctor"}
+      ]
+    },
+    {
+      "id": "a1_19",
+      "exercises": [
+        {"t":"choice","c":"office","dir":"t2n","big":true,"d":["meeting","boss"]},
+        {"t":"choice","c":"boss","dir":"n2t","d":["colleague","computer"]},
+        {"t":"match","cs":["work","office","boss","colleague"]},
+        {"t":"match","cs":["meeting","computer","office","work"]},
+        {"t":"build","c":"i_work_in_office","dir":"n2t","d":["meeting","boss"]},
+        {"t":"build","c":"the_meeting_is_at_ten","dir":"audio","d":["computer","boss"]},
+        {"t":"fill","c":"i_help_colleagues"},
+        {"t":"listenpick","c":"i_arrive_on_time"},
+        {"t":"speak","c":"i_respect_coworkers"},
+        {"t":"choice","c":"teamwork_easier","dir":"t2n","d":["i_work_in_office","i_arrive_on_time"]},
+        {"t":"typeword","c":"where_is_boss"},
+        {"t":"build","c":"where_is_boss","dir":"t2n","d":["office","meeting"]},
+        {"t":"fill","c":"teamwork_easier"},
+        {"t":"choice","c":"computer","dir":"n2t","d":["office","work"]},
+        {"t":"speak","c":"i_arrive_on_time"}
+      ]
+    },
+    {
+      "id": "a1_20",
+      "exercises": [
+        {"t":"choice","c":"price","dir":"t2n","big":true,"d":["money","bag"]},
+        {"t":"choice","c":"cheap","dir":"n2t","d":["expensive","price"]},
+        {"t":"match","cs":["price","cheap","expensive","money"]},
+        {"t":"match","cs":["bag","shirt","shoes","money"]},
+        {"t":"build","c":"how_much_is_it","dir":"n2t","d":["price","money"]},
+        {"t":"build","c":"it_is_expensive","dir":"audio","d":["cheap","bag"]},
+        {"t":"fill","c":"i_want_this"},
+        {"t":"listenpick","c":"i_save_money"},
+        {"t":"speak","c":"i_need_this"},
+        {"t":"choice","c":"i_like_it","dir":"t2n","d":["i_dont_want","i_need_this"]},
+        {"t":"typeword","c":"i_compare_prices"},
+        {"t":"build","c":"how_much_is_it","dir":"t2n","d":["price","cheap"]},
+        {"t":"fill","c":"it_is_expensive"},
+        {"t":"choice","c":"expensive","dir":"n2t","d":["cheap","money"]},
+        {"t":"speak","c":"how_much_is_it"}
+      ]
+    }
+  ]
+}
