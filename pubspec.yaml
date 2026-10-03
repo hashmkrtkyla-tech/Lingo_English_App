@@ -81,3 +81,7 @@ flutter:
     - assets/course/hi/
     - assets/course/nl/
     - assets/course/sv/
+    # ---------- جديد: نظام الهيكل + حزم النصوص ----------
+    - assets/course/blueprint/
+    - assets/course/packs/ar/
+    - assets/course/packs/en/
