@@ -9,7 +9,7 @@ class LevelConfig {
       this.color, this.soft, this.topics);
 }
 
-const kLessonsPerLevel = 40;
+const kLessonsPerLevel = 50; // ✏️ كانت 40
 
 // اسم الموضوع بالعربية + بالإنجليزية (للعرض الاحتياطي)
 const kTopicNames = <String, List<String>>{
