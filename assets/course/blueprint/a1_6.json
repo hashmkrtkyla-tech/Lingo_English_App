@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_26",
+      "exercises": [
+        {"t":"choice","c":"we","dir":"t2n","big":true,"d":["they","he"]},
+        {"t":"choice","c":"she","dir":"n2t","d":["he","they"]},
+        {"t":"match","cs":["i","you","he","she"]},
+        {"t":"match","cs":["we","they","he","you"]},
+        {"t":"build","c":"we_are_students","dir":"n2t","d":["they","he"]},
+        {"t":"build","c":"he_is_my_friend","dir":"audio","d":["she","we"]},
+        {"t":"fill","c":"we_live_together"},
+        {"t":"listenpick","c":"you_are_kind"},
+        {"t":"speak","c":"he_is_my_friend"},
+        {"t":"choice","c":"they_are_teachers","dir":"t2n","d":["we_are_students","he_is_my_friend"]},
+        {"t":"typeword","c":"she_is_my_sister"},
+        {"t":"build","c":"you_are_kind","dir":"t2n","d":["he","we"]},
+        {"t":"fill","c":"he_is_my_friend"},
+        {"t":"choice","c":"they","dir":"n2t","d":["we","she"]},
+        {"t":"speak","c":"they_are_here"}
+      ]
+    },
+    {
+      "id": "a1_27",
+      "exercises": [
+        {"t":"choice","c":"music","dir":"t2n","big":true,"d":["movies","juice"]},
+        {"t":"choice","c":"chocolate","dir":"n2t","d":["juice","coffee"]},
+        {"t":"match","cs":["music","movies","chocolate","juice"]},
+        {"t":"match","cs":["coffee","tea","apple","juice"]},
+        {"t":"build","c":"i_like_coffee","dir":"n2t","d":["tea","juice"]},
+        {"t":"build","c":"do_you_like_movies","dir":"audio","d":["music","chocolate"]},
+        {"t":"fill","c":"i_like_apples"},
+        {"t":"listenpick","c":"i_love_music"},
+        {"t":"speak","c":"i_dont_like_it"},
+        {"t":"choice","c":"i_like_it","dir":"t2n","d":["i_dont_like_it","i_love_music"]},
+        {"t":"typeword","c":"she_likes_juice"},
+        {"t":"build","c":"i_like_coffee","dir":"t2n","d":["movies","music"]},
+        {"t":"fill","c":"i_dont_like_cold"},
+        {"t":"choice","c":"movies","dir":"n2t","d":["music","tea"]},
+        {"t":"speak","c":"do_you_like_movies"}
+      ]
+    },
+    {
+      "id": "a1_28",
+      "exercises": [
+        {"t":"choice","c":"help","dir":"t2n","big":true,"d":["cup","home"]},
+        {"t":"choice","c":"cup","dir":"n2t","d":["help","home"]},
+        {"t":"match","cs":["help","cup","home","time"]},
+        {"t":"match","cs":["water","tea","coffee","milk"]},
+        {"t":"build","c":"i_need_help","dir":"n2t","d":["cup","home"]},
+        {"t":"build","c":"i_want_to_sleep","dir":"audio","d":["help","cup"]},
+        {"t":"fill","c":"i_need_water"},
+        {"t":"listenpick","c":"do_you_need_help"},
+        {"t":"speak","c":"what_do_you_want"},
+        {"t":"choice","c":"i_dont_want_that","dir":"t2n","d":["i_need_help","i_want_tea"]},
+        {"t":"typeword","c":"he_wants_home"},
+        {"t":"build","c":"i_want_tea","dir":"t2n","d":["help","home"]},
+        {"t":"fill","c":"i_want_tea"},
+        {"t":"choice","c":"home","dir":"n2t","d":["cup","help"]},
+        {"t":"speak","c":"i_want_to_sleep"}
+      ]
+    },
+    {
+      "id": "a1_29",
+      "exercises": [
+        {"t":"choice","c":"understand","dir":"t2n","big":true,"d":["repeat","word"]},
+        {"t":"choice","c":"slowly","dir":"n2t","d":["fast","repeat"]},
+        {"t":"match","cs":["understand","repeat","slowly","fast"]},
+        {"t":"match","cs":["word","fast","yes","no"]},
+        {"t":"build","c":"speak_slowly","dir":"n2t","d":["fast","word"]},
+        {"t":"build","c":"can_you_help_me","dir":"audio","d":["repeat","word"]},
+        {"t":"fill","c":"i_dont_understand"},
+        {"t":"listenpick","c":"please_repeat"},
+        {"t":"speak","c":"do_you_understand_me"},
+        {"t":"choice","c":"i_understand","dir":"t2n","d":["i_dont_understand","please_repeat"]},
+        {"t":"typeword","c":"how_do_you_say"},
+        {"t":"build","c":"please_repeat","dir":"t2n","d":["fast","word"]},
+        {"t":"fill","c":"what_does_it_mean"},
+        {"t":"choice","c":"word","dir":"n2t","d":["fast","slowly"]},
+        {"t":"speak","c":"speak_slowly"}
+      ]
+    },
+    {
+      "id": "a1_30",
+      "exercises": [
+        {"t":"choice","c":"excuse_me","dir":"t2n","big":true,"d":["thanks","sorry"]},
+        {"t":"choice","c":"no_problem","dir":"n2t","d":["thats_okay","welcome"]},
+        {"t":"match","cs":["thanks","sorry","please","yes"]},
+        {"t":"match","cs":["excuse_me","no_problem","thats_okay","welcome"]},
+        {"t":"build","c":"thanks_for_help","dir":"n2t","d":["sorry","please"]},
+        {"t":"build","c":"sorry_late","dir":"audio","d":["thanks","yes"]},
+        {"t":"fill","c":"see_you_later"},
+        {"t":"listenpick","c":"have_nice_day"},
+        {"t":"speak","c":"thank_you_very_much"},
+        {"t":"choice","c":"im_sorry","dir":"t2n","d":["thanks_for_help","excuse_me"]},
+        {"t":"typeword","c":"see_you_tomorrow"},
+        {"t":"build","c":"no_problem","dir":"t2n","d":["sorry","please"]},
+        {"t":"fill","c":"thanks_for_help"},
+        {"t":"choice","c":"thats_okay","dir":"n2t","d":["no_problem","excuse_me"]},
+        {"t":"speak","c":"have_nice_day"}
+      ]
+    }
+  ]
+}
