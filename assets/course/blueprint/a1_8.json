@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_36",
+      "exercises": [
+        {"t":"choice","c":"banana","dir":"t2n","big":true,"d":["orange","grapes"]},
+        {"t":"choice","c":"tomato","dir":"n2t","d":["potato","carrot"]},
+        {"t":"match","cs":["banana","orange","grapes","apple"]},
+        {"t":"match","cs":["tomato","potato","carrot","vegetables"]},
+        {"t":"build","c":"i_buy_potatoes","dir":"n2t","d":["tomato","fruit"]},
+        {"t":"build","c":"i_eat_banana","dir":"audio","d":["orange","grapes"]},
+        {"t":"fill","c":"tomatoes_are_red"},
+        {"t":"listenpick","c":"do_you_like_grapes"},
+        {"t":"speak","c":"fruit_is_healthy"},
+        {"t":"choice","c":"i_like_oranges","dir":"t2n","d":["i_eat_banana","do_you_like_grapes"]},
+        {"t":"typeword","c":"vegetables_fresh"},
+        {"t":"build","c":"tomatoes_are_red","dir":"t2n","d":["potato","carrot"]},
+        {"t":"fill","c":"i_eat_banana"},
+        {"t":"choice","c":"fruit","dir":"n2t","d":["vegetables","grapes"]},
+        {"t":"speak","c":"i_like_oranges"}
+      ]
+    },
+    {
+      "id": "a1_37",
+      "exercises": [
+        {"t":"choice","c":"weekend","dir":"t2n","big":true,"d":["beach","cinema"]},
+        {"t":"choice","c":"beach","dir":"n2t","d":["cinema","picnic"]},
+        {"t":"match","cs":["weekend","beach","cinema","picnic"]},
+        {"t":"match","cs":["family","park","friend","home"]},
+        {"t":"build","c":"i_rest_weekend","dir":"n2t","d":["beach","cinema"]},
+        {"t":"build","c":"we_go_to_beach","dir":"audio","d":["picnic","park"]},
+        {"t":"fill","c":"lets_go_cinema"},
+        {"t":"listenpick","c":"picnic_in_park"},
+        {"t":"speak","c":"have_a_good_weekend"},
+        {"t":"choice","c":"i_visit_family","dir":"t2n","d":["i_rest_weekend","i_sleep_late"]},
+        {"t":"typeword","c":"i_sleep_late"},
+        {"t":"build","c":"i_visit_family","dir":"t2n","d":["beach","picnic"]},
+        {"t":"fill","c":"i_rest_weekend"},
+        {"t":"choice","c":"cinema","dir":"n2t","d":["beach","picnic"]},
+        {"t":"speak","c":"lets_go_cinema"}
+      ]
+    },
+    {
+      "id": "a1_38",
+      "exercises": [
+        {"t":"choice","c":"hobby","dir":"t2n","big":true,"d":["guitar","drawing"]},
+        {"t":"choice","c":"guitar","dir":"n2t","d":["singing","reading"]},
+        {"t":"match","cs":["drawing","singing","cooking","reading"]},
+        {"t":"match","cs":["hobby","guitar","music","movies"]},
+        {"t":"build","c":"i_like_drawing","dir":"n2t","d":["singing","cooking"]},
+        {"t":"build","c":"i_play_guitar","dir":"audio","d":["reading","hobby"]},
+        {"t":"fill","c":"my_hobby_is_reading"},
+        {"t":"listenpick","c":"she_likes_singing"},
+        {"t":"speak","c":"what_is_your_hobby"},
+        {"t":"choice","c":"in_free_time_read","dir":"t2n","d":["i_enjoy_learning","my_hobby_is_reading"]},
+        {"t":"typeword","c":"i_enjoy_learning"},
+        {"t":"build","c":"i_like_drawing","dir":"t2n","d":["guitar","hobby"]},
+        {"t":"fill","c":"what_is_your_hobby"},
+        {"t":"choice","c":"singing","dir":"n2t","d":["drawing","cooking"]},
+        {"t":"speak","c":"i_enjoy_learning"}
+      ]
+    },
+    {
+      "id": "a1_39",
+      "exercises": [
+        {"t":"choice","c":"ball","dir":"t2n","big":true,"d":["team","game"]},
+        {"t":"choice","c":"team","dir":"n2t","d":["sport","ball"]},
+        {"t":"match","cs":["sport","ball","team","game"]},
+        {"t":"match","cs":["swimming","tennis","music","hobby"]},
+        {"t":"build","c":"i_play_football","dir":"n2t","d":["ball","team"]},
+        {"t":"build","c":"our_team_wins","dir":"audio","d":["game","sport"]},
+        {"t":"fill","c":"he_plays_tennis"},
+        {"t":"listenpick","c":"i_like_swimming"},
+        {"t":"speak","c":"sports_weekend"},
+        {"t":"choice","c":"the_game_is_at_five","dir":"t2n","d":["our_team_wins","throw_the_ball"]},
+        {"t":"typeword","c":"throw_the_ball"},
+        {"t":"build","c":"i_like_swimming","dir":"t2n","d":["ball","tennis"]},
+        {"t":"fill","c":"i_play_football"},
+        {"t":"choice","c":"tennis","dir":"n2t","d":["swimming","ball"]},
+        {"t":"speak","c":"he_plays_tennis"}
+      ]
+    },
+    {
+      "id": "a1_40",
+      "exercises": [
+        {"t":"choice","c":"battery","dir":"t2n","big":true,"d":["charger","screen"]},
+        {"t":"choice","c":"message","dir":"n2t","d":["app","screen"]},
+        {"t":"match","cs":["phone","battery","charger","screen"]},
+        {"t":"match","cs":["message","app","time","help"]},
+        {"t":"build","c":"i_need_charger","dir":"n2t","d":["battery","screen"]},
+        {"t":"build","c":"i_send_message","dir":"audio","d":["app","phone"]},
+        {"t":"fill","c":"my_battery_low"},
+        {"t":"listenpick","c":"i_use_apps"},
+        {"t":"speak","c":"reduce_screen_time"},
+        {"t":"choice","c":"i_check_phone","dir":"t2n","d":["i_send_message","i_need_charger"]},
+        {"t":"typeword","c":"call_me_later"},
+        {"t":"build","c":"i_send_message","dir":"t2n","d":["app","screen"]},
+        {"t":"fill","c":"i_check_phone"},
+        {"t":"choice","c":"charger","dir":"n2t","d":["battery","screen"]},
+        {"t":"speak","c":"call_me_later"}
+      ]
+    }
+  ]
+}
