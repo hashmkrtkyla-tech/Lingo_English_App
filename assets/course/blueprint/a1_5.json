@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_21",
+      "exercises": [
+        {"t":"choice","c":"sit","dir":"t2n","big":true,"d":["stand","wait"]},
+        {"t":"choice","c":"look","dir":"n2t","d":["listen","come"]},
+        {"t":"match","cs":["come","go","sit","stand"]},
+        {"t":"match","cs":["wait","look","listen","come"]},
+        {"t":"build","c":"come_with_me","dir":"n2t","d":["go","wait"]},
+        {"t":"build","c":"wait_minute","dir":"audio","d":["sit","stand"]},
+        {"t":"fill","c":"look_at_this"},
+        {"t":"listenpick","c":"lets_eat"},
+        {"t":"speak","c":"come_here"},
+        {"t":"choice","c":"listen_to_me","dir":"t2n","d":["look_at_this","come_here"]},
+        {"t":"typeword","c":"sit_down"},
+        {"t":"build","c":"lets_go","dir":"t2n","d":["come","wait"]},
+        {"t":"fill","c":"come_with_me"},
+        {"t":"choice","c":"stand","dir":"n2t","d":["sit","wait"]},
+        {"t":"speak","c":"lets_eat"}
+      ]
+    },
+    {
+      "id": "a1_22",
+      "exercises": [
+        {"t":"choice","c":"where","dir":"t2n","big":true,"d":["what","who"]},
+        {"t":"choice","c":"why","dir":"n2t","d":["when","how"]},
+        {"t":"match","cs":["what","where","who","when"]},
+        {"t":"match","cs":["why","how","what","where"]},
+        {"t":"build","c":"what_is_this","dir":"n2t","d":["who","where"]},
+        {"t":"build","c":"how_old","dir":"audio","d":["when","why"]},
+        {"t":"fill","c":"when_is_class"},
+        {"t":"listenpick","c":"why_are_you_late"},
+        {"t":"speak","c":"where_is_it"},
+        {"t":"choice","c":"who_is_he","dir":"t2n","d":["what_is_this","where_is_it"]},
+        {"t":"typeword","c":"how_old"},
+        {"t":"build","c":"where_is_it","dir":"t2n","d":["what","who"]},
+        {"t":"fill","c":"what_is_this"},
+        {"t":"choice","c":"when","dir":"n2t","d":["why","how"]},
+        {"t":"speak","c":"i_dont_know"}
+      ]
+    },
+    {
+      "id": "a1_23",
+      "exercises": [
+        {"t":"choice","c":"pen","dir":"t2n","big":true,"d":["cat","dog"]},
+        {"t":"choice","c":"tree","dir":"n2t","d":["dog","cat"]},
+        {"t":"match","cs":["this","that","pen","cat"]},
+        {"t":"match","cs":["dog","tree","book","chair"]},
+        {"t":"build","c":"this_is_my_book","dir":"n2t","d":["pen","cat"]},
+        {"t":"build","c":"that_is_pen","dir":"audio","d":["dog","tree"]},
+        {"t":"fill","c":"this_is_chair"},
+        {"t":"listenpick","c":"that_is_table"},
+        {"t":"speak","c":"it_is_cat"},
+        {"t":"choice","c":"what_is_that","dir":"t2n","d":["this_is_my_book","it_is_cat"]},
+        {"t":"typeword","c":"this_is_my_dog"},
+        {"t":"build","c":"it_is_cat","dir":"t2n","d":["dog","pen"]},
+        {"t":"fill","c":"i_like_that_tree"},
+        {"t":"choice","c":"cat","dir":"n2t","d":["dog","pen"]},
+        {"t":"speak","c":"what_is_that"}
+      ]
+    },
+    {
+      "id": "a1_24",
+      "exercises": [
+        {"t":"choice","c":"phone","dir":"t2n","big":true,"d":["keys","wallet"]},
+        {"t":"choice","c":"keys","dir":"n2t","d":["glasses","notebook"]},
+        {"t":"match","cs":["phone","keys","wallet","notebook"]},
+        {"t":"match","cs":["glasses","bag","pen","book"]},
+        {"t":"build","c":"i_have_phone","dir":"n2t","d":["keys","wallet"]},
+        {"t":"build","c":"where_are_keys","dir":"audio","d":["bag","pen"]},
+        {"t":"fill","c":"this_is_my_wallet"},
+        {"t":"listenpick","c":"i_need_glasses"},
+        {"t":"speak","c":"my_phone_is_new"},
+        {"t":"choice","c":"i_write_in_notebook","dir":"t2n","d":["i_have_phone","i_need_glasses"]},
+        {"t":"typeword","c":"i_write_in_notebook"},
+        {"t":"build","c":"this_is_my_wallet","dir":"t2n","d":["keys","glasses"]},
+        {"t":"fill","c":"put_phone_in_bag"},
+        {"t":"choice","c":"wallet","dir":"n2t","d":["phone","keys"]},
+        {"t":"speak","c":"put_phone_in_bag"}
+      ]
+    },
+    {
+      "id": "a1_25",
+      "exercises": [
+        {"t":"choice","c":"time","dir":"t2n","big":true,"d":["money","bag"]},
+        {"t":"choice","c":"car","dir":"n2t","d":["bag","time"]},
+        {"t":"match","cs":["time","car","bag","pen"]},
+        {"t":"match","cs":["brother","sister","mom","dad"]},
+        {"t":"build","c":"he_has_car","dir":"n2t","d":["bag","time"]},
+        {"t":"build","c":"she_has_bag","dir":"audio","d":["car","pen"]},
+        {"t":"fill","c":"i_dont_have_time"},
+        {"t":"listenpick","c":"i_have_one_brother"},
+        {"t":"speak","c":"do_you_have_pen"},
+        {"t":"choice","c":"i_have_two_sisters","dir":"t2n","d":["i_have_one_brother","he_has_car"]},
+        {"t":"typeword","c":"she_has_bag"},
+        {"t":"build","c":"i_dont_have_time","dir":"t2n","d":["car","bag"]},
+        {"t":"fill","c":"do_you_have_pen"},
+        {"t":"choice","c":"pen","dir":"n2t","d":["bag","car"]},
+        {"t":"speak","c":"i_have_two_sisters"}
+      ]
+    }
+  ]
+}
