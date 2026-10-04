@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_31",
+      "exercises": [
+        {"t":"choice","c":"alarm","dir":"t2n","big":true,"d":["towel","soap"]},
+        {"t":"choice","c":"shower","dir":"n2t","d":["teeth","soap"]},
+        {"t":"match","cs":["alarm","shower","teeth","towel"]},
+        {"t":"match","cs":["soap","bed","breakfast","coffee"]},
+        {"t":"build","c":"i_wake_up_early","dir":"n2t","d":["alarm","bed"]},
+        {"t":"build","c":"i_brush_teeth","dir":"audio","d":["soap","towel"]},
+        {"t":"fill","c":"i_take_shower"},
+        {"t":"listenpick","c":"alarm_rings"},
+        {"t":"speak","c":"i_eat_breakfast"},
+        {"t":"choice","c":"i_make_bed","dir":"t2n","d":["i_take_shower","i_brush_teeth"]},
+        {"t":"typeword","c":"i_drink_coffee"},
+        {"t":"build","c":"i_take_shower","dir":"t2n","d":["soap","towel"]},
+        {"t":"fill","c":"i_eat_breakfast"},
+        {"t":"choice","c":"teeth","dir":"n2t","d":["shower","soap"]},
+        {"t":"speak","c":"i_wake_up_early"}
+      ]
+    },
+    {
+      "id": "a1_32",
+      "exercises": [
+        {"t":"choice","c":"train","dir":"t2n","big":true,"d":["taxi","bus"]},
+        {"t":"choice","c":"ticket","dir":"n2t","d":["station","taxi"]},
+        {"t":"match","cs":["train","taxi","station","ticket"]},
+        {"t":"match","cs":["traffic","minute","bus","car"]},
+        {"t":"build","c":"i_take_train","dir":"n2t","d":["taxi","bus"]},
+        {"t":"build","c":"it_takes_thirty","dir":"audio","d":["minute","traffic"]},
+        {"t":"fill","c":"where_is_station"},
+        {"t":"listenpick","c":"traffic_is_heavy"},
+        {"t":"speak","c":"take_taxi"},
+        {"t":"choice","c":"take_taxi","dir":"t2n","d":["i_take_train","i_buy_ticket"]},
+        {"t":"typeword","c":"i_buy_ticket"},
+        {"t":"build","c":"where_is_station","dir":"t2n","d":["train","taxi"]},
+        {"t":"fill","c":"i_take_train"},
+        {"t":"choice","c":"station","dir":"n2t","d":["ticket","bus"]},
+        {"t":"speak","c":"i_listen_music_way"}
+      ]
+    },
+    {
+      "id": "a1_33",
+      "exercises": [
+        {"t":"choice","c":"dinner","dir":"t2n","big":true,"d":["lamp","sofa"]},
+        {"t":"choice","c":"sofa","dir":"n2t","d":["tv","lamp"]},
+        {"t":"match","cs":["dinner","tv","sofa","lamp"]},
+        {"t":"match","cs":["family","bed","book","phone"]},
+        {"t":"build","c":"we_eat_dinner","dir":"n2t","d":["tv","lamp"]},
+        {"t":"build","c":"i_watch_tv","dir":"audio","d":["sofa","dinner"]},
+        {"t":"fill","c":"i_relax_sofa"},
+        {"t":"listenpick","c":"i_read_before_bed"},
+        {"t":"speak","c":"i_go_to_bed"},
+        {"t":"choice","c":"turn_off_lamp","dir":"t2n","d":["i_watch_tv","i_go_to_bed"]},
+        {"t":"typeword","c":"we_eat_dinner"},
+        {"t":"build","c":"i_relax_sofa","dir":"t2n","d":["tv","lamp"]},
+        {"t":"fill","c":"i_go_to_bed"},
+        {"t":"choice","c":"tv","dir":"n2t","d":["lamp","sofa"]},
+        {"t":"speak","c":"good_night"}
+      ]
+    },
+    {
+      "id": "a1_34",
+      "exercises": [
+        {"t":"choice","c":"spoon","dir":"t2n","big":true,"d":["fork","knife"]},
+        {"t":"choice","c":"plate","dir":"n2t","d":["pot","spoon"]},
+        {"t":"match","cs":["pot","knife","fork","spoon"]},
+        {"t":"match","cs":["plate","salt","kitchen","rice"]},
+        {"t":"build","c":"i_cook_at_home","dir":"n2t","d":["pot","plate"]},
+        {"t":"build","c":"add_salt","dir":"audio","d":["spoon","fork"]},
+        {"t":"fill","c":"the_plate_is_clean"},
+        {"t":"listenpick","c":"i_eat_outside"},
+        {"t":"speak","c":"i_avoid_fast_food"},
+        {"t":"choice","c":"use_fork_and_knife","dir":"t2n","d":["i_cook_at_home","add_salt"]},
+        {"t":"typeword","c":"cook_in_pot"},
+        {"t":"build","c":"add_salt","dir":"t2n","d":["knife","plate"]},
+        {"t":"fill","c":"i_cook_at_home"},
+        {"t":"choice","c":"knife","dir":"n2t","d":["fork","spoon"]},
+        {"t":"speak","c":"cook_in_pot"}
+      ]
+    },
+    {
+      "id": "a1_35",
+      "exercises": [
+        {"t":"choice","c":"market","dir":"t2n","big":true,"d":["shop","basket"]},
+        {"t":"choice","c":"kilo","dir":"n2t","d":["basket","price"]},
+        {"t":"match","cs":["market","kilo","basket","fresh"]},
+        {"t":"match","cs":["shop","price","cheap","money"]},
+        {"t":"build","c":"i_buy_fresh_bread","dir":"n2t","d":["kilo","basket"]},
+        {"t":"build","c":"one_kilo","dir":"audio","d":["market","price"]},
+        {"t":"fill","c":"put_in_basket"},
+        {"t":"listenpick","c":"is_it_fresh"},
+        {"t":"speak","c":"is_it_fresh"},
+        {"t":"choice","c":"i_go_to_market","dir":"t2n","d":["one_kilo","how_much_kilo"]},
+        {"t":"typeword","c":"how_much_kilo"},
+        {"t":"build","c":"put_in_basket","dir":"t2n","d":["kilo","fresh"]},
+        {"t":"fill","c":"i_buy_fresh_bread"},
+        {"t":"choice","c":"fresh","dir":"n2t","d":["cheap","kilo"]},
+        {"t":"speak","c":"one_kilo"}
+      ]
+    }
+  ]
+}
