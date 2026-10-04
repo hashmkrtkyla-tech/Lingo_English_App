@@ -5,10 +5,549 @@
   "audio_url": "assets/books/audio/a1_books/All_About_Ocean_Life-Rachel_Bladon.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Many animals live in the blue ocean.",
-      "translation": "تعيش العديد من الحيوانات في المحيط الأزرق."
+      "id": 1,
+      "text": "CHAPTER ONE: Oceans of the World",
+      "translation": "الفصل الأول: محيطات العالم"
+    },
+    {
+      "id": 2,
+      "text": "There are five oceans, and they cover about 70 percent of Earth.",
+      "translation": "توجد خمسة محيطات، وهي تغطي حوالي 70 بالمائة من كوكب الأرض."
+    },
+    {
+      "id": 3,
+      "text": "Oceans and their seashores are different all around the world.",
+      "translation": "تختلف المحيطات وشواطئها في جميع أنحاء العالم."
+    },
+    {
+      "id": 4,
+      "text": "On the Arctic Ocean and the Southern Ocean, there's a lot of ice in winter.",
+      "translation": "في المحيط المتجمد الشمالي والمحيط الجنوبي، يوجد الكثير من الجليد في فصل الشتاء."
+    },
+    {
+      "id": 5,
+      "text": "In warm tropical oceans, you can find colorful coral reefs, where very many plants, fish, and other animals live.",
+      "translation": "في المحيطات الاستوائية الدافئة، يمكنك العثور على الشعب المرجانية الملونة، حيث تعيش الكثير من النباتات والأسماك والحيوانات الأخرى."
+    },
+    {
+      "id": 6,
+      "text": "An ocean is always moving because of waves, currents, and tides.",
+      "translation": "المحيط في حركة مستمرة دائماً بسبب الأمواج والتيارات والمد والجزر."
+    },
+    {
+      "id": 7,
+      "text": "When the wind blows over the water, it makes waves.",
+      "translation": "عندما تهب الرياح فوق الماء، فإنها تشكل الأمواج."
+    },
+    {
+      "id": 8,
+      "text": "Currents are large amounts of warm or cold water that move around the ocean.",
+      "translation": "التيارات هي كميات كبيرة من المياه الدافئة أو الباردة التي تتحرك حول المحيط."
+    },
+    {
+      "id": 9,
+      "text": "An ocean also moves up the seashore and back again two times a day. These movements are called tides.",
+      "translation": "كما يتحرك المحيط صعوداً على الشاطئ ويعود مرة أخرى مرتين في اليوم. وتسمى هذه الحركات بالمد والجزر."
+    },
+    {
+      "id": 10,
+      "text": "Living in the ocean is very different to living on land.",
+      "translation": "العيش في المحيط مختلف تماماً عن العيش على اليابسة."
+    },
+    {
+      "id": 11,
+      "text": "Ocean plants and animals have special ways of breathing, eating, moving, and keeping safe.",
+      "translation": "تمتلك نباتات وحيوانات المحيط طرقاً خاصة للتنفس والأكل والحركة والحفاظ على سلامتها."
+    },
+    {
+      "id": 12,
+      "text": "The blue whale is the biggest animal in the world.",
+      "translation": "الحوت الأزرق هو أكبر حيوان في العالم."
+    },
+    {
+      "id": 13,
+      "text": "It can be more than 30 meters long!",
+      "translation": "يمكن أن يتجاوز طوله 30 متراً!"
+    },
+    {
+      "id": 14,
+      "text": "It moves well in the ocean because the water holds it up.",
+      "translation": "يتحرك بشكل جيد في المحيط لأن الماء يحمله ويرفعه."
+    },
+    {
+      "id": 15,
+      "text": "CHAPTER TWO: Who Eats What?",
+      "translation": "الفصل الثاني: من يأكل ماذا؟"
+    },
+    {
+      "id": 16,
+      "text": "In the ocean, there are lots of very small animals and plants called plankton.",
+      "translation": "في المحيط، يوجد الكثير من الحيوانات والنباتات الصغيرة جداً التي تُسمى العوالق."
+    },
+    {
+      "id": 17,
+      "text": "The plankton live near the top of the ocean because they need sunlight.",
+      "translation": "تعيش العوالق بالقرب من سطح المحيط لأنها تحتاج إلى ضوء الشمس."
+    },
+    {
+      "id": 18,
+      "text": "Small fish eat plankton. Big animals eat the small fish. Then even bigger animals eat them!",
+      "translation": "تأكل الأسماك الصغيرة العوالق. وتأكل الحيوانات الكبيرة الأسماك الصغيرة. ثم تأكلها حيوانات أكبر منها!"
+    },
+    {
+      "id": 19,
+      "text": "So plankton are important for almost every ocean animal. This is called a food chain.",
+      "translation": "لذلك تعد العوالق مهمة لكل حيوان بحري تقريباً. وتُسمى هذه السلسلة الغذائية."
+    },
+    {
+      "id": 20,
+      "text": "Animals that eat other animals are called predators.",
+      "translation": "الحيوانات التي تأكل حيوانات أخرى تُسمى المفترسات."
+    },
+    {
+      "id": 21,
+      "text": "The animals that they eat are called prey.",
+      "translation": "الحيوانات التي تأكلها تُسمى الفريسة."
+    },
+    {
+      "id": 22,
+      "text": "Most sharks are predators. Sharks can swim very fast to catch their prey.",
+      "translation": "معظم أسماك القرش مفترسة. يمكن لأسماك القرش السباحة بسرعة كبيرة للإمساك بفريستها."
+    },
+    {
+      "id": 23,
+      "text": "The whale shark is the biggest fish in the world. It's as long as a bus.",
+      "translation": "قرش الحوت هو أكبر سمكة في العالم. وهو بطول الحافلة."
+    },
+    {
+      "id": 24,
+      "text": "It has no teeth, so it only eats plankton and small shrimps.",
+      "translation": "ليس لديه أسنان، لذلك فهو يأكل العوالق والربيان الصغير فقط."
+    },
+    {
+      "id": 25,
+      "text": "Lots of seaweed called kelp grows near the seashore.",
+      "translation": "تنمو الكثير من الأعشاب البحرية التي تُسمى كِلب (Kelp) بالقرب من الشاطئ."
+    },
+    {
+      "id": 26,
+      "text": "The kelp is a safe home for many fish.",
+      "translation": "تعتبر هذه الأعشاب موطناً آمناً للعديد من الأسماك."
+    },
+    {
+      "id": 27,
+      "text": "Sea urchins eat kelp, and sea otters eat a lot of sea urchins.",
+      "translation": "تأكل قنافذ البحر هذه الأعشاب، وتأكل قضاعات البحر الكثير من قنافذ البحر."
+    },
+    {
+      "id": 28,
+      "text": "So sea otters help to keep enough kelp in the ocean for the fish to live in.",
+      "translation": "لذلك تساعد قضاعات البحر في الحفاظ على كمية كافية من الأعشاب البحرية في المحيط لتعيش فيها الأسماك."
+    },
+    {
+      "id": 29,
+      "text": "CHAPTER THREE: The Seashore",
+      "translation": "الفصل الثالث: شاطئ البحر"
+    },
+    {
+      "id": 30,
+      "text": "There's a lot of ocean life near the seashore because the water here is full of food.",
+      "translation": "توجد الكثير من الحياة البحرية بالقرب من الشاطئ لأن المياه هنا مليئة بالطعام."
+    },
+    {
+      "id": 31,
+      "text": "Many birds, fish, and shellfish live and feed near the seashore.",
+      "translation": "تعيش وتتغذى العديد من الطيور والأسماك والمحاريات بالقرب من الشاطئ."
+    },
+    {
+      "id": 32,
+      "text": "The seashore is not always a safe place. Big waves can throw animals onto rocks or carry them away.",
+      "translation": "شاطئ البحر ليس دائماً مكاناً آمناً. يمكن للأمواج الكبيرة أن تقذف الحيوانات على الصخور أو تجرفها بعيداً."
+    },
+    {
+      "id": 33,
+      "text": "At low tide, animals and plants can easily dry out in the sun.",
+      "translation": "عند الجزر، يمكن للحيوانات والنباتات أن تجف بسهولة تحت الشمس."
+    },
+    {
+      "id": 34,
+      "text": "Limpets are animals that have a special strong foot that holds onto rocks.",
+      "translation": "بليك (Limpets) هي حيوانات تمتلك قدماً قوية خاصة تلتصق بالصخور."
+    },
+    {
+      "id": 35,
+      "text": "This keeps them safe from big waves. They also have a hard shell so they don't dry out.",
+      "translation": "هذا يحميها من الأمواج الكبيرة. كما أن لديهم قوقعة صلبة حتى لا تجف."
+    },
+    {
+      "id": 36,
+      "text": "Most trees can't live in salty ocean water, but mangrove trees grow on the seashore in tropical places.",
+      "translation": "معظم الأشجار لا يمكنها العيش في مياه المحيط المالح، لكن أشجار المانغروف تنمو على الشاطئ في المناطق الاستوائية."
+    },
+    {
+      "id": 37,
+      "text": "They have special roots so they can live in salt water.",
+      "translation": "تمتلك جذوراً خاصة تسمح لها بالعيش في المياه المالحة."
+    },
+    {
+      "id": 38,
+      "text": "Many fish and other animals live under the roots of mangrove trees.",
+      "translation": "تعيش العديد من الأسماك والحيوانات الأخرى تحت جذور أشجار المانغروف."
+    },
+    {
+      "id": 39,
+      "text": "Under the water, sea anemones use their long tentacles to catch food and to sting their predators.",
+      "translation": "تحت الماء، تستخدم شقائق نعمان البحر أطرافها اللامسة الطويلة للإمساك بالطعام ولدغ مفترسيها."
+    },
+    {
+      "id": 40,
+      "text": "At low tide, they pull their tentacles in so they don't dry out.",
+      "translation": "عند الجزر، تسحب أطرافها اللامسة إلى الداخل حتى لا تجف."
+    },
+    {
+      "id": 41,
+      "text": "CHAPTER FOUR: Mammals and Birds",
+      "translation": "الفصل الرابع: الثدييات والطيور"
+    },
+    {
+      "id": 42,
+      "text": "A mammal is an animal that drinks milk from its mother and breathes air.",
+      "translation": "الثدييات هي حيوانات تشرب الحليب من أمهاتها وتتنفس الهواء."
+    },
+    {
+      "id": 43,
+      "text": "Most mammals, like people and elephants, live on land. Some mammals live in the ocean.",
+      "translation": "معظم الثدييات، مثل البشر والفيلة، تعيش على اليابسة. بعض الثدييات تعيش في المحيط."
+    },
+    {
+      "id": 44,
+      "text": "Because they feed and move in water, ocean mammals are different from land mammals in many ways.",
+      "translation": "نظراً لأنها تتغذى وتتحرك في الماء، فإن ثدييات المحيط تختلف عن ثدييات اليابسة بعدة طرق."
+    },
+    {
+      "id": 45,
+      "text": "The sea lion's body has a shape like a fish, so it can swim very fast.",
+      "translation": "جسم أسد البحر يشبه السمكة، لذا يمكنه السباحة بسرعة كبيرة."
+    },
+    {
+      "id": 46,
+      "text": "It doesn't have front legs, but it has flippers that pull it through the water.",
+      "translation": "ليس لديه أرجل أمامية، ولكن لديه زعانف تسحبه عبر الماء."
+    },
+    {
+      "id": 47,
+      "text": "Whales are ocean mammals. Like all whales, the sperm whale breathes through a hole on its head called a blowhole.",
+      "translation": "الحيتان من ثدييات المحيط. مثل جميع الحيتان، يتنفس حوت العنبر من خلال فتحة على رأسه تُسمى فتحة النفث."
+    },
+    {
+      "id": 48,
+      "text": "Sperm whales can stay underwater for two hours, and they can dive a long way down into the ocean.",
+      "translation": "يمكن لحيتان العنبر البقاء تحت الماء لمدة ساعتين، ويمكنها الغوص لمسافات بعيدة في أعماق المحيط."
+    },
+    {
+      "id": 49,
+      "text": "Some birds live, feed, and sleep on the ocean. They catch fish by diving under the water.",
+      "translation": "بعض الطيور تعيش وتتغذى وتنام على المحيط. وتصطاد الأسماك عن طريق الغوص تحت الماء."
+    },
+    {
+      "id": 50,
+      "text": "Some birds only come to the seashore to make nests and to lay eggs.",
+      "translation": "بعض الطيور تأتي إلى الشاطئ فقط لبناء الأعشاش ووضع البيض."
+    },
+    {
+      "id": 51,
+      "text": "The albatross has bigger wings than any other bird.",
+      "translation": "يمتلك طائر القطرس أجنحة أكبر من أي طائر آخر."
+    },
+    {
+      "id": 52,
+      "text": "The two wings can be more than 3 meters wide! The albatross can fly up to 1,000 kilometers a day.",
+      "translation": "يمكن أن يزيد عرض الجناحين عن 3 أمتار! ويمكن لطائر القطرس الطيران لمسافة تصل إلى 1000 كيلومتر في اليوم."
+    },
+    {
+      "id": 53,
+      "text": "CHAPTER FIVE: Coral Reefs",
+      "translation": "الفصل الخامس: الشعب المرجانية"
+    },
+    {
+      "id": 54,
+      "text": "Corals are small animals that make hard covers around themselves.",
+      "translation": "المرجان هي حيوانات صغيرة تبني أغطية صلبة حول نفسها."
+    },
+    {
+      "id": 55,
+      "text": "The covers are many different shapes and colors. Coral reefs are places where lots of corals live together. They are beautiful underwater worlds.",
+      "translation": "تأتي الأغطية بأشكال وألوان مختلفة عديدة. والشعاب المرجانية هي أماكن تعيش فيها الكثير من المرجانات معاً. إنها عوالم ساحرة تحت الماء."
+    },
+    {
+      "id": 56,
+      "text": "Many different plants and animals live on coral reefs. Coral reef fish are very colorful so they are camouflaged - it's not easy to see them near the coral.",
+      "translation": "تعيش العديد من النباتات والحيوانات المختلفة في الشعاب المرجانية. أسماك الشعاب المرجانية الملونة تتكيف بالتمويه، فليس من السهل رؤيتها بالقرب من المرجان."
+    },
+    {
+      "id": 57,
+      "text": "Clownfish live near the tentacles of sea anemones.",
+      "translation": "تعيش سمكة المهرج بالقرب من أطراف شقائق نعمان البحر."
+    },
+    {
+      "id": 58,
+      "text": "Predators don't come near because the tentacles can sting them. The Clownfish are safe because they have a special skin.",
+      "translation": "المفترسات لا تقترب لأن الأطراف اللامسة قد تلدغها. بينما تكون سمكة المهرج آمنة لأنها تمتلك جلداً خاصاً."
+    },
+    {
+      "id": 59,
+      "text": "Predators don't come near lionfish either. The spines of a lionfish can sting a fish and stop it moving, or even kill it.",
+      "translation": "كما لا تقترب المفترسات من سمكة الأسد أيضاً. أشواك سمكة الأسد يمكنها لدغ الأسماك وإيقاف حركتها أو حتى قتلها."
+    },
+    {
+      "id": 60,
+      "text": "Small fish called cleaner wrasse work hard on coral reefs.",
+      "translation": "أسماك صغيرة تُسمى سمك اللبروس المنظف تعمل بجد في الشعاب المرجانية."
+    },
+    {
+      "id": 61,
+      "text": "They eat the little plants and animals that live on big fish.",
+      "translation": "أنها تأكل النباتات والحيوانات الصغيرة التي تعيش على أجسام الأسماك الكبيرة."
+    },
+    {
+      "id": 62,
+      "text": "Big fish don't eat the cleaner wrasse. They open their mouths so the wrasse can clean inside!",
+      "translation": "الأسماك الكبيرة لا تأكل هذه الأسماك المنظفة، بل تفتح أفواهها لتتيح لها التنظيف من الداخل!"
+    },
+    {
+      "id": 63,
+      "text": "CHAPTER SIX: Keeping Safe",
+      "translation": "الفصل السادس: البقاء في أمان"
+    },
+    {
+      "id": 64,
+      "text": "Small fish and other animals have to keep safe from predators.",
+      "translation": "على الأسماك الصغيرة والحيوانات الأخرى الحفاظ على سلامتها من المفترسات."
+    },
+    {
+      "id": 65,
+      "text": "Some fish swim together in big groups called shoals.",
+      "translation": "تسبح بعض الأسماك معاً في مجموعات كبيرة تُسمى أسراب الأسماك."
+    },
+    {
+      "id": 66,
+      "text": "In a shoal, there are more fish to look out for predators. There are also lots of fish to eat. So if a fish is lucky, the predator eats one of the other fish!",
+      "translation": "في السرب، يتوفر عدد أكبر من الأسماك للانتباه للمفترسات. كما أن هناك الكثير من الأسماك. لذا إذا كانت السمكة محظوظة، سيأكل المفترس سمكة أخرى غيرها!"
+    },
+    {
+      "id": 67,
+      "text": "The leafy sea dragon is very well camouflaged. When it hides in seaweed, other fish can't see it.",
+      "translation": "تنين البحر المورق متخفٍ بشكل ممتاز. عندما يختبئ في الأعشاب البحرية، لا تستطيع الأسماك الأخرى رؤيته."
+    },
+    {
+      "id": 68,
+      "text": "If a starfish loses an arm, it can grow a new one.",
+      "translation": "إذا فقد نجم البحر ذراعاً، يمكنه إعادة تنمية ذراع جديد."
+    },
+    {
+      "id": 69,
+      "text": "Octopuses camouflage themselves by turning a different color.",
+      "translation": "الأخطبوط يتخفى عن طريق تغيير لونه إلى لون آخر."
+    },
+    {
+      "id": 70,
+      "text": "When an octopus is scared, it can also make a big cloud of black ink.",
+      "translation": "عندما يخاف الأخطبوط، يمكنه أيضاً إطلاق سحابة كبيرة من الحبر الأسود."
+    },
+    {
+      "id": 71,
+      "text": "This surprises predators and gives the octopus time to swim away.",
+      "translation": "هذا يفاجئ المفترسات ويمنح الأخطبوط الوقت الكافي للسباحة والهرب."
+    },
+    {
+      "id": 72,
+      "text": "When the porcupine fish sees a predator, it drinks lots of water. This makes its body big and round like a ball, and its spines stand up.",
+      "translation": "عندما يرى سمك الشيهم (السمك المنتفخ) مفترساً، يشرب الكثير من الماء. هذا يجعل جسمه كبيراً ومستديراً مثل الكرة، وتقف أشواكه حادة."
+    },
+    {
+      "id": 73,
+      "text": "Predators know that they can't eat it so they don't come near.",
+      "translation": "تعرف المفترسات أنها لا تستطيع أكله لذا لا تقترب منه."
+    },
+    {
+      "id": 74,
+      "text": "CHAPTER SEVEN: Catching Prey",
+      "translation": "الفصل السابع: صيد الفريسة"
+    },
+    {
+      "id": 75,
+      "text": "Big predators are very good at catching their prey.",
+      "translation": "المفترسات الكبيرة براعة جداً في صيد فرائسها."
+    },
+    {
+      "id": 76,
+      "text": "Sharks can smell and see very well. The hammerhead shark has nostrils and eyes at the ends of its head, so it can see and smell all around.",
+      "translation": "يمكن لأسماك القرش الشم والرؤية بشكل ممتاز. يتملك قرش مطرقة الرأس فتحتي أنف وعينين في أطراف رأسه، لذلك يمكنه الرؤية والشم في كل الاتجاهات."
+    },
+    {
+      "id": 77,
+      "text": "The electric ray can give other fish an electric shock. This stops them moving, or kills them, so that the ray can eat them.",
+      "translation": "يمكن لسمك الشفنين الكهربائي توجيه صدمة كهربائية للأسماك الأخرى. هذا يوقف حركتها أو يقتلها، ليمكنه أكلها."
+    },
+    {
+      "id": 78,
+      "text": "Electric rays make electricity. Some make enough electricity to work a television!",
+      "translation": "تولّد أسماك الشفنين الكهرباء. وبعضها يولد كهرباء تكفي لتشغيل جهاز تلفزيون!"
+    },
+    {
+      "id": 79,
+      "text": "All jellyfish have tentacles that can sting. When a fish swims near a jellyfish, the tentacles sting it many times. The jellyfish can then eat the fish.",
+      "translation": "كل قناديل البحر تملك أطرافاً لامسة يمكنها اللدغ. عندما تسبح سمكة بالقرب من قنديل البحر، تلدغها أطرافه عدة مرات، ثم يأكل القنديل السمكة."
+    },
+    {
+      "id": 80,
+      "text": "The anglerfish lives in deep water, where it's very dark and cold, but it has a small light on its head.",
+      "translation": "يعيش سمك الصائد (Anglerfish) في المياه العميقة حيث الظلام والبرودة الشديدة، ولكنه يملك ضوءاً صغيراً على رأسه."
+    },
+    {
+      "id": 81,
+      "text": "When small fish see the light, they think it's something that they can eat. When they swim near, the anglerfish eats them.",
+      "translation": "عندما ترى الأسماك الصغيرة الضوء، تعتقد أنه شيء يمكن أصله. وعندما تسبح بالقرب منه، يأكلها سمك الصائد."
+    },
+    {
+      "id": 82,
+      "text": "CHAPTER EIGHT: Icy Oceans",
+      "translation": "الفصل الثامن: المحيطات المتجمدة"
+    },
+    {
+      "id": 83,
+      "text": "Large parts of the Arctic Ocean and Southern Ocean have ice on them in winter. There are also big icebergs.",
+      "translation": "أجزاء كبيرة من المحيط المتجمد الشمالي والمحيط الجنوبي يغطيها الجليد في الشتاء. وتوجد أيضاً جبال جليدية ضخمة."
+    },
+    {
+      "id": 84,
+      "text": "In summer, a lot of the ice melts. Then there are little pieces of ice in the oceans, and the icebergs are smaller.",
+      "translation": "في الصيف، يذوب الكثير من الجليد. فتصبح هناك قطع صغيرة من الجليد في المحيطات، وتصغر الجبال الجليدية."
+    },
+    {
+      "id": 85,
+      "text": "Polar bears live in the Arctic. Most of the year, they live on ice.",
+      "translation": "تضم الدببة القطبية منطقة القطب الشمالي. وفي معظم أوقات السنة، تعيش على الجليد."
+    },
+    {
+      "id": 86,
+      "text": "They catch seals from holes in the ice. They also swim between the ice and icebergs.",
+      "translation": "تصطاد الفقمات من فتحات في الجليد. كما تسبح بين الجليد والجبال الجليدية."
+    },
+    {
+      "id": 87,
+      "text": "Polar bears are the biggest type of bear, but their cubs are very, very small when they are born.",
+      "translation": "الدببة القطبية هي أكبر أنواع الدببة، لكن صغارها تكون صغيرة جداً جداً عند ولادتها."
+    },
+    {
+      "id": 88,
+      "text": "In summer, the Southern Ocean has a lot of plankton. Many dolphins, whales, seals, and birds come there to feed.",
+      "translation": "في الصيف، يحتوي المحيط الجنوبي على الكثير من العوالق. وتأتي العديد من الدلافين والحيتان والفقمات والطيور إلى هناك للتغذية."
+    },
+    {
+      "id": 89,
+      "text": "Penguins live near the South Pole. They dive into the ocean for fish and other small animals.",
+      "translation": "يعيش البطريق بالقرب من القطب الجنوبي. يغوص في المحيط للبحث عن الأسماك والحيوانات الصغيرة الأخرى."
+    },
+    {
+      "id": 90,
+      "text": "They have special feathers that keep them warm and dry. Their feathers are so warm that penguins can sometimes get too hot!",
+      "translation": "لديهم ريش خاص يبقيهم دافئين وجافين. ريشهم دافئ جداً لدرجة أن البطاريق قد تشعر بالحرارة الزائدة أحياناً!"
+    },
+    {
+      "id": 91,
+      "text": "A penguin keeps its egg on its feet so it doesn't get cold on the ice.",
+      "translation": "يحفظ البطريق بيضته على قدميه حتى لا تبرد على الجليد."
+    },
+    {
+      "id": 92,
+      "text": "CHAPTER NINE: Farming the Oceans",
+      "translation": "الفصل التاسع: زراعة المحيطات"
+    },
+    {
+      "id": 93,
+      "text": "People started fishing a long time ago, but today, fishermen with big boats can catch a lot of fish. Sometimes we take too many fish from the ocean.",
+      "translation": "بدأ الناس الصيد منذ زمن طويل، ولكن اليوم، يمكن للصيادين بالقوارب الكبيرة صيد الكثير من الأسماك. في بعض الأحيان نأخذ أسماكاً أكثر من اللازم من المحيط."
+    },
+    {
+      "id": 94,
+      "text": "In many parts of the world, people farm fish in the ocean. The fish grow quickly, and they are also easy to catch.",
+      "translation": "في العديد من مناطق العالم، يربّي الناس الأسماك في المحيط. تنمو الأسماك بسرعة، ويسهل صيدها أيضاً."
+    },
+    {
+      "id": 95,
+      "text": "There are other types of farm in the ocean.",
+      "translation": "توجد أنواع أخرى من المزارع في المحيط."
+    },
+    {
+      "id": 96,
+      "text": "In some places, farmers grow seaweed. When the seaweed is big enough, farmers collect it and dry it on land.",
+      "translation": "في بعض الأماكن، يزرع المزارعون الأعشاب البحرية. وعندما تكبر الكفاية، يجمعونها ويجففونها على اليابسة."
+    },
+    {
+      "id": 97,
+      "text": "Then they sell it. People eat it, and other farmers put it on their fields. People use seaweed to make ice cream too.",
+      "translation": "ثم يبيعونها. يأكلها الناس، ويضعها مزارعون آخرون في حقولهم. كما يستخدم الناس الأعشاب البحرية لصنع المثلجات (الأيس كريم) أيضاً."
+    },
+    {
+      "id": 98,
+      "text": "In the Pacific Ocean, farmers grow pearls. They put pieces of shell inside shellfish called oysters and then they put the oysters on ropes.",
+      "translation": "في المحيط الهادئ، يزرع المزارعون اللؤلؤ. يضعون قطعاً من القواقع داخل محاريات تُسمى المحار، ثم يضعون المحار على حبال."
+    },
+    {
+      "id": 99,
+      "text": "Hard shiny covers called pearls grow around the shell pieces. Farmers sell pearls for a lot of money.",
+      "translation": "تنمو أغطية صلبة ولامعة تُسمى اللؤلؤ حول قطع القواقع. ويبيع المزارعون اللؤلؤ بمبالغ مالية كبيرة."
+    },
+    {
+      "id": 100,
+      "text": "CHAPTER TEN: Oceans in Danger",
+      "translation": "الفصل العاشر: محيطات في خطر"
+    },
+    {
+      "id": 101,
+      "text": "There are many dangers for ocean birds and other animals.",
+      "translation": "هناك العديد من الأخطار التي تهدد طيور المحيط والحيوانات الأخرى."
+    },
+    {
+      "id": 102,
+      "text": "Big boats carry oil across the oceans. If the oil goes into the water, birds and other animals eat it. It also gets on their skin or feathers. It can kill them.",
+      "translation": "تحمل السفن الكبيرة النفط عبر المحيطات. إذا تسرب النفط إلى الماء، تأكله الطيور والحيوانات الأخرى. كما يلتصق بجلدها أو ريشها، مما قد يؤدي لموتها."
+    },
+    {
+      "id": 103,
+      "text": "Dirty water and chemicals from toilets, factories, and farms also go into the oceans. They can kill plants, fish, and other animals.",
+      "translation": "المياه المتسخة والمواد الكيميائية من المراحيض والمصانع والمزارع تصب أيضاً في المحيطات، ويمكن أن تقتل النباتات والأسماك والحيوانات الأخرى."
+    },
+    {
+      "id": 104,
+      "text": "People leave things on the beach, too, and sometimes these things can hurt animals.",
+      "translation": "كما يترك الناس مخلفات على الشاطئ، وأحياناً يمكن لهذه الأشياء أن تؤذي الحيوانات."
+    },
+    {
+      "id": 105,
+      "text": "Sea turtles eat plastic bags because when they are in the water they look like jellyfish.",
+      "translation": "تأكل السلاحف البحرية الأكياس البلاستيكية لأنها عندما تكون في الماء تبدو مثل قناديل البحر."
+    },
+    {
+      "id": 106,
+      "text": "Sometimes, big fishing nets catch dolphins, sea turtles, seals, and birds. Coral reefs are not safe either because they need clean water. Boats can break them, too.",
+      "translation": "أحياناً تعترض شباك الصيد الكبيرة الدلافين والسلاحف البحرية والفقمات والطيور. والشعاب المرجانية ليست بآمنة أيضاً لأنها تحتاج إلى مياه نظيفة، ويمكن للقوارب حطامها أيضاً."
+    },
+    {
+      "id": 107,
+      "text": "So now we need to keep the ocean clean and safe.",
+      "translation": "لذا علينا الآن الحفاظ على المحيط نظيفاً وآمناً."
+    },
+    {
+      "id": 108,
+      "text": "There are new rules so people can't take too many fish from the ocean. There are also new types of fishing net.",
+      "translation": "توجد قواعد جديدة حتى لا يتكمن الناس من أخذ الكثير من الأسماك من المحيط. كما توجد أنواع جديدة من شباك الصيد."
+    },
+    {
+      "id": 109,
+      "text": "Big animals can swim out of these nets. Now there are also some marine parks - special places where the ocean is always clean and safe.",
+      "translation": "يمكن للحيوانات الكبيرة السباحة والخروج من هذه الشباك. وتوجد الآن أيضاً بعض الحدائق البحرية - وهي أماكن خاصة يكون فيها المحيط دائماً نظيفاً وآمناً."
     }
   ]
 }
