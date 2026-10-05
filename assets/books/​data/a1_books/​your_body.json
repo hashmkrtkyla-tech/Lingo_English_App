@@ -2,13 +2,587 @@
   "id": "a1_your_body",
   "title": "Your Body",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Your_Body-Louise_Spilsbury.mp3",
+  "audio_url": "assets/books/audio/a1_books/Your_Body-Jennifer_Gascoigne.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "The human body is an amazing living system.",
-      "translation": "جسم الإنسان نظام حي مذهل."
+      "id": 1,
+      "text": "Your Body",
+      "translation": "جسمك"
+    },
+    {
+      "id": 2,
+      "text": "Jennifer Gascoigne",
+      "translation": "جينيفر غاسكوين"
+    },
+    {
+      "id": 3,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 4,
+      "text": "Your Skin and Hair",
+      "translation": "جلدك وشعرك"
+    },
+    {
+      "id": 5,
+      "text": "You have skin everywhere on your body.",
+      "translation": "لديك جلد في كل مكان على جسمك."
+    },
+    {
+      "id": 6,
+      "text": "Your skin helps you to touch things.",
+      "translation": "يساعدك جلدك على لمس الأشياء."
+    },
+    {
+      "id": 7,
+      "text": "It helps you to know when things are hot or cold.",
+      "translation": "يساعدك على معرفة ما إذا كانت الأشياء ساخنة أم باردة."
+    },
+    {
+      "id": 8,
+      "text": "Skin stops dirt getting into your body.",
+      "translation": "يمنع الجلد الأوساخ من الدخول إلى جسمك."
+    },
+    {
+      "id": 9,
+      "text": "It stops water getting into your body when it's rainy and when you swim.",
+      "translation": "يمنع الماء من الدخول إلى جسمك عندما يكون الجو ممطراً وعندما تسبح."
+    },
+    {
+      "id": 10,
+      "text": "Hair grows out of your skin.",
+      "translation": "ينمو الشعر من جلدك."
+    },
+    {
+      "id": 11,
+      "text": "Hair on your arms and legs stands up when you're cold.",
+      "translation": "ينتصب الشعر على ذراعيك وساقيك عندما تشعر بالبرد."
+    },
+    {
+      "id": 12,
+      "text": "This stops your body getting too cold.",
+      "translation": "هذا يمنع جسمك من أن يصبح بارداً جداً."
+    },
+    {
+      "id": 13,
+      "text": "Your skin makes sweat when you're hot.",
+      "translation": "يُفرز جلدك العرق عندما تشعر بالحرارة."
+    },
+    {
+      "id": 14,
+      "text": "This stops your body getting too hot.",
+      "translation": "هذا يمنع جسمك من أن يصبح حاراً جداً."
+    },
+    {
+      "id": 15,
+      "text": "Protect your body!",
+      "translation": "احمِ جسمك!"
+    },
+    {
+      "id": 16,
+      "text": "Wash every day, so you can get dirt and sweat off your skin and hair.",
+      "translation": "اغتسل كل يوم، حتى تتمكن من إزالة الأوساخ والعرق عن جلدك وشعرك."
+    },
+    {
+      "id": 17,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 18,
+      "text": "Your Bones",
+      "translation": "عظامك"
+    },
+    {
+      "id": 19,
+      "text": "There are bones under your skin.",
+      "translation": "توجد عظام تحت جلدك."
+    },
+    {
+      "id": 20,
+      "text": "These bones make your skeleton.",
+      "translation": "تشكل هذه العظام هيكلك العظمي."
+    },
+    {
+      "id": 21,
+      "text": "Your skeleton helps you to stand up.",
+      "translation": "يساعدك هيكلك العظمي على الوقوف."
+    },
+    {
+      "id": 22,
+      "text": "There are joints in your skeleton, too.",
+      "translation": "توجد مفاصل في هيكلك العظمي أيضاً."
+    },
+    {
+      "id": 23,
+      "text": "Bones meet at joints.",
+      "translation": "تلتقي العظام عند المفاصل."
+    },
+    {
+      "id": 24,
+      "text": "Elbows and knees are joints.",
+      "translation": "المرفقان والركبتان مفاصل."
+    },
+    {
+      "id": 25,
+      "text": "Joints help you to move.",
+      "translation": "تساعدك المفاصل على الحركة."
+    },
+    {
+      "id": 26,
+      "text": "Knee joints help you to jump and kick.",
+      "translation": "تساعدك مفاصل الركبتين على القفز والركل."
+    },
+    {
+      "id": 27,
+      "text": "A baby has small bones.",
+      "translation": "لدى الطفل الرضيع عظام صغيرة."
+    },
+    {
+      "id": 28,
+      "text": "Bones grow and they make you big and tall.",
+      "translation": "تنمو العظام وتجعلك كبيراً وطويلاً."
+    },
+    {
+      "id": 29,
+      "text": "Your bones stop growing when you are about 20 years old.",
+      "translation": "تتوقف عظامك عن النمو عندما تبلغ حوالي 20 عاماً."
+    },
+    {
+      "id": 30,
+      "text": "Then there are 206 bones in your body!",
+      "translation": "ثم يكون هناك 206 عظمة في جسمك!"
+    },
+    {
+      "id": 31,
+      "text": "Protect your bones!",
+      "translation": "احمِ عظامك!"
+    },
+    {
+      "id": 32,
+      "text": "When you ride a skateboard, wear pads to protect your bones and joints.",
+      "translation": "عندما تركب لوح التزلج، ارتدِ واقيات لحماية عظامك ومفاصلك."
+    },
+    {
+      "id": 33,
+      "text": "Wear a helmet to protect your head, too.",
+      "translation": "ارتدِ خوذة لحماية رأسك أيضاً."
+    },
+    {
+      "id": 34,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 35,
+      "text": "Your Muscles",
+      "translation": "عضلاتك"
+    },
+    {
+      "id": 36,
+      "text": "What helps your bones and joints to walk, run, dance, and jump?",
+      "translation": "ما الذي يساعد عظامك ومفاصلك على المشي والجري والرقص والقفز؟"
+    },
+    {
+      "id": 37,
+      "text": "Muscles!",
+      "translation": "العضلات!"
+    },
+    {
+      "id": 38,
+      "text": "Muscles pull your bones to move your body.",
+      "translation": "تسحب العضلات عظامك لتحريك جسمك."
+    },
+    {
+      "id": 39,
+      "text": "Muscles in your legs help you to ride a bicycle.",
+      "translation": "تساعدك عضلات ساقيك على ركوب الدراجة."
+    },
+    {
+      "id": 40,
+      "text": "Muscles in your arms help you to row a boat.",
+      "translation": "تساعدك عضلات ذراعيك على تجديف القارب."
+    },
+    {
+      "id": 41,
+      "text": "There are more than 600 muscles in your body!",
+      "translation": "يوجد أكثر من 600 عضلة في جسمك!"
+    },
+    {
+      "id": 42,
+      "text": "Running, swimming, dancing, and riding a bicycle are types of exercise.",
+      "translation": "الجري والسباحة والرقص وركوب الدراجة هي أنواع من التمارين الرياضية."
+    },
+    {
+      "id": 43,
+      "text": "Exercise makes your muscles, bones, and joints strong.",
+      "translation": "تجعل التمارين عضلاتك وعظامك ومفاصلك قوية."
+    },
+    {
+      "id": 44,
+      "text": "Your heart is a type of muscle.",
+      "translation": "قلبك هو نوع من العضلات."
+    },
+    {
+      "id": 45,
+      "text": "Exercise makes your heart strong, too.",
+      "translation": "تجعل التمارين قلبك قوياً أيضاً."
+    },
+    {
+      "id": 46,
+      "text": "Protect your body!",
+      "translation": "احمِ جسمك!"
+    },
+    {
+      "id": 47,
+      "text": "Do exercise every day.",
+      "translation": "مارس التمارين الرياضية كل يوم."
+    },
+    {
+      "id": 48,
+      "text": "What is your favorite type of exercise?",
+      "translation": "ما هو نوعك المفضل من التمارين الرياضية؟"
+    },
+    {
+      "id": 49,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 50,
+      "text": "Your Eyes and Ears",
+      "translation": "عيناك وأذناك"
+    },
+    {
+      "id": 51,
+      "text": "Your eyes help you to see the world around you.",
+      "translation": "تساعدك عيناك على رؤية العالم من حولك."
+    },
+    {
+      "id": 52,
+      "text": "They open and close many times every day.",
+      "translation": "إنهما تفتحان وتغلقان عدة مرات كل يوم."
+    },
+    {
+      "id": 53,
+      "text": "This is called blinking.",
+      "translation": "وهذا ما يسمى بالرمش."
+    },
+    {
+      "id": 54,
+      "text": "When your eyes blink, they wash dirt out of your eyes.",
+      "translation": "عندما ترمش عيناك، فإنهما تغسلان الأوساخ من عينيك."
+    },
+    {
+      "id": 55,
+      "text": "At night, your eyes close so you can sleep.",
+      "translation": "في الليل، تنغلق عيناك حتى تتمكن من النوم."
+    },
+    {
+      "id": 56,
+      "text": "Your ears help you to listen to music.",
+      "translation": "تساعدك أذناك على الاستماع إلى الموسيقى."
+    },
+    {
+      "id": 57,
+      "text": "They help you to listen for cars in the street.",
+      "translation": "تساعدانك على الاستماع للسيارات في الشارع."
+    },
+    {
+      "id": 58,
+      "text": "Your ears can hear things when you sleep, too!",
+      "translation": "يمكن لأذنيك سماع الأشياء عندما تنام أيضاً!"
+    },
+    {
+      "id": 59,
+      "text": "Protect your eyes and ears!",
+      "translation": "احمِ عينيك وأذنيك!"
+    },
+    {
+      "id": 60,
+      "text": "On sunny days, wear sunglasses to protect your eyes.",
+      "translation": "في الأيام المشمسة، ارتدِ نظارات شمسية لحماية عينيك."
+    },
+    {
+      "id": 61,
+      "text": "Don't listen to very loud music - it's bad for your ears.",
+      "translation": "لا تستمع إلى موسيقى صاخبة جداً - إنها ضارة لأذنيك."
+    },
+    {
+      "id": 62,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 63,
+      "text": "Your Nose and Mouth",
+      "translation": "أنفك وفمك"
+    },
+    {
+      "id": 64,
+      "text": "You breathe through your nose and mouth.",
+      "translation": "أنت تتنفس من خلال أنفك وفمك."
+    },
+    {
+      "id": 65,
+      "text": "Your nose and mouth take air into your body.",
+      "translation": "يأخذ أنفك وفمك الهواء إلى جسمك."
+    },
+    {
+      "id": 66,
+      "text": "You breathe about 15 times every minute.",
+      "translation": "أنت تتنفس حوالي 15 مرة كل دقيقة."
+    },
+    {
+      "id": 67,
+      "text": "After exercise, people breathe fast.",
+      "translation": "بعد التمارين الرياضية، يتنفس الناس بسرعة."
+    },
+    {
+      "id": 68,
+      "text": "They can breathe 40 times every minute!",
+      "translation": "يمكنهم التنفس 40 مرة كل دقيقة!"
+    },
+    {
+      "id": 69,
+      "text": "Your nose helps you to smell things.",
+      "translation": "يساعدك أنفك على شم الأشياء."
+    },
+    {
+      "id": 70,
+      "text": "Your mouth helps you to talk and eat.",
+      "translation": "يساعدك فمك على التحدث والأكل."
+    },
+    {
+      "id": 71,
+      "text": "Your teeth bite food so you can eat it.",
+      "translation": "تعض أسنانك الطعام حتى تتمكن من أكله."
+    },
+    {
+      "id": 72,
+      "text": "Your body uses food to live and grow.",
+      "translation": "يستخدم جسمك الطعام للعيش والنمو."
+    },
+    {
+      "id": 73,
+      "text": "Protect your teeth!",
+      "translation": "احمِ أسنانك!"
+    },
+    {
+      "id": 74,
+      "text": "Brush your teeth after breakfast and after dinner, and don't eat lots of candy.",
+      "translation": "اغسل أسنانك بعد الإفطار وبعد العشاء، ولا تأكل الكثير من الحلوى."
+    },
+    {
+      "id": 75,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 76,
+      "text": "Your Brain",
+      "translation": "دماغك"
+    },
+    {
+      "id": 77,
+      "text": "Do you know how you read these words?",
+      "translation": "هل تعرف كيف تقرأ هذه الكلمات؟"
+    },
+    {
+      "id": 78,
+      "text": "Your brain tells you what your eyes see!",
+      "translation": "يخبرك دماغك بما تراه عيناك!"
+    },
+    {
+      "id": 79,
+      "text": "Your brain tells you what you see, hear, and touch.",
+      "translation": "يخبرك دماغك بما تراه وتسمعه وتلمسه."
+    },
+    {
+      "id": 80,
+      "text": "It tells your muscles when to move.",
+      "translation": "يخبر عضلاتك متى تتحرك."
+    },
+    {
+      "id": 81,
+      "text": "It helps you to write, speak, draw, and do puzzles.",
+      "translation": "يساعدك على الكتابة والتحدث والرسم وحل الألغاز."
+    },
+    {
+      "id": 82,
+      "text": "Your brain is amazing!",
+      "translation": "دماغك مذهل!"
+    },
+    {
+      "id": 83,
+      "text": "Your brain works all day and at night when you sleep!",
+      "translation": "يعمل دماغك طوال اليوم وفي الليل عندما تنام!"
+    },
+    {
+      "id": 84,
+      "text": "At night, it makes you breathe and it makes your heart work.",
+      "translation": "في الليل، يجعلك تتنفس ويجعل قلبك يعمل."
+    },
+    {
+      "id": 85,
+      "text": "At night, your brain helps you to remember things that you learn in the day.",
+      "translation": "في الليل، يساعدك دماغك على تذكر الأشياء التي تعلمتها في النهار."
+    },
+    {
+      "id": 86,
+      "text": "Protect your brain!",
+      "translation": "احمِ دماغك!"
+    },
+    {
+      "id": 87,
+      "text": "Wear a helmet when you ride a bicycle.",
+      "translation": "ارتدِ خوذة عندما تركب الدراجة."
+    },
+    {
+      "id": 88,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 89,
+      "text": "Getting Sick",
+      "translation": "المرض"
+    },
+    {
+      "id": 90,
+      "text": "Do you get sick?",
+      "translation": "هل تمرض؟"
+    },
+    {
+      "id": 91,
+      "text": "Germs are things that can make you sick.",
+      "translation": "الجراثيم هي أشياء يمكن أن تجعلك مريضاً."
+    },
+    {
+      "id": 92,
+      "text": "Germs can get in your body when you breathe and when you eat.",
+      "translation": "يمكن للجراثيم أن تدخل جسمك عندما تتنفس وعندما تأكل."
+    },
+    {
+      "id": 93,
+      "text": "Germs can get in your mouth from your fingers, too.",
+      "translation": "يمكن للجراثيم أن تدخل فمك من أصابعك أيضاً."
+    },
+    {
+      "id": 94,
+      "text": "Some germs get in your body when you get a cut in your skin.",
+      "translation": "تدخل بعض الجراثيم إلى جسمك عندما تصاب بجرح في جلدك."
+    },
+    {
+      "id": 95,
+      "text": "Wash your hands with soap and water to get germs off your fingers.",
+      "translation": "اغسل يديك بالماء والصابون لإزالة الجراثيم من أصابعك."
+    },
+    {
+      "id": 96,
+      "text": "Wash your hands when it's time to eat, after you go to the toilet, after you touch animals, and after you play outside.",
+      "translation": "اغسل يديك عند وقت الأكل، بعد الذهاب إلى المرحاض، بعد لمس الحيوانات، وبعد اللعب في الخارج."
+    },
+    {
+      "id": 97,
+      "text": "Stop germs!",
+      "translation": "أوقف الجراثيم!"
+    },
+    {
+      "id": 98,
+      "text": "There are germs in a sneeze.",
+      "translation": "توجد جراثيم في العطسة."
+    },
+    {
+      "id": 99,
+      "text": "Catch sneezes in a tissue.",
+      "translation": "غطِ العطسات بمنديل."
+    },
+    {
+      "id": 100,
+      "text": "Then throw the tissue in a wastebasket.",
+      "translation": "ثم ارمِ المنديل في سلة المهملات."
+    },
+    {
+      "id": 101,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 102,
+      "text": "Protect Your Body",
+      "translation": "احمِ جسمك"
+    },
+    {
+      "id": 103,
+      "text": "Eat food that's good for you.",
+      "translation": "تناول طعاماً مفيداً لك."
+    },
+    {
+      "id": 104,
+      "text": "Good food helps your bones to grow.",
+      "translation": "يساعد الطعام الجيد عظامك على النمو."
+    },
+    {
+      "id": 105,
+      "text": "It makes you strong, and it stops you getting sick.",
+      "translation": "يجعلك قوياً، ويمنعك من المرض."
+    },
+    {
+      "id": 106,
+      "text": "There's lots of water in your body.",
+      "translation": "يوجد الكثير من الماء في جسمك."
+    },
+    {
+      "id": 107,
+      "text": "You lose water when you go to the toilet and when your body makes sweat.",
+      "translation": "تفقد الماء عندما تذهب إلى المرحاض وعندما يفرز جسمك العرق."
+    },
+    {
+      "id": 108,
+      "text": "Drink water every day to protect your body.",
+      "translation": "اشرب الماء كل يوم لحماية جسمك."
+    },
+    {
+      "id": 109,
+      "text": "Go to the doctor when you get sick, and go to the dentist every year.",
+      "translation": "اذهب إلى الطبيب عندما تمرض، واذهب إلى طبيب الأسنان كل عام."
+    },
+    {
+      "id": 110,
+      "text": "Do exercise every day.",
+      "translation": "مارس التمارين الرياضية كل يوم."
+    },
+    {
+      "id": 111,
+      "text": "It's good to do exercise and it makes you happy.",
+      "translation": "من الجيد ممارسة الرياضة وهي تجعلك سعيداً."
+    },
+    {
+      "id": 112,
+      "text": "It's good to sleep when you are tired, too.",
+      "translation": "من الجيد النوم عندما تكون متعباً أيضاً."
+    },
+    {
+      "id": 113,
+      "text": "It's important to protect your body.",
+      "translation": "من المهم حماية جسمك."
+    },
+    {
+      "id": 114,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 115,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 116,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
