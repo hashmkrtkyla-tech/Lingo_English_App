@@ -2,13 +2,1207 @@
   "id": "a1_george_sees_stars",
   "title": "George Sees Stars",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/George_Sees_Stars-Dave_Cousins.mp3",
+  "audio_url": "assets/books/audio/a1_books/George_Sees_Stars-Dave_Couper.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "George looked up at the bright night sky.",
-      "translation": "نظر جورج إلى السماء الليلية المضيئة."
+      "id": 1,
+      "text": "George Sees Stars",
+      "translation": "جورج يرى النجوم"
+    },
+    {
+      "id": 2,
+      "text": "Dave Couper",
+      "translation": "ديف كوبر"
+    },
+    {
+      "id": 3,
+      "text": "Scene One",
+      "translation": "المشهد الأول"
+    },
+    {
+      "id": 4,
+      "text": "The telephone call",
+      "translation": "المكالمة الهاتفية"
+    },
+    {
+      "id": 5,
+      "text": "(In the Happy Holiday Hotel. It is three o'clock. George is talking to Mary.)",
+      "translation": "(في فندق هابي هوليداي. إنها الساعة الثالثة. جورج يتحدث مع ماري.)"
+    },
+    {
+      "id": 6,
+      "text": "(The telephone rings.)",
+      "translation": "(يرن الهاتف.)"
+    },
+    {
+      "id": 7,
+      "text": "George: Hello? Happy Holiday Hotel. George Harris here... Yes, I am the manager... Tony who? Oh, Tony Madoc the TV star. You're Tony Madoc's secretary. I see... Yes, that's fine... You want a large room for Tony and he wants to see the sea. Right? Yes, yes, I know - Tony's very important. A TV star. Yes... Fish, you say? Yes, that's easy. Right, then. Today... Tony's coming today. Fine... Goodbye and thank you!",
+      "translation": "جورج: مرحباً؟ فندق هابي هوليداي. جورج هاريس يتحدث... نعم، أنا المدير... توني من؟ أوه، توني مادوك نجم التلفزيون. أنت سكرتيرة توني مادوك. أرى... نعم، هذا جيد... تريد غرفة كبيرة لتوني وهو يريد رؤية البحر. صحيح؟ نعم، نعم، أعلم - توني مهم جداً. نجم تلفزيوني. نعم... سمك، كما تقولين؟ نعم، هذا سهل. حسناً، إذن. اليوم... توني قادم اليوم. جيد... وداعاً وشكراً لك!"
+    },
+    {
+      "id": 8,
+      "text": "(George puts down the telephone.)",
+      "translation": "(يضع جورج الهاتف.)"
+    },
+    {
+      "id": 9,
+      "text": "George: Today... Tony's coming today! Mary, listen! I've got good news!",
+      "translation": "جورج: اليوم... توني قادم اليوم! ماري، استمعي! لدي أخبار جيدة!"
+    },
+    {
+      "id": 10,
+      "text": "Mary: Don't shout George. What is it?",
+      "translation": "ماري: لا تصرخ يا جورج. ما الأمر؟"
+    },
+    {
+      "id": 11,
+      "text": "George: Tony Madoc - you know, the television star - is coming to our hotel this afternoon!",
+      "translation": "جورج: توني مادوك - كما تعلمين، نجم التلفزيون - قادم إلى فندقنا بعد ظهر اليوم!"
+    },
+    {
+      "id": 12,
+      "text": "Mary: Who?",
+      "translation": "ماري: من؟"
+    },
+    {
+      "id": 13,
+      "text": "George: Tony Madoc. He's famous! He's coming here at five o'clock today!",
+      "translation": "جورج: توني مادوك. إنه مشهور! إنه قادم إلى هنا في الساعة الخامسة اليوم!"
+    },
+    {
+      "id": 14,
+      "text": "Mary: He's a TV star, you say? Is he in Neighbours? I don't watch TV very much.",
+      "translation": "ماري: هل هو نجم تلفزيوني، كما تقول؟ هل هو في مسلسل الجيران؟ لا أشاهد التلفاز كثيراً."
+    },
+    {
+      "id": 15,
+      "text": "George: Neighbours? Probably. He's going to have our best room and our best food. I'm going to look at the room now.",
+      "translation": "جورج: الجيران؟ ربما. سيحصل على أفضل غرفة وأفضل طعام لدينا. سأذهب لإلقاء نظرة على الغرفة الآن."
+    },
+    {
+      "id": 16,
+      "text": "Mary: Fine, George, but I'm busy. I'm going to the supermarket.",
+      "translation": "ماري: حسناً يا جورج، لكنني مشغولة. سأذهب إلى السوبر ماركت."
+    },
+    {
+      "id": 17,
+      "text": "George: Don't be silly, Mary. You can't go to the shops now. He is a famous man. Do you understand? An important person.",
+      "translation": "جورج: لا تكوني سخيفة يا ماري. لا يمكنك الذهاب إلى المتاجر الآن. إنه رجل مشهور. هل تفهمين؟ شخص مهم."
+    },
+    {
+      "id": 18,
+      "text": "Mary: Tony Madoc? I don't know him. Is he very rich?",
+      "translation": "ماري: توني مادوك؟ لا أعرفه. هل هو غني جداً؟"
+    },
+    {
+      "id": 19,
+      "text": "George: I don't know, Mary. But he's very important. I know that.",
+      "translation": "جورج: لا أعرف يا ماري. لكنه مهم جداً. أعرف ذلك."
+    },
+    {
+      "id": 20,
+      "text": "Mary: Yes... Well... I'm going to the shops now. See you later, George.",
+      "translation": "ماري: نعم... حسناً... سأذهب إلى المتاجر الآن. أراك لاحقاً يا جورج."
+    },
+    {
+      "id": 21,
+      "text": "George: But, Mary... stop!",
+      "translation": "جورج: لكن يا ماري... توقفي!"
+    },
+    {
+      "id": 22,
+      "text": "Scene Two",
+      "translation": "المشهد الثاني"
+    },
+    {
+      "id": 23,
+      "text": "Fish for dinner",
+      "translation": "سمك للعشاء"
+    },
+    {
+      "id": 24,
+      "text": "(In the kitchen.)",
+      "translation": "(في المطبخ.)"
+    },
+    {
+      "id": 25,
+      "text": "George: Good morning, Judy! We've got good news. Tony Madoc is coming today. The famous TV star.",
+      "translation": "جورج: صباح الخير يا جودي! لدينا أخبار جيدة. توني مادوك قادم اليوم. نجم التلفزيون الشهير."
+    },
+    {
+      "id": 26,
+      "text": "Judy: Tony who? I don't think I know the name... I don't like TV. I like reading. Tony Madoc...?",
+      "translation": "جودي: توني من؟ لا أعتقد أنني أعرف الاسم... لا أحب التلفاز. أحب القراءة. توني مادوك...؟"
+    },
+    {
+      "id": 27,
+      "text": "George: That's right, Tony Madoc. Now what have you got for dinner? Have you got any fish? He likes fish, his secretary says.",
+      "translation": "جورج: هذا صحيح، توني مادوك. الآن ماذا لديك للعشاء؟ هل لديك أي سمك؟ إنه يحب السمك، كما تقول سكرتيرته."
+    },
+    {
+      "id": 28,
+      "text": "Judy: No, I haven't got any fish today, Mr Harris. Sorry. I've got some chicken.",
+      "translation": "جودي: لا، ليس لدي أي سمك اليوم يا سيد هاريس. آسفة. لدي بعض الدجاج."
+    },
+    {
+      "id": 29,
+      "text": "George: No. He wants fish. Can you buy some?",
+      "translation": "جورج: لا. إنه يريد سمكاً. هل يمكنك شراء بعض؟"
+    },
+    {
+      "id": 30,
+      "text": "Judy: Oh no, Mr Harris! I never buy fish on Thursdays. I always buy chicken.",
+      "translation": "جودي: أوه لا يا سيد هاريس! لا أشتري السمك أبداً أيام الخميس. أشتري الدجاج دائماً."
+    },
+    {
+      "id": 31,
+      "text": "George: Well, his secretary says fish, not chicken. Right?",
+      "translation": "جورج: حسناً، سكرتيرته تقول سمك، وليس دجاج. صحيح؟"
+    },
+    {
+      "id": 32,
+      "text": "Judy: Don't shout at me. I don't like it. I'm leaving. I'm not going to buy anything. I'm going home.",
+      "translation": "جودي: لا تصرخ في وجهي. لا أحب ذلك. سأغادر. لن أشتري أي شيء. سأذهب إلى المنزل."
+    },
+    {
+      "id": 33,
+      "text": "George: No Judy, please... stop! I'm sorry Judy. You're a good cook, Judy, a beautiful cook. Please don't leave now. Mr Madoc is coming here today and he wants fish. Please, please, please Judy, go and buy some nice fish.",
+      "translation": "جورج: لا يا جودي، من فضلك... توقفي! أنا آسف يا جودي. أنتِ طباخة جيدة يا جودي، طباخة رائعة. من فضلك لا تغادري الآن. السيد مادوك قادم إلى هنا اليوم ويريد سمكاً. من فضلك، من فضلك، من فضلك يا جودي، اذهبي واشتري بعض السمك الجيد."
+    },
+    {
+      "id": 34,
+      "text": "Judy: No. It's chicken on Thursdays. Right?",
+      "translation": "جودي: لا. إنه دجاج أيام الخميس. صحيح؟"
+    },
+    {
+      "id": 35,
+      "text": "George: Oh, OK Judy... chicken.",
+      "translation": "جورج: أوه، حسناً يا جودي... دجاج."
+    },
+    {
+      "id": 36,
+      "text": "Scene Three",
+      "translation": "المشهد الثالث"
+    },
+    {
+      "id": 37,
+      "text": "Flowers",
+      "translation": "الزهور"
+    },
+    {
+      "id": 38,
+      "text": "(In the garden.)",
+      "translation": "(في الحديقة.)"
+    },
+    {
+      "id": 39,
+      "text": "Peter: Hello, Mr Harris. You don't usually come into the garden. Can I help you?",
+      "translation": "بيتر: مرحباً يا سيد هاريس. أنت لا تأتي عادةً إلى الحديقة. هل يمكنني مساعدتك؟"
+    },
+    {
+      "id": 40,
+      "text": "George: Hello, Peter. I need some flowers for our best room.",
+      "translation": "جورج: مرحباً يا بيتر. أحتاج بعض الزهور لأفضل غرفة لدينا."
+    },
+    {
+      "id": 41,
+      "text": "Peter: What? Ten hours on the telephone? That's a long time... and expensive too!",
+      "translation": "بيتر: ماذا؟ عشر ساعات على الهاتف؟ هذا وقت طويل... ومكلف أيضاً!"
+    },
+    {
+      "id": 42,
+      "text": "George: No, Peter. Not ten hours! I want SOME FLOWERS for our best ROOM.",
+      "translation": "جورج: لا يا بيتر. ليس عشر ساعات! أريد بعض الزهور لأفضل غرفة لدينا."
+    },
+    {
+      "id": 43,
+      "text": "Peter: OK, OK. Don't shout, Mr Harris. I can hear you. Flowers. I've got lots of flowers.",
+      "translation": "بيتر: حسناً، حسناً. لا تصرخ يا سيد هاريس. أستطيع سماعك. زهور. لدي الكثير من الزهور."
+    },
+    {
+      "id": 44,
+      "text": "George: Thanks, Peter. They're for an important TV star. He's coming here today.",
+      "translation": "جورج: شكراً يا بيتر. إنها لنجم تلفزيوني مهم. إنه قادم إلى هنا اليوم."
+    },
+    {
+      "id": 45,
+      "text": "Peter: What's that? Your green car?",
+      "translation": "بيتر: ما هذا؟ سيارتك الخضراء؟"
+    },
+    {
+      "id": 46,
+      "text": "George: No, Peter. No. A TV STAR, HERE TODAY!",
+      "translation": "جورج: لا يا بيتر. لا. نجم تلفزيوني، هنا اليوم!"
+    },
+    {
+      "id": 47,
+      "text": "Peter: OK, Mr Harris. Don't shout, don't shout. I can hear you.",
+      "translation": "بيتر: حسناً يا سيد هاريس. لا تصرخ، لا تصرخ. أستطيع سماعك."
+    },
+    {
+      "id": 48,
+      "text": "Scene Four",
+      "translation": "المشهد الرابع"
+    },
+    {
+      "id": 49,
+      "text": "The new light for Tony's room",
+      "translation": "الضوء الجديد لغرفة توني"
+    },
+    {
+      "id": 50,
+      "text": "(In the corridor.)",
+      "translation": "(في الممر.)"
+    },
+    {
+      "id": 51,
+      "text": "George: Mary, can you help me? Take these flowers to Tony's room, please. I've got this new light for the room. Do you like it?",
+      "translation": "جورج: ماري، هل يمكنك مساعدتي؟ خذي هذه الزهور إلى غرفة توني، من فضلك. لدي هذا الضوء الجديد للغرفة. هل يعجبك؟"
+    },
+    {
+      "id": 52,
+      "text": "(The new light is green. It has yellow and red flowers on it.)",
+      "translation": "(الضوء الجديد أخضر. عليه زهور صفراء وحمراء.)"
+    },
+    {
+      "id": 53,
+      "text": "Mary: Oh, George! It's horrible. You can't put that in his room!",
+      "translation": "ماري: أوه، جورج! إنه فظيع. لا يمكنك وضع ذلك في غرفته!"
+    },
+    {
+      "id": 54,
+      "text": "George: Yes, I can. I think it's beautiful. I like it and I'm going to put it up now. Can you help me?",
+      "translation": "جورج: نعم، أستطيع. أعتقد أنه جميل. يعجبني وسأقوم بتركيبه الآن. هل يمكنك مساعدتي؟"
+    },
+    {
+      "id": 55,
+      "text": "Mary: Oh, all right. Give me the flowers.",
+      "translation": "ماري: أوه، حسناً. أعطني الزهور."
+    },
+    {
+      "id": 56,
+      "text": "(In the room.)",
+      "translation": "(في الغرفة.)"
+    },
+    {
+      "id": 57,
+      "text": "George: Hold the ladder, Mary. I'm going to put the light up. Careful, now!",
+      "translation": "جورج: امسكي السلم يا ماري. سأقوم بتركيب الضوء. احذري الآن!"
+    },
+    {
+      "id": 58,
+      "text": "Mary: I want a cup of coffee.",
+      "translation": "ماري: أريد فنجاناً من القهوة."
+    },
+    {
+      "id": 59,
+      "text": "George: Please, Mary. Not now. Hold the ladder for me... Careful! There!",
+      "translation": "جورج: من فضلك يا ماري. ليس الآن. امسكي السلم من أجلي... احذري! هناك!"
+    },
+    {
+      "id": 60,
+      "text": "Mary: Ouch! You're standing on my hand.",
+      "translation": "ماري: آخ! أنت تقف على يدي."
+    },
+    {
+      "id": 61,
+      "text": "George: Hold the ladder, Mary. Don't go, Mary...! Ah! Help!",
+      "translation": "جورج: امسكي السلم يا ماري. لا تذهبي يا ماري...! آه! النجدة!"
+    },
+    {
+      "id": 62,
+      "text": "(He falls off the ladder.)",
+      "translation": "(يسقط من على السلم.)"
+    },
+    {
+      "id": 63,
+      "text": "George: Ooh... my head!",
+      "translation": "جورج: أوه... رأسي!"
+    },
+    {
+      "id": 64,
+      "text": "Scene Five",
+      "translation": "المشهد الخامس"
+    },
+    {
+      "id": 65,
+      "text": "An old woman arrives",
+      "translation": "وصول امرأة عجوز"
+    },
+    {
+      "id": 66,
+      "text": "(It is five o'clock. A woman is getting out of a taxi.)",
+      "translation": "(إنها الساعة الخامسة. امرأة تخرج من سيارة أجرة.)"
+    },
+    {
+      "id": 67,
+      "text": "Woman: Good afternoon! Are you the manager?",
+      "translation": "المرأة: مساء الخير! هل أنت المدير؟"
+    },
+    {
+      "id": 68,
+      "text": "George: Er, no... yes! Yes, I am.",
+      "translation": "جورج: آه، لا... نعم! نعم، أنا كذلك."
+    },
+    {
+      "id": 69,
+      "text": "Woman: Have you got a room here for me?",
+      "translation": "المرأة: هل لديك غرفة لي هنا؟"
+    },
+    {
+      "id": 70,
+      "text": "George: A room? Oh no. I'm afraid we're full. We're very busy this year.",
+      "translation": "جورج: غرفة؟ أوه لا. أخشى أننا ممتلئون. نحن مشغولون جداً هذا العام."
+    },
+    {
+      "id": 71,
+      "text": "Woman: What! No rooms. Busy? But I think my...",
+      "translation": "المرأة: ماذا! لا توجد غرف. مشغولون؟ لكني أعتقد أن..."
+    },
+    {
+      "id": 72,
+      "text": "George: That's right, no rooms. We've got important people in the hotel today. But er... what's your name?",
+      "translation": "جورج: هذا صحيح، لا توجد غرف. لدينا أشخاص مهمون في الفندق اليوم. لكن آه... ما اسمك؟"
+    },
+    {
+      "id": 73,
+      "text": "Woman: Margaret Adams. And I'm tired, too.",
+      "translation": "المرأة: مارغريت آدامز. وأنا متعبة أيضاً."
+    },
+    {
+      "id": 74,
+      "text": "George: Oh, all right. Come in.",
+      "translation": "جورج: أوه، حسناً. تفضلي بالدخول."
+    },
+    {
+      "id": 75,
+      "text": "(In the hotel again.)",
+      "translation": "(في الفندق مرة أخرى.)"
+    },
+    {
+      "id": 76,
+      "text": "George: Yes, you can have a room for one or two nights. But it's small and you can't see the sea.",
+      "translation": "جورج: نعم، يمكنك الحصول على غرفة لليلة أو ليلتين. لكنها صغيرة ولا يمكنك رؤية البحر."
+    },
+    {
+      "id": 77,
+      "text": "Woman: But I want to see the sea. Have you got any other rooms?",
+      "translation": "المرأة: لكنني أريد رؤية البحر. هل لديك أي غرف أخرى؟"
+    },
+    {
+      "id": 78,
+      "text": "George: I don't know... No. There isn't another room. We're very busy, you see.",
+      "translation": "جورج: لا أعرف... لا. لا توجد غرفة أخرى. نحن مشغولون جداً، كما ترين."
+    },
+    {
+      "id": 79,
+      "text": "Woman: And I'm very tired. The small room's OK. Why are you busy?",
+      "translation": "المرأة: وأنا متعبة جداً. الغرفة الصغيرة جيدة. لماذا أنتم مشغولون؟"
+    },
+    {
+      "id": 80,
+      "text": "George: A famous TV star is coming.",
+      "translation": "جورج: نجم تلفزيوني مشهور قادم."
+    },
+    {
+      "id": 81,
+      "text": "Woman: Oh, very interesting. Do you like TV?",
+      "translation": "المرأة: أوه، مثير للاهتمام للغاية. هل تحب التلفاز؟"
+    },
+    {
+      "id": 82,
+      "text": "George: No... er... yes! Very much.",
+      "translation": "جورج: لا... آه... نعم! كثيراً."
+    },
+    {
+      "id": 83,
+      "text": "Woman: Yes, I do too. I like films best.",
+      "translation": "المرأة: نعم، وأنا أيضاً. أحب الأفلام أكثر."
+    },
+    {
+      "id": 84,
+      "text": "(She laughs.)",
+      "translation": "(تضحك.)"
+    },
+    {
+      "id": 85,
+      "text": "George: Here's your key. Your room is number 5.",
+      "translation": "جورج: هذا مفتاحك. غرفتك رقم 5."
+    },
+    {
+      "id": 86,
+      "text": "Woman: Thank you. I'm going up to my room now. Please bring my bag - it's outside, in the street.",
+      "translation": "المرأة: شكراً لك. سأصعد إلى غرفتي الآن. من فضلك أحضر حقيبتي - إنها بالخارج، في الشارع."
+    },
+    {
+      "id": 87,
+      "text": "(The woman goes out.)",
+      "translation": "(تخرج المرأة.)"
+    },
+    {
+      "id": 88,
+      "text": "George: Her bag? I haven't got time. I can't take her bag to her room.",
+      "translation": "جورج: حقيبتها؟ ليس لدي وقت. لا يمكنني أخذ حقيبتها إلى غرفتها."
+    },
+    {
+      "id": 89,
+      "text": "(George carries the woman's bag into the hotel and quickly puts it in a cupboard. Mary comes in. She is drinking coffee.)",
+      "translation": "(يحمل جورج حقيبة المرأة إلى الفندق ويضعها بسرعة في خزانة. تدخل ماري. إنها تشرب القهوة.)"
+    },
+    {
+      "id": 90,
+      "text": "Mary: Who's that woman, George?",
+      "translation": "ماري: من تلك المرأة يا جورج؟"
+    },
+    {
+      "id": 91,
+      "text": "George: That's... er... Miss Adams. She's in room 5.",
+      "translation": "جورج: تلك... آه... الآنسة آدامز. إنها في الغرفة 5."
+    },
+    {
+      "id": 92,
+      "text": "Mary: Oh, that's a horrible room. It's very small and you can't see the sea.",
+      "translation": "ماري: أوه، تلك غرفة فظيعة. إنها صغيرة جداً ولا يمكنك رؤية البحر."
+    },
+    {
+      "id": 93,
+      "text": "George: That's right. But it is quiet. It's fine for her. She's only going to stay for one or two nights. Do you like the new light in the big room? It's nice, I think... very nice.",
+      "translation": "جورج: هذا صحيح. لكنها هادئة. إنها جيدة لها. ستبقى لليلة أو ليلتين فقط. هل أعجبك الضوء الجديد في الغرفة الكبيرة؟ إنه جميل، كما أعتقد... جميل جداً."
+    },
+    {
+      "id": 94,
+      "text": "Mary: It's horrible, George. Red and yellow flowers! Ugh! And it's very big. Is it safe?",
+      "translation": "ماري: إنه فظيع يا جورج. زهور حمراء وصفراء! أقرف! وهو كبير جداً. هل هو آمن؟"
+    },
+    {
+      "id": 95,
+      "text": "George: Safe? Yes, oh yes, it's safe. Ha, ha!",
+      "translation": "جورج: آمن؟ نعم، أوه نعم، إنه آمن. ها، ها!"
+    },
+    {
+      "id": 96,
+      "text": "Scene Six",
+      "translation": "المشهد السادس"
+    },
+    {
+      "id": 97,
+      "text": "The TV star",
+      "translation": "نجم التلفزيون"
+    },
+    {
+      "id": 98,
+      "text": "(It is half past five. A young man is coming into the hotel carrying a small bag. He is wearing jeans.)",
+      "translation": "(إنها الخامسة والنصف. شاب يدخل الفندق حاملاً حقيبة صغيرة. يرتدي بنطال جينز.)"
+    },
+    {
+      "id": 99,
+      "text": "George: Oh, hello, hello. Welcome!",
+      "translation": "جورج: أوه، مرحباً، مرحباً. أهلاً بك!"
+    },
+    {
+      "id": 100,
+      "text": "Young man: Hello.",
+      "translation": "الشاب: مرحباً."
+    },
+    {
+      "id": 101,
+      "text": "George: Thank you, thank you, thank you.",
+      "translation": "جورج: شكراً لك، شكراً لك، شكراً لك."
+    },
+    {
+      "id": 102,
+      "text": "(He takes the man's hand.)",
+      "translation": "(يأخذ يد الرجل.)"
+    },
+    {
+      "id": 103,
+      "text": "Young man: That's OK... er, why?",
+      "translation": "الشاب: لا بأس... آه، لماذا؟"
+    },
+    {
+      "id": 104,
+      "text": "George: You've got the big room, and there's a new light in there for you too - a beautiful new light.",
+      "translation": "جورج: لقد حصلت على الغرفة الكبيرة، وهناك ضوء جديد هناك لك أيضاً - ضوء جديد جميل."
+    },
+    {
+      "id": 105,
+      "text": "Young man: Very nice. Thank you very much. But I don't understand.",
+      "translation": "الشاب: جميل جداً. شكراً جزيلاً. لكنني لا أفهم."
+    },
+    {
+      "id": 106,
+      "text": "George: Well, you're famous. You're a TV star.",
+      "translation": "جورج: حسناً، أنت مشهور. أنت نجم تلفزيوني."
+    },
+    {
+      "id": 107,
+      "text": "Young man: Me? Famous? A TV star?",
+      "translation": "الشاب: أنا؟ مشهور؟ نجم تلفزيوني؟"
+    },
+    {
+      "id": 108,
+      "text": "(He laughs.)",
+      "translation": "(يضحك.)"
+    },
+    {
+      "id": 109,
+      "text": "George: And here's the key to your room. I can take your bag.",
+      "translation": "جورج: وهذا مفتاح غرفتك. يمكنني أخذ حقيبتك."
+    },
+    {
+      "id": 110,
+      "text": "Young man: Oh, thank you, but it's not heavy. I can carry it. And I'm not famous.",
+      "translation": "الشاب: أوه، شكراً لك، لكنها ليست ثقيلة. يمكنني حملها. وأنا لست مشهوراً."
+    },
+    {
+      "id": 111,
+      "text": "George: Yes, you are.",
+      "translation": "جورج: نعم، أنت كذلك."
+    },
+    {
+      "id": 112,
+      "text": "Young man: But I'm not.",
+      "translation": "الشاب: لكنني لست كذلك."
+    },
+    {
+      "id": 113,
+      "text": "George: Ah, I see... you're not famous. You don't want any TV cameras here. Ha, ha! Yes, I understand.",
+      "translation": "جورج: آه، أرى... أنت لست مشهوراً. لا تريد أي كاميرات تلفزيونية هنا. ها، ها! نعم، أنا أفهم."
+    },
+    {
+      "id": 114,
+      "text": "Young man: You understand?",
+      "translation": "الشاب: هل تفهم؟"
+    },
+    {
+      "id": 115,
+      "text": "George: Yes. You want a quiet holiday. You're not famous. Ha, ha! All right, I understand.",
+      "translation": "جورج: نعم. تريد عطلة هادئة. أنت لست مشهوراً. ها، ها! حسناً، أنا أفهم."
+    },
+    {
+      "id": 116,
+      "text": "Young man: Good. Can I see the sea from my room?",
+      "translation": "الشاب: جيد. هل يمكنني رؤية البحر من غرفتي؟"
+    },
+    {
+      "id": 117,
+      "text": "George: Oh, yes, it's one of the rooms in the front of the hotel. It's very nice.",
+      "translation": "جورج: أوه، نعم، إنها إحدى الغرف في واجهة الفندق. إنها جميلة جداً."
+    },
+    {
+      "id": 118,
+      "text": "Young man: Is it expensive? I haven't got a lot of money, you know.",
+      "translation": "الشاب: هل هي غالية؟ ليس لدي الكثير من المال، كما تعلم."
+    },
+    {
+      "id": 119,
+      "text": "George: That's OK. I like you. I don't need the money. For you, the room is free!",
+      "translation": "جورج: لا بأس. أنا معجب بك. لا أحتاج المال. بالنسبة لك، الغرفة مجانية!"
+    },
+    {
+      "id": 120,
+      "text": "Young man: I don't understand...",
+      "translation": "الشاب: أنا لا أفهم..."
+    },
+    {
+      "id": 121,
+      "text": "George: Mary! Mary! Come here! Come and meet Mr Madoc!",
+      "translation": "جورج: ماري! ماري! تعالي هنا! تعالي وقابلي السيد مادوك!"
+    },
+    {
+      "id": 122,
+      "text": "(Mary comes in. She is holding a cup of coffee.)",
+      "translation": "(تدخل ماري. إنها تحمل فنجاناً من القهوة.)"
+    },
+    {
+      "id": 123,
+      "text": "Mary: What do you want now?",
+      "translation": "ماري: ماذا تريد الآن؟"
+    },
+    {
+      "id": 124,
+      "text": "George: Mary, meet Mr Madoc. This is my wife, Mary.",
+      "translation": "جورج: ماري، قابلي السيد مادوك. هذه زوجتي، ماري."
+    },
+    {
+      "id": 125,
+      "text": "(George takes Mary's arm. Her coffee goes over the young man's jeans.)",
+      "translation": "(يأخذ جورج ذراع ماري. تنثر قهوتها على بنطال الشاب الجينز.)"
+    },
+    {
+      "id": 126,
+      "text": "Mary: Oh, I'm very sorry! Your jeans! I'm sorry, Mr... Mr...",
+      "translation": "ماري: أوه، أنا آسفة جداً! بنطالك! أنا آسفة يا سيد... سيد..."
+    },
+    {
+      "id": 127,
+      "text": "Young man: Mr Brown. Paul Brown.",
+      "translation": "الشاب: السيد براون. بول براون."
+    },
+    {
+      "id": 128,
+      "text": "George: I'm sorry, Mr Madoc. Please excuse my wife. We can clean your jeans for you here. I'm very sorry.",
+      "translation": "جورج: أنا آسف يا سيد مادوك. من فضلك اعذر زوجتي. يمكننا تنظيف بنطالك هنا. أنا آسف جداً."
+    },
+    {
+      "id": 129,
+      "text": "Young man: Oh, it's all right. It isn't important. I can wash my jeans.",
+      "translation": "الشاب: أوه، لا بأس. الأمر ليس مهماً. يمكنني غسل بنطالي."
+    },
+    {
+      "id": 130,
+      "text": "Mary: I'm sorry, Mr Brown.",
+      "translation": "ماري: أنا آسفة يا سيد براون."
+    },
+    {
+      "id": 131,
+      "text": "George: Don't be silly, Mary! His name is Mr Madoc.",
+      "translation": "جورج: لا تكوني سخيفة يا ماري! اسمه السيد مادوك."
+    },
+    {
+      "id": 132,
+      "text": "Young man: Er, no... my name is Paul Brown.",
+      "translation": "الشاب: آه، لا... اسمي بول براون."
+    },
+    {
+      "id": 133,
+      "text": "George: Yes, Mary, in this hotel his name is Paul Brown, but on TV his name is Tony Madoc. You understand ... he wants a quiet holiday.",
+      "translation": "جورج: نعم يا ماري، في هذا الفندق اسمه بول براون، لكن على التلفاز اسمه توني مادوك. أنت تفهمين... إنه يريد عطلة هادئة."
+    },
+    {
+      "id": 134,
+      "text": "(He smiles at the young man.)",
+      "translation": "(يبتسم للشاب.)"
+    },
+    {
+      "id": 135,
+      "text": "Young man: What?",
+      "translation": "الشاب: ماذا؟"
+    },
+    {
+      "id": 136,
+      "text": "George: Mary, please ask Peter to take Mr Brown's bag to his room. Quickly now! Thank you.",
+      "translation": "جورج: ماري، من فضلك اطلبي من بيتر أخذ حقيبة السيد براون إلى غرفته. بسرعة الآن! شكراً لك."
+    },
+    {
+      "id": 137,
+      "text": "Mary: Can I get another cup of coffee?",
+      "translation": "ماري: هل يمكنني الحصول على فنجان قهوة آخر؟"
+    },
+    {
+      "id": 138,
+      "text": "George: No, Mary, you can't. The bag, Mary. Do you like flowers, Mr Brown? You've got some nice flowers in your room. They're from our garden, you know.",
+      "translation": "جورج: لا يا ماري، لا يمكنك. الحقيبة يا ماري. هل تحب الزهور يا سيد براون؟ لديك بعض الزهور الجميلة في غرفتك. إنها من حديقتنا، كما تعلم."
+    },
+    {
+      "id": 139,
+      "text": "Young man: Oh, no. I'm sorry. I don't like flowers very much.",
+      "translation": "الشاب: أوه، لا. أنا آسف. لا أحب الزهور كثيراً."
+    },
+    {
+      "id": 140,
+      "text": "George: Fine, fine. I don't like flowers either. Mary, put the flowers in the kitchen, please.",
+      "translation": "جورج: جيد، جيد. أنا لا أحب الزهور أيضاً. ماري، ضعي الزهور في المطبخ، من فضلك."
+    },
+    {
+      "id": 141,
+      "text": "Mary: But Peter's going to be very angry, George.",
+      "translation": "ماري: لكن بيتر سيكون غاضباً جداً يا جورج."
+    },
+    {
+      "id": 142,
+      "text": "George: In the kitchen, Mary.",
+      "translation": "جورج: في المطبخ يا ماري."
+    },
+    {
+      "id": 143,
+      "text": "(Mary and the young man go out. The woman comes in.)",
+      "translation": "(تخرج ماري والشاب. تدخل المرأة.)"
+    },
+    {
+      "id": 144,
+      "text": "Woman: Excuse me, but where's my bag?",
+      "translation": "المرأة: عفواً، لكن أين حقيبتي؟"
+    },
+    {
+      "id": 145,
+      "text": "George: What? Oh, your bag? It's here.",
+      "translation": "جورج: ماذا؟ أوه، حقيبتك؟ إنها هنا."
+    },
+    {
+      "id": 146,
+      "text": "Woman: I need it in my room.",
+      "translation": "المرأة: أحتاجها في غرفتي."
+    },
+    {
+      "id": 147,
+      "text": "George: Yes, yes. I'm sorry, Mrs... er... but not now. I am going to take it to your room, but I'm very busy now. We have a very important person in the hotel.",
+      "translation": "جورج: نعم، نعم. أنا آسف يا سيدة... آه... لكن ليس الآن. سآخذها إلى غرفتك، لكنني مشغول جداً الآن. لدينا شخص مهم جداً في الفندق."
+    },
+    {
+      "id": 148,
+      "text": "Woman: But my glasses are in the bag. I can't learn the new play without my glasses...",
+      "translation": "المرأة: لكن نظارتي في الحقيبة. لا يمكنني تعلم المسرحية الجديدة بدون نظارتي..."
+    },
+    {
+      "id": 149,
+      "text": "George: Sorry, Mrs... er ... not now.",
+      "translation": "جورج: آسف يا سيدة... آه... ليس الآن."
+    },
+    {
+      "id": 150,
+      "text": "(The young man comes in again.)",
+      "translation": "(يدخل الشاب مرة أخرى.)"
+    },
+    {
+      "id": 151,
+      "text": "George: Mr Brown! There you are! Is the room OK, Mr Brown?",
+      "translation": "جورج: سيد براون! ها أنت ذا! هل الغرفة جيدة يا سيد براون؟"
+    },
+    {
+      "id": 152,
+      "text": "Young man: Yes, it's fine, thank you.",
+      "translation": "الشاب: نعم، إنها جيدة، شكراً لك."
+    },
+    {
+      "id": 153,
+      "text": "George: Good, good. Would you like anything? A drink? Some champagne? A television?",
+      "translation": "جورج: جيد، جيد. هل تريد أي شيء؟ مشروب؟ بعض الشمبانيا؟ تلفاز؟"
+    },
+    {
+      "id": 154,
+      "text": "Young man: No, nothing, thank you.",
+      "translation": "الشاب: لا، لا شيء، شكراً لك."
+    },
+    {
+      "id": 155,
+      "text": "George: Please, have a drink. Mary! Bring a bottle of champagne.",
+      "translation": "جورج: من فضلك، تناول مشروباً. ماري! أحضري زجاجة شمبانيا."
+    },
+    {
+      "id": 156,
+      "text": "(Mary comes in.)",
+      "translation": "(تدخل ماري.)"
+    },
+    {
+      "id": 157,
+      "text": "Mary: Champagne, George?",
+      "translation": "ماري: شمبانيا يا جورج؟"
+    },
+    {
+      "id": 158,
+      "text": "George: Yes, bring a bottle of champagne and ask Peter to put the television in Mr Brown's room.",
+      "translation": "جورج: نعم، أحضري زجاجة شمبانيا واطلبي من بيتر وضع التلفاز في غرفة السيد براون."
+    },
+    {
+      "id": 159,
+      "text": "Young man: But I don't like television and I don't drink champagne, thank you very much.",
+      "translation": "الشاب: لكنني لا أحب التلفاز ولا أشرب الشمبانيا، شكراً جزيلاً."
+    },
+    {
+      "id": 160,
+      "text": "Mary: He doesn't want them, George.",
+      "translation": "ماري: إنه لا يريدهما يا جورج."
+    },
+    {
+      "id": 161,
+      "text": "Young man: I'm going out for a walk near the sea now. What time is dinner?",
+      "translation": "الشاب: سأخرج في نزهة سيراً على الأقدام بالقرب من البحر الآن. ما هو وقت العشاء؟"
+    },
+    {
+      "id": 162,
+      "text": "George: Dinner's at half past seven, Mr Brown. Mary, go to the kitchen and talk to Judy about dinner, please.",
+      "translation": "جورج: العشاء في السابعة والنصف يا سيد براون. ماري، اذهبي إلى المطبخ وتحدثي مع جودي بشأن العشاء، من فضلك."
+    },
+    {
+      "id": 163,
+      "text": "Mary: Don't shout, George. I'm going.",
+      "translation": "ماري: لا تصرخ يا جورج. سأذهب."
+    },
+    {
+      "id": 164,
+      "text": "(Mary goes to the kitchen. The young man goes out. George goes back to reception.)",
+      "translation": "(تذهب ماري إلى المطبخ. يخرج الشاب. يعود جورج إلى مكتب الاستقبال.)"
+    },
+    {
+      "id": 165,
+      "text": "Woman: My bag, please, Mr Harris.",
+      "translation": "المرأة: حقيبتي، من فضلك يا سيد هاريس."
+    },
+    {
+      "id": 166,
+      "text": "George: Ah, yes. It's here, in the cupboard. You can take it to your room now...",
+      "translation": "جورج: آه، نعم. إنها هنا، في الخزانة. يمكنك أخذها إلى غرفتك الآن..."
+    },
+    {
+      "id": 167,
+      "text": "Woman: But I can't carry the bag. It's very heavy and I'm 74 years old.",
+      "translation": "المرأة: لكنني لا أستطيع حمل الحقيبة. إنها ثقيلة جداً وعمري 74 عاماً."
+    },
+    {
+      "id": 168,
+      "text": "George: Oh, all right. Give it to me.",
+      "translation": "جورج: أوه، حسناً. أعطني إياها."
+    },
+    {
+      "id": 169,
+      "text": "(He goes to the cupboard and takes out her bag. They go out.)",
+      "translation": "(يذهب إلى الخزانة ويخرج حقيبتها. يخرجان.)"
+    },
+    {
+      "id": 170,
+      "text": "Scene Seven",
+      "translation": "المشهد السابع"
+    },
+    {
+      "id": 171,
+      "text": "I don't like champagne",
+      "translation": "أنا لا أحب الشمبانيا"
+    },
+    {
+      "id": 172,
+      "text": "(In the hotel's restaurant. It is after eight o'clock. George is looking at a picture on the wall. The old woman is sitting at a table.)",
+      "translation": "(في مطعم الفندق. إنها بعد الثامنة. جورج ينظر إلى صورة على الحائط. المرأة العجوز تجلس على طاولة.)"
+    },
+    {
+      "id": 173,
+      "text": "Woman: Mr Harris!",
+      "translation": "المرأة: سيد هاريس!"
+    },
+    {
+      "id": 174,
+      "text": "George: Yes?",
+      "translation": "جورج: نعم؟"
+    },
+    {
+      "id": 175,
+      "text": "Woman: I'd like my dinner now, please. It's ten minutes past eight now, you know.",
+      "translation": "المرأة: أريد عشائي الآن، من فضلك. إنها الثامنة وعشر دقائق الآن، كما تعلم."
+    },
+    {
+      "id": 176,
+      "text": "George: Oh, I'm sorry. We're very busy today. What would you like?",
+      "translation": "جورج: أوه، أنا آسف. نحن مشغولون جداً اليوم. ماذا تريدين؟"
+    },
+    {
+      "id": 177,
+      "text": "Woman: I'd like some fish.",
+      "translation": "المرأة: أريد بعض السمك."
+    },
+    {
+      "id": 178,
+      "text": "George: I'm sorry, Mrs... er... we haven't got any fish. No. There isn't any fish.",
+      "translation": "جورج: أنا آسف يا سيدة... آه... ليس لدينا أي سمك. لا. لا يوجد أي سمك."
+    },
+    {
+      "id": 179,
+      "text": "Woman: Oh well. What about a pizza? There's 'Pizza' here on the menu.",
+      "translation": "المرأة: أوه حسناً. ماذا عن البيتزا؟ هناك 'بيتزا' هنا على القائمة."
+    },
+    {
+      "id": 180,
+      "text": "George: Sorry, there's no pizza today.",
+      "translation": "جورج: آسف، لا توجد بيتزا اليوم."
+    },
+    {
+      "id": 181,
+      "text": "Woman: No pizza... Well, what have you got?",
+      "translation": "المرأة: لا بيتزا... حسناً، ماذا لديك؟"
+    },
+    {
+      "id": 182,
+      "text": "George: Chicken. We've got chicken.",
+      "translation": "جورج: دجاج. لدينا دجاج."
+    },
+    {
+      "id": 183,
+      "text": "Woman: All right. I'd like some chicken, please.",
+      "translation": "المرأة: حسناً. أريد بعض الدجاج، من فضلك."
+    },
+    {
+      "id": 184,
+      "text": "(George is not listening. The young man is coming into the restaurant. George goes to Mr Brown's table.)",
+      "translation": "(جورج لا يستمع. الشاب يدخل المطعم. يذهب جورج إلى طاولة السيد براون.)"
+    },
+    {
+      "id": 185,
+      "text": "George: Hello, Mr Brown. Here's your table.",
+      "translation": "جورج: مرحباً يا سيد براون. هذه طاولتك."
+    },
+    {
+      "id": 186,
+      "text": "(Mr Brown sits down.)",
+      "translation": "(يجلس السيد براون.)"
+    },
+    {
+      "id": 187,
+      "text": "Can I help you? What can I get for you?",
+      "translation": "هل يمكنني مساعدتك؟ ماذا يمكنني أن أحضر لك؟"
+    },
+    {
+      "id": 188,
+      "text": "Woman: I'd like some chicken, please, Mr Harris.",
+      "translation": "المرأة: أريد بعض الدجاج، من فضلك يا سيد هاريس."
+    },
+    {
+      "id": 189,
+      "text": "George: All right, Mrs... er... all right. Don't shout. I'm sorry, Mr...",
+      "translation": "جورج: حسناً يا سيدة... آه... حسناً. لا تصرخي. أنا آسف يا سيد..."
+    },
+    {
+      "id": 190,
+      "text": "Woman: I'd like a glass of...",
+      "translation": "المرأة: أريد كوباً من..."
+    },
+    {
+      "id": 191,
+      "text": "George: Champagne, Mr Brown? Would you like some champagne now? It's free.",
+      "translation": "جورج: شمبانيا يا سيد براون؟ هل تريد بعض الشمبانيا الآن؟ إنها مجانية."
+    },
+    {
+      "id": 192,
+      "text": "Young man: No, thanks. A glass of water, please.",
+      "translation": "الشاب: لا، شكراً. كوب ماء، من فضلك."
+    },
+    {
+      "id": 193,
+      "text": "George: Please have some champagne.",
+      "translation": "جورج: من فضلك تناول بعض الشمبانيا."
+    },
+    {
+      "id": 194,
+      "text": "Young man: No, no. I don't like champagne.",
+      "translation": "الشاب: لا، لا. أنا لا أحب الشمبانيا."
+    },
+    {
+      "id": 195,
+      "text": "Woman: I'd like a glass of water, please.",
+      "translation": "المرأة: أريد كوب ماء، من فضلك."
+    },
+    {
+      "id": 196,
+      "text": "(George goes to the woman's table. He is angry.)",
+      "translation": "(يذهب جورج إلى طاولة المرأة. إنه غاضب.)"
+    },
+    {
+      "id": 197,
+      "text": "George: Mrs... er...",
+      "translation": "جورج: سيدة... آه..."
+    },
+    {
+      "id": 198,
+      "text": "Woman: My name is Adams. Miss Adams.",
+      "translation": "المرأة: اسمي آدامز. الآنسة آدامز."
+    },
+    {
+      "id": 199,
+      "text": "George: Miss Adams. We have a famous TV star here and we're very busy. I can't do everything. Do you understand that?",
+      "translation": "جورج: آنسة آدامز. لدينا نجم تلفزيوني مشهور هنا ونحن مشغولون جداً. لا يمكنني فعل كل شيء. هل تفهمين ذلك؟"
+    },
+    {
+      "id": 200,
+      "text": "Woman: Oh yes, I understand. I am a TV star.",
+      "translation": "المرأة: أوه نعم، أنا أفهم. أنا نجمة تلفزيونية."
+    },
+    {
+      "id": 201,
+      "text": "George: Who? What! You're a TV star?",
+      "translation": "جورج: من؟ ماذا! أنتِ نجمة تلفزيونية؟"
+    },
+    {
+      "id": 202,
+      "text": "Woman: That's right. My name is Toni Madoc.",
+      "translation": "المرأة: هذا صحيح. اسمي توني مادوك."
+    },
+    {
+      "id": 203,
+      "text": "George: But Tony Madoc is a man.",
+      "translation": "جورج: لكن توني مادوك رجل."
+    },
+    {
+      "id": 204,
+      "text": "Woman: Oh no -'Toni' is a woman's name too! T-O-N-I. My real name is Margaret Adams but on TV, my name is Toni Madoc.",
+      "translation": "المرأة: أوه لا - 'توني' هو اسم امرأة أيضاً! ت-و-ن-ي. اسمي الحقيقي هو مارغريت آدامز لكن على التلفاز، اسمي توني مادوك."
+    },
+    {
+      "id": 205,
+      "text": "George: What? Oh no!",
+      "translation": "جورج: ماذا؟ أوه لا!"
+    },
+    {
+      "id": 206,
+      "text": "Woman: Yes, Mr Harris. And now I'm going to leave this hotel, the 'Happy Holiday Hotel'. I don't know about 'happy' but I know it isn't good! And I'm not happy here - I've got a small room, I can't see the sea, and Mr Harris, you're a very silly man!",
+      "translation": "المرأة: نعم يا سيد هاريس. والآن سأغادر هذا الفندق، 'فندق هابي هوليداي'. لا أعرف شيئاً عن 'السعادة' لكنني أعلم أنه ليس جيداً! وأنا لست سعيدة هنا - لدي غرفة صغيرة، لا أستطيع رؤية البحر، وأنت يا سيد هاريس، رجل سخيف جداً!"
+    },
+    {
+      "id": 207,
+      "text": "(Toni Madoc goes out of the restaurant. George looks at the young man sadly.)",
+      "translation": "(تخرج توني مادوك من المطعم. ينظر جورج إلى الشاب بحزن.)"
+    },
+    {
+      "id": 208,
+      "text": "George: And who are you?",
+      "translation": "جورج: ومن أنت؟"
+    },
+    {
+      "id": 209,
+      "text": "Young man: I'm Paul Brown.",
+      "translation": "الشاب: أنا بول براون."
+    },
+    {
+      "id": 210,
+      "text": "George: You're not the TV star?",
+      "translation": "جورج: أنت لست نجم التلفزيون؟"
+    },
+    {
+      "id": 211,
+      "text": "Young man: No, Mr Harris. I'm a student.",
+      "translation": "الشاب: لا يا سيد هاريس. أنا طالب."
+    },
+    {
+      "id": 212,
+      "text": "George: A student!",
+      "translation": "جورج: طالب!"
+    },
+    {
+      "id": 213,
+      "text": "(He runs to the door.)",
+      "translation": "(يركض إلى الباب.)"
+    },
+    {
+      "id": 214,
+      "text": "George: Miss Madoc! Miss Madoc! Please don't leave. Have some champagne! Please! It's free.",
+      "translation": "جورج: آنسة مادوك! آنسة مادوك! من فضلك لا تغادري. تناولي بعض الشمبانيا! من فضلك! إنها مجانية."
+    },
+    {
+      "id": 215,
+      "text": "Scene Eight",
+      "translation": "المشهد الثامن"
+    },
+    {
+      "id": 216,
+      "text": "George sees stars",
+      "translation": "جورج يرى النجوم"
+    },
+    {
+      "id": 217,
+      "text": "(In the corridor, outside the big room. The woman is talking to Mary. Mary has got the woman's bag.)",
+      "translation": "(في الممر، خارج الغرفة الكبيرة. المرأة تتحدث مع ماري. ماري تحمل حقيبة المرأة.)"
+    },
+    {
+      "id": 218,
+      "text": "Mary: I'm very sorry. George is silly sometimes. We can move you to the big room and the young man can have the other room. Please don't leave now!",
+      "translation": "ماري: أنا آسفة جداً. جورج سخيف أحياناً. يمكننا نقلك إلى الغرفة الكبيرة ويمكن للشاب أخذ الغرفة الأخرى. من فضلك لا تغادري الآن!"
+    },
+    {
+      "id": 219,
+      "text": "(In the big room, Mary and Toni Madoc are looking out of the window. George runs into the room.)",
+      "translation": "(في الغرفة الكبيرة، تنظر ماري وتوني مادوك من النافذة. يركض جورج إلى الغرفة.)"
+    },
+    {
+      "id": 220,
+      "text": "George: Miss Madoc! Here you are! Please stay! You can have the room for nothing free!",
+      "translation": "جورج: آنسة مادوك! ها أنتِ ذا! من فضلك ابقي! يمكنك الحصول على الغرفة مجاناً!"
+    },
+    {
+      "id": 221,
+      "text": "(He takes her arm.)",
+      "translation": "(يأخذ ذراعها.)"
+    },
+    {
+      "id": 222,
+      "text": "Toni Madoc: No, I'm sorry. Goodbye, Mr Harris.",
+      "translation": "توني مادوك: لا، أنا آسفة. وداعاً يا سيد هاريس."
+    },
+    {
+      "id": 223,
+      "text": "(She is standing under the new lamp. Suddenly the lamp begins to fall.)",
+      "translation": "(إنها تقف تحت المصباح الجديد. فجأة يبدأ المصباح في السقوط.)"
+    },
+    {
+      "id": 224,
+      "text": "Mary: George... Stop! Listen!",
+      "translation": "ماري: جورج... توقف! استمع!"
+    },
+    {
+      "id": 225,
+      "text": "(George pushes the woman. She falls over. George falls on top of her. The lamp falls on George's head. He lies there and doesn't move.)",
+      "translation": "(يدفع جورج المرأة. تسقط أرضاً. يسقط جورج فوقها. يسقط المصباح على رأس جورج. إنه يرقد هناك ولا يتحرك.)"
+    },
+    {
+      "id": 226,
+      "text": "Mary: Miss Madoc. Are you all right?",
+      "translation": "ماري: آنسة مادوك. هل أنت بخير؟"
+    },
+    {
+      "id": 227,
+      "text": "Toni Madoc: I'm fine. (She gets up.) But how is Mr Harris?",
+      "translation": "توني مادوك: أنا بخير. (تنهض.) لكن كيف حال السيد هاريس؟"
+    },
+    {
+      "id": 228,
+      "text": "Mary: George? George! Speak to me, George!",
+      "translation": "ماري: جورج؟ جورج! تحدث إلي يا جورج!"
+    },
+    {
+      "id": 229,
+      "text": "Toni Madoc: Oh, Mr Harris! Are you all right?",
+      "translation": "توني مادوك: أوه، سيد هاريس! هل أنت بخير؟"
+    },
+    {
+      "id": 230,
+      "text": "(They look at George. He doesn't speak or move.)",
+      "translation": "(ينظران إلى جورج. لا يتكلم ولا يتحرك.)"
+    },
+    {
+      "id": 231,
+      "text": "Mary: That horrible light isn't safe. Oh George, can you hear me? Please say something, George.",
+      "translation": "ماري: ذلك الضوء الفظيع ليس آمناً. أوه جورج، هل يمكنك سماعي؟ من فضلك قل شيئاً يا جورج."
+    },
+    {
+      "id": 232,
+      "text": "Toni Madoc: Now I understand! That lamp nearly... and Mr Harris... oh, what a nice man! Because of Mr Harris, I'm safe! Thank you, Mr Harris... thank you, George.",
+      "translation": "توني مادوك: الآن أفهم! ذلك المصباح كاد... والسيد هاريس... أوه، يا له من رجل لطيف! بفضل السيد هاريس، أنا بأمان! شكراً لك يا سيد هاريس... شكراً لك يا جورج."
+    },
+    {
+      "id": 233,
+      "text": "George: Champagne?",
+      "translation": "جورج: شمبانيا؟"
+    },
+    {
+      "id": 234,
+      "text": "Toni Madoc: What a nice man! Thank you, Mrs Harris.",
+      "translation": "توني مادوك: يا له من رجل لطيف! شكراً لك يا سيدة هاريس."
+    },
+    {
+      "id": 235,
+      "text": "Mary: Don't thank me - thank silly old George. Would you like a glass of champagne now, Miss Madoc?",
+      "translation": "ماري: لا تشكريني - اشكري جورج العجوز السخيف. هل تريدين كوباً من الشمبانيا الآن يا آنسة مادوك؟"
+    },
+    {
+      "id": 236,
+      "text": "(They go out. George is lying on the floor. He slowly opens one eye.)",
+      "translation": "(يخرجان. جورج يرقد على الأرض. يفتح عيناً واحدة ببطء.)"
+    },
+    {
+      "id": 237,
+      "text": "George: He's very... No, she's very, very famous. She's a star...",
+      "translation": "جورج: إنه... لا، إنها مشهورة جداً جداً. إنها نجمة..."
+    },
+    {
+      "id": 238,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 239,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 240,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
