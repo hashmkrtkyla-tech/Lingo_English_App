@@ -1,14 +1,2023 @@
 {
-  "id": "a1_six_sketches",
-  "title": "Six Sketches",
+  "id": "a1_6_sketches",
+  "title": "6 Sketches",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Six_Sketches-Leslie_Dunkling.mp3",
+  "audio_url": "assets/books/audio/a1_books/6_Sketches.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Welcome to six simple and fun short stories.",
-      "translation": "مرحباً بكم في ست قصص قصيرة بسيطة وممتعة."
+      "id": 1,
+      "text": "6 Sketches",
+      "translation": "6 مسرحيات قصيرة"
+    },
+    {
+      "id": 2,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "I'm Right!",
+      "translation": "أنا على حق!"
+    },
+    {
+      "id": 4,
+      "text": "NARRATOR We are on a train, and here comes the ticket inspector.",
+      "translation": "الراوي: نحن في قطار، وها هو ذا قادم مفتش التذاكر."
+    },
+    {
+      "id": 5,
+      "text": "INSPECTOR Tickets, please.",
+      "translation": "المفتش: تذاكركم، من فضلكم."
+    },
+    {
+      "id": 6,
+      "text": "Your tickets, please.",
+      "translation": "تذاكركم، من فضلكم."
+    },
+    {
+      "id": 7,
+      "text": "MAN Here you are.",
+      "translation": "الرجل: تفضل."
+    },
+    {
+      "id": 8,
+      "text": "INSPECTOR Thank you, sir.",
+      "translation": "المفتش: شكراً لك، سيدي."
+    },
+    {
+      "id": 9,
+      "text": "(To the woman) Your ticket, please, madam.",
+      "translation": "(إلى المرأة) تذكرتك، من فضلك، سيدتي."
+    },
+    {
+      "id": 10,
+      "text": "WOMAN Oh, yes.",
+      "translation": "المرأة: أوه، نعم."
+    },
+    {
+      "id": 11,
+      "text": "Here you are.",
+      "translation": "تفضل."
+    },
+    {
+      "id": 12,
+      "text": "INSPECTOR Thank you, madam.",
+      "translation": "المفتش: شكراً لك، سيدتي."
+    },
+    {
+      "id": 13,
+      "text": "Tickets, please.",
+      "translation": "تذاكركم، من فضلكم."
+    },
+    {
+      "id": 14,
+      "text": "NORMA Colin! The tickets!",
+      "translation": "نورما: كولين! التذاكر!"
+    },
+    {
+      "id": 15,
+      "text": "COLIN You've got them, Norma.",
+      "translation": "كولين: أنتِ تملكينها يا نورما."
+    },
+    {
+      "id": 16,
+      "text": "They're in your bag.",
+      "translation": "إنها في حقيبتك."
+    },
+    {
+      "id": 17,
+      "text": "NORMA No they're not.",
+      "translation": "نورما: لا، ليست كذلك."
+    },
+    {
+      "id": 18,
+      "text": "You've got them.",
+      "translation": "أنت تملكها."
+    },
+    {
+      "id": 19,
+      "text": "COLIN No, my love.",
+      "translation": "كولين: لا، يا حبيبتي."
+    },
+    {
+      "id": 20,
+      "text": "I'm sorry, but you're wrong.",
+      "translation": "أنا آسف، لكنك مخطئة."
+    },
+    {
+      "id": 21,
+      "text": "NORMA Colin, I am never wrong.",
+      "translation": "نورما: كولين، أنا لا أخطئ أبداً."
+    },
+    {
+      "id": 22,
+      "text": "I have not got the tickets.",
+      "translation": "ليس لدي التذاكر."
+    },
+    {
+      "id": 23,
+      "text": "Look - they're not in my bag.",
+      "translation": "انظر - إنها ليست في حقيبتي."
+    },
+    {
+      "id": 24,
+      "text": "(To the ticket inspector) I'm sorry, Inspector.",
+      "translation": "(إلى مفتش التذاكر) أنا آسفة، حضرة المفتش."
+    },
+    {
+      "id": 25,
+      "text": "INSPECTOR Have you got the tickets, sir?",
+      "translation": "المفتش: هل لديك التذاكر، سيدي؟"
+    },
+    {
+      "id": 26,
+      "text": "NORMA Yes, he has.",
+      "translation": "نورما: نعم، لديه."
+    },
+    {
+      "id": 27,
+      "text": "Look in your coat, Colin.",
+      "translation": "ابحث في معطفك يا كولين."
+    },
+    {
+      "id": 28,
+      "text": "(He looks.) No, not there.",
+      "translation": "(يبحث) لا، ليس هناك."
+    },
+    {
+      "id": 29,
+      "text": "You're looking in the wrong place.",
+      "translation": "أنت تبحث في المكان الخطأ."
+    },
+    {
+      "id": 30,
+      "text": "COLIN Here, then.",
+      "translation": "كولين: هنا، إذن."
+    },
+    {
+      "id": 31,
+      "text": "Oh! What are these?",
+      "translation": "أوه! ما هذه؟"
+    },
+    {
+      "id": 32,
+      "text": "COLIN No, Norma, you're wrong.",
+      "translation": "كولين: لا يا نورما، أنتِ مخطئة."
+    },
+    {
+      "id": 33,
+      "text": "These are old tickets.",
+      "translation": "هذه تذاكر قديمة."
+    },
+    {
+      "id": 34,
+      "text": "They're for the wrong day.",
+      "translation": "إنها ليوم خاطئ."
+    },
+    {
+      "id": 35,
+      "text": "NORMA Oh! But Colin, you have got our train tickets.",
+      "translation": "نورما: أوه! لكن كولين، أنت تملك تذاكر القطار الخاصة بنا."
+    },
+    {
+      "id": 36,
+      "text": "Look again.",
+      "translation": "انظر مرة أخرى."
+    },
+    {
+      "id": 37,
+      "text": "COLIN Why? I haven't got the tick... Oh!",
+      "translation": "كولين: لماذا؟ ليس لدي التذك... أوه!"
+    },
+    {
+      "id": 38,
+      "text": "NORMA What are they?",
+      "translation": "نورما: ما هي؟"
+    },
+    {
+      "id": 39,
+      "text": "COLIN The train tickets.",
+      "translation": "كولين: تذاكر القطار."
+    },
+    {
+      "id": 40,
+      "text": "NORMA Ah! You see?",
+      "translation": "نورما: آه! أرأيت؟"
+    },
+    {
+      "id": 41,
+      "text": "COLIN I'm sorry, my love.",
+      "translation": "كولين: أنا آسف يا حبيبتي."
+    },
+    {
+      "id": 42,
+      "text": "You're right and I'm wrong.",
+      "translation": "أنتِ على حق وأنا على خطأ."
+    },
+    {
+      "id": 43,
+      "text": "NORMA (She smiles.) I'm always right, Colin.",
+      "translation": "نورما: (تبتسم) أنا دائماً على حق يا كولين."
+    },
+    {
+      "id": 44,
+      "text": "COLIN Yes, Norma.",
+      "translation": "كولين: نعم يا نورما."
+    },
+    {
+      "id": 45,
+      "text": "Here you are, Inspector.",
+      "translation": "تفضل يا حضرة المفتش."
+    },
+    {
+      "id": 46,
+      "text": "INSPECTOR Thank you, sir.",
+      "translation": "المفتش: شكراً لك يا سيدي."
+    },
+    {
+      "id": 47,
+      "text": "NORMA We're going to a wedding, Inspector.",
+      "translation": "نورما: نحن ذاهبان إلى حفل زفاف يا حضرة المفتش."
+    },
+    {
+      "id": 48,
+      "text": "We're going to my sister's wedding, in Winchester.",
+      "translation": "نحن ذاهبان إلى زفاف أختي في وينشستر."
+    },
+    {
+      "id": 49,
+      "text": "Those are two tickets to Winchester.",
+      "translation": "هاتان تذكرتان إلى وينشستر."
+    },
+    {
+      "id": 50,
+      "text": "INSPECTOR Yes, that's right, madam.",
+      "translation": "المفتش: نعم، هذا صحيح يا سيدتي."
+    },
+    {
+      "id": 51,
+      "text": "These are two tickets to Winchester.",
+      "translation": "هاتان تذكرتان إلى وينشستر."
+    },
+    {
+      "id": 52,
+      "text": "COLIN She's always right, Inspector.",
+      "translation": "كولين: إنها دائماً على حق يا حضرة المفتش."
+    },
+    {
+      "id": 53,
+      "text": "INSPECTOR (He smiles.) Not always, sir.",
+      "translation": "المفتش: (يبتسم) ليس دائماً يا سيدي."
+    },
+    {
+      "id": 54,
+      "text": "NORMA What?",
+      "translation": "نورما: ماذا؟"
+    },
+    {
+      "id": 55,
+      "text": "INSPECTOR This train doesn't go to Winchester, madam.",
+      "translation": "المفتش: هذا القطار لا يذهب إلى وينشستر يا سيدتي."
+    },
+    {
+      "id": 56,
+      "text": "They're the right tickets, but you're on the wrong train.",
+      "translation": "إنها التذاكر الصحيحة، لكنكم في القطار الخطأ."
+    },
+    {
+      "id": 57,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 58,
+      "text": "A Good Story",
+      "translation": "قصة جيدة"
+    },
+    {
+      "id": 59,
+      "text": "NARRATOR We are in Mrs Price's house.",
+      "translation": "الراوي: نحن في منزل السيدة برايس."
+    },
+    {
+      "id": 60,
+      "text": "She is with Mrs Roberts, and the two women are drinking coffee.",
+      "translation": "إنها مع السيدة روبرتس، والمرأتان تشربان القهوة."
+    },
+    {
+      "id": 61,
+      "text": "Mrs Price's three children come into the room.",
+      "translation": "يدخل أطفال السيدة برايس الثلاثة إلى الغرفة."
+    },
+    {
+      "id": 62,
+      "text": "MRS PRICE Ah, these are my children, Mrs Roberts.",
+      "translation": "السيدة برايس: آه، هؤلاء هم أطفالي يا سيدة روبرتس."
+    },
+    {
+      "id": 63,
+      "text": "That's John.",
+      "translation": "هذا جون."
+    },
+    {
+      "id": 64,
+      "text": "He's a quiet boy.",
+      "translation": "إنه فتى هادئ."
+    },
+    {
+      "id": 65,
+      "text": "JOHN Hello, Mrs Roberts.",
+      "translation": "جون: مرحباً يا سيدة روبرتس."
+    },
+    {
+      "id": 66,
+      "text": "MRS ROBERTS (She smiles.) Hello, John.",
+      "translation": "السيدة روبرتس: (تبتسم) مرحباً يا جون."
+    },
+    {
+      "id": 67,
+      "text": "MRS PRICE And this is my daughter Tracy.",
+      "translation": "السيدة برايس: وهذه ابنتي تريسي."
+    },
+    {
+      "id": 68,
+      "text": "TRACY Hello.",
+      "translation": "تريسي: مرحباً."
+    },
+    {
+      "id": 69,
+      "text": "MRS ROBERTS Hello, Tracy.",
+      "translation": "السيدة روبرتس: مرحباً يا تريسي."
+    },
+    {
+      "id": 70,
+      "text": "MRS PRICE And that's my son Michael.",
+      "translation": "السيدة برايس: وذلك هو ابني مايكل."
+    },
+    {
+      "id": 71,
+      "text": "(She smiles.) He's not quiet.",
+      "translation": "(تبتسم) إنه ليس هادئاً."
+    },
+    {
+      "id": 72,
+      "text": "MICHAEL Hello, Mrs Roberts.",
+      "translation": "مايكل: مرحباً يا سيدة روبرتس."
+    },
+    {
+      "id": 73,
+      "text": "MRS ROBERTS Hello, Michael.",
+      "translation": "السيدة روبرتس: مرحباً يا مايكل."
+    },
+    {
+      "id": 74,
+      "text": "MICHAEL Excuse me, Mrs Roberts - can you tell stories?",
+      "translation": "مايكل: عفواً يا سيدة روبرتس - هل يمكنك رواية القصص؟"
+    },
+    {
+      "id": 75,
+      "text": "MRS ROBERTS Stories?",
+      "translation": "السيدة روبرتس: قصص؟"
+    },
+    {
+      "id": 76,
+      "text": "MICHAEL Yes.",
+      "translation": "مايكل: نعم."
+    },
+    {
+      "id": 77,
+      "text": "Good stories.",
+      "translation": "قصص جيدة."
+    },
+    {
+      "id": 78,
+      "text": "MRS ROBERTS No.",
+      "translation": "السيدة روبرتس: لا."
+    },
+    {
+      "id": 79,
+      "text": "No, I can't.",
+      "translation": "لا، لا أستطيع."
+    },
+    {
+      "id": 80,
+      "text": "MICHAEL I can tell good stories.",
+      "translation": "مايكل: أنا أستطيع رواية قصص جيدة."
+    },
+    {
+      "id": 81,
+      "text": "MRS ROBERTS Can you?",
+      "translation": "السيدة روبرتس: هل تستطيع؟"
+    },
+    {
+      "id": 82,
+      "text": "And you, John - what can you do?",
+      "translation": "وأنت يا جون - ماذا تستطيع أن تفعل؟"
+    },
+    {
+      "id": 83,
+      "text": "JOHN I can paint.",
+      "translation": "جون: أستطيع الرسم."
+    },
+    {
+      "id": 84,
+      "text": "Look - this is my picture.",
+      "translation": "انظروا - هذه صورتي."
+    },
+    {
+      "id": 85,
+      "text": "MRS ROBERTS Ah, yes.",
+      "translation": "السيدة روبرتس: آه، نعم."
+    },
+    {
+      "id": 86,
+      "text": "A town, with houses and buildings.",
+      "translation": "بلدة، بها منازل ومبانٍ."
+    },
+    {
+      "id": 87,
+      "text": "JOHN That's a bank, and there's a cinema.",
+      "translation": "جون: هذا بنك، وهناك سينما."
+    },
+    {
+      "id": 88,
+      "text": "MRS ROBERTS That's right.",
+      "translation": "السيدة روبرتس: هذا صحيح."
+    },
+    {
+      "id": 89,
+      "text": "I can see the bank and the cinema.",
+      "translation": "أستطيع رؤية البنك والسينما."
+    },
+    {
+      "id": 90,
+      "text": "Yes, I like your picture, John.",
+      "translation": "نعم، أنا أحب صورتك يا جون."
+    },
+    {
+      "id": 91,
+      "text": "You paint well.",
+      "translation": "أنت ترسم جيداً."
+    },
+    {
+      "id": 92,
+      "text": "Can you paint, Tracy?",
+      "translation": "هل يمكنك الرسم يا تريسي؟"
+    },
+    {
+      "id": 93,
+      "text": "TRACY Yes.",
+      "translation": "تريسي: نعم."
+    },
+    {
+      "id": 94,
+      "text": "This is my picture.",
+      "translation": "هذه صورتي."
+    },
+    {
+      "id": 95,
+      "text": "Look.",
+      "translation": "انظري."
+    },
+    {
+      "id": 96,
+      "text": "MRS ROBERTS Yes, I see.",
+      "translation": "السيدة روبرتس: نعم، أرى."
+    },
+    {
+      "id": 97,
+      "text": "A train in a station.",
+      "translation": "قطار في محطة."
+    },
+    {
+      "id": 98,
+      "text": "That's very good, too.",
+      "translation": "هذا جيد جداً أيضاً."
+    },
+    {
+      "id": 99,
+      "text": "MICHAEL This is my picture, Mrs Roberts.",
+      "translation": "مايكل: هذه صورتي يا سيدة روبرتس."
+    },
+    {
+      "id": 100,
+      "text": "Do you like it? Is it good?",
+      "translation": "هل أعجبتك؟ هل هي جيدة؟"
+    },
+    {
+      "id": 101,
+      "text": "MRS ROBERTS Oh!",
+      "translation": "السيدة روبرتس: أوه!"
+    },
+    {
+      "id": 102,
+      "text": "MRS PRICE What is your picture, Michael?",
+      "translation": "السيدة برايس: ما هي صورتك يا مايكل؟"
+    },
+    {
+      "id": 103,
+      "text": "I'm sorry, but I don't understand it.",
+      "translation": "أنا آسفة، لكنني لا أفهمها."
+    },
+    {
+      "id": 104,
+      "text": "MRS ROBERTS And I don't understand it, Michael.",
+      "translation": "السيدة روبرتس: وأنا لا أفهمها يا مايكل."
+    },
+    {
+      "id": 105,
+      "text": "MICHAEL It's an animal - a thing.",
+      "translation": "مايكل: إنه حيوان - شيء ما."
+    },
+    {
+      "id": 106,
+      "text": "MRS ROBERTS A thing?",
+      "translation": "السيدة روبرتس: شيء ما؟"
+    },
+    {
+      "id": 107,
+      "text": "MICHAEL Yes.",
+      "translation": "مايكل: نعم."
+    },
+    {
+      "id": 108,
+      "text": "MRS ROBERTS But Michael, it's got seven blue legs and three yellow eyes!",
+      "translation": "السيدة روبرتس: لكن يا مايكل، لديها سبع أرجل زرقاء وثلاث عيون صفراء!"
+    },
+    {
+      "id": 109,
+      "text": "MICHAEL Yes, and it's walking across your foot now.",
+      "translation": "مايكل: نعم، وهي تمشي عبر قدمك الآن."
+    },
+    {
+      "id": 110,
+      "text": "Look!",
+      "translation": "انظري!"
+    },
+    {
+      "id": 111,
+      "text": "MRS ROBERTS What?",
+      "translation": "السيدة روبرتس: ماذا؟"
+    },
+    {
+      "id": 112,
+      "text": "NARRATOR Mrs Roberts stands up quickly.",
+      "translation": "الراوي: تقف السيدة روبرتس بسرعة."
+    },
+    {
+      "id": 113,
+      "text": "Her face is white.",
+      "translation": "وجهها شاحب."
+    },
+    {
+      "id": 114,
+      "text": "MICHAEL Ha, ha! I can't paint, Mrs Roberts, but I can tell a good story.",
+      "translation": "مايكل: ها، ها! لا أستطيع الرسم يا سيدة روبرتس، لكنني أستطيع رواية قصة جيدة."
+    },
+    {
+      "id": 115,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 116,
+      "text": "Cheese!",
+      "translation": "جبن!"
+    },
+    {
+      "id": 117,
+      "text": "NARRATOR We are in Mr Smith's shop.",
+      "translation": "الراوي: نحن في متجر السيد سميث."
+    },
+    {
+      "id": 118,
+      "text": "Mr Smith is talking to a woman.",
+      "translation": "السيد سميث يتحدث مع امرأة."
+    },
+    {
+      "id": 119,
+      "text": "MRS ARCHER Six eggs please, Mr Smith.",
+      "translation": "السيدة آرتشر: ست بيضات من فضلك يا سيد سميث."
+    },
+    {
+      "id": 120,
+      "text": "Brown eggs.",
+      "translation": "بيض بني."
+    },
+    {
+      "id": 121,
+      "text": "MR SMITH Six brown eggs.",
+      "translation": "السيد سميث: ست بيضات بنية."
+    },
+    {
+      "id": 122,
+      "text": "Here you are, Mrs Archer.",
+      "translation": "تفضلي يا سيدة آرتشر."
+    },
+    {
+      "id": 123,
+      "text": "NARRATOR Mrs Archer gives Mr Smith the money for the eggs.",
+      "translation": "الراوي: تعطي السيدة آرتشر السيد سميث نقود البيض."
+    },
+    {
+      "id": 124,
+      "text": "MR SMITH Thank you.",
+      "translation": "السيد سميث: شكراً لك."
+    },
+    {
+      "id": 125,
+      "text": "Goodbye.",
+      "translation": "وداعاً."
+    },
+    {
+      "id": 126,
+      "text": "MRS ARCHER Goodbye.",
+      "translation": "السيدة آرتشر: وداعاً."
+    },
+    {
+      "id": 127,
+      "text": "MRS CLARK Hello, Mr Smith.",
+      "translation": "السيدة كلارك: مرحباً يا سيد سميث."
+    },
+    {
+      "id": 128,
+      "text": "MR SMITH Hello, Mrs Clark.",
+      "translation": "السيد سميث: مرحباً يا سيدة كلارك."
+    },
+    {
+      "id": 129,
+      "text": "What can I do for you today?",
+      "translation": "ماذا يمكنني أن أفعل لك اليوم؟"
+    },
+    {
+      "id": 130,
+      "text": "MRS CLARK I want some coffee, please.",
+      "translation": "السيدة كلارك: أريد بعض القهوة، من فضلك."
+    },
+    {
+      "id": 131,
+      "text": "Good coffee.",
+      "translation": "قهوة جيدة."
+    },
+    {
+      "id": 132,
+      "text": "I like strong coffee.",
+      "translation": "أنا أحب القهوة القوية."
+    },
+    {
+      "id": 133,
+      "text": "MR SMITH Good coffee.",
+      "translation": "السيد سميث: قهوة جيدة."
+    },
+    {
+      "id": 134,
+      "text": "Have I got good, strong coffee?",
+      "translation": "هل لدي قهوة جيدة وقوية؟"
+    },
+    {
+      "id": 135,
+      "text": "Ah, yes.",
+      "translation": "آه، نعم."
+    },
+    {
+      "id": 136,
+      "text": "This is very strong coffee.",
+      "translation": "هذه قهوة قوية جداً."
+    },
+    {
+      "id": 137,
+      "text": "MRS CLARK Oh, good.",
+      "translation": "السيدة كلارك: أوه، جيد."
+    },
+    {
+      "id": 138,
+      "text": "MR SMITH Here you are.",
+      "translation": "السيد سميث: تفضلي."
+    },
+    {
+      "id": 139,
+      "text": "And it's not expensive.",
+      "translation": "وهي ليست غالية الثمن."
+    },
+    {
+      "id": 140,
+      "text": "MRS CLARK Good!",
+      "translation": "السيدة كلارك: جيد!"
+    },
+    {
+      "id": 141,
+      "text": "NARRATOR Mrs Clark goes, and a man comes into the shop.",
+      "translation": "الراوي: تذهب السيدة كلارك، ويدخل رجل إلى المتجر."
+    },
+    {
+      "id": 142,
+      "text": "MR SMITH Oh, hello, sir.",
+      "translation": "السيد سميث: أوه، مرحباً يا سيدي."
+    },
+    {
+      "id": 143,
+      "text": "Your cheese, sir?",
+      "translation": "جبنك يا سيدي؟"
+    },
+    {
+      "id": 144,
+      "text": "You want your cheese?",
+      "translation": "تريد جبنك؟"
+    },
+    {
+      "id": 145,
+      "text": "MAN Yes, please.",
+      "translation": "الرجل: نعم، من فضلك."
+    },
+    {
+      "id": 146,
+      "text": "MR SMITH You always buy cheese.",
+      "translation": "السيد سميث: أنت دائماً تشتري الجبن."
+    },
+    {
+      "id": 147,
+      "text": "MAN Yes.",
+      "translation": "الرجل: نعم."
+    },
+    {
+      "id": 148,
+      "text": "MR SMITH You like cheese?",
+      "translation": "السيد سميث: هل تحب الجبن؟"
+    },
+    {
+      "id": 149,
+      "text": "MAN No, I don't like it.",
+      "translation": "الرجل: لا، أنا لا أحبه."
+    },
+    {
+      "id": 150,
+      "text": "MR SMITH No?",
+      "translation": "السيد سميث: لا؟"
+    },
+    {
+      "id": 151,
+      "text": "But I don't understand, sir.",
+      "translation": "لكني لا أفهم يا سيدي."
+    },
+    {
+      "id": 152,
+      "text": "You buy cheese from me every day.",
+      "translation": "أنت تشتري الجبن مني كل يوم."
+    },
+    {
+      "id": 153,
+      "text": "MAN Yes.",
+      "translation": "الرجل: نعم."
+    },
+    {
+      "id": 154,
+      "text": "I buy it, but I don't like it.",
+      "translation": "أنا أشتريه، لكنني لا أحبه."
+    },
+    {
+      "id": 155,
+      "text": "I don't eat it.",
+      "translation": "أنا لا آكله."
+    },
+    {
+      "id": 156,
+      "text": "NARRATOR Mr Smith puts the cheese in a bag.",
+      "translation": "الراوي: يضع السيد سميث الجبن في كيس."
+    },
+    {
+      "id": 157,
+      "text": "He gives the bag to the man and looks at him.",
+      "translation": "يعطي الكيس للرجل وينظر إليه."
+    },
+    {
+      "id": 158,
+      "text": "The man smiles.",
+      "translation": "يبتسم الرجل."
+    },
+    {
+      "id": 159,
+      "text": "MAN I'm a photographer.",
+      "translation": "الرجل: أنا مصور."
+    },
+    {
+      "id": 160,
+      "text": "MR SMITH Oh, yes?",
+      "translation": "السيد سميث: أوه، حقاً؟"
+    },
+    {
+      "id": 161,
+      "text": "MAN Yes.",
+      "translation": "الرجل: نعم."
+    },
+    {
+      "id": 162,
+      "text": "Every day I take photographs of men, women and children.",
+      "translation": "كل يوم ألتقط صوراً للرجال والنساء والأطفال."
+    },
+    {
+      "id": 163,
+      "text": "People like my photographs.",
+      "translation": "الناس يحبون صوري."
+    },
+    {
+      "id": 164,
+      "text": "They're good.",
+      "translation": "إنها جيدة."
+    },
+    {
+      "id": 165,
+      "text": "The people in them are always happy and smiling.",
+      "translation": "الناس فيها دائماً سعداء ومبتسمون."
+    },
+    {
+      "id": 166,
+      "text": "MR SMITH That's good, sir.",
+      "translation": "السيد سميث: هذا جيد يا سيدي."
+    },
+    {
+      "id": 167,
+      "text": "MAN But the people aren't smiling.",
+      "translation": "الرجل: لكن الناس لا يبتسمون."
+    },
+    {
+      "id": 168,
+      "text": "They're saying 'Cheese!'",
+      "translation": "إنهم يقولون 'جبن!'"
+    },
+    {
+      "id": 169,
+      "text": "MR SMITH Oh?",
+      "translation": "السيد سميث: أوه؟"
+    },
+    {
+      "id": 170,
+      "text": "MAN Yes.",
+      "translation": "الرجل: نعم."
+    },
+    {
+      "id": 171,
+      "text": "People come to me for their photographs, and they're nervous.",
+      "translation": "يأتي الناس إلي لالتقاط صورهم، وهم متوترون."
+    },
+    {
+      "id": 172,
+      "text": "MR SMITH Yes, I can understand that.",
+      "translation": "السيد سميث: نعم، أستطيع فهم ذلك."
+    },
+    {
+      "id": 173,
+      "text": "I'm always nervous too.",
+      "translation": "أنا أيضاً دائماً متوتر."
+    },
+    {
+      "id": 174,
+      "text": "MAN And nervous people don't smile.",
+      "translation": "الرجل: والناس المتوترون لا يبتسمون."
+    },
+    {
+      "id": 175,
+      "text": "But I put some cheese on a table and I say, 'What's that?'",
+      "translation": "لكني أضع بعض الجبن على طاولة وأقول: 'ما هذا؟'"
+    },
+    {
+      "id": 176,
+      "text": "And what do they say?",
+      "translation": "وماذا يقولون؟"
+    },
+    {
+      "id": 177,
+      "text": "They say, 'Cheese!'",
+      "translation": "يقولون: 'جبن!'"
+    },
+    {
+      "id": 178,
+      "text": "They say 'cheese' and smile.",
+      "translation": "يقولون 'جبن' ويبتسمون."
+    },
+    {
+      "id": 179,
+      "text": "They can't say 'cheese' and not smile.",
+      "translation": "لا يمكنهم قول 'جبن' وعدم الابتسام."
+    },
+    {
+      "id": 180,
+      "text": "You can't say 'cheese' and not smile.",
+      "translation": "لا يمكنك قول 'جبن' وعدم الابتسام."
+    },
+    {
+      "id": 181,
+      "text": "MR SMITH Cheese.",
+      "translation": "السيد سميث: جبن."
+    },
+    {
+      "id": 182,
+      "text": "MAN I'm right.",
+      "translation": "الرجل: أنا على حق."
+    },
+    {
+      "id": 183,
+      "text": "You're smiling.",
+      "translation": "أنت تبتسم."
+    },
+    {
+      "id": 184,
+      "text": "MR SMITH Oh, yes!",
+      "translation": "السيد سميث: أوه، نعم!"
+    },
+    {
+      "id": 185,
+      "text": "MAN Be happy, Mr Smith.",
+      "translation": "الرجل: كن سعيداً يا سيد سميث."
+    },
+    {
+      "id": 186,
+      "text": "Smile at the people in your shop.",
+      "translation": "ابتسم للناس في متجرك."
+    },
+    {
+      "id": 187,
+      "text": "People always like a smile.",
+      "translation": "الناس دائماً يحبون الابتسامة."
+    },
+    {
+      "id": 188,
+      "text": "Say 'cheese' to them.",
+      "translation": "قل 'جبن' لهم."
+    },
+    {
+      "id": 189,
+      "text": "MR SMITH Yes, sir.",
+      "translation": "السيد سميث: نعم يا سيدي."
+    },
+    {
+      "id": 190,
+      "text": "Thank you.",
+      "translation": "شكراً لك."
+    },
+    {
+      "id": 191,
+      "text": "MAN Goodbye.",
+      "translation": "الرجل: وداعاً."
+    },
+    {
+      "id": 192,
+      "text": "MR SMITH Goodbye, sir.",
+      "translation": "السيد سميث: وداعاً يا سيدي."
+    },
+    {
+      "id": 193,
+      "text": "And thanks again.",
+      "translation": "وشكراً مرة أخرى."
+    },
+    {
+      "id": 194,
+      "text": "MRS DAVIS Good morning, Mr Smith.",
+      "translation": "السيدة ديفيس: صباح الخير يا سيد سميث."
+    },
+    {
+      "id": 195,
+      "text": "MR SMITH Cheese, Mrs Davis.",
+      "translation": "السيد سميث: جبن يا سيدة ديفيس."
+    },
+    {
+      "id": 196,
+      "text": "MRS DAVIS No, thank you.",
+      "translation": "السيدة ديفيس: لا، شكراً لك."
+    },
+    {
+      "id": 197,
+      "text": "Six white eggs, please.",
+      "translation": "ست بيضات بيضاء، من فضلك."
+    },
+    {
+      "id": 198,
+      "text": "MR SMITH Yes, Mrs Davis.",
+      "translation": "السيد سميث: نعم يا سيدة ديفيس."
+    },
+    {
+      "id": 199,
+      "text": "Cheese.",
+      "translation": "جبن."
+    },
+    {
+      "id": 200,
+      "text": "MRS DAVIS No, Mr Smith.",
+      "translation": "السيدة ديفيس: لا يا سيد سميث."
+    },
+    {
+      "id": 201,
+      "text": "Six white eggs...",
+      "translation": "ست بيضات بيضاء..."
+    },
+    {
+      "id": 202,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 203,
+      "text": "A Good Match",
+      "translation": "مباراة جيدة"
+    },
+    {
+      "id": 204,
+      "text": "NARRATOR The Green family are watching television.",
+      "translation": "الراوي: عائلة غرين تشاهد التلفاز."
+    },
+    {
+      "id": 205,
+      "text": "Mr and Mrs Green are in the room with their son, Peter.",
+      "translation": "السيد والسيدة غرين في الغرفة مع ابنهما بيتر."
+    },
+    {
+      "id": 206,
+      "text": "Their daughter, Susan, comes in.",
+      "translation": "تدخل ابنتهما سوزان."
+    },
+    {
+      "id": 207,
+      "text": "She is with her boyfriend, David.",
+      "translation": "إنها مع صديقها ديفيد."
+    },
+    {
+      "id": 208,
+      "text": "SUSAN Hello, Mother, Father.",
+      "translation": "سوزان: مرحباً أمي، أبي."
+    },
+    {
+      "id": 209,
+      "text": "This is David, David Jones.",
+      "translation": "هذا ديفيد، ديفيد جونز."
+    },
+    {
+      "id": 210,
+      "text": "MRS GREEN Hello, David.",
+      "translation": "السيدة غرين: مرحباً يا ديفيد."
+    },
+    {
+      "id": 211,
+      "text": "DAVID Hello.",
+      "translation": "ديفيد: مرحباً."
+    },
+    {
+      "id": 212,
+      "text": "SUSAN And that's Peter, my brother.",
+      "translation": "سوزان: وذلك هو بيتر، أخي."
+    },
+    {
+      "id": 213,
+      "text": "PETER Hello.",
+      "translation": "بيتر: مرحباً."
+    },
+    {
+      "id": 214,
+      "text": "Is David your new boyfriend, Susan?",
+      "translation": "هل ديفيد هو صديقك الجديد يا سوزان؟"
+    },
+    {
+      "id": 215,
+      "text": "SUSAN Be quiet, Peter!",
+      "translation": "سوزان: اصمت يا بيتر!"
+    },
+    {
+      "id": 216,
+      "text": "PETER Are you a football supporter, David?",
+      "translation": "بيتر: هل أنت من مشجعي كرة القدم يا ديفيد؟"
+    },
+    {
+      "id": 217,
+      "text": "DAVID Yes, I am.",
+      "translation": "ديفيد: نعم، أنا كذلك."
+    },
+    {
+      "id": 218,
+      "text": "PETER We're going to watch the match.",
+      "translation": "بيتر: سنشاهد المباراة."
+    },
+    {
+      "id": 219,
+      "text": "Rovers are playing United.",
+      "translation": "فريق روفرز يلعب ضد يونايتد."
+    },
+    {
+      "id": 220,
+      "text": "MR GREEN Sit down, David.",
+      "translation": "السيد غرين: اجلس يا ديفيد."
+    },
+    {
+      "id": 221,
+      "text": "Watch the match with us.",
+      "translation": "شاهد المباراة معنا."
+    },
+    {
+      "id": 222,
+      "text": "DAVID Thanks.",
+      "translation": "ديفيد: شكراً."
+    },
+    {
+      "id": 223,
+      "text": "PETER We support Rovers.",
+      "translation": "بيتر: نحن نشجع روفرز."
+    },
+    {
+      "id": 224,
+      "text": "Do you support them, David?",
+      "translation": "هل تشجعهم يا ديفيد؟"
+    },
+    {
+      "id": 225,
+      "text": "DAVID Er - no.",
+      "translation": "ديفيد: آه - لا."
+    },
+    {
+      "id": 226,
+      "text": "I support United.",
+      "translation": "أنا أشجع يونايتد."
+    },
+    {
+      "id": 227,
+      "text": "SUSAN Oh!",
+      "translation": "سوزان: أوه!"
+    },
+    {
+      "id": 228,
+      "text": "PETER You support United!",
+      "translation": "بيتر: أنت تشجع يونايتد!"
+    },
+    {
+      "id": 229,
+      "text": "A United supporter - here in this house!",
+      "translation": "مشجع ليونايتد - هنا في هذا المنزل!"
+    },
+    {
+      "id": 230,
+      "text": "MRS GREEN Be quiet, Peter!",
+      "translation": "السيدة غرين: اصمت يا بيتر!"
+    },
+    {
+      "id": 231,
+      "text": "Watch the television.",
+      "translation": "شاهد التلفاز."
+    },
+    {
+      "id": 232,
+      "text": "Listen to the commentator.",
+      "translation": "استمع إلى المعلق."
+    },
+    {
+      "id": 233,
+      "text": "COMMENTATOR Hello.",
+      "translation": "المعلق: مرحباً."
+    },
+    {
+      "id": 234,
+      "text": "This is Brian Hunter.",
+      "translation": "أنا برايان هانتر."
+    },
+    {
+      "id": 235,
+      "text": "I'm your commentator this afternoon.",
+      "translation": "أنا معلقكم هذا المساء."
+    },
+    {
+      "id": 236,
+      "text": "This is going to be a good match - yes, a very good match!",
+      "translation": "ستكون هذه مباراة جيدة - نعم، مباراة جيدة جداً!"
+    },
+    {
+      "id": 237,
+      "text": "Listen.",
+      "translation": "استمعوا."
+    },
+    {
+      "id": 238,
+      "text": "You can hear the Rovers supporters.",
+      "translation": "يمكنكم سماع مشجعي روفرز."
+    },
+    {
+      "id": 239,
+      "text": "R SUPPORTERS Ro - vers!",
+      "translation": "مشجعو روفرز: رو - فرز!"
+    },
+    {
+      "id": 240,
+      "text": "COMMENTATOR And the United supporters are here too...",
+      "translation": "المعلق: ومشجعو يونايتد هنا أيضاً..."
+    },
+    {
+      "id": 241,
+      "text": "R SUPPORTERS U - ni - ted!",
+      "translation": "مشجعو يونايتد: يو - ناي - تيد!"
+    },
+    {
+      "id": 242,
+      "text": "U - ni - ted!",
+      "translation": "يو - ناي - تيد!"
+    },
+    {
+      "id": 243,
+      "text": "NARRATOR The Green family and David watch the match and listen to the commentator.",
+      "translation": "الراوي: تشاهد عائلة غرين وديفيد المباراة ويستمعون إلى المعلق."
+    },
+    {
+      "id": 244,
+      "text": "COMMENTATOR Smith has the ball.",
+      "translation": "المعلق: سميث يملك الكرة."
+    },
+    {
+      "id": 245,
+      "text": "Now Brown has it.",
+      "translation": "الآن براون يملكها."
+    },
+    {
+      "id": 246,
+      "text": "Brown shoots.",
+      "translation": "براون يسدد."
+    },
+    {
+      "id": 247,
+      "text": "It's a goal!",
+      "translation": "إنه هدف!"
+    },
+    {
+      "id": 248,
+      "text": "R SUPPORTERS Goal!",
+      "translation": "مشجعو روفرز: هدف!"
+    },
+    {
+      "id": 249,
+      "text": "COMMENTATOR Rovers one - United nil.",
+      "translation": "المعلق: روفرز واحد - يونايتد صفر."
+    },
+    {
+      "id": 250,
+      "text": "PETER One-nil to Rovers, David.",
+      "translation": "بيتر: واحد-صفر لروفرز يا ديفيد."
+    },
+    {
+      "id": 251,
+      "text": "What do you think of your boys now?",
+      "translation": "ما رأيك في أولادك الآن؟"
+    },
+    {
+      "id": 252,
+      "text": "NARRATOR And later the commentator says...",
+      "translation": "الراوي: وبعد ذلك يقول المعلق..."
+    },
+    {
+      "id": 253,
+      "text": "COMMENTATOR Johnson gives the ball to Roberts.",
+      "translation": "المعلق: جونسون يعطي الكرة لروبرتس."
+    },
+    {
+      "id": 254,
+      "text": "Roberts is going to shoot.",
+      "translation": "روبرتس سيسدد."
+    },
+    {
+      "id": 255,
+      "text": "No - the ball goes to Miller.",
+      "translation": "لا - الكرة تذهب إلى ميلر."
+    },
+    {
+      "id": 256,
+      "text": "Miller shoots, and yes!",
+      "translation": "ميلر يسدد، ونعم!"
+    },
+    {
+      "id": 257,
+      "text": "Goal!",
+      "translation": "هدف!"
+    },
+    {
+      "id": 258,
+      "text": "R SUPPORTERS Goal!",
+      "translation": "مشجعو روفرز: هدف!"
+    },
+    {
+      "id": 259,
+      "text": "COMMENTATOR Rovers two, United nil.",
+      "translation": "المعلق: روفرز اثنان، يونايتد صفر."
+    },
+    {
+      "id": 260,
+      "text": "PETER Two-nil! Two-nil to Rovers, David.",
+      "translation": "بيتر: اثنان-صفر! اثنان-صفر لروفرز يا ديفيد."
+    },
+    {
+      "id": 261,
+      "text": "NARRATOR Susan and her brother are happy.",
+      "translation": "الراوي: سوزان وأخوها سعيدان."
+    },
+    {
+      "id": 262,
+      "text": "David isn't very happy.",
+      "translation": "ديفيد ليس سعيداً جداً."
+    },
+    {
+      "id": 263,
+      "text": "But Rovers and United are playing again, and now United score.",
+      "translation": "لكن روفرز ويونايتد يلعبان مرة أخرى، والآن يونايتد يسجل."
+    },
+    {
+      "id": 264,
+      "text": "u SUPPORTERS Goal!",
+      "translation": "مشجعو يونايتد: هدف!"
+    },
+    {
+      "id": 265,
+      "text": "PETER Oh, no!",
+      "translation": "بيتر: أوه، لا!"
+    },
+    {
+      "id": 266,
+      "text": "DAVID Two-one.",
+      "translation": "ديفيد: اثنان-واحد."
+    },
+    {
+      "id": 267,
+      "text": "That's good, United.",
+      "translation": "هذا جيد يا يونايتد."
+    },
+    {
+      "id": 268,
+      "text": "NARRATOR And later United score again.",
+      "translation": "الراوي: وبعد ذلك يسجل يونايتد مرة أخرى."
+    },
+    {
+      "id": 269,
+      "text": "DAVID Rovers two, United two!",
+      "translation": "ديفيد: روفرز اثنان، يونايتد اثنان!"
+    },
+    {
+      "id": 270,
+      "text": "COMMENTATOR This is a very good match!",
+      "translation": "المعلق: هذه مباراة جيدة جداً!"
+    },
+    {
+      "id": 271,
+      "text": "NARRATOR It is a good match, but Rovers and United don't score again.",
+      "translation": "الراوي: إنها مباراة جيدة، لكن روفرز ويونايتد لا يسجلان مرة أخرى."
+    },
+    {
+      "id": 272,
+      "text": "MR GREEN Two-two.",
+      "translation": "السيد غرين: اثنان-اثنان."
+    },
+    {
+      "id": 273,
+      "text": "The Rovers and United matches are always two-two or one-one.",
+      "translation": "مباريات روفرز ويونايتد دائماً اثنان-اثنان أو واحد-واحد."
+    },
+    {
+      "id": 274,
+      "text": "PETER But they're always good matches.",
+      "translation": "بيتر: لكنها دائماً مباريات جيدة."
+    },
+    {
+      "id": 275,
+      "text": "SUSAN OK, we're going now, Mother.",
+      "translation": "سوزان: حسناً، نحن ذاهبان الآن يا أمي."
+    },
+    {
+      "id": 276,
+      "text": "David and I are going to the cinema.",
+      "translation": "ديفيد وأنا ذاهبان إلى السينما."
+    },
+    {
+      "id": 277,
+      "text": "PETER But Susan, your boyfriend supports United.",
+      "translation": "بيتر: لكن يا سوزان، صديقك يشجع يونايتد."
+    },
+    {
+      "id": 278,
+      "text": "You can't go to the cinema with him.",
+      "translation": "لا يمكنك الذهاب إلى السينما معه."
+    },
+    {
+      "id": 279,
+      "text": "MRS GREEN Be quiet, Peter!",
+      "translation": "السيدة غرين: اصمت يا بيتر!"
+    },
+    {
+      "id": 280,
+      "text": "DAVID But Peter, that's good.",
+      "translation": "ديفيد: لكن يا بيتر، هذا جيد."
+    },
+    {
+      "id": 281,
+      "text": "PETER What is?",
+      "translation": "بيتر: ما هو؟"
+    },
+    {
+      "id": 282,
+      "text": "DAVID Susan is a Rovers supporter, I'm a United supporter.",
+      "translation": "ديفيد: سوزان مشجعة لروفرز، وأنا مشجع ليونايتد."
+    },
+    {
+      "id": 283,
+      "text": "Rovers and United - that's a good match.",
+      "translation": "روفرز ويونايتد - هذه مباراة جيدة."
+    },
+    {
+      "id": 284,
+      "text": "(Mr and Mrs Green smile.)",
+      "translation": "(يبتسم السيد والسيدة غرين.)"
+    },
+    {
+      "id": 285,
+      "text": "NARRATOR It is a year later.",
+      "translation": "الراوي: بعد عام."
+    },
+    {
+      "id": 286,
+      "text": "Susan and David are very nervous.",
+      "translation": "سوزان وديفيد متوتران جداً."
+    },
+    {
+      "id": 287,
+      "text": "Today is their wedding day.",
+      "translation": "اليوم هو يوم زفافهما."
+    },
+    {
+      "id": 288,
+      "text": "Susan Green is going to be Mrs Jones.",
+      "translation": "سوزان غرين ستصبح السيدة جونز."
+    },
+    {
+      "id": 289,
+      "text": "And what do their friends say?",
+      "translation": "وماذا يقول أصدقاؤهم؟"
+    },
+    {
+      "id": 290,
+      "text": "ALL This is a good match!",
+      "translation": "الجميع: هذه مباراة جيدة!"
+    },
+    {
+      "id": 291,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 292,
+      "text": "Wedding Day",
+      "translation": "يوم الزفاف"
+    },
+    {
+      "id": 293,
+      "text": "NARRATOR David and his friends are football supporters, but they are not going to a football match today.",
+      "translation": "الراوي: ديفيد وأصدقاؤه من مشجعي كرة القدم، لكنهم لا يذهبون إلى مباراة كرة قدم اليوم."
+    },
+    {
+      "id": 294,
+      "text": "Today is David's wedding day.",
+      "translation": "اليوم هو يوم زفاف ديفيد."
+    },
+    {
+      "id": 295,
+      "text": "In the morning, his friends come to his house.",
+      "translation": "في الصباح، يأتي أصدقاؤه إلى منزله."
+    },
+    {
+      "id": 296,
+      "text": "MARY Hello, David.",
+      "translation": "ماري: مرحباً يا ديفيد."
+    },
+    {
+      "id": 297,
+      "text": "DAVID Hello.",
+      "translation": "ديفيد: مرحباً."
+    },
+    {
+      "id": 298,
+      "text": "JOHN Today's the day!",
+      "translation": "جون: اليوم هو اليوم!"
+    },
+    {
+      "id": 299,
+      "text": "DAVID Yes.",
+      "translation": "ديفيد: نعم."
+    },
+    {
+      "id": 300,
+      "text": "PAUL Your wedding day!",
+      "translation": "بول: يوم زفافك!"
+    },
+    {
+      "id": 301,
+      "text": "DAVID Yes.",
+      "translation": "ديفيد: نعم."
+    },
+    {
+      "id": 302,
+      "text": "MARY You can't watch the football match today, David.",
+      "translation": "ماري: لا يمكنك مشاهدة مباراة كرة القدم اليوم يا ديفيد."
+    },
+    {
+      "id": 303,
+      "text": "DAVID No.",
+      "translation": "ديفيد: لا."
+    },
+    {
+      "id": 304,
+      "text": "JOHN United are going to score four goals.",
+      "translation": "جون: يونايتد سيسجل أربعة أهداف."
+    },
+    {
+      "id": 305,
+      "text": "PAUL No - it's going to be four-nil to Rovers.",
+      "translation": "بول: لا - ستكون أربعة-صفر لروفرز."
+    },
+    {
+      "id": 306,
+      "text": "DAVID Four-nil? They can't score goals!",
+      "translation": "ديفيد: أربعة-صفر؟ لا يمكنهم تسجيل أهداف!"
+    },
+    {
+      "id": 307,
+      "text": "PAUL Oh yes, they can!",
+      "translation": "بول: أوه نعم، يمكنهم!"
+    },
+    {
+      "id": 308,
+      "text": "Rovers always play well.",
+      "translation": "روفرز يلعبون دائماً بشكل جيد."
+    },
+    {
+      "id": 309,
+      "text": "MARY I don't support United or Rovers.",
+      "translation": "ماري: أنا لا أشجع يونايتد أو روفرز."
+    },
+    {
+      "id": 310,
+      "text": "JOHN And we're not football supporters today.",
+      "translation": "جون: ونحن لسنا مشجعي كرة قدم اليوم."
+    },
+    {
+      "id": 311,
+      "text": "We're supporting David.",
+      "translation": "نحن ندعم ديفيد."
+    },
+    {
+      "id": 312,
+      "text": "PAUL That's right.",
+      "translation": "بول: هذا صحيح."
+    },
+    {
+      "id": 313,
+      "text": "We're David supporters.",
+      "translation": "نحن مشجعو ديفيد."
+    },
+    {
+      "id": 314,
+      "text": "Today's his wedding day, and he's nervous.",
+      "translation": "اليوم هو يوم زفافه، وهو متوتر."
+    },
+    {
+      "id": 315,
+      "text": "DAVID Nervous? Me?",
+      "translation": "ديفيد: متوتر؟ أنا؟"
+    },
+    {
+      "id": 316,
+      "text": "I'm not nervous.",
+      "translation": "أنا لست متوتراً."
+    },
+    {
+      "id": 317,
+      "text": "I'm never nervous.",
+      "translation": "أنا لا أتوتر أبداً."
+    },
+    {
+      "id": 318,
+      "text": "MARY (To John and Paul) His wedding day, and he's not nervous.",
+      "translation": "ماري: (إلى جون وبول) يوم زفافه، وهو ليس متوتراً."
+    },
+    {
+      "id": 319,
+      "text": "That's good.",
+      "translation": "هذا جيد."
+    },
+    {
+      "id": 320,
+      "text": "DAVID You can smile, you three, but I am not nervous.",
+      "translation": "ديفيد: يمكنكم أن تبتسموا أنتم الثلاثة، لكنني لست متوتراً."
+    },
+    {
+      "id": 321,
+      "text": "PAUL OK, David, we're wrong.",
+      "translation": "بول: حسناً يا ديفيد، نحن مخطئون."
+    },
+    {
+      "id": 322,
+      "text": "MARY We understand.",
+      "translation": "ماري: نحن نتفهم."
+    },
+    {
+      "id": 323,
+      "text": "You're not nervous.",
+      "translation": "أنت لست متوتراً."
+    },
+    {
+      "id": 324,
+      "text": "JOHN (He smiles.) We like your new things, David.",
+      "translation": "جون: (يبتسم) نحن نحب أشياءك الجديدة يا ديفيد."
+    },
+    {
+      "id": 325,
+      "text": "DAVID New things?",
+      "translation": "ديفيد: أشياء جديدة؟"
+    },
+    {
+      "id": 326,
+      "text": "PAUL Yes.",
+      "translation": "بول: نعم."
+    },
+    {
+      "id": 327,
+      "text": "You've got a new coat.",
+      "translation": "لديك معطف جديد."
+    },
+    {
+      "id": 328,
+      "text": "DAVID Oh - yes.",
+      "translation": "ديفيد: أوه - نعم."
+    },
+    {
+      "id": 329,
+      "text": "MARY And an expensive new shirt.",
+      "translation": "ماري: وقميص جديد غالي الثمن."
+    },
+    {
+      "id": 330,
+      "text": "DAVID Yes.",
+      "translation": "ديفيد: نعم."
+    },
+    {
+      "id": 331,
+      "text": "JOHN And we like your new shoes, David.",
+      "translation": "جون: ونحن نحب حذاءك الجديد يا ديفيد."
+    },
+    {
+      "id": 332,
+      "text": "MARY The new black shoe on your left foot...",
+      "translation": "ماري: الحذاء الأسود الجديد في قدمك اليسرى..."
+    },
+    {
+      "id": 333,
+      "text": "PAUL And the new brown shoe on your right foot.",
+      "translation": "بول: والحذاء البني الجديد في قدمك اليمنى."
+    },
+    {
+      "id": 334,
+      "text": "DAVID What?",
+      "translation": "ديفيد: ماذا؟"
+    },
+    {
+      "id": 335,
+      "text": "JOHN Very interesting!",
+      "translation": "جون: مثير للاهتمام للغاية!"
+    },
+    {
+      "id": 336,
+      "text": "One black shoe and one brown shoe!",
+      "translation": "حذاء أسود واحد وحذاء بني واحد!"
+    },
+    {
+      "id": 337,
+      "text": "DAVID Oh, no!",
+      "translation": "ديفيد: أوه، لا!"
+    },
+    {
+      "id": 338,
+      "text": "MARY But we understand.",
+      "translation": "ماري: لكننا نتفهم."
+    },
+    {
+      "id": 339,
+      "text": "JOHN Yes.",
+      "translation": "جون: نعم."
+    },
+    {
+      "id": 340,
+      "text": "PAUL Today's your wedding day...",
+      "translation": "بول: اليوم هو يوم زفافك..."
+    },
+    {
+      "id": 341,
+      "text": "DAVID (He smiles.) And I'm nervous!",
+      "translation": "ديفيد: (يبتسم) وأنا متوتر!"
+    },
+    {
+      "id": 342,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 343,
+      "text": "The English Teacher",
+      "translation": "مدرس اللغة الإنجليزية"
+    },
+    {
+      "id": 344,
+      "text": "NARRATOR Mr Brown is an English teacher.",
+      "translation": "الراوي: السيد براون مدرس لغة إنجليزية."
+    },
+    {
+      "id": 345,
+      "text": "He teaches English every day.",
+      "translation": "يدرس اللغة الإنجليزية كل يوم."
+    },
+    {
+      "id": 346,
+      "text": "Listen to him.",
+      "translation": "استمعوا إليه."
+    },
+    {
+      "id": 347,
+      "text": "MR BROWN Now, Michel, say an English sentence, please.",
+      "translation": "السيد براون: الآن يا ميشيل، قل جملة إنجليزية، من فضلك."
+    },
+    {
+      "id": 348,
+      "text": "MICHEL The ticket inspector is looking at the tickets.",
+      "translation": "ميشيل: مفتش التذاكر ينظر إلى التذاكر."
+    },
+    {
+      "id": 349,
+      "text": "MR BROWN Good.",
+      "translation": "السيد براون: جيد."
+    },
+    {
+      "id": 350,
+      "text": "Do you understand that, Rita?",
+      "translation": "هل تفهمين ذلك يا ريتا؟"
+    },
+    {
+      "id": 351,
+      "text": "RITA Yes, sir.",
+      "translation": "ريتا: نعم يا سيدي."
+    },
+    {
+      "id": 352,
+      "text": "MR BROWN Can you say a new sentence, please?",
+      "translation": "السيد براون: هل يمكنك قول جملة جديدة، من فضلك؟"
+    },
+    {
+      "id": 353,
+      "text": "RITA My father is a television commentator.",
+      "translation": "ريتا: والدي معلق تلفزيوني."
+    },
+    {
+      "id": 354,
+      "text": "MR BROWN Yes, good.",
+      "translation": "السيد براون: نعم، جيد."
+    },
+    {
+      "id": 355,
+      "text": "Do you understand that, Anika",
+      "translation": "هل تفهمين ذلك يا أنيكا؟"
+    },
+    {
+      "id": 356,
+      "text": "ANIKA Yes, sir.",
+      "translation": "أنيكا: نعم يا سيدي."
+    },
+    {
+      "id": 357,
+      "text": "MR BROWN A new sentence, please, Anika.",
+      "translation": "السيد براون: جملة جديدة، من فضلك يا أنيكا."
+    },
+    {
+      "id": 358,
+      "text": "ANIKA I like football.",
+      "translation": "أنيكا: أنا أحب كرة القدم."
+    },
+    {
+      "id": 359,
+      "text": "MR BROWN Good.",
+      "translation": "السيد براون: جيد."
+    },
+    {
+      "id": 360,
+      "text": "Do you understand that, Istvan",
+      "translation": "هل تفهم ذلك يا إستفان؟"
+    },
+    {
+      "id": 361,
+      "text": "ISTVAN Yes, sir.",
+      "translation": "إستفان: نعم يا سيدي."
+    },
+    {
+      "id": 362,
+      "text": "MR BROWN Say a new sentence, please.",
+      "translation": "السيد براون: قل جملة جديدة، من فضلك."
+    },
+    {
+      "id": 363,
+      "text": "ISTVAN The woman in the shop is buying eggs.",
+      "translation": "إستفان: المرأة في المتجر تشتري البيض."
+    },
+    {
+      "id": 364,
+      "text": "MR BROWN Good.",
+      "translation": "السيد براون: جيد."
+    },
+    {
+      "id": 365,
+      "text": "Do you understand that, Paolo",
+      "translation": "هل تفهم ذلك يا باولو؟"
+    },
+    {
+      "id": 366,
+      "text": "PAOLO Yes, sir.",
+      "translation": "باولو: نعم يا سيدي."
+    },
+    {
+      "id": 367,
+      "text": "MR BROWN Can you say a new sentence, please?",
+      "translation": "السيد براون: هل يمكنك قول جملة جديدة، من فضلك؟"
+    },
+    {
+      "id": 368,
+      "text": "PAOLO I can tell good stories.",
+      "translation": "باولو: أستطيع رواية قصص جيدة."
+    },
+    {
+      "id": 369,
+      "text": "MR BROWN Yes, good.",
+      "translation": "السيد براون: نعم، جيد."
+    },
+    {
+      "id": 370,
+      "text": "Do you understand that, Hans",
+      "translation": "هل تفهم ذلك يا هانز؟"
+    },
+    {
+      "id": 371,
+      "text": "HANS Yes, sir.",
+      "translation": "هانز: نعم يا سيدي."
+    },
+    {
+      "id": 372,
+      "text": "MR BROWN A new sentence, please, Hans.",
+      "translation": "السيد براون: جملة جديدة، من فضلك يا هانز."
+    },
+    {
+      "id": 373,
+      "text": "HANS The students are nervous.",
+      "translation": "هانز: الطلاب متوترون."
+    },
+    {
+      "id": 374,
+      "text": "MR BROWN Good.",
+      "translation": "السيد براون: جيد."
+    },
+    {
+      "id": 375,
+      "text": "Do you understand that, Yuki?",
+      "translation": "هل تفهمين ذلك يا يوكي؟"
+    },
+    {
+      "id": 376,
+      "text": "YUKI Yes, sir.",
+      "translation": "يوكي: نعم يا سيدي."
+    },
+    {
+      "id": 377,
+      "text": "MR BROWN Say a new sentence, please, Yuki.",
+      "translation": "السيد براون: قولي جملة جديدة، من فضلك يا يوكي."
+    },
+    {
+      "id": 378,
+      "text": "YUKI Smoke is coming under the door.",
+      "translation": "يوكي: الدخان يتسرب من تحت الباب."
+    },
+    {
+      "id": 379,
+      "text": "MR BROWN Good.",
+      "translation": "السيد براون: جيد."
+    },
+    {
+      "id": 380,
+      "text": "Do you understand that, Helena",
+      "translation": "هل تفهمين ذلك يا هيلينا؟"
+    },
+    {
+      "id": 381,
+      "text": "HELENA Yes, sir.",
+      "translation": "هيلينا: نعم يا سيدي."
+    },
+    {
+      "id": 382,
+      "text": "MR BROWN Give me a new sentence, please, Helena.",
+      "translation": "السيد براون: أعطيني جملة جديدة، من فضلك يا هيلينا."
+    },
+    {
+      "id": 383,
+      "text": "HELENA The school is on fire.",
+      "translation": "هيلينا: المدرسة تحترق."
+    },
+    {
+      "id": 384,
+      "text": "MR BROWN Good.",
+      "translation": "السيد براون: جيد."
+    },
+    {
+      "id": 385,
+      "text": "Do you understand that, Maria?",
+      "translation": "هل تفهمين ذلك يا ماريا؟"
+    },
+    {
+      "id": 386,
+      "text": "MARIA Yes, sir.",
+      "translation": "ماريا: نعم يا سيدي."
+    },
+    {
+      "id": 387,
+      "text": "MR BROWN Say a sentence, please.",
+      "translation": "السيد براون: قولي جملة، من فضلك."
+    },
+    {
+      "id": 388,
+      "text": "MARIA The school is on fire.",
+      "translation": "ماريا: المدرسة تحترق."
+    },
+    {
+      "id": 389,
+      "text": "MR BROWN No, a new sentence, please.",
+      "translation": "السيد براون: لا، جملة جديدة، من فضلك."
+    },
+    {
+      "id": 390,
+      "text": "MARIA But sir, you don't understand.",
+      "translation": "ماريا: لكن يا سيدي، أنت لا تفهم."
+    },
+    {
+      "id": 391,
+      "text": "The school is on fire.",
+      "translation": "المدرسة تحترق."
+    },
+    {
+      "id": 392,
+      "text": "MR BROWN I understand, Maria.",
+      "translation": "السيد براون: أنا أفهم يا ماريا."
+    },
+    {
+      "id": 393,
+      "text": "Smoke is coming under the door.",
+      "translation": "الدخان يتسرب من تحت الباب."
+    },
+    {
+      "id": 394,
+      "text": "The school is... What? Fire!",
+      "translation": "المدرسة... ماذا؟ حريق!"
+    },
+    {
+      "id": 395,
+      "text": "Go to the door now.",
+      "translation": "اذهبوا إلى الباب الآن."
+    },
+    {
+      "id": 396,
+      "text": "Quickly!",
+      "translation": "بسرعة!"
+    },
+    {
+      "id": 397,
+      "text": "But don't run!",
+      "translation": "لكن لا تركضوا!"
+    },
+    {
+      "id": 398,
+      "text": "It's a fire!",
+      "translation": "إنه حريق!"
+    },
+    {
+      "id": 399,
+      "text": "MARIA Oh, good, sir.",
+      "translation": "ماريا: أوه، جيد يا سيدي."
+    },
+    {
+      "id": 400,
+      "text": "Now you understand!",
+      "translation": "الآن أنت تفهم!"
+    },
+    {
+      "id": 401,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 402,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 403,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
