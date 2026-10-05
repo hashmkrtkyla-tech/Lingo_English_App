@@ -2,13 +2,587 @@
   "id": "a1_plastic",
   "title": "Plastic",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Plastic-Louise_Spilsbury.mp3",
+  "audio_url": "assets/books/audio/a1_books/Plastic-Sue_Murray.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Plastic is used to make many everyday items.",
-      "translation": "يُستخدم البلاستيك لصنع العديد من الأشياء اليومية."
+      "id": 1,
+      "text": "Plastic",
+      "translation": "بلاستيك"
+    },
+    {
+      "id": 2,
+      "text": "Sue Murray",
+      "translation": "سو موراي"
+    },
+    {
+      "id": 3,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 4,
+      "text": "What Is Plastic?",
+      "translation": "ما هو البلاستيك؟"
+    },
+    {
+      "id": 5,
+      "text": "Plastic is a material.",
+      "translation": "البلاستيك مادة."
+    },
+    {
+      "id": 6,
+      "text": "We use materials to make things.",
+      "translation": "نستخدم المواد لصنع الأشياء."
+    },
+    {
+      "id": 7,
+      "text": "We use plastic to make many things in many different shapes.",
+      "translation": "نستخدم البلاستيك لصنع أشياء كثيرة بأشكال عديدة مختلفة."
+    },
+    {
+      "id": 8,
+      "text": "We use plastic to make pens. bottles, CDs, and shoes.",
+      "translation": "نستخدم البلاستيك لصنع الأقلام. والزجاجات، والأقراص المدمجة، والأحذية."
+    },
+    {
+      "id": 9,
+      "text": "We make plastic knives, forks, spoons, and chopsticks, too!",
+      "translation": "نصنع أيضاً سكاكين وشوك وملاعق وعيدان طعام بلاستيكية!"
+    },
+    {
+      "id": 10,
+      "text": "We make many different types of plastic.",
+      "translation": "نصنع العديد من الأنواع المختلفة من البلاستيك."
+    },
+    {
+      "id": 11,
+      "text": "Some types of plastic are soft.",
+      "translation": "بعض أنواع البلاستيك ناعمة."
+    },
+    {
+      "id": 12,
+      "text": "A plastic watch strap is soft so we can put it on our wrist.",
+      "translation": "حزام الساعة البلاستيكي ناعم حتى نتمكن من وضعه على معصمنا."
+    },
+    {
+      "id": 13,
+      "text": "Some types of plastic are hard and strong.",
+      "translation": "بعض أنواع البلاستيك صلبة وقوية."
+    },
+    {
+      "id": 14,
+      "text": "A plastic skateboard is hard and strong so we can stand on it.",
+      "translation": "لوح التزلج البلاستيكي صلب وقوي حتى نتمكن من الوقوف عليه."
+    },
+    {
+      "id": 15,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 16,
+      "text": "Making Plastic",
+      "translation": "صنع البلاستيك"
+    },
+    {
+      "id": 17,
+      "text": "We can make plastic from oil.",
+      "translation": "يمكننا صنع البلاستيك من النفط."
+    },
+    {
+      "id": 18,
+      "text": "We get oil from under the ground.",
+      "translation": "نحصل على النفط من تحت الأرض."
+    },
+    {
+      "id": 19,
+      "text": "We can get different types of liquid from oil.",
+      "translation": "يمكننا الحصول على أنواع مختلفة من السوائل من النفط."
+    },
+    {
+      "id": 20,
+      "text": "We use some of the liquids to make small plastic pieces.",
+      "translation": "نستخدم بعض السوائل لصنع قطع بلاستيكية صغيرة."
+    },
+    {
+      "id": 21,
+      "text": "We use the plastic pieces to make plastic things.",
+      "translation": "نستخدم القطع البلاستيكية لصنع أشياء بلاستيكية."
+    },
+    {
+      "id": 22,
+      "text": "In a factory, we make plastic pieces hot.",
+      "translation": "في المصنع، نجعل القطع البلاستيكية ساخنة."
+    },
+    {
+      "id": 23,
+      "text": "Hot plastic is very soft.",
+      "translation": "البلاستيك الساخن طري جداً."
+    },
+    {
+      "id": 24,
+      "text": "Then we can make it into different shapes.",
+      "translation": "ثم يمكننا تشكيله في أشكال مختلفة."
+    },
+    {
+      "id": 25,
+      "text": "How do we make plastic spoons?",
+      "translation": "كيف نصنع الملاعق البلاستيكية؟"
+    },
+    {
+      "id": 26,
+      "text": "We make plastic pieces hot.",
+      "translation": "نجعل القطع البلاستيكية ساخنة."
+    },
+    {
+      "id": 27,
+      "text": "We put the hot plastic in a mold.",
+      "translation": "نضع البلاستيك الساخن في قالب."
+    },
+    {
+      "id": 28,
+      "text": "The mold has spoon shapes.",
+      "translation": "القالب له أشكال ملاعق."
+    },
+    {
+      "id": 29,
+      "text": "The plastic gets cold and hard in the mold.",
+      "translation": "يصبح البلاستيك بارداً وصلباً في القالب."
+    },
+    {
+      "id": 30,
+      "text": "Then we have lots of spoons!",
+      "translation": "ثم نحصل على الكثير من الملاعق!"
+    },
+    {
+      "id": 31,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 32,
+      "text": "Bottles and Boxes",
+      "translation": "الزجاجات والصناديق"
+    },
+    {
+      "id": 33,
+      "text": "We can buy juice, soda, and water in plastic bottles.",
+      "translation": "يمكننا شراء العصير والصودا والماء في زجاجات بلاستيكية."
+    },
+    {
+      "id": 34,
+      "text": "Plastic bottles are strong, so they don't break.",
+      "translation": "الزجاجات البلاستيكية قوية، لذا فهي لا تنكسر."
+    },
+    {
+      "id": 35,
+      "text": "They are light so we can carry them.",
+      "translation": "إنها خفيفة حتى نتمكن من حملها."
+    },
+    {
+      "id": 36,
+      "text": "We use 1 Liter of oil to make four plastic bottles!",
+      "translation": "نستخدم لتراً واحداً من النفط لصنع أربع زجاجات بلاستيكية!"
+    },
+    {
+      "id": 37,
+      "text": "Many plastic boxes are transparent.",
+      "translation": "العديد من الصناديق البلاستيكية شفافة."
+    },
+    {
+      "id": 38,
+      "text": "They are transparent so we can see what's in the boxes.",
+      "translation": "إنها شفافة حتى نتمكن من رؤية ما بداخل الصناديق."
+    },
+    {
+      "id": 39,
+      "text": "We can buy lots of food in plastic wrap.",
+      "translation": "يمكننا شراء الكثير من الطعام في غلاف بلاستيكي."
+    },
+    {
+      "id": 40,
+      "text": "We can buy sandwiches, salad, and cake in plastic wrap.",
+      "translation": "يمكننا شراء شطائر وسلطة وكعك في غلاف بلاستيكي."
+    },
+    {
+      "id": 41,
+      "text": "The food is in plastic wrap to stop it going bad.",
+      "translation": "يوضع الطعام في غلاف بلاستيكي لمنعه من التلف."
+    },
+    {
+      "id": 42,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 43,
+      "text": "At Home",
+      "translation": "في المنزل"
+    },
+    {
+      "id": 44,
+      "text": "There's lots of plastic at home.",
+      "translation": "يوجد الكثير من البلاستيك في المنزل."
+    },
+    {
+      "id": 45,
+      "text": "We use plastic to make many doors, window frames, and roofs.",
+      "translation": "نستخدم البلاستيك لصنع العديد من الأبواب وإطارات النوافذ والأسطح."
+    },
+    {
+      "id": 46,
+      "text": "Plastic is strong, and it stops rain getting into our homes.",
+      "translation": "البلاستيك قوي، ويمنع المطر من الدخول إلى منازلنا."
+    },
+    {
+      "id": 47,
+      "text": "Plastic pipes take rain water from our roofs.",
+      "translation": "تنقل الأنابيب البلاستيكية مياه الأمطار من أسطح منازلنا."
+    },
+    {
+      "id": 48,
+      "text": "We use some plastic to make fibers.",
+      "translation": "نستخدم بعض البلاستيك لصنع الألياف."
+    },
+    {
+      "id": 49,
+      "text": "We can make plastic fibers in different colors.",
+      "translation": "يمكننا صنع ألياف بلاستيكية بألوان مختلفة."
+    },
+    {
+      "id": 50,
+      "text": "We use plastic fibers to make many carpets and curtains.",
+      "translation": "نستخدم الألياف البلاستيكية لصنع العديد من السجاد والستائر."
+    },
+    {
+      "id": 51,
+      "text": "We make lots of clothes from plastic fibers, too.",
+      "translation": "نصنع أيضاً الكثير من الملابس من الألياف البلاستيكية."
+    },
+    {
+      "id": 52,
+      "text": "We can make paint from plastic, too!",
+      "translation": "يمكننا صنع الطلاء من البلاستيك أيضاً!"
+    },
+    {
+      "id": 53,
+      "text": "We use it on the walls at home.",
+      "translation": "نستخدمه على الجدران في المنزل."
+    },
+    {
+      "id": 54,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 55,
+      "text": "Outside",
+      "translation": "في الخارج"
+    },
+    {
+      "id": 56,
+      "text": "We use many plastic things outside.",
+      "translation": "نستخدم العديد من الأشياء البلاستيكية في الخارج."
+    },
+    {
+      "id": 57,
+      "text": "We make plastic toys in many shapes and colors.",
+      "translation": "نصنع ألعاباً بلاستيكية بأشكال وألوان عديدة."
+    },
+    {
+      "id": 58,
+      "text": "We play soccer with plastic balls.",
+      "translation": "نلعب كرة القدم بكرات بلاستيكية."
+    },
+    {
+      "id": 59,
+      "text": "We hit balls with plastic bats.",
+      "translation": "نضرب الكرات بمضارب بلاستيكية."
+    },
+    {
+      "id": 60,
+      "text": "We fly plastic kites.",
+      "translation": "نطير طائرات ورقية بلاستيكية."
+    },
+    {
+      "id": 61,
+      "text": "We use plastic kayaks.",
+      "translation": "نستخدم قوارب كاياك بلاستيكية."
+    },
+    {
+      "id": 62,
+      "text": "What plastic things do you use outside?",
+      "translation": "ما الأشياء البلاستيكية التي تستخدمها في الخارج؟"
+    },
+    {
+      "id": 63,
+      "text": "Plastic helps us to be safe when we are outside.",
+      "translation": "يساعدنا البلاستيك على أن نكون آمنين عندما نكون في الخارج."
+    },
+    {
+      "id": 64,
+      "text": "Plastic goggles protect our eyes.",
+      "translation": "النظارات الواقية البلاستيكية تحمي أعيننا."
+    },
+    {
+      "id": 65,
+      "text": "Plastic pads protect our elbows and knees.",
+      "translation": "الواقيات البلاستيكية تحمي مرفقينا وركبتينا."
+    },
+    {
+      "id": 66,
+      "text": "Plastic helmets are light and very strong.",
+      "translation": "الخوذ البلاستيكية خفيفة وقوية جداً."
+    },
+    {
+      "id": 67,
+      "text": "They don't break when we fall.",
+      "translation": "إنها لا تنكسر عندما نسقط."
+    },
+    {
+      "id": 68,
+      "text": "They protect our head.",
+      "translation": "إنها تحمي رؤوسنا."
+    },
+    {
+      "id": 69,
+      "text": "Do you wear a plastic helmet when you ride a bicycle?",
+      "translation": "هل ترتدي خوذة بلاستيكية عندما تركب الدراجة؟"
+    },
+    {
+      "id": 70,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 71,
+      "text": "Plastic Waste",
+      "translation": "نفايات البلاستيك"
+    },
+    {
+      "id": 72,
+      "text": "Every day, we throw away many plastic things.",
+      "translation": "كل يوم، نتخلص من العديد من الأشياء البلاستيكية."
+    },
+    {
+      "id": 73,
+      "text": "This makes plastic waste.",
+      "translation": "هذا ينتج نفايات بلاستيكية."
+    },
+    {
+      "id": 74,
+      "text": "Today, there's too much plastic waste.",
+      "translation": "اليوم، هناك الكثير جداً من النفايات البلاستيكية."
+    },
+    {
+      "id": 75,
+      "text": "Some people burn plastic waste.",
+      "translation": "يحرق بعض الناس النفايات البلاستيكية."
+    },
+    {
+      "id": 76,
+      "text": "This makes pollution.",
+      "translation": "هذا يسبب التلوث."
+    },
+    {
+      "id": 77,
+      "text": "Pollution is very bad for us.",
+      "translation": "التلوث ضار جداً بنا."
+    },
+    {
+      "id": 78,
+      "text": "Some plastic waste goes in the ocean.",
+      "translation": "تذهب بعض النفايات البلاستيكية إلى المحيط."
+    },
+    {
+      "id": 79,
+      "text": "Many animals live in the ocean.",
+      "translation": "تعيش العديد من الحيوانات في المحيط."
+    },
+    {
+      "id": 80,
+      "text": "The plastic waste is very bad for the animals.",
+      "translation": "النفايات البلاستيكية ضارة جداً بالحيوانات."
+    },
+    {
+      "id": 81,
+      "text": "Some plastic things break into small pieces.",
+      "translation": "تتكسر بعض الأشياء البلاستيكية إلى قطع صغيرة."
+    },
+    {
+      "id": 82,
+      "text": "Animals eat the pieces and they get sick.",
+      "translation": "تأكل الحيوانات القطع وتمرض."
+    },
+    {
+      "id": 83,
+      "text": "Some animals eat plastic bags and they get sick.",
+      "translation": "تأكل بعض الحيوانات الأكياس البلاستيكية وتمرض."
+    },
+    {
+      "id": 84,
+      "text": "Some plastic waste hurts animals, too.",
+      "translation": "تؤذي بعض النفايات البلاستيكية الحيوانات أيضاً."
+    },
+    {
+      "id": 85,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 86,
+      "text": "Recycling Plastic",
+      "translation": "إعادة تدوير البلاستيك"
+    },
+    {
+      "id": 87,
+      "text": "We can recycle old plastic to make new things.",
+      "translation": "يمكننا إعادة تدوير البلاستيك القديم لصنع أشياء جديدة."
+    },
+    {
+      "id": 88,
+      "text": "This is how we recycle plastic bottles to make T-shirts.",
+      "translation": "هذه هي طريقة إعادة تدوير الزجاجات البلاستيكية لصنع قمصان."
+    },
+    {
+      "id": 89,
+      "text": "1. We take plastic bottles to a recycling center.",
+      "translation": "1. نأخذ الزجاجات البلاستيكية إلى مركز إعادة التدوير."
+    },
+    {
+      "id": 90,
+      "text": "2. We take the bottles to a factory.",
+      "translation": "2. نأخذ الزجاجات إلى مصنع."
+    },
+    {
+      "id": 91,
+      "text": "3. We break the bottles into small plastic pieces.",
+      "translation": "3. نكسر الزجاجات إلى قطع بلاستيكية صغيرة."
+    },
+    {
+      "id": 92,
+      "text": "4. We use the plastic pieces to make fibers.",
+      "translation": "4. نستخدم القطع البلاستيكية لصنع الألياف."
+    },
+    {
+      "id": 93,
+      "text": "5. We use the fibers to make T-shirts.",
+      "translation": "5. نستخدم الألياف لصنع قمصان."
+    },
+    {
+      "id": 94,
+      "text": "We recycle old plastic to make lots of new things.",
+      "translation": "نعيد تدوير البلاستيك القديم لصنع الكثير من الأشياء الجديدة."
+    },
+    {
+      "id": 95,
+      "text": "We recycle plastic bottles to make T-shirts, kayaks, chairs, carpets, and playgrounds.",
+      "translation": "نعيد تدوير الزجاجات البلاستيكية لصنع قمصان، وقوارب كاياك، وكراسي، وسجاد، وملاعب."
+    },
+    {
+      "id": 96,
+      "text": "We recycle plastic bags and plastic bottles to make new bags and bottles, too!",
+      "translation": "نعيد تدوير الأكياس البلاستيكية والزجاجات البلاستيكية لصنع أكياس وزجاجات جديدة أيضاً!"
+    },
+    {
+      "id": 97,
+      "text": "We use ten plastic bottles to make one T-shirt!",
+      "translation": "نستخدم عشر زجاجات بلاستيكية لصنع قميص واحد!"
+    },
+    {
+      "id": 98,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 99,
+      "text": "Plastic Today",
+      "translation": "البلاستيك اليوم"
+    },
+    {
+      "id": 100,
+      "text": "We use lots of oil to make plastic.",
+      "translation": "نستخدم الكثير من النفط لصنع البلاستيك."
+    },
+    {
+      "id": 101,
+      "text": "We can't make more oil.",
+      "translation": "لا يمكننا صنع المزيد من النفط."
+    },
+    {
+      "id": 102,
+      "text": "We use lots of plastic every day, and there's too much plastic waste.",
+      "translation": "نستخدم الكثير من البلاستيك كل يوم، وهناك الكثير جداً من النفايات البلاستيكية."
+    },
+    {
+      "id": 103,
+      "text": "You can help.",
+      "translation": "يمكنك المساعدة."
+    },
+    {
+      "id": 104,
+      "text": "Don't use lots of plastic bags.",
+      "translation": "لا تستخدم الكثير من الأكياس البلاستيكية."
+    },
+    {
+      "id": 105,
+      "text": "Don't throw away plastic bottles.",
+      "translation": "لا تتخلص من الزجاجات البلاستيكية."
+    },
+    {
+      "id": 106,
+      "text": "Recycle plastic bottles.",
+      "translation": "أعد تدوير الزجاجات البلاستيكية."
+    },
+    {
+      "id": 107,
+      "text": "Use plastic bottles to make new things, too.",
+      "translation": "استخدم الزجاجات البلاستيكية لصنع أشياء جديدة أيضاً."
+    },
+    {
+      "id": 108,
+      "text": "There are plastic bottles in this boat!",
+      "translation": "هناك زجاجات بلاستيكية في هذا القارب!"
+    },
+    {
+      "id": 109,
+      "text": "Can you see them?",
+      "translation": "هل يمكنك رؤيتها؟"
+    },
+    {
+      "id": 110,
+      "text": "Today, we can make plastic from plants, too.",
+      "translation": "اليوم، يمكننا صنع البلاستيك من النباتات أيضاً."
+    },
+    {
+      "id": 111,
+      "text": "We use this plastic to make cups and bags.",
+      "translation": "نستخدم هذا البلاستيك لصنع الأكواب والأكياس."
+    },
+    {
+      "id": 112,
+      "text": "We don't use oil to make this plastic.",
+      "translation": "لا نستخدم النفط لصنع هذا البلاستيك."
+    },
+    {
+      "id": 113,
+      "text": "We can grow more plants to make more plastic!",
+      "translation": "يمكننا زراعة المزيد من النباتات لصنع المزيد من البلاستيك!"
+    },
+    {
+      "id": 114,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 115,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 116,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
