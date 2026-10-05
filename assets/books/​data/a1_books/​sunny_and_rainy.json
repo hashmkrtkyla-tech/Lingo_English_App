@@ -1,14 +1,563 @@
 {
   "id": "a1_sunny_and_rainy",
-  "title": "Sunny and Rainy",
+  "title": "Sunny & Rainy",
   "level": "A1",
   "audio_url": "assets/books/audio/a1_books/Sunny_and_Rainy-Louise_Spilsbury.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Weather changes from sunny days to rainy days.",
-      "translation": "يتغير الطقس من أيام مشمسة إلى أيام ممطرة."
+      "id": 1,
+      "text": "Sunny & Rainy",
+      "translation": "مشمس وممطر"
+    },
+    {
+      "id": 2,
+      "text": "Louise Spilsbury",
+      "translation": "لويز سبيلسبري"
+    },
+    {
+      "id": 3,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 4,
+      "text": "Sunny",
+      "translation": "مشمس"
+    },
+    {
+      "id": 5,
+      "text": "The sun is a star.",
+      "translation": "الشمس نجم."
+    },
+    {
+      "id": 6,
+      "text": "It's very, very hot!",
+      "translation": "إنها حارة جداً جداً!"
+    },
+    {
+      "id": 7,
+      "text": "The sun has lots of heat and light.",
+      "translation": "الشمس لديها الكثير من الحرارة والضوء."
+    },
+    {
+      "id": 8,
+      "text": "Heat and light from the sun come to Earth.",
+      "translation": "تصل الحرارة والضوء من الشمس إلى الأرض."
+    },
+    {
+      "id": 9,
+      "text": "The heat and light make Earth warm so we can live here.",
+      "translation": "الحرارة والضوء يجعلان الأرض دافئة حتى نتمكن من العيش هنا."
+    },
+    {
+      "id": 10,
+      "text": "Light from the sun comes to Earth in eight minutes!",
+      "translation": "يصل الضوء من الشمس إلى الأرض في ثماني دقائق!"
+    },
+    {
+      "id": 11,
+      "text": "Some places are warm and sunny all year, and they have no seasons.",
+      "translation": "بعض الأماكن دافئة ومشمسة طوال العام، وليس لديها فصول."
+    },
+    {
+      "id": 12,
+      "text": "Some places have seasons.",
+      "translation": "بعض الأماكن لديها فصول."
+    },
+    {
+      "id": 13,
+      "text": "In summer, there's more light from the sun, so it's warm.",
+      "translation": "في الصيف، هناك المزيد من ضوء الشمس، لذا يكون الجو دافئاً."
+    },
+    {
+      "id": 14,
+      "text": "In winter, there's less light from the sun, so it's cold.",
+      "translation": "في الشتاء، هناك ضوء أقل من الشمس، لذا يكون الجو بارداً."
+    },
+    {
+      "id": 15,
+      "text": "Is it warm and sunny where you live?",
+      "translation": "هل الجو دافئ ومشمس حيث تعيش؟"
+    },
+    {
+      "id": 16,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 17,
+      "text": "Rainy",
+      "translation": "ممطر"
+    },
+    {
+      "id": 18,
+      "text": "Rain falls from clouds in the sky.",
+      "translation": "يتساقط المطر من السحب في السماء."
+    },
+    {
+      "id": 19,
+      "text": "There are many raindrops in a cloud.",
+      "translation": "هناك العديد من قطرات المطر في السحابة."
+    },
+    {
+      "id": 20,
+      "text": "When small raindrops meet, they make one big raindrop.",
+      "translation": "عندما تلتقي قطرات المطر الصغيرة، فإنها تصنع قطرة مطر واحدة كبيرة."
+    },
+    {
+      "id": 21,
+      "text": "When there are lots of big raindrops, rain falls to Earth.",
+      "translation": "عندما يكون هناك الكثير من قطرات المطر الكبيرة، يتساقط المطر على الأرض."
+    },
+    {
+      "id": 22,
+      "text": "People, plants, and animals use water to live and to grow.",
+      "translation": "يستخدم الناس والنباتات والحيوانات الماء للعيش والنمو."
+    },
+    {
+      "id": 23,
+      "text": "When rain falls, water goes into rivers.",
+      "translation": "عندما يتساقط المطر، يذهب الماء إلى الأنهار."
+    },
+    {
+      "id": 24,
+      "text": "Water in rivers goes into oceans.",
+      "translation": "يذهب الماء في الأنهار إلى المحيطات."
+    },
+    {
+      "id": 25,
+      "text": "When it's sunny, water at the top of the ocean gets warm.",
+      "translation": "عندما يكون الجو مشمساً، يصبح الماء في أعلى المحيط دافئاً."
+    },
+    {
+      "id": 26,
+      "text": "Some of the water goes up into the sky.",
+      "translation": "يصعد بعض الماء إلى السماء."
+    },
+    {
+      "id": 27,
+      "text": "Water in the sky makes clouds.",
+      "translation": "الماء في السماء يصنع السحب."
+    },
+    {
+      "id": 28,
+      "text": "Then rain falls again!",
+      "translation": "ثم يتساقط المطر مرة أخرى!"
+    },
+    {
+      "id": 29,
+      "text": "This is called the water cycle.",
+      "translation": "وهذا ما يسمى بدورة الماء."
+    },
+    {
+      "id": 30,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 31,
+      "text": "Cloudy",
+      "translation": "غائم"
+    },
+    {
+      "id": 32,
+      "text": "Do you see clouds in the sky where you live?",
+      "translation": "هل ترى سحباً في السماء حيث تعيش؟"
+    },
+    {
+      "id": 33,
+      "text": "Some clouds are gray and some clouds are white.",
+      "translation": "بعض السحب رمادية وبعض السحب بيضاء."
+    },
+    {
+      "id": 34,
+      "text": "Gray clouds have many raindrops.",
+      "translation": "السحب الرمادية لديها العديد من قطرات المطر."
+    },
+    {
+      "id": 35,
+      "text": "White clouds don't have many raindrops.",
+      "translation": "السحب البيضاء ليس لديها العديد من قطرات المطر."
+    },
+    {
+      "id": 36,
+      "text": "When it's cloudy, big clouds stop some light from the sun coming to Earth.",
+      "translation": "عندما يكون الجو غائماً، تمنع السحب الكبيرة بعض ضوء الشمس من الوصول إلى الأرض."
+    },
+    {
+      "id": 37,
+      "text": "Cumulonimbus clouds are very, very big.",
+      "translation": "سحب الركام (الكمولونيمبوس) كبيرة جداً جداً."
+    },
+    {
+      "id": 38,
+      "text": "When you see this type of cloud, get your umbrella!",
+      "translation": "عندما ترى هذا النوع من السحب، أحضر مظلتك!"
+    },
+    {
+      "id": 39,
+      "text": "Cumulonimbus clouds have lots and lots of raindrops, and they make very big storms.",
+      "translation": "سحب الركام لديها الكثير والكثير من قطرات المطر، وهي تصنع عواصف كبيرة جداً."
+    },
+    {
+      "id": 40,
+      "text": "Cumulonimbus clouds can make lightning.",
+      "translation": "يمكن لسحب الركام أن تصنع البرق."
+    },
+    {
+      "id": 41,
+      "text": "Lightning is very, very hot!",
+      "translation": "البرق حار جداً جداً!"
+    },
+    {
+      "id": 42,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 43,
+      "text": "Snowy",
+      "translation": "مثلج"
+    },
+    {
+      "id": 44,
+      "text": "When it's very cold in the sky, water in clouds is ice.",
+      "translation": "عندما يكون الجو بارداً جداً في السماء، يكون الماء في السحب ثلجاً."
+    },
+    {
+      "id": 45,
+      "text": "Some ice falls to Earth.",
+      "translation": "يسقط بعض الجليد على الأرض."
+    },
+    {
+      "id": 46,
+      "text": "When it falls, the ice is snow.",
+      "translation": "عندما يسقط، يكون الجليد ثلجاً."
+    },
+    {
+      "id": 47,
+      "text": "When snow falls on warm ground, the snow melts.",
+      "translation": "عندما يسقط الثلج على أرض دافئة، يذوب الثلج."
+    },
+    {
+      "id": 48,
+      "text": "Then the snow is water again.",
+      "translation": "ثم يصبح الثلج ماءً مرة أخرى."
+    },
+    {
+      "id": 49,
+      "text": "Some water goes into the ground and it helps plants to grow.",
+      "translation": "يذهب بعض الماء إلى الأرض ويساعد النباتات على النمو."
+    },
+    {
+      "id": 50,
+      "text": "Some water goes into rivers.",
+      "translation": "يذهب بعض الماء إلى الأنهار."
+    },
+    {
+      "id": 51,
+      "text": "When snow falls on cold ground, it's white everywhere!",
+      "translation": "عندما يسقط الثلج على أرض باردة، يصبح كل شيء أبيض!"
+    },
+    {
+      "id": 52,
+      "text": "When lots of snow falls on mountains, people can go skiing.",
+      "translation": "عندما يتساقط الكثير من الثلج على الجبال، يمكن للناس الذهاب للتزلج."
+    },
+    {
+      "id": 53,
+      "text": "When lots of snow falls on houses and streets, people can't drive their cars.",
+      "translation": "عندما يتساقط الكثير من الثلج على المنازل والشوارع، لا يستطيع الناس قيادة سياراتهم."
+    },
+    {
+      "id": 54,
+      "text": "Then they can't go to school or work.",
+      "translation": "ثم لا يمكنهم الذهاب إلى المدرسة أو العمل."
+    },
+    {
+      "id": 55,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 56,
+      "text": "Windy",
+      "translation": "عاصف"
+    },
+    {
+      "id": 57,
+      "text": "Do you know the sun makes wind?",
+      "translation": "هل تعلم أن الشمس تصنع الرياح؟"
+    },
+    {
+      "id": 58,
+      "text": "Wind is air that moves.",
+      "translation": "الرياح هي الهواء المتحرك."
+    },
+    {
+      "id": 59,
+      "text": "In the sky, there's air.",
+      "translation": "في السماء، يوجد هواء."
+    },
+    {
+      "id": 60,
+      "text": "The sun makes the air warm.",
+      "translation": "الشمس تجعل الهواء دافئاً."
+    },
+    {
+      "id": 61,
+      "text": "Warm air goes up into the sky.",
+      "translation": "يصعد الهواء الدافئ إلى السماء."
+    },
+    {
+      "id": 62,
+      "text": "In the sky, it's very cold, so the air gets cold.",
+      "translation": "في السماء، الجو بارد جداً، لذا يبرد الهواء."
+    },
+    {
+      "id": 63,
+      "text": "When the air is cold, it goes down again.",
+      "translation": "عندما يبرد الهواء، ينزل مرة أخرى."
+    },
+    {
+      "id": 64,
+      "text": "Wind blows.",
+      "translation": "تهب الرياح."
+    },
+    {
+      "id": 65,
+      "text": "A breeze is wind that blows slowly.",
+      "translation": "النسيم هو رياح تهب ببطء."
+    },
+    {
+      "id": 66,
+      "text": "A breeze can blow flags in the sky.",
+      "translation": "يمكن للنسيم أن يحرك الأعلام في السماء."
+    },
+    {
+      "id": 67,
+      "text": "Some winds blow fast.",
+      "translation": "بعض الرياح تهب بسرعة."
+    },
+    {
+      "id": 68,
+      "text": "A hurricane is wind that blows very fast.",
+      "translation": "الإعصار هو رياح تهب بسرعة كبيرة."
+    },
+    {
+      "id": 69,
+      "text": "When there's a hurricane, people are scared.",
+      "translation": "عندما يكون هناك إعصار، يخاف الناس."
+    },
+    {
+      "id": 70,
+      "text": "A hurricane can blow down trees and houses!",
+      "translation": "يمكن للإعصار أن يقتلع الأشجار والمنازل!"
+    },
+    {
+      "id": 71,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 72,
+      "text": "Warm and Wet",
+      "translation": "دافئ ورطب"
+    },
+    {
+      "id": 73,
+      "text": "In the Tropics, it's warm and wet all year.",
+      "translation": "في المناطق الاستوائية، الجو دافئ ورطب طوال العام."
+    },
+    {
+      "id": 74,
+      "text": "Many rainforests grow in the Tropics.",
+      "translation": "تنمو العديد من الغابات المطيرة في المناطق الاستوائية."
+    },
+    {
+      "id": 75,
+      "text": "In a rainforest, trees get lots of light and rain, and they grow very tall.",
+      "translation": "في الغابة المطيرة، تحصل الأشجار على الكثير من الضوء والمطر، وتنمو طويلاً جداً."
+    },
+    {
+      "id": 76,
+      "text": "In some rainforests, there's 3 centimeters of rain every day!",
+      "translation": "في بعض الغابات المطيرة، يتساقط 3 سنتيمترات من المطر كل يوم!"
+    },
+    {
+      "id": 77,
+      "text": "Many animals live in warm, wet rainforests.",
+      "translation": "تعيش العديد من الحيوانات في الغابات المطيرة الدافئة والرطبة."
+    },
+    {
+      "id": 78,
+      "text": "Monkeys live in trees and they eat nuts and fruit.",
+      "translation": "تعيش القرود في الأشجار وتأكل المكسرات والفواكه."
+    },
+    {
+      "id": 79,
+      "text": "Birds fly from tree to tree.",
+      "translation": "تطير الطيور من شجرة إلى شجرة."
+    },
+    {
+      "id": 80,
+      "text": "Birds eat minibeasts.",
+      "translation": "تأكل الطيور الحشرات الصغيرة."
+    },
+    {
+      "id": 81,
+      "text": "They eat nuts and fruit, too.",
+      "translation": "كما أنها تأكل المكسرات والفواكه أيضاً."
+    },
+    {
+      "id": 82,
+      "text": "Small frogs drink raindrops on the big leaves of rainforest trees.",
+      "translation": "تشرب الضفادع الصغيرة قطرات المطر على الأوراق الكبيرة لأشجار الغابات المطيرة."
+    },
+    {
+      "id": 83,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 84,
+      "text": "Cold and Dry",
+      "translation": "بارد وجاف"
+    },
+    {
+      "id": 85,
+      "text": "In the Arctic and the Antarctic, it's very cold and dry.",
+      "translation": "في القطب الشمالي والقطب الجنوبي، الجو بارد جداً وجاف."
+    },
+    {
+      "id": 86,
+      "text": "A lot of the water is ice or snow.",
+      "translation": "الكثير من الماء يكون ثلجاً أو جليداً."
+    },
+    {
+      "id": 87,
+      "text": "There are no trees - plants can't grow in these places.",
+      "translation": "لا توجد أشجار - لا يمكن للنباتات النمو في هذه الأماكن."
+    },
+    {
+      "id": 88,
+      "text": "There's white ice and snow everywhere!",
+      "translation": "هناك جليد وثلج أبيض في كل مكان!"
+    },
+    {
+      "id": 89,
+      "text": "There aren't many animals in the Arctic and the Antarctic.",
+      "translation": "لا يوجد العديد من الحيوانات في القطب الشمالي والقطب الجنوبي."
+    },
+    {
+      "id": 90,
+      "text": "There are no leaves, fruit, or nuts for animals to eat.",
+      "translation": "لا توجد أوراق أو فواكه أو مكسرات لتأكلها الحيوانات."
+    },
+    {
+      "id": 91,
+      "text": "Seals swim in the ocean to find fish.",
+      "translation": "تسبح الفقمات في المحيط للعثور على الأسماك."
+    },
+    {
+      "id": 92,
+      "text": "They eat lots of fish and they get very fat.",
+      "translation": "تأكل الكثير من الأسماك وتصبح سمينة جداً."
+    },
+    {
+      "id": 93,
+      "text": "This helps them to be warm.",
+      "translation": "هذا يساعدها على البقاء دافئة."
+    },
+    {
+      "id": 94,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 95,
+      "text": "People and Weather",
+      "translation": "الناس والطقس"
+    },
+    {
+      "id": 96,
+      "text": "When it's sunny, people can get hot.",
+      "translation": "عندما يكون الجو مشمساً، يمكن أن يشعر الناس بالحرارة."
+    },
+    {
+      "id": 97,
+      "text": "Many buildings have windows with shutters.",
+      "translation": "العديد من المباني لديها نوافذ بمصاريع."
+    },
+    {
+      "id": 98,
+      "text": "When it's sunny, the shutters stop the heat and light going in the buildings.",
+      "translation": "عندما يكون الجو مشمساً، تمنع المصاريع دخول الحرارة والضوء إلى المباني."
+    },
+    {
+      "id": 99,
+      "text": "Then people in the buildings don't get hot.",
+      "translation": "ثم لا يشعر الناس في المباني بالحرارة."
+    },
+    {
+      "id": 100,
+      "text": "When it's sunny, many people wear a hat.",
+      "translation": "عندما يكون الجو مشمساً، يرتدي الكثير من الناس قبعة."
+    },
+    {
+      "id": 101,
+      "text": "Then their head doesn't get hot.",
+      "translation": "ثم لا تصبح رؤوسهم ساخنة."
+    },
+    {
+      "id": 102,
+      "text": "When it's rainy, people can get wet.",
+      "translation": "عندما يكون الجو ممطراً، يمكن أن يبتل الناس."
+    },
+    {
+      "id": 103,
+      "text": "Buildings have roofs.",
+      "translation": "المباني لديها أسطح."
+    },
+    {
+      "id": 104,
+      "text": "The rain falls off the roofs and it doesn't go in the buildings.",
+      "translation": "يتساقط المطر من الأسطح ولا يدخل إلى المباني."
+    },
+    {
+      "id": 105,
+      "text": "Then people in the buildings don't get wet.",
+      "translation": "ثم لا يبتل الناس في المباني."
+    },
+    {
+      "id": 106,
+      "text": "When it's rainy, many people use an umbrella.",
+      "translation": "عندما يكون الجو ممطراً، يستخدم الكثير من الناس مظلة."
+    },
+    {
+      "id": 107,
+      "text": "Then they don't get wet.",
+      "translation": "ثم لا يبتلون."
+    },
+    {
+      "id": 108,
+      "text": "What do you do when it's rainy and when it's sunny?",
+      "translation": "ماذا تفعل عندما يكون الجو ممطراً وعندما يكون مشمساً؟"
+    },
+    {
+      "id": 109,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 110,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 111,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
