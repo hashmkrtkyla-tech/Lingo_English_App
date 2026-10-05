@@ -5,10 +5,1069 @@
   "audio_url": "assets/books/audio/a1_books/The_Girl_with_Green_Eyes.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Greg saw a mysterious girl on the train.",
-      "translation": "رأى غريغ فتاة غامضة في القطار."
+      "id": 1,
+      "text": "The Girl with Green Eyes",
+      "translation": "الفتاة ذات العيون الخضراء"
+    },
+    {
+      "id": 2,
+      "text": "Greg is a porter at the Shepton Hotel in New York.",
+      "translation": "غريغ هو عامل في فندق شبتون في نيويورك."
+    },
+    {
+      "id": 3,
+      "text": "After work, he always goes for a coffee across the street.",
+      "translation": "بعد العمل، يذهب دائماً لتناول القهوة في الجانب الآخر من الشارع."
+    },
+    {
+      "id": 4,
+      "text": "A girl is sitting in the coffee shop, near the window.",
+      "translation": "تجلس فتاة في مقهى القهوة، بالقرب من النافذة."
+    },
+    {
+      "id": 5,
+      "text": "'It's her again!' thinks Greg.",
+      "translation": "'إنها هي مرة أخرى!' يفكر غريغ."
+    },
+    {
+      "id": 6,
+      "text": "'She's here every afternoon.'",
+      "translation": "'إنها هنا كل بعد ظهيرة.'"
+    },
+    {
+      "id": 7,
+      "text": "'I'm going to say hello.'",
+      "translation": "'سأذهب لإلقاء التحية.'"
+    },
+    {
+      "id": 8,
+      "text": "Greg goes into the coffee shop and gets a coffee.",
+      "translation": "يدخل غريغ إلى مقهى القهوة ويحصل على قهوة."
+    },
+    {
+      "id": 9,
+      "text": "Then he goes across to the girl's table.",
+      "translation": "ثم يذهب إلى طاولة الفتاة."
+    },
+    {
+      "id": 10,
+      "text": "'Hi!' he says.",
+      "translation": "'مرحباً!' يقول."
+    },
+    {
+      "id": 11,
+      "text": "'I'm Greg. Can I sit with you?'",
+      "translation": "'أنا غريغ. هل يمكنني الجلوس معك؟'"
+    },
+    {
+      "id": 12,
+      "text": "'OK,' she says.",
+      "translation": "'حسناً،' تقول."
+    },
+    {
+      "id": 13,
+      "text": "'I'm Cassie.'",
+      "translation": "'أنا كاسي.'"
+    },
+    {
+      "id": 14,
+      "text": "'I come here for a coffee every day after work,' says Greg.",
+      "translation": "'آتي إلى هنا لتناول القهوة كل يوم بعد العمل،' يقول غريغ."
+    },
+    {
+      "id": 15,
+      "text": "'I'm a porter at the Shepton Hotel.'",
+      "translation": "'أنا عامل في فندق شبتون.'"
+    },
+    {
+      "id": 16,
+      "text": "He smiles.",
+      "translation": "يبتسم."
+    },
+    {
+      "id": 17,
+      "text": "'You have beautiful green eyes.'",
+      "translation": "'لديك عيون خضراء جميلة.'"
+    },
+    {
+      "id": 18,
+      "text": "'Have I?' she says.",
+      "translation": "'هل لدي؟' تقول."
+    },
+    {
+      "id": 19,
+      "text": "She doesn't smile.",
+      "translation": "إنها لا تبتسم."
+    },
+    {
+      "id": 20,
+      "text": "'Is something wrong, Cassie?' he asks.",
+      "translation": "'هل هناك خطب ما يا كاسي؟' يسأل."
+    },
+    {
+      "id": 21,
+      "text": "'You don't look very happy.'",
+      "translation": "'لا تبدين سعيدة جداً.'"
+    },
+    {
+      "id": 22,
+      "text": "'It - it's nothing,' she says.",
+      "translation": "'إنه - إنه لا شيء،' تقول."
+    },
+    {
+      "id": 23,
+      "text": "'Tell me,' says Greg.",
+      "translation": "'أخبريني،' يقول غريغ."
+    },
+    {
+      "id": 24,
+      "text": "'Maybe I can help?'",
+      "translation": "'ربما أستطيع المساعدة؟'"
+    },
+    {
+      "id": 25,
+      "text": "'Well...' she begins.",
+      "translation": "'حسناً...' تبدأ."
+    },
+    {
+      "id": 26,
+      "text": "'Go on,' says Greg.",
+      "translation": "'أكملي،' يقول غريغ."
+    },
+    {
+      "id": 27,
+      "text": "'My stepfather is staying at the Shepton Hotel,' she says.",
+      "translation": "'زوج أمي يقيم في فندق شبتون،' تقول."
+    },
+    {
+      "id": 28,
+      "text": "'He has my sketch books.'",
+      "translation": "'لديه دفاتر رسوماتي.'"
+    },
+    {
+      "id": 29,
+      "text": "'I'm an artist.'",
+      "translation": "'أنا فنانة.'"
+    },
+    {
+      "id": 30,
+      "text": "When I ask him to give them to me he says, 'No.",
+      "translation": "عندما أطلب منه أن يعطيني إياها يقول، 'لا."
+    },
+    {
+      "id": 31,
+      "text": "I want you to come back home to Boston.'",
+      "translation": "أريدك أن تعودي إلى المنزل في بوسطن.'"
+    },
+    {
+      "id": 32,
+      "text": "But I don't want to go back to Boston.",
+      "translation": "لكني لا أريد العودة إلى بوسطن."
+    },
+    {
+      "id": 33,
+      "text": "He's not nice.'",
+      "translation": "إنه ليس لطيفاً.'"
+    },
+    {
+      "id": 34,
+      "text": "'How long is he going to be at the hotel?' asks Greg.",
+      "translation": "'كم من الوقت سيبقى في الفندق؟' يسأل غريغ."
+    },
+    {
+      "id": 35,
+      "text": "'Two more days,' says Cassie.",
+      "translation": "'يومان آخران،' تقول كاسي."
+    },
+    {
+      "id": 36,
+      "text": "'He's in room 724.'",
+      "translation": "'إنه في الغرفة 724.'"
+    },
+    {
+      "id": 37,
+      "text": "'Maybe I can get the sketch books for you,' says Greg.",
+      "translation": "'ربما يمكنني إحضار دفاتر الرسومات لك،' يقول غريغ."
+    },
+    {
+      "id": 38,
+      "text": "'Maybe I can get into his room.'",
+      "translation": "'ربما يمكنني الدخول إلى غرفته.'"
+    },
+    {
+      "id": 39,
+      "text": "'Can you?' she says.",
+      "translation": "'هل يمكنك؟' تقول."
+    },
+    {
+      "id": 40,
+      "text": "'Meet me here tomorrow afternoon at 4.30,' says Greg.",
+      "translation": "'قابليني هنا غداً بعد الظهر في الساعة 4:30،' يقول غريغ."
+    },
+    {
+      "id": 41,
+      "text": "'OK, thank you!' says Cassie.",
+      "translation": "'حسناً، شكراً لك!' تقول كاسي."
+    },
+    {
+      "id": 42,
+      "text": "'Thank you very much.'",
+      "translation": "'شكراً جزيلاً.'"
+    },
+    {
+      "id": 43,
+      "text": "She looks at her watch.",
+      "translation": "تنظر إلى ساعتها."
+    },
+    {
+      "id": 44,
+      "text": "'I've got to go now.",
+      "translation": "'يجب أن أذهب الآن."
+    },
+    {
+      "id": 45,
+      "text": "See you tomorrow.'",
+      "translation": "أراك غداً.'"
+    },
+    {
+      "id": 46,
+      "text": "When Cassie gets back to her hotel room, she makes a telephone call.",
+      "translation": "عندما تعود كاسي إلى غرفتها في الفندق، تجري مكالمة هاتفية."
+    },
+    {
+      "id": 47,
+      "text": "'Hello,' she says.",
+      "translation": "'مرحباً،' تقول."
+    },
+    {
+      "id": 48,
+      "text": "'It's me.",
+      "translation": "'إنه أنا."
+    },
+    {
+      "id": 49,
+      "text": "It's OK, the boy's going to do it...",
+      "translation": "لا بأس، الفتى سيفعلها..."
+    },
+    {
+      "id": 50,
+      "text": "Yes, I'm going to get them from him tomorrow afternoon...",
+      "translation": "نعم، سأحصل عليها منه غداً بعد الظهر..."
+    },
+    {
+      "id": 51,
+      "text": "OK, I can meet you there the morning after, at 10am.",
+      "translation": "حسناً، يمكنني مقابلتك هناك في صباح اليوم التالي، في الساعة 10 صباحاً."
+    },
+    {
+      "id": 52,
+      "text": "Don't forget to bring the money - two thousand dollars.'",
+      "translation": "لا تنسى إحضار المال - ألفي دولار.'"
+    },
+    {
+      "id": 53,
+      "text": "Next morning, Greg arrives at work early.",
+      "translation": "في صباح اليوم التالي، يصل غريغ إلى العمل مبكراً."
+    },
+    {
+      "id": 54,
+      "text": "He goes to find room 724.",
+      "translation": "يذهب ليجد الغرفة 724."
+    },
+    {
+      "id": 55,
+      "text": "'I have to wait for Cassie's stepfather to go out,' he thinks.",
+      "translation": "'يجب أن أنتظر خروج زوج أم كاسي،' يفكر."
+    },
+    {
+      "id": 56,
+      "text": "'I don't know his name, but it doesn't matter.'",
+      "translation": "'لا أعرف اسمه، لكن هذا لا يهم.'"
+    },
+    {
+      "id": 57,
+      "text": "Greg watches the door of room 724.",
+      "translation": "يراقب غريغ باب الغرفة 724."
+    },
+    {
+      "id": 58,
+      "text": "He sees the girl come to clean the rooms.",
+      "translation": "يرى الفتاة تأتي لتنظيف الغرف."
+    },
+    {
+      "id": 59,
+      "text": "Some minutes later, a man comes out of room 724.",
+      "translation": "بعد بضع دقائق، يخرج رجل من الغرفة 724."
+    },
+    {
+      "id": 60,
+      "text": "'That must be Cassie's stepfather!' thinks Greg.",
+      "translation": "'لا بد أن هذا زوج أم كاسي!' يفكر غريغ."
+    },
+    {
+      "id": 61,
+      "text": "He waits for the man to leave, and for the cleaning girl to go into room 724.",
+      "translation": "ينتظر الرجل حتى يغادر، وحتى تدخل فتاة التنظيف إلى الغرفة 724."
+    },
+    {
+      "id": 62,
+      "text": "'I need to look in the room,' he thinks.",
+      "translation": "'أحتاج إلى البحث في الغرفة،' يفكر."
+    },
+    {
+      "id": 63,
+      "text": "Greg waits for the girl to leave the bedroom, then he goes into the room and begins to look for the sketch books.",
+      "translation": "ينتظر غريغ الفتاة حتى تخرج من غرفة النوم، ثم يدخل الغرفة ويبدأ في البحث عن دفاتر الرسومات."
+    },
+    {
+      "id": 64,
+      "text": "'I must be quick,' he thinks.",
+      "translation": "'يجب أن أكون سريعاً،' يفكر."
+    },
+    {
+      "id": 65,
+      "text": "'Where are they?'",
+      "translation": "'أين هي؟'"
+    },
+    {
+      "id": 66,
+      "text": "Suddenly, Greg sees the sketch books by the bed.",
+      "translation": "فجأة، يرى غريغ دفاتر الرسومات بجانب السرير."
+    },
+    {
+      "id": 67,
+      "text": "'Got them!' he thinks.",
+      "translation": "'حصلت عليها!' يفكر."
+    },
+    {
+      "id": 68,
+      "text": "He begins to look at the pictures.",
+      "translation": "يبدأ في النظر إلى الصور."
+    },
+    {
+      "id": 69,
+      "text": "'Wow! Cassie is a great artist!",
+      "translation": "'واو! كاسي فنانة رائعة!"
+    },
+    {
+      "id": 70,
+      "text": "These are good!'",
+      "translation": "هذه جيدة!'"
+    },
+    {
+      "id": 71,
+      "text": "Greg is leaving the room when he hears the cleaning girl call out to him.",
+      "translation": "كان غريغ يغادر الغرفة عندما سمع فتاة التنظيف تناديه."
+    },
+    {
+      "id": 72,
+      "text": "'Hey!' she says.",
+      "translation": "'يا!' تقول."
+    },
+    {
+      "id": 73,
+      "text": "'What are you doing? Come back!'",
+      "translation": "'ماذا تفعل؟ عد!'"
+    },
+    {
+      "id": 74,
+      "text": "Greg does not stop.",
+      "translation": "لا يتوقف غريغ."
+    },
+    {
+      "id": 75,
+      "text": "Greg finishes work that afternoon and leaves the hotel through a door in the next street.",
+      "translation": "ينهي غريغ عمله ذلك المساء ويغادر الفندق عبر باب في الشارع المجاور."
+    },
+    {
+      "id": 76,
+      "text": "When he gets near the front of the hotel, he sees the man from room 724.",
+      "translation": "عندما يقترب من واجهة الفندق، يرى الرجل من الغرفة 724."
+    },
+    {
+      "id": 77,
+      "text": "'That's him again!' thinks Greg.",
+      "translation": "'إنه هو مرة أخرى!' يفكر غريغ."
+    },
+    {
+      "id": 78,
+      "text": "'That's Cassie's stepfather.'",
+      "translation": "'هذا زوج أم كاسي.'"
+    },
+    {
+      "id": 79,
+      "text": "Greg waits for the man to go into the hotel, then he goes to the coffee shop.",
+      "translation": "ينتظر غريغ الرجل حتى يدخل الفندق، ثم يذهب إلى مقهى القهوة."
+    },
+    {
+      "id": 80,
+      "text": "Cassie is at the same table in the coffee shop.",
+      "translation": "كاسي على نفس الطاولة في مقهى القهوة."
+    },
+    {
+      "id": 81,
+      "text": "Greg gets a coffee and goes to sit with her.",
+      "translation": "يحصل غريغ على قهوة ويذهب للجلوس معها."
+    },
+    {
+      "id": 82,
+      "text": "'I have them,' he says, and he puts the sketch books on the table.",
+      "translation": "'لديّ إياها،' يقول، ويضع دفاتر الرسومات على الطاولة."
+    },
+    {
+      "id": 83,
+      "text": "'That's great!' says Cassie.",
+      "translation": "'هذا رائع!' تقول كاسي."
+    },
+    {
+      "id": 84,
+      "text": "'How can I thank you, Greg?'",
+      "translation": "'كيف يمكنني أن أشكرك يا غريغ؟'"
+    },
+    {
+      "id": 85,
+      "text": "'You can meet me later,' he says.",
+      "translation": "'يمكنك مقابلتي لاحقاً،' يقول."
+    },
+    {
+      "id": 86,
+      "text": "'After I go home and change out of my porter's uniform.'",
+      "translation": "'بعد أن أعود إلى المنزل وأغير زي العامل الخاص بي.'"
+    },
+    {
+      "id": 87,
+      "text": "'I'm sorry, Greg,' says Cassie.",
+      "translation": "'أنا آسفة يا غريغ،' تقول كاسي."
+    },
+    {
+      "id": 88,
+      "text": "'I can't tonight.",
+      "translation": "'لا أستطيع الليلة."
+    },
+    {
+      "id": 89,
+      "text": "Maybe tomorrow night.'",
+      "translation": "ربما ليلة الغد.'"
+    },
+    {
+      "id": 90,
+      "text": "'OK,' says Greg.",
+      "translation": "'حسناً،' يقول غريغ."
+    },
+    {
+      "id": 91,
+      "text": "'Tomorrow night.",
+      "translation": "'ليلة الغد."
+    },
+    {
+      "id": 92,
+      "text": "We can get something to eat, first.'",
+      "translation": "يمكننا تناول شيء ما أولاً.'"
+    },
+    {
+      "id": 93,
+      "text": "'Yes, OK,' says Cassie.",
+      "translation": "'نعم، حسناً،' تقول كاسي."
+    },
+    {
+      "id": 94,
+      "text": "'I have to go now, but meet me here tomorrow evening at six o'clock.'",
+      "translation": "'يجب أن أذهب الآن، لكن قابلني هنا غداً مساءً في الساعة السادسة.'"
+    },
+    {
+      "id": 95,
+      "text": "Cassie gets up, ready to leave.",
+      "translation": "تنهض كاسي، مستعدة للمغادرة."
+    },
+    {
+      "id": 96,
+      "text": "'Don't forget your key,' says Greg.",
+      "translation": "'لا تنسي مفتاحك،' يقول غريغ."
+    },
+    {
+      "id": 97,
+      "text": "'Oh - er - thanks,' says Cassie.",
+      "translation": "'أوه - آه - شكراً،' تقول كاسي."
+    },
+    {
+      "id": 98,
+      "text": "She takes it from him quickly.",
+      "translation": "تأخذه منه بسرعة."
+    },
+    {
+      "id": 99,
+      "text": "'See you tomorrow.'",
+      "translation": "'أراك غداً.'"
+    },
+    {
+      "id": 100,
+      "text": "Greg is finishing his coffee when he sees his friend, Mike.",
+      "translation": "كان غريغ ينهي قهوته عندما رأى صديقه مايك."
+    },
+    {
+      "id": 101,
+      "text": "'You're in trouble, Greg,' says Mike.",
+      "translation": "'أنت في مشكلة يا غريغ،' يقول مايك."
+    },
+    {
+      "id": 102,
+      "text": "'Jake Russo's sketch books are not in his room - room 724.'",
+      "translation": "'دفاتر رسومات جيك روسو ليست في غرفته - الغرفة 724.'"
+    },
+    {
+      "id": 103,
+      "text": "'And there are CCTV pictures of you coming from that room.'",
+      "translation": "'وهناك صور كاميرات مراقبة لك تخرج من تلك الغرفة.'"
+    },
+    {
+      "id": 104,
+      "text": "'Wh - who is Jake Russo?' asks Greg.",
+      "translation": "'م- من هو جيك روسو؟' يسأل غريغ."
+    },
+    {
+      "id": 105,
+      "text": "Suddenly he's not feeling very well.",
+      "translation": "فجأة لم يعد يشعر بحالة جيدة."
+    },
+    {
+      "id": 106,
+      "text": "'An artist,' says Mike.",
+      "translation": "'فنان،' يقول مايك."
+    },
+    {
+      "id": 107,
+      "text": "'His pictures sell for thousands of dollars.",
+      "translation": "'تُباع لوحاته بآلاف الدولارات."
+    },
+    {
+      "id": 108,
+      "text": "And his sketch books sell for thousands, too.'",
+      "translation": "وتُباع دفاتر رسوماته بآلاف أيضاً.'"
+    },
+    {
+      "id": 109,
+      "text": "'Do you have them?' asks Mike.",
+      "translation": "'هل لديك إياها؟' يسأل مايك."
+    },
+    {
+      "id": 110,
+      "text": "'No - er - a girl has them,' says Greg.",
+      "translation": "'لا - آه - فتاة لديها إياها،' يقول غريغ."
+    },
+    {
+      "id": 111,
+      "text": "'What girl?' asks Mike.",
+      "translation": "'أي فتاة؟' يسأل مايك."
+    },
+    {
+      "id": 112,
+      "text": "'A girl with green eyes,' says Greg.",
+      "translation": "'فتاة ذات عيون خضراء،' يقول غريغ."
+    },
+    {
+      "id": 113,
+      "text": "And he tells Mike about Cassie and her stepfather.",
+      "translation": "ويخبر مايك عن كاسي وزوج أمها."
+    },
+    {
+      "id": 114,
+      "text": "'But it's not true!' says Mike, when Greg finishes speaking.",
+      "translation": "'لكن هذا ليس صحيحاً!' يقول مايك، عندما ينتهي غريغ من الكلام."
+    },
+    {
+      "id": 115,
+      "text": "'Jake Russo doesn't have a wife or a stepdaughter.'",
+      "translation": "'جيك روسو ليس لديه زوجة أو ربيبة.'"
+    },
+    {
+      "id": 116,
+      "text": "You have to find that girl and get the sketch books, Greg.",
+      "translation": "يجب أن تجد تلك الفتاة وتحضر دفاتر الرسومات يا غريغ."
+    },
+    {
+      "id": 117,
+      "text": "And you have to do it before the police find you!'",
+      "translation": "وعليك أن تفعل ذلك قبل أن تجدك الشرطة!'"
+    },
+    {
+      "id": 118,
+      "text": "Greg walks home to his one-room apartment.",
+      "translation": "يمشي غريغ إلى منزله، شقة من غرفة واحدة."
+    },
+    {
+      "id": 119,
+      "text": "'How am I going to find her?' he thinks.",
+      "translation": "'كيف سأجدها؟' يفكر."
+    },
+    {
+      "id": 120,
+      "text": "'She has Jake Russo's sketch books now, so she's not going to meet me again.",
+      "translation": "'لديها دفاتر رسومات جيك روسو الآن، لذا لن تقابلني مرة أخرى."
+    },
+    {
+      "id": 121,
+      "text": "Is she going to sell them for a lot of money?'",
+      "translation": "هل ستبيعها مقابل الكثير من المال؟'"
+    },
+    {
+      "id": 122,
+      "text": "There is a police car in the street, next to Greg's apartment.",
+      "translation": "هناك سيارة شرطة في الشارع، بجوار شقة غريغ."
+    },
+    {
+      "id": 123,
+      "text": "'Oh, no!' he thinks.",
+      "translation": "'أوه، لا!' يفكر."
+    },
+    {
+      "id": 124,
+      "text": "'They're waiting for me.",
+      "translation": "'إنهم ينتظرونني."
+    },
+    {
+      "id": 125,
+      "text": "I can't get into my apartment now.'",
+      "translation": "لا يمكنني الدخول إلى شقتي الآن.'"
+    },
+    {
+      "id": 126,
+      "text": "That night, Greg sleeps on a train in the subway.",
+      "translation": "في تلك الليلة، ينام غريغ في قطار في مترو الأنفاق."
+    },
+    {
+      "id": 127,
+      "text": "But early the next morning...",
+      "translation": "لكن في صباح اليوم التالي مبكراً..."
+    },
+    {
+      "id": 128,
+      "text": "'Hey, you!' says a man.",
+      "translation": "'يا أنت!' يقول رجل."
+    },
+    {
+      "id": 129,
+      "text": "He's the subway cleaner.",
+      "translation": "إنه عامل تنظيف المترو."
+    },
+    {
+      "id": 130,
+      "text": "'Get up! You can't sleep here all day!'",
+      "translation": "'استيقظ! لا يمكنك النوم هنا طوال اليوم!'"
+    },
+    {
+      "id": 131,
+      "text": "'Sorry,' says Greg.",
+      "translation": "'آسف،' يقول غريغ."
+    },
+    {
+      "id": 132,
+      "text": "People are arriving to get their trains now.",
+      "translation": "يصل الناس لركوب قطاراتهم الآن."
+    },
+    {
+      "id": 133,
+      "text": "One of them stops and looks at a photograph in his newspaper - and then at Greg.",
+      "translation": "يتوقف أحدهم وينظر إلى صورة في صحيفته - ثم إلى غريغ."
+    },
+    {
+      "id": 134,
+      "text": "'It's him,' thinks the man.",
+      "translation": "'إنه هو،' يفكر الرجل."
+    },
+    {
+      "id": 135,
+      "text": "'It's the young man in the newspaper photograph.",
+      "translation": "'إنه الشاب في صورة الصحيفة."
+    },
+    {
+      "id": 136,
+      "text": "The police are looking for him.'",
+      "translation": "الشرطة تبحث عنه.'"
+    },
+    {
+      "id": 137,
+      "text": "Suddenly, Greg sees the man looking at him.",
+      "translation": "فجأة، يرى غريغ الرجل ينظر إليه."
+    },
+    {
+      "id": 138,
+      "text": "And he sees his picture on the front of the man's newspaper.",
+      "translation": "ويرى صورته على واجهة صحيفة الرجل."
+    },
+    {
+      "id": 139,
+      "text": "'I have to get out of here quickly!' he thinks.",
+      "translation": "'يجب أن أخرج من هنا بسرعة!' يفكر."
+    },
+    {
+      "id": 140,
+      "text": "The man with the newspaper finds a policeman.",
+      "translation": "يجد الرجل الذي يحمل الصحيفة شرطياً."
+    },
+    {
+      "id": 141,
+      "text": "'It's him!' he tells the policeman.",
+      "translation": "'إنه هو!' يخبر الشرطي."
+    },
+    {
+      "id": 142,
+      "text": "'The hotel porter!'",
+      "translation": "'عامل الفندق!'"
+    },
+    {
+      "id": 143,
+      "text": "'Hey, you!' the policeman calls to Greg.",
+      "translation": "'يا أنت!' ينادي الشرطي غريغ."
+    },
+    {
+      "id": 144,
+      "text": "Greg runs.",
+      "translation": "يركض غريغ."
+    },
+    {
+      "id": 145,
+      "text": "'Stop!' calls the policeman.",
+      "translation": "'توقف!' ينادي الشرطي."
+    },
+    {
+      "id": 146,
+      "text": "Greg doesn't stop.",
+      "translation": "لا يتوقف غريغ."
+    },
+    {
+      "id": 147,
+      "text": "'I have to get out of this uniform,' thinks Greg.",
+      "translation": "'يجب أن أتخلص من هذا الزي،' يفكر غريغ."
+    },
+    {
+      "id": 148,
+      "text": "'People know I'm the porter.",
+      "translation": "'الناس يعرفون أنني العامل."
+    },
+    {
+      "id": 149,
+      "text": "Maybe Mike can give me something different to wear.'",
+      "translation": "ربما يمكن لمايك أن يعطيني شيئاً مختلفاً لأرتديه.'"
+    },
+    {
+      "id": 150,
+      "text": "When he gets to Mike's apartment, Mike opens the door.",
+      "translation": "عندما يصل إلى شقة مايك، يفتح مايك الباب."
+    },
+    {
+      "id": 151,
+      "text": "'I need something to wear,' Greg tells him.",
+      "translation": "'أحتاج شيئاً لأرتديه،' يخبره غريغ."
+    },
+    {
+      "id": 152,
+      "text": "'I can't go back to my apartment.",
+      "translation": "'لا يمكنني العودة إلى شقتي."
+    },
+    {
+      "id": 153,
+      "text": "My picture's in the newspaper, and -'",
+      "translation": "صورتي في الصحيفة، و-'"
+    },
+    {
+      "id": 154,
+      "text": "'Yes, I know,' says Mike.",
+      "translation": "'نعم، أعلم،' يقول مايك."
+    },
+    {
+      "id": 155,
+      "text": "'It's OK. Come in.'",
+      "translation": "'لا بأس. تفضل بالدخول.'"
+    },
+    {
+      "id": 156,
+      "text": "'Where's the girl?' asks Mike.",
+      "translation": "'أين الفتاة؟' يسأل مايك."
+    },
+    {
+      "id": 157,
+      "text": "'Do you know?'",
+      "translation": "'هل تعلم؟'"
+    },
+    {
+      "id": 158,
+      "text": "'No,' says Greg.",
+      "translation": "'لا،' يقول غريغ."
+    },
+    {
+      "id": 159,
+      "text": "'What can you remember about her?' says Mike.",
+      "translation": "'ماذا تتذكر عنها؟' يقول مايك."
+    },
+    {
+      "id": 160,
+      "text": "'There must be something to help you find her.'",
+      "translation": "'لا بد أن هناك شيئاً يساعدك في العثور عليها.'"
+    },
+    {
+      "id": 161,
+      "text": "'Yes!' Greg says, suddenly.",
+      "translation": "'نعم!' يقول غريغ فجأة."
+    },
+    {
+      "id": 162,
+      "text": "'Her key! A key to a room in the Dolphin Hotel!'",
+      "translation": "'مفتاحها! مفتاح غرفة في فندق دولفين!'"
+    },
+    {
+      "id": 163,
+      "text": "'It's a small, cheap hotel near 42nd Street.",
+      "translation": "'إنه فندق صغير ورخيص بالقرب من شارع 42."
+    },
+    {
+      "id": 164,
+      "text": "She must be staying there.",
+      "translation": "لا بد أنها تقيم هناك."
+    },
+    {
+      "id": 165,
+      "text": "What's the time?'",
+      "translation": "كم الساعة؟'"
+    },
+    {
+      "id": 166,
+      "text": "'Nearly nine o'clock,' says Mike.",
+      "translation": "'التاسعة تقريباً،' يقول مايك."
+    },
+    {
+      "id": 167,
+      "text": "'Maybe she's there now,' says Greg.",
+      "translation": "'ربما تكون هناك الآن،' يقول غريغ."
+    },
+    {
+      "id": 168,
+      "text": "'I have to go! Thanks, Mike.'",
+      "translation": "'يجب أن أذهب! شكراً يا مايك.'"
+    },
+    {
+      "id": 169,
+      "text": "Twenty minutes later, Greg is near the Dolphin Hotel.",
+      "translation": "بعد عشرين دقيقة، يكون غريغ بالقرب من فندق دولفين."
+    },
+    {
+      "id": 170,
+      "text": "'Am I too late?' he thinks.",
+      "translation": "'هل تأخرت؟' يفكر."
+    },
+    {
+      "id": 171,
+      "text": "Suddenly, Greg sees Cassie come out of the hotel.",
+      "translation": "فجأة، يرى غريغ كاسي تخرج من الفندق."
+    },
+    {
+      "id": 172,
+      "text": "'Cassie!' he calls.",
+      "translation": "'كاسي!' ينادي."
+    },
+    {
+      "id": 173,
+      "text": "'Wait! I have to talk to you!'",
+      "translation": "'انتظري! يجب أن أتحدث إليك!'"
+    },
+    {
+      "id": 174,
+      "text": "Cassie sees him, but she doesn't stop.",
+      "translation": "ترى كاسي غريغ، لكنها لا تتوقف."
+    },
+    {
+      "id": 175,
+      "text": "There is a car waiting for her.",
+      "translation": "هناك سيارة تنتظرها."
+    },
+    {
+      "id": 176,
+      "text": "She says something to the driver and gets into it quickly.",
+      "translation": "تقول شيئاً للسائق وتركبها بسرعة."
+    },
+    {
+      "id": 177,
+      "text": "'Oh, no!' says Greg.",
+      "translation": "'أوه، لا!' يقول غريغ."
+    },
+    {
+      "id": 178,
+      "text": "'Pier 83,' says an old man in the street.",
+      "translation": "'الرصيف 83،' يقول رجل عجوز في الشارع."
+    },
+    {
+      "id": 179,
+      "text": "Greg looks at him.",
+      "translation": "ينظر غريغ إليه."
+    },
+    {
+      "id": 180,
+      "text": "'What?'",
+      "translation": "'ماذا؟'"
+    },
+    {
+      "id": 181,
+      "text": "'The girl is going to Pier 83, West 42nd Street, for the Circle Line boat,' says the old man.",
+      "translation": "'الفتاة ذاهبة إلى الرصيف 83، شارع 42 غرباً، لقارب دائرة الخط،' يقول الرجل العجوز."
+    },
+    {
+      "id": 182,
+      "text": "Greg smiles.",
+      "translation": "يبتسم غريغ."
+    },
+    {
+      "id": 183,
+      "text": "'Thanks!' he says.",
+      "translation": "'شكراً!' يقول."
+    },
+    {
+      "id": 184,
+      "text": "And he begins to run.",
+      "translation": "ويبدأ في الركض."
+    },
+    {
+      "id": 185,
+      "text": "Greg runs all the way to Pier 83.",
+      "translation": "يركض غريغ طوال الطريق إلى الرصيف 83."
+    },
+    {
+      "id": 186,
+      "text": "People are getting on to the boat, and he gets a ticket.",
+      "translation": "الناس يستقلون القارب، ويحصل على تذكرة."
+    },
+    {
+      "id": 187,
+      "text": "On the boat, Greg looks for Cassie.",
+      "translation": "على القارب، يبحث غريغ عن كاسي."
+    },
+    {
+      "id": 188,
+      "text": "But a woman with a newspaper is looking at him.",
+      "translation": "لكن امرأة تحمل صحيفة تنظر إليه."
+    },
+    {
+      "id": 189,
+      "text": "'It's the young man in the picture!' she tells the man with her.",
+      "translation": "'إنه الشاب في الصورة!' تخبر الرجل الذي معها."
+    },
+    {
+      "id": 190,
+      "text": "'Call the police, Eddie.'",
+      "translation": "'اتصل بالشرطة يا إيدي.'"
+    },
+    {
+      "id": 191,
+      "text": "The man gets his phone and calls the police.",
+      "translation": "يحضر الرجل هاتفه ويتصل بالشرطة."
+    },
+    {
+      "id": 192,
+      "text": "Some time later, Greg sees Cassie.",
+      "translation": "بعد مرور بعض الوقت، يرى غريغ كاسي."
+    },
+    {
+      "id": 193,
+      "text": "She is talking to a man.",
+      "translation": "إنها تتحدث مع رجل."
+    },
+    {
+      "id": 194,
+      "text": "But Greg does not see two policemen get on the boat.",
+      "translation": "لكن غريغ لا يرى شرطيين يستقلان القارب."
+    },
+    {
+      "id": 195,
+      "text": "They quickly find Greg.",
+      "translation": "يجدون غريغ بسرعة."
+    },
+    {
+      "id": 196,
+      "text": "'Where are Jake Russo's sketch books?' the first policeman asks him.",
+      "translation": "'أين دفاتر رسومات جيك روسو؟' يسأله الشرطي الأول."
+    },
+    {
+      "id": 197,
+      "text": "'I don't have them!' says Greg.",
+      "translation": "'ليست لدي!' يقول غريغ."
+    },
+    {
+      "id": 198,
+      "text": "'You don't want me! You want her!",
+      "translation": "'أنتم لا تريدونني! تريدونها!"
+    },
+    {
+      "id": 199,
+      "text": "She has the sketch books.'",
+      "translation": "هي لديها دفاتر الرسومات.'"
+    },
+    {
+      "id": 200,
+      "text": "'Hey, look! He's right,' says the second policeman.",
+      "translation": "'يا، انظروا! إنه محق،' يقول الشرطي الثاني."
+    },
+    {
+      "id": 201,
+      "text": "The two policemen move quickly to Cassie and the man.",
+      "translation": "يتحرك الشرطيان بسرعة نحو كاسي والرجل."
+    },
+    {
+      "id": 202,
+      "text": "'I don't understand,' says Cassie.",
+      "translation": "'أنا لا أفهم،' تقول كاسي."
+    },
+    {
+      "id": 203,
+      "text": "'How...?'",
+      "translation": "'كيف...؟'"
+    },
+    {
+      "id": 204,
+      "text": "'The two of you are coming with us,' says one of the policemen.",
+      "translation": "'كلاكما آتٍ معنا،' يقول أحد الشرطيين."
+    },
+    {
+      "id": 205,
+      "text": "'You're in trouble.'",
+      "translation": "'أنتما في مشكلة.'"
+    },
+    {
+      "id": 206,
+      "text": "Later, Greg and a policeman take the sketch books back to the hotel.",
+      "translation": "لاحقاً، يأخذ غريغ وشرطي دفاتر الرسومات إلى الفندق."
+    },
+    {
+      "id": 207,
+      "text": "Jake Russo is very happy to see them again.",
+      "translation": "جيك روسو سعيد جداً برؤيتهم مرة أخرى."
+    },
+    {
+      "id": 208,
+      "text": "'I'm sorry, Mr Russo,' says Greg, and tells him everything.",
+      "translation": "'أنا آسف يا سيد روسو،' يقول غريغ، ويخبره بكل شيء."
+    },
+    {
+      "id": 209,
+      "text": "'It's OK,' says the artist, smiling.",
+      "translation": "'لا بأس،' يقول الفنان مبتسماً."
+    },
+    {
+      "id": 210,
+      "text": "'But stay away from girls with beautiful green eyes!'",
+      "translation": "'لكن ابتعد عن الفتيات ذوات العيون الخضراء الجميلة!'"
+    },
+    {
+      "id": 211,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 212,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 213,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
