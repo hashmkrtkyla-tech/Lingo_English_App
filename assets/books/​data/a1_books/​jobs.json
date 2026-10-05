@@ -2,13 +2,602 @@
   "id": "a1_jobs",
   "title": "Jobs",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Jobs-Kamini_Khanduri.mp3",
+  "audio_url": "assets/books/audio/a1_books/Jobs.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "There are many different jobs people can do.",
-      "translation": "هناك العديد من الوظائف المختلفة التي يمكن للناس القيام بها."
+      "id": 1,
+      "text": "Jobs",
+      "translation": "وظائف"
+    },
+    {
+      "id": 2,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "Jobs",
+      "translation": "وظائف"
+    },
+    {
+      "id": 4,
+      "text": "Some jobs are inside.",
+      "translation": "بعض الوظائف داخلية."
+    },
+    {
+      "id": 5,
+      "text": "These people are working in an office.",
+      "translation": "هؤلاء الأشخاص يعملون في مكتب."
+    },
+    {
+      "id": 6,
+      "text": "They are using telephones and computers.",
+      "translation": "إنهم يستخدمون الهواتف وأجهزة الكمبيوتر."
+    },
+    {
+      "id": 7,
+      "text": "Some jobs are outside.",
+      "translation": "بعض الوظائف خارجية."
+    },
+    {
+      "id": 8,
+      "text": "These people are making a new road.",
+      "translation": "هؤلاء الأشخاص يبنون طريقاً جديداً."
+    },
+    {
+      "id": 9,
+      "text": "They have orange clothes so other people can see them.",
+      "translation": "لديهم ملابس برتقالية حتى يتمكن الآخرون من رؤيتهم."
+    },
+    {
+      "id": 10,
+      "text": "Some people work in the same place every day.",
+      "translation": "يعمل بعض الناس في نفس المكان كل يوم."
+    },
+    {
+      "id": 11,
+      "text": "Some people go to lots of places.",
+      "translation": "يذهب بعض الناس إلى الكثير من الأماكن."
+    },
+    {
+      "id": 12,
+      "text": "Flight attendants work on planes.",
+      "translation": "يعمل مضيفو الطيران على متن الطائرات."
+    },
+    {
+      "id": 13,
+      "text": "They help the passengers.",
+      "translation": "إنهم يساعدون الركاب."
+    },
+    {
+      "id": 14,
+      "text": "Flight attendants wear a uniform so passengers can find them.",
+      "translation": "يرتدي مضيفو الطيران زياً رسمياً حتى يتمكن الركاب من العثور عليهم."
+    },
+    {
+      "id": 15,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 16,
+      "text": "In the City",
+      "translation": "في المدينة"
+    },
+    {
+      "id": 17,
+      "text": "Cities are big and busy.",
+      "translation": "المدن كبيرة ومزدحمة."
+    },
+    {
+      "id": 18,
+      "text": "Lots of people work in cities.",
+      "translation": "يعمل الكثير من الناس في المدن."
+    },
+    {
+      "id": 19,
+      "text": "People work in stores, parks, and libraries.",
+      "translation": "يعمل الناس في المتاجر والحدائق والمكتبات."
+    },
+    {
+      "id": 20,
+      "text": "Chefs work in restaurants.",
+      "translation": "يعمل الطهاة في المطاعم."
+    },
+    {
+      "id": 21,
+      "text": "They cook the food.",
+      "translation": "إنهم يطبخون الطعام."
+    },
+    {
+      "id": 22,
+      "text": "Many tourists go to cities.",
+      "translation": "يذهب العديد من السياح إلى المدن."
+    },
+    {
+      "id": 23,
+      "text": "Tour guides work with tourists.",
+      "translation": "يعمل المرشدون السياحيون مع السياح."
+    },
+    {
+      "id": 24,
+      "text": "They help tourists to learn about a city.",
+      "translation": "إنهم يساعدون السياح على التعرف على المدينة."
+    },
+    {
+      "id": 25,
+      "text": "When you are in a city, how can you go from a park to a library?",
+      "translation": "عندما تكون في مدينة، كيف يمكنك الانتقال من حديقة إلى مكتبة؟"
+    },
+    {
+      "id": 26,
+      "text": "Maybe you take a bus or a train.",
+      "translation": "ربما تأخذ حافلة أو قطاراً."
+    },
+    {
+      "id": 27,
+      "text": "Bus drivers and train drivers are doing a job.",
+      "translation": "سائقو الحافلات وسائقو القطارات يقومون بعملهم."
+    },
+    {
+      "id": 28,
+      "text": "In cities, there are lots of jobs for drivers.",
+      "translation": "في المدن، هناك الكثير من الوظائف للسائقين."
+    },
+    {
+      "id": 29,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 30,
+      "text": "In the Countryside",
+      "translation": "في الريف"
+    },
+    {
+      "id": 31,
+      "text": "In the countryside, many jobs are outside.",
+      "translation": "في الريف، العديد من الوظائف خارجية."
+    },
+    {
+      "id": 32,
+      "text": "Farmers work in the countryside.",
+      "translation": "يعمل المزارعون في الريف."
+    },
+    {
+      "id": 33,
+      "text": "Some farmers keep animals, and some farmers grow crops.",
+      "translation": "يربي بعض المزارعين الحيوانات، ويزرع بعضهم المحاصيل."
+    },
+    {
+      "id": 34,
+      "text": "Rice, bananas, and olives are crops.",
+      "translation": "الأرز والموز والزيتون هي محاصيل."
+    },
+    {
+      "id": 35,
+      "text": "Some farmers sell their animals or crops at a market.",
+      "translation": "يبيع بعض المزارعين حيواناتهم أو محاصيلهم في السوق."
+    },
+    {
+      "id": 36,
+      "text": "Some farmers sell their animals or crops to a store.",
+      "translation": "يبيع بعض المزارعين حيواناتهم أو محاصيلهم لمتجر."
+    },
+    {
+      "id": 37,
+      "text": "That's how farmers make money.",
+      "translation": "هكذا يكسب المزارعون المال."
+    },
+    {
+      "id": 38,
+      "text": "Some people catch fish and sell them.",
+      "translation": "يصطاد بعض الناس الأسماك ويبيعونها."
+    },
+    {
+      "id": 39,
+      "text": "They go in boats to catch fish from the ocean.",
+      "translation": "يذهبون في قوارب لصيد الأسماك من المحيط."
+    },
+    {
+      "id": 40,
+      "text": "Miners work in mines under the ground.",
+      "translation": "يعمل عمال المناجم في مناجم تحت الأرض."
+    },
+    {
+      "id": 41,
+      "text": "Their job is to find coal, metal, or other things.",
+      "translation": "وظيفتهم هي العثور على الفحم أو المعادن أو أشياء أخرى."
+    },
+    {
+      "id": 42,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 43,
+      "text": "Making Things",
+      "translation": "صنع الأشياء"
+    },
+    {
+      "id": 44,
+      "text": "What other jobs are there?",
+      "translation": "ما هي الوظائف الأخرى الموجودة؟"
+    },
+    {
+      "id": 45,
+      "text": "Lots of people make things.",
+      "translation": "الكثير من الناس يصنعون الأشياء."
+    },
+    {
+      "id": 46,
+      "text": "People use their hands to make some things.",
+      "translation": "يستخدم الناس أيديهم لصنع بعض الأشياء."
+    },
+    {
+      "id": 47,
+      "text": "This man is making a pot.",
+      "translation": "هذا الرجل يصنع وعاءً."
+    },
+    {
+      "id": 48,
+      "text": "Many people work in factories.",
+      "translation": "يعمل العديد من الناس في المصانع."
+    },
+    {
+      "id": 49,
+      "text": "They use machines to make things.",
+      "translation": "يستخدمون الآلات لصنع الأشياء."
+    },
+    {
+      "id": 50,
+      "text": "This woman is making ice creams.",
+      "translation": "هذه المرأة تصنع المثلجات."
+    },
+    {
+      "id": 51,
+      "text": "Some people make new homes, offices, and other buildings.",
+      "translation": "يبني بعض الناس منازل ومكاتب ومبانٍ أخرى جديدة."
+    },
+    {
+      "id": 52,
+      "text": "They make the walls and the roof.",
+      "translation": "يصنعون الجدران والسقف."
+    },
+    {
+      "id": 53,
+      "text": "Then they put in the doors and windows.",
+      "translation": "ثم يضعون الأبواب والنوافذ."
+    },
+    {
+      "id": 54,
+      "text": "It takes a long time to make a building!",
+      "translation": "يستغرق بناء المبنى وقتاً طويلاً!"
+    },
+    {
+      "id": 55,
+      "text": "Some people make machines.",
+      "translation": "يصنع بعض الناس الآلات."
+    },
+    {
+      "id": 56,
+      "text": "They make the machines in planes, trains cameras, cell phones, and lots of other things.",
+      "translation": "يصنعون الآلات في الطائرات والقطارات والكاميرات والهواتف المحمولة والكثير من الأشياء الأخرى."
+    },
+    {
+      "id": 57,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 58,
+      "text": "Helping People",
+      "translation": "مساعدة الناس"
+    },
+    {
+      "id": 59,
+      "text": "We can help people at home.",
+      "translation": "يمكننا مساعدة الناس في المنزل."
+    },
+    {
+      "id": 60,
+      "text": "Parents help children, and young people help old people.",
+      "translation": "يساعد الآباء الأطفال، ويساعد الشباب كبار السن."
+    },
+    {
+      "id": 61,
+      "text": "These are jobs, but they are not for money.",
+      "translation": "هذه وظائف، لكنها ليست مقابل المال."
+    },
+    {
+      "id": 62,
+      "text": "Some people help lots of people.",
+      "translation": "يساعد بعض الناس الكثير من الناس."
+    },
+    {
+      "id": 63,
+      "text": "Doctors and nurses help sick people.",
+      "translation": "يساعد الأطباء والممرضون المرضى."
+    },
+    {
+      "id": 64,
+      "text": "Teachers help children at school.",
+      "translation": "يساعد المعلمون الأطفال في المدرسة."
+    },
+    {
+      "id": 65,
+      "text": "Doctors, nurses, and teachers help us all.",
+      "translation": "يساعدنا الأطباء والممرضون والمعلمون جميعاً."
+    },
+    {
+      "id": 66,
+      "text": "What do police officers do?",
+      "translation": "ماذا يفعل ضباط الشرطة؟"
+    },
+    {
+      "id": 67,
+      "text": "Police officers help people.",
+      "translation": "يساعد ضباط الشرطة الناس."
+    },
+    {
+      "id": 68,
+      "text": "Firefighters and ambulance workers help people, too.",
+      "translation": "يساعد رجال الإطفاء وعمال الإسعاف الناس أيضاً."
+    },
+    {
+      "id": 69,
+      "text": "They all help people who are scared, or sick, or in danger.",
+      "translation": "كلهم يساعدون الناس الذين يشعرون بالخوف، أو المرض، أو في خطر."
+    },
+    {
+      "id": 70,
+      "text": "These workers can be in danger when they do their job.",
+      "translation": "يمكن أن يكون هؤلاء العمال في خطر عندما يقومون بعملهم."
+    },
+    {
+      "id": 71,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 72,
+      "text": "Jobs with Animals",
+      "translation": "وظائف مع الحيوانات"
+    },
+    {
+      "id": 73,
+      "text": "Lots of people work with animals.",
+      "translation": "يعمل الكثير من الناس مع الحيوانات."
+    },
+    {
+      "id": 74,
+      "text": "Vets help sick animals.",
+      "translation": "يساعد الأطباء البيطريون الحيوانات المريضة."
+    },
+    {
+      "id": 75,
+      "text": "Some vets work on farms, and some vets work in zoos.",
+      "translation": "يعمل بعض الأطباء البيطريين في المزارع، وبعضهم يعمل في حدائق الحيوان."
+    },
+    {
+      "id": 76,
+      "text": "Some vets work in animal parks.",
+      "translation": "يعمل بعض الأطباء البيطريين في حدائق الحيوانات."
+    },
+    {
+      "id": 77,
+      "text": "They help wild animals.",
+      "translation": "إنهم يساعدون الحيوانات البرية."
+    },
+    {
+      "id": 78,
+      "text": "These vets are helping pandas in an animal park.",
+      "translation": "هؤلاء الأطباء البيطريون يساعدون حيوانات الباندا في حديقة حيوانات."
+    },
+    {
+      "id": 79,
+      "text": "Some people help animals in danger.",
+      "translation": "يساعد بعض الناس الحيوانات المعرضة للخطر."
+    },
+    {
+      "id": 80,
+      "text": "These people are washing a pelican.",
+      "translation": "هؤلاء الناس يغسلون طائر بجع."
+    },
+    {
+      "id": 81,
+      "text": "The pelican has oil on its body.",
+      "translation": "البجع لديه زيت على جسمه."
+    },
+    {
+      "id": 82,
+      "text": "The oil comes from a ship.",
+      "translation": "الزيت يأتي من سفينة."
+    },
+    {
+      "id": 83,
+      "text": "Some people teach animals to do jobs.",
+      "translation": "يعلّم بعض الناس الحيوانات للقيام بوظائف."
+    },
+    {
+      "id": 84,
+      "text": "They teach guide dogs to help people who can't see.",
+      "translation": "يعلّمون كلاب الإرشاد لمساعدة الأشخاص الذين لا يستطيعون الرؤية."
+    },
+    {
+      "id": 85,
+      "text": "The dogs help the people on busy roads.",
+      "translation": "تساعد الكلاب الناس في الطرق المزدحمة."
+    },
+    {
+      "id": 86,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 87,
+      "text": "Jobs at Night",
+      "translation": "وظائف في الليل"
+    },
+    {
+      "id": 88,
+      "text": "You sleep at night, but some people do jobs at night!",
+      "translation": "أنت تنام في الليل، لكن بعض الناس يعملون في الليل!"
+    },
+    {
+      "id": 89,
+      "text": "Many doctors and nurses work at night.",
+      "translation": "يعمل العديد من الأطباء والممرضين في الليل."
+    },
+    {
+      "id": 90,
+      "text": "Some stores and factories are open all night so people have to work there.",
+      "translation": "بعض المتاجر والمصانع مفتوحة طوال الليل لذا يجب على الناس العمل هناك."
+    },
+    {
+      "id": 91,
+      "text": "In the day, people buy lots of food from stores.",
+      "translation": "في النهار، يشتري الناس الكثير من الطعام من المتاجر."
+    },
+    {
+      "id": 92,
+      "text": "At night, store workers put more food in the stores.",
+      "translation": "في الليل، يضع عمال المتجر المزيد من الطعام في المتاجر."
+    },
+    {
+      "id": 93,
+      "text": "These railway workers are working on train tracks.",
+      "translation": "عمال السكك الحديدية هؤلاء يعملون على مسارات القطارات."
+    },
+    {
+      "id": 94,
+      "text": "They work at night because there are no trains.",
+      "translation": "إنهم يعملون في الليل لأنه لا توجد قطارات."
+    },
+    {
+      "id": 95,
+      "text": "It's too busy in the day.",
+      "translation": "الجو مزدحم جداً في النهار."
+    },
+    {
+      "id": 96,
+      "text": "Cities are busy at night.",
+      "translation": "المدن مزدحمة في الليل."
+    },
+    {
+      "id": 97,
+      "text": "People go out to meet friends or to see a movie.",
+      "translation": "يخرج الناس لمقابلة الأصدقاء أو لمشاهدة فيلم."
+    },
+    {
+      "id": 98,
+      "text": "When they go home, they can take a taxi.",
+      "translation": "عندما يعودون إلى المنزل، يمكنهم ركوب سيارة أجرة."
+    },
+    {
+      "id": 99,
+      "text": "Taxi drivers are busy at night.",
+      "translation": "سائقو سيارات الأجرة مشغولون في الليل."
+    },
+    {
+      "id": 100,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 101,
+      "text": "More Jobs",
+      "translation": "المزيد من الوظائف"
+    },
+    {
+      "id": 102,
+      "text": "Do you like singing or dancing?",
+      "translation": "هل تحب الغناء أو الرقص؟"
+    },
+    {
+      "id": 103,
+      "text": "Do you play music, or do you play soccer?",
+      "translation": "هل تعزف الموسيقى، أم تلعب كرة القدم؟"
+    },
+    {
+      "id": 104,
+      "text": "You can do these things at school or in your free time.",
+      "translation": "يمكنك القيام بهذه الأشياء في المدرسة أو في وقت فراغك."
+    },
+    {
+      "id": 105,
+      "text": "Some people do these things for a job.",
+      "translation": "يقوم بعض الناس بهذه الأشياء كوظيفة."
+    },
+    {
+      "id": 106,
+      "text": "That's how they make money.",
+      "translation": "هكذا يكسبون المال."
+    },
+    {
+      "id": 107,
+      "text": "These soccer players are working.",
+      "translation": "لاعبو كرة القدم هؤلاء يعملون."
+    },
+    {
+      "id": 108,
+      "text": "These musicians are working.",
+      "translation": "هؤلاء الموسيقيون يعملون."
+    },
+    {
+      "id": 109,
+      "text": "They are playing instruments.",
+      "translation": "إنهم يعزفون الآلات."
+    },
+    {
+      "id": 110,
+      "text": "People pay money to watch the musicians.",
+      "translation": "يدفع الناس المال لمشاهدة الموسيقيين."
+    },
+    {
+      "id": 111,
+      "text": "These people are making a movie.",
+      "translation": "هؤلاء الناس يصنعون فيلماً."
+    },
+    {
+      "id": 112,
+      "text": "The actors act in the movie.",
+      "translation": "الممثلون يمثلون في الفيلم."
+    },
+    {
+      "id": 113,
+      "text": "The camera operator uses the camera.",
+      "translation": "مشغل الكاميرا يستخدم الكاميرا."
+    },
+    {
+      "id": 114,
+      "text": "The director tells them what to do.",
+      "translation": "المخرج يخبرهم بما يجب عليهم فعله."
+    },
+    {
+      "id": 115,
+      "text": "There are so many jobs.",
+      "translation": "هناك الكثير جداً من الوظائف."
+    },
+    {
+      "id": 116,
+      "text": "What job do you want to do?",
+      "translation": "ما الوظيفة التي تريد القيام بها؟"
+    },
+    {
+      "id": 117,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 118,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 119,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
