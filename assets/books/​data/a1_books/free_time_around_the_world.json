@@ -5,10 +5,724 @@
   "audio_url": "assets/books/audio/a1_books/Free_Time_Around_the_World.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "People enjoy doing different activities in their free time.",
-      "translation": "يستمتع الناس بالقيام بأنشطة مختلفة في أوقات فراغهم."
+      "id": 1,
+      "text": "Free Time Around the World",
+      "translation": "وقت الفراغ حول العالم"
+    },
+    {
+      "id": 2,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "Goal",
+      "translation": "الهدف"
+    },
+    {
+      "id": 4,
+      "text": "Soccer is the most popular sport in the world and it's a big part of life in Brazil.",
+      "translation": "كرة القدم هي الرياضة الأكثر شعبية في العالم وهي جزء كبير من الحياة في البرازيل."
+    },
+    {
+      "id": 5,
+      "text": "People here love to watch and play soccer in their free time.",
+      "translation": "يحب الناس هنا مشاهدة ولعب كرة القدم في أوقات فراغهم."
+    },
+    {
+      "id": 6,
+      "text": "In Brazil you don't need a pitch or expensive boots to play soccer.",
+      "translation": "في البرازيل لا تحتاج إلى ملعب أو أحذية رياضية باهظة الثمن للعب كرة القدم."
+    },
+    {
+      "id": 7,
+      "text": "People play soccer in the street and on the beach.",
+      "translation": "يلعب الناس كرة القدم في الشارع وعلى الشاطئ."
+    },
+    {
+      "id": 8,
+      "text": "Children often play with no boots.",
+      "translation": "غالباً ما يلعب الأطفال بدون أحذية."
+    },
+    {
+      "id": 9,
+      "text": "Some people think that Brazilians are good at soccer.",
+      "translation": "يعتقد بعض الناس أن البرازيليين جيدون في كرة القدم."
+    },
+    {
+      "id": 10,
+      "text": "They learn a special way to play when they are children.",
+      "translation": "يتعلمون طريقة خاصة للعب عندما يكونون أطفالاً."
+    },
+    {
+      "id": 11,
+      "text": "They learn to play a type of soccer called futsal.",
+      "translation": "يتعلمون لعب نوع من كرة القدم يسمى كرة الصالات (فوتسال)."
+    },
+    {
+      "id": 12,
+      "text": "There are five players in each team.",
+      "translation": "هناك خمسة لاعبين في كل فريق."
+    },
+    {
+      "id": 13,
+      "text": "The ball is small, but it's full of sand so it's very heavy.",
+      "translation": "الكرة صغيرة، لكنها مليئة بالرمل لذا فهي ثقيلة جداً."
+    },
+    {
+      "id": 14,
+      "text": "Futsal started in South America, but now it's popular in many other countries.",
+      "translation": "بدأت كرة الصالات (فوتسال) في أمريكا الجنوبية، لكنها الآن شائعة في العديد من البلدان الأخرى."
+    },
+    {
+      "id": 15,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 16,
+      "text": "Snow Sports",
+      "translation": "الرياضات الثلجية"
+    },
+    {
+      "id": 17,
+      "text": "In Nunavut in the north of Canada, winter is from September to June.",
+      "translation": "في نونافوت في شمال كندا، يستمر الشتاء من سبتمبر إلى يونيو."
+    },
+    {
+      "id": 18,
+      "text": "So there's a lot of time for snow sports.",
+      "translation": "لذلك هناك الكثير من الوقت للرياضات الثلجية."
+    },
+    {
+      "id": 19,
+      "text": "Skiing and tobogganing are very popular.",
+      "translation": "التزلج والانزلاق على الزلاجات شائعان جداً."
+    },
+    {
+      "id": 20,
+      "text": "Dog sledding is another exciting snow sport.",
+      "translation": "قيادة الزلاجات التي تجرها الكلاب هي رياضة ثلجية مثيرة أخرى."
+    },
+    {
+      "id": 21,
+      "text": "The driver sits in the sled and the dogs pull it over the snow.",
+      "translation": "يجلس السائق في الزلاجة وتجرها الكلاب فوق الثلج."
+    },
+    {
+      "id": 22,
+      "text": "Every year there is a big dog sled race.",
+      "translation": "كل عام هناك سباق كبير للزلاجات التي تجرها الكلاب."
+    },
+    {
+      "id": 23,
+      "text": "There aren't many roads in Nunavut.",
+      "translation": "لا توجد طرق كثيرة في نونافوت."
+    },
+    {
+      "id": 24,
+      "text": "In winter most people travel by snowmobile or plane.",
+      "translation": "في الشتاء يسافر معظم الناس بمركبات الثلج أو الطائرات."
+    },
+    {
+      "id": 25,
+      "text": "In Dubai in the United Arab Emirates, the summer is very hot.",
+      "translation": "في دبي في الإمارات العربية المتحدة، الصيف حار جداً."
+    },
+    {
+      "id": 26,
+      "text": "It's even warm in winter, but it's still a good place for snow sports!",
+      "translation": "الجو دافئ حتى في الشتاء، لكنها لا تزال مكاناً جيداً للرياضات الثلجية!"
+    },
+    {
+      "id": 27,
+      "text": "Dubai has the biggest snow dome in the world.",
+      "translation": "دبي لديها أكبر قبة ثلجية في العالم."
+    },
+    {
+      "id": 28,
+      "text": "People come here for skiing, snowboarding, and tobogganing.",
+      "translation": "يأتي الناس إلى هنا للتزلج، والتزلج على الألواح، والانزلاق على الزلاجات."
+    },
+    {
+      "id": 29,
+      "text": "It's very, very cold in the snow dome, but it's much hotter outside.",
+      "translation": "الجو بارد جداً جداً داخل القبة الثلجية، لكنه أكثر حرارة في الخارج."
+    },
+    {
+      "id": 30,
+      "text": "The snow dome is in the desert!",
+      "translation": "القبة الثلجية تقع في الصحراء!"
+    },
+    {
+      "id": 31,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 32,
+      "text": "Let's Dance",
+      "translation": "لنرقص"
+    },
+    {
+      "id": 33,
+      "text": "In India there are many different types of dance.",
+      "translation": "في الهند هناك العديد من أنواع الرقص المختلفة."
+    },
+    {
+      "id": 34,
+      "text": "Bollywood dance is very popular, and many people are learning it in their free time.",
+      "translation": "رقص بوليوود شائع جداً، والكثير من الناس يتعلمونه في أوقات فراغهم."
+    },
+    {
+      "id": 35,
+      "text": "This type of dance is fast and colorful.",
+      "translation": "هذا النوع من الرقص سريع وملون."
+    },
+    {
+      "id": 36,
+      "text": "Bollywood is the name of India's most famous movie industry.",
+      "translation": "بوليوود هو اسم أشهر صناعة سينمائية في الهند."
+    },
+    {
+      "id": 37,
+      "text": "In Bollywood movies there is always singing and dancing.",
+      "translation": "في أفلام بوليوود يوجد دائماً غناء ورقص."
+    },
+    {
+      "id": 38,
+      "text": "Bollywood is the biggest movie industry in the world.",
+      "translation": "بوليوود هي أكبر صناعة سينمائية في العالم."
+    },
+    {
+      "id": 39,
+      "text": "It makes about 1,000 movies every year.",
+      "translation": "تنتج حوالي 1000 فيلم كل عام."
+    },
+    {
+      "id": 40,
+      "text": "Bollywood dancers wear colorful clothes.",
+      "translation": "يرتدي راقصو بوليوود ملابس ملونة."
+    },
+    {
+      "id": 41,
+      "text": "They also wear jewelry like earrings, necklaces, and lots of bangles.",
+      "translation": "يرتدون أيضاً مجوهرات مثل الأقراط والقلائد والكثير من الأساور."
+    },
+    {
+      "id": 42,
+      "text": "Between their eyebrows, they have a mark or jewel called a bindi.",
+      "translation": "بين حواجبهم، لديهم علامة أو جوهرة تسمى البندي."
+    },
+    {
+      "id": 43,
+      "text": "Bollywood dance started in India, but now it's popular all around the world.",
+      "translation": "بدأ رقص بوليوود في الهند، لكنه الآن شائع في جميع أنحاء العالم."
+    },
+    {
+      "id": 44,
+      "text": "You can watch a Bollywood movie or go to Bollywood dance lessons in lots of countries.",
+      "translation": "يمكنك مشاهدة فيلم بوليوود أو الذهاب إلى دروس رقص بوليوود في الكثير من البلدان."
+    },
+    {
+      "id": 45,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 46,
+      "text": "Martial Arts",
+      "translation": "الفنون القتالية"
+    },
+    {
+      "id": 47,
+      "text": "Tae kwon do is a national sport in South Korea and it's the most popular martial art in the world.",
+      "translation": "التايكوندو هي رياضة وطنية في كوريا الجنوبية وهي الفن القتالي الأكثر شعبية في العالم."
+    },
+    {
+      "id": 48,
+      "text": "About 70 million people in 188 different countries practice tae kwon do in their free time.",
+      "translation": "يمارس حوالي 70 مليون شخص في 188 دولة مختلفة التايكوندو في أوقات فراغهم."
+    },
+    {
+      "id": 49,
+      "text": "Tae kwon do means 'the way of hands and feet'.",
+      "translation": "تعني التايكوندو 'طريقة اليدين والقدمين'."
+    },
+    {
+      "id": 50,
+      "text": "Students learn different moves with these parts of the body.",
+      "translation": "يتعلم الطلاب حركات مختلفة بهذه الأجزاء من الجسم."
+    },
+    {
+      "id": 51,
+      "text": "They also learn how to balance, and how to control the body.",
+      "translation": "يتعلمون أيضاً كيفية التوازن، وكيفية التحكم في الجسم."
+    },
+    {
+      "id": 52,
+      "text": "Students wear different-colored belts to show their level.",
+      "translation": "يرتدي الطلاب أحزمة بألوان مختلفة لإظهار مستواهم."
+    },
+    {
+      "id": 53,
+      "text": "The first belt is white.",
+      "translation": "الحزام الأول أبيض."
+    },
+    {
+      "id": 54,
+      "text": "The other colors are yellow, green, blue, red, and black.",
+      "translation": "الألوان الأخرى هي الأصفر والأخضر والأزرق والأحمر والأسود."
+    },
+    {
+      "id": 55,
+      "text": "When students are practicing for the next level, they wear a striped belt.",
+      "translation": "عندما يتدرب الطلاب للمستوى التالي، يرتدون حزاماً مخططاً."
+    },
+    {
+      "id": 56,
+      "text": "The last belt is the black belt.",
+      "translation": "الحزام الأخير هو الحزام الأسود."
+    },
+    {
+      "id": 57,
+      "text": "In some schools in Korea there are Taeglish lessons.",
+      "translation": "في بعض المدارس في كوريا هناك دروس التايجليش."
+    },
+    {
+      "id": 58,
+      "text": "Students learn tae kwon do and English at the same time.",
+      "translation": "يتعلم الطلاب التايكوندو واللغة الإنجليزية في نفس الوقت."
+    },
+    {
+      "id": 59,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 60,
+      "text": "Let's Read",
+      "translation": "لنقرأ"
+    },
+    {
+      "id": 61,
+      "text": "All around the world, people like to read books, newspapers, magazines, and comic books.",
+      "translation": "في جميع أنحاء العالم، يحب الناس قراءة الكتب والصحف والمجلات والقصص المصورة."
+    },
+    {
+      "id": 62,
+      "text": "In Japan, reading manga is a really popular free-time activity.",
+      "translation": "في اليابان، تعد قراءة المانغا نشاطاً شائعاً جداً في أوقات الفراغ."
+    },
+    {
+      "id": 63,
+      "text": "Manga is a type of comic book.",
+      "translation": "المانغا هي نوع من القصص المصورة."
+    },
+    {
+      "id": 64,
+      "text": "In manga there are words and pictures to tell a story or give information.",
+      "translation": "في المانغا توجد كلمات وصور لرواية قصة أو تقديم معلومات."
+    },
+    {
+      "id": 65,
+      "text": "There are lots of different types of manga, for example, adventure, mystery, science fiction, and comedy.",
+      "translation": "هناك العديد من الأنواع المختلفة من المانغا، على سبيل المثال، المغامرة، والغموض، والخيال العلمي، والكوميديا."
+    },
+    {
+      "id": 66,
+      "text": "There is manga for all ages.",
+      "translation": "هناك مانغا لجميع الأعمار."
+    },
+    {
+      "id": 67,
+      "text": "You can find manga on the Internet, too.",
+      "translation": "يمكنك العثور على المانغا على الإنترنت أيضاً."
+    },
+    {
+      "id": 68,
+      "text": "There are also manga computer games and manga cartoons on television.",
+      "translation": "هناك أيضاً ألعاب كمبيوتر مانغا ورسوم متحركة مانغا على التلفزيون."
+    },
+    {
+      "id": 69,
+      "text": "There are even manga cafes, where you can look at manga on the Internet, or read manga books and magazines.",
+      "translation": "هناك حتى مقاهي مانغا، حيث يمكنك النظر إلى المانغا على الإنترنت، أو قراءة كتب ومجلات المانغا."
+    },
+    {
+      "id": 70,
+      "text": "Manga started in Japan, but it's now popular in many countries.",
+      "translation": "بدأت المانغا في اليابان، لكنها الآن شائعة في العديد من البلدان."
+    },
+    {
+      "id": 71,
+      "text": "Some libraries in the USA have manga reading groups.",
+      "translation": "بعض المكتبات في الولايات المتحدة لديها مجموعات لقراءة المانغا."
+    },
+    {
+      "id": 72,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 73,
+      "text": "At the Game",
+      "translation": "في المباراة"
+    },
+    {
+      "id": 74,
+      "text": "Basketball is the most popular team sport in the USA.",
+      "translation": "كرة السلة هي الرياضة الجماعية الأكثر شعبية في الولايات المتحدة."
+    },
+    {
+      "id": 75,
+      "text": "Many students are in school or college teams.",
+      "translation": "العديد من الطلاب في فرق المدارس أو الكليات."
+    },
+    {
+      "id": 76,
+      "text": "Lots of other people play the game in their free time, on courts or in their gardens.",
+      "translation": "يلعب الكثير من الناس هذه اللعبة في أوقات فراغهم، في الملاعب أو في حدائقهم."
+    },
+    {
+      "id": 77,
+      "text": "Basketball is a fast game.",
+      "translation": "كرة السلة لعبة سريعة."
+    },
+    {
+      "id": 78,
+      "text": "It's fun to play and it's fun to watch.",
+      "translation": "من الممتع لعبها ومن الممتع مشاهدتها."
+    },
+    {
+      "id": 79,
+      "text": "People like to support their friends or family at the games.",
+      "translation": "يحب الناس دعم أصدقائهم أو عائلاتهم في المباريات."
+    },
+    {
+      "id": 80,
+      "text": "They also watch their favorite team on television.",
+      "translation": "يشاهدون أيضاً فريقهم المفضل على التلفزيون."
+    },
+    {
+      "id": 81,
+      "text": "Basketball is very popular in China.",
+      "translation": "كرة السلة شائعة جداً في الصين."
+    },
+    {
+      "id": 82,
+      "text": "About 300 million people play it, and 450 million people watch it on television.",
+      "translation": "يلعبها حوالي 300 مليون شخص، ويشاهدها 450 مليون شخص على التلفزيون."
+    },
+    {
+      "id": 83,
+      "text": "Cheerleaders support their team at the games.",
+      "translation": "تدعم فرق التشجيع فريقها في المباريات."
+    },
+    {
+      "id": 84,
+      "text": "About three million people in the USA are in cheerleading groups.",
+      "translation": "حوالي ثلاثة ملايين شخص في الولايات المتحدة في مجموعات تشجيع."
+    },
+    {
+      "id": 85,
+      "text": "Today most cheerleaders are female, but when cheerleading started it was only for men!",
+      "translation": "اليوم معظم المشجعين من الإناث، ولكن عندما بدأ التشجيع كان فقط للرجال!"
+    },
+    {
+      "id": 86,
+      "text": "Cheerleading isn't easy.",
+      "translation": "التشجيع ليس سهلاً."
+    },
+    {
+      "id": 87,
+      "text": "You have to be good at dance and gymnastics.",
+      "translation": "يجب أن تكون جيداً في الرقص والجمباز."
+    },
+    {
+      "id": 88,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 89,
+      "text": "Making Music",
+      "translation": "صنع الموسيقى"
+    },
+    {
+      "id": 90,
+      "text": "Music is very popular all around the world.",
+      "translation": "الموسيقى شائعة جداً في جميع أنحاء العالم."
+    },
+    {
+      "id": 91,
+      "text": "It's a very important part of life in Nigeria, in Africa.",
+      "translation": "إنها جزء مهم جداً من الحياة في نيجيريا، في أفريقيا."
+    },
+    {
+      "id": 92,
+      "text": "People here sing, dance, and play music at important times in their lives.",
+      "translation": "يغني الناس هنا ويرقصون ويعزفون الموسيقى في أوقات مهمة من حياتهم."
+    },
+    {
+      "id": 93,
+      "text": "In traditional Nigerian music, there is singing, and people play instruments.",
+      "translation": "في الموسيقى النيجيرية التقليدية، يوجد غناء، ويعزف الناس الآلات."
+    },
+    {
+      "id": 94,
+      "text": "There are percussion instruments like drums, bells, and rattles.",
+      "translation": "هناك آلات إيقاعية مثل الطبول والأجراس والخشخيشات."
+    },
+    {
+      "id": 95,
+      "text": "There are other instruments like pipes and trumpets, too.",
+      "translation": "هناك آلات أخرى مثل المزامير والأبواق أيضاً."
+    },
+    {
+      "id": 96,
+      "text": "The kakaki trumpet can be 4 meters long.",
+      "translation": "يمكن أن يصل طول بوق الكاكاكي إلى 4 أمتار."
+    },
+    {
+      "id": 97,
+      "text": "Only men play it.",
+      "translation": "الرجال فقط يعزفون عليه."
+    },
+    {
+      "id": 98,
+      "text": "Nigerian children sometimes make their own instruments.",
+      "translation": "يصنع الأطفال النيجيريون أحياناً آلاتهم الموسيقية الخاصة."
+    },
+    {
+      "id": 99,
+      "text": "They make drums from tin cans, and pipes from plants.",
+      "translation": "يصنعون الطبول من علب الصفيح، والمزامير من النباتات."
+    },
+    {
+      "id": 100,
+      "text": "They also make rattles from fruits.",
+      "translation": "يصنعون أيضاً الخشخيشات من الفواكه."
+    },
+    {
+      "id": 101,
+      "text": "Lots of different types of modern music are popular in Nigeria, too.",
+      "translation": "العديد من أنواع الموسيقى الحديثة المختلفة شائعة في نيجيريا أيضاً."
+    },
+    {
+      "id": 102,
+      "text": "Some modern music, like jazz, reggae, and rock, came from traditional African music.",
+      "translation": "بعض الموسيقى الحديثة، مثل الجاز والريغي والروك، جاءت من الموسيقى الأفريقية التقليدية."
+    },
+    {
+      "id": 103,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 104,
+      "text": "Beach Sports",
+      "translation": "رياضات الشاطئ"
+    },
+    {
+      "id": 105,
+      "text": "In Australia there are about 26,000 kilometers of coast and about 11,000 beaches.",
+      "translation": "في أستراليا هناك حوالي 26000 كيلومتر من السواحل وحوالي 11000 شاطئ."
+    },
+    {
+      "id": 106,
+      "text": "Most people live near the ocean and many Australians spend a lot of their free time at the beach.",
+      "translation": "يعيش معظم الناس بالقرب من المحيط ويقضي العديد من الأستراليين الكثير من أوقات فراغهم على الشاطئ."
+    },
+    {
+      "id": 107,
+      "text": "Many beaches in Australia are great for surfing.",
+      "translation": "العديد من الشواطئ في أستراليا رائعة لركوب الأمواج."
+    },
+    {
+      "id": 108,
+      "text": "Kayaking, swimming, and snorkeling are popular water sports, too.",
+      "translation": "التجديف بالكاياك والسباحة والغطس هي رياضات مائية شائعة أيضاً."
+    },
+    {
+      "id": 109,
+      "text": "Australia has thousands of surf lifeguards to keep the beaches safe.",
+      "translation": "لدى أستراليا الآلاف من حراس الإنقاذ لركوب الأمواج للحفاظ على سلامة الشواطئ."
+    },
+    {
+      "id": 110,
+      "text": "On the sand, people play beach volleyball and beach cricket.",
+      "translation": "على الرمال، يلعب الناس الكرة الطائرة الشاطئية والكريكيت الشاطئي."
+    },
+    {
+      "id": 111,
+      "text": "Beach cricket started as a fun activity, but now it's an official sport.",
+      "translation": "بدأ الكريكيت الشاطئي كنشاط ممتع، لكنه الآن رياضة رسمية."
+    },
+    {
+      "id": 112,
+      "text": "There are beach cricket championships every year in Australia.",
+      "translation": "هناك بطولات كريكيت شاطئية كل عام في أستراليا."
+    },
+    {
+      "id": 113,
+      "text": "You can go sandsurfing on some beaches, and also in the desert in countries like Peru and Egypt.",
+      "translation": "يمكنك ممارسة رياضة التزلج على الرمال في بعض الشواطئ، وكذلك في الصحراء في بلدان مثل بيرو ومصر."
+    },
+    {
+      "id": 114,
+      "text": "Chapter Nine",
+      "translation": "الفصل التاسع"
+    },
+    {
+      "id": 115,
+      "text": "Scouting",
+      "translation": "الكشافة"
+    },
+    {
+      "id": 116,
+      "text": "Scouting started in the United Kingdom in 1907.",
+      "translation": "بدأت الكشافة في المملكة المتحدة عام 1907."
+    },
+    {
+      "id": 117,
+      "text": "The first Scouts were boys from 11 to 18 years old.",
+      "translation": "كان أول الكشافة فتياناً تتراوح أعمارهم بين 11 و 18 عاماً."
+    },
+    {
+      "id": 118,
+      "text": "They went camping and walking in their free time.",
+      "translation": "كانوا يذهبون للتخييم والمشي في أوقات فراغهم."
+    },
+    {
+      "id": 119,
+      "text": "They learned how to read maps and make fires.",
+      "translation": "تعلموا كيفية قراءة الخرائط وإشعال النيران."
+    },
+    {
+      "id": 120,
+      "text": "Today, Scouting isn't only for boys.",
+      "translation": "اليوم، لم تعد الكشافة للفتيان فقط."
+    },
+    {
+      "id": 121,
+      "text": "Anyone from 6 to 25 years old can be a Scout.",
+      "translation": "يمكن لأي شخص من 6 إلى 25 عاماً أن يكون كشافاً."
+    },
+    {
+      "id": 122,
+      "text": "Scouts still go camping and walking, but there are lots of other exciting activities.",
+      "translation": "لا يزال الكشافة يذهبون للتخييم والمشي، ولكن هناك الكثير من الأنشطة المثيرة الأخرى."
+    },
+    {
+      "id": 123,
+      "text": "Scouts can do land activities like climbing and skateboarding.",
+      "translation": "يمكن للكشافة ممارسة أنشطة برية مثل التسلق والتزلج على الألواح."
+    },
+    {
+      "id": 124,
+      "text": "They can also do water activities like sailing, kayaking, and snorkeling.",
+      "translation": "يمكنهم أيضاً ممارسة أنشطة مائية مثل الإبحار والتجديف بالكاياك والغطس."
+    },
+    {
+      "id": 125,
+      "text": "Sometimes they can even do air activities like paragliding.",
+      "translation": "في بعض الأحيان يمكنهم حتى ممارسة أنشطة جوية مثل الطيران الشراعي."
+    },
+    {
+      "id": 126,
+      "text": "Scouts have fun, but they also work together to help other people and the countryside.",
+      "translation": "يستمتع الكشافة، لكنهم يعملون أيضاً معاً لمساعدة الآخرين والريف."
+    },
+    {
+      "id": 127,
+      "text": "Do you have Scouts in your country?",
+      "translation": "هل لديك كشافة في بلدك؟"
+    },
+    {
+      "id": 128,
+      "text": "Chapter Ten",
+      "translation": "الفصل العاشر"
+    },
+    {
+      "id": 129,
+      "text": "Let's Cycle",
+      "translation": "لنركب الدراجات"
+    },
+    {
+      "id": 130,
+      "text": "Cycling is a very popular free-time activity all around the world.",
+      "translation": "ركوب الدراجات هو نشاط شائع جداً في أوقات الفراغ في جميع أنحاء العالم."
+    },
+    {
+      "id": 131,
+      "text": "In the Netherlands about 85 percent of people go cycling.",
+      "translation": "في هولندا، حوالي 85 في المائة من الناس يركبون الدراجات."
+    },
+    {
+      "id": 132,
+      "text": "Most of the land is flat, so it's a good place to cycle.",
+      "translation": "معظم الأرض مسطحة، لذلك فهي مكان جيد لركوب الدراجات."
+    },
+    {
+      "id": 133,
+      "text": "It's also very safe.",
+      "translation": "إنها آمنة جداً أيضاً."
+    },
+    {
+      "id": 134,
+      "text": "There are 17,000 kilometers of cycle paths, and most of the time, cars have to wait for bicycles.",
+      "translation": "هناك 17000 كيلومتر من مسارات الدراجات، وفي معظم الأوقات، تضطر السيارات إلى الانتظار للدراجات."
+    },
+    {
+      "id": 135,
+      "text": "BMX riding is another popular activity in many countries.",
+      "translation": "ركوب الدراجات BMX هو نشاط شائع آخر في العديد من البلدان."
+    },
+    {
+      "id": 136,
+      "text": "There are two types of BMX riding - racing and freestyle.",
+      "translation": "هناك نوعان من ركوب BMX - السباق والحر (فري ستايل)."
+    },
+    {
+      "id": 137,
+      "text": "BMX racers travel around a track and try to win a race.",
+      "translation": "يسافر متسابقو BMX حول مضمار ويحاولون الفوز بالسباق."
+    },
+    {
+      "id": 138,
+      "text": "It isn't easy, and there are lots of jumps and turns.",
+      "translation": "الأمر ليس سهلاً، وهناك الكثير من القفزات والمنعطفات."
+    },
+    {
+      "id": 139,
+      "text": "In BMX freestyle, riders do jumps and tricks.",
+      "translation": "في BMX الحر، يقوم المتسابقون بالقفز والحيل."
+    },
+    {
+      "id": 140,
+      "text": "The best place to practice BMX freestyle is in a skatepark.",
+      "translation": "أفضل مكان لممارسة BMX الحر هو في حديقة التزلج."
+    },
+    {
+      "id": 141,
+      "text": "Which new free-time activities do you want to do now?",
+      "translation": "ما هي أنشطة وقت الفراغ الجديدة التي تريد ممارستها الآن؟"
+    },
+    {
+      "id": 142,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 143,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 144,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
