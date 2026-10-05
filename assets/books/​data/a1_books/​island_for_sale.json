@@ -5,10 +5,1414 @@
   "audio_url": "assets/books/audio/a1_books/Island_for_Sale-Anne_Collins.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Duncan wanted to buy a beautiful small island.",
-      "translation": "أراد دنكان شراء جزيرة صغيرة جميلة."
+      "id": 1,
+      "text": "Island for Sale",
+      "translation": "جزيرة للبيع"
+    },
+    {
+      "id": 2,
+      "text": "Anne Collins",
+      "translation": "آن كولينز"
+    },
+    {
+      "id": 3,
+      "text": "There are many islands in the sea near Scotland.",
+      "translation": "هناك العديد من الجزر في البحر بالقرب من اسكتلندا."
+    },
+    {
+      "id": 4,
+      "text": "This story is about one of these islands.",
+      "translation": "هذه القصة تدور حول إحدى هذه الجزر."
+    },
+    {
+      "id": 5,
+      "text": "The name of the island is Lana.",
+      "translation": "اسم الجزيرة هو لانا."
+    },
+    {
+      "id": 6,
+      "text": "Lana isn't big, but it's very beautiful.",
+      "translation": "لانا ليست كبيرة، لكنها جميلة جداً."
+    },
+    {
+      "id": 7,
+      "text": "It's very quiet, too.",
+      "translation": "إنها هادئة جداً أيضاً."
+    },
+    {
+      "id": 8,
+      "text": "There are no houses or roads or cars on Lana.",
+      "translation": "لا توجد منازل أو طرق أو سيارات في لانا."
+    },
+    {
+      "id": 9,
+      "text": "But there's a castle.",
+      "translation": "لكن هناك قلعة."
+    },
+    {
+      "id": 10,
+      "text": "The castle is very old.",
+      "translation": "القلعة قديمة جداً."
+    },
+    {
+      "id": 11,
+      "text": "A young Scotsman lives in the castle.",
+      "translation": "يعيش شاب اسكتلندي في القلعة."
+    },
+    {
+      "id": 12,
+      "text": "The Scotsman's name is Duncan McTavish.",
+      "translation": "اسم الرجل الاسكتلندي هو دنكان ماكتافيش."
+    },
+    {
+      "id": 13,
+      "text": "Duncan lives in the castle with his dog, Jock.",
+      "translation": "يعيش دنكان في القلعة مع كلبه، جوك."
+    },
+    {
+      "id": 14,
+      "text": "Duncan is very happy on his island.",
+      "translation": "دنكان سعيد جداً في جزيرته."
+    },
+    {
+      "id": 15,
+      "text": "He likes going for walks with Jock.",
+      "translation": "يحب الذهاب في نزهات سيراً على الأقدام مع جوك."
+    },
+    {
+      "id": 16,
+      "text": "He likes swimming and fishing in his little boat.",
+      "translation": "يحب السباحة وصيد الأسماك في قاربه الصغير."
+    },
+    {
+      "id": 17,
+      "text": "There are many big rooms in Duncan's castle.",
+      "translation": "توجد العديد من الغرف الكبيرة في قلعة دنكان."
+    },
+    {
+      "id": 18,
+      "text": "They have a lot of old things in them - pictures and heavy tables, chairs and beds.",
+      "translation": "تحتوي على الكثير من الأشياء القديمة - لوحات وطاولات ثقيلة وكراسي وأسرّة."
+    },
+    {
+      "id": 19,
+      "text": "In winter, the castle is very cold and dark.",
+      "translation": "في الشتاء، تكون القلعة باردة ومظلمة جداً."
+    },
+    {
+      "id": 20,
+      "text": "Duncan puts on a lot of electric lights in all the rooms.",
+      "translation": "يشغل دنكان الكثير من الأضواء الكهربائية في جميع الغرف."
+    },
+    {
+      "id": 21,
+      "text": "One Monday morning in April, Duncan gets a letter.",
+      "translation": "في صباح يوم اثنين في أبريل، يتلقى دنكان خطاباً."
+    },
+    {
+      "id": 22,
+      "text": "'What's this?' he asks.",
+      "translation": "'ما هذا؟' يسأل."
+    },
+    {
+      "id": 23,
+      "text": "He opens the letter.",
+      "translation": "يفتح الخطاب."
+    },
+    {
+      "id": 24,
+      "text": "It's from the electricity company.",
+      "translation": "إنه من شركة الكهرباء."
+    },
+    {
+      "id": 25,
+      "text": "Duncan reads,",
+      "translation": "يقرأ دنكان،"
+    },
+    {
+      "id": 26,
+      "text": "Electricity from October to March: 5,000 pounds.",
+      "translation": "الكهرباء من أكتوبر إلى مارس: 5000 جنيه إسترليني."
+    },
+    {
+      "id": 27,
+      "text": "'Oh,' Duncan says.",
+      "translation": "'أوه،' يقول دنكان."
+    },
+    {
+      "id": 28,
+      "text": "'I haven't got 5,000 pounds.",
+      "translation": "'ليس لدي 5000 جنيه إسترليني."
+    },
+    {
+      "id": 29,
+      "text": "What can I do?' He's very unhappy.",
+      "translation": "ماذا يمكنني أن أفعل؟' إنه غير سعيد جداً."
+    },
+    {
+      "id": 30,
+      "text": "'I can do only one thing: sell my island and my castle.'",
+      "translation": "'يمكنني فعل شيء واحد فقط: بيع جزيرتي وقلعتي.'"
+    },
+    {
+      "id": 31,
+      "text": "Duncan telephones a man in London.",
+      "translation": "يتصل دنكان برجل في لندن."
+    },
+    {
+      "id": 32,
+      "text": "The man's name is Mr Moneybags.",
+      "translation": "اسم الرجل هو السيد مونيباغز."
+    },
+    {
+      "id": 33,
+      "text": "Mr Moneybags sells houses and castles.",
+      "translation": "يبيع السيد مونيباغز المنازل والقلاع."
+    },
+    {
+      "id": 34,
+      "text": "'I want to sell my island and my castle,' Duncan says.",
+      "translation": "'أريد بيع جزيرتي وقلعتي،' يقول دنكان."
+    },
+    {
+      "id": 35,
+      "text": "'OK,' Mr Moneybags says.",
+      "translation": "'حسناً،' يقول السيد مونيباغز."
+    },
+    {
+      "id": 36,
+      "text": "Two days later, he telephones Duncan.",
+      "translation": "بعد يومين، يتصل بدنكان."
+    },
+    {
+      "id": 37,
+      "text": "'Leaping Larry wants to buy your island,' he says.",
+      "translation": "'ليبينغ لاري يريد شراء جزيرتك،' يقول."
+    },
+    {
+      "id": 38,
+      "text": "'Leaping... who?' Duncan asks.",
+      "translation": "'ليبينغ... من؟' يسأل دنكان."
+    },
+    {
+      "id": 39,
+      "text": "'Leaping Larry. You know - the famous American rock star.'",
+      "translation": "'ليبينغ لاري. أنت تعرفه - نجم الروك الأمريكي الشهير.'"
+    },
+    {
+      "id": 40,
+      "text": "'He wants to buy your island for his girlfriend.'",
+      "translation": "'يريد شراء جزيرتك لصديقته.'"
+    },
+    {
+      "id": 41,
+      "text": "'A rock star,' Duncan says.",
+      "translation": "'نجم روك،' يقول دنكان."
+    },
+    {
+      "id": 42,
+      "text": "'Oh.'",
+      "translation": "'أوه.'"
+    },
+    {
+      "id": 43,
+      "text": "'He wants to see the island tomorrow afternoon,' Mr Moneybags says.",
+      "translation": "'يريد رؤية الجزيرة غداً بعد الظهر،' يقول السيد مونيباغز."
+    },
+    {
+      "id": 44,
+      "text": "'Is that OK?'",
+      "translation": "'هل هذا مناسب؟'"
+    },
+    {
+      "id": 45,
+      "text": "'Er... yes,' Duncan says.",
+      "translation": "'آه... نعم،' يقول دنكان."
+    },
+    {
+      "id": 46,
+      "text": "'Yes, of course.'",
+      "translation": "'نعم، بالطبع.'"
+    },
+    {
+      "id": 47,
+      "text": "Leaping Larry and his girlfriend are coming to the island by helicopter.",
+      "translation": "ليبينغ لاري وصديقته قادمان إلى الجزيرة بطائرة هليكوبتر."
+    },
+    {
+      "id": 48,
+      "text": "They're very late.",
+      "translation": "لقد تأخرا كثيراً."
+    },
+    {
+      "id": 49,
+      "text": "Duncan and Jock wait a long time.",
+      "translation": "ينتظر دنكان وجوك وقتاً طويلاً."
+    },
+    {
+      "id": 50,
+      "text": "Then the helicopter arrives.",
+      "translation": "ثم تصل المروحية."
+    },
+    {
+      "id": 51,
+      "text": "A tall man with long dark hair gets down from it.",
+      "translation": "ينزل منها رجل طويل الشعر داكن."
+    },
+    {
+      "id": 52,
+      "text": "He's about forty-five years old.",
+      "translation": "يبلغ من العمر حوالي خمسة وأربعين عاماً."
+    },
+    {
+      "id": 53,
+      "text": "There's a girl with him.",
+      "translation": "هناك فتاة معه."
+    },
+    {
+      "id": 54,
+      "text": "She's about twenty and has long yellow hair.",
+      "translation": "عمرها حوالي العشرين ولها شعر أصفر طويل."
+    },
+    {
+      "id": 55,
+      "text": "There's a small animal with her.",
+      "translation": "هناك حيوان صغير معها."
+    },
+    {
+      "id": 56,
+      "text": "The animal has long white hair.",
+      "translation": "الحيوان له شعر أبيض طويل."
+    },
+    {
+      "id": 57,
+      "text": "'Hi,' the man says.",
+      "translation": "'مرحباً،' يقول الرجل."
+    },
+    {
+      "id": 58,
+      "text": "'I'm Leaping Larry. And this is my girlfriend, Roxanne.'",
+      "translation": "'أنا ليبينغ لاري. وهذه صديقتي، روكسان.'"
+    },
+    {
+      "id": 59,
+      "text": "'Hi,' Roxanne says.",
+      "translation": "'مرحباً،' تقول روكسان."
+    },
+    {
+      "id": 60,
+      "text": "'This is my dog, Bobo.'",
+      "translation": "'هذا كلبي، بوبو.'"
+    },
+    {
+      "id": 61,
+      "text": "Larry looks at the castle.",
+      "translation": "ينظر لاري إلى القلعة."
+    },
+    {
+      "id": 62,
+      "text": "'Look at that old castle, Roxanne,' he says.",
+      "translation": "'انظري إلى تلك القلعة القديمة يا روكسان،' يقول."
+    },
+    {
+      "id": 63,
+      "text": "'Don't you love it, honey?'",
+      "translation": "'ألا تحبينها يا حبيبتي؟'"
+    },
+    {
+      "id": 64,
+      "text": "Roxanne doesn't smile.",
+      "translation": "لا تبتسم روكسان."
+    },
+    {
+      "id": 65,
+      "text": "It's only an old castle.",
+      "translation": "إنها مجرد قلعة قديمة."
+    },
+    {
+      "id": 66,
+      "text": "Leaping Larry and Roxanne go into the castle.",
+      "translation": "يدخل ليبينغ لاري وروكسان إلى القلعة."
+    },
+    {
+      "id": 67,
+      "text": "It's very dark.",
+      "translation": "الجو مظلم جداً."
+    },
+    {
+      "id": 68,
+      "text": "Leaping Larry can't see.",
+      "translation": "لا يستطيع ليبينغ لاري الرؤية."
+    },
+    {
+      "id": 69,
+      "text": "He falls down.",
+      "translation": "إنه يسقط."
+    },
+    {
+      "id": 70,
+      "text": "'Where are the lights?' he asks.",
+      "translation": "'أين الأضواء؟' يسأل."
+    },
+    {
+      "id": 71,
+      "text": "'I'm sorry,' Duncan says.",
+      "translation": "'أنا آسف،' يقول دنكان."
+    },
+    {
+      "id": 72,
+      "text": "'There isn't any light.",
+      "translation": "'لا يوجد أي ضوء."
+    },
+    {
+      "id": 73,
+      "text": "The company stopped my electricity this morning.'",
+      "translation": "أوقفت الشركة الكهرباء عني هذا الصباح.'"
+    },
+    {
+      "id": 74,
+      "text": "'I want some hot food,' Roxanne says.",
+      "translation": "'أريد بعض الطعام الساخن،' تقول روكسان."
+    },
+    {
+      "id": 75,
+      "text": "'I'm sorry,' Duncan says, 'but I can't make hot food.",
+      "translation": "'أنا آسف،' يقول دنكان، 'لكنني لا أستطيع إعداد طعام ساخن."
+    },
+    {
+      "id": 76,
+      "text": "I haven't got any electricity.",
+      "translation": "ليس لدي أي كهرباء."
+    },
+    {
+      "id": 77,
+      "text": "But there is some cold food.'",
+      "translation": "لكن هناك بعض الطعام البارد.'"
+    },
+    {
+      "id": 78,
+      "text": "'Cold food!' Roxanne says.",
+      "translation": "'طعام بارد!' تقول روكسان."
+    },
+    {
+      "id": 79,
+      "text": "'No, thank you! I'm going to bed.",
+      "translation": "'لا، شكراً لك! سأذهب إلى السرير."
+    },
+    {
+      "id": 80,
+      "text": "But first I want a hot bath.",
+      "translation": "لكن أولاً أريد حماماً ساخناً."
+    },
+    {
+      "id": 81,
+      "text": "And Bobo wants a bath, too.'",
+      "translation": "وبوبو يريد حماماً أيضاً.'"
+    },
+    {
+      "id": 82,
+      "text": "'I'm very sorry,' Duncan says.",
+      "translation": "'أنا آسف جداً،' يقول دنكان."
+    },
+    {
+      "id": 83,
+      "text": "'But there's no hot water.'",
+      "translation": "'لكن لا يوجد ماء ساخن.'"
+    },
+    {
+      "id": 84,
+      "text": "'No lights! No food! No hot water!'",
+      "translation": "'لا أضواء! لا طعام! لا ماء ساخن!'"
+    },
+    {
+      "id": 85,
+      "text": "Roxanne says.",
+      "translation": "تقول روكسان."
+    },
+    {
+      "id": 86,
+      "text": "'I don't like this place!'",
+      "translation": "'أنا لا أحب هذا المكان!'"
+    },
+    {
+      "id": 87,
+      "text": "'Now, honey...' Leaping Larry says.",
+      "translation": "'الآن، يا حبيبتي...' يقول ليبينغ لاري."
+    },
+    {
+      "id": 88,
+      "text": "'Don't call me \"honey\"!' Roxanne says.",
+      "translation": "'لا تناديني \"حبيبتي\"!' تقول روكسان."
+    },
+    {
+      "id": 89,
+      "text": "'Let's go, Bobo!'",
+      "translation": "'لنذهب يا بوبو!'"
+    },
+    {
+      "id": 90,
+      "text": "Roxanne and Bobo go to bed.",
+      "translation": "تذهب روكسان وبوبو إلى السرير."
+    },
+    {
+      "id": 91,
+      "text": "Larry and Duncan eat cold food and talk.",
+      "translation": "يأكل لاري ودنكان طعاماً بارداً ويتحدثان."
+    },
+    {
+      "id": 92,
+      "text": "Jock watches them.",
+      "translation": "يراقبهما جوك."
+    },
+    {
+      "id": 93,
+      "text": "Suddenly Roxanne screams.",
+      "translation": "فجأة تصرخ روكسان."
+    },
+    {
+      "id": 94,
+      "text": "Duncan, Larry and Jock run to her room.",
+      "translation": "يركض دنكان ولاري وجوك إلى غرفتها."
+    },
+    {
+      "id": 95,
+      "text": "Roxanne is in bed with Bobo.",
+      "translation": "روكسان في السرير مع بوبو."
+    },
+    {
+      "id": 96,
+      "text": "'Honey, what's wrong?' Larry asks.",
+      "translation": "'حبيبتي، ما الخطب؟' يسأل لاري."
+    },
+    {
+      "id": 97,
+      "text": "'There was a noise in the room,' Roxanne says.",
+      "translation": "'كان هناك ضجيج في الغرفة،' تقول روكسان."
+    },
+    {
+      "id": 98,
+      "text": "'What was it?' Duncan starts to smile.",
+      "translation": "'ما كان؟' يبدأ دنكان بالابتسام."
+    },
+    {
+      "id": 99,
+      "text": "'Why are you smiling?' Roxanne says.",
+      "translation": "'لماذا تبتسم؟' تقول روكسان."
+    },
+    {
+      "id": 100,
+      "text": "She's very angry.",
+      "translation": "إنها غاضبة جداً."
+    },
+    {
+      "id": 101,
+      "text": "'Look at Jock,' Duncan says.",
+      "translation": "'انظروا إلى جوك،' يقول دنكان."
+    },
+    {
+      "id": 102,
+      "text": "Jock is under the bed.",
+      "translation": "جوك تحت السرير."
+    },
+    {
+      "id": 103,
+      "text": "He has a mouse in his mouth.",
+      "translation": "لديه فأر في فمه."
+    },
+    {
+      "id": 104,
+      "text": "'A mouse!' Roxanne says.",
+      "translation": "'فأر!' تقول روكسان."
+    },
+    {
+      "id": 105,
+      "text": "She screams again.",
+      "translation": "تصرخ مرة أخرى."
+    },
+    {
+      "id": 106,
+      "text": "In the morning, Duncan and Leaping Larry are waiting.",
+      "translation": "في الصباح، ينتظر دنكان وليبينغ لاري."
+    },
+    {
+      "id": 107,
+      "text": "Roxanne and Bobo are late.",
+      "translation": "تأخرت روكسان وبوبو."
+    },
+    {
+      "id": 108,
+      "text": "They get up at eleven o'clock.",
+      "translation": "يستيقظان في الساعة الحادية عشرة."
+    },
+    {
+      "id": 109,
+      "text": "'Good morning,' Duncan says.",
+      "translation": "'صباح الخير،' يقول دنكان."
+    },
+    {
+      "id": 110,
+      "text": "Roxanne doesn't answer.",
+      "translation": "لا تجيب روكسان."
+    },
+    {
+      "id": 111,
+      "text": "She says to Larry, 'Larry, I don't like this place.",
+      "translation": "تقول للاري، 'لاري، أنا لا أحب هذا المكان."
+    },
+    {
+      "id": 112,
+      "text": "I want to go home.'",
+      "translation": "أريد العودة إلى المنزل.'"
+    },
+    {
+      "id": 113,
+      "text": "'But, honey...' Larry says.",
+      "translation": "'لكن، يا حبيبتي...' يقول لاري."
+    },
+    {
+      "id": 114,
+      "text": "'Don't call me \"honey\"!'",
+      "translation": "'لا تناديني \"حبيبتي\"!'"
+    },
+    {
+      "id": 115,
+      "text": "Roxanne says.",
+      "translation": "تقول روكسان."
+    },
+    {
+      "id": 116,
+      "text": "'This castle is old, dark and very cold.",
+      "translation": "'هذه القلعة قديمة ومظلمة وباردة جداً."
+    },
+    {
+      "id": 117,
+      "text": "There's no electricity, no food and no hot water.",
+      "translation": "لا توجد كهرباء، لا طعام ولا ماء ساخن."
+    },
+    {
+      "id": 118,
+      "text": "And I don't like it.",
+      "translation": "وأنا لا أحبها."
+    },
+    {
+      "id": 119,
+      "text": "Do you understand?'",
+      "translation": "هل تفهم؟'"
+    },
+    {
+      "id": 120,
+      "text": "'Listen, honey,' Larry says.",
+      "translation": "'اسمعي يا حبيبتي،' يقول لاري."
+    },
+    {
+      "id": 121,
+      "text": "'We can build a big new house here.",
+      "translation": "'يمكننا بناء منزل جديد كبير هنا."
+    },
+    {
+      "id": 122,
+      "text": "Our friends from California can come and stay.'",
+      "translation": "يمكن لأصدقائنا من كاليفورنيا القدوم والإقامة.'"
+    },
+    {
+      "id": 123,
+      "text": "Duncan looks at Jock.",
+      "translation": "ينظر دنكان إلى جوك."
+    },
+    {
+      "id": 124,
+      "text": "Jock looks at Duncan.",
+      "translation": "ينظر جوك إلى دنكان."
+    },
+    {
+      "id": 125,
+      "text": "'Build a big new house!' they think.",
+      "translation": "'بناء منزل جديد كبير!' يفكران."
+    },
+    {
+      "id": 126,
+      "text": "'Oh, no!'",
+      "translation": "'أوه، لا!'"
+    },
+    {
+      "id": 127,
+      "text": "Leaping Larry says, 'We want to see the island.'",
+      "translation": "يقول ليبينغ لاري، 'نريد رؤية الجزيرة.'"
+    },
+    {
+      "id": 128,
+      "text": "'OK,' Duncan says.",
+      "translation": "'حسناً،' يقول دنكان."
+    },
+    {
+      "id": 129,
+      "text": "'We can go in my boat.'",
+      "translation": "'يمكننا الذهاب في قاربي.'"
+    },
+    {
+      "id": 130,
+      "text": "Duncan, Larry and Roxanne get into Duncan's boat.",
+      "translation": "يركب دنكان ولاري وروكسان في قارب دنكان."
+    },
+    {
+      "id": 131,
+      "text": "Jock gets in, too.",
+      "translation": "يركب جوك أيضاً."
+    },
+    {
+      "id": 132,
+      "text": "Bobo is with Roxanne.",
+      "translation": "بوبو مع روكسان."
+    },
+    {
+      "id": 133,
+      "text": "It's a beautiful day, but Roxanne isn't happy.",
+      "translation": "إنه يوم جميل، لكن روكسان ليست سعيدة."
+    },
+    {
+      "id": 134,
+      "text": "'What do you do all day?' she asks Duncan.",
+      "translation": "'ماذا تفعل طوال اليوم؟' تسأل دنكان."
+    },
+    {
+      "id": 135,
+      "text": "'I go for walks,' Duncan says.",
+      "translation": "'أذهب في نزهات سيراً على الأقدام،' يقول دنكان."
+    },
+    {
+      "id": 136,
+      "text": "'Sometimes I swim.",
+      "translation": "'أحياناً أسبح."
+    },
+    {
+      "id": 137,
+      "text": "And sometimes I catch fish.'",
+      "translation": "وأحياناً أصطاد الأسماك.'"
+    },
+    {
+      "id": 138,
+      "text": "'Oh,' Roxanne says.",
+      "translation": "'أوه،' تقول روكسان."
+    },
+    {
+      "id": 139,
+      "text": "'That isn't very interesting.'",
+      "translation": "'هذا ليس مثيراً للاهتمام كثيراً.'"
+    },
+    {
+      "id": 140,
+      "text": "'Listen, honey,' Larry says.",
+      "translation": "'اسمعي يا حبيبتي،' يقول لاري."
+    },
+    {
+      "id": 141,
+      "text": "'We can make the island interesting.",
+      "translation": "'يمكننا جعل الجزيرة مثيرة للاهتمام."
+    },
+    {
+      "id": 142,
+      "text": "I know people with film companies.",
+      "translation": "أعرف أشخاصاً لديهم شركات أفلام."
+    },
+    {
+      "id": 143,
+      "text": "They can come here and make films.",
+      "translation": "يمكنهم القدوم إلى هنا وصنع أفلام."
+    },
+    {
+      "id": 144,
+      "text": "Hundreds of films!'",
+      "translation": "مئات الأفلام!'"
+    },
+    {
+      "id": 145,
+      "text": "Duncan looks at Jock.",
+      "translation": "ينظر دنكان إلى جوك."
+    },
+    {
+      "id": 146,
+      "text": "Jock looks at Duncan.",
+      "translation": "ينظر جوك إلى دنكان."
+    },
+    {
+      "id": 147,
+      "text": "'Film companies!' they think.",
+      "translation": "'شركات أفلام!' يفكران."
+    },
+    {
+      "id": 148,
+      "text": "'Oh, no!'",
+      "translation": "'أوه، لا!'"
+    },
+    {
+      "id": 149,
+      "text": "Duncan is very unhappy.",
+      "translation": "دنكان غير سعيد جداً."
+    },
+    {
+      "id": 150,
+      "text": "He doesn't want to sell his island and his castle to Larry.",
+      "translation": "لا يريد بيع جزيرته وقلعته للاري."
+    },
+    {
+      "id": 151,
+      "text": "He doesn't want film companies or Larry's friends on the island.",
+      "translation": "لا يريد شركات الأفلام أو أصدقاء لاري في الجزيرة."
+    },
+    {
+      "id": 152,
+      "text": "But what can Duncan do?",
+      "translation": "لكن ماذا يمكن لدنكان أن يفعل؟"
+    },
+    {
+      "id": 153,
+      "text": "The electricity company wants 5,000 pounds.",
+      "translation": "شركة الكهرباء تريد 5000 جنيه إسترليني."
+    },
+    {
+      "id": 154,
+      "text": "He has no money.",
+      "translation": "ليس لديه مال."
+    },
+    {
+      "id": 155,
+      "text": "He can't stay in his castle.",
+      "translation": "لا يمكنه البقاء في قلعته."
+    },
+    {
+      "id": 156,
+      "text": "Duncan, Larry and Roxanne are all sitting in Duncan's boat.",
+      "translation": "دنكان ولاري وروكسان يجلسون جميعاً في قارب دنكان."
+    },
+    {
+      "id": 157,
+      "text": "Jock and Bobo are with them.",
+      "translation": "جوك وبوبو معهم."
+    },
+    {
+      "id": 158,
+      "text": "Suddenly, Jock sees a rabbit on the island.",
+      "translation": "فجأة، يرى جوك أرنباً في الجزيرة."
+    },
+    {
+      "id": 159,
+      "text": "Jock loves catching rabbits.",
+      "translation": "يحب جوك اصطياد الأرانب."
+    },
+    {
+      "id": 160,
+      "text": "He jumps into the sea and starts to swim to the island.",
+      "translation": "يقفز في البحر ويبدأ بالسباحة نحو الجزيرة."
+    },
+    {
+      "id": 161,
+      "text": "Bobo thinks, 'This is interesting!' And he jumps in, too.",
+      "translation": "يفكر بوبو، 'هذا مثير للاهتمام!' ويقفز هو الآخر."
+    },
+    {
+      "id": 162,
+      "text": "'Bobo is in the water!' Roxanne screams.",
+      "translation": "'بوبو في الماء!' تصرخ روكسان."
+    },
+    {
+      "id": 163,
+      "text": "'Jump into the sea, Larry! Get Bobo!'",
+      "translation": "'اقفز في البحر يا لاري! أحضر بوبو!'"
+    },
+    {
+      "id": 164,
+      "text": "But Larry doesn't move.",
+      "translation": "لكن لاري لا يتحرك."
+    },
+    {
+      "id": 165,
+      "text": "'Why are you waiting?' Roxanne says.",
+      "translation": "'لماذا تنتظر؟' تقول روكسان."
+    },
+    {
+      "id": 166,
+      "text": "'Jump in!'",
+      "translation": "'اقفز!'"
+    },
+    {
+      "id": 167,
+      "text": "'But, honey,' Larry says, 'I can't swim.'",
+      "translation": "'لكن، يا حبيبتي،' يقول لاري، 'لا أستطيع السباحة.'"
+    },
+    {
+      "id": 168,
+      "text": "'Can't swim!' Roxanne says.",
+      "translation": "'لا تستطيع السباحة!' تقول روكسان."
+    },
+    {
+      "id": 169,
+      "text": "She is very angry.",
+      "translation": "إنها غاضبة جداً."
+    },
+    {
+      "id": 170,
+      "text": "'Look!' Duncan says.",
+      "translation": "'انظري!' يقول دنكان."
+    },
+    {
+      "id": 171,
+      "text": "'Bobo is OK.",
+      "translation": "'بوبو بخير."
+    },
+    {
+      "id": 172,
+      "text": "He's having a good time.'",
+      "translation": "إنه يقضي وقتاً ممتعاً.'"
+    },
+    {
+      "id": 173,
+      "text": "Bobo is swimming in the water with Jock.",
+      "translation": "بوبو يسبح في الماء مع جوك."
+    },
+    {
+      "id": 174,
+      "text": "But Roxanne is very angry with Larry.",
+      "translation": "لكن روكسان غاضبة جداً من لاري."
+    },
+    {
+      "id": 175,
+      "text": "'You don't love me!' she says.",
+      "translation": "'أنت لا تحبني!' تقول."
+    },
+    {
+      "id": 176,
+      "text": "'And you don't love me,' Larry says.",
+      "translation": "'وأنت لا تحبينني،' يقول لاري."
+    },
+    {
+      "id": 177,
+      "text": "'You only love Bobo.'",
+      "translation": "'أنت تحبين بوبو فقط.'"
+    },
+    {
+      "id": 178,
+      "text": "'You're right,' Roxanne says.",
+      "translation": "'أنت على حق،' تقول روكسان."
+    },
+    {
+      "id": 179,
+      "text": "She stands in the boat and starts to hit Larry.",
+      "translation": "تقف في القارب وتبدأ بضرب لاري."
+    },
+    {
+      "id": 180,
+      "text": "'Don't do that!' Duncan says.",
+      "translation": "'لا تفعلي ذلك!' يقول دنكان."
+    },
+    {
+      "id": 181,
+      "text": "The boat moves.",
+      "translation": "يتحرك القارب."
+    },
+    {
+      "id": 182,
+      "text": "Roxanne falls into the water.",
+      "translation": "تسقط روكسان في الماء."
+    },
+    {
+      "id": 183,
+      "text": "She starts to scream.",
+      "translation": "تبدأ بالصراخ."
+    },
+    {
+      "id": 184,
+      "text": "Roxanne is making a lot of noise.",
+      "translation": "روكسان تحدث ضجيجاً كبيراً."
+    },
+    {
+      "id": 185,
+      "text": "Jock sees Roxanne in the water with Bobo.",
+      "translation": "يرى جوك روكسان في الماء مع بوبو."
+    },
+    {
+      "id": 186,
+      "text": "What are they doing?",
+      "translation": "ماذا يفعلان؟"
+    },
+    {
+      "id": 187,
+      "text": "Are they playing a new game?",
+      "translation": "هل يلعبان لعبة جديدة؟"
+    },
+    {
+      "id": 188,
+      "text": "Jock wants to play, too.",
+      "translation": "جوك يريد اللعب أيضاً."
+    },
+    {
+      "id": 189,
+      "text": "He swims to Bobo.",
+      "translation": "يسبح نحو بوبو."
+    },
+    {
+      "id": 190,
+      "text": "'Go away!' Roxanne screams.",
+      "translation": "'اغرب!' تصرخ روكسان."
+    },
+    {
+      "id": 191,
+      "text": "Duncan brings the boat near Roxanne.",
+      "translation": "يقرب دنكان القارب من روكسان."
+    },
+    {
+      "id": 192,
+      "text": "Roxanne gets into the boat.",
+      "translation": "تركب روكسان القارب."
+    },
+    {
+      "id": 193,
+      "text": "Then Bobo gets into the boat.",
+      "translation": "ثم يركب بوبو القارب."
+    },
+    {
+      "id": 194,
+      "text": "Roxanne is very angry.",
+      "translation": "روكسان غاضبة جداً."
+    },
+    {
+      "id": 195,
+      "text": "'Take me back to California... NOW!' she says to Larry.",
+      "translation": "'أعدني إلى كاليفورنيا... الآن!' تقول للاري."
+    },
+    {
+      "id": 196,
+      "text": "Later Larry, Roxanne and Bobo get into their helicopter.",
+      "translation": "لاحقاً، يركب لاري وروكسان وبوبو في طائرتهم المروحية."
+    },
+    {
+      "id": 197,
+      "text": "'Goodbye,' Duncan says.",
+      "translation": "'وداعاً،' يقول دنكان."
+    },
+    {
+      "id": 198,
+      "text": "Larry and Roxanne don't answer.",
+      "translation": "لا يجيب لاري وروكسان."
+    },
+    {
+      "id": 199,
+      "text": "The helicopter goes away.",
+      "translation": "تذهب المروحية بعيداً."
+    },
+    {
+      "id": 200,
+      "text": "Duncan smiles at Jock.",
+      "translation": "يبتسم دنكان لجوك."
+    },
+    {
+      "id": 201,
+      "text": "He's very happy.",
+      "translation": "إنه سعيد جداً."
+    },
+    {
+      "id": 202,
+      "text": "'Leaping Larry isn't going to buy our island,' he says.",
+      "translation": "'ليبينغ لاري لن يشتري جزيرتنا،' يقول."
+    },
+    {
+      "id": 203,
+      "text": "'That's good!' But Duncan has big money problems.",
+      "translation": "'هذا جيد!' لكن دنكان لديه مشاكل مالية كبيرة."
+    },
+    {
+      "id": 204,
+      "text": "Leaping Larry doesn't want to buy the island.",
+      "translation": "ليبينغ لاري لا يريد شراء الجزيرة."
+    },
+    {
+      "id": 205,
+      "text": "But where can Duncan get 5,000 pounds for the electricity company?",
+      "translation": "لكن من أين يمكن لدنكان الحصول على 5000 جنيه إسترليني لشركة الكهرباء؟"
+    },
+    {
+      "id": 206,
+      "text": "Later, Duncan telephones Mr Moneybags in London.",
+      "translation": "لاحقاً، يتصل دنكان بالسيد مونيباغز في لندن."
+    },
+    {
+      "id": 207,
+      "text": "'Leaping Larry telephoned me,' Mr Moneybags says.",
+      "translation": "'ليبينغ لاري اتصل بي،' يقول السيد مونيباغز."
+    },
+    {
+      "id": 208,
+      "text": "'He doesn't like your island.",
+      "translation": "'إنه لا يحب جزيرتك."
+    },
+    {
+      "id": 209,
+      "text": "He doesn't want to buy it.",
+      "translation": "لا يريد شراءها."
+    },
+    {
+      "id": 210,
+      "text": "And I'm not going to sell it for you now.",
+      "translation": "وأنا لن أبيعها نيابة عنك الآن."
+    },
+    {
+      "id": 211,
+      "text": "It's your problem. Goodbye.'",
+      "translation": "إنها مشكلتك. وداعاً.'"
+    },
+    {
+      "id": 212,
+      "text": "Duncan goes for a long walk with Jock.",
+      "translation": "يذهب دنكان في نزهة طويلة مع جوك."
+    },
+    {
+      "id": 213,
+      "text": "He's very unhappy.",
+      "translation": "إنه غير سعيد جداً."
+    },
+    {
+      "id": 214,
+      "text": "They walk to a place across the island.",
+      "translation": "يسيران إلى مكان في أنحاء الجزيرة."
+    },
+    {
+      "id": 215,
+      "text": "And there Duncan sees a girl.",
+      "translation": "وهناك يرى دنكان فتاة."
+    },
+    {
+      "id": 216,
+      "text": "She's looking at the sea and she's painting a picture.",
+      "translation": "إنها تنظر إلى البحر وترسم لوحة."
+    },
+    {
+      "id": 217,
+      "text": "Near her is a small boat.",
+      "translation": "بالقرب منها قارب صغير."
+    },
+    {
+      "id": 218,
+      "text": "'Good afternoon,' Duncan says.",
+      "translation": "'مساء الخير،' يقول دنكان."
+    },
+    {
+      "id": 219,
+      "text": "The girl looks at Duncan.",
+      "translation": "تنظر الفتاة إلى دنكان."
+    },
+    {
+      "id": 220,
+      "text": "She's beautiful.",
+      "translation": "إنها جميلة."
+    },
+    {
+      "id": 221,
+      "text": "He likes her.",
+      "translation": "إنه يحبها."
+    },
+    {
+      "id": 222,
+      "text": "'Who are you?' she asks.",
+      "translation": "'من أنت؟' تسأل."
+    },
+    {
+      "id": 223,
+      "text": "'What do you want?'",
+      "translation": "'ماذا تريد؟'"
+    },
+    {
+      "id": 224,
+      "text": "'I'm Duncan McTavish,' Duncan says.",
+      "translation": "'أنا دنكان ماكتافيش،' يقول دنكان."
+    },
+    {
+      "id": 225,
+      "text": "'I live here. Lana is my island.",
+      "translation": "'أعيش هنا. لانا هي جزيرتي."
+    },
+    {
+      "id": 226,
+      "text": "And this is my dog, Jock.'",
+      "translation": "وهذا كلبي، جوك.'"
+    },
+    {
+      "id": 227,
+      "text": "Jock looks at the girl.",
+      "translation": "ينظر جوك إلى الفتاة."
+    },
+    {
+      "id": 228,
+      "text": "He likes her, too.",
+      "translation": "إنه يحبها أيضاً."
+    },
+    {
+      "id": 229,
+      "text": "'Lana is your island?' the girl says.",
+      "translation": "'لانا هي جزيرتك؟' تقول الفتاة."
+    },
+    {
+      "id": 230,
+      "text": "'Oh. I'm Jean Stewart. I'm a teacher.",
+      "translation": "'أوه. أنا جين ستيوارت. أنا معلمة."
+    },
+    {
+      "id": 231,
+      "text": "I work in a school across the sea.",
+      "translation": "أعمل في مدرسة عبر البحر."
+    },
+    {
+      "id": 232,
+      "text": "Today is a holiday and the school is closed.",
+      "translation": "اليوم عطلة والمدرسة مغلقة."
+    },
+    {
+      "id": 233,
+      "text": "I came here in my boat.",
+      "translation": "جئت إلى هنا في قاربي."
+    },
+    {
+      "id": 234,
+      "text": "I wanted to paint your island.",
+      "translation": "أردت رسم جزيرتك."
+    },
+    {
+      "id": 235,
+      "text": "The light is very good and the colours are very beautiful.",
+      "translation": "الإضاءة جيدة جداً والألوان جميلة جداً."
+    },
+    {
+      "id": 236,
+      "text": "I can paint good pictures here.'",
+      "translation": "يمكنني رسم لوحات جيدة هنا.'"
+    },
+    {
+      "id": 237,
+      "text": "Duncan looks at Jean's picture.",
+      "translation": "ينظر دنكان إلى لوحة جين."
+    },
+    {
+      "id": 238,
+      "text": "'Yes,' he says.",
+      "translation": "'نعم،' يقول."
+    },
+    {
+      "id": 239,
+      "text": "'Your picture is very good.'",
+      "translation": "'لوحتك جيدة جداً.'"
+    },
+    {
+      "id": 240,
+      "text": "'Thank you,' Jean says.",
+      "translation": "'شكراً لك،' تقول جين."
+    },
+    {
+      "id": 241,
+      "text": "Duncan and Jean talk for a long time.",
+      "translation": "يتحدث دنكان وجين لفترة طويلة."
+    },
+    {
+      "id": 242,
+      "text": "'Where do you live?' Jean asks.",
+      "translation": "'أين تعيش؟' تسأل جين."
+    },
+    {
+      "id": 243,
+      "text": "'I live in a castle,' Duncan says.",
+      "translation": "'أعيش في قلعة،' يقول دنكان."
+    },
+    {
+      "id": 244,
+      "text": "'Come and see it.'",
+      "translation": "'تعالي لرؤيتها.'"
+    },
+    {
+      "id": 245,
+      "text": "Duncan, Jean and Jock go to the castle.",
+      "translation": "يذهب دنكان وجين وجوك إلى القلعة."
+    },
+    {
+      "id": 246,
+      "text": "'Your castle is beautiful,' Jean says.",
+      "translation": "'قلعتك جميلة،' تقول جين."
+    },
+    {
+      "id": 247,
+      "text": "'Yes,' Duncan says.",
+      "translation": "'نعم،' يقول دنكان."
+    },
+    {
+      "id": 248,
+      "text": "'But it's very cold and dark.",
+      "translation": "'لكنها باردة ومظلمة جداً."
+    },
+    {
+      "id": 249,
+      "text": "There's no electricity.",
+      "translation": "لا توجد كهرباء."
+    },
+    {
+      "id": 250,
+      "text": "I have no money.",
+      "translation": "ليس لدي مال."
+    },
+    {
+      "id": 251,
+      "text": "I love my island very much.",
+      "translation": "أحب جزيرتي كثيراً."
+    },
+    {
+      "id": 252,
+      "text": "But I can't make money from it.'",
+      "translation": "لكن لا يمكنني كسب المال منها.'"
+    },
+    {
+      "id": 253,
+      "text": "Jean looks at the castle.",
+      "translation": "تنظر جين إلى القلعة."
+    },
+    {
+      "id": 254,
+      "text": "Suddenly she says, 'Yes, you can!'",
+      "translation": "فجأة تقول: 'نعم، يمكنك!'"
+    },
+    {
+      "id": 255,
+      "text": "'How?' Duncan asks.",
+      "translation": "'كيف؟' يسأل دنكان."
+    },
+    {
+      "id": 256,
+      "text": "'People can come here for holidays,' Jean says.",
+      "translation": "'يمكن للناس القدوم إلى هنا لقضاء العطلات،' تقول جين."
+    },
+    {
+      "id": 257,
+      "text": "'They can paint pictures of your island.",
+      "translation": "'يمكنهم رسم لوحات لجزيرتك."
+    },
+    {
+      "id": 258,
+      "text": "I can teach them.",
+      "translation": "يمكنني تعليمهم."
+    },
+    {
+      "id": 259,
+      "text": "And they can stay in your castle.",
+      "translation": "ويمكنهم الإقامة في قلعتك."
+    },
+    {
+      "id": 260,
+      "text": "We can make a lot of money!'",
+      "translation": "يمكننا كسب الكثير من المال!'"
+    },
+    {
+      "id": 261,
+      "text": "Duncan looks at Jock.",
+      "translation": "ينظر دنكان إلى جوك."
+    },
+    {
+      "id": 262,
+      "text": "Jock looks at Duncan.",
+      "translation": "ينظر جوك إلى دنكان."
+    },
+    {
+      "id": 263,
+      "text": "'You're right!' Duncan says.",
+      "translation": "'أنت على حق!' يقول دنكان."
+    },
+    {
+      "id": 264,
+      "text": "Now McTavish Painting Holidays are very famous.",
+      "translation": "الآن أصبحت عطلات الرسم في ماكتافيش شهيرة جداً."
+    },
+    {
+      "id": 265,
+      "text": "Every year many visitors come to the island.",
+      "translation": "كل عام يأتي العديد من الزوار إلى الجزيرة."
+    },
+    {
+      "id": 266,
+      "text": "They stay in the castle.",
+      "translation": "يقيمون في القلعة."
+    },
+    {
+      "id": 267,
+      "text": "They go for walks and paint beautiful pictures.",
+      "translation": "يذهبون في نزهات ويرسمون لوحات جميلة."
+    },
+    {
+      "id": 268,
+      "text": "They take their pictures back to their homes.",
+      "translation": "يأخذون لوحاتهم إلى منازلهم."
+    },
+    {
+      "id": 269,
+      "text": "The rooms in the castle aren't cold and dark now.",
+      "translation": "لم تعد الغرف في القلعة باردة ومظلمة الآن."
+    },
+    {
+      "id": 270,
+      "text": "Duncan and Jean have a lot of money.",
+      "translation": "دنكان وجين لديهما الكثير من المال."
+    },
+    {
+      "id": 271,
+      "text": "There is no problem with the electricity company.",
+      "translation": "لا توجد مشكلة مع شركة الكهرباء."
+    },
+    {
+      "id": 272,
+      "text": "And Jean makes very good food.",
+      "translation": "وجين تعد طعاماً جيداً جداً."
+    },
+    {
+      "id": 273,
+      "text": "The visitors are very happy.",
+      "translation": "الزوار سعداء جداً."
+    },
+    {
+      "id": 274,
+      "text": "Duncan and Jean are married now.",
+      "translation": "دنكان وجين متزوجان الآن."
+    },
+    {
+      "id": 275,
+      "text": "They have two children - a boy and a girl.",
+      "translation": "لديهما طفلان - صبي وفتاة."
+    },
+    {
+      "id": 276,
+      "text": "Jock loves playing with the children.",
+      "translation": "يحب جوك اللعب مع الأطفال."
+    },
+    {
+      "id": 277,
+      "text": "Duncan often sits in his little boat.",
+      "translation": "غالباً ما يجلس دنكان في قاربه الصغير."
+    },
+    {
+      "id": 278,
+      "text": "Sometimes he catches a fish, but usually he sleeps.",
+      "translation": "أحياناً يصطاد سمكة، لكنه عادةً ينام."
+    },
+    {
+      "id": 279,
+      "text": "He's a happy man.",
+      "translation": "إنه رجل سعيد."
+    },
+    {
+      "id": 280,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 281,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 282,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
