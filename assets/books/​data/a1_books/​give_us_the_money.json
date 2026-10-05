@@ -2,13 +2,707 @@
   "id": "a1_give_us_the_money",
   "title": "Give Us the Money",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Give_Us_the_Money-Clarke.mp3",
+  "audio_url": "assets/books/audio/a1_books/Give_Us_the_Money.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Two men demanded the bag immediately.",
-      "translation": "طالب رجلان بالحقيبة فوراً."
+      "id": 1,
+      "text": "Give us the Money",
+      "translation": "أعطونا المال"
+    },
+    {
+      "id": 2,
+      "text": "He's fast. He's strong.",
+      "translation": "إنه سريع. إنه قوي."
+    },
+    {
+      "id": 3,
+      "text": "'Good work, James Bond!'",
+      "translation": "'عمل جيد، جيمس بوند!'"
+    },
+    {
+      "id": 4,
+      "text": "Ring!",
+      "translation": "رن!"
+    },
+    {
+      "id": 5,
+      "text": "'What a nice dream!'",
+      "translation": "'يا له من حلم جميل!'"
+    },
+    {
+      "id": 6,
+      "text": "'One more boring Monday at the bank.'",
+      "translation": "'يوم اثنين ممل آخر في البنك.'"
+    },
+    {
+      "id": 7,
+      "text": "Adam Gray works in a bank.",
+      "translation": "يعمل آدم غراي في بنك."
+    },
+    {
+      "id": 8,
+      "text": "He doesn't like his job and he doesn't like Mr Smith, his boss.",
+      "translation": "إنه لا يحب وظيفته ولا يحب السيد سميث، مديره."
+    },
+    {
+      "id": 9,
+      "text": "'I must go. I don't want to be late for work.'",
+      "translation": "'يجب أن أذهب. لا أريد أن أتأخر عن العمل.'"
+    },
+    {
+      "id": 10,
+      "text": "'Every day is the same. Nothing exciting ever happens to me.'",
+      "translation": "'كل يوم هو نفسه. لا شيء مثير يحدث لي أبداً.'"
+    },
+    {
+      "id": 11,
+      "text": "'Morning, Adam.'",
+      "translation": "'صباح الخير يا آدم.'"
+    },
+    {
+      "id": 12,
+      "text": "'Morning, Mrs B.' Now she says, 'Your horoscope for today.'",
+      "translation": "'صباح الخير يا سيدة بي.' الآن تقول، 'برجك لهذا اليوم.'"
+    },
+    {
+      "id": 13,
+      "text": "'Your horoscope for today. Libra. Do something different today.'",
+      "translation": "'برجك لهذا اليوم. الميزان. افعل شيئاً مختلفاً اليوم.'"
+    },
+    {
+      "id": 14,
+      "text": "It's not true. 'Thanks, Mrs B. Bye.'",
+      "translation": "هذا ليس صحيحاً. 'شكراً يا سيدة بي. وداعاً.'"
+    },
+    {
+      "id": 15,
+      "text": "'Usually, I go left...'",
+      "translation": "'عادةً، أذهب يساراً...'"
+    },
+    {
+      "id": 16,
+      "text": "'Do something different today.'",
+      "translation": "'افعل شيئاً مختلفاً اليوم.'"
+    },
+    {
+      "id": 17,
+      "text": "He goes right and walks through the park. Suddenly...",
+      "translation": "يذهب يميناً ويمشي عبر الحديقة. فجأة..."
+    },
+    {
+      "id": 18,
+      "text": "'What's happening?'",
+      "translation": "'ماذا يحدث؟'"
+    },
+    {
+      "id": 19,
+      "text": "'Help!'",
+      "translation": "'النجدة!'"
+    },
+    {
+      "id": 20,
+      "text": "'Stop that!'",
+      "translation": "'توقف عن ذلك!'"
+    },
+    {
+      "id": 21,
+      "text": "'Come on. Run!'",
+      "translation": "'هيا. اركض!'"
+    },
+    {
+      "id": 22,
+      "text": "'Who's he?'",
+      "translation": "'من هو؟'"
+    },
+    {
+      "id": 23,
+      "text": "'We don't know.'",
+      "translation": "'لا نعرفه.'"
+    },
+    {
+      "id": 24,
+      "text": "'Cut!'",
+      "translation": "'توقف!'"
+    },
+    {
+      "id": 25,
+      "text": "At the same time...",
+      "translation": "في نفس الوقت..."
+    },
+    {
+      "id": 26,
+      "text": "'Nobody move!'",
+      "translation": "'لا يتحرك أحد!'"
+    },
+    {
+      "id": 27,
+      "text": "'Give us the money!'",
+      "translation": "'أعطونا المال!'"
+    },
+    {
+      "id": 28,
+      "text": "'Come on! We want to leave. The police are coming!'",
+      "translation": "'هيا! نريد المغادرة. الشرطة قادمة!'"
+    },
+    {
+      "id": 29,
+      "text": "Thump! Ouch!",
+      "translation": "طرق! آخ!"
+    },
+    {
+      "id": 30,
+      "text": "'Come on! Move!'",
+      "translation": "'هيا! تحرك!'"
+    },
+    {
+      "id": 31,
+      "text": "'Sorry.'",
+      "translation": "'آسف.'"
+    },
+    {
+      "id": 32,
+      "text": "'I know that voice, I think.'",
+      "translation": "'أعرف هذا الصوت، على ما أعتقد.'"
+    },
+    {
+      "id": 33,
+      "text": "'Police. Help!'",
+      "translation": "'الشرطة. النجدة!'"
+    },
+    {
+      "id": 34,
+      "text": "Screech.",
+      "translation": "صرير."
+    },
+    {
+      "id": 35,
+      "text": "'Quick! Run, before they see us.'",
+      "translation": "'بسرعة! اركضوا، قبل أن يرونا.'"
+    },
+    {
+      "id": 36,
+      "text": "'Stop! I don't need your help.'",
+      "translation": "'توقف! لا أحتاج مساعدتك.'"
+    },
+    {
+      "id": 37,
+      "text": "'You don't understand. My name is Serena Silver. I'm an actor.'",
+      "translation": "'أنت لا تفهم. اسمي سيرينا سيلفر. أنا ممثلة.'"
+    },
+    {
+      "id": 38,
+      "text": "'And the men with you. Who are they?'",
+      "translation": "'والرجال معك. من هم؟'"
+    },
+    {
+      "id": 39,
+      "text": "'Actors.'",
+      "translation": "'ممثلون.'"
+    },
+    {
+      "id": 40,
+      "text": "'There's no money in the rucksack. Just newspaper. Look.'",
+      "translation": "'لا يوجد مال في حقيبة الظهر. مجرد صحف. انظر.'"
+    },
+    {
+      "id": 41,
+      "text": "At the same time...",
+      "translation": "في نفس الوقت..."
+    },
+    {
+      "id": 42,
+      "text": "'How much money have we got?'",
+      "translation": "'كم من المال لدينا؟'"
+    },
+    {
+      "id": 43,
+      "text": "'Lots.'",
+      "translation": "'الكثير.'"
+    },
+    {
+      "id": 44,
+      "text": "'I want to see.'",
+      "translation": "'أريد أن أرى.'"
+    },
+    {
+      "id": 45,
+      "text": "'But they get a big surprise.'",
+      "translation": "'لكنهم يحصلون على مفاجأة كبيرة.'"
+    },
+    {
+      "id": 46,
+      "text": "'What's this?'",
+      "translation": "'ما هذا؟'"
+    },
+    {
+      "id": 47,
+      "text": "'This is newspaper! Where's our money?'",
+      "translation": "'هذه صحيفة! أين أموالنا؟'"
+    },
+    {
+      "id": 48,
+      "text": "'This is bad!'",
+      "translation": "'هذا سيء!'"
+    },
+    {
+      "id": 49,
+      "text": "'That man has our rucksack!'",
+      "translation": "'ذلك الرجل لديه حقيبة ظهرنا!'"
+    },
+    {
+      "id": 50,
+      "text": "'And our money!'",
+      "translation": "'ومالنا!'"
+    },
+    {
+      "id": 51,
+      "text": "'The dirty thief!'",
+      "translation": "'السارق القذر!'"
+    },
+    {
+      "id": 52,
+      "text": "'We must get our money back.'",
+      "translation": "'يجب أن نستعيد أموالنا.'"
+    },
+    {
+      "id": 53,
+      "text": "'This isn't newspaper.'",
+      "translation": "'هذه ليست صحيفة.'"
+    },
+    {
+      "id": 54,
+      "text": "'I don't understand anything.'",
+      "translation": "'أنا لا أفهم أي شيء.'"
+    },
+    {
+      "id": 55,
+      "text": "Suddenly...",
+      "translation": "فجأة..."
+    },
+    {
+      "id": 56,
+      "text": "'Are those men actors?'",
+      "translation": "'هل هؤلاء الرجال ممثلون؟'"
+    },
+    {
+      "id": 57,
+      "text": "'No, they're not. And that gun is real. Run!'",
+      "translation": "'لا، ليسوا كذلك. وهذا المسدس حقيقي. اركض!'"
+    },
+    {
+      "id": 58,
+      "text": "'Why are you waiting? Move!'",
+      "translation": "'لماذا تنتظرون؟ تحركوا!'"
+    },
+    {
+      "id": 59,
+      "text": "'Stop, you dirty thieves. Or I shoot.'",
+      "translation": "'توقفوا يا لصوص القذرة. أو سأطلق النار.'"
+    },
+    {
+      "id": 60,
+      "text": "'Run!'",
+      "translation": "'اركض!'"
+    },
+    {
+      "id": 61,
+      "text": "But Adam and Serena don't stoop.",
+      "translation": "لكن آدم وسيرينا لا ينحنيان."
+    },
+    {
+      "id": 62,
+      "text": "'My car is near here. Come with me.'",
+      "translation": "'سيارتي قريبة من هنا. تعالوا معي.'"
+    },
+    {
+      "id": 63,
+      "text": "'Where are we going?'",
+      "translation": "'إلى أين نحن ذاهبون؟'"
+    },
+    {
+      "id": 64,
+      "text": "'To the film set.'",
+      "translation": "'إلى موقع التصوير.'"
+    },
+    {
+      "id": 65,
+      "text": "'Oh no! They're close behind us.'",
+      "translation": "'أوه لا! إنهم خلفنا مباشرة.'"
+    },
+    {
+      "id": 66,
+      "text": "'You must drive more quickly.'",
+      "translation": "'يجب أن تقود بسرعة أكبر.'"
+    },
+    {
+      "id": 67,
+      "text": "'I've got an idea.'",
+      "translation": "'لدي فكرة.'"
+    },
+    {
+      "id": 68,
+      "text": "'Have you got a mobile phone?'",
+      "translation": "'هل لديك هاتف محمول؟'"
+    },
+    {
+      "id": 69,
+      "text": "'Yes. Why?'",
+      "translation": "'نعم. لماذا؟'"
+    },
+    {
+      "id": 70,
+      "text": "'Don't ask questions. Dial 0743 2689. Quick!'",
+      "translation": "'لا تطرح أسئلة. اتصل بـ 0743 2689. بسرعة!'"
+    },
+    {
+      "id": 71,
+      "text": "'Please help us.'",
+      "translation": "'من فضلك ساعدنا.'"
+    },
+    {
+      "id": 72,
+      "text": "'Where are you?'",
+      "translation": "'أين أنتم؟'"
+    },
+    {
+      "id": 73,
+      "text": "'On the bridge near the airport.'",
+      "translation": "'على الجسر بالقرب من المطار.'"
+    },
+    {
+      "id": 74,
+      "text": "'Bring the cameras and film and everything.'",
+      "translation": "'أحضر الكاميرات والفيلم وكل شيء.'"
+    },
+    {
+      "id": 75,
+      "text": "'Drive to the airport at once. We can stop them there.'",
+      "translation": "'اقصد المطار فوراً. يمكننا إيقافهم هناك.'"
+    },
+    {
+      "id": 76,
+      "text": "'This is wonderful. My film can make a lot of money.'",
+      "translation": "'هذا رائع. فيلمي يمكن أن يجني الكثير من المال.'"
+    },
+    {
+      "id": 77,
+      "text": "Hiccup!",
+      "translation": "حازوقة!"
+    },
+    {
+      "id": 78,
+      "text": "'What's happening?'",
+      "translation": "'ماذا يحدث؟'"
+    },
+    {
+      "id": 79,
+      "text": "'There's no more petrol.'",
+      "translation": "'لم يعد هناك بنزين.'"
+    },
+    {
+      "id": 80,
+      "text": "'Oh, no. I'm very afraid.'",
+      "translation": "'أوه، لا. أنا خائف جداً.'"
+    },
+    {
+      "id": 81,
+      "text": "'Look, boss. They're stopping.'",
+      "translation": "'انظر يا رئيس. إنهم يتوقفون.'"
+    },
+    {
+      "id": 82,
+      "text": "'Let's get them - they've got my money!'",
+      "translation": "'لنمسك بهم - لقد حصلوا على أموالي!'"
+    },
+    {
+      "id": 83,
+      "text": "'What can we do now?'",
+      "translation": "'ماذا يمكننا أن نفعل الآن؟'"
+    },
+    {
+      "id": 84,
+      "text": "'I've got a second idea. Where's the gun?'",
+      "translation": "'لدي فكرة ثانية. أين المسدس؟'"
+    },
+    {
+      "id": 85,
+      "text": "'But - it's a water gun.'",
+      "translation": "'لكن - إنه مسدس ماء.'"
+    },
+    {
+      "id": 86,
+      "text": "'Yes, but the thieves don't know.'",
+      "translation": "'نعم، لكن اللصوص لا يعرفون.'"
+    },
+    {
+      "id": 87,
+      "text": "'And it's leaking!'",
+      "translation": "'وهو يرشح!'"
+    },
+    {
+      "id": 88,
+      "text": "'I don't want to be James Bond now.'",
+      "translation": "'لا أريد أن أكون جيمس بوند الآن.'"
+    },
+    {
+      "id": 89,
+      "text": "'Oh, no!'",
+      "translation": "'أوه، لا!'"
+    },
+    {
+      "id": 90,
+      "text": "'Get out of the car. With your hands up.'",
+      "translation": "'اخرجوا من السيارة. أيديكم مرفوعة.'"
+    },
+    {
+      "id": 91,
+      "text": "'And the girl. With the rucksack.'",
+      "translation": "'والفتاة. مع حقيبة الظهر.'"
+    },
+    {
+      "id": 92,
+      "text": "'I know that voice.'",
+      "translation": "'أعرف هذا الصوت.'"
+    },
+    {
+      "id": 93,
+      "text": "'Bring it to me. Slowly!'",
+      "translation": "'أحضرها لي. ببطء!'"
+    },
+    {
+      "id": 94,
+      "text": "'Is it Mr Smith, my boss?'",
+      "translation": "'هل هو السيد سميث، مديري؟'"
+    },
+    {
+      "id": 95,
+      "text": "'No, it can't be. He's on holiday.'",
+      "translation": "'لا، لا يمكن أن يكون. إنه في عطلة.'"
+    },
+    {
+      "id": 96,
+      "text": "'Don't hurt me, please.'",
+      "translation": "'لا تؤذيني، من فضلك.'"
+    },
+    {
+      "id": 97,
+      "text": "'Is the money in the rucksack?'",
+      "translation": "'هل المال في حقيبة الظهر؟'"
+    },
+    {
+      "id": 98,
+      "text": "'It's our rucksack, boss.'",
+      "translation": "'إنها حقيبة ظهرنا يا رئيس.'"
+    },
+    {
+      "id": 99,
+      "text": "'What a lot of money!'",
+      "translation": "'يا لكثرة المال!'"
+    },
+    {
+      "id": 100,
+      "text": "'Don't be greedy. Leave some for me.'",
+      "translation": "'لا تكن جشعاً. اترك بعضاً لي.'"
+    },
+    {
+      "id": 101,
+      "text": "'Excellent!'",
+      "translation": "'ممتاز!'"
+    },
+    {
+      "id": 102,
+      "text": "'I've got the water gun.'",
+      "translation": "'لدي مسدس الماء.'"
+    },
+    {
+      "id": 103,
+      "text": "'Take the money and leave the girl. I've got a gun, too.'",
+      "translation": "'خذ المال واترك الفتاة. لدي مسدس أيضاً.'"
+    },
+    {
+      "id": 104,
+      "text": "'Yes, you have. And it's leaking, Mr Gray.'",
+      "translation": "'نعم، لديك. وهو يرشح يا سيد غراي.'"
+    },
+    {
+      "id": 105,
+      "text": "'Mr Smith? But you're on holiday!'",
+      "translation": "'سيد سميث؟ لكنك في عطلة!'"
+    },
+    {
+      "id": 106,
+      "text": "'Soon. Very soon. With this money I can go on a very long holiday.'",
+      "translation": "'قريباً. قريباً جداً. بهذا المال يمكنني الذهاب في عطلة طويلة جداً.'"
+    },
+    {
+      "id": 107,
+      "text": "'Now that you know who I am, I must kill you and your friend.'",
+      "translation": "'الآن بعد أن عرفتم من أنا، يجب أن أقتلكم أنتم وصديقكم.'"
+    },
+    {
+      "id": 108,
+      "text": "'There are police everywhere. Put your guns down.'",
+      "translation": "'هناك شرطة في كل مكان. ضعوا أسلحتكم أرضاً.'"
+    },
+    {
+      "id": 109,
+      "text": "'This is wonderful. Don't stop filming.'",
+      "translation": "'هذا رائع. لا تتوقفوا عن التصوير.'"
+    },
+    {
+      "id": 110,
+      "text": "'What are you doing?'",
+      "translation": "'ماذا تفعل؟'"
+    },
+    {
+      "id": 111,
+      "text": "'I can't see anything now!'",
+      "translation": "'لا أستطيع رؤية أي شيء الآن!'"
+    },
+    {
+      "id": 112,
+      "text": "Ouch!",
+      "translation": "آخ!"
+    },
+    {
+      "id": 113,
+      "text": "'Stop!'",
+      "translation": "'توقف!'"
+    },
+    {
+      "id": 114,
+      "text": "'Oh, no!'",
+      "translation": "'أوه، لا!'"
+    },
+    {
+      "id": 115,
+      "text": "'Now I've got the gun. Listen to the police.'",
+      "translation": "'الآن لدي المسدس. استمعوا إلى الشرطة.'"
+    },
+    {
+      "id": 116,
+      "text": "'Quick, Adam! Your tie!'",
+      "translation": "'بسرعة يا آدم! ربطة عنقك!'"
+    },
+    {
+      "id": 117,
+      "text": "'What?'",
+      "translation": "'ماذا؟'"
+    },
+    {
+      "id": 118,
+      "text": "'Tie his hands.'",
+      "translation": "'اربط يديه.'"
+    },
+    {
+      "id": 119,
+      "text": "'Mr Gray, you're late for work!'",
+      "translation": "'سيد غراي، أنت متأخر عن العمل!'"
+    },
+    {
+      "id": 120,
+      "text": "'You can get up now, Miss.'",
+      "translation": "'يمكنك النهوض الآن يا آنسة.'"
+    },
+    {
+      "id": 121,
+      "text": "'I want my money!'",
+      "translation": "'أريد أموالي!'"
+    },
+    {
+      "id": 122,
+      "text": "'Cut! Very good, everybody.'",
+      "translation": "'توقف! جيد جداً، جميعاً.'"
+    },
+    {
+      "id": 123,
+      "text": "'Oh no!'",
+      "translation": "'أوه لا!'"
+    },
+    {
+      "id": 124,
+      "text": "'What's the matter?'",
+      "translation": "'ما الأمر؟'"
+    },
+    {
+      "id": 125,
+      "text": "'Mr Smith is right. I am late for work!'",
+      "translation": "'السيد سميث محق. أنا متأخر عن العمل!'"
+    },
+    {
+      "id": 126,
+      "text": "Ha, ha, ha!",
+      "translation": "ها، ها، ها!"
+    },
+    {
+      "id": 127,
+      "text": "'You're three hours late!'",
+      "translation": "'أنت متأخر ثلاث ساعات!'"
+    },
+    {
+      "id": 128,
+      "text": "'But...'",
+      "translation": "'لكن...'"
+    },
+    {
+      "id": 129,
+      "text": "'I don't want to hear anything. Leave this bank at once.'",
+      "translation": "'لا أريد سماع أي شيء. اترك هذا البنك فوراً.'"
+    },
+    {
+      "id": 130,
+      "text": "'But I've got the bank's money.'",
+      "translation": "'لكن لدي أموال البنك.'"
+    },
+    {
+      "id": 131,
+      "text": "'It's true.'",
+      "translation": "'هذا صحيح.'"
+    },
+    {
+      "id": 132,
+      "text": "'Say 'please.''",
+      "translation": "'قل 'من فضلك'.''"
+    },
+    {
+      "id": 133,
+      "text": "'Please.'",
+      "translation": "'من فضلك.'"
+    },
+    {
+      "id": 134,
+      "text": "'It doesn't matter, Adam. I've got a new job for you. Would you like to be in my film?'",
+      "translation": "'لا يهم يا آدم. لدي وظيفة جديدة لك. هل ترغب في أن تكون في فيلمي؟'"
+    },
+    {
+      "id": 135,
+      "text": "'Now I'm here, Serena. Nobody can hurt you.'",
+      "translation": "'الآن أنا هنا يا سيرينا. لا أحد يمكنه إيذاؤك.'"
+    },
+    {
+      "id": 136,
+      "text": "'Yes, please!'",
+      "translation": "'نعم، من فضلك!'"
+    },
+    {
+      "id": 137,
+      "text": "'I want you to be - a bank robber!'",
+      "translation": "'أريدك أن تكون - سارق بنك!'"
+    },
+    {
+      "id": 138,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 139,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 140,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
