@@ -2,13 +2,647 @@
   "id": "a1_in_the_mountains",
   "title": "In the Mountains",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/In_the_mountains-Richard_Northcott.mp3",
+  "audio_url": "assets/books/audio/a1_books/In_the_Mountains-Richard_Northcott.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "The mountain air is cold and fresh.",
-      "translation": "هواء الجبل بارد ومنعش."
+      "id": 1,
+      "text": "In the Mountains",
+      "translation": "في الجبال"
+    },
+    {
+      "id": 2,
+      "text": "Richard Northcott",
+      "translation": "ريتشارد نورثكوت"
+    },
+    {
+      "id": 3,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 4,
+      "text": "Mountains",
+      "translation": "الجبال"
+    },
+    {
+      "id": 5,
+      "text": "Mountains are high places on Earth.",
+      "translation": "الجبال هي أماكن مرتفعة على الأرض."
+    },
+    {
+      "id": 6,
+      "text": "Earth has a crust.",
+      "translation": "الأرض لها قشرة."
+    },
+    {
+      "id": 7,
+      "text": "Earth's crust moves very, very slowly.",
+      "translation": "تتحرك قشرة الأرض ببطء شديد جداً."
+    },
+    {
+      "id": 8,
+      "text": "It can move up and make mountains.",
+      "translation": "يمكنها أن تتحرك لأعلى وتشكل جبالاً."
+    },
+    {
+      "id": 9,
+      "text": "Mountains are very high.",
+      "translation": "الجبال مرتفعة جداً."
+    },
+    {
+      "id": 10,
+      "text": "Mount Everest is about 8,850 meters high.",
+      "translation": "يبلغ ارتفاع جبل إيفرست حوالي 8,850 متراً."
+    },
+    {
+      "id": 11,
+      "text": "Mountains are very old, too.",
+      "translation": "الجبال قديمة جداً أيضاً."
+    },
+    {
+      "id": 12,
+      "text": "Some mountains are millions of years old.",
+      "translation": "بعض الجبال عمرها ملايين السنين."
+    },
+    {
+      "id": 13,
+      "text": "Volcanoes are mountains.",
+      "translation": "البراكين هي جبال."
+    },
+    {
+      "id": 14,
+      "text": "A volcano is a hole in Earth's crust.",
+      "translation": "البركان هو ثقب في قشرة الأرض."
+    },
+    {
+      "id": 15,
+      "text": "Under Earth's crust, there's hot rock.",
+      "translation": "تحت قشرة الأرض، يوجد صخر ساخن."
+    },
+    {
+      "id": 16,
+      "text": "The hot rock comes out of the volcano.",
+      "translation": "يخرج الصخر الساخن من البركان."
+    },
+    {
+      "id": 17,
+      "text": "Volcanoes can be dangerous.",
+      "translation": "يمكن أن تكون البراكين خطيرة."
+    },
+    {
+      "id": 18,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 19,
+      "text": "People",
+      "translation": "الناس"
+    },
+    {
+      "id": 20,
+      "text": "Living in the mountains can be difficult for people.",
+      "translation": "قد تكون الحياة في الجبال صعبة على الناس."
+    },
+    {
+      "id": 21,
+      "text": "High in the mountains, there aren't any big roads.",
+      "translation": "في أعالي الجبال، لا توجد أي طرق كبيرة."
+    },
+    {
+      "id": 22,
+      "text": "Some people don't have a car.",
+      "translation": "بعض الناس ليس لديهم سيارة."
+    },
+    {
+      "id": 23,
+      "text": "They use animals for transportation.",
+      "translation": "يستخدمون الحيوانات للنقل."
+    },
+    {
+      "id": 24,
+      "text": "High in the mountains, some people don't have electricity.",
+      "translation": "في أعالي الجبال، بعض الناس ليس لديهم كهرباء."
+    },
+    {
+      "id": 25,
+      "text": "Look at this house.",
+      "translation": "انظر إلى هذا المنزل."
+    },
+    {
+      "id": 26,
+      "text": "Now look at the mountains.",
+      "translation": "انظر الآن إلى الجبال."
+    },
+    {
+      "id": 27,
+      "text": "They are the same color.",
+      "translation": "إنهما بنفس اللون."
+    },
+    {
+      "id": 28,
+      "text": "People use rocks from the mountains to make their homes.",
+      "translation": "يستخدم الناس صخوراً من الجبال لبناء منازلهم."
+    },
+    {
+      "id": 29,
+      "text": "In the mountains, people grow food near their homes.",
+      "translation": "في الجبال، يزرع الناس الطعام بالقرب من منازلهم."
+    },
+    {
+      "id": 30,
+      "text": "Some people make terraces and they grow food there.",
+      "translation": "يبني بعض الناس مصاطب ويزرعون الطعام هناك."
+    },
+    {
+      "id": 31,
+      "text": "On some terraces, there's lots of water.",
+      "translation": "في بعض المصاطب، هناك الكثير من الماء."
+    },
+    {
+      "id": 32,
+      "text": "People grow rice in the water.",
+      "translation": "يزرع الناس الأرز في الماء."
+    },
+    {
+      "id": 33,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 34,
+      "text": "Animals",
+      "translation": "الحيوانات"
+    },
+    {
+      "id": 35,
+      "text": "In the mountains, you can see amazing animals.",
+      "translation": "في الجبال، يمكنك رؤية حيوانات مذهلة."
+    },
+    {
+      "id": 36,
+      "text": "Golden eagles live in the mountains in Asia, North America, Africa, and Europe.",
+      "translation": "تعيش النسور الذهبية في جبال آسيا وأمريكا الشمالية وأفريقيا وأوروبا."
+    },
+    {
+      "id": 37,
+      "text": "They make nests on high rocks.",
+      "translation": "يبنيان أعشاشهما على صخور عالية."
+    },
+    {
+      "id": 38,
+      "text": "Golden eagles have big wings.",
+      "translation": "النسور الذهبية لها أجنحة كبيرة."
+    },
+    {
+      "id": 39,
+      "text": "They can fly very high.",
+      "translation": "يمكنها الطيران عالياً جداً."
+    },
+    {
+      "id": 40,
+      "text": "They can see very well, too.",
+      "translation": "يمكنها الرؤية جيداً جداً أيضاً."
+    },
+    {
+      "id": 41,
+      "text": "They eat small animals.",
+      "translation": "تأكل الحيوانات الصغيرة."
+    },
+    {
+      "id": 42,
+      "text": "From high in the sky, they can see small animals on the ground.",
+      "translation": "من أعالي السماء، يمكنها رؤية الحيوانات الصغيرة على الأرض."
+    },
+    {
+      "id": 43,
+      "text": "Many mountain animals have thick fur.",
+      "translation": "العديد من حيوانات الجبال لديها فرو سميك."
+    },
+    {
+      "id": 44,
+      "text": "Their fur helps them to stay warm.",
+      "translation": "يساعدها فروها على البقاء دافئة."
+    },
+    {
+      "id": 45,
+      "text": "Snow leopards live in the mountains in Asia.",
+      "translation": "تعيش نمور الثلوج في جبال آسيا."
+    },
+    {
+      "id": 46,
+      "text": "They have big paws with lots of fur.",
+      "translation": "لديها أقدام كبيرة بها الكثير من الفرو."
+    },
+    {
+      "id": 47,
+      "text": "This fur helps them to walk on snow and ice.",
+      "translation": "يساعدها هذا الفرو على المشي على الثلج والجليد."
+    },
+    {
+      "id": 48,
+      "text": "Alpacas live in the mountains in South America.",
+      "translation": "تعيش الألبكة في جبال أمريكا الجنوبية."
+    },
+    {
+      "id": 49,
+      "text": "Some alpacas have very thick fur!",
+      "translation": "بعض حيوانات الألبكة لديها فرو سميك جداً!"
+    },
+    {
+      "id": 50,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 51,
+      "text": "Plants",
+      "translation": "النباتات"
+    },
+    {
+      "id": 52,
+      "text": "Conifers are a type of tree.",
+      "translation": "الصنوبريات هي نوع من الأشجار."
+    },
+    {
+      "id": 53,
+      "text": "Conifers don't have big leaves.",
+      "translation": "الصنوبريات ليس لديها أوراق كبيرة."
+    },
+    {
+      "id": 54,
+      "text": "They have small needles.",
+      "translation": "لديها إبر صغيرة."
+    },
+    {
+      "id": 55,
+      "text": "On some snowy mountains, there are lots of conifers.",
+      "translation": "في بعض الجبال الثلجية، هناك الكثير من الصنوبريات."
+    },
+    {
+      "id": 56,
+      "text": "Conifers can grow in cold places.",
+      "translation": "يمكن للصنوبريات النمو في الأماكن الباردة."
+    },
+    {
+      "id": 57,
+      "text": "Very high in the mountains, it's very cold and windy.",
+      "translation": "في أعالي الجبال، الجو بارد جداً وعاصف."
+    },
+    {
+      "id": 58,
+      "text": "Trees can't live there.",
+      "translation": "لا يمكن للأشجار العيش هناك."
+    },
+    {
+      "id": 59,
+      "text": "Some plants can live very high in the mountains, but they are small.",
+      "translation": "يمكن لبعض النباتات العيش في أعالي الجبال، لكنها صغيرة."
+    },
+    {
+      "id": 60,
+      "text": "There isn't much rain, so the plants have long roots.",
+      "translation": "لا يوجد الكثير من المطر، لذا فإن للنباتات جذوراً طويلة."
+    },
+    {
+      "id": 61,
+      "text": "The roots find water under the ground.",
+      "translation": "تجد الجذور الماء تحت الأرض."
+    },
+    {
+      "id": 62,
+      "text": "Some mountain plants make strong buds.",
+      "translation": "تنتج بعض نباتات الجبال براعم قوية."
+    },
+    {
+      "id": 63,
+      "text": "The buds can stay under the snow in winter.",
+      "translation": "يمكن للبراعم البقاء تحت الثلج في الشتاء."
+    },
+    {
+      "id": 64,
+      "text": "After the winter, the buds come out of the snow.",
+      "translation": "بعد الشتاء، تخرج البراعم من الثلج."
+    },
+    {
+      "id": 65,
+      "text": "Then the buds open.",
+      "translation": "ثم تتفتح البراعم."
+    },
+    {
+      "id": 66,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 67,
+      "text": "Ice and Snow",
+      "translation": "الجليد والثلج"
+    },
+    {
+      "id": 68,
+      "text": "In the mountains, you can see rivers of ice!",
+      "translation": "في الجبال، يمكنك رؤية أنهار من الجليد!"
+    },
+    {
+      "id": 69,
+      "text": "A river of ice is called a glacier.",
+      "translation": "يسمى نهر الجليد بالنهر الجليدي (المثالج)."
+    },
+    {
+      "id": 70,
+      "text": "What makes a glacier?",
+      "translation": "ما الذي يصنع النهر الجليدي؟"
+    },
+    {
+      "id": 71,
+      "text": "In winter, lots of snow falls on the mountains.",
+      "translation": "في الشتاء، يتساقط الكثير من الثلج على الجبال."
+    },
+    {
+      "id": 72,
+      "text": "Then, new snow falls on the old snow and makes ice.",
+      "translation": "ثم يتساقط الثلج الجديد على الثلج القديم ويصنع الجليد."
+    },
+    {
+      "id": 73,
+      "text": "The ice moves down the mountain in a glacier.",
+      "translation": "يتحرك الجليد أسفل الجبل في نهر جليدي."
+    },
+    {
+      "id": 74,
+      "text": "Glaciers move very, very slowly.",
+      "translation": "تتحرك الأنهار الجليدية ببطء شديد جداً."
+    },
+    {
+      "id": 75,
+      "text": "In some glaciers, there are big crevasses.",
+      "translation": "في بعض الأنهار الجليدية، توجد شقوق كبيرة."
+    },
+    {
+      "id": 76,
+      "text": "Crevasses are holes in the ice.",
+      "translation": "الشقوق هي ثقوب في الجليد."
+    },
+    {
+      "id": 77,
+      "text": "Crevasses are dangerous.",
+      "translation": "الشقوق خطيرة."
+    },
+    {
+      "id": 78,
+      "text": "In snowy weather, people don't see a crevasse.",
+      "translation": "في الطقس الثلجي، لا يرى الناس الشق."
+    },
+    {
+      "id": 79,
+      "text": "Then they can fall in.",
+      "translation": "ثم يمكنهم السقوط فيه."
+    },
+    {
+      "id": 80,
+      "text": "Avalanches are dangerous, too.",
+      "translation": "الانهيارات الثلجية خطيرة أيضاً."
+    },
+    {
+      "id": 81,
+      "text": "In an avalanche, lots of snow falls from the mountain.",
+      "translation": "في الانهيار الثلجي، يتساقط الكثير من الثلج من الجبل."
+    },
+    {
+      "id": 82,
+      "text": "It can fall on people.",
+      "translation": "يمكن أن يسقط على الناس."
+    },
+    {
+      "id": 83,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 84,
+      "text": "Summer Sports",
+      "translation": "رياضات الصيف"
+    },
+    {
+      "id": 85,
+      "text": "In summer, some people climb mountains.",
+      "translation": "في الصيف، يتسلق بعض الناس الجبال."
+    },
+    {
+      "id": 86,
+      "text": "Climbers have a helmet and a rope.",
+      "translation": "لدى المتسلقين خوذة وحبل."
+    },
+    {
+      "id": 87,
+      "text": "Climbing is a difficult sport.",
+      "translation": "التسلق رياضة صعبة."
+    },
+    {
+      "id": 88,
+      "text": "Climbers have strong arms and legs.",
+      "translation": "لدى المتسلقين أذرع وأرجل قوية."
+    },
+    {
+      "id": 89,
+      "text": "Climbers find good rocks for their hands and feet.",
+      "translation": "يبحث المتسلقون عن صخور جيدة لأيديهم وأقدامهم."
+    },
+    {
+      "id": 90,
+      "text": "On some mountains, there's snow in summer!",
+      "translation": "في بعض الجبال، يوجد ثلج في الصيف!"
+    },
+    {
+      "id": 91,
+      "text": "Mountain biking is a summer sport.",
+      "translation": "ركوب الدراجات الجبلية هي رياضة صيفية."
+    },
+    {
+      "id": 92,
+      "text": "Mountain bikes have big, strong wheels.",
+      "translation": "الدراجات الجبلية لديها عجلات كبيرة وقوية."
+    },
+    {
+      "id": 93,
+      "text": "The wheels are good on rocks.",
+      "translation": "العجلات جيدة على الصخور."
+    },
+    {
+      "id": 94,
+      "text": "Rafting is a great summer sport.",
+      "translation": "التجديف بالقوارب المطاطية رياضة صيفية رائعة."
+    },
+    {
+      "id": 95,
+      "text": "For rafting, people have a helmet and a lifejacket.",
+      "translation": "للتجديف، يرتدي الناس خوذة وسترة نجاة."
+    },
+    {
+      "id": 96,
+      "text": "Rafts are very strong.",
+      "translation": "القوارب المطاطية قوية جداً."
+    },
+    {
+      "id": 97,
+      "text": "They can go over rocks in the water.",
+      "translation": "يمكنها المرور فوق الصخور في الماء."
+    },
+    {
+      "id": 98,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 99,
+      "text": "Winter Sports",
+      "translation": "رياضات الشتاء"
+    },
+    {
+      "id": 100,
+      "text": "Can you ski?",
+      "translation": "هل يمكنك التزلج؟"
+    },
+    {
+      "id": 101,
+      "text": "Lots of children go skiing in the mountains in winter.",
+      "translation": "يذهب الكثير من الأطفال للتزلج في الجبال في الشتاء."
+    },
+    {
+      "id": 102,
+      "text": "They go with their family or with their school.",
+      "translation": "يذهبون مع عائلاتهم أو مع مدرستهم."
+    },
+    {
+      "id": 103,
+      "text": "Snowboarding is a winter sport, too.",
+      "translation": "التزلج على الألواح رياضة شتوية أيضاً."
+    },
+    {
+      "id": 104,
+      "text": "Snowboarding is difficult.",
+      "translation": "التزلج على الألواح صعب."
+    },
+    {
+      "id": 105,
+      "text": "Snowboarders fall in the snow a lot.",
+      "translation": "يسقط المتزلجون على الألواح في الثلج كثيراً."
+    },
+    {
+      "id": 106,
+      "text": "Good snowboarders can do amazing tricks.",
+      "translation": "يمكن للمتزلجين الجيدين على الألواح أداء حيل مذهلة."
+    },
+    {
+      "id": 107,
+      "text": "Do you like walking in the mountains?",
+      "translation": "هل تحب المشي في الجبال؟"
+    },
+    {
+      "id": 108,
+      "text": "You can walk in snowshoes.",
+      "translation": "يمكنك المشي بأحذية الثلج."
+    },
+    {
+      "id": 109,
+      "text": "Snowshoes are big so you can walk on the snow.",
+      "translation": "أحذية الثلج كبيرة حتى تتمكن من المشي على الثلج."
+    },
+    {
+      "id": 110,
+      "text": "Sledding is a great sport.",
+      "translation": "التزلج على الزلاجات رياضة رائعة."
+    },
+    {
+      "id": 111,
+      "text": "You can go very fast on a sled.",
+      "translation": "يمكنك الذهاب بسرعة كبيرة على زلاجة."
+    },
+    {
+      "id": 112,
+      "text": "In the Olympic Games, sleds can go at 140 kilometers an hour!",
+      "translation": "في الألعاب الأولمبية، يمكن للزلاجات أن تسير بسرعة 140 كيلومتراً في الساعة!"
+    },
+    {
+      "id": 113,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 114,
+      "text": "Be Careful!",
+      "translation": "كن حذراً!"
+    },
+    {
+      "id": 115,
+      "text": "Mountains can be dangerous.",
+      "translation": "يمكن أن تكون الجبال خطيرة."
+    },
+    {
+      "id": 116,
+      "text": "You can fall or get lost.",
+      "translation": "يمكن أن تسقط أو تضيع."
+    },
+    {
+      "id": 117,
+      "text": "In the mountains helicopters come and help people.",
+      "translation": "في الجبال تأتي المروحيات وتساعد الناس."
+    },
+    {
+      "id": 118,
+      "text": "The weather in the mountains can be nice and sunny, but it can be cloudy and rainy too.",
+      "translation": "يمكن أن يكون الطقس في الجبال جميلاً ومشمساً، لكنه يمكن أن يكون غائماً وممطراً أيضاً."
+    },
+    {
+      "id": 119,
+      "text": "High in the mountains it is cold, so take warm clothes.",
+      "translation": "في أعالي الجبال الجو بارد، لذا خذ ملابس دافئة."
+    },
+    {
+      "id": 120,
+      "text": "Take water when you walk in the mountains.",
+      "translation": "خذ الماء عندما تمشي في الجبال."
+    },
+    {
+      "id": 121,
+      "text": "Don't drink water from a river.",
+      "translation": "لا تشرب الماء من النهر."
+    },
+    {
+      "id": 122,
+      "text": "Take food.",
+      "translation": "خذ طعاماً."
+    },
+    {
+      "id": 123,
+      "text": "It's good to eat cheese, bread, fruit, and chocolate.",
+      "translation": "من الجيد تناول الجبن والخبز والفواكه والشوكولاتة."
+    },
+    {
+      "id": 124,
+      "text": "Take a map and a compass, too.",
+      "translation": "خذ خريطة وبوصلة أيضاً."
+    },
+    {
+      "id": 125,
+      "text": "Have fun in the mountains, but be careful!",
+      "translation": "استمتع في الجبال، لكن كن حذراً!"
+    },
+    {
+      "id": 126,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 127,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 128,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
