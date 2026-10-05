@@ -1,0 +1,105 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "id": "a1_46",
+      "exercises": [
+        {"t":"choice","c":"exam","dir":"t2n","big":true,"d":["homework","lesson"]},
+        {"t":"choice","c":"university","dir":"n2t","d":["class","school"]},
+        {"t":"match","cs":["class","lesson","exam","university"]},
+        {"t":"match","cs":["homework","teacher","student","notebook"]},
+        {"t":"build","c":"i_study_university","dir":"n2t","d":["exam","class"]},
+        {"t":"build","c":"the_class_starts","dir":"audio","d":["lesson","homework"]},
+        {"t":"fill","c":"i_do_homework"},
+        {"t":"listenpick","c":"teacher_explains"},
+        {"t":"speak","c":"open_your_book"},
+        {"t":"choice","c":"exam_tomorrow","dir":"t2n","d":["i_do_homework","open_your_book"]},
+        {"t":"typeword","c":"i_ask_questions"},
+        {"t":"build","c":"i_do_homework","dir":"t2n","d":["exam","class"]},
+        {"t":"fill","c":"teacher_explains"},
+        {"t":"choice","c":"lesson","dir":"n2t","d":["exam","class"]},
+        {"t":"speak","c":"i_study_university"}
+      ]
+    },
+    {
+      "id": "a1_47",
+      "exercises": [
+        {"t":"choice","c":"neighbor","dir":"t2n","big":true,"d":["friend","teacher"]},
+        {"t":"choice","c":"funny","dir":"n2t","d":["kind","smart"]},
+        {"t":"match","cs":["friend","neighbor","funny","kind"]},
+        {"t":"match","cs":["smart","tall","family","teacher"]},
+        {"t":"build","c":"he_is_my_best_friend","dir":"n2t","d":["neighbor","teacher"]},
+        {"t":"build","c":"we_play_together","dir":"audio","d":["funny","kind"]},
+        {"t":"fill","c":"she_is_funny"},
+        {"t":"listenpick","c":"my_friend_is_tall"},
+        {"t":"speak","c":"i_call_my_friend"},
+        {"t":"choice","c":"my_neighbor_is_kind","dir":"t2n","d":["he_is_smart","she_is_funny"]},
+        {"t":"typeword","c":"he_is_smart"},
+        {"t":"build","c":"she_is_funny","dir":"t2n","d":["tall","smart"]},
+        {"t":"fill","c":"he_is_my_best_friend"},
+        {"t":"choice","c":"smart","dir":"n2t","d":["kind","tall"]},
+        {"t":"speak","c":"we_play_together"}
+      ]
+    },
+    {
+      "id": "a1_48",
+      "exercises": [
+        {"t":"choice","c":"practice","dir":"t2n","big":true,"d":["goal","mistake"]},
+        {"t":"choice","c":"goal","dir":"n2t","d":["progress","practice"]},
+        {"t":"match","cs":["practice","goal","progress","mistake"]},
+        {"t":"match","cs":["patient","learn","word","notebook"]},
+        {"t":"build","c":"i_set_goals","dir":"n2t","d":["practice","mistake"]},
+        {"t":"build","c":"i_learn_every_day","dir":"audio","d":["goal","progress"]},
+        {"t":"fill","c":"i_write_new_words"},
+        {"t":"listenpick","c":"repetition_helps"},
+        {"t":"speak","c":"i_practice_speaking"},
+        {"t":"choice","c":"mistakes_are_normal","dir":"t2n","d":["i_set_goals","i_am_patient"]},
+        {"t":"typeword","c":"i_am_patient"},
+        {"t":"build","c":"i_set_goals","dir":"t2n","d":["word","mistake"]},
+        {"t":"fill","c":"i_practice_speaking"},
+        {"t":"choice","c":"progress","dir":"n2t","d":["goal","patient"]},
+        {"t":"speak","c":"i_learn_every_day"}
+      ]
+    },
+    {
+      "id": "a1_49",
+      "exercises": [
+        {"t":"choice","c":"dream","dir":"t2n","big":true,"d":["future","success"]},
+        {"t":"choice","c":"world","dir":"n2t","d":["plan","future"]},
+        {"t":"match","cs":["dream","future","success","world"]},
+        {"t":"match","cs":["plan","goal","progress","practice"]},
+        {"t":"build","c":"i_want_travel","dir":"n2t","d":["dream","plan"]},
+        {"t":"build","c":"i_have_a_dream","dir":"audio","d":["future","world"]},
+        {"t":"fill","c":"every_day_new_chance"},
+        {"t":"listenpick","c":"small_steps"},
+        {"t":"speak","c":"i_believe_myself"},
+        {"t":"choice","c":"i_am_proud","dir":"t2n","d":["i_have_a_dream","i_want_travel"]},
+        {"t":"typeword","c":"my_plan_is_simple"},
+        {"t":"build","c":"i_believe_myself","dir":"t2n","d":["dream","plan"]},
+        {"t":"fill","c":"i_want_travel"},
+        {"t":"choice","c":"success","dir":"n2t","d":["future","dream"]},
+        {"t":"speak","c":"every_day_new_chance"}
+      ]
+    },
+    {
+      "id": "a1_50",
+      "exercises": [
+        {"t":"choice","c":"hello","dir":"t2n","big":true,"d":["goodbye","thanks"]},
+        {"t":"choice","c":"mom","dir":"n2t","d":["dad","sister"]},
+        {"t":"match","cs":["water","bread","tea","coffee"]},
+        {"t":"match","cs":["red","blue","green","yellow"]},
+        {"t":"build","c":"my_name_is","dir":"n2t","d":["friend","country"]},
+        {"t":"build","c":"how_are_you","dir":"audio","d":["yes","no"]},
+        {"t":"fill","c":"this_is_my_mom"},
+        {"t":"listenpick","c":"i_like_coffee"},
+        {"t":"speak","c":"nice_meet"},
+        {"t":"choice","c":"where_is_bank","dir":"t2n","d":["where_is_station","where_is_gate"]},
+        {"t":"typeword","c":"i_am_ten"},
+        {"t":"build","c":"thanks_for_help","dir":"t2n","d":["sorry","please"]},
+        {"t":"fill","c":"it_is_raining"},
+        {"t":"choice","c":"doctor","dir":"n2t","d":["teacher","nurse"]},
+        {"t":"speak","c":"have_nice_day"}
+      ]
+    }
+  ]
+}
