@@ -2,13 +2,712 @@
   "id": "a1_tinkers_farm",
   "title": "Tinkers Farm",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Tinkers_Farm-Rabley_Stephe.mp3",
+  "audio_url": "assets/books/audio/a1_books/Tinkers_Farm-Rabley_Stephen.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Life on Tinkers Farm is peaceful and hard working.",
-      "translation": "الحياة في مزرعة تينكرز هادئة وتتطلب عملاً جاداً."
+      "id": 1,
+      "text": "Tinkers Farm",
+      "translation": "مزرعة تينكرز"
+    },
+    {
+      "id": 2,
+      "text": "Rabley Stephen",
+      "translation": "رابلي ستيفن"
+    },
+    {
+      "id": 3,
+      "text": "It is 7 o'clock on a warm summer morning.",
+      "translation": "إنها الساعة السابعة في صباح صيفي دافئ."
+    },
+    {
+      "id": 4,
+      "text": "A ship is arriving in New York.",
+      "translation": "سفينة تصل إلى نيويورك."
+    },
+    {
+      "id": 5,
+      "text": "Its name is the Red Rose.",
+      "translation": "اسمها الوردة الحمراء."
+    },
+    {
+      "id": 6,
+      "text": "Two of the people on it are Sam Tinker and his daughter Jenny.",
+      "translation": "اثنان من الأشخاص عليها هما سام تينكر وابنته جيني."
+    },
+    {
+      "id": 7,
+      "text": "Sam and Jenny are English, but now they are starting a new life in America.",
+      "translation": "سام وجيني إنجليزيان، لكنهما الآن يبدآن حياة جديدة في أمريكا."
+    },
+    {
+      "id": 8,
+      "text": "\"Look, Dad!\" says Jenny.",
+      "translation": "\"انظر يا أبي!\" تقول جيني."
+    },
+    {
+      "id": 9,
+      "text": "\"We're here. We're really here!\"",
+      "translation": "\"نحن هنا. نحن هنا حقاً!\""
+    },
+    {
+      "id": 10,
+      "text": "The Tinkers say goodbye to all their friends.",
+      "translation": "يودع آل تينكر جميع أصدقائهم."
+    },
+    {
+      "id": 11,
+      "text": "Then they leave the Red Rose.",
+      "translation": "ثم يغادرون الوردة الحمراء."
+    },
+    {
+      "id": 12,
+      "text": "There are lots of people, horses and carts beside the ship.",
+      "translation": "هناك الكثير من الناس والخيول والعربات بجانب السفينة."
+    },
+    {
+      "id": 13,
+      "text": "Sam looks at them.",
+      "translation": "ينظر سام إليهم."
+    },
+    {
+      "id": 14,
+      "text": "\"Yes, we're here,\" he thinks.",
+      "translation": "\"نعم، نحن هنا،\" يفكر."
+    },
+    {
+      "id": 15,
+      "text": "\"But now what? We haven't got any money.\"",
+      "translation": "\"لكن ماذا الآن؟ ليس لدينا أي مال.\""
+    },
+    {
+      "id": 16,
+      "text": "He stops a young man with a green coat.",
+      "translation": "يوقف شاباً يرتدي معطفاً أخضر."
+    },
+    {
+      "id": 17,
+      "text": "\"Excuse me,\" he says.",
+      "translation": "\"عفواً،\" يقول."
+    },
+    {
+      "id": 18,
+      "text": "\"I'm looking for a job.\"",
+      "translation": "\"أنا أبحث عن عمل.\""
+    },
+    {
+      "id": 19,
+      "text": "The man turns to his right.",
+      "translation": "يستدير الرجل إلى يمينه."
+    },
+    {
+      "id": 20,
+      "text": "\"Talk to Jack Crane,\" he answers.",
+      "translation": "\"تحدث إلى جاك كرين،\" يجيب."
+    },
+    {
+      "id": 21,
+      "text": "Jack Crane is a farmer.",
+      "translation": "جاك كرين مزارع."
+    },
+    {
+      "id": 22,
+      "text": "He has a long, thin face and only three fingers on his right hand.",
+      "translation": "لديه وجه طويل ونحيف وثلاثة أصابع فقط في يده اليمنى."
+    },
+    {
+      "id": 23,
+      "text": "He listens to Sam's story.",
+      "translation": "يستمع إلى قصة سام."
+    },
+    {
+      "id": 24,
+      "text": "Then he takes off his hat.",
+      "translation": "ثم يخلع قبعته."
+    },
+    {
+      "id": 25,
+      "text": "\"OK,\" he says, \"you can both have jobs.\"",
+      "translation": "\"حسناً،\" يقول، \"يمكنكما الحصول على وظيفتين.\""
+    },
+    {
+      "id": 26,
+      "text": "\"I need a new man to work in the fields.\"",
+      "translation": "\"أحتاج رجلاً جديداً للعمل في الحقول.\""
+    },
+    {
+      "id": 27,
+      "text": "\"And we want someone to help in the kitchen, too - isn't that right, Blue Sky?\"",
+      "translation": "\"ونريد شخصاً للمساعدة في المطبخ أيضاً - أليس كذلك يا بلو سكاي؟\""
+    },
+    {
+      "id": 28,
+      "text": "There is an Indian girl on top of the cart.",
+      "translation": "هناك فتاة هندية على قمة العربة."
+    },
+    {
+      "id": 29,
+      "text": "\"Yes,\" she says and smiles at Jenny.",
+      "translation": "\"نعم،\" تقول وتبتسم لجيني."
+    },
+    {
+      "id": 30,
+      "text": "Two hours later the Tinkers leave New York with Jack Crane and Blue Sky.",
+      "translation": "بعد ساعتين، يغادر آل تينكر نيويورك مع جاك كرين وبلو سكاي."
+    },
+    {
+      "id": 31,
+      "text": "They are both very happy.",
+      "translation": "كلاهما سعيدان جداً."
+    },
+    {
+      "id": 32,
+      "text": "\"How far is it to your farm, Mr Crane?\" asks Sam.",
+      "translation": "\"كم تبعد مزرعتك يا سيد كرين؟\" يسأل سام."
+    },
+    {
+      "id": 33,
+      "text": "\"Eighty kilometres,\" Jack Crane answers.",
+      "translation": "\"ثمانون كيلومتراً،\" يجيب جاك كرين."
+    },
+    {
+      "id": 34,
+      "text": "They drive all afternoon.",
+      "translation": "يقودون طوال فترة بعد الظهر."
+    },
+    {
+      "id": 35,
+      "text": "Jenny is sitting next to Sam.",
+      "translation": "تجلس جيني بجانب سام."
+    },
+    {
+      "id": 36,
+      "text": "She is tired, but she does not want to sleep.",
+      "translation": "إنها متعبة، لكنها لا تريد النوم."
+    },
+    {
+      "id": 37,
+      "text": "\"This is America,\" she thinks,\"... and now I'm American.\"",
+      "translation": "\"هذه أمريكا،\" تفكر، \"... والآن أنا أمريكية.\""
+    },
+    {
+      "id": 38,
+      "text": "After six hours Jack Crane stops the cart.",
+      "translation": "بعد ست ساعات، يوقف جاك كرين العربة."
+    },
+    {
+      "id": 39,
+      "text": "\"Well... there it is,\" he says.",
+      "translation": "\"حسناً... ها هي ذي،\" يقول."
+    },
+    {
+      "id": 40,
+      "text": "Jenny stands up.",
+      "translation": "تقف جيني."
+    },
+    {
+      "id": 41,
+      "text": "It is evening now and the sun is going down.",
+      "translation": "إنه المساء الآن والشمس تغرب."
+    },
+    {
+      "id": 42,
+      "text": "In front of them there are lots of beautiful yellow fields and a big farmhouse.",
+      "translation": "أمامهم توجد حقول صفراء جميلة كثيرة ومزرعة كبيرة."
+    },
+    {
+      "id": 43,
+      "text": "Jenny looks to her left.",
+      "translation": "تنظر جيني إلى يسارها."
+    },
+    {
+      "id": 44,
+      "text": "\"Where's that smoke coming from?\" she asks.",
+      "translation": "\"من أين يأتي ذلك الدخان؟\" تسأل."
+    },
+    {
+      "id": 45,
+      "text": "\"That's the Indian village,\" answers Blue Sky.",
+      "translation": "\"تلك هي القرية الهندية،\" تجيب بلو سكاي."
+    },
+    {
+      "id": 46,
+      "text": "\"My family lives there.\"",
+      "translation": "\"عائلتي تعيش هناك.\""
+    },
+    {
+      "id": 47,
+      "text": "The next day the Tinkers start work.",
+      "translation": "في اليوم التالي يبدأ آل تينكر العمل."
+    },
+    {
+      "id": 48,
+      "text": "Jenny helps Blue Sky in the farmhouse.",
+      "translation": "تساعد جيني بلو سكاي في المزرعة."
+    },
+    {
+      "id": 49,
+      "text": "First the two girls cook everyone's breakfast.",
+      "translation": "أولاً، تطبخ الفتاتان فطور الجميع."
+    },
+    {
+      "id": 50,
+      "text": "Then they make all the beds.",
+      "translation": "ثم يرتبان جميع الأسرّة."
+    },
+    {
+      "id": 51,
+      "text": "After that they clean the kitchen floor.",
+      "translation": "بعد ذلك ينظفان أرضية المطبخ."
+    },
+    {
+      "id": 52,
+      "text": "At the same time Sam is working in the fields.",
+      "translation": "في نفس الوقت، يعمل سام في الحقول."
+    },
+    {
+      "id": 53,
+      "text": "After four or five hours he stops for a minute.",
+      "translation": "بعد أربع أو خمس ساعات يتوقف لدقيقة."
+    },
+    {
+      "id": 54,
+      "text": "\"What are you stopping for?\" asks Jack Crane.",
+      "translation": "\"لماذا تتوقف؟\" يسأل جاك كرين."
+    },
+    {
+      "id": 55,
+      "text": "\"Come on - get back to work!\"",
+      "translation": "\"هيا - عد إلى العمل!\""
+    },
+    {
+      "id": 56,
+      "text": "Sam and Jenny have only one free day every week - Sunday.",
+      "translation": "لدى سام وجيني يوم راحة واحد فقط كل أسبوع - الأحد."
+    },
+    {
+      "id": 57,
+      "text": "It's Blue Sky's free day, too.",
+      "translation": "إنه يوم راحة بلو سكاي أيضاً."
+    },
+    {
+      "id": 58,
+      "text": "That is when she visits her family.",
+      "translation": "حينها تزور عائلتها."
+    },
+    {
+      "id": 59,
+      "text": "One Sunday Jenny goes with her.",
+      "translation": "في أحد أيام الأحد، تذهب جيني معها."
+    },
+    {
+      "id": 60,
+      "text": "She makes a lot of new friends.",
+      "translation": "تكوّن الكثير من الأصدقاء الجدد."
+    },
+    {
+      "id": 61,
+      "text": "She meets the village Chief, too - Silver Cloud.",
+      "translation": "تلتقي أيضاً بزعيم القرية - سيلفر كلاود."
+    },
+    {
+      "id": 62,
+      "text": "He has a beautiful wife and a young son.",
+      "translation": "لديه زوجة جميلة وابن صغير."
+    },
+    {
+      "id": 63,
+      "text": "After that first visit, Jenny often goes to the village.",
+      "translation": "بعد تلك الزيارة الأولى، تذهب جيني غالباً إلى القرية."
+    },
+    {
+      "id": 64,
+      "text": "She starts to learn some Indian words, too.",
+      "translation": "تبدأ في تعلم بعض الكلمات الهندية أيضاً."
+    },
+    {
+      "id": 65,
+      "text": "Jenny is always happy with her new Indian friends.",
+      "translation": "جيني سعيدة دائماً مع أصدقائها الهنود الجدد."
+    },
+    {
+      "id": 66,
+      "text": "But she is not happy on the farm.",
+      "translation": "لكنها ليست سعيدة في المزرعة."
+    },
+    {
+      "id": 67,
+      "text": "Sam is unhappy, too.",
+      "translation": "سام غير سعيد أيضاً."
+    },
+    {
+      "id": 68,
+      "text": "\"I don't want to work here on Jack Crane's farm any more,\" he says one evening.",
+      "translation": "\"لا أريد العمل هنا في مزرعة جاك كرين بعد الآن،\" يقول ذات مساء."
+    },
+    {
+      "id": 69,
+      "text": "\"I want to work on my farm, Tinkers Farm.\"",
+      "translation": "\"أريد العمل في مزرعتي، مزرعة تينكرز.\""
+    },
+    {
+      "id": 70,
+      "text": "\"I know, Dad,\" Jenny answers.",
+      "translation": "\"أعلم يا أبي،\" تجيب جيني."
+    },
+    {
+      "id": 71,
+      "text": "Then she thinks, \"But how? We can't buy any land.\"",
+      "translation": "ثم تفكر: \"لكن كيف؟ لا يمكننا شراء أي أرض.\""
+    },
+    {
+      "id": 72,
+      "text": "Jack Crane pays us only two dollars a week.",
+      "translation": "جاك كرين يدفع لنا دولارين فقط في الأسبوع."
+    },
+    {
+      "id": 73,
+      "text": "Four days later Jenny and Blue Sky are making the beds.",
+      "translation": "بعد أربعة أيام، كانت جيني وبلو سكاي ترتبان الأسرّة."
+    },
+    {
+      "id": 74,
+      "text": "Suddenly they hear something.",
+      "translation": "فجأة يسمعان شيئاً."
+    },
+    {
+      "id": 75,
+      "text": "Two men are shouting.",
+      "translation": "رجلان يتصايحان."
+    },
+    {
+      "id": 76,
+      "text": "Jenny looks out of the window.",
+      "translation": "تنظر جيني من النافذة."
+    },
+    {
+      "id": 77,
+      "text": "She can see Jack Crane and her father in front of the farmhouse.",
+      "translation": "يمكنها رؤية جاك كرين ووالدها أمام المزرعة."
+    },
+    {
+      "id": 78,
+      "text": "Jack Crane's face is very red.",
+      "translation": "وجه جاك كرين محمر جداً."
+    },
+    {
+      "id": 79,
+      "text": "\"Do it!\" he shouts.",
+      "translation": "\"افعلها!\" يصرخ."
+    },
+    {
+      "id": 80,
+      "text": "\"No, I'm not going to,\" Sam shouts back.",
+      "translation": "\"لا، لن أفعل،\" يصرخ سام رداً عليه."
+    },
+    {
+      "id": 81,
+      "text": "\"It's Sunday and I don't work on Sundays. You do it!\"",
+      "translation": "\"إنه يوم الأحد ولا أعمل أيام الآحاد. افعلها أنت!\""
+    },
+    {
+      "id": 82,
+      "text": "Jenny runs downstairs and out of the house.",
+      "translation": "تركض جيني إلى الطابق السفلي وتخرج من المنزل."
+    },
+    {
+      "id": 83,
+      "text": "There is a strong wind and it is raining.",
+      "translation": "هناك رياح قوية وتمطر."
+    },
+    {
+      "id": 84,
+      "text": "\"What's happening?\" she asks her father.",
+      "translation": "\"ماذا يحدث؟\" تسأل والدها."
+    },
+    {
+      "id": 85,
+      "text": "\"We're leaving in the morning,\" Sam answers.",
+      "translation": "\"سنغادر في الصباح،\" يجيب سام."
+    },
+    {
+      "id": 86,
+      "text": "He is walking very fast.",
+      "translation": "إنه يمشي بسرعة كبيرة."
+    },
+    {
+      "id": 87,
+      "text": "Jenny looks at him.",
+      "translation": "تنظر جيني إليه."
+    },
+    {
+      "id": 88,
+      "text": "\"But... how are we going to eat? We haven't got any money.\"",
+      "translation": "\"لكن... كيف سنأكل؟ ليس لدينا أي مال.\""
+    },
+    {
+      "id": 89,
+      "text": "Sam does not answer.",
+      "translation": "لا يجيب سام."
+    },
+    {
+      "id": 90,
+      "text": "His eyes are cold and hard.",
+      "translation": "عيناه باردتان وقاسيتان."
+    },
+    {
+      "id": 91,
+      "text": "That evening Jenny and Blue Sky go to the Indian village.",
+      "translation": "في ذلك المساء، تذهب جيني وبلو سكاي إلى القرية الهندية."
+    },
+    {
+      "id": 92,
+      "text": "\"This is going to be my last visit.\" Jenny thinks.",
+      "translation": "\"ستكون هذه زيارتي الأخيرة.\" تفكر جيني."
+    },
+    {
+      "id": 93,
+      "text": "Blue Sky is sad, too.",
+      "translation": "بلو سكاي حزينة أيضاً."
+    },
+    {
+      "id": 94,
+      "text": "She does not want to lose her friend.",
+      "translation": "إنها لا تريد أن تفقد صديقتها."
+    },
+    {
+      "id": 95,
+      "text": "The two girls say nothing for twenty minutes.",
+      "translation": "الفتاتان لا تقولان شيئاً لمدة عشرين دقيقة."
+    },
+    {
+      "id": 96,
+      "text": "Then Blue Sky stops her horse.",
+      "translation": "ثم توقف بلو سكاي حصانها."
+    },
+    {
+      "id": 97,
+      "text": "She can see something in the river to their right.",
+      "translation": "يمكنها رؤية شيء ما في النهر على يمينهما."
+    },
+    {
+      "id": 98,
+      "text": "It is a small boy.",
+      "translation": "إنه صبي صغير."
+    },
+    {
+      "id": 99,
+      "text": "\"Help!\" he is shouting.",
+      "translation": "\"النجدة!\" يصرخ."
+    },
+    {
+      "id": 100,
+      "text": "\"I can't swim. Help me! Please!\"",
+      "translation": "\"لا أستطيع السباحة. ساعدوني! من فضلكم!\""
+    },
+    {
+      "id": 101,
+      "text": "\"It's the Chief's son!\" says Blue Sky.",
+      "translation": "\"إنه ابن الزعيم!\" تقول بلو سكاي."
+    },
+    {
+      "id": 102,
+      "text": "\"What are we going to...\" But before she can say another word, Jenny gets off her horse.",
+      "translation": "\"ماذا سنفعل...\" لكن قبل أن تقول كلمة أخرى، تنزل جيني من حصانها."
+    },
+    {
+      "id": 103,
+      "text": "\"I'm coming,\" she shouts.",
+      "translation": "\"قادمة،\" تصرخ."
+    },
+    {
+      "id": 104,
+      "text": "Then she jumps into the cold river.",
+      "translation": "ثم تقفز في النهر البارد."
+    },
+    {
+      "id": 105,
+      "text": "\"Help!\" shouts the boy.",
+      "translation": "\"النجدة!\" يصرخ الصبي."
+    },
+    {
+      "id": 106,
+      "text": "Jenny swims to him.",
+      "translation": "تسبح جيني إليه."
+    },
+    {
+      "id": 107,
+      "text": "His head is going under the water.",
+      "translation": "رأسه يغوص تحت الماء."
+    },
+    {
+      "id": 108,
+      "text": "She puts one arm around him.",
+      "translation": "تضع ذراعاً واحدة حوله."
+    },
+    {
+      "id": 109,
+      "text": "\"It's OK,\" she says.",
+      "translation": "\"لا بأس،\" تقول."
+    },
+    {
+      "id": 110,
+      "text": "\"You're safe now.\"",
+      "translation": "\"أنت بأمان الآن.\""
+    },
+    {
+      "id": 111,
+      "text": "Half an hour later Jenny and Blue Sky arrive at the Indian village.",
+      "translation": "بعد نصف ساعة، تصل جيني وبلو سكاي إلى القرية الهندية."
+    },
+    {
+      "id": 112,
+      "text": "The Chief comes to meet them.",
+      "translation": "يأتي الزعيم لمقابلتهما."
+    },
+    {
+      "id": 113,
+      "text": "\"But... I don't understand,\" he says to Blue Sky.",
+      "translation": "\"لكن... أنا لا أفهم،\" يقول لبلو سكاي."
+    },
+    {
+      "id": 114,
+      "text": "\"Why is my son with you? And why are he and the English girl wet?!\"",
+      "translation": "\"لماذا ابني معك؟ ولماذا هو والفتاة الإنجليزية مبتلان؟!\""
+    },
+    {
+      "id": 115,
+      "text": "Blue Sky tells him the story.",
+      "translation": "تحكي له بلو سكاي القصة."
+    },
+    {
+      "id": 116,
+      "text": "After that the Chief is very happy.",
+      "translation": "بعد ذلك، يصبح الزعيم سعيداً جداً."
+    },
+    {
+      "id": 117,
+      "text": "He smiles at Jenny.",
+      "translation": "يبتسم لجيني."
+    },
+    {
+      "id": 118,
+      "text": "\"How can I thank you?\" he says.",
+      "translation": "\"كيف يمكنني أن أشكرك؟\" يقول."
+    },
+    {
+      "id": 119,
+      "text": "\"Please... let me give you something. Anything\"",
+      "translation": "\"من فضلك... دعيني أعطيك شيئاً. أي شيء\""
+    },
+    {
+      "id": 120,
+      "text": "At 9 o'clock Sam is putting some boots into a bag.",
+      "translation": "في الساعة التاسعة، كان سام يضع بعض الأحذية في حقيبة."
+    },
+    {
+      "id": 121,
+      "text": "\"What's going to happen tomorrow?\" he thinks.",
+      "translation": "\"ماذا سيحدث غداً؟\" يفكر."
+    },
+    {
+      "id": 122,
+      "text": "Suddenly the door opens.",
+      "translation": "فجأة يفتح الباب."
+    },
+    {
+      "id": 123,
+      "text": "It is Jenny.",
+      "translation": "إنها جيني."
+    },
+    {
+      "id": 124,
+      "text": "\"Come with me, Dad,\" she says.",
+      "translation": "\"تعال معي يا أبي،\" تقول."
+    },
+    {
+      "id": 125,
+      "text": "\"I want to show you something.\"",
+      "translation": "\"أريد أن أريك شيئاً.\""
+    },
+    {
+      "id": 126,
+      "text": "Sam looks at his daughter.",
+      "translation": "ينظر سام إلى ابنته."
+    },
+    {
+      "id": 127,
+      "text": "Her eyes are bright and she is smiling.",
+      "translation": "عيناها لامعتان وهي تبتسم."
+    },
+    {
+      "id": 128,
+      "text": "\"What are you talking about?\" he asks.",
+      "translation": "\"عن ماذا تتحدثين؟\" يسأل."
+    },
+    {
+      "id": 129,
+      "text": "\"There isn't time for any questions,\" says Jenny.",
+      "translation": "\"لا يوجد وقت لأي أسئلة،\" تقول جيني."
+    },
+    {
+      "id": 130,
+      "text": "\"Come on.\"",
+      "translation": "\"هيا.\""
+    },
+    {
+      "id": 131,
+      "text": "She takes her father to a hill.",
+      "translation": "تأخذ والدها إلى تلة."
+    },
+    {
+      "id": 132,
+      "text": "At the top she says, \"Look! Can you see that land over there?\"",
+      "translation": "في القمة تقول: \"انظر! هل ترى تلك الأرض هناك؟\""
+    },
+    {
+      "id": 133,
+      "text": "\"Yes,\" Sam answers.",
+      "translation": "\"نعم،\" يجيب سام."
+    },
+    {
+      "id": 134,
+      "text": "Then Jenny tells him about Silver Cloud's son.",
+      "translation": "ثم تخبره جيني عن ابن سيلفر كلاود."
+    },
+    {
+      "id": 135,
+      "text": "After she finishes, Sam says, \"You mean...?\"",
+      "translation": "بعد أن تنتهي، يقول سام: \"هل تقصدين...؟\""
+    },
+    {
+      "id": 136,
+      "text": "\"Yes,\" Jenny smiles at her father.",
+      "translation": "\"نعم،\" تبتسم جيني لوالدها."
+    },
+    {
+      "id": 137,
+      "text": "\"The Indians are giving us our own farm... 'TINKERS FARM'.\"",
+      "translation": "\"الهنود يمنحوننا مزرعتنا الخاصة... 'مزرعة تينكرز'.\""
+    },
+    {
+      "id": 138,
+      "text": "\"Oh Dad, isn't it wonderful? Now we can really start a new life.\"",
+      "translation": "\"أوه أبي، أليس هذا رائعاً؟ الآن يمكننا حقاً بدء حياة جديدة.\""
+    },
+    {
+      "id": 139,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 140,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 141,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
