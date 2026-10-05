@@ -2,13 +2,762 @@
   "id": "a1_super_structures",
   "title": "Super Structures",
   "level": "A1",
-  "audio_url": "assets/books/audio/a1_books/Super_Structures-Fiona_Und.mp3",
+  "audio_url": "assets/books/audio/a1_books/Super_Structures-Fiona_Undrill.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Engineers build incredible and giant buildings.",
-      "translation": "يبني المهندسون مباني ضخمة ومذهلة."
+      "id": 1,
+      "text": "Super Structures",
+      "translation": "البنى الخارقة"
+    },
+    {
+      "id": 2,
+      "text": "Fiona Undrill",
+      "translation": "فيونا أندريل"
+    },
+    {
+      "id": 3,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 4,
+      "text": "Tunnels",
+      "translation": "الأنفاق"
+    },
+    {
+      "id": 5,
+      "text": "Tunnels go underwater, underground, or through the ground.",
+      "translation": "تمر الأنفاق تحت الماء، أو تحت الأرض، أو عبر الأرض."
+    },
+    {
+      "id": 6,
+      "text": "We use tunnels for mines, trains, and road traffic, or to carry things like gas or water.",
+      "translation": "نستخدم الأنفاق للمناجم والقطارات وحركة المرور على الطرق، أو لنقل أشياء مثل الغاز أو الماء."
+    },
+    {
+      "id": 7,
+      "text": "Tunnels are usually made of metal and concrete.",
+      "translation": "تُصنع الأنفاق عادةً من المعدن والخرسانة."
+    },
+    {
+      "id": 8,
+      "text": "One of the longest tunnels in the world is the Seikan Tunnel in Japan.",
+      "translation": "أحد أطول الأنفاق في العالم هو نفق سيكان في اليابان."
+    },
+    {
+      "id": 9,
+      "text": "It's nearly 54 kilometers long!",
+      "translation": "يبلغ طوله حوالي 54 كيلومتراً!"
+    },
+    {
+      "id": 10,
+      "text": "It goes between two islands.",
+      "translation": "يمر بين جزيرتين."
+    },
+    {
+      "id": 11,
+      "text": "It was built because it's too dangerous to travel by boat.",
+      "translation": "تم بناؤه لأن السفر بالقارب خطير جداً."
+    },
+    {
+      "id": 12,
+      "text": "The tunnel is for trains, but now many people prefer to travel by plane.",
+      "translation": "النفق مخصص للقطارات، لكن الآن يفضل الكثير من الناس السفر بالطائرة."
+    },
+    {
+      "id": 13,
+      "text": "One of the longest road tunnels is the Laerdal Tunnel in Norway.",
+      "translation": "أحد أطول أنفاق الطرق هو نفق ليردال في النرويج."
+    },
+    {
+      "id": 14,
+      "text": "The tunnel is nearly 25 kilometers long and it goes through a mountain.",
+      "translation": "يبلغ طول النفق حوالي 25 كيلومتراً ويمر عبر جبل."
+    },
+    {
+      "id": 15,
+      "text": "It was built because there's too much snow on the mountain roads in winter.",
+      "translation": "تم بناؤه لأن هناك الكثير من الثلوج على الطرق الجبلية في الشتاء."
+    },
+    {
+      "id": 16,
+      "text": "In the tunnel, there are three big caves where drivers can stop and rest.",
+      "translation": "في النفق، هناك ثلاثة كهوف كبيرة حيث يمكن للسائقين التوقف والراحة."
+    },
+    {
+      "id": 17,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 18,
+      "text": "Bridges",
+      "translation": "الجسور"
+    },
+    {
+      "id": 19,
+      "text": "Bridges go over water or over ground.",
+      "translation": "تمر الجسور فوق الماء أو فوق الأرض."
+    },
+    {
+      "id": 20,
+      "text": "On a beam bridge, the pillars carry the deck.",
+      "translation": "على الجسر العارض (جسر الكمرة)، تحمل الأعمدة سطح الجسر."
+    },
+    {
+      "id": 21,
+      "text": "One of the longest beam bridges is the Lake Pontchartrain Causeway in the USA.",
+      "translation": "أحد أطول جسور الكمرة هو جسر بحيرة بونتشارترين في الولايات المتحدة."
+    },
+    {
+      "id": 22,
+      "text": "This bridge is about 38 kilometers long and it has over 9,000 concrete pillars.",
+      "translation": "يبلغ طول هذا الجسر حوالي 38 كيلومتراً وله أكثر من 9000 عمود خرساني."
+    },
+    {
+      "id": 23,
+      "text": "It goes over water and carries road traffic.",
+      "translation": "يمر فوق الماء وينقل حركة المرور على الطرق."
+    },
+    {
+      "id": 24,
+      "text": "On a suspension bridge, the cables and towers carry the deck.",
+      "translation": "على الجسر المعلق، تحمل الكابلات والأبراج سطح الجسر."
+    },
+    {
+      "id": 25,
+      "text": "The anchorages hold the cables.",
+      "translation": "تثبت المراسي الكابلات."
+    },
+    {
+      "id": 26,
+      "text": "Suspension bridges move a little when it's windy.",
+      "translation": "تتحرك الجسور المعلقة قليلاً عندما تكون الرياح قوية."
+    },
+    {
+      "id": 27,
+      "text": "This isn't usually a problem, but in 1940 the Tacoma Bridge in the USA collapsed in light winds.",
+      "translation": "هذه ليست مشكلة عادةً، ولكن في عام 1940 انهار جسر تاكوما في الولايات المتحدة بسبب رياح خفيفة."
+    },
+    {
+      "id": 28,
+      "text": "It was only four months old.",
+      "translation": "كان عمره أربعة أشهر فقط."
+    },
+    {
+      "id": 29,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 30,
+      "text": "Skyscrapers",
+      "translation": "ناطحات السحاب"
+    },
+    {
+      "id": 31,
+      "text": "When there isn't much ground, we can build tall buildings.",
+      "translation": "عندما لا توجد مساحة أرضية كافية، يمكننا بناء مباني عالية."
+    },
+    {
+      "id": 32,
+      "text": "Very tall buildings are called skyscrapers.",
+      "translation": "تسمى المباني العالية جداً ناطحات السحاب."
+    },
+    {
+      "id": 33,
+      "text": "The first skyscraper was the Home Insurance Building.",
+      "translation": "كان أول ناطحة سحاب هي مبنى هوم للتأمين."
+    },
+    {
+      "id": 34,
+      "text": "It was built in Chicago in the USA in 1885.",
+      "translation": "تم بناؤه في شيكاغو في الولايات المتحدة عام 1885."
+    },
+    {
+      "id": 35,
+      "text": "It was 42 meters tall.",
+      "translation": "كان ارتفاعه 42 متراً."
+    },
+    {
+      "id": 36,
+      "text": "The tallest skyscrapers are now much taller than this.",
+      "translation": "أطول ناطحات السحاب الآن أطول بكثير من هذا."
+    },
+    {
+      "id": 37,
+      "text": "The Petronas Twin Towers in Kuala Lumpur in Malaysia are the tallest twin buildings.",
+      "translation": "برجا بتروناس التوأم في كوالالمبور بماليزيا هما أطول مبنيين توأمين."
+    },
+    {
+      "id": 38,
+      "text": "There is a bridge between the two towers called a skybridge.",
+      "translation": "يوجد جسر بين البرجين يسمى الجسر السماوي."
+    },
+    {
+      "id": 39,
+      "text": "One of the tallest skyscrapers is the Burj Dubai.",
+      "translation": "واحدة من أطول ناطحات السحاب هي برج دبي."
+    },
+    {
+      "id": 40,
+      "text": "It's in Dubai in the United Arab Emirates.",
+      "translation": "إنه في دبي في الإمارات العربية المتحدة."
+    },
+    {
+      "id": 41,
+      "text": "It's 818 meters tall - that's nearly a kilometer!",
+      "translation": "يبلغ ارتفاعه 818 متراً - أي ما يقرب من كيلومتر!"
+    },
+    {
+      "id": 42,
+      "text": "It's made of a special, strong concrete called reinforced concrete.",
+      "translation": "إنه مصنوع من خرسانة قوية خاصة تسمى الخرسانة المسلحة."
+    },
+    {
+      "id": 43,
+      "text": "The Burj Dubai has apartments, shops, swimming pools, hotels, restaurants, and a library.",
+      "translation": "يحتوي برج دبي على شقق ومحلات تجارية ومسابح وفنادق ومطاعم ومكتبة."
+    },
+    {
+      "id": 44,
+      "text": "It's like a very tall town!",
+      "translation": "إنها مثل مدينة عالية جداً!"
+    },
+    {
+      "id": 45,
+      "text": "Do you like it?",
+      "translation": "هل أعجبك؟"
+    },
+    {
+      "id": 46,
+      "text": "The concrete in the Burj Dubai weighs the same as about 100,000 elephants!",
+      "translation": "وزن الخرسانة في برج دبي يعادل وزن حوالي 100,000 فيل!"
+    },
+    {
+      "id": 47,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 48,
+      "text": "Dams",
+      "translation": "السدود"
+    },
+    {
+      "id": 49,
+      "text": "Some of the biggest structures are dams.",
+      "translation": "بعض من أكبر المنشآت هي السدود."
+    },
+    {
+      "id": 50,
+      "text": "They hold back water and make a lake called a reservoir.",
+      "translation": "تحجز المياه وتشكل بحيرة تسمى خزاناً مائياً."
+    },
+    {
+      "id": 51,
+      "text": "Dams supply water, stop floods, and they also make electricity.",
+      "translation": "توفر السدود المياه، وتمنع الفيضانات، وتنتج الكهرباء أيضاً."
+    },
+    {
+      "id": 52,
+      "text": "Gravity dams are made of a lot of concrete.",
+      "translation": "تُصنع سدود الجاذبية من الكثير من الخرسانة."
+    },
+    {
+      "id": 53,
+      "text": "They are very big and heavy, and this weight holds back the water.",
+      "translation": "إنها كبيرة وثقيلة جداً، وهذا الوزن يحجز المياه."
+    },
+    {
+      "id": 54,
+      "text": "The Itaipu Dam is a gravity dam.",
+      "translation": "سد إيتايبو هو سد جاذبية."
+    },
+    {
+      "id": 55,
+      "text": "It's in South America between Paraguay and Brazil.",
+      "translation": "يقع في أمريكا الجنوبية بين باراغواي والبرازيل."
+    },
+    {
+      "id": 56,
+      "text": "It's 196 meters tall and nearly 8 kilometers long.",
+      "translation": "يبلغ ارتفاعه 196 متراً وطوله حوالي 8 كيلومترات."
+    },
+    {
+      "id": 57,
+      "text": "Arch dams are also made of concrete.",
+      "translation": "السدود القوسية مصنوعة من الخرسانة أيضاً."
+    },
+    {
+      "id": 58,
+      "text": "They are usually smaller than gravity dams and they are curved.",
+      "translation": "عادةً ما تكون أصغر من سدود الجاذبية وتكون منحنية."
+    },
+    {
+      "id": 59,
+      "text": "The curve holds back the water.",
+      "translation": "الانحناء يحجز المياه."
+    },
+    {
+      "id": 60,
+      "text": "The Moiry Dam in Switzerland is an arch dam.",
+      "translation": "سد مويري في سويسرا هو سد قوسي."
+    },
+    {
+      "id": 61,
+      "text": "It's 148 meters tall and 610 meters long.",
+      "translation": "يبلغ ارتفاعه 148 متراً وطوله 610 أمتار."
+    },
+    {
+      "id": 62,
+      "text": "The first dam was built more than 4,000 years ago in Egypt.",
+      "translation": "تم بناء أول سد منذ أكثر من 4000 عام في مصر."
+    },
+    {
+      "id": 63,
+      "text": "It never worked because it fell down in heavy rain.",
+      "translation": "لم يعمل أبداً لأنه انهار في الأمطار الغزيرة."
+    },
+    {
+      "id": 64,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 65,
+      "text": "Olympic Structures",
+      "translation": "المنشآت الأولمبية"
+    },
+    {
+      "id": 66,
+      "text": "There are many super structures in Beijing in China.",
+      "translation": "هناك العديد من البنى الخارقة في بكين في الصين."
+    },
+    {
+      "id": 67,
+      "text": "Some of them were built for the Olympics in 2008.",
+      "translation": "تم بناء بعضها للألعاب الأولمبية عام 2008."
+    },
+    {
+      "id": 68,
+      "text": "Terminal 3 of Beijing Capital International Airport is one of the biggest airport terminals in the world.",
+      "translation": "تعتبر صالة الوصول 3 في مطار بكين العاصمة الدولي واحدة من أكبر صالات المطارات في العالم."
+    },
+    {
+      "id": 69,
+      "text": "The floor area is more than a square kilometer.",
+      "translation": "تبلغ مساحة الأرضية أكثر من كيلومتر مربع."
+    },
+    {
+      "id": 70,
+      "text": "There are seven floors, and two of the floors are underground.",
+      "translation": "يوجد سبعة طوابق، واثنان من الطوابق تحت الأرض."
+    },
+    {
+      "id": 71,
+      "text": "Red and gold are traditional colors for Chinese buildings.",
+      "translation": "الأحمر والذهبي هما لونان تقليديان للمباني الصينية."
+    },
+    {
+      "id": 72,
+      "text": "Red is the Chinese color for good luck.",
+      "translation": "الأحمر هو اللون الصيني للحظ الجيد."
+    },
+    {
+      "id": 73,
+      "text": "The Beijing National Stadium is one of the biggest metal buildings.",
+      "translation": "الملعب الوطني في بكين هو أحد أكبر المباني المعدنية."
+    },
+    {
+      "id": 74,
+      "text": "It's red and gold.",
+      "translation": "إنه أحمر وذهبي."
+    },
+    {
+      "id": 75,
+      "text": "It has 80,000 seats.",
+      "translation": "يحتوي على 80,000 مقعد."
+    },
+    {
+      "id": 76,
+      "text": "There were 11,000 extra seats for the Olympics.",
+      "translation": "كانت هناك 11,000 مقعد إضافي للألعاب الأولمبية."
+    },
+    {
+      "id": 77,
+      "text": "It also has underground pipes to make it warm in winter and cool in summer.",
+      "translation": "كما يحتوي على أنابيب تحت الأرض لتدفئته في الشتاء وتبريده في الصيف."
+    },
+    {
+      "id": 78,
+      "text": "Sometimes it's called the Bird's Nest - can you see why?",
+      "translation": "يُطلق عليه أحياناً عش الطائر - هل يمكنك معرفة السبب؟"
+    },
+    {
+      "id": 79,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 80,
+      "text": "Different Shapes",
+      "translation": "أشكال مختلفة"
+    },
+    {
+      "id": 81,
+      "text": "With new building materials, people can build structures in many different shapes.",
+      "translation": "باستخدام مواد بناء جديدة، يمكن للناس بناء منشآت بأشكال عديدة مختلفة."
+    },
+    {
+      "id": 82,
+      "text": "The O2, in London in the United Kingdom, is a dome.",
+      "translation": "قبة O2، في لندن في المملكة المتحدة، هي قبة."
+    },
+    {
+      "id": 83,
+      "text": "It was built for the millennium, the year 2000.",
+      "translation": "تم بناؤها للألفية، عام 2000."
+    },
+    {
+      "id": 84,
+      "text": "The roof is made of a special plastic and glass material.",
+      "translation": "السقف مصنوع من مادة بلاستيكية وزجاجية خاصة."
+    },
+    {
+      "id": 85,
+      "text": "It's 365 meters wide - one meter for every day of the year.",
+      "translation": "يبلغ عرضها 365 متراً - متر واحد لكل يوم من أيام السنة."
+    },
+    {
+      "id": 86,
+      "text": "It has also 12 support towers - one tower for every month of the year.",
+      "translation": "كما تحتوي على 12 برج دعم - برج واحد لكل شهر من شهور السنة."
+    },
+    {
+      "id": 87,
+      "text": "In 2008, David Fisher designed the first rotating skyscraper.",
+      "translation": "في عام 2008، صمم ديفيد فيشر أول ناطحة سحاب دوارة."
+    },
+    {
+      "id": 88,
+      "text": "It uses energy from the wind.",
+      "translation": "تستخدم الطاقة من الرياح."
+    },
+    {
+      "id": 89,
+      "text": "People want to build these rotating skyscrapers in Dubai and in Moscow.",
+      "translation": "يريد الناس بناء ناطحات السحاب الدوارة هذه في دبي وموسكو."
+    },
+    {
+      "id": 90,
+      "text": "Each floor can rotate a full circle.",
+      "translation": "يمكن لكل طابق أن يدور دورة كاملة."
+    },
+    {
+      "id": 91,
+      "text": "People can decide when to rotate their floor.",
+      "translation": "يمكن للناس أن يقرروا متى يدورون طابقهم."
+    },
+    {
+      "id": 92,
+      "text": "The skyscraper can be a different shape every day!",
+      "translation": "يمكن أن تكون ناطحة السحاب بشكل مختلف كل يوم!"
+    },
+    {
+      "id": 93,
+      "text": "Chapter Seven",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 94,
+      "text": "Glass and Ice",
+      "translation": "الزجاج والجليد"
+    },
+    {
+      "id": 95,
+      "text": "Most buildings are made of concrete, bricks, metal, or wood.",
+      "translation": "معظم المباني مصنوعة من الخرسانة أو الطوب أو المعدن أو الخشب."
+    },
+    {
+      "id": 96,
+      "text": "Some buildings use different materials.",
+      "translation": "تستخدم بعض المباني مواد مختلفة."
+    },
+    {
+      "id": 97,
+      "text": "'Biosphere-2' in Arizona in the USA is made of glass and metal.",
+      "translation": "'المحيط الحيوي-2' في أريزونا في الولايات المتحدة مصنوع من الزجاج والمعدن."
+    },
+    {
+      "id": 98,
+      "text": "It's nearly as big as two and a half American football fields.",
+      "translation": "إنه بحجم يقارب ملعبي كرة قدم أمريكيين ونصف."
+    },
+    {
+      "id": 99,
+      "text": "Inside, there's a rainforest, an ocean, a desert, a farm, and places for people to live and work.",
+      "translation": "في الداخل، توجد غابة مطيرة ومحيط وصحراء ومزرعة وأماكن لعيش وعمل الناس."
+    },
+    {
+      "id": 100,
+      "text": "It's a research center.",
+      "translation": "إنه مركز أبحاث."
+    },
+    {
+      "id": 101,
+      "text": "In a village in Sweden, near the Arctic, there is a hotel made of ice called Ice Hotel.",
+      "translation": "في قرية في السويد، بالقرب من القطب الشمالي، يوجد فندق مصنوع من الجليد يسمى فندق الجليد."
+    },
+    {
+      "id": 102,
+      "text": "The hotel is open from December to April.",
+      "translation": "الفندق مفتوح من ديسمبر إلى أبريل."
+    },
+    {
+      "id": 103,
+      "text": "It has 80 rooms.",
+      "translation": "يحتوي على 80 غرفة."
+    },
+    {
+      "id": 104,
+      "text": "There are ice sculptures in the rooms.",
+      "translation": "توجد منحوتات جليدية في الغرف."
+    },
+    {
+      "id": 105,
+      "text": "The beds, chairs, and tables are also made of ice.",
+      "translation": "الأسرّة والكراسي والطاولات مصنوعة من الجليد أيضاً."
+    },
+    {
+      "id": 106,
+      "text": "Even the drinking glasses are made of ice!",
+      "translation": "حتى أكواب الشرب مصنوعة من الجليد!"
+    },
+    {
+      "id": 107,
+      "text": "Every year, Ice Hotel is build again with new ice.",
+      "translation": "كل عام، يتم بناء فندق الجليد مرة أخرى بجليد جديد."
+    },
+    {
+      "id": 108,
+      "text": "Chapter Eight",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 109,
+      "text": "Amazing Places",
+      "translation": "أماكن مذهلة"
+    },
+    {
+      "id": 110,
+      "text": "Did you know that people also build structures under the ocean and on ice?",
+      "translation": "هل تعلم أن الناس يبنون أيضاً منشآت تحت المحيط وعلى الجليد؟"
+    },
+    {
+      "id": 111,
+      "text": "The Poseidon Undersea Resort in Fiji is a hotel 12 meters under the ocean.",
+      "translation": "منتجع بوسيدون تحت البحر في فيجي هو فندق يقع على عمق 12 متراً تحت المحيط."
+    },
+    {
+      "id": 112,
+      "text": "It's made of very strong metal and plastic.",
+      "translation": "إنه مصنوع من معدن وبلاستيك قويين جداً."
+    },
+    {
+      "id": 113,
+      "text": "The windows are made of special, clear plastic, so people can see fish and other ocean animals from the hotel.",
+      "translation": "النوافذ مصنوعة من بلاستيك شفاف خاص، حتى يتمكن الناس من رؤية الأسماك والحيوانات البحرية الأخرى من الفندق."
+    },
+    {
+      "id": 114,
+      "text": "To get to the hotel, you travel by submarine!",
+      "translation": "للوصول إلى الفندق، تسافر بواسطة غواصة!"
+    },
+    {
+      "id": 115,
+      "text": "Halley 6 is a research station in the Antarctic.",
+      "translation": "هالي 6 هي محطة أبحاث في القطب الجنوبي."
+    },
+    {
+      "id": 116,
+      "text": "It's built on ice.",
+      "translation": "إنها مبنية على الجليد."
+    },
+    {
+      "id": 117,
+      "text": "The ice moves 400 meters every year and the structure moves with it.",
+      "translation": "يتحرك الجليد 400 متر كل عام وتتحرك المنشأة معه."
+    },
+    {
+      "id": 118,
+      "text": "Halley 6 is on skis so people can move it back to the right place.",
+      "translation": "هالي 6 على زلاجات حتى يتمكن الناس من إعادتها إلى المكان الصحيح."
+    },
+    {
+      "id": 119,
+      "text": "Building in the Antarctic is very difficult because of the very, very cold weather.",
+      "translation": "البناء في القطب الجنوبي صعب جداً بسبب الطقس البارد جداً جداً."
+    },
+    {
+      "id": 120,
+      "text": "Chapter Nine",
+      "translation": "الفصل التاسع"
+    },
+    {
+      "id": 121,
+      "text": "Structure in Space",
+      "translation": "منشآت في الفضاء"
+    },
+    {
+      "id": 122,
+      "text": "There are also structures in space.",
+      "translation": "توجد أيضاً منشآت في الفضاء."
+    },
+    {
+      "id": 123,
+      "text": "The International Space Station (ISS) is a research station.",
+      "translation": "محطة الفضاء الدولية (ISS) هي محطة أبحاث."
+    },
+    {
+      "id": 124,
+      "text": "It's about 350 kilometers above Earth.",
+      "translation": "إنها على ارتفاع حوالي 350 كيلومتراً فوق الأرض."
+    },
+    {
+      "id": 125,
+      "text": "It goes around Earth about 16 times every day.",
+      "translation": "تدور حول الأرض حوالي 16 مرة كل يوم."
+    },
+    {
+      "id": 126,
+      "text": "It travels at 27,700 kilometers per hour - that's nearly 8 kilometers per second!",
+      "translation": "تسافر بسرعة 27,700 كيلومتر في الساعة - أي ما يقرب من 8 كيلومترات في الثانية!"
+    },
+    {
+      "id": 127,
+      "text": "You can see ISS from Earth without a telescope.",
+      "translation": "يمكنك رؤية محطة الفضاء الدولية من الأرض بدون تلسكوب."
+    },
+    {
+      "id": 128,
+      "text": "The ISS is made of metal.",
+      "translation": "محطة الفضاء الدولية مصنوعة من المعدن."
+    },
+    {
+      "id": 129,
+      "text": "It uses energy from the sun.",
+      "translation": "تستخدم الطاقة من الشمس."
+    },
+    {
+      "id": 130,
+      "text": "The first part of the ISS went into space in a rocket in 1998.",
+      "translation": "ذهب الجزء الأول من محطة الفضاء الدولية إلى الفضاء في صاروخ عام 1998."
+    },
+    {
+      "id": 131,
+      "text": "No astronauts went with it.",
+      "translation": "لم يذهب أي رواد فضاء معه."
+    },
+    {
+      "id": 132,
+      "text": "Most other parts went with astronauts.",
+      "translation": "ذهبت معظم الأجزاء الأخرى مع رواد الفضاء."
+    },
+    {
+      "id": 133,
+      "text": "Sometimes, astronauts do a spacewalk outside the ISS to attach new parts.",
+      "translation": "في بعض الأحيان، يقوم رواد الفضاء بالسير في الفضاء خارج محطة الفضاء الدولية لتركيب أجزاء جديدة."
+    },
+    {
+      "id": 134,
+      "text": "Chapter Ten",
+      "translation": "الفصل العاشر"
+    },
+    {
+      "id": 135,
+      "text": "Animals Structures",
+      "translation": "منشآت الحيوانات"
+    },
+    {
+      "id": 136,
+      "text": "Animals can build super structures, too!",
+      "translation": "يمكن للحيوانات أيضاً بناء بنى خارقة!"
+    },
+    {
+      "id": 137,
+      "text": "Termites build their homes with mud.",
+      "translation": "تبني النمل الأبيض منازلها بالطين."
+    },
+    {
+      "id": 138,
+      "text": "These homes are tall towers called termite mounds.",
+      "translation": "هذه المنازل عبارة عن أبراج عالية تسمى تلال النمل الأبيض."
+    },
+    {
+      "id": 139,
+      "text": "The tallest termite mounds are about 13 meters high.",
+      "translation": "يبلغ ارتفاع أطول تلال النمل الأبيض حوالي 13 متراً."
+    },
+    {
+      "id": 140,
+      "text": "They are termite skyscrapers!",
+      "translation": "إنها ناطحات سحاب النمل الأبيض!"
+    },
+    {
+      "id": 141,
+      "text": "Termites are insects.",
+      "translation": "النمل الأبيض حشرات."
+    },
+    {
+      "id": 142,
+      "text": "The tallest termite mounds are thousands of termites tall!",
+      "translation": "أطول تلال النمل الأبيض يبلغ ارتفاعها آلاف النملات!"
+    },
+    {
+      "id": 143,
+      "text": "Wombats build underground tunnels called burrows.",
+      "translation": "تبني حيوانات الومبت أنفاقاً تحت الأرض تسمى الجحور."
+    },
+    {
+      "id": 144,
+      "text": "They dig with their front paws and bite through things with their teeth.",
+      "translation": "تحفر بمخالبها الأمامية وتعضع الأشياء بأسنانها."
+    },
+    {
+      "id": 145,
+      "text": "A wombat can dig about 2 meters per hour.",
+      "translation": "يمكن للومبت الحفر حوالي مترين في الساعة."
+    },
+    {
+      "id": 146,
+      "text": "Beavers build dams on the water to protect themselves from other wild animals like bears.",
+      "translation": "تبني حيوانات القندس سدوداً على الماء لحماية نفسها من الحيوانات البرية الأخرى مثل الدببة."
+    },
+    {
+      "id": 147,
+      "text": "They build the dams with small trees, stones, and mud.",
+      "translation": "تبني السدود بأشجار صغيرة وحجارة وطين."
+    },
+    {
+      "id": 148,
+      "text": "Their dams can be a kilometer long.",
+      "translation": "يمكن أن يصل طول سدودها إلى كيلومتر واحد."
+    },
+    {
+      "id": 149,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 150,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 151,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
