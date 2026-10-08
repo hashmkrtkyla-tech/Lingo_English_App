@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_46",
+      "exercises": [
+        {"t":"choice","c":"watch","dir":"t2n","big":true,"d":["play","read"]},
+        {"t":"choice","c":"cook","dir":"n2t","d":["watch","sleep"]},
+        {"t":"match","cs":["watch","play","read","cook"]},
+        {"t":"match","cs":["sleep","rain","walk","talk"]},
+        {"t":"build","c":"i_was_watching_tv","dir":"n2t","d":["play","read"]},
+        {"t":"build","c":"she_was_reading_a_book","dir":"audio","d":["watch","sleep"]},
+        {"t":"fill","c":"they_were_playing_football"},
+        {"t":"listenpick","c":"he_was_cooking_dinner"},
+        {"t":"speak","c":"i_was_watching_tv"},
+        {"t":"choice","c":"she_was_reading_a_book","dir":"t2n","d":["they_were_playing_football","it_was_raining_yesterday"]},
+        {"t":"typeword","c":"it_was_raining_yesterday"},
+        {"t":"build","c":"we_were_walking_in_the_park","dir":"t2n","d":["walk","talk"]},
+        {"t":"fill","c":"they_were_talking_on_the_phone"},
+        {"t":"choice","c":"rain","dir":"n2t","d":["walk","talk"]},
+        {"t":"speak","c":"he_was_cooking_dinner"}
+      ]
+    },
+    {
+      "id": "a2_47",
+      "exercises": [
+        {"t":"choice","c":"and","dir":"t2n","big":true,"d":["but","so"]},
+        {"t":"choice","c":"because","dir":"n2t","d":["and","but"]},
+        {"t":"match","cs":["and","but","so","because"]},
+        {"t":"match","cs":["some","any","much","many"]},
+        {"t":"build","c":"i_like_tea_and_coffee","dir":"n2t","d":["some","any"]},
+        {"t":"build","c":"he_is_tired_but_happy","dir":"audio","d":["and","so"]},
+        {"t":"fill","c":"it_was_raining_so_we_stayed"},
+        {"t":"listenpick","c":"i_am_happy_because_it_is_friday"},
+        {"t":"speak","c":"i_like_tea_and_coffee"},
+        {"t":"choice","c":"he_is_tired_but_happy","dir":"t2n","d":["i_am_happy_because_it_is_friday","it_was_raining_so_we_stayed"]},
+        {"t":"typeword","c":"i_have_some_friends"},
+        {"t":"build","c":"do_you_have_any_money","dir":"t2n","d":["much","many"]},
+        {"t":"fill","c":"she_has_many_books"},
+        {"t":"choice","c":"much","dir":"n2t","d":["some","any"]},
+        {"t":"speak","c":"it_was_raining_so_we_stayed"}
+      ]
+    },
+    {
+      "id": "a2_48",
+      "exercises": [
+        {"t":"choice","c":"head","dir":"t2n","big":true,"d":["hand","leg"]},
+        {"t":"choice","c":"healthy","dir":"n2t","d":["sick","tired"]},
+        {"t":"match","cs":["head","hand","leg","eye"]},
+        {"t":"match","cs":["ear","healthy","sick","tired"]},
+        {"t":"build","c":"my_head_hurts","dir":"n2t","d":["hand","leg"]},
+        {"t":"build","c":"wash_your_hands","dir":"audio","d":["eye","ear"]},
+        {"t":"fill","c":"he_broke_his_leg"},
+        {"t":"listenpick","c":"she_has_beautiful_eyes"},
+        {"t":"speak","c":"my_head_hurts"},
+        {"t":"choice","c":"wash_your_hands","dir":"t2n","d":["he_broke_his_leg","she_has_beautiful_eyes"]},
+        {"t":"typeword","c":"i_have_a_pain_in_my_ear"},
+        {"t":"build","c":"eat_vegetables_to_stay_healthy","dir":"t2n","d":["sick","tired"]},
+        {"t":"fill","c":"he_is_sick_today"},
+        {"t":"choice","c":"tired","dir":"n2t","d":["healthy","sick"]},
+        {"t":"speak","c":"he_broke_his_leg"}
+      ]
+    },
+    {
+      "id": "a2_49",
+      "exercises": [
+        {"t":"choice","c":"headache","dir":"t2n","big":true,"d":["fever","cough"]},
+        {"t":"choice","c":"hear","dir":"n2t","d":["see","smell"]},
+        {"t":"match","cs":["headache","fever","cough","cold"]},
+        {"t":"match","cs":["see","hear","smell","taste"]},
+        {"t":"build","c":"i_have_a_headache","dir":"n2t","d":["see","hear"]},
+        {"t":"build","c":"she_has_a_high_fever","dir":"audio","d":["headache","cough"]},
+        {"t":"fill","c":"he_has_a_bad_cough"},
+        {"t":"listenpick","c":"i_caught_a_cold"},
+        {"t":"speak","c":"i_have_a_headache"},
+        {"t":"choice","c":"she_has_a_high_fever","dir":"t2n","d":["he_has_a_bad_cough","i_caught_a_cold"]},
+        {"t":"typeword","c":"i_can_see_the_bird"},
+        {"t":"build","c":"can_you_hear_me","dir":"t2n","d":["smell","taste"]},
+        {"t":"fill","c":"i_smell_the_flowers"},
+        {"t":"choice","c":"taste","dir":"n2t","d":["see","hear"]},
+        {"t":"speak","c":"i_caught_a_cold"}
+      ]
+    },
+    {
+      "id": "a2_50",
+      "exercises": [
+        {"t":"choice","c":"doctor","dir":"t2n","big":true,"d":["nurse","hospital"]},
+        {"t":"choice","c":"pharmacy","dir":"n2t","d":["medicine","pill"]},
+        {"t":"match","cs":["doctor","nurse","hospital","medicine"]},
+        {"t":"match","cs":["pharmacy","pill","injection","appointment"]},
+        {"t":"build","c":"i_have_an_appointment","dir":"n2t","d":["pill","injection"]},
+        {"t":"build","c":"the_doctor_is_busy","dir":"audio","d":["nurse","hospital"]},
+        {"t":"fill","c":"the_nurse_is_kind"},
+        {"t":"listenpick","c":"take_your_medicine"},
+        {"t":"speak","c":"i_have_an_appointment"},
+        {"t":"choice","c":"the_doctor_is_busy","dir":"t2n","d":["the_nurse_is_kind","take_your_medicine"]},
+        {"t":"typeword","c":"the_pharmacy_is_open"},
+        {"t":"build","c":"he_needs_an_injection","dir":"t2n","d":["pill","appointment"]},
+        {"t":"fill","c":"take_one_pill_a_day"},
+        {"t":"choice","c":"injection","dir":"n2t","d":["medicine","pill"]},
+        {"t":"speak","c":"take_your_medicine"}
+      ]
+    }
+  ]
+        }
