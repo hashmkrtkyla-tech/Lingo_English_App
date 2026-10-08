@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_01",
+      "exercises": [
+        {"t":"choice","c":"store","dir":"t2n","big":true,"d":["price","cheap"]},
+        {"t":"choice","c":"price","dir":"n2t","d":["store","expensive"]},
+        {"t":"match","cs":["store","price","cheap","expensive"]},
+        {"t":"match","cs":["discount","cashier","receipt","buy"]},
+        {"t":"build","c":"i_go_to_the_store","dir":"n2t","d":["bag","toy"]},
+        {"t":"build","c":"how_much_is_the_bag","dir":"audio","d":["price","store"]},
+        {"t":"fill","c":"it_is_too_expensive"},
+        {"t":"listenpick","c":"do_you_have_a_discount"},
+        {"t":"speak","c":"i_will_buy_it"},
+        {"t":"choice","c":"can_i_have_a_receipt","dir":"t2n","d":["i_will_buy_it","do_you_have_a_discount"]},
+        {"t":"typeword","c":"how_much_is_the_bag"},
+        {"t":"build","c":"i_will_buy_it","dir":"t2n","d":["cheap","expensive"]},
+        {"t":"fill","c":"can_i_have_a_receipt"},
+        {"t":"choice","c":"cheap","dir":"n2t","d":["expensive","discount"]},
+        {"t":"speak","c":"i_go_to_the_store"}
+      ]
+    },
+    {
+      "id": "a2_02",
+      "exercises": [
+        {"t":"choice","c":"new","dir":"t2n","big":true,"d":["old","beautiful"]},
+        {"t":"choice","c":"old","dir":"n2t","d":["new","useful"]},
+        {"t":"match","cs":["new","old","beautiful","useful"]},
+        {"t":"match","cs":["quality","popular","size","color"]},
+        {"t":"build","c":"this_shirt_is_beautiful","dir":"n2t","d":["bag","toy"]},
+        {"t":"build","c":"i_like_the_color","dir":"audio","d":["new","old"]},
+        {"t":"fill","c":"it_is_good_quality"},
+        {"t":"listenpick","c":"do_you_have_a_bigger_size"},
+        {"t":"speak","c":"this_bag_is_useful"},
+        {"t":"choice","c":"it_is_very_popular","dir":"t2n","d":["this_bag_is_useful","i_like_the_color"]},
+        {"t":"typeword","c":"i_like_the_color"},
+        {"t":"build","c":"this_shirt_is_beautiful","dir":"t2n","d":["quality","popular"]},
+        {"t":"fill","c":"do_you_have_a_bigger_size"},
+        {"t":"choice","c":"beautiful","dir":"n2t","d":["new","useful"]},
+        {"t":"speak","c":"this_bag_is_useful"}
+      ]
+    },
+    {
+      "id": "a2_03",
+      "exercises": [
+        {"t":"choice","c":"checkout","dir":"t2n","big":true,"d":["cheaper","return"]},
+        {"t":"choice","c":"cheaper","dir":"n2t","d":["pay","checkout"]},
+        {"t":"match","cs":["checkout","cheaper","return","pay"]},
+        {"t":"match","cs":["try_on","take_it","just_looking","help"]},
+        {"t":"build","c":"i_am_just_looking","dir":"n2t","d":["receipt","discount"]},
+        {"t":"build","c":"i_will_take_it","dir":"audio","d":["cheaper","return"]},
+        {"t":"fill","c":"i_will_take_it"},
+        {"t":"listenpick","c":"do_you_have_anything_cheaper"},
+        {"t":"speak","c":"where_is_the_checkout"},
+        {"t":"choice","c":"can_i_pay_by_card","dir":"t2n","d":["where_is_the_checkout","i_will_take_it"]},
+        {"t":"typeword","c":"i_will_take_it"},
+        {"t":"build","c":"where_is_the_checkout","dir":"t2n","d":["cashier","receipt"]},
+        {"t":"fill","c":"can_i_pay_by_card"},
+        {"t":"choice","c":"return","dir":"n2t","d":["pay","cheaper"]},
+        {"t":"speak","c":"i_am_just_looking"}
+      ]
+    },
+    {
+      "id": "a2_04",
+      "exercises": [
+        {"t":"choice","c":"dollar","dir":"t2n","big":true,"d":["euro","pound"]},
+        {"t":"choice","c":"cash","dir":"n2t","d":["change","total"]},
+        {"t":"match","cs":["dollar","euro","pound","cent"]},
+        {"t":"match","cs":["cash","credit_card","change","total"]},
+        {"t":"build","c":"how_much_is_the_total","dir":"n2t","d":["dollar","cent"]},
+        {"t":"build","c":"i_will_pay_in_cash","dir":"audio","d":["change","total"]},
+        {"t":"fill","c":"do_you_have_change"},
+        {"t":"listenpick","c":"can_i_use_a_credit_card"},
+        {"t":"speak","c":"it_is_ten_dollars"},
+        {"t":"choice","c":"this_is_a_good_price","dir":"t2n","d":["it_is_ten_dollars","how_much_is_the_total"]},
+        {"t":"typeword","c":"do_you_have_change"},
+        {"t":"build","c":"it_is_ten_dollars","dir":"t2n","d":["cash","change"]},
+        {"t":"fill","c":"how_much_is_the_total"},
+        {"t":"choice","c":"change","dir":"n2t","d":["cash","total"]},
+        {"t":"speak","c":"i_will_pay_in_cash"}
+      ]
+    },
+    {
+      "id": "a2_05",
+      "exercises": [
+        {"t":"choice","c":"sale","dir":"t2n","big":true,"d":["size","color"]},
+        {"t":"choice","c":"size","dir":"n2t","d":["sale","discount"]},
+        {"t":"match","cs":["sale","size","color","discount"]},
+        {"t":"match","cs":["how_much","what_size","what_color","where"]},
+        {"t":"build","c":"what_size_do_you_have","dir":"n2t","d":["sale","color"]},
+        {"t":"build","c":"is_there_a_sale","dir":"audio","d":["size","discount"]},
+        {"t":"fill","c":"what_colors_are_available"},
+        {"t":"listenpick","c":"is_there_a_sale"},
+        {"t":"speak","c":"where_is_the_fitting_room"},
+        {"t":"choice","c":"can_i_get_a_discount","dir":"t2n","d":["is_there_a_sale","where_is_the_fitting_room"]},
+        {"t":"typeword","c":"is_there_a_sale"},
+        {"t":"build","c":"how_much_is_the_bag","dir":"t2n","d":["sale","size"]},
+        {"t":"fill","c":"can_i_get_a_discount"},
+        {"t":"choice","c":"color","dir":"n2t","d":["sale","discount"]},
+        {"t":"speak","c":"where_is_the_fitting_room"}
+      ]
+    }
+  ]
+        }
