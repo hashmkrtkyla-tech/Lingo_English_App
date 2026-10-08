@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_41",
+      "exercises": [
+        {"t":"choice","c":"work","dir":"t2n","big":true,"d":["play","read"]},
+        {"t":"choice","c":"play","dir":"n2t","d":["work","write"]},
+        {"t":"match","cs":["work","play","read","write"]},
+        {"t":"match","cs":["eat","sleep","study","watch"]},
+        {"t":"build","c":"i_am_working_now","dir":"n2t","d":["eat","sleep"]},
+        {"t":"build","c":"she_is_playing_football","dir":"audio","d":["work","read"]},
+        {"t":"fill","c":"he_is_reading_a_book"},
+        {"t":"listenpick","c":"they_are_eating_lunch"},
+        {"t":"speak","c":"i_am_working_now"},
+        {"t":"choice","c":"she_is_playing_football","dir":"t2n","d":["he_is_reading_a_book","they_are_eating_lunch"]},
+        {"t":"typeword","c":"we_are_studying_math"},
+        {"t":"build","c":"i_am_writing_a_letter","dir":"t2n","d":["study","watch"]},
+        {"t":"fill","c":"she_is_watching_tv"},
+        {"t":"choice","c":"work","dir":"n2t","d":["play","read"]},
+        {"t":"speak","c":"he_is_sleeping"}
+      ]
+    },
+    {
+      "id": "a2_42",
+      "exercises": [
+        {"t":"choice","c":"play","dir":"t2n","big":true,"d":["live","work"]},
+        {"t":"choice","c":"work","dir":"n2t","d":["play","like"]},
+        {"t":"match","cs":["play","work","live","like"]},
+        {"t":"match","cs":["eat","go","study","watch"]},
+        {"t":"build","c":"i_play_football_every_day","dir":"n2t","d":["eat","sleep"]},
+        {"t":"build","c":"she_works_in_a_bank","dir":"audio","d":["play","live"]},
+        {"t":"fill","c":"they_live_in_a_big_house"},
+        {"t":"listenpick","c":"he_likes_coffee"},
+        {"t":"speak","c":"i_play_football_every_day"},
+        {"t":"choice","c":"she_works_in_a_bank","dir":"t2n","d":["they_live_in_a_big_house","he_likes_coffee"]},
+        {"t":"typeword","c":"we_eat_breakfast_at_seven"},
+        {"t":"build","c":"she_goes_to_school","dir":"t2n","d":["study","watch"]},
+        {"t":"fill","c":"i_study_math"},
+        {"t":"choice","c":"live","dir":"n2t","d":["work","play"]},
+        {"t":"speak","c":"he_watches_tv"}
+      ]
+    },
+    {
+      "id": "a2_43",
+      "exercises": [
+        {"t":"choice","c":"went","dir":"t2n","big":true,"d":["saw","ate"]},
+        {"t":"choice","c":"saw","dir":"n2t","d":["went","played"]},
+        {"t":"match","cs":["went","saw","ate","played"]},
+        {"t":"match","cs":["visited","worked","studied","cooked"]},
+        {"t":"build","c":"i_went_to_the_park_yesterday","dir":"n2t","d":["eat","sleep"]},
+        {"t":"build","c":"she_saw_a_good_movie","dir":"audio","d":["go","play"]},
+        {"t":"fill","c":"we_ate_pizza_last_night"},
+        {"t":"listenpick","c":"they_played_football"},
+        {"t":"speak","c":"i_went_to_the_park_yesterday"},
+        {"t":"choice","c":"she_saw_a_good_movie","dir":"t2n","d":["we_ate_pizza_last_night","they_played_football"]},
+        {"t":"typeword","c":"he_visited_his_grandma"},
+        {"t":"build","c":"i_worked_all_day","dir":"t2n","d":["study","cook"]},
+        {"t":"fill","c":"she_studied_for_the_test"},
+        {"t":"choice","c":"went","dir":"n2t","d":["saw","ate"]},
+        {"t":"speak","c":"my_mom_cooked_dinner"}
+      ]
+    },
+    {
+      "id": "a2_44",
+      "exercises": [
+        {"t":"choice","c":"big","dir":"t2n","big":true,"d":["small","tall"]},
+        {"t":"choice","c":"small","dir":"n2t","d":["big","cheap"]},
+        {"t":"match","cs":["big","bigger","small","smaller"]},
+        {"t":"match","cs":["good","better","bad","worse"]},
+        {"t":"build","c":"this_house_is_big","dir":"n2t","d":["tall","cheap"]},
+        {"t":"build","c":"that_house_is_bigger","dir":"audio","d":["small","good"]},
+        {"t":"fill","c":"this_bag_is_small"},
+        {"t":"listenpick","c":"that_bag_is_smaller"},
+        {"t":"speak","c":"this_house_is_big"},
+        {"t":"choice","c":"that_house_is_bigger","dir":"t2n","d":["this_bag_is_small","that_bag_is_smaller"]},
+        {"t":"typeword","c":"this_book_is_good"},
+        {"t":"build","c":"that_book_is_better","dir":"t2n","d":["bad","worse"]},
+        {"t":"fill","c":"this_car_is_bad"},
+        {"t":"choice","c":"good","dir":"n2t","d":["bad","big"]},
+        {"t":"speak","c":"that_car_is_worse"}
+      ]
+    },
+    {
+      "id": "a2_45",
+      "exercises": [
+        {"t":"choice","c":"travel","dir":"t2n","big":true,"d":["visit","call"]},
+        {"t":"choice","c":"visit","dir":"n2t","d":["travel","meet"]},
+        {"t":"match","cs":["travel","visit","meet","call"]},
+        {"t":"match","cs":["buy","study","go","play"]},
+        {"t":"build","c":"i_will_travel_next_summer","dir":"n2t","d":["buy","study"]},
+        {"t":"build","c":"she_will_visit_her_family","dir":"audio","d":["travel","meet"]},
+        {"t":"fill","c":"we_will_meet_tomorrow"},
+        {"t":"listenpick","c":"he_will_call_you_later"},
+        {"t":"speak","c":"i_will_travel_next_summer"},
+        {"t":"choice","c":"she_will_visit_her_family","dir":"t2n","d":["we_will_meet_tomorrow","he_will_call_you_later"]},
+        {"t":"typeword","c":"i_will_buy_a_new_car"},
+        {"t":"build","c":"they_will_study_together","dir":"t2n","d":["go","play"]},
+        {"t":"fill","c":"she_will_visit_the_market"},
+        {"t":"choice","c":"travel","dir":"n2t","d":["visit","call"]},
+        {"t":"speak","c":"we_will_play_football"}
+      ]
+    }
+  ]
+}
