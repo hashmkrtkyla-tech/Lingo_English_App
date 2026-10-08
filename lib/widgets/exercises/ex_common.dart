@@ -32,11 +32,24 @@ class ExerciseController extends ChangeNotifier {
   }
 }
 
-String norm(String s) => s
-    .toLowerCase()
-    .replaceAll(RegExp(r'[.,!?;:،؛؟。！？、，]'), '')
-    .replaceAll(RegExp(r'\s+'), ' ')
-    .trim();
+const _accents = {
+  'á': 'a', 'à': 'a', 'â': 'a', 'ä': 'a',
+  'é': 'e', 'è': 'e', 'ê': 'e', 'ë': 'e',
+  'í': 'i', 'ì': 'i', 'î': 'i', 'ï': 'i',
+  'ó': 'o', 'ò': 'o', 'ô': 'o', 'ö': 'o',
+  'ú': 'u', 'ù': 'u', 'û': 'u', 'ü': 'u',
+  'ñ': 'n', 'ç': 'c',
+};
+
+/// توحيد النص للمقارنة: حروف صغيرة، بدون علامات ترقيم ولا تشكيل لاتيني
+String norm(String s) {
+  var t = s.toLowerCase();
+  _accents.forEach((k, v) => t = t.replaceAll(k, v));
+  return t
+      .replaceAll(RegExp(r'[.,!?;:،؛؟。！？、，¿¡।]'), '')
+      .replaceAll(RegExp(r'\s+'), ' ')
+      .trim();
+}
 
 TextDirection dirOf(String lang) =>
     lang == 'ar' ? TextDirection.rtl : TextDirection.ltr;
