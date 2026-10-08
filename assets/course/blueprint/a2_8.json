@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_36",
+      "exercises": [
+        {"t":"choice","c":"student","dir":"t2n","big":true,"d":["teacher","doctor"]},
+        {"t":"choice","c":"teacher","dir":"n2t","d":["student","worker"]},
+        {"t":"match","cs":["student","teacher","classroom","homework"]},
+        {"t":"match","cs":["lesson","exam","book","pen"]},
+        {"t":"build","c":"i_am_a_student","dir":"n2t","d":["book","pen"]},
+        {"t":"build","c":"she_is_a_teacher","dir":"audio","d":["student","lesson"]},
+        {"t":"fill","c":"the_classroom_is_big"},
+        {"t":"listenpick","c":"i_do_my_homework"},
+        {"t":"speak","c":"i_am_a_student"},
+        {"t":"choice","c":"she_is_a_teacher","dir":"t2n","d":["the_classroom_is_big","i_do_my_homework"]},
+        {"t":"typeword","c":"i_do_my_homework"},
+        {"t":"build","c":"the_classroom_is_big","dir":"t2n","d":["exam","book"]},
+        {"t":"fill","c":"she_is_a_teacher"},
+        {"t":"choice","c":"homework","dir":"n2t","d":["lesson","exam"]},
+        {"t":"speak","c":"i_do_my_homework"}
+      ]
+    },
+    {
+      "id": "a2_37",
+      "exercises": [
+        {"t":"choice","c":"job","dir":"t2n","big":true,"d":["office","boss"]},
+        {"t":"choice","c":"office","dir":"n2t","d":["job","employee"]},
+        {"t":"match","cs":["job","office","boss","employee"]},
+        {"t":"match","cs":["company","meeting","salary","worker"]},
+        {"t":"build","c":"i_go_to_work","dir":"n2t","d":["salary","meeting"]},
+        {"t":"build","c":"he_works_in_an_office","dir":"audio","d":["job","boss"]},
+        {"t":"fill","c":"my_boss_is_nice"},
+        {"t":"listenpick","c":"she_is_a_good_employee"},
+        {"t":"speak","c":"i_go_to_work"},
+        {"t":"choice","c":"he_works_in_an_office","dir":"t2n","d":["my_boss_is_nice","she_is_a_good_employee"]},
+        {"t":"typeword","c":"my_boss_is_nice"},
+        {"t":"build","c":"she_is_a_good_employee","dir":"t2n","d":["company","meeting"]},
+        {"t":"fill","c":"he_works_in_an_office"},
+        {"t":"choice","c":"company","dir":"n2t","d":["salary","meeting"]},
+        {"t":"speak","c":"my_boss_is_nice"}
+      ]
+    },
+    {
+      "id": "a2_38",
+      "exercises": [
+        {"t":"choice","c":"doctor","dir":"t2n","big":true,"d":["nurse","engineer"]},
+        {"t":"choice","c":"nurse","dir":"n2t","d":["doctor","driver"]},
+        {"t":"match","cs":["doctor","nurse","engineer","driver"]},
+        {"t":"match","cs":["teacher","farmer","cook","police_officer"]},
+        {"t":"build","c":"she_is_a_doctor","dir":"n2t","d":["farmer","cook"]},
+        {"t":"build","c":"he_is_a_nurse","dir":"audio","d":["doctor","driver"]},
+        {"t":"fill","c":"my_father_is_an_engineer"},
+        {"t":"listenpick","c":"the_driver_is_here"},
+        {"t":"speak","c":"she_is_a_doctor"},
+        {"t":"choice","c":"he_is_a_nurse","dir":"t2n","d":["my_father_is_an_engineer","the_driver_is_here"]},
+        {"t":"typeword","c":"the_driver_is_here"},
+        {"t":"build","c":"my_father_is_an_engineer","dir":"t2n","d":["teacher","police_officer"]},
+        {"t":"fill","c":"he_is_a_nurse"},
+        {"t":"choice","c":"engineer","dir":"n2t","d":["teacher","farmer"]},
+        {"t":"speak","c":"my_father_is_an_engineer"}
+      ]
+    },
+    {
+      "id": "a2_39",
+      "exercises": [
+        {"t":"choice","c":"book","dir":"t2n","big":true,"d":["pen","pencil"]},
+        {"t":"choice","c":"pen","dir":"n2t","d":["book","eraser"]},
+        {"t":"match","cs":["book","pen","pencil","eraser"]},
+        {"t":"match","cs":["notebook","bag","ruler","desk"]},
+        {"t":"build","c":"this_is_my_book","dir":"n2t","d":["ruler","desk"]},
+        {"t":"build","c":"i_need_a_pen","dir":"audio","d":["book","pencil"]},
+        {"t":"fill","c":"where_is_my_pencil"},
+        {"t":"listenpick","c":"the_eraser_is_small"},
+        {"t":"speak","c":"this_is_my_book"},
+        {"t":"choice","c":"i_need_a_pen","dir":"t2n","d":["where_is_my_pencil","the_eraser_is_small"]},
+        {"t":"typeword","c":"where_is_my_pencil"},
+        {"t":"build","c":"the_eraser_is_small","dir":"t2n","d":["notebook","bag"]},
+        {"t":"fill","c":"i_need_a_pen"},
+        {"t":"choice","c":"notebook","dir":"n2t","d":["ruler","desk"]},
+        {"t":"speak","c":"the_eraser_is_small"}
+      ]
+    },
+    {
+      "id": "a2_40",
+      "exercises": [
+        {"t":"choice","c":"wake_up","dir":"t2n","big":true,"d":["start","finish"]},
+        {"t":"choice","c":"start","dir":"n2t","d":["wake_up","break"]},
+        {"t":"match","cs":["wake_up","start","finish","break"]},
+        {"t":"match","cs":["early","late","lunch","evening"]},
+        {"t":"build","c":"i_wake_up_early","dir":"n2t","d":["late","lunch"]},
+        {"t":"build","c":"the_class_starts_at_eight","dir":"audio","d":["wake_up","finish"]},
+        {"t":"fill","c":"i_finish_work_at_five"},
+        {"t":"listenpick","c":"we_have_a_break"},
+        {"t":"speak","c":"i_wake_up_early"},
+        {"t":"choice","c":"the_class_starts_at_eight","dir":"t2n","d":["i_finish_work_at_five","we_have_a_break"]},
+        {"t":"typeword","c":"i_finish_work_at_five"},
+        {"t":"build","c":"we_have_a_break","dir":"t2n","d":["early","late"]},
+        {"t":"fill","c":"the_class_starts_at_eight"},
+        {"t":"choice","c":"lunch","dir":"n2t","d":["early","evening"]},
+        {"t":"speak","c":"we_have_a_break"}
+      ]
+    }
+  ]
+        }
