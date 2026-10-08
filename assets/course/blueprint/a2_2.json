@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_06",
+      "exercises": [
+        {"t":"choice","c":"clothes","dir":"t2n","big":true,"d":["shoes","groceries"]},
+        {"t":"choice","c":"shoes","dir":"n2t","d":["clothes","electronics"]},
+        {"t":"match","cs":["clothes","shoes","electronics","groceries"]},
+        {"t":"match","cs":["cosmetics","toys","books","jewelry"]},
+        {"t":"build","c":"where_is_the_shoe_section","dir":"n2t","d":["toys","books"]},
+        {"t":"build","c":"the_grocery_store_is_big","dir":"audio","d":["clothes","shoes"]},
+        {"t":"fill","c":"i_am_looking_for_the_toy_section"},
+        {"t":"listenpick","c":"do_you_sell_electronics"},
+        {"t":"speak","c":"where_is_the_shoe_section"},
+        {"t":"choice","c":"the_grocery_store_is_big","dir":"t2n","d":["where_is_the_shoe_section","do_you_sell_electronics"]},
+        {"t":"typeword","c":"do_you_sell_electronics"},
+        {"t":"build","c":"where_is_the_shoe_section","dir":"t2n","d":["cosmetics","jewelry"]},
+        {"t":"fill","c":"do_you_sell_electronics"},
+        {"t":"choice","c":"electronics","dir":"n2t","d":["groceries","toys"]},
+        {"t":"speak","c":"the_grocery_store_is_big"}
+      ]
+    },
+    {
+      "id": "a2_07",
+      "exercises": [
+        {"t":"choice","c":"buy","dir":"t2n","big":true,"d":["receipt","discount"]},
+        {"t":"choice","c":"sell","dir":"n2t","d":["buy","offer"]},
+        {"t":"match","cs":["buy","sell","offer","cashier"]},
+        {"t":"match","cs":["receipt","discount","sale","bargain"]},
+        {"t":"build","c":"i_want_to_buy_a_shirt","dir":"n2t","d":["receipt","discount"]},
+        {"t":"build","c":"they_sell_good_food","dir":"audio","d":["buy","offer"]},
+        {"t":"fill","c":"this_is_a_special_offer"},
+        {"t":"listenpick","c":"where_is_the_cashier"},
+        {"t":"speak","c":"i_want_to_buy_a_shirt"},
+        {"t":"choice","c":"they_sell_good_food","dir":"t2n","d":["where_is_the_cashier","this_is_a_special_offer"]},
+        {"t":"typeword","c":"where_is_the_cashier"},
+        {"t":"build","c":"they_sell_good_food","dir":"t2n","d":["sale","bargain"]},
+        {"t":"fill","c":"where_is_the_cashier"},
+        {"t":"choice","c":"receipt","dir":"n2t","d":["discount","sale"]},
+        {"t":"speak","c":"i_want_to_buy_a_shirt"}
+      ]
+    },
+    {
+      "id": "a2_08",
+      "exercises": [
+        {"t":"choice","c":"t-shirt","dir":"t2n","big":true,"d":["socks","boots"]},
+        {"t":"choice","c":"jacket","dir":"n2t","d":["coat","sweater"]},
+        {"t":"match","cs":["t-shirt","shirt","sweater","jacket"]},
+        {"t":"match","cs":["jeans","trousers","skirt","dress"]},
+        {"t":"build","c":"this_shirt_is_blue","dir":"n2t","d":["socks","boots"]},
+        {"t":"build","c":"i_like_your_jacket","dir":"audio","d":["coat","sweater"]},
+        {"t":"fill","c":"she_wears_a_red_dress"},
+        {"t":"listenpick","c":"these_shoes_are_new"},
+        {"t":"speak","c":"this_shirt_is_blue"},
+        {"t":"choice","c":"i_like_your_jacket","dir":"t2n","d":["she_wears_a_red_dress","these_shoes_are_new"]},
+        {"t":"typeword","c":"these_shoes_are_new"},
+        {"t":"build","c":"she_wears_a_red_dress","dir":"t2n","d":["jeans","trousers"]},
+        {"t":"fill","c":"i_like_your_jacket"},
+        {"t":"choice","c":"sweater","dir":"n2t","d":["jacket","coat"]},
+        {"t":"speak","c":"these_shoes_are_new"}
+      ]
+    },
+    {
+      "id": "a2_09",
+      "exercises": [
+        {"t":"choice","c":"new","dir":"t2n","big":true,"d":["cheap","beautiful"]},
+        {"t":"choice","c":"comfortable","dir":"n2t","d":["new","old"]},
+        {"t":"match","cs":["new","old","clean","dirty"]},
+        {"t":"match","cs":["big","small","comfortable","expensive"]},
+        {"t":"build","c":"this_is_a_clean_shirt","dir":"n2t","d":["cheap","beautiful"]},
+        {"t":"build","c":"i_need_a_bigger_size","dir":"audio","d":["new","old"]},
+        {"t":"fill","c":"these_shoes_are_comfortable"},
+        {"t":"listenpick","c":"it_is_an_expensive_coat"},
+        {"t":"speak","c":"this_is_a_clean_shirt"},
+        {"t":"choice","c":"i_need_a_bigger_size","dir":"t2n","d":["these_shoes_are_comfortable","it_is_an_expensive_coat"]},
+        {"t":"typeword","c":"it_is_an_expensive_coat"},
+        {"t":"build","c":"these_shoes_are_comfortable","dir":"t2n","d":["big","small"]},
+        {"t":"fill","c":"i_need_a_bigger_size"},
+        {"t":"choice","c":"cheap","dir":"n2t","d":["expensive","beautiful"]},
+        {"t":"speak","c":"it_is_an_expensive_coat"}
+      ]
+    },
+    {
+      "id": "a2_10",
+      "exercises": [
+        {"t":"choice","c":"try_on","dir":"t2n","big":true,"d":["choose","wear"]},
+        {"t":"choice","c":"fit","dir":"n2t","d":["try_on","match"]},
+        {"t":"match","cs":["try_on","fit","choose","wear"]},
+        {"t":"match","cs":["put_on","take_off","match","size"]},
+        {"t":"build","c":"can_i_try_on_this_dress","dir":"n2t","d":["choose","wear"]},
+        {"t":"build","c":"the_shirt_does_not_fit","dir":"audio","d":["try_on","fit"]},
+        {"t":"fill","c":"i_will_take_this_one"},
+        {"t":"listenpick","c":"where_is_the_fitting_room"},
+        {"t":"speak","c":"can_i_try_on_this_dress"},
+        {"t":"choice","c":"the_shirt_does_not_fit","dir":"t2n","d":["i_will_take_this_one","where_is_the_fitting_room"]},
+        {"t":"typeword","c":"where_is_the_fitting_room"},
+        {"t":"build","c":"i_will_take_this_one","dir":"t2n","d":["put_on","take_off"]},
+        {"t":"fill","c":"can_i_try_on_this_dress"},
+        {"t":"choice","c":"wear","dir":"n2t","d":["match","choose"]},
+        {"t":"speak","c":"where_is_the_fitting_room"}
+      ]
+    }
+  ]
+}
