@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_11",
+      "exercises": [
+        {"t":"choice","c":"meat","dir":"t2n","big":true,"d":["soup","fruit"]},
+        {"t":"choice","c":"chicken","dir":"n2t","d":["fish","bread"]},
+        {"t":"match","cs":["meat","chicken","fish","rice"]},
+        {"t":"match","cs":["bread","cheese","egg","soup"]},
+        {"t":"build","c":"i_eat_chicken_and_rice","dir":"n2t","d":["fish","soup"]},
+        {"t":"build","c":"he_eats_bread_and_cheese","dir":"audio","d":["meat","egg"]},
+        {"t":"fill","c":"do_you_like_fish"},
+        {"t":"listenpick","c":"the_egg_is_small"},
+        {"t":"speak","c":"i_eat_chicken_and_rice"},
+        {"t":"choice","c":"he_eats_bread_and_cheese","dir":"t2n","d":["the_egg_is_small","do_you_like_fish"]},
+        {"t":"typeword","c":"do_you_like_fish"},
+        {"t":"build","c":"the_egg_is_small","dir":"t2n","d":["bread","cheese"]},
+        {"t":"fill","c":"he_eats_bread_and_cheese"},
+        {"t":"choice","c":"rice","dir":"n2t","d":["fish","soup"]},
+        {"t":"speak","c":"the_egg_is_small"}
+      ]
+    },
+    {
+      "id": "a2_12",
+      "exercises": [
+        {"t":"choice","c":"salad","dir":"t2n","big":true,"d":["pizza","cake"]},
+        {"t":"choice","c":"pizza","dir":"n2t","d":["sandwich","ice_cream"]},
+        {"t":"match","cs":["salad","pizza","sandwich","cake"]},
+        {"t":"match","cs":["ice_cream","vegetables","fruit","soup"]},
+        {"t":"build","c":"i_like_fruit_salad","dir":"n2t","d":["cake","pizza"]},
+        {"t":"build","c":"we_eat_pizza_on_friday","dir":"audio","d":["sandwich","salad"]},
+        {"t":"fill","c":"this_sandwich_is_good"},
+        {"t":"listenpick","c":"the_cake_is_sweet"},
+        {"t":"speak","c":"i_like_fruit_salad"},
+        {"t":"choice","c":"we_eat_pizza_on_friday","dir":"t2n","d":["this_sandwich_is_good","the_cake_is_sweet"]},
+        {"t":"typeword","c":"the_cake_is_sweet"},
+        {"t":"build","c":"this_sandwich_is_good","dir":"t2n","d":["ice_cream","vegetables"]},
+        {"t":"fill","c":"we_eat_pizza_on_friday"},
+        {"t":"choice","c":"vegetables","dir":"n2t","d":["fruit","cake"]},
+        {"t":"speak","c":"this_sandwich_is_good"}
+      ]
+    },
+    {
+      "id": "a2_13",
+      "exercises": [
+        {"t":"choice","c":"water","dir":"t2n","big":true,"d":["tea","soda"]},
+        {"t":"choice","c":"milk","dir":"n2t","d":["juice","coffee"]},
+        {"t":"match","cs":["water","milk","juice","tea"]},
+        {"t":"match","cs":["coffee","lemonade","soda","hot_chocolate"]},
+        {"t":"build","c":"i_drink_water","dir":"n2t","d":["tea","milk"]},
+        {"t":"build","c":"she_likes_tea","dir":"audio","d":["juice","coffee"]},
+        {"t":"fill","c":"we_want_orange_juice"},
+        {"t":"listenpick","c":"coffee_is_hot"},
+        {"t":"speak","c":"i_drink_water"},
+        {"t":"choice","c":"she_likes_tea","dir":"t2n","d":["coffee_is_hot","we_want_orange_juice"]},
+        {"t":"typeword","c":"we_want_orange_juice"},
+        {"t":"build","c":"coffee_is_hot","dir":"t2n","d":["soda","lemonade"]},
+        {"t":"fill","c":"she_likes_tea"},
+        {"t":"choice","c":"juice","dir":"n2t","d":["water","coffee"]},
+        {"t":"speak","c":"we_want_orange_juice"}
+      ]
+    },
+    {
+      "id": "a2_14",
+      "exercises": [
+        {"t":"choice","c":"hungry","dir":"t2n","big":true,"d":["thirsty","delicious"]},
+        {"t":"choice","c":"thirsty","dir":"n2t","d":["hungry","menu"]},
+        {"t":"match","cs":["hungry","thirsty","delicious","menu"]},
+        {"t":"match","cs":["order","bill","waiter","restaurant"]},
+        {"t":"build","c":"i_am_hungry","dir":"n2t","d":["menu","order"]},
+        {"t":"build","c":"she_is_thirsty","dir":"audio","d":["hungry","bill"]},
+        {"t":"fill","c":"the_food_is_delicious"},
+        {"t":"listenpick","c":"can_i_have_the_menu"},
+        {"t":"speak","c":"i_am_hungry"},
+        {"t":"choice","c":"she_is_thirsty","dir":"t2n","d":["the_food_is_delicious","can_i_have_the_menu"]},
+        {"t":"typeword","c":"the_food_is_delicious"},
+        {"t":"build","c":"can_i_have_the_menu","dir":"t2n","d":["waiter","restaurant"]},
+        {"t":"fill","c":"she_is_thirsty"},
+        {"t":"choice","c":"bill","dir":"n2t","d":["order","menu"]},
+        {"t":"speak","c":"the_food_is_delicious"}
+      ]
+    },
+    {
+      "id": "a2_15",
+      "exercises": [
+        {"t":"choice","c":"table","dir":"t2n","big":true,"d":["fork","knife"]},
+        {"t":"choice","c":"waiter","dir":"n2t","d":["spoon","plate"]},
+        {"t":"match","cs":["table","waiter","fork","knife"]},
+        {"t":"match","cs":["spoon","plate","glass","restaurant"]},
+        {"t":"build","c":"where_is_the_restaurant","dir":"n2t","d":["fork","knife"]},
+        {"t":"build","c":"a_table_for_two_please","dir":"audio","d":["spoon","plate"]},
+        {"t":"fill","c":"can_i_have_a_fork"},
+        {"t":"listenpick","c":"the_waiter_is_here"},
+        {"t":"speak","c":"where_is_the_restaurant"},
+        {"t":"choice","c":"a_table_for_two_please","dir":"t2n","d":["the_waiter_is_here","can_i_have_a_fork"]},
+        {"t":"typeword","c":"can_i_have_a_fork"},
+        {"t":"build","c":"the_waiter_is_here","dir":"t2n","d":["glass","spoon"]},
+        {"t":"fill","c":"a_table_for_two_please"},
+        {"t":"choice","c":"glass","dir":"n2t","d":["plate","fork"]},
+        {"t":"speak","c":"the_waiter_is_here"}
+      ]
+    }
+  ]
+}
