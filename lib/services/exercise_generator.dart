@@ -10,7 +10,7 @@ class PackConcept {
   const PackConcept(this.t, this.h, this.words, this.gaps);
 
   static final RegExp _edge =
-      RegExp(r'^[\s.,!?;:،؛؟"()«»]+|[\s.,!?;:،؛؟"()«»]+$');
+      RegExp(r'^[\s.,!?;:،؛؟"()«»¿¡。！？、，।]+|[\s.,!?;:،؛؟"()«»¿¡。！？、，।]+$');
 
   static List<String> tokenize(String t) => t
       .split(RegExp(r'\s+'))
@@ -163,7 +163,7 @@ class ExerciseGenerator {
       parts.add(g.contains(i) ? '___' : c.words[i]);
     }
     final endP =
-        RegExp(r'[.!?؟。！？]$').firstMatch(c.t.trim())?.group(0) ?? '';
+        RegExp(r'[.!?؟。！？।]$').firstMatch(c.t.trim())?.group(0) ?? '';
     var s = parts.join(joiner);
     if (endP.isNotEmpty) s += (joiner.isEmpty ? '' : ' ') + endP;
     return _Gap(s, g.map((i) => c.words[i]).toList());
