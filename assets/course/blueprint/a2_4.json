@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_16",
+      "exercises": [
+        {"t":"choice","c":"house","dir":"t2n","big":true,"d":["flat","garden"]},
+        {"t":"choice","c":"flat","dir":"n2t","d":["house","garage"]},
+        {"t":"match","cs":["house","flat","garden","garage"]},
+        {"t":"match","cs":["street","key","door","window"]},
+        {"t":"build","c":"my_house_is_big","dir":"n2t","d":["key","door"]},
+        {"t":"build","c":"i_live_in_a_flat","dir":"audio","d":["house","garden"]},
+        {"t":"fill","c":"the_garden_is_small"},
+        {"t":"listenpick","c":"where_is_the_key"},
+        {"t":"speak","c":"my_house_is_big"},
+        {"t":"choice","c":"i_live_in_a_flat","dir":"t2n","d":["the_garden_is_small","where_is_the_key"]},
+        {"t":"typeword","c":"where_is_the_key"},
+        {"t":"build","c":"open_the_door","dir":"t2n","d":["window","street"]},
+        {"t":"fill","c":"close_the_window"},
+        {"t":"choice","c":"garden","dir":"n2t","d":["garage","flat"]},
+        {"t":"speak","c":"i_live_in_a_flat"}
+      ]
+    },
+    {
+      "id": "a2_17",
+      "exercises": [
+        {"t":"choice","c":"kitchen","dir":"t2n","big":true,"d":["bedroom","bathroom"]},
+        {"t":"choice","c":"bedroom","dir":"n2t","d":["kitchen","balcony"]},
+        {"t":"match","cs":["kitchen","bedroom","bathroom","living_room"]},
+        {"t":"match","cs":["dining_room","balcony","hallway","stairs"]},
+        {"t":"build","c":"the_kitchen_is_clean","dir":"n2t","d":["stairs","balcony"]},
+        {"t":"build","c":"my_bedroom_is_upstairs","dir":"audio","d":["kitchen","bathroom"]},
+        {"t":"fill","c":"the_bathroom_is_small"},
+        {"t":"listenpick","c":"we_sit_in_the_living_room"},
+        {"t":"speak","c":"the_kitchen_is_clean"},
+        {"t":"choice","c":"my_bedroom_is_upstairs","dir":"t2n","d":["the_bathroom_is_small","we_sit_in_the_living_room"]},
+        {"t":"typeword","c":"we_sit_in_the_living_room"},
+        {"t":"build","c":"the_dining_room_is_big","dir":"t2n","d":["hallway","stairs"]},
+        {"t":"fill","c":"go_up_the_stairs"},
+        {"t":"choice","c":"balcony","dir":"n2t","d":["hallway","bathroom"]},
+        {"t":"speak","c":"my_bedroom_is_upstairs"}
+      ]
+    },
+    {
+      "id": "a2_18",
+      "exercises": [
+        {"t":"choice","c":"sofa","dir":"t2n","big":true,"d":["table","chair"]},
+        {"t":"choice","c":"table","dir":"n2t","d":["sofa","bed"]},
+        {"t":"match","cs":["sofa","table","chair","bed"]},
+        {"t":"match","cs":["wardrobe","bookshelf","lamp","mirror"]},
+        {"t":"build","c":"the_sofa_is_comfortable","dir":"n2t","d":["lamp","mirror"]},
+        {"t":"build","c":"put_it_on_the_table","dir":"audio","d":["sofa","chair"]},
+        {"t":"fill","c":"the_chair_is_wooden"},
+        {"t":"listenpick","c":"my_bed_is_soft"},
+        {"t":"speak","c":"the_sofa_is_comfortable"},
+        {"t":"choice","c":"put_it_on_the_table","dir":"t2n","d":["the_chair_is_wooden","my_bed_is_soft"]},
+        {"t":"typeword","c":"my_bed_is_soft"},
+        {"t":"build","c":"the_wardrobe_is_new","dir":"t2n","d":["bookshelf","lamp"]},
+        {"t":"fill","c":"turn_on_the_lamp"},
+        {"t":"choice","c":"bookshelf","dir":"n2t","d":["wardrobe","mirror"]},
+        {"t":"speak","c":"put_it_on_the_table"}
+      ]
+    },
+    {
+      "id": "a2_19",
+      "exercises": [
+        {"t":"choice","c":"clean","dir":"t2n","big":true,"d":["cook","wash"]},
+        {"t":"choice","c":"cook","dir":"n2t","d":["clean","repair"]},
+        {"t":"match","cs":["clean","cook","wash","repair"]},
+        {"t":"match","cs":["paint","water","decorate","tidy_up"]},
+        {"t":"build","c":"i_clean_the_kitchen","dir":"n2t","d":["paint","water"]},
+        {"t":"build","c":"please_tidy_up_your_room","dir":"audio","d":["clean","cook"]},
+        {"t":"fill","c":"she_cooks_dinner_every_day"},
+        {"t":"listenpick","c":"he_washes_the_car"},
+        {"t":"speak","c":"i_clean_the_kitchen"},
+        {"t":"choice","c":"please_tidy_up_your_room","dir":"t2n","d":["she_cooks_dinner_every_day","he_washes_the_car"]},
+        {"t":"typeword","c":"he_washes_the_car"},
+        {"t":"build","c":"we_repair_the_door","dir":"t2n","d":["decorate","tidy_up"]},
+        {"t":"fill","c":"they_paint_the_wall"},
+        {"t":"choice","c":"repair","dir":"n2t","d":["wash","paint"]},
+        {"t":"speak","c":"please_tidy_up_your_room"}
+      ]
+    },
+    {
+      "id": "a2_20",
+      "exercises": [
+        {"t":"choice","c":"big","dir":"t2n","big":true,"d":["small","clean"]},
+        {"t":"choice","c":"small","dir":"n2t","d":["big","dirty"]},
+        {"t":"match","cs":["big","small","clean","dirty"]},
+        {"t":"match","cs":["modern","comfortable","quiet","bright"]},
+        {"t":"build","c":"my_house_is_big","dir":"n2t","d":["quiet","bright"]},
+        {"t":"build","c":"the_room_is_clean","dir":"audio","d":["big","small"]},
+        {"t":"fill","c":"this_chair_is_comfortable"},
+        {"t":"listenpick","c":"the_house_is_modern"},
+        {"t":"speak","c":"my_house_is_big"},
+        {"t":"choice","c":"the_room_is_clean","dir":"t2n","d":["this_chair_is_comfortable","the_house_is_modern"]},
+        {"t":"typeword","c":"the_house_is_modern"},
+        {"t":"build","c":"the_garden_is_quiet","dir":"t2n","d":["modern","comfortable"]},
+        {"t":"fill","c":"the_kitchen_is_bright"},
+        {"t":"choice","c":"dirty","dir":"n2t","d":["clean","small"]},
+        {"t":"speak","c":"the_room_is_clean"}
+      ]
+    }
+  ]
+}
