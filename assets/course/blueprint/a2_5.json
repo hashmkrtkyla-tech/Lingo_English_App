@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_21",
+      "exercises": [
+        {"t":"choice","c":"kind","dir":"t2n","big":true,"d":["friendly","helpful"]},
+        {"t":"choice","c":"honest","dir":"n2t","d":["kind","important"]},
+        {"t":"match","cs":["kind","friendly","helpful","honest"]},
+        {"t":"match","cs":["important","interesting","boring","easy"]},
+        {"t":"build","c":"he_is_a_kind_man","dir":"n2t","d":["tall","short"]},
+        {"t":"build","c":"this_book_is_interesting","dir":"audio","d":["boring","easy"]},
+        {"t":"fill","c":"she_is_friendly"},
+        {"t":"listenpick","c":"the_test_is_difficult"},
+        {"t":"speak","c":"he_is_a_kind_man"},
+        {"t":"choice","c":"they_are_helpful","dir":"t2n","d":["she_is_friendly","the_test_is_difficult"]},
+        {"t":"typeword","c":"she_is_friendly"},
+        {"t":"build","c":"my_friend_is_tall","dir":"t2n","d":["easy","difficult"]},
+        {"t":"fill","c":"they_are_helpful"},
+        {"t":"choice","c":"difficult","dir":"n2t","d":["easy","boring"]},
+        {"t":"speak","c":"this_book_is_interesting"}
+      ]
+    },
+    {
+      "id": "a2_22",
+      "exercises": [
+        {"t":"choice","c":"bank","dir":"t2n","big":true,"d":["hospital","pharmacy"]},
+        {"t":"choice","c":"library","dir":"n2t","d":["park","cinema"]},
+        {"t":"match","cs":["bank","post_office","hospital","pharmacy"]},
+        {"t":"match","cs":["restaurant","park","library","cinema"]},
+        {"t":"build","c":"i_go_to_the_bank","dir":"n2t","d":["museum","supermarket"]},
+        {"t":"build","c":"the_park_is_near_my_house","dir":"audio","d":["bank","hospital"]},
+        {"t":"fill","c":"she_is_at_the_pharmacy"},
+        {"t":"listenpick","c":"we_eat_in_a_restaurant"},
+        {"t":"speak","c":"i_go_to_the_bank"},
+        {"t":"choice","c":"the_hospital_is_big","dir":"t2n","d":["she_is_at_the_pharmacy","we_eat_in_a_restaurant"]},
+        {"t":"typeword","c":"she_is_at_the_pharmacy"},
+        {"t":"build","c":"i_read_in_the_library","dir":"t2n","d":["cinema","museum"]},
+        {"t":"fill","c":"the_hospital_is_big"},
+        {"t":"choice","c":"supermarket","dir":"n2t","d":["restaurant","park"]},
+        {"t":"speak","c":"the_park_is_near_my_house"}
+      ]
+    },
+    {
+      "id": "a2_23",
+      "exercises": [
+        {"t":"choice","c":"morning","dir":"t2n","big":true,"d":["evening","night"]},
+        {"t":"choice","c":"yesterday","dir":"n2t","d":["today","tomorrow"]},
+        {"t":"match","cs":["morning","evening","today","yesterday"]},
+        {"t":"match","cs":["tomorrow","hour","minute","breakfast"]},
+        {"t":"build","c":"i_wake_up_in_the_morning","dir":"n2t","d":["lunch","night"]},
+        {"t":"build","c":"today_is_a_good_day","dir":"audio","d":["morning","evening"]},
+        {"t":"fill","c":"she_works_in_the_evening"},
+        {"t":"listenpick","c":"i_eat_breakfast_at_seven"},
+        {"t":"speak","c":"i_wake_up_in_the_morning"},
+        {"t":"choice","c":"yesterday_was_monday","dir":"t2n","d":["she_works_in_the_evening","i_eat_breakfast_at_seven"]},
+        {"t":"typeword","c":"she_works_in_the_evening"},
+        {"t":"build","c":"we_will_meet_tomorrow","dir":"t2n","d":["hour","minute"]},
+        {"t":"fill","c":"today_is_a_good_day"},
+        {"t":"choice","c":"lunch","dir":"n2t","d":["breakfast","night"]},
+        {"t":"speak","c":"i_eat_breakfast_at_seven"}
+      ]
+    },
+    {
+      "id": "a2_24",
+      "exercises": [
+        {"t":"choice","c":"sun","dir":"t2n","big":true,"d":["cloud","rain"]},
+        {"t":"choice","c":"river","dir":"n2t","d":["sea","mountain"]},
+        {"t":"match","cs":["sun","cloud","rain","snow"]},
+        {"t":"match","cs":["wind","mountain","river","sea"]},
+        {"t":"build","c":"the_sun_is_hot_today","dir":"n2t","d":["tree","flower"]},
+        {"t":"build","c":"there_are_clouds_in_the_sky","dir":"audio","d":["sun","rain"]},
+        {"t":"fill","c":"it_will_rain_tomorrow"},
+        {"t":"listenpick","c":"the_wind_is_strong"},
+        {"t":"speak","c":"the_sun_is_hot_today"},
+        {"t":"choice","c":"i_like_the_snow","dir":"t2n","d":["it_will_rain_tomorrow","the_wind_is_strong"]},
+        {"t":"typeword","c":"it_will_rain_tomorrow"},
+        {"t":"build","c":"we_swim_in_the_sea","dir":"t2n","d":["mountain","river"]},
+        {"t":"fill","c":"the_wind_is_strong"},
+        {"t":"choice","c":"mountain","dir":"n2t","d":["river","tree"]},
+        {"t":"speak","c":"there_are_clouds_in_the_sky"}
+      ]
+    },
+    {
+      "id": "a2_25",
+      "exercises": [
+        {"t":"choice","c":"subject","dir":"t2n","big":true,"d":["homework","test"]},
+        {"t":"choice","c":"boss","dir":"n2t","d":["employee","colleague"]},
+        {"t":"match","cs":["subject","homework","test","grade"]},
+        {"t":"match","cs":["class","office","job","employee"]},
+        {"t":"build","c":"my_favorite_subject_is_math","dir":"n2t","d":["boss","colleague"]},
+        {"t":"build","c":"i_do_my_homework_every_day","dir":"audio","d":["subject","test"]},
+        {"t":"fill","c":"the_test_is_easy"},
+        {"t":"listenpick","c":"he_works_in_an_office"},
+        {"t":"speak","c":"my_favorite_subject_is_math"},
+        {"t":"choice","c":"she_got_a_good_grade","dir":"t2n","d":["the_test_is_easy","he_works_in_an_office"]},
+        {"t":"typeword","c":"the_test_is_easy"},
+        {"t":"build","c":"my_boss_is_kind","dir":"t2n","d":["job","employee"]},
+        {"t":"fill","c":"he_works_in_an_office"},
+        {"t":"choice","c":"job","dir":"n2t","d":["office","class"]},
+        {"t":"speak","c":"i_do_my_homework_every_day"}
+      ]
+    }
+  ]
+}
