@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_26",
+      "exercises": [
+        {"t":"choice","c":"happy","dir":"t2n","big":true,"d":["sad","angry"]},
+        {"t":"choice","c":"sad","dir":"n2t","d":["happy","tired"]},
+        {"t":"match","cs":["happy","sad","angry","tired"]},
+        {"t":"match","cs":["excited","worried","relaxed","bored"]},
+        {"t":"build","c":"i_am_happy_today","dir":"n2t","d":["hungry","thirsty"]},
+        {"t":"build","c":"she_is_sad","dir":"audio","d":["happy","tired"]},
+        {"t":"fill","c":"he_is_angry"},
+        {"t":"listenpick","c":"i_am_tired"},
+        {"t":"speak","c":"i_am_happy_today"},
+        {"t":"choice","c":"she_is_sad","dir":"t2n","d":["he_is_angry","i_am_tired"]},
+        {"t":"typeword","c":"he_is_angry"},
+        {"t":"build","c":"i_am_tired","dir":"t2n","d":["excited","relaxed"]},
+        {"t":"fill","c":"she_is_sad"},
+        {"t":"choice","c":"excited","dir":"n2t","d":["bored","worried"]},
+        {"t":"speak","c":"i_am_tired"}
+      ]
+    },
+    {
+      "id": "a2_27",
+      "exercises": [
+        {"t":"choice","c":"joyful","dir":"t2n","big":true,"d":["sad","angry"]},
+        {"t":"choice","c":"grateful","dir":"n2t","d":["joyful","hopeful"]},
+        {"t":"match","cs":["joyful","grateful","optimistic","hopeful"]},
+        {"t":"match","cs":["confident","loved","proud","surprised"]},
+        {"t":"build","c":"we_are_joyful_today","dir":"n2t","d":["tired","bored"]},
+        {"t":"build","c":"i_am_grateful_for_my_family","dir":"audio","d":["joyful","hopeful"]},
+        {"t":"fill","c":"he_is_optimistic_about_the_future"},
+        {"t":"listenpick","c":"i_am_hopeful_about_the_results"},
+        {"t":"speak","c":"we_are_joyful_today"},
+        {"t":"choice","c":"she_is_confident_in_her_skills","dir":"t2n","d":["he_is_optimistic_about_the_future","i_am_hopeful_about_the_results"]},
+        {"t":"typeword","c":"i_am_grateful_for_my_family"},
+        {"t":"build","c":"she_is_confident_in_her_skills","dir":"t2n","d":["proud","surprised"]},
+        {"t":"fill","c":"i_am_hopeful_about_the_results"},
+        {"t":"choice","c":"proud","dir":"n2t","d":["loved","confident"]},
+        {"t":"speak","c":"he_is_optimistic_about_the_future"}
+      ]
+    },
+    {
+      "id": "a2_28",
+      "exercises": [
+        {"t":"choice","c":"very","dir":"t2n","big":true,"d":["quite","really"]},
+        {"t":"choice","c":"really","dir":"n2t","d":["very","a_little"]},
+        {"t":"match","cs":["very","really","quite","a_little"]},
+        {"t":"match","cs":["not_very","not_at_all","extremely","so"]},
+        {"t":"build","c":"i_am_very_happy","dir":"n2t","d":["tired","bored"]},
+        {"t":"build","c":"she_is_really_tired","dir":"audio","d":["very","quite"]},
+        {"t":"fill","c":"he_is_quite_angry"},
+        {"t":"listenpick","c":"i_am_a_little_sad"},
+        {"t":"speak","c":"i_am_very_happy"},
+        {"t":"choice","c":"she_is_really_tired","dir":"t2n","d":["he_is_quite_angry","i_am_a_little_sad"]},
+        {"t":"typeword","c":"he_is_quite_angry"},
+        {"t":"build","c":"i_am_a_little_sad","dir":"t2n","d":["extremely","so"]},
+        {"t":"fill","c":"she_is_really_tired"},
+        {"t":"choice","c":"extremely","dir":"n2t","d":["very","quite"]},
+        {"t":"speak","c":"i_am_a_little_sad"}
+      ]
+    },
+    {
+      "id": "a2_29",
+      "exercises": [
+        {"t":"choice","c":"worried","dir":"t2n","big":true,"d":["relaxed","bored"]},
+        {"t":"choice","c":"relaxed","dir":"n2t","d":["worried","nervous"]},
+        {"t":"match","cs":["worried","relaxed","bored","nervous"]},
+        {"t":"match","cs":["afraid","stressed","jealous","frustrated"]},
+        {"t":"build","c":"i_am_worried_about_my_exam","dir":"n2t","d":["happy","tired"]},
+        {"t":"build","c":"i_feel_relaxed_now","dir":"audio","d":["worried","bored"]},
+        {"t":"fill","c":"i_am_bored"},
+        {"t":"listenpick","c":"i_am_nervous_before_the_test"},
+        {"t":"speak","c":"i_am_worried_about_my_exam"},
+        {"t":"choice","c":"he_is_afraid_of_darkness","dir":"t2n","d":["i_am_bored","i_am_nervous_before_the_test"]},
+        {"t":"typeword","c":"i_am_bored"},
+        {"t":"build","c":"she_is_stressed_about_her_studies","dir":"t2n","d":["afraid","jealous"]},
+        {"t":"fill","c":"i_am_nervous_before_the_test"},
+        {"t":"choice","c":"jealous","dir":"n2t","d":["stressed","frustrated"]},
+        {"t":"speak","c":"i_feel_relaxed_now"}
+      ]
+    },
+    {
+      "id": "a2_30",
+      "exercises": [
+        {"t":"choice","c":"mood","dir":"t2n","big":true,"d":["feeling","emotion"]},
+        {"t":"choice","c":"calm","dir":"n2t","d":["mood","upset"]},
+        {"t":"match","cs":["mood","emotion","feeling","calm"]},
+        {"t":"match","cs":["how_do_you_feel","i_feel_good","what_makes_you_happy","do_you_feel_better"]},
+        {"t":"build","c":"how_do_you_feel","dir":"n2t","d":["mood","calm"]},
+        {"t":"build","c":"i_feel_good","dir":"audio","d":["emotion","feeling"]},
+        {"t":"fill","c":"what_makes_you_happy"},
+        {"t":"listenpick","c":"do_you_feel_better_now"},
+        {"t":"speak","c":"how_do_you_feel"},
+        {"t":"choice","c":"i_am_in_a_good_mood","dir":"t2n","d":["what_makes_you_happy","do_you_feel_better_now"]},
+        {"t":"typeword","c":"do_you_feel_better_now"},
+        {"t":"build","c":"i_am_in_a_good_mood","dir":"t2n","d":["upset","cheerful"]},
+        {"t":"fill","c":"i_feel_good"},
+        {"t":"choice","c":"feeling","dir":"n2t","d":["emotion","mood"]},
+        {"t":"speak","c":"i_am_in_a_good_mood"}
+      ]
+    }
+  ]
+}
