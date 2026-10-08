@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_31",
+      "exercises": [
+        {"t":"choice","c":"plane","dir":"t2n","big":true,"d":["train","bus"]},
+        {"t":"choice","c":"train","dir":"n2t","d":["plane","car"]},
+        {"t":"match","cs":["plane","train","bus","car"]},
+        {"t":"match","cs":["taxi","ticket","travel","trip"]},
+        {"t":"build","c":"i_travel_by_plane","dir":"n2t","d":["bus","train"]},
+        {"t":"build","c":"the_train_is_fast","dir":"audio","d":["plane","car"]},
+        {"t":"fill","c":"we_take_a_bus"},
+        {"t":"listenpick","c":"i_need_a_ticket"},
+        {"t":"speak","c":"i_travel_by_plane"},
+        {"t":"choice","c":"the_train_is_fast","dir":"t2n","d":["i_need_a_ticket","we_take_a_bus"]},
+        {"t":"typeword","c":"we_take_a_bus"},
+        {"t":"build","c":"i_need_a_ticket","dir":"t2n","d":["taxi","ticket"]},
+        {"t":"fill","c":"lets_take_a_taxi"},
+        {"t":"choice","c":"ticket","dir":"n2t","d":["taxi","trip"]},
+        {"t":"speak","c":"we_take_a_bus"}
+      ]
+    },
+    {
+      "id": "a2_32",
+      "exercises": [
+        {"t":"choice","c":"passport","dir":"t2n","big":true,"d":["luggage","map"]},
+        {"t":"choice","c":"luggage","dir":"n2t","d":["passport","hotel"]},
+        {"t":"match","cs":["passport","luggage","map","hotel"]},
+        {"t":"match","cs":["reservation","guide","insurance","tourist"]},
+        {"t":"build","c":"dont_forget_your_passport","dir":"n2t","d":["map","hotel"]},
+        {"t":"build","c":"where_is_my_luggage","dir":"audio","d":["passport","guide"]},
+        {"t":"fill","c":"i_have_a_map"},
+        {"t":"listenpick","c":"i_have_a_reservation"},
+        {"t":"speak","c":"dont_forget_your_passport"},
+        {"t":"choice","c":"where_is_my_luggage","dir":"t2n","d":["i_have_a_reservation","i_have_a_map"]},
+        {"t":"typeword","c":"i_have_a_map"},
+        {"t":"build","c":"i_have_a_reservation","dir":"t2n","d":["guide","insurance"]},
+        {"t":"fill","c":"the_hotel_is_nice"},
+        {"t":"choice","c":"map","dir":"n2t","d":["hotel","guide"]},
+        {"t":"speak","c":"where_is_my_luggage"}
+      ]
+    },
+    {
+      "id": "a2_33",
+      "exercises": [
+        {"t":"choice","c":"left","dir":"t2n","big":true,"d":["right","straight"]},
+        {"t":"choice","c":"right","dir":"n2t","d":["left","between"]},
+        {"t":"match","cs":["straight","left","right","between"]},
+        {"t":"match","cs":["next_to","opposite","corner","cross"]},
+        {"t":"build","c":"please_go_straight","dir":"n2t","d":["left","right"]},
+        {"t":"build","c":"please_turn_left","dir":"audio","d":["straight","right"]},
+        {"t":"fill","c":"please_turn_right"},
+        {"t":"listenpick","c":"stop_at_the_corner"},
+        {"t":"speak","c":"please_go_straight"},
+        {"t":"choice","c":"please_turn_left","dir":"t2n","d":["please_turn_right","stop_at_the_corner"]},
+        {"t":"typeword","c":"please_turn_right"},
+        {"t":"build","c":"cross_the_street","dir":"t2n","d":["corner","opposite"]},
+        {"t":"fill","c":"cross_the_street"},
+        {"t":"choice","c":"straight","dir":"n2t","d":["between","corner"]},
+        {"t":"speak","c":"please_turn_left"}
+      ]
+    },
+    {
+      "id": "a2_34",
+      "exercises": [
+        {"t":"choice","c":"cheap","dir":"t2n","big":true,"d":["expensive","fast"]},
+        {"t":"choice","c":"expensive","dir":"n2t","d":["cheap","slow"]},
+        {"t":"match","cs":["cheap","expensive","fast","slow"]},
+        {"t":"match","cs":["comfortable","safe","easy","crowded"]},
+        {"t":"build","c":"the_bus_is_cheap","dir":"n2t","d":["fast","slow"]},
+        {"t":"build","c":"the_train_is_fast","dir":"audio","d":["cheap","expensive"]},
+        {"t":"fill","c":"the_hotel_is_expensive"},
+        {"t":"listenpick","c":"this_seat_is_comfortable"},
+        {"t":"speak","c":"the_bus_is_cheap"},
+        {"t":"choice","c":"the_train_is_fast","dir":"t2n","d":["this_seat_is_comfortable","the_hotel_is_expensive"]},
+        {"t":"typeword","c":"the_hotel_is_expensive"},
+        {"t":"build","c":"this_seat_is_comfortable","dir":"t2n","d":["safe","crowded"]},
+        {"t":"fill","c":"the_trip_is_safe"},
+        {"t":"choice","c":"safe","dir":"n2t","d":["easy","crowded"]},
+        {"t":"speak","c":"the_train_is_fast"}
+      ]
+    },
+    {
+      "id": "a2_35",
+      "exercises": [
+        {"t":"choice","c":"subway","dir":"t2n","big":true,"d":["tram","ferry"]},
+        {"t":"choice","c":"tram","dir":"n2t","d":["subway","bicycle"]},
+        {"t":"match","cs":["subway","tram","ferry","bicycle"]},
+        {"t":"match","cs":["motorcycle","platform","station","schedule"]},
+        {"t":"build","c":"i_take_the_subway","dir":"n2t","d":["tram","ferry"]},
+        {"t":"build","c":"the_tram_is_slow","dir":"audio","d":["subway","bicycle"]},
+        {"t":"fill","c":"we_ride_a_ferry"},
+        {"t":"listenpick","c":"wait_on_the_platform"},
+        {"t":"speak","c":"i_take_the_subway"},
+        {"t":"choice","c":"the_tram_is_slow","dir":"t2n","d":["wait_on_the_platform","we_ride_a_ferry"]},
+        {"t":"typeword","c":"we_ride_a_ferry"},
+        {"t":"build","c":"wait_on_the_platform","dir":"t2n","d":["station","schedule"]},
+        {"t":"fill","c":"where_is_the_station"},
+        {"t":"choice","c":"station","dir":"n2t","d":["platform","schedule"]},
+        {"t":"speak","c":"the_tram_is_slow"}
+      ]
+    }
+  ]
+        }
