@@ -1,14 +1,1268 @@
 {
-  "id": "b2_breaking_the_chain",
+  "id": "c1_breaking_the_chain",
   "title": "Breaking the Chain",
-  "level": "B2",
-  "audio_url": "assets/books/audio/b2_books/Breaking_the_Chain-Kathy_B....mp3",
+  "level": "C1",
+  "audio_url": "assets/books/audio/c1_books/Breaking_the_Chain-Kathy_Burke.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Breaking free from old habits requires determination and patience.",
-      "translation": "التحرر من العادات القديمة يتطلب العزيمة والصبر."
+      "id": 1,
+      "text": "Breaking the Chain",
+      "translation": "كسر السلسلة"
+    },
+    {
+      "id": 2,
+      "text": "Kathy Burke",
+      "translation": "كاثي بيرك"
+    },
+    {
+      "id": 3,
+      "text": "Juanantes Dios Rodrigues was a poor farmer.",
+      "translation": "كان خوانانتيس ديوس رودريغيز مزارعاً فقيراً."
+    },
+    {
+      "id": 4,
+      "text": "He was a good man, a good husband.",
+      "translation": "كان رجلاً طيباً، وزوجاً صالحاً."
+    },
+    {
+      "id": 5,
+      "text": "He worked hard and lived a simple life.",
+      "translation": "كان يعمل بجد ويعيش حياة بسيطة."
+    },
+    {
+      "id": 6,
+      "text": "One night Juanantes took a bottle of whiskey to the field behind his house.",
+      "translation": "في إحدى الليالي، أخذ خوانانتيس زجاجة ويسكي إلى الحقل خلف منزله."
+    },
+    {
+      "id": 7,
+      "text": "He didn't usually drink alcohol.",
+      "translation": "لم يكن يشرب الكحول عادةً."
+    },
+    {
+      "id": 8,
+      "text": "He hated the taste, although people said it was better than most other pleasures in life.",
+      "translation": "كان يكره طعمه، على الرغم من أن الناس قالوا إنه أفضل من معظم الملذات الأخرى في الحياة."
+    },
+    {
+      "id": 9,
+      "text": "Some people had even found the 'good light' after drinking alcohol.",
+      "translation": "حتى أن بعض الناس وجدوا 'النور الجيد' بعد شرب الكحول."
+    },
+    {
+      "id": 10,
+      "text": "A person who experienced the 'good light' was able to leave this earth and, for a short time, stay between two worlds, in a place where death couldn't touch them.",
+      "translation": "الشخص الذي اختبر 'النور الجيد' كان قادراً على مغادرة هذه الأرض، ولفترة قصيرة، البقاء بين عالمين، في مكان لا يستطيع الموت أن يمسهم فيه."
+    },
+    {
+      "id": 11,
+      "text": "This light meant good health, long life, happiness, good business.",
+      "translation": "كان هذا النور يعني الصحة الجيدة، وطول العمر، والسعادة، والعمل الجيد."
+    },
+    {
+      "id": 12,
+      "text": "Everyone searched for this light.",
+      "translation": "كان الجميع يبحثون عن هذا النور."
+    },
+    {
+      "id": 13,
+      "text": "But Juanantes didn't drink - until that night.",
+      "translation": "لكن خوانانتيس لم يشرب - حتى تلك الليلة."
+    },
+    {
+      "id": 14,
+      "text": "There was no reason for his drinking - nothing to celebrate, no anger to drown, or sadness to forget.",
+      "translation": "لم يكن هناك سبب لشربه - لا شيء للاحتفال به، ولا غضب لإغراقه، ولا حزن لنسيانه."
+    },
+    {
+      "id": 15,
+      "text": "But he couldn't fight his desire on that night.",
+      "translation": "لكنه لم يستطع مقاومة رغبته في تلك الليلة."
+    },
+    {
+      "id": 16,
+      "text": "When he had finished the bottle, he heard a voice.",
+      "translation": "عندما أنهى الزجاجة، سمع صوتاً."
+    },
+    {
+      "id": 17,
+      "text": "The voice commanded him to go to the top of a mountain called the Hill of Sand on the first Tuesday of the ninth month, at midnight.",
+      "translation": "أمره الصوت بالذهاب إلى قمة جبل يسمى تلة الرمل في أول ثلاثاء من الشهر التاسع، عند منتصف الليل."
+    },
+    {
+      "id": 18,
+      "text": "There he would find a large fire in the forest.",
+      "translation": "هناك سيجد ناراً كبيرة في الغابة."
+    },
+    {
+      "id": 19,
+      "text": "He would see a bag by the fire.",
+      "translation": "سيرى كيساً بجانب النار."
+    },
+    {
+      "id": 20,
+      "text": "He had to approach the fire and pick up the bag before the fire burned it.",
+      "translation": "كان عليه الاقتراب من النار والتقاط الكيس قبل أن تحرقه النار."
+    },
+    {
+      "id": 21,
+      "text": "Inside the bag there would be treasure and something else, a mandate.",
+      "translation": "داخل الكيس سيكون هناك كنز وشيء آخر، وهو تفويض."
+    },
+    {
+      "id": 22,
+      "text": "He had to do exactly what the mandate ordered him to do.",
+      "translation": "كان عليه أن يفعل بالضبط ما يأمره به التفويض."
+    },
+    {
+      "id": 23,
+      "text": "On the first Tuesday of the ninth month his wife, Cardenala, went with him to the Hill of Sand.",
+      "translation": "في أول ثلاثاء من الشهر التاسع، ذهبت زوجته كاردينالا معه إلى تلة الرمل."
+    },
+    {
+      "id": 24,
+      "text": "They left at midnight, as the voice had instructed, and walked through the forest.",
+      "translation": "غادرا في منتصف الليل، كما أمر الصوت، وسارا عبر الغابة."
+    },
+    {
+      "id": 25,
+      "text": "They were afraid but excited at the same time.",
+      "translation": "كانا خائفين لكن متحمسين في نفس الوقت."
+    },
+    {
+      "id": 26,
+      "text": "The noises of the night were all around them.",
+      "translation": "كانت أصوات الليل تحيط بهما."
+    },
+    {
+      "id": 27,
+      "text": "Eyes shone in the dark, watching them.",
+      "translation": "لامعت عيون في الظلام، تراقبهما."
+    },
+    {
+      "id": 28,
+      "text": "Juanantes had told Cardenala about the voice during a moment of weakness, as he lay there recovering from his night of drinking.",
+      "translation": "كان خوانانتيس قد أخبر كاردينالا عن الصوت في لحظة ضعف، بينما كان يرقد هناك يتعافى من ليلة شربه."
+    },
+    {
+      "id": 29,
+      "text": "He knew now, as she pushed him forward in the darkness, that it had been a mistake to tell Cardenala.",
+      "translation": "أدرك الآن، وهي تدفعه للأمام في الظلام، أنه كان خطأ أن يخبر كاردينالا."
+    },
+    {
+      "id": 30,
+      "text": "Since he had told her about the voice, he had had no peace.",
+      "translation": "منذ أن أخبرها عن الصوت، لم يعد لديه سلام."
+    },
+    {
+      "id": 31,
+      "text": "He couldn't work.",
+      "translation": "لم يستطع العمل."
+    },
+    {
+      "id": 32,
+      "text": "His farm and his animals had suffered.",
+      "translation": "عانت مزرعته وحيواناته."
+    },
+    {
+      "id": 33,
+      "text": "Cardenala wouldn't leave him alone, day or night.",
+      "translation": "لم تكن كاردينالا تتركه وحيداً، ليلاً أو نهاراً."
+    },
+    {
+      "id": 34,
+      "text": "Even in silence they knew each others thoughts.",
+      "translation": "حتى في الصمت كانا يعرفان أفكار بعضهما البعض."
+    },
+    {
+      "id": 35,
+      "text": "To him the mysterious voice he had heard was like an evil curse.",
+      "translation": "بالنسبة له، كان الصوت الغامض الذي سمعه مثل لعنة شريرة."
+    },
+    {
+      "id": 36,
+      "text": "But not to Cardenala.",
+      "translation": "لكن ليس بالنسبة لكاردينالا."
+    },
+    {
+      "id": 37,
+      "text": "To her it was a way of escaping from their poverty, the way to the 'good light.'",
+      "translation": "بالنسبة لها، كانت وسيلة للهروب من فقرهم، الطريق إلى 'النور الجيد'."
+    },
+    {
+      "id": 38,
+      "text": "Juanantes wanted the treasure but at the same time he feared it.",
+      "translation": "أراد خوانانتيس الكنز لكنه في نفس الوقت كان يخافه."
+    },
+    {
+      "id": 39,
+      "text": "He wasn't sure he should do what the voice had commanded.",
+      "translation": "لم يكن متأكداً من أنه يجب عليه فعل ما أمر به الصوت."
+    },
+    {
+      "id": 40,
+      "text": "But Cardenala's desire infected him.",
+      "translation": "لكن رغبة كاردينالا أصابته بالعدوى."
+    },
+    {
+      "id": 41,
+      "text": "She decided for both of them.",
+      "translation": "قررت نيابة عن كليهما."
+    },
+    {
+      "id": 42,
+      "text": "They would go to the Hill of Sand.",
+      "translation": "سيذهبان إلى تلة الرمل."
+    },
+    {
+      "id": 43,
+      "text": "They would do exactly what the voice had told them to do.",
+      "translation": "سيفعلان بالضبط ما أخبرهم به الصوت."
+    },
+    {
+      "id": 44,
+      "text": "They would find the treasure.",
+      "translation": "سيجدان الكنز."
+    },
+    {
+      "id": 45,
+      "text": "She planned.",
+      "translation": "خططت."
+    },
+    {
+      "id": 46,
+      "text": "She worried.",
+      "translation": "قلقت."
+    },
+    {
+      "id": 47,
+      "text": "If the bag contained money, how would they spend it?",
+      "translation": "إذا كان الكيس يحتوي على مال، كيف سينفقونه؟"
+    },
+    {
+      "id": 48,
+      "text": "If it contained jewels, who could they sell them to?",
+      "translation": "إذا كان يحتوي على جواهر، لمن يمكنهم بيعها؟"
+    },
+    {
+      "id": 49,
+      "text": "She woke him up with her fears.",
+      "translation": "أيقظته بمخاوفها."
+    },
+    {
+      "id": 50,
+      "text": "'The police might ask questions. If there's gold in the bag, what will we do?'",
+      "translation": "'قد تطرح الشرطة أسئلة. إذا كان هناك ذهب في الكيس، ماذا سنفعل؟'"
+    },
+    {
+      "id": 51,
+      "text": "The more she pushed, the more full of doubt he became.",
+      "translation": "كلما زادت من ضغطها، زاد شكه."
+    },
+    {
+      "id": 52,
+      "text": "'I may be poor, but at least I'm happy,' he told her.",
+      "translation": "'قد أكون فقيراً، لكنني سعيد على الأقل،' قال لها."
+    },
+    {
+      "id": 53,
+      "text": "She called him a coward and threatened to go alone.",
+      "translation": "وصفته بالجبان وهددت بالذهاب وحدها."
+    },
+    {
+      "id": 54,
+      "text": "So they went together on that dark night.",
+      "translation": "فذهبا معاً في تلك الليلة المظلمة."
+    },
+    {
+      "id": 55,
+      "text": "At one point Cardenala wanted to turn back.",
+      "translation": "في إحدى اللحظات أرادت كاردينالا العودة."
+    },
+    {
+      "id": 56,
+      "text": "She suddenly had a black thought.",
+      "translation": "فجأة راودتها فكرة قاتمة."
+    },
+    {
+      "id": 57,
+      "text": "She could see danger waiting for them.",
+      "translation": "كانت ترى خطراً ينتظرهما."
+    },
+    {
+      "id": 58,
+      "text": "She called to Juanantes, but it was too late.",
+      "translation": "نادت خوانانتيس، لكن كان الأوان قد فات."
+    },
+    {
+      "id": 59,
+      "text": "He didn't hear her.",
+      "translation": "لم يسمعها."
+    },
+    {
+      "id": 60,
+      "text": "He didn't answer.",
+      "translation": "لم يجب."
+    },
+    {
+      "id": 61,
+      "text": "He didn't even turn his head.",
+      "translation": "حتى أنه لم يستدر برأسه."
+    },
+    {
+      "id": 62,
+      "text": "There was no moon.",
+      "translation": "لم يكن هناك قمر."
+    },
+    {
+      "id": 63,
+      "text": "Cardenala could only see his white hat in the darkness.",
+      "translation": "كانت كاردينالا ترى فقط قبعته البيضاء في الظلام."
+    },
+    {
+      "id": 64,
+      "text": "He walked on without stopping, without thinking.",
+      "translation": "مشى دون توقف، دون تفكير."
+    },
+    {
+      "id": 65,
+      "text": "He wasn't cautious or indecisive now.",
+      "translation": "لم يكن حذراً أو متردداً الآن."
+    },
+    {
+      "id": 66,
+      "text": "There was another Juanantes inside his skin, fingers holding tightly onto his machete, eyes staring.",
+      "translation": "كان هناك خوانانتيس آخر داخل جلده، أصابع ممسكة بإحكام بساطوره، عيون محدقة."
+    },
+    {
+      "id": 67,
+      "text": "What had caused this change in him?",
+      "translation": "ما الذي سبب هذا التغيير فيه؟"
+    },
+    {
+      "id": 68,
+      "text": "What was driving him forward?",
+      "translation": "ما الذي كان يدفعه للأمام؟"
+    },
+    {
+      "id": 69,
+      "text": "At last they came to the fire, an enormous, blinding fire.",
+      "translation": "أخيراً وصلا إلى النار، نار هائلة وعمياء."
+    },
+    {
+      "id": 70,
+      "text": "Juanantes waited for a moment, silent, thinking.",
+      "translation": "انتظر خوانانتيس لحظة، صامتاً، يفكر."
+    },
+    {
+      "id": 71,
+      "text": "Should they turn around?",
+      "translation": "هل يجب أن يستديرا؟"
+    },
+    {
+      "id": 72,
+      "text": "Could they escape this?",
+      "translation": "هل يمكنهما الهروب من هذا؟"
+    },
+    {
+      "id": 73,
+      "text": "Forget it had ever happened?",
+      "translation": "نسيان أنه حدث أبداً؟"
+    },
+    {
+      "id": 74,
+      "text": "Cardenala said nothing.",
+      "translation": "لم تقل كاردينالا شيئاً."
+    },
+    {
+      "id": 75,
+      "text": "Then Juanantes rushed forward and saw, where the voice had told him it would be, an old cloth bag.",
+      "translation": "ثم اندفع خوانانتيس للأمام ورأى، حيث أخبره الصوت أنه سيكون، كيس قماش قديم."
+    },
+    {
+      "id": 76,
+      "text": "He quickly took the bag, almost burning his face in the flames, and returned to Cardenala.",
+      "translation": "أخذ الكيس بسرعة، وكاد يحرق وجهه في اللهب، وعاد إلى كاردينالا."
+    },
+    {
+      "id": 77,
+      "text": "Suddenly ambitious again and filled with curiosity about what was in the bag, he took Cardenala's hand and they ran from the place.",
+      "translation": "فجأة أصبح طموحاً مرة أخرى ومليئاً بالفضول حول ما في الكيس، أخذ يد كاردينالا وركضا من المكان."
+    },
+    {
+      "id": 78,
+      "text": "They could see nothing in the darkness.",
+      "translation": "لم يستطيعا رؤية أي شيء في الظلام."
+    },
+    {
+      "id": 79,
+      "text": "They felt the outside of the bag.",
+      "translation": "لمسا الجزء الخارجي من الكيس."
+    },
+    {
+      "id": 80,
+      "text": "Bones? And something heavier, with a weight like metal.",
+      "translation": "عظام؟ وشيء أثقل، بوزن يشبه المعدن."
+    },
+    {
+      "id": 81,
+      "text": "Juanantes opened it and felt inside.",
+      "translation": "فتحه خوانانتيس وتحسس الداخل."
+    },
+    {
+      "id": 82,
+      "text": "It was impossible to see but yes, there 'were the bones of a man, a machete, and in a smaller bag, a bottle of whiskey and some gold coins.",
+      "translation": "كان من المستحيل الرؤية ولكن نعم، كان هناك عظام رجل، وساطور، وفي كيس أصغر، زجاجة ويسكي وبعض العملات الذهبية."
+    },
+    {
+      "id": 83,
+      "text": "Was this the treasure of the dead?",
+      "translation": "هل كان هذا كنز الموتى؟"
+    },
+    {
+      "id": 84,
+      "text": "It was all a mystery.",
+      "translation": "كان الأمر كله لغزاً."
+    },
+    {
+      "id": 85,
+      "text": "He found a metal box and opened it.",
+      "translation": "وجد صندوقاً معدنيًا وفتحه."
+    },
+    {
+      "id": 86,
+      "text": "Inside he could feel some kind of paper - a document.",
+      "translation": "في الداخل كان يستطيع تحسس نوع من الورق - وثيقة."
+    },
+    {
+      "id": 87,
+      "text": "This must be the mandate.",
+      "translation": "لا بد أن هذا هو التفويض."
+    },
+    {
+      "id": 88,
+      "text": "The events of later that night have never been fully understood.",
+      "translation": "لم يتم فهم أحداث وقت لاحق من تلك الليلة بالكامل أبداً."
+    },
+    {
+      "id": 89,
+      "text": "In the early hours, when it was still dark, as Cardenala lay sleeping in their bedroom, Juanantes opened the metal box and read the mandate.",
+      "translation": "في الساعات الأولى، عندما كان الجو لا يزال مظلماً، بينما كانت كاردينالا نائمة في غرفة نومهما، فتح خوانانتيس الصندوق المعدني وقرأ التفويض."
+    },
+    {
+      "id": 90,
+      "text": "The mandate told him to kill a man, Prudencio Salvatierra.",
+      "translation": "أمره التفويض بقتل رجل، برودينسيو سالفاتييرا."
+    },
+    {
+      "id": 91,
+      "text": "Kill?",
+      "translation": "قتل؟"
+    },
+    {
+      "id": 92,
+      "text": "Juanantes shook with fear.",
+      "translation": "ارتجف خوانانتيس خوفاً."
+    },
+    {
+      "id": 93,
+      "text": "He left quietly and went to a bar to have a drink.",
+      "translation": "غادر بهدوء وذهب إلى حانة لتناول مشروب."
+    },
+    {
+      "id": 94,
+      "text": "He needed a drink now, to calm himself.",
+      "translation": "كان بحاجة إلى مشروب الآن، لتهدئة نفسه."
+    },
+    {
+      "id": 95,
+      "text": "He needed to think.",
+      "translation": "كان بحاجة للتفكير."
+    },
+    {
+      "id": 96,
+      "text": "He was lifting his glass to his mouth when he heard someone say the name of Prudencio Salvatierra.",
+      "translation": "كان يرفع كأسه إلى فمه عندما سمع شخصاً ما يقول اسم برودينسيو سالفاتييرا."
+    },
+    {
+      "id": 97,
+      "text": "The sound of that name filled him with hatred.",
+      "translation": "ملأ صوت ذلك الاسم قلبه بالكراهية."
+    },
+    {
+      "id": 98,
+      "text": "His glass crashed to the floor.",
+      "translation": "تحطم كأسه على الأرض."
+    },
+    {
+      "id": 99,
+      "text": "He couldn't see. He couldn't think.",
+      "translation": "لم يستطع الرؤية. لم يستطع التفكير."
+    },
+    {
+      "id": 100,
+      "text": "He wanted this man's blood.",
+      "translation": "أراد دم هذا الرجل."
+    },
+    {
+      "id": 101,
+      "text": "He had to spill this man's blood!",
+      "translation": "كان عليه أن يسفك دم هذا الرجل!"
+    },
+    {
+      "id": 102,
+      "text": "He pulled out his machete and rushed toward Prudencio Salvatierra.",
+      "translation": "سحب ساطوره واندفع نحو برودينسيو سالفاتييرا."
+    },
+    {
+      "id": 103,
+      "text": "'Fight or be killed like a dog!' he shouted.",
+      "translation": "'قاتل أو تُقتل مثل كلب!' صرخ."
+    },
+    {
+      "id": 104,
+      "text": "Prudencio pulled out his machete. 'Who are you? What do you want with me?'",
+      "translation": "سحب برودينسيو ساطوره. 'من أنت؟ ماذا تريد مني؟'"
+    },
+    {
+      "id": 105,
+      "text": "Juanantes attacked him.",
+      "translation": "هاجمه خوانانتيس."
+    },
+    {
+      "id": 106,
+      "text": "There were screams.",
+      "translation": "كانت هناك صرخات."
+    },
+    {
+      "id": 107,
+      "text": "People were running.",
+      "translation": "كان الناس يركضون."
+    },
+    {
+      "id": 108,
+      "text": "Tables and chairs were knocked over as people crowded around to watch.",
+      "translation": "انقلبت الطاولات والكراسي بينما ازدحم الناس حولهم للمشاهدة."
+    },
+    {
+      "id": 109,
+      "text": "Juanantes was wild, with the strength of ten men.",
+      "translation": "كان خوانانتيس متوحشاً، بقوة عشرة رجال."
+    },
+    {
+      "id": 110,
+      "text": "His machete came down again and again on Prudencio Salvatierra until the bar was red with his blood.",
+      "translation": "نزل ساطوره مراراً وتكراراً على برودينسيو سالفاتييرا حتى أصبحت الحانة حمراء بدمه."
+    },
+    {
+      "id": 111,
+      "text": "Prudencio had no chance.",
+      "translation": "لم يكن لدى برودينسيو أي فرصة."
+    },
+    {
+      "id": 112,
+      "text": "Within minutes he lay dead, his body in pieces.",
+      "translation": "خلال دقائق كان ملقى ميتاً، وجسده ممزق إلى أشلاء."
+    },
+    {
+      "id": 113,
+      "text": "Later, Juanantes was questioned again and again by the judge.",
+      "translation": "لاحقاً، تم استجواب خوانانتيس مراراً وتكراراً من قبل القاضي."
+    },
+    {
+      "id": 114,
+      "text": "Why had he fought with Prudencio Salvatierra?",
+      "translation": "لماذا قاتل برودينسيو سالفاتييرا؟"
+    },
+    {
+      "id": 115,
+      "text": "Juanantes could give no answer.",
+      "translation": "لم يستطع خوانانتيس تقديم أي إجابة."
+    },
+    {
+      "id": 116,
+      "text": "There was no logic.",
+      "translation": "لم يكن هناك منطق."
+    },
+    {
+      "id": 117,
+      "text": "No, they had never met before.",
+      "translation": "لا، لم يلتقيا من قبل أبداً."
+    },
+    {
+      "id": 118,
+      "text": "No, he was not an enemy - until that night.",
+      "translation": "لا، لم يكن عدواً - حتى تلك الليلة."
+    },
+    {
+      "id": 119,
+      "text": "Until the moment when Juanantes heard his name, the name he recognized, the name that was written in the mandate.",
+      "translation": "حتى اللحظة التي سمع فيها خوانانتيس اسمه، الاسم الذي تعرف عليه، الاسم المكتوب في التفويض."
+    },
+    {
+      "id": 120,
+      "text": "Juanantes was found guilty of murder and sent to prison for ten years.",
+      "translation": "تمت إدانة خوانانتيس بالقتل وحُكم عليه بالسجن عشر سنوات."
+    },
+    {
+      "id": 121,
+      "text": "Cardenala found employment as a servant near the prison, so that she could visit Juanantes every Sunday.",
+      "translation": "وجدت كاردينالا عملاً كخادمة بالقرب من السجن، حتى تتمكن من زيارة خوانانتيس كل يوم أحد."
+    },
+    {
+      "id": 122,
+      "text": "After many Sundays they began to talk of when Juanantes would be freed.",
+      "translation": "بعد العديد من أيام الآحاد، بدآ يتحدثان عن موعد إطلاق سراح خوانانتيس."
+    },
+    {
+      "id": 123,
+      "text": "'What are you going to do?' asked Cardenala.",
+      "translation": "'ماذا ستفعل؟' سألت كاردينالا."
+    },
+    {
+      "id": 124,
+      "text": "Juanantes heard her words again and again in his mind.",
+      "translation": "سمع خوانانتيس كلماتها مراراً وتكراراً في ذهنه."
+    },
+    {
+      "id": 125,
+      "text": "What are you going to do? What are you...? Not we.",
+      "translation": "ماذا ستفعل؟ ماذا...؟ ليس 'نحن'."
+    },
+    {
+      "id": 126,
+      "text": "He looked hard at Cardenala, as a policeman looks at a suspect, searching for signs.",
+      "translation": "نظر بحدة إلى كاردينالا، كما ينظر شرطي إلى مشتبه به، باحثاً عن علامات."
+    },
+    {
+      "id": 127,
+      "text": "Was she planning to stay in the city?",
+      "translation": "هل كانت تخطط للبقاء في المدينة؟"
+    },
+    {
+      "id": 128,
+      "text": "Was there another man?",
+      "translation": "هل كان هناك رجل آخر؟"
+    },
+    {
+      "id": 129,
+      "text": "'Tell me, Cardenala. Aren't you coming back with me?'",
+      "translation": "'أخبريني يا كاردينالا. ألن تعودي معي؟'"
+    },
+    {
+      "id": 130,
+      "text": "'No.'",
+      "translation": "'لا.'"
+    },
+    {
+      "id": 131,
+      "text": "Her quiet answer, her guilt, hit him.",
+      "translation": "أجابتها الهادئة، وشعورها بالذنب، أصاباه."
+    },
+    {
+      "id": 132,
+      "text": "For a moment he couldn't speak.",
+      "translation": "للحظة لم يستطع الكلام."
+    },
+    {
+      "id": 133,
+      "text": "'All right. All right. But I must go back to our village. You know that, don't you?'",
+      "translation": "'حسناً. حسناً. لكن يجب أن أعود إلى قريتنا. أنت تعرفين ذلك، أليس كذلك؟'"
+    },
+    {
+      "id": 134,
+      "text": "'Yes, I know. But I don't care what you say. I'm not going with you. I went to see the priest. He told me it was the work of the devil. I'm not going to fall into that trap again.'",
+      "translation": "'نعم، أعرف. لكنني لا أهتم بما تقول. لن أذهب معك. ذهبت لرؤية الكاهن. أخبرني أنه عمل الشيطان. لن أسقط في هذا الفخ مرة أخرى.'"
+    },
+    {
+      "id": 135,
+      "text": "'The priest? Why did you go to the priest?' he asked her.",
+      "translation": "'الكاهن؟ لماذا ذهبت إلى الكاهن؟' سألها."
+    },
+    {
+      "id": 136,
+      "text": "'My boss wanted me to. He was worried about me. He's very kind to me.'",
+      "translation": "'مديري أراد مني ذلك. كان قلقاً عليّ. إنه لطيف جداً معي.'"
+    },
+    {
+      "id": 137,
+      "text": "Juanantes knew it then.",
+      "translation": "أدرك خوانانتيس ذلك حينها."
+    },
+    {
+      "id": 138,
+      "text": "He knew that he was losing Cardenala.",
+      "translation": "أدرك أنه يفقد كاردينالا."
+    },
+    {
+      "id": 139,
+      "text": "Prison was bad, like a kind of death.",
+      "translation": "كان السجن سيئاً، مثل نوع من الموت."
+    },
+    {
+      "id": 140,
+      "text": "Four walls.",
+      "translation": "أربعة جدران."
+    },
+    {
+      "id": 141,
+      "text": "Always the same four walls.",
+      "translation": "دائماً نفس الجدران الأربعة."
+    },
+    {
+      "id": 142,
+      "text": "The desperate faces.",
+      "translation": "الوجوه اليائسة."
+    },
+    {
+      "id": 143,
+      "text": "The waiting.",
+      "translation": "الانتظار."
+    },
+    {
+      "id": 144,
+      "text": "The long, lonely nights.",
+      "translation": "الليالي الطويلة الوحيدة."
+    },
+    {
+      "id": 145,
+      "text": "But losing Cardenala?",
+      "translation": "لكن فقدان كاردينالا؟"
+    },
+    {
+      "id": 146,
+      "text": "No. Impossible.",
+      "translation": "لا. مستحيل."
+    },
+    {
+      "id": 147,
+      "text": "There was nothing he could do, though.",
+      "translation": "لم يكن هناك شيء يمكنه فعله، رغم ذلك."
+    },
+    {
+      "id": 148,
+      "text": "When the evil light has fallen on a man, everything goes wrong.",
+      "translation": "عندما يسقط النور الشرير على رجل، يسير كل شيء بشكل خاطئ."
+    },
+    {
+      "id": 149,
+      "text": "He would have to go back to their village alone.",
+      "translation": "سيتعين عليه العودة إلى قريتهما وحدها."
+    },
+    {
+      "id": 150,
+      "text": "The following Sunday Cardenala came to visit as usual.",
+      "translation": "في يوم الأحد التالي، جاءت كاردينالا للزيارة كالمعتاد."
+    },
+    {
+      "id": 151,
+      "text": "'You've come,' he said.",
+      "translation": "'لقد أتيت،' قال."
+    },
+    {
+      "id": 152,
+      "text": "'Of course I've come. What do you mean?'",
+      "translation": "'بالطبع أتيت. ماذا تقصد؟'"
+    },
+    {
+      "id": 153,
+      "text": "'Well, I thought...'",
+      "translation": "'حسناً، اعتقدت...'"
+    },
+    {
+      "id": 154,
+      "text": "'You thought! You thought! You think too much!' laughed Cardenala.",
+      "translation": "'أنت تعتقد! أنت تعتقد! أنت تفكر كثيراً!' ضحكت كاردينالا."
+    },
+    {
+      "id": 155,
+      "text": "In her mouth a new gold tooth shone.",
+      "translation": "في فمها لمع سن ذهبي جديد."
+    },
+    {
+      "id": 156,
+      "text": "'And this tooth?' asked Juanantes.",
+      "translation": "'وهذا السن؟' سأل خوانانتيس."
+    },
+    {
+      "id": 157,
+      "text": "'Oh, my boss paid for it.'",
+      "translation": "'أوه، مديري دفع ثمنه.'"
+    },
+    {
+      "id": 158,
+      "text": "'Your boss again. And you paid him back?'",
+      "translation": "'مديرك مرة أخرى. وهل سددت له؟'"
+    },
+    {
+      "id": 159,
+      "text": "'Of course. Stop questioning me!'",
+      "translation": "'بالطبع. توقف عن استجوابي!'"
+    },
+    {
+      "id": 160,
+      "text": "Juanantes asked again. 'Are you coming back with me?'",
+      "translation": "سأل خوانانتيس مرة أخرى. 'هل ستعودين معي؟'"
+    },
+    {
+      "id": 161,
+      "text": "'No, Juanantes.'",
+      "translation": "'لا يا خوانانتيس.'"
+    },
+    {
+      "id": 162,
+      "text": "Short and sharp.",
+      "translation": "قصيرة وحادة."
+    },
+    {
+      "id": 163,
+      "text": "It cut his heart.",
+      "translation": "لقد جرحت قلبه."
+    },
+    {
+      "id": 164,
+      "text": "'Well, at least...' He stopped.",
+      "translation": "'حسناً، على الأقل...' توقف."
+    },
+    {
+      "id": 165,
+      "text": "His voice left him.",
+      "translation": "فارقه صوته."
+    },
+    {
+      "id": 166,
+      "text": "'At least this way I know,' he finally managed to say.",
+      "translation": "'على الأقل بهذه الطريقة أعرف،' تمكن أخيراً من القول."
+    },
+    {
+      "id": 167,
+      "text": "'These things happen to people who have swallowed the evil light.'",
+      "translation": "'هذه الأشياء تحدث للأشخاص الذين ابتلعوا النور الشرير.'"
+    },
+    {
+      "id": 168,
+      "text": "His sad eyes grew hard as he watched Cardenala's face.",
+      "translation": "أصبحت عيناه الحزينتان قاسيتين وهو يراقب وجه كاردينالا."
+    },
+    {
+      "id": 169,
+      "text": "On his last day he gathered his few remaining possessions - a few clothes, old and full of holes now, and the torn pieces of a picture of Cardenala.",
+      "translation": "في يومه الأخير، جمع ممتلكاته القليلة المتبقية - بعض الملابس، القديمة والمليئة بالثقوب الآن، والقطع الممزقة من صورة كاردينالا."
+    },
+    {
+      "id": 170,
+      "text": "He had torn the picture up, put it back together, torn it up, so many times.",
+      "translation": "كان قد مزق الصورة، وأعاد تجميعها، ومزقها، مرات عديدة."
+    },
+    {
+      "id": 171,
+      "text": "But still he saved the pieces.",
+      "translation": "لكنه مع ذلك احتفظ بالقطع."
+    },
+    {
+      "id": 172,
+      "text": "He went to a hotel to stay that night and filled in the form at reception with his full name, Juanantes Dios Rodriguez.",
+      "translation": "ذهب إلى فندق للإقامة تلك الليلة وملأ النموذج في مكتب الاستقبال باسمه الكامل، خوانانتيس ديوس رودريغيز."
+    },
+    {
+      "id": 173,
+      "text": "Then he left with no explanation.",
+      "translation": "ثم غادر دون أي تفسير."
+    },
+    {
+      "id": 174,
+      "text": "Why?",
+      "translation": "لماذا؟"
+    },
+    {
+      "id": 175,
+      "text": "The keys!",
+      "translation": "المفاتيح!"
+    },
+    {
+      "id": 176,
+      "text": "Those large, heavy room keys reminded him of his prison cell, of hundreds of cells.",
+      "translation": "تلك المفاتيح الكبيرة الثقيلة للغرفة ذكرته بزنزانته في السجن، بمئات الزنازين."
+    },
+    {
+      "id": 177,
+      "text": "He wandered around without sleeping or eating until his stomach ached with hunger.",
+      "translation": "تجول دون نوم أو طعام حتى آلمته معدته من الجوع."
+    },
+    {
+      "id": 178,
+      "text": "But he couldn't sit in the cafe, where people stood in line like prisoners.",
+      "translation": "لكنه لم يستطع الجلوس في المقهى، حيث يقف الناس في صف مثل السجناء."
+    },
+    {
+      "id": 179,
+      "text": "So he walked along the dusty road toward the mountains.",
+      "translation": "فمشى على طول الطريق الترابي نحو الجبال."
+    },
+    {
+      "id": 180,
+      "text": "He knew something still had to be done.",
+      "translation": "كان يعلم أن هناك شيئاً ما لا يزال يتعين القيام به."
+    },
+    {
+      "id": 181,
+      "text": "He had killed Prudencio Salvatierra ten long years ago.",
+      "translation": "كان قد قتل برودينسيو سالفاتييرا منذ عشر سنوات طويلة."
+    },
+    {
+      "id": 182,
+      "text": "Now he had to obey the mandate's final order.",
+      "translation": "الآن كان عليه أن يطيع الأمر الأخير في التفويض."
+    },
+    {
+      "id": 183,
+      "text": "He went to where he had been living with Cardenala.",
+      "translation": "ذهب إلى حيث كان يعيش مع كاردينالا."
+    },
+    {
+      "id": 184,
+      "text": "Nothing had changed.",
+      "translation": "لم يتغير شيء."
+    },
+    {
+      "id": 185,
+      "text": "Everything was as it had always been.",
+      "translation": "كان كل شيء كما كان دائماً."
+    },
+    {
+      "id": 186,
+      "text": "The trees, the rocks.",
+      "translation": "الأشجار، الصخور."
+    },
+    {
+      "id": 187,
+      "text": "It even seemed that the same old dogs still, now, after ten years, slept in the sun.",
+      "translation": "حتى أنه بدا أن نفس الكلاب العجوز لا تزال، الآن، بعد عشر سنوات، تنام في الشمس."
+    },
+    {
+      "id": 188,
+      "text": "Juanantes felt full of sorrow.",
+      "translation": "شعر خوانانتيس بالحزن الشديد."
+    },
+    {
+      "id": 189,
+      "text": "But he wasn't doing anything.",
+      "translation": "لكنه لم يكن يفعل أي شيء."
+    },
+    {
+      "id": 190,
+      "text": "He wasn't living.",
+      "translation": "لم يكن يعيش."
+    },
+    {
+      "id": 191,
+      "text": "And so, without further thought, he called on the wise old man, Tata Guamarachito, for help.",
+      "translation": "وهكذا، دون مزيد من التفكير، طلب المساعدة من الرجل العجوز الحكيم، تاتا غواماراتشيتو."
+    },
+    {
+      "id": 192,
+      "text": "'It's no good being in this condition,' the old man told Juanantes.",
+      "translation": "'لا جدوى من البقاء في هذه الحالة،' قال الرجل العجوز لخوانانتيس."
+    },
+    {
+      "id": 193,
+      "text": "'You're good for nothing. Nothing goes right. I know why you're suffering. As a young man the same thing happened to me. Yes, I can help you. I can help you understand what you're dealing with. I can advise you about what you have to do.'",
+      "translation": "'أنت لا تصلح لشيء. لا شيء يسير على ما يرام. أعرف لماذا تعاني. عندما كنت شاباً حدث لي نفس الشيء. نعم، يمكنني مساعدتك. يمكنني مساعدتك على فهم ما تتعامل معه. يمكنني نصحك بشأن ما يجب عليك فعله.'"
+    },
+    {
+      "id": 194,
+      "text": "'But I don't want to do what the mandate ordered!' shouted Juanantes. 'I have no enemies.'",
+      "translation": "'لكني لا أريد أن أفعل ما أمر به التفويض!' صرخ خوانانتيس. 'ليس لدي أعداء.'"
+    },
+    {
+      "id": 195,
+      "text": "'It's not necessary to have an enemy.'",
+      "translation": "'ليس من الضروري أن يكون لديك عدو.'"
+    },
+    {
+      "id": 196,
+      "text": "'Yes, but to bury the evil light, this evil light, which by accident or pure bad luck I've fallen into, I know that I have to write a mandate, an order to kill someone. I have to put that into the metal box. But I keep telling you: I have no one to kill! It's hopeless anyway. The evil light has entered my body, like sand. I cough. I even cough blood! It's in me. It got into me in prison. I...'",
+      "translation": "'نعم، لكن لدفن النور الشرير، هذا النور الشرير، الذي وقعت فيه بالصدفة أو بحظ سيء محض، أعلم أنه يجب علي كتابة تفويض، أمر بقتل شخص ما. يجب أن أضع ذلك في الصندوق المعدني. لكنني أظل أخبرك: ليس لدي أي شخص لأقتله! إنه ميؤوس منه على أي حال. لقد دخل النور الشرير جسدي، مثل الرمل. أسعل. حتى أنني أسعل دماً! إنه بداخلي. دخل إلي في السجن. أنا...'"
+    },
+    {
+      "id": 197,
+      "text": "As he was speaking he lost control and fell, coughing, to the ground.",
+      "translation": "وبينما كان يتحدث فقد السيطرة وسقط، وهو يسعل، على الأرض."
+    },
+    {
+      "id": 198,
+      "text": "But the old man was still not persuaded. 'How do you know it's the evil light?' he asked calmly.",
+      "translation": "لكن الرجل العجوز لم يقتنع بعد. 'كيف تعرف أنه النور الشرير؟' سأل بهدوء."
+    },
+    {
+      "id": 199,
+      "text": "Juanantes told him that pieces of the evil light were everywhere.",
+      "translation": "أخبره خوانانتيس أن قطعاً من النور الشرير كانت في كل مكان."
+    },
+    {
+      "id": 200,
+      "text": "He saw them clearly, dancing around him, causing him to cough, giving him night fevers.",
+      "translation": "كان يراها بوضوح، ترقص حوله، وتجعله يسعل، وتمنحه حمى ليلية."
+    },
+    {
+      "id": 201,
+      "text": "'Then get away from them,' was the old man's advice.",
+      "translation": "'ثم ابتعد عنها،' كانت نصيحة الرجل العجوز."
+    },
+    {
+      "id": 202,
+      "text": "But Juanantes asked again, with anger now, 'How can I do this if I have no enemies?'",
+      "translation": "لكن خوانانتيس سأل مرة أخرى، بغضب هذه المرة: 'كيف يمكنني فعل ذلك إذا لم يكن لدي أعداء؟'"
+    },
+    {
+      "id": 203,
+      "text": "'Calm down. I'm only trying to help. And don't blame yourself so much. You've paid your debt in prison for killing Salvatierra. You killed fairly. The two of you faced each other as men, with machetes. Salvatierra died and you lived. If you hadn't followed the mandate to kill someone, you would have been killed yourself. Because it was written.'",
+      "translation": "'اهدأ. أنا أحاول المساعدة فقط. ولا تلوم نفسك كثيراً. لقد سددت دينك في السجن لقتلك سالفاتييرا. لقد قتلت بنزاهة. واجه كل منكما الآخر كرجال، بالسواطير. مات سالفاتييرا وعشت أنت. لو لم تتبع التفويض لقتل شخص ما، لكنت قُتلت أنت نفسك. لأنه كان مكتوباً.'"
+    },
+    {
+      "id": 204,
+      "text": "But Juanantes was still unhappy. 'It would be better if I were dead.'",
+      "translation": "لكن خوانانتيس كان لا يزال غير سعيد. 'سيكون أفضل لو كنت ميتاً.'"
+    },
+    {
+      "id": 205,
+      "text": "'Don't talk like that. In my experience it's never better to be dead than alive.'",
+      "translation": "'لا تتحدث هكذا. في تجربتي، لا يكون الموت أفضل من الحياة أبداً.'"
+    },
+    {
+      "id": 206,
+      "text": "'What has to be done then? What must I do?'",
+      "translation": "'ما الذي يجب فعله إذن؟ ماذا يجب أن أفعل؟'"
+    },
+    {
+      "id": 207,
+      "text": "'You must light the fire of evil light and write your own mandate to put into the metal box by the fire.'",
+      "translation": "'يجب أن تشعل نار النور الشرير وتكتب تفويضك الخاص لتضعه في الصندوق المعدني بجانب النار.'"
+    },
+    {
+      "id": 208,
+      "text": "'But I've told you. I can't write this mandate.'",
+      "translation": "'لكني أخبرتك. لا أستطيع كتابة هذا التفويض.'"
+    },
+    {
+      "id": 209,
+      "text": "'Juanantes, if you let me, I'll show you a way to break the chain of death, the chain which has caught you.'",
+      "translation": "'خوانانتيس، إذا سمحت لي، سأريك طريقة لكسر سلسلة الموت، السلسلة التي أمسكت بك.'"
+    },
+    {
+      "id": 210,
+      "text": "'No, Tata. If I break the chain of death, it will only bring me more tragedy. More sorrow! I...'",
+      "translation": "'لا يا تاتا. إذا كسرت سلسلة الموت، فستجلب لي المزيد من المأساة. المزيد من الحزن! أنا...'"
+    },
+    {
+      "id": 211,
+      "text": "The old man interrupted. 'The evil light that's around you is responsible for many deaths. It's time to put an end to it. I've told you that I can show you how to break this chain. Be brave. Believe in me. Write your own mandate. Use your own words. The words of Juanantes Dios Rodriguez, a man of honor. Then we'll do together what has to be done.'",
+      "translation": "قاطعه الرجل العجوز. 'النور الشرير المحيط بك مسؤول عن العديد من الوفيات. حان الوقت لوضع حد له. أخبرتك أنني أستطيع أن أريك كيف تكسر هذه السلسلة. كن شجاعاً. ثق بي. اكتب تفويضك الخاص. استخدم كلماتك الخاصة. كلمات خوانانتيس ديوس رودريغيز، رجل شريف. ثم سنفعل معاً ما يجب فعله.'"
+    },
+    {
+      "id": 212,
+      "text": "They arranged to meet in nine weeks, when the night would be at its blackest.",
+      "translation": "اتفقا على اللقاء بعد تسعة أسابيع، عندما يكون الليل في أحلك ظلامه."
+    },
+    {
+      "id": 213,
+      "text": "On that night they waited, hidden behind some trees.",
+      "translation": "في تلك الليلة انتظرا، مختبئين خلف بعض الأشجار."
+    },
+    {
+      "id": 214,
+      "text": "They heard the sound of a horse coming, slowly, cautiously.",
+      "translation": "سمعا صوت حصان قادم، ببطء، بحذر."
+    },
+    {
+      "id": 215,
+      "text": "Juanantes lit the fire.",
+      "translation": "أشعل خوانانتيس النار."
+    },
+    {
+      "id": 216,
+      "text": "The horse and rider slowly approached the fire.",
+      "translation": "اقترب الحصان والراكب ببطء من النار."
+    },
+    {
+      "id": 217,
+      "text": "The rider got down, with his gun in his hand.",
+      "translation": "نزل الراكب، وبندقيته في يده."
+    },
+    {
+      "id": 218,
+      "text": "A moment passed.",
+      "translation": "مرت لحظة."
+    },
+    {
+      "id": 219,
+      "text": "There was silence.",
+      "translation": "كان هناك صمت."
+    },
+    {
+      "id": 220,
+      "text": "Then the rider rushed toward the fire, took the bag which Tata Guamarachito and Juanantes had left there, jumped onto his horse, and rode away into the night.",
+      "translation": "ثم اندفع الراكب نحو النار، وأخذ الكيس الذي تركه تاتا غواماراتشيتو وخوانانتيس هناك، وقفز على حصانه، وابتعد راكباً في الليل."
+    },
+    {
+      "id": 221,
+      "text": "'See how simple it was,' said Tata Guamarachito, throwing his arm around Juanantes's shoulder. 'Look at you! Already the evil light is leaving you. The sadness is lifting. But have you broken the chain of death? The bones, your machete - the same machete you used to kill Salvatierra - the bottle of whiskey, the gold, were all there in the bag. But you didn't order anyone to be killed. So what did you order instead? What did you write on that piece of paper, with your signature, which you put in the metal box?'",
+      "translation": "'انظر كم كان الأمر بسيطاً،' قال تاتا غواماراتشيتو، وهو يضع ذراعه حول كتف خوانانتيس. 'انظر إليك! بالفعل النور الشرير يتركك. الحزن يزول. لكن هل كسرت سلسلة الموت؟ العظام، ساطورك - نفس الساطور الذي استخدمته لقتل سالفاتييرا - زجاجة الويسكي، الذهب، كانت كلها هناك في الكيس. لكنك لم تأمر بقتل أي شخص. إذن ماذا أمرت بدلاً من ذلك؟ ماذا كتبت على تلك الورقة، بتوقيعك، التي وضعتها في الصندوق المعدني؟'"
+    },
+    {
+      "id": 222,
+      "text": "'That one thing I can't tell you. It's my secret.'",
+      "translation": "'هذا الشيء الواحد لا أستطيع إخبارك به. إنه سري.'"
+    },
+    {
+      "id": 223,
+      "text": "'But you didn't order anyone to be killed?'",
+      "translation": "'لكنك لم تأمر بقتل أي شخص؟'"
+    },
+    {
+      "id": 224,
+      "text": "'No. I told you, I couldn't. I have no enemies.'",
+      "translation": "'لا. أخبرتك، لم أستطع. ليس لدي أعداء.'"
+    },
+    {
+      "id": 225,
+      "text": "'Then what was your order?'",
+      "translation": "'إذن ماذا كان أمرك؟'"
+    },
+    {
+      "id": 226,
+      "text": "'I repeat, Tata, that's my secret.'",
+      "translation": "'أكرر يا تاتا، هذا سري.'"
+    },
+    {
+      "id": 227,
+      "text": "'All right. I respect that.'",
+      "translation": "'حسناً. أنا أحترم ذلك.'"
+    },
+    {
+      "id": 228,
+      "text": "'Please forgive me, Tata.'",
+      "translation": "'أرجوك سامحني يا تاتا.'"
+    },
+    {
+      "id": 229,
+      "text": "'There's no need. Men with secrets are always interesting to me. But let me tell you. You're breaking a chain, a chain that has caused many deaths and destroyed many lives. I'm...' Tata Guamarachito coughed, the heavy cough of a smoker. 'I'm close to 100 years old. But when I was your age... How old are you? About thirty? When I was your age, I fell into the evil light. I was ordered to kill a man, Belisario Consuegra, a man I had never met. A man I had never seen. But one day, I was at a market buying a horse and I heard someone shouting, 'Belisario! Belisario Consuegra!' My blood turned cold. I couldn't see or hear. I took out my machete, found him, and ordered him to defend himself or be killed like an animal. He fought. But I killed him. I cut him into pieces. The smell of his blood made me crazy.'",
+      "translation": "'لا حاجة لذلك. الرجال ذوو الأسرار يثيرون اهتمامي دائماً. لكن دعني أخبرك. أنت تكسر سلسلة، سلسلة تسببت في العديد من الوفيات ودمرت العديد من الأرواح. أنا...' سعل تاتا غواماراتشيتو، سعال المدخن الثقيل. 'أنا قريب من 100 عام. لكن عندما كنت في عمرك... كم عمرك؟ حوالي الثلاثين؟ عندما كنت في عمرك، وقعت في النور الشرير. أُمرت بقتل رجل، بليزاريو كونسويغرا، رجل لم ألتقِ به أبداً. رجل لم أره أبداً. لكن في أحد الأيام، كنت في سوق أشتري حصاناً وسمعت شخصاً يصرخ، 'بليزاريو! بليزاريو كونسويغرا!' تجمد دمي. لم أستطع الرؤية أو السماع. سحبت ساطوري، وجدته، وأمرته بالدفاع عن نفسه أو أن يُقتل مثل حيوان. قاتل. لكنني قتلته. قطعته إلى أشلاء. رائحة دمه جعلتني مجنوناً.'"
+    },
+    {
+      "id": 230,
+      "text": "'But did you bury your evil light with a mandate?'",
+      "translation": "'لكن هل دفنت نورك الشرير بتفويض؟'"
+    },
+    {
+      "id": 231,
+      "text": "'Yes, Juanantes. There was a man, a Mexican, my enemy. My mandate was found by Placido Salgaespera, and Salgaespera killed the Mexican with his machete. Salgaespera's mandate was then found by Remigio Huertas, who killed Salgaespera's enemy, and it has continued in this way. Say that you've broken the chain, Juanantes. Tell me this.'",
+      "translation": "'نعم يا خوانانتيس. كان هناك رجل، مكسيكي، عدوي. وجد بلاسيدو سالغايسبرا تفويضي، وقتل سالغايسبرا المكسيكي بساطوره. ثم وجد ريميجيو هويرتاس تفويض سالغايسبرا، الذي قتل عدو سالغايسبرا، واستمر الأمر بهذه الطريقة. قل أنك كسرت السلسلة يا خوانانتيس. أخبرني بهذا.'"
+    },
+    {
+      "id": 232,
+      "text": "But Juanantes only sat silently watching the sunrise.",
+      "translation": "لكن خوانانتيس جلس فقط بصمت يراقب شروق الشمس."
+    },
+    {
+      "id": 233,
+      "text": "He always watched the sunrise, but had never liked the morning.",
+      "translation": "كان دائماً يراقب شروق الشمس، لكنه لم يحب الصباح أبداً."
+    },
+    {
+      "id": 234,
+      "text": "Now, however, freed from the evil light, it seemed to be the most beautiful dawn he could ever experience.",
+      "translation": "لكن الآن، بعد أن تحرر من النور الشرير، بدا وكأنه أجمل فجر يمكن أن يختبره على الإطلاق."
+    },
+    {
+      "id": 235,
+      "text": "Suddenly he wanted Cardenala.",
+      "translation": "فجأة أراد كاردينالا."
+    },
+    {
+      "id": 236,
+      "text": "He wanted her so badly.",
+      "translation": "أرادها بشدة."
+    },
+    {
+      "id": 237,
+      "text": "But he stopped these thoughts as soon as they began.",
+      "translation": "لكنه أوقف هذه الأفكار بمجرد أن بدأت."
+    },
+    {
+      "id": 238,
+      "text": "Why should he want her?",
+      "translation": "لماذا يجب أن يريدها؟"
+    },
+    {
+      "id": 239,
+      "text": "He knew now that Cardenala was part of the evil light which had brought him to this place.",
+      "translation": "أدرك الآن أن كاردينالا كانت جزءاً من النور الشرير الذي جلبه إلى هذا المكان."
+    },
+    {
+      "id": 240,
+      "text": "Because of her, Prudencio Salvatierra now lay cold in the ground.",
+      "translation": "بسببها، يرقد برودينسيو سالفاتييرا الآن بارداً في الأرض."
+    },
+    {
+      "id": 241,
+      "text": "When the sun had fully risen, he offered Tata Guamarachito payment for his services.",
+      "translation": "عندما أشرقت الشمس بالكامل، عرض خوانانتيس على تاتا غواماراتشيتو الدفع مقابل خدماته."
+    },
+    {
+      "id": 242,
+      "text": "The old man wouldn't accept money.",
+      "translation": "رفض الرجل العجوز قبول المال."
+    },
+    {
+      "id": 243,
+      "text": "'I want only to know your secret. The mandate that the horseman read.'",
+      "translation": "'أريد فقط أن أعرف سرك. التفويض الذي قرأه الفارس.'"
+    },
+    {
+      "id": 244,
+      "text": "But without speaking, Juanantes walked away.",
+      "translation": "لكن دون أن يتكلم، ابتعد خوانانتيس."
+    },
+    {
+      "id": 245,
+      "text": "He was going down the mountain when he suddenly changed his mind, turned, and started back toward Tata Guamarachito.",
+      "translation": "كان نازلاً من الجبل عندما غير رأيه فجأة، واستدار، وبدأ يعود نحو تاتا غواماراتشيتو."
+    },
+    {
+      "id": 246,
+      "text": "Walking, then running, shouting, 'Tata! Wait! I will! I will share my secret with you!'",
+      "translation": "ماشياً، ثم راكضاً، صارخاً: 'تاتا! انتظر! سأفعل! سأشاركك سري!'"
+    },
+    {
+      "id": 247,
+      "text": "When he reached the place where they had sat, he bent down and whispered in the old man's ear.",
+      "translation": "عندما وصل إلى المكان الذي كانا يجلسان فيه، انحنى وهمس في أذن الرجل العجوز."
+    },
+    {
+      "id": 248,
+      "text": "'Is that true? Was that really your mandate?' asked the old man, smiling, trying to hold back his tears of joy.",
+      "translation": "'هل هذا صحيح؟ هل كان هذا حقاً تفويضك؟' سأل الرجل العجوز، مبتسماً، محاولاً كبح دموع الفرح."
+    },
+    {
+      "id": 249,
+      "text": "'Yes. Yes. That she too would be torn up when the picture was torn up. Now I know, Tata, that when I tore up Cardenala's picture in prison it began to free me, to free me from her evil power. Woman, when she goes bad, is the worst of all evil lights. Because of this, my mandate ordered the unknown rider to take the picture of the first person with an untrue heart that he found, the first unfaithful friend or lover, and tear it into pieces. There are many ways of destroying someone.'",
+      "translation": "'نعم. نعم. أنها هي أيضاً ستمزق عندما تمزق الصورة. الآن أعرف يا تاتا، أنه عندما مزقت صورة كاردينالا في السجن بدأ ذلك في تحريري، وتحريري من قوتها الشريرة. المرأة، عندما تفسد، هي أسوأ أنواع النور الشرير. ولهذا، أمر تفويضي الفارس المجهول بأن يأخذ صورة أول شخص ذي قلب غير صادق يجده، أول صديق أو عاشق غير مخلص، ويمزقها إلى قطع. هناك طرق عديدة لتدمير شخص ما.'"
+    },
+    {
+      "id": 250,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 251,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 252,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
