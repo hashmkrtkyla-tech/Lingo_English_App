@@ -2,13 +2,2338 @@
   "id": "c1_the_portobello_road",
   "title": "The Portobello Road",
   "level": "C1",
-  "audio_url": "https://drive.google.com/uc?export=download&id=117XEG72-orVV76O7_fP83B7IAVBPiMcH",
+  "audio_url": "assets/books/audio/c1_books/The_Portobello_Road-Muriel_Spark.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "One day in London, walking down Portobello Road, I saw someone I used to know.",
-      "translation": "في أحد الأيام في لندن، وأثناء سيرا في طريق بورتوبيللو، رأيت شخصاً كنت أعرفه سابقاً."
-    }
-  ]
-}
+      "id": 1,
+      "text": "The Portobello Road",
+      "translation": "طريق بورتوبيلو"
+    },
+    {
+      "id": 2,
+      "text": "Muriel Spark",
+      "translation": "موريل سبارك"
+    },
+    {
+      "id": 3,
+      "text": "One day in my young youth at high summer, lolling with my lovely companions upon a haystack, I found a needle.",
+      "translation": "في أحد أيام شبابي في ذروة الصيف، مستلقية مع رفاقي اللطفاء على كومة قش، وجدت إبرة."
+    },
+    {
+      "id": 4,
+      "text": "Already and privately for some years I had been guessing that I was set apart from the common run, but this of the needle attested the fact to my whole public: George, Kathleen and Skinny.",
+      "translation": "منذ سنوات، وكنت أتوقع سراً أنني مميزة عن العامة، لكن هذه الإبرة أثبتت الحقيقة لكل جمهوري: جورج، وكاثلين، وسكيني."
+    },
+    {
+      "id": 5,
+      "text": "I sucked my thumb, for when I had thrust my idle hand deep into the hay, the thumb was where the needle had stuck.",
+      "translation": "مصصت إبهامي، لأنه عندما دفعت يدي العاطلة عميقاً في القش، كان الإبهام هو المكان الذي غزت فيه الإبرة."
+    },
+    {
+      "id": 6,
+      "text": "When everyone had recovered George said, 'She put in her thumb and pulled out a plum.'",
+      "translation": "عندما استعاد الجميع هدوءهم، قال جورج: 'لقد وضعت إبهامها وسحبت برقوقة.'"
+    },
+    {
+      "id": 7,
+      "text": "Then away we were into our merciless hacking-hecking laughter again.",
+      "translation": "ثم انطلقنا مرة أخرى في ضحكنا القاسي المتقطع."
+    },
+    {
+      "id": 8,
+      "text": "The needle had gone fairly deep into the thumby cushion and a small red river flowed and spread from this tiny puncture.",
+      "translation": "كانت الإبرة قد غاصت بعمق في وسادة الإبهام، وتدفق نهر أحمر صغير وانتشر من هذا الوخز الصغير."
+    },
+    {
+      "id": 9,
+      "text": "So that nothing of our joy should lag, George put in quickly.",
+      "translation": "لكي لا يتباطأ أي شيء من فرحنا، تدخل جورج بسرعة."
+    },
+    {
+      "id": 10,
+      "text": "'Mind your bloody thumb on my shirt.'",
+      "translation": "'احترسي من إبهامك الدامي على قميصي.'"
+    },
+    {
+      "id": 11,
+      "text": "Then hac-hec-hoo, we shrieked into the hot Borderland afternoon.",
+      "translation": "ثم هاك-هيك-هو، صرخنا في فترة ما بعد الظهر الحارة في منطقة الحدود."
+    },
+    {
+      "id": 12,
+      "text": "Really, I should not care to be so young of heart again.",
+      "translation": "حقاً، لا ينبغي أن أهتم بأن أكون بهذا الشباب في القلب مرة أخرى."
+    },
+    {
+      "id": 13,
+      "text": "That is my thought every time I turn over my old papers and come across the photograph.",
+      "translation": "هذا هو تفكيري في كل مرة أقلب أوراقي القديمة وأعثر على الصورة."
+    },
+    {
+      "id": 14,
+      "text": "Skinny, Kathleen and myself are in the photo atop the haystack.",
+      "translation": "سكيني، وكاثلين، وأنا في الصورة فوق كومة القش."
+    },
+    {
+      "id": 15,
+      "text": "Skinny had just finished analyzing the inwards of my find.",
+      "translation": "كان سكيني قد انتهى للتو من تحليل ما بداخل ما وجدته."
+    },
+    {
+      "id": 16,
+      "text": "It couldn't have been done by brains.",
+      "translation": "لا يمكن أن يكون قد فعلها بعقل."
+    },
+    {
+      "id": 17,
+      "text": "You haven't much brain's but you're a lucky wee thing.'",
+      "translation": "ليس لديك الكثير من العقل، لكنك محظوظة صغيرة.'"
+    },
+    {
+      "id": 18,
+      "text": "Everyone agreed that the needle betokened extraordinary luck.",
+      "translation": "اتفق الجميع على أن الإبرة تنبئ بحظ غير عادي."
+    },
+    {
+      "id": 19,
+      "text": "As it was becoming a serious conversation, George said, 'I'll take a photo.'",
+      "translation": "وبما أن المحادثة أصبحت جدية، قال جورج: 'سألتقط صورة.'"
+    },
+    {
+      "id": 20,
+      "text": "I wrapped my hanky round my thumb and got myself organized.",
+      "translation": "لففت منديلي حول إبهامي ونظمت نفسي."
+    },
+    {
+      "id": 21,
+      "text": "George pointed up from his camera and shouted,",
+      "translation": "أشار جورج من كاميرته وصاح،"
+    },
+    {
+      "id": 22,
+      "text": "'Look, there's a mouse!'",
+      "translation": "'انظروا، هناك فأر!'"
+    },
+    {
+      "id": 23,
+      "text": "Kathleen screamed and I screamed although I think we knew there was no mouse.",
+      "translation": "صرخت كاثلين وصرخت أنا، على الرغم من أنني أعتقد أننا كنا نعلم أنه لا يوجد فأر."
+    },
+    {
+      "id": 24,
+      "text": "But this gave us an extra session of squalling hee-hoo's.",
+      "translation": "لكن هذا منحنا جلسة إضافية من الصراخ والقهقهة."
+    },
+    {
+      "id": 25,
+      "text": "Finally, we three composed ourselves for George's picture.",
+      "translation": "أخيراً، استعدنا رباطة جأشنا نحن الثلاثة لصورة جورج."
+    },
+    {
+      "id": 26,
+      "text": "We look lovely and it was a great day at the time, but I would not care for it all over again.",
+      "translation": "نبدو جميلات وكان يوماً رائعاً في ذلك الوقت، لكنني لا أريد تكراره مرة أخرى."
+    },
+    {
+      "id": 27,
+      "text": "From that day, I was known as Needle.",
+      "translation": "منذ ذلك اليوم، عُرفت باسم نيدل (الإبرة)."
+    },
+    {
+      "id": 28,
+      "text": "One Saturday in recent years, I was mooching down the Portobello Road, threading among the crowds of marketers on the narrow pavement when I saw a woman.",
+      "translation": "في أحد أيام السبت في السنوات الأخيرة، كنت أتجول في طريق بورتوبيلو، متسللة بين حشود المتسوقين على الرصيف الضيق عندما رأيت امرأة."
+    },
+    {
+      "id": 29,
+      "text": "She had a haggard, careworn, wealthy look, thin but for the breasts forced-up high like a pigeon's.",
+      "translation": "كانت تبدو شاحبة، منهكة، وثرية؛ نحيفة باستثناء صدرها المرفوع عالياً مثل صدر حمامة."
+    },
+    {
+      "id": 30,
+      "text": "I had not seen her for nearly five years.",
+      "translation": "لم أرها منذ ما يقرب من خمس سنوات."
+    },
+    {
+      "id": 31,
+      "text": "How changed she was!",
+      "translation": "كم تغيرت!"
+    },
+    {
+      "id": 32,
+      "text": "But I recognised Kathleen, my friend; her features had already begun to sink and protrude in the way that mouths and noses do in people destined always to be old for their years.",
+      "translation": "لكني تعرفت على كاثلين، صديقتي؛ كانت ملامحها قد بدأت بالفعل في الغور والبروز بالطريقة التي تفعلها الأفواه والأنوف لدى الأشخاص الذين كتب عليهم أن يبدوا دائماً أكبر من أعمارهم."
+    },
+    {
+      "id": 33,
+      "text": "When I had last seen her, nearly five years ago, Kathleen, barely thirty, had said,",
+      "translation": "عندما رأيتها آخر مرة، منذ ما يقرب من خمس سنوات، كانت كاثلين، بالكاد في الثلاثين، قد قالت،"
+    },
+    {
+      "id": 34,
+      "text": "'I've lost all my looks, it's in the family. All the women are handsome as girls, but we go off early, we go brown and nosey.'",
+      "translation": "'لقد فقدت كل جمالي، إنه في العائلة. جميع النساء جميلات كفتيات، لكننا نذبل مبكراً، نصبح بنيات وذاوات أنوف بارزة.'"
+    },
+    {
+      "id": 35,
+      "text": "I stood silently among the people, watching.",
+      "translation": "وقفت بصمت بين الناس، أراقب."
+    },
+    {
+      "id": 36,
+      "text": "As you will see, I wasn't in a position to speak to Kathleen.",
+      "translation": "كما سترى، لم أكن في وضع يسمح لي بالتحدث إلى كاثلين."
+    },
+    {
+      "id": 37,
+      "text": "I saw her shoving in her avid manner from stall to stall.",
+      "translation": "رأيتها تدفع بطريقتها الشرهة من كشك إلى كشك."
+    },
+    {
+      "id": 38,
+      "text": "She was always fond of antique jewellery and of bargains.",
+      "translation": "كانت دائماً مغرمة بالمجوهرات العتيقة والصفقات الرخيصة."
+    },
+    {
+      "id": 39,
+      "text": "I wondered that I had not seen her before in the Portobello Road on my Saturday morning ambles.",
+      "translation": "تساءلت لماذا لم أرها من قبل في طريق بورتوبيلو خلال تجوالي في صباح يوم السبت."
+    },
+    {
+      "id": 40,
+      "text": "Her long stiff-crooked fingers pounced to select a jade ring from amongst the jumble of brooches and pendants, onyx, moonstone and gold, set out on the stall.",
+      "translation": "انقضت أصابعها الطويلة المتصلبة المعوجة لتختار خاتماً من اليشم من بين خليط من البروشات والقلائد، والجزع، وحجر القمر، والذهب، المعروضة على الكشك."
+    },
+    {
+      "id": 41,
+      "text": "'What do you think of this?' she said.",
+      "translation": "'ما رأيك في هذا؟' قالت."
+    },
+    {
+      "id": 42,
+      "text": "I saw then who was with her.",
+      "translation": "رأيت عندها من كان معها."
+    },
+    {
+      "id": 43,
+      "text": "I had been half-conscious of the huge man following several paces behind her, and now I noticed him.",
+      "translation": "كنت نصف واعية للرجل الضخم الذي يتبعها على بعد عدة خطوات، والآن لاحظته."
+    },
+    {
+      "id": 44,
+      "text": "'It looks all right,' he said. 'How much is it?'",
+      "translation": "'تبدو جيدة،' قال. 'كم سعرها؟'"
+    },
+    {
+      "id": 45,
+      "text": "'How much is it?' Kathleen asked the vendor.",
+      "translation": "'كم سعرها؟' سألت كاثلين البائع."
+    },
+    {
+      "id": 46,
+      "text": "I took a good look at this man accompanying Kathleen.",
+      "translation": "أخذت نظرة جيدة على هذا الرجل المصاحب لكاثلين."
+    },
+    {
+      "id": 47,
+      "text": "It was her husband.",
+      "translation": "كان زوجها."
+    },
+    {
+      "id": 48,
+      "text": "The beard was unfamiliar, but I recognised beneath it his enormous mouth, the bright sensuous lips, the large brown eyes forever brimming with pathos.",
+      "translation": "كانت اللحية غير مألوفة، لكنني تعرفت تحتها على فمه الضخم، وشفتيه الحسيتين اللامعتين، وعينيه البنيتين الكبيرتين المليئتين دائماً بالشفقة."
+    },
+    {
+      "id": 49,
+      "text": "It was not for me to speak to Kathleen, but I had a sudden inspiration, which caused me to say quietly,",
+      "translation": "لم يكن من حقي التحدث إلى كاثلين، لكن كان لدي إلهام مفاجئ، جعلني أقول بهدوء،"
+    },
+    {
+      "id": 50,
+      "text": "'Hallo, George.'",
+      "translation": "'مرحباً، جورج.'"
+    },
+    {
+      "id": 51,
+      "text": "The giant of a man turned round to face the direction of my face.",
+      "translation": "استدار الرجل العملاق ليواجه اتجاه وجهي."
+    },
+    {
+      "id": 52,
+      "text": "There were so many people - but at length he saw me.",
+      "translation": "كان هناك الكثير من الناس - لكنه رآني في النهاية."
+    },
+    {
+      "id": 53,
+      "text": "'Hallo, George,' I said again.",
+      "translation": "'مرحباً، جورج،' قلت مرة أخرى."
+    },
+    {
+      "id": 54,
+      "text": "Kathleen had started to haggle with the stall-owner, in her old way, over the price of the jade ring.",
+      "translation": "بدأت كاثلين تساوم صاحب الكشك، بطريقتها القديمة، على سعر خاتم اليشم."
+    },
+    {
+      "id": 55,
+      "text": "George continued to stare at me, his big mouth slightly parted so that I could see a wide slit of red lips and white teeth between the fair grassy growths of beard and moustache.",
+      "translation": "استمر جورج في التحديق إليّ، وفمه الكبير مفتوح قليلاً حتى أرى شقاً عريضاً من الشفاه الحمراء والأسنان البيضاء بين نمو اللحية والشارب الأشقر العشبي."
+    },
+    {
+      "id": 56,
+      "text": "'My God' he said.",
+      "translation": "'يا إلهي' قال."
+    },
+    {
+      "id": 57,
+      "text": "'What's the matter?' said Kathleen.",
+      "translation": "'ما الأمر؟' قالت كاثلين."
+    },
+    {
+      "id": 58,
+      "text": "'Hallo, George!' I said again, quite loud this time, and cheerfully.",
+      "translation": "'مرحباً، جورج!' قلت مرة أخرى، بصوت عالٍ هذه المرة، وبمرح."
+    },
+    {
+      "id": 59,
+      "text": "'Look!' said George. 'Look who's there, over beside the fruit stall.'",
+      "translation": "'انظري!' قال جورج. 'انظري من هناك، بجانب كشك الفاكهة.'"
+    },
+    {
+      "id": 60,
+      "text": "Kathleen looked but didn't see.",
+      "translation": "نظرت كاثلين لكنها لم تر."
+    },
+    {
+      "id": 61,
+      "text": "'Who is it?' she said impatiently.",
+      "translation": "'من هو؟' قالت بنفاد صبر."
+    },
+    {
+      "id": 62,
+      "text": "'It's Needle,' he said. 'She said \"Hallo, George\".'",
+      "translation": "'إنها نيدل،' قال. 'قالت \"مرحباً، جورج\".'"
+    },
+    {
+      "id": 63,
+      "text": "'Needle,' said Kathleen. 'Who do you mean? You don't mean our old friend Needle who -'",
+      "translation": "'نيدل،' قالت كاثلين. 'من تقصد؟ لا تقصد صديقتنا القديمة نيدل التي -'"
+    },
+    {
+      "id": 64,
+      "text": "'Yes. There she is. My God!'",
+      "translation": "'نعم. ها هي ذي. يا إلهي!'"
+    },
+    {
+      "id": 65,
+      "text": "He looked very ill, although when I had said 'Hallo, George' I had spoken friendly enough.",
+      "translation": "بدا مريضاً جداً، على الرغم من أنني عندما قلت 'مرحباً، جورج' كنت قد تحدثت بودٍ كافٍ."
+    },
+    {
+      "id": 66,
+      "text": "'I don't see anyone faintly resembling poor Needle,' said Kathleen looking at him.",
+      "translation": "'لا أرى أي شخص يشبه نيدل المسكينة ولو قليلاً،' قالت كاثلين وهي تنظر إليه."
+    },
+    {
+      "id": 67,
+      "text": "She was worried.",
+      "translation": "كانت قلقة."
+    },
+    {
+      "id": 68,
+      "text": "George pointed straight at me. 'Look there. I tell you that is Needle.'",
+      "translation": "أشار جورج مباشرة إليّ. 'انظري هناك. أقول لك إن هذه نيدل.'"
+    },
+    {
+      "id": 69,
+      "text": "'You're ill, George. Heavens, you must be seeing things. Come on home. Needle isn't there. You know as well as I do, Needle is dead.'",
+      "translation": "'أنت مريض يا جورج. يا إلهي، لا بد أنك ترى أشياء. هيا إلى المنزل. نيدل ليست هناك. تعرف كما أعرف أن نيدل ميتة.'"
+    },
+    {
+      "id": 70,
+      "text": "I must explain that I departed this life nearly five years ago.",
+      "translation": "يجب أن أوضح أنني فارقت هذه الحياة منذ ما يقرب من خمس سنوات."
+    },
+    {
+      "id": 71,
+      "text": "But I did not altogether depart this world.",
+      "translation": "لكني لم أترك هذا العالم تماماً."
+    },
+    {
+      "id": 72,
+      "text": "There were those odd things still to be done which one's executors can never do properly.",
+      "translation": "كانت هناك تلك الأشياء الغريبة التي لا يزال يتعين القيام بها والتي لا يستطيع المنفذون على الوصية القيام بها بشكل صحيح أبداً."
+    },
+    {
+      "id": 73,
+      "text": "Papers to be looked over, even after the executors have torn them up.",
+      "translation": "أوراق يجب مراجعتها، حتى بعد أن يمزقها المنفذون."
+    },
+    {
+      "id": 74,
+      "text": "Lots of business except, of course, on Sundays and Holidays of Obligation, plenty to take an interest in for the time being.",
+      "translation": "الكثير من الأعمال، باستثناء أيام الآحاد والأعياد الواجبة بالطبع، الكثير مما يستحق الاهتمام في الوقت الحالي."
+    },
+    {
+      "id": 75,
+      "text": "I take my recreation on Saturday mornings.",
+      "translation": "أستمتع بوقت فراغي في صباح أيام السبت."
+    },
+    {
+      "id": 76,
+      "text": "If it is a wet Saturday I wander up and down the substantial lanes of Woolworth's as I did when I was young and visible.",
+      "translation": "إذا كان يوم سبت ممطراً، أتجول صعوداً وهبوطاً في ممرات وولورث الواسعة كما كنت أفعل عندما كنت شابة ومرئية."
+    },
+    {
+      "id": 77,
+      "text": "There is a pleasurable spread of objects on the counters, which I now perceive and exploit with a certain detachment, since it suits with my condition of life.",
+      "translation": "هناك انتشار ممتع للأشياء على المناضد، والتي أدركها الآن وأستغلها ببعض الانفصال، لأنها تناسب حالة حياتي."
+    },
+    {
+      "id": 78,
+      "text": "Creams, toothpastes, combs and hankies, cotton gloves, flimsy flowering scarves, writing paper and crayons, ice-cream cones and orangeade, screwdrivers, boxes of tacks, tins of paint, of glue, of marmalade; I always liked them but far more now that I have no need of any.",
+      "translation": "كريمات، معاجين أسنان، أمشاط ومناديل، قفازات قطنية، أوشحة زهرية رقيقة، ورق كتابة وأقلام تلوين، مخاريط آيس كريم وعصير برتقال، مفكات، علب دبابيس، علب دهان، غراء، مربى؛ لطالما أحببتها ولكن أكثر بكثير الآن بعد أن لم أعد بحاجة لأي منها."
+    },
+    {
+      "id": 79,
+      "text": "When Saturdays are fine I go instead to the Portobello Road where formerly I would jaunt with Kathleen in our grown-up days.",
+      "translation": "عندما يكون يوم السبت جميلاً، أذهب بدلاً من ذلك إلى طريق بورتوبيلو حيث كنت أتنزه سابقاً مع كاثلين في أيامنا البالغة."
+    },
+    {
+      "id": 80,
+      "text": "The barrow-loads do not change much, of apples and rayon vests in common blues and low-taste mauve, of silver plate, trays and teapots long since changed hands from the bygone citizens to dealers, from shops to the new flats and breakable homes, and then over to the barrow-stalls and the dealers again: Georgian spoons, rings, earrings of turquoise and opal set in the butterfly pattern of true lovers' knot, patch-boxes with miniature paintings of ladies on ivory, snuff-boxes of silver with Scotch pebbles inset.",
+      "translation": "لا تتغير محتويات العربات كثيراً، من التفاح وسترات الرايون بألوان الأزرق الشائع والأرجواني الرخيص، إلى الأطباق الفضية والصواني وأباريق الشاي التي انتقلت منذ زمن طويل من أيدي المواطنين السابقين إلى التجار، من المتاجر إلى الشقق الجديدة والمنازل القابلة للكسر، ثم إلى عربات الكشك والتجار مرة أخرى: ملاعق جورجية، خواتم، أقراط من الفيروز والأوبال مرصعة بنمط الفراشة لعقدة العشاق الحقيقيين، علب رقعة مع لوحات مصغرة للسيدات على العاج، علب سعوط فضية مرصعة بحصى اسكتلندي."
+    },
+    {
+      "id": 81,
+      "text": "Sometimes as occasion arises on a Saturday morning, my friend Kathleen, who is a Catholic, has a Mass said for my soul, and then I am in attendance, as it were, at the church.",
+      "translation": "أحياناً، عند توفر الفرصة في صباح يوم سبت، تقيم صديقتي كاثلين، الكاثوليكية، قداساً من أجل روحي، ثم أكون حاضراً، إذا جاز التعبير، في الكنيسة."
+    },
+    {
+      "id": 82,
+      "text": "But most Saturdays I take my delight among the solemn crowds with their aimless purposes, their eternal life not far away, who push past the counters and stalls, who handle, buy, steal, touch, desire and ogle the merchandise.",
+      "translation": "لكن في معظم أيام السبت أجد متعتي بين الحشود الجادة بأهدافها التي لا هدف لها، وحياتها الأبدية ليست بعيدة، الذين يدفعون عبر المناضد والأكشاك، الذين يتناولون، يشترون، يسرقون، يلمسون، يرغبون ويتفحصون البضائع."
+    },
+    {
+      "id": 83,
+      "text": "I hear the tinkling tills, I hear the jangle of loose change and tongues and children wanting to hold and have.",
+      "translation": "أسمع رنين صناديق النقود، أسمع قعقعة الفكة واللسان والأطفال الذين يريدون الإمساك والامتلاك."
+    },
+    {
+      "id": 84,
+      "text": "That is how I came to be in the Portobello Road that Saturday morning when I saw George and Kathleen.",
+      "translation": "هكذا وجدت نفسي في طريق بورتوبيلو في صباح يوم السبت عندما رأيت جورج وكاثلين."
+    },
+    {
+      "id": 85,
+      "text": "I would not have spoken had I not been inspired to it.",
+      "translation": "لم أكن لأتحدث لو لم أُلهم لذلك."
+    },
+    {
+      "id": 86,
+      "text": "Indeed, it's one of the things I can't do now - to speak out, unless inspired.",
+      "translation": "في الواقع، إنه أحد الأشياء التي لا أستطيع فعلها الآن - أن أتحدث علناً، إلا إذا أُلهمت."
+    },
+    {
+      "id": 87,
+      "text": "And most extraordinary, on that morning as I spoke, a degree of visibility set in.",
+      "translation": "والأكثر غرابة، في ذلك الصباح عندما تحدثت، بدأ نوع من الظهور."
+    },
+    {
+      "id": 88,
+      "text": "I suppose from poor George's point of view it was like seeing a ghost when he saw me standing by the fruit barrow repeating in so friendly a manner, 'Hallo, George!'",
+      "translation": "أفترض من وجهة نظر جورج المسكين أنه كان مثل رؤية شبح عندما رآني واقفة بجانب عربة الفاكهة أكرر بطريقة ودية للغاية، 'مرحباً، جورج!'"
+    },
+    {
+      "id": 89,
+      "text": "We were bound for the south.",
+      "translation": "كنا متجهين جنوباً."
+    },
+    {
+      "id": 90,
+      "text": "When our education, what we could get of it from the north, was thought to be finished, one by one we were sent or sent for to London.",
+      "translation": "عندما اعتُبر أن تعليمنا، ما استطعنا الحصول عليه من الشمال، قد انتهى، أُرسلنا أو أُرسل لنا واحداً تلو الآخر إلى لندن."
+    },
+    {
+      "id": 91,
+      "text": "John Skinner, whom we called Skinny, went to study more archaeology, George to join his uncle's tobacco farm, Kathleen to stay with her rich connections and to potter intermittently in the Mayfair hat shop, which one of them owned.",
+      "translation": "ذهب جون سكينر، الذي كنا نسميه سكيني، لدراسة المزيد من علم الآثار، وجورج للانضمام إلى مزرعة التبغ الخاصة بعمه، وكاثلين للإقامة مع معارفها الأثرياء والتسكع بشكل متقطع في متجر القبعات في مايفير، الذي كان يملكه أحدهم."
+    },
+    {
+      "id": 92,
+      "text": "A little later, I also went to London to see life, for it was my ambition to write about life, which first I had to see.",
+      "translation": "بعد ذلك بقليل، ذهبت أنا أيضاً إلى لندن لأرى الحياة، لأن طموحي كان الكتابة عن الحياة، والتي كان عليّ أولاً أن أراها."
+    },
+    {
+      "id": 93,
+      "text": "'We four must stick together,' George said very often in that yearning way of his.",
+      "translation": "'يجب أن نبقى نحن الأربعة معاً،' كان جورج يقول هذا كثيراً جداً بطريقته المتلهفة."
+    },
+    {
+      "id": 94,
+      "text": "He was always desperately afraid of neglect.",
+      "translation": "كان دائماً خائفاً يائساً من الإهمال."
+    },
+    {
+      "id": 95,
+      "text": "We four looked likely to shift off in different directions and George did not trust the other three of us not to forget all about him.",
+      "translation": "بدا أننا نحن الأربعة سننفصل في اتجاهات مختلفة، ولم يثق جورج في أننا الثلاثة الآخرون لن ننساه تماماً."
+    },
+    {
+      "id": 96,
+      "text": "More and more as the time came for him to depart for his uncle's tobacco farm in Africa he said, 'We four must keep in touch.'",
+      "translation": "ومع اقتراب الوقت الذي سيرحل فيه إلى مزرعة التبغ الخاصة بعمه في أفريقيا، كان يقول أكثر وأكثر: 'يجب أن نبقى نحن الأربعة على تواصل.'"
+    },
+    {
+      "id": 97,
+      "text": "And before he left he told each of us anxiously,",
+      "translation": "وقبل أن يرحل، أخبر كل واحد منا بقلق،"
+    },
+    {
+      "id": 98,
+      "text": "'I'll write regularly, once a month. We must keep together for the sake of the old times.'",
+      "translation": "'سأكتب بانتظام، مرة في الشهر. يجب أن نبقى معاً من أجل الأوقات القديمة.'"
+    },
+    {
+      "id": 99,
+      "text": "He had three prints taken from the negative of that photo on the haystack, wrote on the back of them 'George took this the day that Needle found the needle' and gave us a copy each.",
+      "translation": "أخذ ثلاث نسخ طبع من سالب تلك الصورة على كومة القش، وكتب على ظهرها 'جورج التقط هذه في اليوم الذي وجدت فيه نيدل الإبرة' وأعطى كل واحد منا نسخة."
+    },
+    {
+      "id": 100,
+      "text": "I think we all wished he could become a bit more callous.",
+      "translation": "أعتقد أننا جميعاً تمنينا لو أصبح أكثر قسوة قليلاً."
+    },
+    {
+      "id": 101,
+      "text": "During my lifetime I was a drifter, nothing organized.",
+      "translation": "خلال حياتي كنت متسكعة، لا شيء منظم."
+    },
+    {
+      "id": 102,
+      "text": "It was difficult for my friends to follow the logic of my life.",
+      "translation": "كان من الصعب على أصدقائي متابعة منطق حياتي."
+    },
+    {
+      "id": 103,
+      "text": "By the normal reckonings, I should have come to starvation and ruin, which I never did.",
+      "translation": "وفقاً للحسابات العادية، كان يجب أن أصل إلى الجوع والخراب، وهو ما لم يحدث أبداً."
+    },
+    {
+      "id": 104,
+      "text": "Of course, I did not live to write about life, as I wanted to do.",
+      "translation": "بالطبع، لم أعش لأكتب عن الحياة، كما أردت أن أفعل."
+    },
+    {
+      "id": 105,
+      "text": "Possibly that is why I am inspired to do so now in these peculiar circumstances.",
+      "translation": "ربما لهذا السبب أنا ملهمة للقيام بذلك الآن في هذه الظروف الغريبة."
+    },
+    {
+      "id": 106,
+      "text": "I taught in a private school in Kensington for almost three months, very small children.",
+      "translation": "درست في مدرسة خاصة في كنسينغتون لمدة ثلاثة أشهر تقريباً، أطفالاً صغاراً جداً."
+    },
+    {
+      "id": 107,
+      "text": "I didn't know what to do with them but I was kept fairly busy escorting incontinent little boys to the lavatory and telling the little girls to use their handkerchiefs.",
+      "translation": "لم أكن أعرف ماذا أفعل بهم لكنني كنت مشغولة نوعاً ما بمرافقة الأولاد الصغار الذين لا يتحكمون في أنفسهم إلى المرحاض وإخبار الفتيات الصغيرات باستخدام مناديلهن."
+    },
+    {
+      "id": 108,
+      "text": "After that, I lived a winter holiday in London on my small capital, and when that had run out, I found a diamond bracelet in the cinema for which I received a reward of fifty pounds.",
+      "translation": "بعد ذلك، عشت عطلة شتوية في لندن برأس مالي الصغير، وعندما نفد، وجدت سواراً من الألماس في السينما حصلت منه على مكافأة قدرها خمسون جنيهاً."
+    },
+    {
+      "id": 109,
+      "text": "When it was used up, I got a job with a publicity man, writing speeches for absorbed industrialists, in which the dictionary of quotations came in very useful.",
+      "translation": "عندما استُهلك، حصلت على وظيفة مع رجل دعاية، أكتب خطابات لصناعيين منغمسين، كان قاموس الاقتباسات مفيداً جداً فيها."
+    },
+    {
+      "id": 110,
+      "text": "So it went on.",
+      "translation": "وهكذا استمر الأمر."
+    },
+    {
+      "id": 111,
+      "text": "I got engaged to Skinny, but shortly after that I was left a small legacy, enough to keep me for six months.",
+      "translation": "خطبت لسكيني، لكن بعد ذلك بفترة وجيزة تُركت لي وصية صغيرة، كافية لإعالي لمدة ستة أشهر."
+    },
+    {
+      "id": 112,
+      "text": "This somehow decided me that I didn't love Skinny so I gave him back the ring.",
+      "translation": "هذا قررني بطريقة ما أنني لا أحب سكيني، لذا أعدت إليه الخاتم."
+    },
+    {
+      "id": 113,
+      "text": "But it was through Skinny that I went to Africa.",
+      "translation": "لكن من خلال سكيني ذهبت إلى أفريقيا."
+    },
+    {
+      "id": 114,
+      "text": "He was engaged with a party of researchers to investigate King Solomon's mines, that series of ancient workings ranging from the ancient port of Ophir, now called Beira, across Portuguese East Africa and Southern Rhodesia to the mighty jungle-city of Zimbabwe whose temple walls still stand by the approach to an ancient and sacred mountain, where the rubble of that civilization scatters itself over the surrounding Rhodesian waste.",
+      "translation": "كان يعمل مع فريق من الباحثين للتحقيق في مناجم الملك سليمان، تلك السلسلة من الأعمال القديمة التي تمتد من ميناء أوفير القديم، الذي يُسمى الآن بيرا، عبر شرق أفريقيا البرتغالية وروديسيا الجنوبية إلى مدينة زيمبابوي العظيمة في الأدغال التي لا تزال جدران معبدها قائمة عند مدخل جبل قديم ومقدس، حيث يتناثر حطام تلك الحضارة على المناطق المحيطة في روديسيا."
+    },
+    {
+      "id": 115,
+      "text": "I accompanied the party as a sort of secretary.",
+      "translation": "رافقت الفريق كسكرتيرة نوعاً ما."
+    },
+    {
+      "id": 116,
+      "text": "Skinny vouched for me, he paid my fare, he sympathized by his action with my inconsequential life although when he spoke of it he disapproved.",
+      "translation": "ضمنني سكيني، دفع أجر سفري، وتعاطف من خلال أفعاله مع حياتي غير المهمة على الرغم من أنه كان يعترض عليها عندما يتحدث عنها."
+    },
+    {
+      "id": 117,
+      "text": "A life like mine annoys most people; they go to their jobs every day, attend to things, give orders, pummel typewriters, and get two or three weeks off every year, and it vexes them to see someone else not bothering to do these things and yet getting away with it, not starving, being lucky as they call it.",
+      "translation": "حياة مثل حياتي تزعج معظم الناس؛ يذهبون إلى وظائفهم كل يوم، يعتنون بالأشياء، يصدرون الأوامر، يضربون الآلات الكاتبة، ويحصلون على أسبوعين أو ثلاثة إجازة كل عام، ويضايقهم رؤية شخص آخر لا يكلف نفسه عناء القيام بهذه الأشياء ومع ذلك ينجو بفعلته، لا يتضور جوعاً، ويكون محظوظاً كما يسمونه."
+    },
+    {
+      "id": 118,
+      "text": "Skinny, when I had broken off our engagement, lectured me about this, but still he took me to Africa knowing I should probably leave his unit within a few months.",
+      "translation": "سكيني، عندما فسخت خطوبتنا، ألقى عليّ محاضرة حول هذا، لكنه مع ذلك أخذني إلى أفريقيا وهو يعلم أنني على الأرجح سأترك وحدته في غضون بضعة أشهر."
+    },
+    {
+      "id": 119,
+      "text": "We were there a few weeks before we began enquiring for George, who was farming about four hundred miles away to the north.",
+      "translation": "كنا هناك بضعة أسابيع قبل أن نبدأ في السؤال عن جورج، الذي كان يزرع على بعد حوالي أربعمائة ميل إلى الشمال."
+    },
+    {
+      "id": 120,
+      "text": "We had not told him of our plans.",
+      "translation": "لم نخبره بخططنا."
+    },
+    {
+      "id": 121,
+      "text": "'If we tell George to expect us in his part of the world, he'll come rushing to pester us the first week.",
+      "translation": "'إذا أخبرنا جورج أن يتوقعنا في منطقته، فسيأتي مسرعاً ليزعجنا في الأسبوع الأول."
+    },
+    {
+      "id": 122,
+      "text": "After all, we're going on business,' Skinny had said.",
+      "translation": "بعد كل شيء، نحن ذاهبون في عمل،' قال سكيني."
+    },
+    {
+      "id": 123,
+      "text": "Before we left, Kathleen told us, 'Give George my love and tell him not to send frantic cables every time I don't answer his letters right away.",
+      "translation": "قبل أن نغادر، أخبرتنا كاثلين: 'أبلغا جورج حبي وقولا له ألا يرسل برقيات محمومة في كل مرة لا أرد فيها على رسائله على الفور."
+    },
+    {
+      "id": 124,
+      "text": "Tell him I'm busy in the hat shop and being presented.",
+      "translation": "قولا له إنني مشغولة في متجر القبعات وأحضر المناسبات."
+    },
+    {
+      "id": 125,
+      "text": "You would think he hadn't another friend in the world the way he carries on.'",
+      "translation": "قد تظنان أنه ليس لديه صديق آخر في العالم من الطريقة التي يتصرف بها.'"
+    },
+    {
+      "id": 126,
+      "text": "We had settled first at Fort Victoria, our nearest place of access to the Zimbabwe ruins.",
+      "translation": "استقرينا أولاً في فورت فيكتوريا، أقرب مكان لنا للوصول إلى أطلال زيمبابوي."
+    },
+    {
+      "id": 127,
+      "text": "There we made enquiries about George.",
+      "translation": "هناك استفسرنا عن جورج."
+    },
+    {
+      "id": 128,
+      "text": "It was clear he hadn't many friends.",
+      "translation": "كان واضحاً أنه لم يكن لديه الكثير من الأصدقاء."
+    },
+    {
+      "id": 129,
+      "text": "The older settlers were the most tolerant about the half-caste woman he was living with, as we found, but they were furious about his methods of raising tobacco, which we learned were most unprofessional and in some mysterious way disloyal to the whites.",
+      "translation": "كان المستوطنون الأكبر سناً الأكثر تسامحاً بشأن المرأة نصف الهندية التي كان يعيش معها، كما اكتشفنا، لكنهم كانوا غاضبين بشأن طرق زراعته للتبغ، والتي علمنا أنها كانت غير احترافية للغاية وبطريقة غامضة غير مخلصة للبيض."
+    },
+    {
+      "id": 130,
+      "text": "We could never discover how it was that George's style of tobacco farming gave the blacks opinions about themselves, but that's what the older settlers claimed.",
+      "translation": "لم نتمكن أبداً من اكتشاف كيف أن أسلوب جورج في زراعة التبغ منح السود آراء عن أنفسهم، لكن هذا ما ادعاه المستوطنون الأكبر سناً."
+    },
+    {
+      "id": 131,
+      "text": "The newer immigrants thought he was unsociable and, of course, his living with that nig made visiting impossible.",
+      "translation": "اعتقد المهاجرون الجدد أنه غير اجتماعي، وبالطبع، جعلت معيشته مع تلك السوداء الزيارة مستحيلة."
+    },
+    {
+      "id": 132,
+      "text": "I must say I was myself a bit off-put by this news about the brown woman.",
+      "translation": "يجب أن أقول إنني كنت نفسي منزعجة قليلاً من هذه الأخبار عن المرأة البنية."
+    },
+    {
+      "id": 133,
+      "text": "I was brought up in a university town to which came Indian, African and Asiatic students in a variety of tints and hues.",
+      "translation": "نشأت في مدينة جامعية كان يأتي إليها طلاب هنود وأفارقة وآسيويون بألوان وأصباغ متنوعة."
+    },
+    {
+      "id": 134,
+      "text": "I was brought up to avoid them for reasons connected with local reputation and God's ordinances.",
+      "translation": "نشأت على تجنبهم لأسباب تتعلق بالسمعة المحلية وأوامر الله."
+    },
+    {
+      "id": 135,
+      "text": "You cannot easily go against what you were brought up to do unless you are a rebel by nature.",
+      "translation": "لا يمكنك بسهولة مخالفة ما نشأت عليه إلا إذا كنت متمرداً بطبيعتك."
+    },
+    {
+      "id": 136,
+      "text": "Anyhow, we visited George eventually, taking advantage of the offer of transport from some people bound north in search of game.",
+      "translation": "على أي حال، قمنا بزيارة جورج في النهاية، مستغلين عرض النقل من بعض الأشخاص المتجهين شمالاً بحثاً عن الصيد."
+    },
+    {
+      "id": 137,
+      "text": "He had heard of our arrival in Rhodesia and though he was glad, almost relieved, to see us he pursued a policy of sullenness for the first hour.",
+      "translation": "كان قد سمع بوصولنا إلى روديسيا وعلى الرغم من أنه كان سعيداً، بل مرتاحاً تقريباً، لرؤيتنا، إلا أنه اتبع سياسة العبوس في الساعة الأولى."
+    },
+    {
+      "id": 138,
+      "text": "'We wanted to give you a surprise, George.'",
+      "translation": "'أردنا أن نفاجئك يا جورج.'"
+    },
+    {
+      "id": 139,
+      "text": "'How were we to know that you'd get to hear of our arrival, George? News here must travel faster than light, George.'",
+      "translation": "'كيف لنا أن نعرف أنك سمعت بوصولنا يا جورج؟ الأخبار هنا لا بد أنها تسافر أسرع من الضوء يا جورج.'"
+    },
+    {
+      "id": 140,
+      "text": "'We did hope to give you a surprise, George.'",
+      "translation": "'كنا نأمل حقاً أن نفاجئك يا جورج.'"
+    },
+    {
+      "id": 141,
+      "text": "At last, he said, 'Well, I must say it's good to see you. All we need now is Kathleen. We four simply must stick together.",
+      "translation": "قال أخيراً: 'حسناً، يجب أن أقول إنه لمن الجيد رؤيتكما. كل ما نحتاجه الآن هو كاثلين. يجب أن نبقى نحن الأربعة معاً ببساطة."
+    },
+    {
+      "id": 142,
+      "text": "You find when you're in a place like this, there's nothing like old friends.'",
+      "translation": "تجد عندما تكون في مكان مثل هذا، لا شيء مثل الأصدقاء القدامى.'"
+    },
+    {
+      "id": 143,
+      "text": "He showed us his drying sheds.",
+      "translation": "أرانا حظائر التجفيف الخاصة به."
+    },
+    {
+      "id": 144,
+      "text": "He showed us a paddock where he was experimenting with a horse and a zebra mare, attempting to mate them.",
+      "translation": "أرانا حظيرة كان يجري فيها تجارب على حصان وفرس وحشي، محاولاً تزويجهما."
+    },
+    {
+      "id": 145,
+      "text": "They were frolicking happily, but not together.",
+      "translation": "كانا يمرحان بسعادة، لكن ليس معاً."
+    },
+    {
+      "id": 146,
+      "text": "They passed each other in their private play time and again, but without acknowledgment and without resentment.",
+      "translation": "كانا يمران بجانب بعضهما البعض في وقت لعبهما الخاص مراراً وتكراراً، ولكن دون اعتراف ودون استياء."
+    },
+    {
+      "id": 147,
+      "text": "'It's been done before,' George said. 'It makes a fine strong beast, more intelligent than a mule and sturdier than a horse.",
+      "translation": "'لقد تم ذلك من قبل،' قال جورج. 'إنه يصنع وحشاً قوياً ورائعاً، أكثر ذكاءً من البغل وأقوى من الحصان."
+    },
+    {
+      "id": 148,
+      "text": "But I'm not having any success with this pair, they won't look at each other.'",
+      "translation": "لكنني لا أحقق أي نجاح مع هذا الزوجين، إنهما لا ينظران إلى بعضهما البعض.'"
+    },
+    {
+      "id": 149,
+      "text": "After a while, he said, 'Come in for a drink and meet Matilda.'",
+      "translation": "بعد فترة، قال: 'تفضلا لتناول مشروب وقابلا ماتيلدا.'"
+    },
+    {
+      "id": 150,
+      "text": "She was dark brown, with a subservient hollow chest and round shoulders, a gawky woman, very snappy with the houseboys.",
+      "translation": "كانت بنية داكنة، بصدر أجوف خاضع وكتفين مستديرتين، امرأة أخرق، سريعة الانفعال جداً مع خدم المنزل."
+    },
+    {
+      "id": 151,
+      "text": "We said pleasant things as we drank on the stoep before dinner, but we found George difficult.",
+      "translation": "قلنا أشياء لطيفة بينما كنا نشرب في الشرفة قبل العشاء، لكننا وجدنا جورج صعب المراس."
+    },
+    {
+      "id": 152,
+      "text": "For some reason he began to rail at me for breaking off my engagement to Skinny, saying what a dirty trick it was after all those good times in the old days.",
+      "translation": "لسبب ما بدأ يوبخني لفسخ خطوبتي من سكيني، قائلاً إنها خدعة قذرة بعد كل تلك الأوقات الجيدة في الأيام الخوالي."
+    },
+    {
+      "id": 153,
+      "text": "I diverted attention to Matilda.",
+      "translation": "حولت الانتباه إلى ماتيلدا."
+    },
+    {
+      "id": 154,
+      "text": "I supposed, I said, she knew this part of the country well?",
+      "translation": "أفترض، قلت، أنها تعرف هذا الجزء من البلاد جيداً؟"
+    },
+    {
+      "id": 155,
+      "text": "'No,' said she, 'I been a-shellitered my life. I not put out to working.",
+      "translation": "'لا،' قالت، 'لقد عشت محمية طوال حياتي. لم أُخرَج للعمل."
+    },
+    {
+      "id": 156,
+      "text": "Me nothing to go from place to place is allowed like dirty girls does.'",
+      "translation": "لا يُسمح لي بالتنقل من مكان لآخر مثل الفتيات القذرات.'"
+    },
+    {
+      "id": 157,
+      "text": "In her speech, she gave every syllable equal stress.",
+      "translation": "في حديثها، أعطت كل مقطع صوتي نبرة متساوية."
+    },
+    {
+      "id": 158,
+      "text": "George explained, 'Her father was a white magistrate in Natal.",
+      "translation": "شرح جورج: 'كان والدها قاضياً أبيض في ناتال."
+    },
+    {
+      "id": 159,
+      "text": "She had a sheltered upbringing, different from the other coloureds, you realise.'",
+      "translation": "كانت نشأتها محمية، مختلفة عن الملونين الآخرين، كما تدرك.'"
+    },
+    {
+      "id": 160,
+      "text": "'Man, me no black-eyed Susan,' said Matilda, 'no, no.'",
+      "translation": "'يا رجل، أنا لست سوزان ذات العيون السوداء،' قالت ماتيلدا، 'لا، لا.'"
+    },
+    {
+      "id": 161,
+      "text": "On the whole, George treated her as a servant.",
+      "translation": "بشكل عام، عاملها جورج كخادمة."
+    },
+    {
+      "id": 162,
+      "text": "She was about four months advanced in pregnancy, but he made her get up and fetch for him, many times.",
+      "translation": "كانت حاملاً في شهرها الرابع تقريباً، لكنه جعلها تنهض وتجلب له الأشياء، مرات عديدة."
+    },
+    {
+      "id": 163,
+      "text": "Soap: that was one of the things Matilda had to fetch.",
+      "translation": "الصابون: كان هذا أحد الأشياء التي كان على ماتيلدا إحضارها."
+    },
+    {
+      "id": 164,
+      "text": "George made his own bath soap, showed it proudly, gave us the recipe which I did not trouble to remember; I was fond of nice soaps during my lifetime and George's smelled of brilliantine and looked likely to soil one's skin.",
+      "translation": "صنع جورج صابون حمامه الخاص، وأراه بفخر، وأعطانا الوصفة التي لم أهتم بتذكرها؛ كنت مغرمة بالصابون الجيد خلال حياتي، وكان صابون جورج تفوح منه رائحة البريانتين وبدا وكأنه يلوث البشرة."
+    },
+    {
+      "id": 165,
+      "text": "'D'yo brahn?' Matilda asked me.",
+      "translation": "'هل تسمرين؟' سألتني ماتيلدا."
+    },
+    {
+      "id": 166,
+      "text": "George said, 'She is asking if you go brown in the sun.'",
+      "translation": "قال جورج: 'إنها تسأل إذا كنت تسمرين في الشمس.'"
+    },
+    {
+      "id": 167,
+      "text": "'No, I go freckled.'",
+      "translation": "'لا، تظهر عندي النمش.'"
+    },
+    {
+      "id": 168,
+      "text": "'I got sister-in-law go freckles.'",
+      "translation": "'لدي أخت زوجي يظهر عندها النمش.'"
+    },
+    {
+      "id": 169,
+      "text": "She never spoke another word to Skinny nor to me, and we never saw her again.",
+      "translation": "لم تتحدث بكلمة أخرى إلى سكيني ولا إليّ، ولم نرها مرة أخرى."
+    },
+    {
+      "id": 170,
+      "text": "Some months later, I said to Skinny, 'I'm fed up with being a camp-follower.'",
+      "translation": "بعد بضعة أشهر، قلت لسكيني: 'لقد سئمت من كوني تابعة للمعسكر.'"
+    },
+    {
+      "id": 171,
+      "text": "He was not surprised that I was leaving his unit, but he hated my way of expressing it.",
+      "translation": "لم يكن مندهشاً أنني أترك وحدته، لكنه كره طريقتي في التعبير عن ذلك."
+    },
+    {
+      "id": 172,
+      "text": "He gave me a Presbyterian look.",
+      "translation": "أعطاني نظرة بريسبتيرية."
+    },
+    {
+      "id": 173,
+      "text": "'Don't talk like that. Are you going back to England or staying?'",
+      "translation": "'لا تتحدثي هكذا. هل ستعودين إلى إنجلترا أم ستبقين؟'"
+    },
+    {
+      "id": 174,
+      "text": "'Staying, for a while.'",
+      "translation": "'سأبقى، لبعض الوقت.'"
+    },
+    {
+      "id": 175,
+      "text": "'Well, don't wander too far off.'",
+      "translation": "'حسناً، لا تتجولي بعيداً جداً.'"
+    },
+    {
+      "id": 176,
+      "text": "I was able to live on the fee I got for writing a gossip column in a local weekly, which wasn't my idea of writing about life, of course.",
+      "translation": "كنت قادرة على العيش على الأجر الذي حصلت عليه من كتابة عمود للنميمة في صحيفة أسبوعية محلية، والذي لم يكن فكرتي عن الكتابة عن الحياة، بالطبع."
+    },
+    {
+      "id": 177,
+      "text": "I made friends, more than I could cope with, after I left Skinny's exclusive little band of archaeologists.",
+      "translation": "كوّنت صداقات، أكثر مما يمكنني التعامل معه، بعد أن تركت فرقة سكيني الصغيرة الحصرية من علماء الآثار."
+    },
+    {
+      "id": 178,
+      "text": "I had the attractions of being newly out from England and of wanting to see life.",
+      "translation": "كانت لدي جاذبية كوني جديدة قادمة من إنجلترا وأريد رؤية الحياة."
+    },
+    {
+      "id": 179,
+      "text": "Of the countless young men and go-ahead families who purred me along the Rhodesian roads, hundred after hundred miles, I only kept up with one family when I returned to my native land.",
+      "translation": "من بين عدد لا يحصى من الشباب والعائلات الطموحة الذين دللوني على طول طرق روديسيا، مئات بعد مئات الأميال، لم أبق على تواصل إلا مع عائلة واحدة عندما عدت إلى وطني."
+    },
+    {
+      "id": 180,
+      "text": "I think that was because they were the most representative, they stood for all the rest: people in those parts are very typical of each other, as one group of standing stones in that wilderness is like the next.",
+      "translation": "أعتقد أن ذلك كان لأنهم كانوا الأكثر تمثيلاً، لقد مثلوا جميع الباقين: الناس في تلك المناطق متشابهون جداً مع بعضهم البعض، كما أن مجموعة من الحجارة القائمة في تلك البرية تشبه المجموعة التالية."
+    },
+    {
+      "id": 181,
+      "text": "I met George once more in a hotel in Bulawayo.",
+      "translation": "قابلت جورج مرة أخرى في فندق في بولاوايو."
+    },
+    {
+      "id": 182,
+      "text": "We drank highballs and spoke of war.",
+      "translation": "شربنا مشروبات كحولية وتحدثنا عن الحرب."
+    },
+    {
+      "id": 183,
+      "text": "Skinny's party were just then deciding whether to remain in the country or return home.",
+      "translation": "كان فريق سكيني في ذلك الوقت يقرر ما إذا كان سيبقى في البلاد أم يعود إلى الوطن."
+    },
+    {
+      "id": 184,
+      "text": "They had reached an exciting part of their research, and whenever I got a chance to visit Zimbabwe he would take me for a moonlight walk in the ruined temple and try to make me see phantom Phoenicians flitting ahead of us, or along the walls.",
+      "translation": "كانوا قد وصلوا إلى جزء مثير من أبحاثهم، وكلما سنحت لي فرصة لزيارة زيمبابوي كان يأخذني في نزهة على ضوء القمر في المعبد المدمر ويحاول أن يجعلني أرى الفينيقيين الشبحيين يرفرفون أمامنا، أو على طول الجدران."
+    },
+    {
+      "id": 185,
+      "text": "I had half a mind to marry Skinny; perhaps, I thought when his studies were finished.",
+      "translation": "كنت أميل إلى الزواج من سكيني؛ ربما، فكرت عندما تنتهي دراسته."
+    },
+    {
+      "id": 186,
+      "text": "The impending war was in our bones: so I remarked to George as we sat drinking highballs on the hotel stoep in the hard bright sunny July winter of that year.",
+      "translation": "كانت الحرب الوشيكة في عظامنا: لذلك لاحظت لجورج بينما كنا نجلس نشرب مشروبات كحولية في شرفة الفندق في شتاء يوليو المشمس الساطع القاسي من ذلك العام."
+    },
+    {
+      "id": 187,
+      "text": "George was inquisitive about my relations with Skinny.",
+      "translation": "كان جورج فضولياً بشأن علاقاتي مع سكيني."
+    },
+    {
+      "id": 188,
+      "text": "He tried to pump me for about half an hour and when at last I said, 'You are becoming aggressive, George,' he stopped.",
+      "translation": "حاول استنطاقي لمدة نصف ساعة تقريباً، وعندما قلت أخيراً: 'أنت تصبح عدوانياً يا جورج،' توقف."
+    },
+    {
+      "id": 189,
+      "text": "He became quite pathetic.",
+      "translation": "أصبح مثيراً للشفقة تماماً."
+    },
+    {
+      "id": 190,
+      "text": "He said, 'War or no war I'm clearing out of this.'",
+      "translation": "قال: 'سواء كانت هناك حرب أم لا، سأخرج من هذا المكان.'"
+    },
+    {
+      "id": 191,
+      "text": "'It's the heat does it,' I said.",
+      "translation": "'إنها الحرارة تفعل ذلك،' قلت."
+    },
+    {
+      "id": 192,
+      "text": "'I'm clearing out in any case. I've lost a fortune in tobacco.",
+      "translation": "'سأخرج على أي حال. لقد خسرت ثروة في التبغ."
+    },
+    {
+      "id": 193,
+      "text": "My uncle is making a fuss.",
+      "translation": "عمي يثير ضجة."
+    },
+    {
+      "id": 194,
+      "text": "It's the other bloody planters; once you get the wrong side of them you're finished in this wide land.'",
+      "translation": "إنهم المزارعون اللعنات الآخرون؛ بمجرد أن تقع في الجانب الخطأ منهم تكون قد انتهيت في هذه الأرض الواسعة.'"
+    },
+    {
+      "id": 195,
+      "text": "'What about Matilda?' I asked.",
+      "translation": "'ماذا عن ماتيلدا؟' سألت."
+    },
+    {
+      "id": 196,
+      "text": "He said, 'She'll be all right. She's got hundreds of relatives.'",
+      "translation": "قال: 'ستكون بخير. لديها مئات الأقارب.'"
+    },
+    {
+      "id": 197,
+      "text": "I had already heard about the baby girl.",
+      "translation": "كنت قد سمعت بالفعل عن الطفلة."
+    },
+    {
+      "id": 198,
+      "text": "Coal black, by repute, with George's features.",
+      "translation": "سوداء كالفحم، حسب ما قيل، بملامح جورج."
+    },
+    {
+      "id": 199,
+      "text": "And another on the way, they said.",
+      "translation": "وآخر في الطريق، كما قالوا."
+    },
+    {
+      "id": 200,
+      "text": "'What about the child?'",
+      "translation": "'ماذا عن الطفل؟'"
+    },
+    {
+      "id": 201,
+      "text": "He didn't say anything to that.",
+      "translation": "لم يقل أي شيء عن ذلك."
+    },
+    {
+      "id": 202,
+      "text": "He ordered more highballs and when they arrived he swizzled his for a long time with a stick.",
+      "translation": "طلب المزيد من المشروبات الكحولية، وعندما وصلت، حرك مشروبه لفترة طويلة بعصا."
+    },
+    {
+      "id": 203,
+      "text": "'Why didn't you ask me to your twenty-first?' he said then.",
+      "translation": "'لماذا لم تدعوني إلى حفلة عيد ميلادك الحادي والعشرين؟' قال حينها."
+    },
+    {
+      "id": 204,
+      "text": "'I didn't have anything special, no party, George. We had a quiet drink among ourselves, George, just Skinny and the old professors and two of the wives and me, George.'",
+      "translation": "'لم يكن لدي أي شيء مميز، لا حفلة يا جورج. شربنا مشروباً هادئاً بيننا، يا جورج، فقط سكيني والأساتذة القدامى وزوجتان وأنا، يا جورج.'"
+    },
+    {
+      "id": 205,
+      "text": "'You didn't ask me to your twenty-first,' he said. 'Kathleen writes to me regularly.'",
+      "translation": "'لم تدعني إلى حفلة عيد ميلادك الحادي والعشرين،' قال. 'كاثلين تكتب إليّ بانتظام.'"
+    },
+    {
+      "id": 206,
+      "text": "This wasn't true.",
+      "translation": "لم يكن هذا صحيحاً."
+    },
+    {
+      "id": 207,
+      "text": "Kathleen sent me letters fairly often in which she said, 'Don't tell George I wrote to you as he will be expecting word from me and I can't be bothered actually.'",
+      "translation": "كانت كاثلين ترسل لي رسائل كثيراً ما تقول فيها: 'لا تخبري جورج أنني كتبت إليك لأنه سيتوقع كلمة مني ولا يمكنني أن أزعج نفسي فعلاً.'"
+    },
+    {
+      "id": 208,
+      "text": "'But you,' said George, 'don't seem to have any sense of old friendships, you and Skinny.'",
+      "translation": "'لكنكما،' قال جورج، 'لا يبدو أن لديكما أي إحساس بالصداقات القديمة، أنت وسكيني.'"
+    },
+    {
+      "id": 209,
+      "text": "'Oh, George!' I said.",
+      "translation": "'أوه، جورج!' قلت."
+    },
+    {
+      "id": 210,
+      "text": "'Remember the times we had,' George said. 'We used to have times.' His large brown eyes began to water.",
+      "translation": "'تذكر الأوقات التي قضيناها،' قال جورج. 'كنا نقضي أوقاتاً.' بدأت عيناه البنيتان الكبيرتان تدمعان."
+    },
+    {
+      "id": 211,
+      "text": "'I'll have to be getting along,' I said.",
+      "translation": "'يجب أن أذهب،' قلت."
+    },
+    {
+      "id": 212,
+      "text": "'Please don't go. Don't leave me just yet. I've something to tell you.'",
+      "translation": "'أرجوك لا تذهبي. لا تتركيني الآن. لدي شيء لأخبرك به.'"
+    },
+    {
+      "id": 213,
+      "text": "'Something nice?' I laid on an eager smile.",
+      "translation": "'شيء لطيف؟' ارتديت ابتسامة متلهفة."
+    },
+    {
+      "id": 214,
+      "text": "All responses to George had to be overdone.",
+      "translation": "كان يجب المبالغة في كل الردود على جورج."
+    },
+    {
+      "id": 215,
+      "text": "'You don't know how lucky you are,' George said.",
+      "translation": "'أنت لا تعرفين كم أنت محظوظة،' قال جورج."
+    },
+    {
+      "id": 216,
+      "text": "'How?' I said.",
+      "translation": "'كيف؟' قلت."
+    },
+    {
+      "id": 217,
+      "text": "Sometimes I got tired of being called lucky by everybody.",
+      "translation": "أحياناً أتعب من أن يناديني الجميع بالمحظوظة."
+    },
+    {
+      "id": 218,
+      "text": "There were times when, privately practicing my writings about life, I knew the bitter side of my fortune.",
+      "translation": "كانت هناك أوقات، عندما كنت أتدرب بشكل خاص على كتاباتي عن الحياة، عرفت الجانب المر من حظي."
+    },
+    {
+      "id": 219,
+      "text": "When I failed again and again to reproduce life in some satisfactory and perfect form, I was the more imprisoned, for all my carefree living, within my craving for this satisfaction.",
+      "translation": "عندما فشلت مراراً وتكراراً في إعادة إنتاج الحياة في شكل مُرضٍ ومثالي، كنت أكثر سجناً، على الرغم من حياتي الخالية من الهموم، داخل تلهفي لتحقيق هذا الرضا."
+    },
+    {
+      "id": 220,
+      "text": "Sometimes, in my impotence and need I secreted a venom which infected all my life for days on end and which spurted out indiscriminately on Skinny or on anyone who crossed my path.",
+      "translation": "أحياناً، في عجزي وحاجتي، كنت أفرز سموماً أصابت حياتي كلها لأيام متتالية وتناثرت بلا تمييز على سكيني أو على أي شخص يعترض طريقي."
+    },
+    {
+      "id": 221,
+      "text": "'You aren't bound by anyone,' George said. 'You come and go as you please.",
+      "translation": "'أنت غير مرتبطة بأحد،' قال جورج. 'تأتين وتذهبين كما يحلو لك."
+    },
+    {
+      "id": 222,
+      "text": "Something always turns up for you.",
+      "translation": "شيء ما يظهر دائماً لك."
+    },
+    {
+      "id": 223,
+      "text": "You're free, and you don't know your luck.'",
+      "translation": "أنت حرة، ولا تعرفين حظك.'"
+    },
+    {
+      "id": 224,
+      "text": "'You're a damn sight more free than I am,' I said sharply. 'You've got your rich uncle.'",
+      "translation": "'أنت أكثر حرية مني بكثير،' قلت بحدة. 'لديك عمك الغني.'"
+    },
+    {
+      "id": 225,
+      "text": "'He's losing interest in me,' George said. 'He's had enough.'",
+      "translation": "'إنه يفقد اهتمامه بي،' قال جورج. 'لقد اكتفى.'"
+    },
+    {
+      "id": 226,
+      "text": "'Oh well, you're young yet. What was it you wanted to tell me?'",
+      "translation": "'حسناً، أنت صغير السن بعد. ما الذي أردت إخباري به؟'"
+    },
+    {
+      "id": 227,
+      "text": "'A secret,' George said. 'Remember we used to have those secrets.'",
+      "translation": "'سر،' قال جورج. 'تذكري أننا اعتدنا أن تكون لدينا تلك الأسرار.'"
+    },
+    {
+      "id": 228,
+      "text": "'Oh, yes we did.'",
+      "translation": "'أوه، نعم فعلنا.'"
+    },
+    {
+      "id": 229,
+      "text": "'Did you ever tell any of mine?'",
+      "translation": "'هل أخبرتِ أحداً بأي من أسراري؟'"
+    },
+    {
+      "id": 230,
+      "text": "'Oh no, George.' In reality, I couldn't remember any particular secret out of the dozens we must have exchanged from our schooldays onwards.",
+      "translation": "'أوه لا يا جورج.' في الواقع، لم أستطع تذكر أي سر معين من بين العشرات التي لا بد أننا تبادلناها منذ أيام المدرسة."
+    },
+    {
+      "id": 231,
+      "text": "'Well, this is a secret, mind. Promise not to tell.'",
+      "translation": "'حسناً، هذا سر، انتبهي. عدي ألا تخبري.'"
+    },
+    {
+      "id": 232,
+      "text": "'Promise.'",
+      "translation": "'أعدك.'"
+    },
+    {
+      "id": 233,
+      "text": "'I'm married.'",
+      "translation": "'أنا متزوج.'"
+    },
+    {
+      "id": 234,
+      "text": "'Married, George! Oh, who to?'",
+      "translation": "'متزوج يا جورج! أوه، من؟'"
+    },
+    {
+      "id": 235,
+      "text": "'Matilda.'",
+      "translation": "'ماتيلدا.'"
+    },
+    {
+      "id": 236,
+      "text": "'How dreadful!' I spoke before I could think, but he agreed with me.",
+      "translation": "'كم هذا مروع!' تحدثت قبل أن أفكر، لكنه وافقني الرأي."
+    },
+    {
+      "id": 237,
+      "text": "'Yes, it's awful, but what could I do?'",
+      "translation": "'نعم، إنه مروع، لكن ماذا كان بإمكاني أن أفعل؟'"
+    },
+    {
+      "id": 238,
+      "text": "'You might have asked my advice,' I said pompously.",
+      "translation": "'كان يمكنك أن تطلب نصيحتي،' قلت بتعالٍ."
+    },
+    {
+      "id": 239,
+      "text": "'I'm two years older than you are. I don't ask advice from you, Needle, little beast.'",
+      "translation": "'أنا أكبر منك بسنتين. لا أطلب النصيحة منك يا نيدل، أيتها الوحش الصغير.'"
+    },
+    {
+      "id": 240,
+      "text": "'Don't ask for sympathy then.'",
+      "translation": "'لا تطلب التعاطف إذن.'"
+    },
+    {
+      "id": 241,
+      "text": "'A nice friend you are,' he said, 'I must say after all these years.'",
+      "translation": "'يا لها من صديقة رائعة،' قال، 'يجب أن أقول بعد كل هذه السنوات.'"
+    },
+    {
+      "id": 242,
+      "text": "'Poor George!' I said.",
+      "translation": "'جورج المسكين!' قلت."
+    },
+    {
+      "id": 243,
+      "text": "'There are three white men to one white woman in this country,' said George. 'An isolated planter doesn't see a white woman and if he sees one she doesn't see him.",
+      "translation": "'هناك ثلاثة رجال بيض مقابل امرأة بيضاء واحدة في هذا البلد،' قال جورج. 'المزارع المعزول لا يرى امرأة بيضاء وإذا رأى واحدة فهي لا تراه."
+    },
+    {
+      "id": 244,
+      "text": "What could I do? I needed the woman.'",
+      "translation": "ماذا كان بإمكاني أن أفعل؟ كنت بحاجة إلى المرأة.'"
+    },
+    {
+      "id": 245,
+      "text": "I was nearly sick.",
+      "translation": "كدت أمرض."
+    },
+    {
+      "id": 246,
+      "text": "One, because of my Scottish upbringing.",
+      "translation": "أولاً، بسبب نشأتي الاسكتلندية."
+    },
+    {
+      "id": 247,
+      "text": "Two, because of my horror of corny phrases like 'I needed the woman', which George repeated twice again.",
+      "translation": "ثانياً، بسبب رعبي من العبارات المبتذلة مثل 'كنت بحاجة إلى المرأة'، التي كررها جورج مرتين أخريين."
+    },
+    {
+      "id": 248,
+      "text": "'And Matilda got tough' said George, 'after you and Skinny came to visit us.",
+      "translation": "'وقد أصبحت ماتيلدا صعبة،' قال جورج، 'بعد أن زرتنا أنت وسكيني."
+    },
+    {
+      "id": 249,
+      "text": "She had some friends at the Mission, and she packed up and went to them.'",
+      "translation": "كان لديها بعض الأصدقاء في البعثة، فحزمت أمتعتها وذهبت إليهم.'"
+    },
+    {
+      "id": 250,
+      "text": "'You should have let her go,' I said.",
+      "translation": "'كان يجب أن تدعها تذهب،' قلت."
+    },
+    {
+      "id": 251,
+      "text": "'I went after her,' George said. 'She insisted on being married, so I married her.'",
+      "translation": "'ذهبت وراءها،' قال جورج. 'أصرت على الزواج، فتزوجتها.'"
+    },
+    {
+      "id": 252,
+      "text": "'That's not a proper secret, then,' I said. 'The news of a mixed marriage soon gets about.'",
+      "translation": "'إذن هذا ليس سراً حقيقياً،' قلت. 'خبر زواج مختلط ينتشر بسرعة.'"
+    },
+    {
+      "id": 253,
+      "text": "'I took care of that,' George said. 'Crazy as I was, I took her to the Congo and married her there.",
+      "translation": "'اعتنيت بذلك،' قال جورج. 'مجنوناً كما كنت، أخذتها إلى الكونغو وتزوجتها هناك."
+    },
+    {
+      "id": 254,
+      "text": "She promised to keep quiet about it.'",
+      "translation": "وعدت بالبقاء صامتة بشأن ذلك.'"
+    },
+    {
+      "id": 255,
+      "text": "'Well, you can't clear off and leave her now, surely,' I said.",
+      "translation": "'حسناً، لا يمكنك أن تهرب وتتركها الآن، بالتأكيد،' قلت."
+    },
+    {
+      "id": 256,
+      "text": "'I'm going to get out of this place. I can't stand the woman and I can't stand the country.",
+      "translation": "'سأخرج من هذا المكان. لا أستطيع تحمل المرأة ولا أستطيع تحمل البلد."
+    },
+    {
+      "id": 257,
+      "text": "I didn't realise what it would be like.",
+      "translation": "لم أدرك كيف سيكون الأمر."
+    },
+    {
+      "id": 258,
+      "text": "Two years of the country and three months of my wife has been enough.'",
+      "translation": "سنتان في البلد وثلاثة أشهر من زواجي كافية.'"
+    },
+    {
+      "id": 259,
+      "text": "'Will you get a divorce?'",
+      "translation": "'هل ستطلق؟'"
+    },
+    {
+      "id": 260,
+      "text": "'No, Matilda's Catholic. She won't divorce.'",
+      "translation": "'لا، ماتيلدا كاثوليكية. لن تطلق.'"
+    },
+    {
+      "id": 261,
+      "text": "George was fairly getting through the highballs, and I wasn't far behind him.",
+      "translation": "كان جورج يشرب المشروبات الكحولية بسرعة، ولم أكن بعيدة عنه كثيراً."
+    },
+    {
+      "id": 262,
+      "text": "His brown eyes floated shiny and liquid as he told me how he had written to tell his uncle of his plight, 'Except, of course, I didn't say we were married, that would have been too much for him.",
+      "translation": "عيناها البنيتان تطفوان لامعتين وسائلتين وهو يخبرني كيف كتب ليخبر عمه عن محنته، 'باستثناء، بالطبع، لم أقل إننا متزوجان، كان ذلك سيكون أكثر مما يستطيع تحمله."
+    },
+    {
+      "id": 263,
+      "text": "He's a prejudiced hardened old colonial.",
+      "translation": "إنه مستعمر عجوز متحجر متعصب."
+    },
+    {
+      "id": 264,
+      "text": "I only said I'd had a child by a coloured woman and was expecting another, and he perfectly understood.",
+      "translation": "قلت فقط إن لدي طفلاً من امرأة ملونة وأنتظر آخر، وقد فهم تماماً."
+    },
+    {
+      "id": 265,
+      "text": "He came at once by plane a few weeks ago.",
+      "translation": "جاء فوراً بالطائرة قبل بضعة أسابيع."
+    },
+    {
+      "id": 266,
+      "text": "He's made a settlement on her, providing she keeps her mouth shut about her association with me.",
+      "translation": "لقد أجرى تسوية لها، بشرط أن تبقي فمها مغلقاً بشأن ارتباطها بي."
+    },
+    {
+      "id": 267,
+      "text": "'Will she do that?'",
+      "translation": "'هل ستفعل ذلك؟'"
+    },
+    {
+      "id": 268,
+      "text": "'Oh, yes, or she won't get the money.'",
+      "translation": "'أوه، نعم، أو أنها لن تحصل على المال.'"
+    },
+    {
+      "id": 269,
+      "text": "'But as your wife she has a claim on you, in any case.'",
+      "translation": "'لكن بصفتها زوجتك لديها حق عليك، على أي حال.'"
+    },
+    {
+      "id": 270,
+      "text": "'If she claimed as my wife she'd get far less. Matilda knows what she's doing, greedy bitch she is. She'll keep her mouth shut.'",
+      "translation": "'إذا ادعت أنها زوجتي فستحصل على أقل بكثير. ماتيلدا تعرف ما تفعله، إنها عاهرة جشعة. ستبقي فمها مغلقاً.'"
+    },
+    {
+      "id": 271,
+      "text": "'Only, you won't be able to marry again, will you, George?'",
+      "translation": "'فقط، لن تتمكن من الزواج مرة أخرى، أليس كذلك يا جورج؟'"
+    },
+    {
+      "id": 272,
+      "text": "'Not unless she dies,' he said. 'And she's as strong as a trek ox.'",
+      "translation": "'ليس إلا إذا ماتت،' قال. 'وهي قوية مثل ثور الرحلة.'"
+    },
+    {
+      "id": 273,
+      "text": "'Well, I'm sorry, George,' I said.",
+      "translation": "'حسناً، أنا آسفة يا جورج،' قلت."
+    },
+    {
+      "id": 274,
+      "text": "'Good of you to say so,' he said. 'But I can see by your chin that you disapprove of me. Even my old uncle understood.'",
+      "translation": "'من اللطف منك أن تقولي ذلك،' قال. 'لكنني أستطيع أن أرى من ذقنك أنك لا توافقين عليّ. حتى عمي العجوز فهم.'"
+    },
+    {
+      "id": 275,
+      "text": "'Oh, George, I quite understand. You were lonely, I suppose.'",
+      "translation": "'أوه، جورج، أنا أتفهم تماماً. كنت وحيداً، كما أفترض.'"
+    },
+    {
+      "id": 276,
+      "text": "'You didn't even ask me to your twenty-first. If you and Skinny had been nicer to me, I would never have lost my head and married the woman, never.'",
+      "translation": "'لم تدعوني حتى إلى حفلة عيد ميلادك الحادي والعشرين. لو كنت أنت وسكيني ألطف معي، لما فقدت صوابي وتزوجت المرأة أبداً.'"
+    },
+    {
+      "id": 277,
+      "text": "'You didn't ask me to your wedding,' I said.",
+      "translation": "'أنت لم تدعني إلى زفافك،' قلت."
+    },
+    {
+      "id": 278,
+      "text": "'You're a catty bissom, Needle, not like what you were in the old times when you used to tell us your wee stories.'",
+      "translation": "'أنتِ امرأة ماكرة يا نيدل، لست مثل ما كنت عليه في الأيام الخوالي عندما كنت تخبريننا بقصصك الصغيرة.'"
+    },
+    {
+      "id": 279,
+      "text": "'I'll have to be getting along,' I said.",
+      "translation": "'يجب أن أذهب،' قلت."
+    },
+    {
+      "id": 280,
+      "text": "'Mind you keep the secret,' George said.",
+      "translation": "'احترسي أن تحافظي على السر،' قال جورج."
+    },
+    {
+      "id": 281,
+      "text": "'Can't I tell Skinny? He would be very sorry for you, George.'",
+      "translation": "'ألا يمكنني إخبار سكيني؟ سيكون آسفاً جداً عليك يا جورج.'"
+    },
+    {
+      "id": 282,
+      "text": "'You mustn't tell anyone. Keep it a secret. Promise.'",
+      "translation": "'يجب ألا تخبري أحداً. احفظيه سراً. عدي.'"
+    },
+    {
+      "id": 283,
+      "text": "'Promise,' I said.",
+      "translation": "'أعدك،' قلت."
+    },
+    {
+      "id": 284,
+      "text": "I understood that he wished to enforce some sort of bond between us with this secret, and I thought, 'Oh well, I suppose he's lonely. Keeping his secret won't do any harm.'",
+      "translation": "فهمت أنه يرغب في فرض نوع من الرابطة بيننا بهذا السر، وفكرت: 'أوه حسناً، أفترض أنه وحيد. الحفاظ على سره لن يضر.'"
+    },
+    {
+      "id": 285,
+      "text": "I returned to England with Skinny's party just before the war.",
+      "translation": "عدت إلى إنجلترا مع فريق سكيني قبل الحرب مباشرة."
+    },
+    {
+      "id": 286,
+      "text": "I did not see George again until just before my death, five years ago.",
+      "translation": "لم أر جورج مرة أخرى حتى قبيل موتي، منذ خمس سنوات."
+    },
+    {
+      "id": 287,
+      "text": "After the war, Skinny returned to his studies.",
+      "translation": "بعد الحرب، عاد سكيني إلى دراسته."
+    },
+    {
+      "id": 288,
+      "text": "He had two more exams, over a period of eighteen months, and I thought I might marry him when the exams were over.",
+      "translation": "كان لديه امتحانان آخران، على مدى ثمانية عشر شهراً، وفكرت أنني قد أتزوجه عندما تنتهي الامتحانات."
+    },
+    {
+      "id": 289,
+      "text": "'You might do worse than Skinny,' Kathleen used to say to me on our Saturday morning excursions to the antique shops and the junk stalls.",
+      "translation": "'قد تفعلين أسوأ من سكيني،' كانت كاثلين تقول لي في رحلاتنا الصباحية يوم السبت إلى متاجر التحف وأكشاك الخردة."
+    },
+    {
+      "id": 290,
+      "text": "She too was getting on in years.",
+      "translation": "كانت هي أيضاً تتقدم في السن."
+    },
+    {
+      "id": 291,
+      "text": "The remainder of our families in Scotland were hinting that it was time we settled down with husbands.",
+      "translation": "كان باقي عائلاتنا في اسكتلندا يلمحون إلى أن الوقت قد حان لنستقر مع أزواج."
+    },
+    {
+      "id": 292,
+      "text": "Kathleen was a little younger than me, but looked much older.",
+      "translation": "كانت كاثلين أصغر مني قليلاً، لكنها بدت أكبر بكثير."
+    },
+    {
+      "id": 293,
+      "text": "She knew her chances were diminishing but at that time, I did not think she cared very much.",
+      "translation": "كانت تعلم أن فرصها تتضاءل، لكن في ذلك الوقت، لم أعتقد أنها كانت تهتم كثيراً."
+    },
+    {
+      "id": 294,
+      "text": "As for myself, the main attraction of marrying Skinny was his prospective expeditions to Mesopotamia.",
+      "translation": "أما بالنسبة لي، فإن الجاذبية الرئيسية للزواج من سكيني كانت بعثاته المستقبلية إلى بلاد ما بين النهرين."
+    },
+    {
+      "id": 295,
+      "text": "My desire to marry him had to be stimulated by the continual reading of books about Babylon and Assyria; perhaps Skinny felt this, because he supplied the books and even started instructing me in the art of deciphering cuneiform tablets.",
+      "translation": "كان لا بد من تحفيز رغبتي في الزواج منه من خلال القراءة المستمرة للكتب عن بابل وآشور؛ ربما شعر سكيني بهذا، لأنه وفر الكتب بل وبدأ في تعليمي فن فك رموز الألواح المسمارية."
+    },
+    {
+      "id": 296,
+      "text": "Kathleen was more interested in marriage than I thought.",
+      "translation": "كانت كاثلين مهتمة بالزواج أكثر مما اعتقدت."
+    },
+    {
+      "id": 297,
+      "text": "Like me, she had racketed around a good deal during the war; she had actually been engaged to an officer in the U.S. navy, who was killed.",
+      "translation": "مثلي، كانت قد عاشت حياة صاخبة كثيراً خلال الحرب؛ كانت في الواقع مخطوبة لضابط في البحرية الأمريكية، قُتل."
+    },
+    {
+      "id": 298,
+      "text": "Now she kept an antique shop near Lambeth, was doing very nicely, lived in a Chelsea square, but for all that, she must have wanted to be married and have children.",
+      "translation": "الآن كانت تدير متجراً للتحف بالقرب من لامبيث، وكانت حالتها جيدة جداً، وتعيش في ساحة تشيلسي، لكن مع كل ذلك، لا بد أنها أرادت الزواج وإنجاب الأطفال."
+    },
+    {
+      "id": 299,
+      "text": "She would stop and look into all the prams, which the mothers had left outside shops or area gates.",
+      "translation": "كانت تتوقف وتنظر في كل عربات الأطفال، التي تركتها الأمهات خارج المتاجر أو بوابات المناطق."
+    },
+    {
+      "id": 300,
+      "text": "'The poet Swinburne used to do that,' I told her once.",
+      "translation": "'الشاعر سوينبرن كان يفعل ذلك،' أخبرتها ذات مرة."
+    },
+    {
+      "id": 301,
+      "text": "'Really? Did he want children of his own?'",
+      "translation": "'حقاً؟ هل أراد أطفالاً من صلبه؟'"
+    },
+    {
+      "id": 302,
+      "text": "'I shouldn't think so. He simply liked babies.'",
+      "translation": "'لا أعتقد ذلك. لقد أحب الأطفال ببساطة.'"
+    },
+    {
+      "id": 303,
+      "text": "Before Skinny's final exam, he fell ill and was sent to a sanatorium in Switzerland.",
+      "translation": "قبل امتحان سكيني النهائي، مرض وأُرسل إلى مصح في سويسرا."
+    },
+    {
+      "id": 304,
+      "text": "'You're fortunate after all not to be married to him,' Kathleen said. 'You might have caught T.B.'",
+      "translation": "'أنت محظوظة بعد كل شيء ألا تكوني متزوجة منه،' قالت كاثلين. 'كان يمكن أن تصابي بالسل.'"
+    },
+    {
+      "id": 305,
+      "text": "I was fortunate, I was lucky... so everyone kept telling me on different occasions.",
+      "translation": "كنت محظوظة، كنت محظوظة... هكذا ظل الجميع يخبرونني في مناسبات مختلفة."
+    },
+    {
+      "id": 306,
+      "text": "Although it annoyed me to hear, I knew they were right, but in a way that was different from what they meant.",
+      "translation": "على الرغم من أنه أزعجني سماع ذلك، كنت أعلم أنهم كانوا على حق، ولكن بطريقة مختلفة عما قصدوه."
+    },
+    {
+      "id": 307,
+      "text": "It took me very small effort to make a living; book reviews, odd jobs for Kathleen, a few months with the publicity man again, still getting up speeches about literature, art and life for industrial tycoons.",
+      "translation": "استغرق الأمر مجهوداً ضئيلاً جداً لكسب العيش؛ مراجعات كتب، أعمال متفرقة لكاثلين، بضعة أشهر مع رجل الدعاية مرة أخرى، لا يزال يكتب خطابات عن الأدب والفن والحياة لأقطاب الصناعة."
+    },
+    {
+      "id": 308,
+      "text": "I was waiting to write about life and it seemed to me that the good fortune lay in this, whenever it should be.",
+      "translation": "كنت أنتظر لأكتب عن الحياة وبدا لي أن حسن الحظ يكمن في هذا، متى كان ذلك."
+    },
+    {
+      "id": 309,
+      "text": "And until then I was assured of my charmed life, the necessities of existence always coming my way and I with far more leisure than anyone else.",
+      "translation": "وحتى ذلك الحين كنت مطمئنة على حياتي الساحرة، حيث تأتي ضروريات الوجود دائماً في طريقي ولدي وقت فراغ أكثر بكثير من أي شخص آخر."
+    },
+    {
+      "id": 310,
+      "text": "I thought of my type of luck after I became a Catholic and was being confirmed.",
+      "translation": "فكرت في نوع حظي بعد أن أصبحت كاثوليكية وتم تأكيدي."
+    },
+    {
+      "id": 311,
+      "text": "The Bishop touches the candidate on the cheek, a symbolic reminder of the sufferings a Christian is supposed to undertake.",
+      "translation": "يلمس الأسقف المرشح على خده، تذكيراً رمزياً بالمعاناة التي يُفترض أن يتحملها المسيحي."
+    },
+    {
+      "id": 312,
+      "text": "I thought, how lucky, what a feathery symbol to stand for the hellish violence of its true meaning.",
+      "translation": "فكرت، يا لحسن الحظ، يا له من رمز ريشي ليمثل العنف الجهنمي لمعناه الحقيقي."
+    },
+    {
+      "id": 313,
+      "text": "I visited Skinny twice in the two years that he was in the sanatorium.",
+      "translation": "زرت سكيني مرتين خلال العامين التي قضاها في المصح."
+    },
+    {
+      "id": 314,
+      "text": "He was almost cured, and expected to be home within a few months.",
+      "translation": "كان قد شُفي تقريباً، وكان من المتوقع أن يعود إلى المنزل في غضون بضعة أشهر."
+    },
+    {
+      "id": 315,
+      "text": "I told Kathleen after my last visit.",
+      "translation": "أخبرت كاثلين بعد زيارتي الأخيرة."
+    },
+    {
+      "id": 316,
+      "text": "'Maybe I'll marry Skinny when he's well again.'",
+      "translation": "'ربما سأتزوج سكيني عندما يتحسن مرة أخرى.'"
+    },
+    {
+      "id": 317,
+      "text": "'Make it definite, Needle, and not so much of the maybe. You don't know when you're well off,' she said.",
+      "translation": "'اجعليه مؤكداً يا نيدل، وليس الكثير من 'ربما'. لا تعرفين متى تكونين في حالة جيدة،' قالت."
+    },
+    {
+      "id": 318,
+      "text": "This was five years ago, in the last year of my life.",
+      "translation": "كان هذا منذ خمس سنوات، في السنة الأخيرة من حياتي."
+    },
+    {
+      "id": 319,
+      "text": "Kathleen and I had become very close friends.",
+      "translation": "أصبحت كاثلين وأنا صديقتين مقربتين جداً."
+    },
+    {
+      "id": 320,
+      "text": "We met several times each week, and after our Saturday morning excursions in the Portobello Road very often I would accompany Kathleen to her aunt's house in Kent for a long weekend.",
+      "translation": "كنا نلتقي عدة مرات كل أسبوع، وبعد رحلاتنا الصباحية يوم السبت في طريق بورتوبيلو، كثيراً ما كنت أرافق كاثلين إلى منزل عمتها في كينت لقضاء عطلة نهاية أسبوع طويلة."
+    },
+    {
+      "id": 321,
+      "text": "One day in the June of that year, I met Kathleen especially for lunch because she had phoned me to say she had news.",
+      "translation": "في أحد أيام يونيو من ذلك العام، قابلت كاثلين خصيصاً لتناول الغداء لأنها هاتفتني لتقول إن لديها أخباراً."
+    },
+    {
+      "id": 322,
+      "text": "'Guess who came into the shop this afternoon,' she said.",
+      "translation": "'خمني من جاء إلى المتجر بعد ظهر هذا اليوم،' قالت."
+    },
+    {
+      "id": 323,
+      "text": "'Who?'",
+      "translation": "'من؟'"
+    },
+    {
+      "id": 324,
+      "text": "'George.'",
+      "translation": "'جورج.'"
+    },
+    {
+      "id": 325,
+      "text": "We had half imagined George was dead.",
+      "translation": "كنا نصف متخيلين أن جورج قد مات."
+    },
+    {
+      "id": 326,
+      "text": "We had received no letters in the past ten years.",
+      "translation": "لم نتلق أي رسائل في السنوات العشر الماضية."
+    },
+    {
+      "id": 327,
+      "text": "Early in the war, we had heard rumours of his keeping a nightclub in Durban, but nothing after that.",
+      "translation": "في بداية الحرب، سمعنا شائعات عن امتلاكه ملهى ليلياً في ديربان، لكن لا شيء بعد ذلك."
+    },
+    {
+      "id": 328,
+      "text": "We could have made enquiries if we had felt moved to do so.",
+      "translation": "كان يمكننا الاستفسار لو شعرنا بالرغبة في ذلك."
+    },
+    {
+      "id": 329,
+      "text": "At one time, when we discussed him, Kathleen had said,",
+      "translation": "في وقت ما، عندما ناقشناه، قالت كاثلين،"
+    },
+    {
+      "id": 330,
+      "text": "'I ought to get in touch with poor George. But then I think he would write back. He would demand a regular correspondence again.'",
+      "translation": "'يجب أن أتواصل مع جورج المسكين. لكن بعد ذلك أعتقد أنه سيرد بالكتابة. سيطلب مراسلة منتظمة مرة أخرى.'"
+    },
+    {
+      "id": 331,
+      "text": "'We four must stick together,' I mimicked.",
+      "translation": "'يجب أن نبقى نحن الأربعة معاً،' قلدته."
+    },
+    {
+      "id": 332,
+      "text": "'I can visualize his reproachful limpid orbs,' Kathleen said.",
+      "translation": "'أستطيع أن أتخيل عينيه الصافيتين العاتبتين،' قالت كاثلين."
+    },
+    {
+      "id": 333,
+      "text": "Skinny said, 'He's probably gone native. With his coffee concubine and a dozen mahogany kids.'",
+      "translation": "قال سكيني: 'من المحتمل أنه أصبح متوحشاً. مع محظيته القهوية وعشرات الأطفال الماهوغونيين.'"
+    },
+    {
+      "id": 334,
+      "text": "'Perhaps he's dead,' Kathleen said.",
+      "translation": "'ربما مات،' قالت كاثلين."
+    },
+    {
+      "id": 335,
+      "text": "I did not speak of George's marriage, nor of any of his confidences in the hotel at Bulawayo.",
+      "translation": "لم أتحدث عن زواج جورج، ولا عن أي من أسراره في فندق بولاوايو."
+    },
+    {
+      "id": 336,
+      "text": "As the years passed, we ceased to mention him except in passing, as someone more or less dead so far as we were concerned.",
+      "translation": "مع مرور السنين، توقفنا عن ذكره إلا عابراً، كشخص ميت تقريباً بقدر ما يهمنا الأمر."
+    },
+    {
+      "id": 337,
+      "text": "Kathleen was excited about George's turning up.",
+      "translation": "كانت كاثلين متحمسة لظهور جورج."
+    },
+    {
+      "id": 338,
+      "text": "She had forgotten her impatience with him in former days; she said,",
+      "translation": "كانت قد نسيت نفاد صبرها منه في الأيام السابقة؛ قالت،"
+    },
+    {
+      "id": 339,
+      "text": "'It was so wonderful to see old George. He seems to need a friend, feels neglected, out of touch with things.'",
+      "translation": "'كان من الرائع رؤية جورج القديم. يبدو أنه بحاجة إلى صديق، يشعر بالإهمال، منقطع عن الأشياء.'"
+    },
+    {
+      "id": 340,
+      "text": "'He needs mothering, I suppose.'",
+      "translation": "'يحتاج إلى رعاية أمومية، كما أفترض.'"
+    },
+    {
+      "id": 341,
+      "text": "Kathleen didn't notice the malice.",
+      "translation": "لم تلاحظ كاثلين الخبث."
+    },
+    {
+      "id": 342,
+      "text": "She declared, 'That's exactly the case with George. It always has been, I can see it now.'",
+      "translation": "أعلنت: 'هذا بالضبط ما يحدث مع جورج. لطالما كان كذلك، أستطيع رؤيته الآن.'"
+    },
+    {
+      "id": 343,
+      "text": "She seemed ready to come to any rapid new and happy conclusion about George.",
+      "translation": "بدت مستعدة للتوصل إلى أي استنتاج جديد وسعيد وسريع بشأن جورج."
+    },
+    {
+      "id": 344,
+      "text": "In the course of the afternoon, he had told her of his wartime nightclub in Durban, his game-shooting expeditions since.",
+      "translation": "خلال فترة ما بعد الظهر، أخبرها عن ملهىه الليلي في زمن الحرب في ديربان، ورحلات صيد الطرائد منذ ذلك الحين."
+    },
+    {
+      "id": 345,
+      "text": "It was clear he had not mentioned Matilda.",
+      "translation": "كان واضحاً أنه لم يذكر ماتيلدا."
+    },
+    {
+      "id": 346,
+      "text": "He had put on weight, Kathleen told me, but he could carry it.",
+      "translation": "أخبرتني كاثلين أنه زاد وزنه، لكنه يستطيع تحمله."
+    },
+    {
+      "id": 347,
+      "text": "I was curious to see this version of George, but I was leaving for Scotland next day and did not see him until September of that year, just before my death.",
+      "translation": "كنت فضولية لرؤية هذه النسخة من جورج، لكنني كنت سأغادر إلى اسكتلندا في اليوم التالي ولم أره حتى سبتمبر من ذلك العام، قبيل موتي مباشرة."
+    },
+    {
+      "id": 348,
+      "text": "While I was in Scotland, I gathered from Kathleen's letters that she was seeing George very frequently, finding enjoyable company in him, looking after him.",
+      "translation": "بينما كنت في اسكتلندا، استنتجت من رسائل كاثلين أنها كانت ترى جورج كثيراً جداً، وتجد فيه صحبة ممتعة، وتعتني به."
+    },
+    {
+      "id": 349,
+      "text": "'You'll be surprised to see how he has developed.'",
+      "translation": "'ستتفاجئين برؤية كيف تطور.'"
+    },
+    {
+      "id": 350,
+      "text": "Apparently he would hang round Kathleen in her shop most days, 'it makes him feel useful' as she maternally expressed it.",
+      "translation": "من الواضح أنه كان يتسكع حول كاثلين في متجرها معظم الأيام، 'هذا يجعله يشعر بأنه مفيد' كما عبرت بأمومة."
+    },
+    {
+      "id": 351,
+      "text": "He had an old relative in Kent whom he visited at weekends; this old lady lived a few miles from Kathleen's aunt, which made it easy for them to travel down together on Saturdays, and go for long country walks.",
+      "translation": "كان لديه قريب مسن في كينت يزوره في عطلات نهاية الأسبوع؛ كانت هذه السيدة العجوز تعيش على بعد بضعة أميال من عمة كاثلين، مما سهّل عليهما السفر معاً يوم السبت، والذهاب في نزهات طويلة في الريف."
+    },
+    {
+      "id": 352,
+      "text": "'You'll see such a difference in George,' Kathleen said on my return to London in September.",
+      "translation": "'ستلاحظين فرقاً كبيراً في جورج،' قالت كاثلين عند عودتي إلى لندن في سبتمبر."
+    },
+    {
+      "id": 353,
+      "text": "I was to meet him that night, a Saturday.",
+      "translation": "كنت سأقابله تلك الليلة، ليلة سبت."
+    },
+    {
+      "id": 354,
+      "text": "Kathleen's aunt was abroad, the maid on holiday, and I was to keep Kathleen company in the empty house.",
+      "translation": "كانت عمة كاثلين في الخارج، والخادمة في عطلة، وكنت سأبقي كاثلين في المنزل الفارغ."
+    },
+    {
+      "id": 355,
+      "text": "George had left London for Kent a few days earlier.",
+      "translation": "كان جورج قد غادر لندن إلى كينت قبل بضعة أيام."
+    },
+    {
+      "id": 356,
+      "text": "'He's actually helping with the harvest down there!' Kathleen told me lovingly.",
+      "translation": "'إنه في الواقع يساعد في الحصاد هناك!' أخبرتني كاثلين بمحبة."
+    },
+    {
+      "id": 357,
+      "text": "Kathleen and I planned to travel down together, but on that Saturday, she was unexpectedly delayed in London on some business.",
+      "translation": "خططت كاثلين وأنا للسفر معاً، لكن في ذلك السبت، تأخرت بشكل غير متوقع في لندن بسبب بعض الأعمال."
+    },
+    {
+      "id": 358,
+      "text": "It was arranged that I should go ahead of her in the early afternoon to see to the provisions for our party; Kathleen had invited George to dinner at her aunt's house that night.",
+      "translation": "تم الترتيب أن أسبقها في وقت مبكر من بعد الظهر للاعتناء بمستلزمات حفلاتنا؛ كانت كاثلين قد دعت جورج لتناول العشاء في منزل عمتها تلك الليلة."
+    },
+    {
+      "id": 359,
+      "text": "'I should be with you by seven,' she said. 'Sure you won't mind the empty house? I hate arriving at empty houses, myself.'",
+      "translation": "'يجب أن أكون معك بحلول السابعة،' قالت. 'هل أنت متأكدة أنك لا تمانعين في المنزل الفارغ؟ أنا أكره الوصول إلى منازل فارغة، بنفسي.'"
+    },
+    {
+      "id": 360,
+      "text": "I said no, I liked an empty house.",
+      "translation": "قلت لا، أنا أحب المنزل الفارغ."
+    },
+    {
+      "id": 361,
+      "text": "So I did, when I got there.",
+      "translation": "وهكذا كان شعوري، عندما وصلت إلى هناك."
+    },
+    {
+      "id": 362,
+      "text": "I had never found the house more likeable.",
+      "translation": "لم أجد المنزل أكثر جاذبية من قبل."
+    },
+    {
+      "id": 363,
+      "text": "A large Georgian vicarage in about eight acres, most of the rooms shut and sheeted, there being only one servant.",
+      "translation": "بيت قس جورجي كبير على حوالي ثمانية أفدنة، معظم الغرف مغلقة ومغطاة بالملاءات، حيث كان هناك خادم واحد فقط."
+    },
+    {
+      "id": 364,
+      "text": "I discovered that I wouldn't need to go shopping, Kathleen's aunt had left many and delicate supplies with notes attached to them: 'Eat this up please do, see also fridge' and 'A treat for three hungry people see also 2 bttles beaune for yr party on back kn table.'",
+      "translation": "اكتشفت أنني لن أحتاج للذهاب للتسوق، كانت عمة كاثلين قد تركت العديد من المؤن الرقيقة مع ملاحظات مرفقة بها: 'كلي هذا من فضلك، انظري أيضاً الثلاجة' و'مكافأة لثلاثة أشخاص جائعين انظري أيضاً زجاجتين من نبيذ بون لحفلتكم على الطاولة الخلفية.'"
+    },
+    {
+      "id": 365,
+      "text": "It was like a treasure hunt as I followed clue after clue through the cool silent domestic quarters.",
+      "translation": "كان الأمر مثل البحث عن كنز وأنا أتبع دليلاً تلو الآخر عبر الأحياء المنزلية الهادئة والباردة."
+    },
+    {
+      "id": 366,
+      "text": "A house in which there are no people - but with all the signs of tenancy - can be a most tranquil good place.",
+      "translation": "المنزل الذي لا يوجد فيه أشخاص - ولكن مع كل علامات الإيجار - يمكن أن يكون مكاناً جيداً هادئاً للغاية."
+    },
+    {
+      "id": 367,
+      "text": "People take up space in a house out of proportion to their size.",
+      "translation": "يأخذ الناس مساحة في المنزل بما يتناسب مع حجمهم."
+    },
+    {
+      "id": 368,
+      "text": "On my previous visits I had seen the rooms overflowing as it seemed, with Kathleen, her aunt, and the little fat maidservant; they were always on the move.",
+      "translation": "في زياراتي السابقة كنت قد رأيت الغرف تبدو وكأنها تفيض، مع كاثلين، وعمتها، والخادمة الصغيرة السمينة؛ كانوا دائماً في حركة."
+    },
+    {
+      "id": 369,
+      "text": "As I wandered through that part of the house which was in use, opening windows to let in the pale yellow air of September, I was not conscious that I, Needle, was taking up any space at all, I might have been a ghost.",
+      "translation": "وبينما كنت أتجول في ذلك الجزء من المنزل الذي كان قيد الاستخدام، أفتح النوافذ للسماح بدخول الهواء الأصفر الشاحب لشهر سبتمبر، لم أكن واعية أنني، نيدل، كنت أستهلك أي مساحة على الإطلاق، ربما كنت شبحاً."
+    },
+    {
+      "id": 370,
+      "text": "The only thing to be fetched was the milk.",
+      "translation": "الشيء الوحيد الذي يجب إحضاره هو الحليب."
+    },
+    {
+      "id": 371,
+      "text": "I waited until after four when the milking should be done, then set off for the farm, which lay across two fields at the back of the orchard.",
+      "translation": "انتظرت حتى بعد الرابعة عندما يجب أن يكون الحلب قد انتهى، ثم انطلقت إلى المزرعة، التي تقع عبر حقلين في مؤخرة البستان."
+    },
+    {
+      "id": 372,
+      "text": "There, when the byre man was handing me the bottle, I saw George.",
+      "translation": "هناك، عندما كان عامل الحظيرة يسلمني الزجاجة، رأيت جورج."
+    },
+    {
+      "id": 373,
+      "text": "'Hallo, George,' I said.",
+      "translation": "'مرحباً، جورج،' قلت."
+    },
+    {
+      "id": 374,
+      "text": "'Needle! What are you doing here?' he said.",
+      "translation": "'نيدل! ماذا تفعلين هنا؟' قال."
+    },
+    {
+      "id": 375,
+      "text": "'Fetching milk,' I said.",
+      "translation": "'أحضر الحليب،' قلت."
+    },
+    {
+      "id": 376,
+      "text": "'So am I. Well, it's good to see you, I must say.'",
+      "translation": "'وأنا أيضاً. حسناً، من الجيد رؤيتك، يجب أن أقول.'"
+    },
+    {
+      "id": 377,
+      "text": "As we paid the farm hand, George said, 'I'll walk back with you part of the way. But I mustn't stop, my old cousin's without any milk for her tea. How's Kathleen?'",
+      "translation": "بينما كنا ندفع لعامل المزرعة، قال جورج: 'سأعود معك جزءاً من الطريق. لكن يجب ألا أتوقف، قريبتي العجوز بدون أي حليب لشايها. كيف حال كاثلين؟'"
+    },
+    {
+      "id": 378,
+      "text": "'She was kept in London. She's coming on later, about seven, she expects.'",
+      "translation": "'لقد احتُجزت في لندن. إنها قادمة لاحقاً، حوالي السابعة، كما تتوقع.'"
+    },
+    {
+      "id": 379,
+      "text": "We had reached the end of the first field.",
+      "translation": "كنا قد وصلنا إلى نهاية الحقل الأول."
+    },
+    {
+      "id": 380,
+      "text": "George's way led to the left and on to the main road.",
+      "translation": "كان طريق جورج يؤدي إلى اليسار وإلى الطريق الرئيسي."
+    },
+    {
+      "id": 381,
+      "text": "'We'll see you tonight, then?' I said.",
+      "translation": "'سنراك الليلة إذن؟' قلت."
+    },
+    {
+      "id": 382,
+      "text": "'Yes, and talk about old times.'",
+      "translation": "'نعم، ونتحدث عن الأيام الخوالي.'"
+    },
+    {
+      "id": 383,
+      "text": "'Grand,' I said.",
+      "translation": "'عظيم،' قلت."
+    },
+    {
+      "id": 384,
+      "text": "But George got over the stile with me.",
+      "translation": "لكن جورج عبر السياج معي."
+    },
+    {
+      "id": 385,
+      "text": "'Look here,' he said. 'I'd like to talk to you, Needle.'",
+      "translation": "'انظري هنا،' قال. 'أود التحدث معك يا نيدل.'"
+    },
+    {
+      "id": 386,
+      "text": "'We'll talk tonight, George. Better not keep your cousin waiting for the milk.' I found myself speaking to him almost as if he were a child.",
+      "translation": "'سنتحدث الليلة يا جورج. من الأفضل ألا تدع قريبتك تنتظر الحليب.' وجدت نفسي أتحدث إليه تقريباً كما لو كان طفلاً."
+    },
+    {
+      "id": 387,
+      "text": "'No, I want to talk to you alone. This is a good opportunity.'",
+      "translation": "'لا، أريد التحدث معك على انفراد. هذه فرصة جيدة.'"
+    },
+    {
+      "id": 388,
+      "text": "We began to cross the second field.",
+      "translation": "بدأنا نعبر الحقل الثاني."
+    },
+    {
+      "id": 389,
+      "text": "I had been hoping to have the house to myself for a couple more hours and I was rather petulant.",
+      "translation": "كنت آمل أن أحظى بالمنزل لنفسي لبضع ساعات أخرى وكنت منفعلة نوعاً ما."
+    },
+    {
+      "id": 390,
+      "text": "'See,' he said suddenly, 'that haystack.'",
+      "translation": "'انظري،' قال فجأة، 'تلك الكومة من القش.'"
+    },
+    {
+      "id": 391,
+      "text": "'Yes,' I said absently.",
+      "translation": "'نعم،' قلت بشرود."
+    },
+    {
+      "id": 392,
+      "text": "'Let's sit there and talk. I'd like to see you up on a haystack again. I still keep that photo. Remember that time when -'",
+      "translation": "'لنجلس هناك ونتحدث. أود رؤيتك على كومة قش مرة أخرى. ما زلت أحتفظ بتلك الصورة. تذكرين ذلك الوقت عندما -'"
+    },
+    {
+      "id": 393,
+      "text": "'I found the needle,' I said very quickly, to get it over.",
+      "translation": "'لقد وجدت الإبرة،' قلت بسرعة كبيرة، لتجاوز الأمر."
+    },
+    {
+      "id": 394,
+      "text": "But I was glad to rest.",
+      "translation": "لكنني كنت سعيدة بالراحة."
+    },
+    {
+      "id": 395,
+      "text": "The stack had been broken up, but we managed to find a nest in it.",
+      "translation": "كانت الكومة قد فُككت، لكننا تمكنا من إيجاد عش فيها."
+    },
+    {
+      "id": 396,
+      "text": "I buried my bottle of milk in the hay for coolness.",
+      "translation": "دفنت زجاجة الحليب في القش لتبرد."
+    },
+    {
+      "id": 397,
+      "text": "George placed his carefully at the foot of the stack.",
+      "translation": "وضع جورج زجاجته بعناية عند سفح الكومة."
+    },
+    {
+      "id": 398,
+      "text": "'My old cousin is terribly vague, poor soul. A bit hazy in her head. She hasn't the least sense of time. If I tell her I've only been gone ten minutes she'll believe it.'",
+      "translation": "'قريبتي العجوز غامضة جداً، روح مسكينة. عقلها ضبابي قليلاً. ليس لديها أي إحساس بالوقت. إذا أخبرتها أنني غبت عشر دقائق فقط، ستصدق ذلك.'"
+    },
+    {
+      "id": 399,
+      "text": "I giggled, and looked at him.",
+      "translation": "قهقهت، ونظرت إليه."
+    },
+    {
+      "id": 400,
+      "text": "His face had grown much larger, his lips full, wide and with a ripe colour that is strange in a man.",
+      "translation": "كان وجهه قد كبر كثيراً، وشفاهه ممتلئة وعريضة وبلون ناضج غريب على الرجل."
+    },
+    {
+      "id": 401,
+      "text": "His brown eyes were abounding as before with some inarticulate plea.",
+      "translation": "كانت عيناه البنيتان تفيضان كما في السابق ببعض الالتماس غير المفهوم."
+    },
+    {
+      "id": 402,
+      "text": "'So you're going to marry Skinny after all these years?'",
+      "translation": "'إذن ستتزوجين سكيني بعد كل هذه السنوات؟'"
+    },
+    {
+      "id": 403,
+      "text": "'I really don't know, George.'",
+      "translation": "'أنا حقاً لا أعرف يا جورج.'"
+    },
+    {
+      "id": 404,
+      "text": "'You played him up properly.'",
+      "translation": "'لقد تلاعبت به بشكل صحيح.'"
+    },
+    {
+      "id": 405,
+      "text": "'It isn't for you to judge. I have my own reasons for what I do.'",
+      "translation": "'ليس من حقك الحكم. لدي أسبابي الخاصة لما أفعله.'"
+    },
+    {
+      "id": 406,
+      "text": "'Don't get sharp,' he said, 'I was only funning.' To prove it, he lifted a tuft of hay and brushed my face with it.",
+      "translation": "'لا تكوني حادة،' قال، 'كنت أمزح فقط.' لإثبات ذلك، رفع خصلة من القش ومسح بها وجهي."
+    },
+    {
+      "id": 407,
+      "text": "'D'you know,' he said next, 'I didn't think you and Skinny treated me very decently in Rhodesia.'",
+      "translation": "'هل تعلمين،' قال بعد ذلك، 'لم أعتقد أنك أنت وسكيني عاملتماني بلياقة كبيرة في روديسيا.'"
+    },
+    {
+      "id": 408,
+      "text": "'Well, we were busy, George. And we were younger then, we had a lot to do and see. After all, we could see you any other time, George.'",
+      "translation": "'حسناً، كنا مشغولين يا جورج. وكنا أصغر سناً حينها، كان لدينا الكثير لنفعله ونراه. بعد كل شيء، كان بإمكاننا رؤيتك في أي وقت آخر يا جورج.'"
+    },
+    {
+      "id": 409,
+      "text": "'A touch of selfishness,' he said.",
+      "translation": "'لمسة من الأنانية،' قال."
+    },
+    {
+      "id": 410,
+      "text": "'I'll have to be getting along, George,' I made to get down from the stack.",
+      "translation": "'يجب أن أذهب يا جورج،' شرعت في النزول من الكومة."
+    },
+    {
+      "id": 411,
+      "text": "He pulled me back. 'Wait, I've got something to tell you.'",
+      "translation": "سحبني للخلف. 'انتظري، لدي شيء لأخبرك به.'"
+    },
+    {
+      "id": 412,
+      "text": "'O.K., George, tell me.'",
+      "translation": "'حسناً يا جورج، أخبرني.'"
+    },
+    {
+      "id": 413,
+      "text": "'First promise not to tell Kathleen. She wants it kept a secret so that she can tell you herself.'",
+      "translation": "'أولاً عدي ألا تخبري كاثلين. إنها تريد إبقاءه سراً حتى تخبرك بنفسها.'"
+    },
+    {
+      "id": 414,
+      "text": "'All right. Promise.'",
+      "translation": "'حسناً. أعدك.'"
+    },
+    {
+      "id": 415,
+      "text": "'I'm going to marry Kathleen.'",
+      "translation": "'سأتزوج كاثلين.'"
+    },
+    {
+      "id": 416,
+      "text": "'But you're already married.'",
+      "translation": "'لكنك متزوج بالفعل.'"
+    },
+    {
+      "id": 417,
+      "text": "Sometimes I heard news of Matilda from the one Rhodesian family with whom I still kept up.",
+      "translation": "أحياناً كنت أسمع أخبار ماتيلدا من العائلة الروديسية الوحيدة التي ما زلت على تواصل معها."
+    },
+    {
+      "id": 418,
+      "text": "They referred to her as 'George's Dark Lady' and of course, they did not know he was married to her.",
+      "translation": "كانوا يشيرون إليها باسم 'سيدة جورج الداكنة' وبالطبع، لم يعرفوا أنه متزوج منها."
+    },
+    {
+      "id": 419,
+      "text": "She had apparently made a good thing out of George, they said, for she minced around all tarted up, never did a stroke of work and was always unsettling the respectable coloured girls in their neighborhood.",
+      "translation": "قالوا إنها يبدو أنها استفادت كثيراً من جورج، لأنها كانت تتمايل متبرجة، ولم تقم بأي عمل، وكانت دائماً تزعج الفتيات الملونات المحترمات في حيهن."
+    },
+    {
+      "id": 420,
+      "text": "According to accounts, she was a living example of the folly of behaving as George did.",
+      "translation": "وفقاً للروايات، كانت مثالاً حياً على حماقة التصرف كما فعل جورج."
+    },
+    {
+      "id": 421,
+      "text": "'I married Matilda in the Congo,' George was saying.",
+      "translation": "'تزوجت ماتيلدا في الكونغو،' كان جورج يقول."
+    },
+    {
+      "id": 422,
+      "text": "'It would still be bigamy,' I said.",
+      "translation": "'سيظل زواجاً بأكثر من واحدة،' قلت."
+    },
+    {
+      "id": 423,
+      "text": "He was furious when I used that word bigamy.",
+      "translation": "كان غاضباً عندما استخدمت كلمة تعدد الزوجات."
+    },
+    {
+      "id": 424,
+      "text": "He lifted a handful of hay as if he would throw it in my face, but controlling himself meanwhile, he fanned it at me playfully.",
+      "translation": "رفع حفنة من القش كما لو كان سيرميها في وجهي، لكنه كبح نفسه في هذه الأثناء، ولوح بها نحوي بمزاح."
+    },
+    {
+      "id": 425,
+      "text": "'I'm not sure that the Congo marriage was valid,' he continued. 'Anyway, as far as I'm concerned, it isn't.'",
+      "translation": "'لست متأكداً أن زواج الكونغو كان صحيحاً،' تابع. 'على أي حال، بقدر ما يهمني الأمر، إنه ليس كذلك.'"
+    },
+    {
+      "id": 426,
+      "text": "'You can't do a thing like that,' I said.",
+      "translation": "'لا يمكنك فعل شيء كهذا،' قلت."
+    },
+    {
+      "id": 427,
+      "text": "'I need Kathleen. She's been decent to me. I think we were always meant for each other, me and Kathleen.'",
+      "translation": "'أحتاج كاثلين. لقد كانت لائقة معي. أعتقد أننا كنا دائماً مقدرين لبعضنا البعض، أنا وكاثلين.'"
+    },
+    {
+      "id": 428,
+      "text": "'I'll have to be going,' I said.",
+      "translation": "'يجب أن أذهب،' قلت."
+    },
+    {
+      "id": 429,
+      "text": "But he put his knee over my ankles, so that I couldn't move.",
+      "translation": "لكن وضع ركبته على كاحلي، بحيث لم أستطع التحرك."
+    },
+    {
+      "id": 430,
+      "text": "I sat still and gazed into space.",
+      "translation": "جلست ساكنة وحدقت في الفراغ."
+    },
+    {
+      "id": 431,
+      "text": "He tickled my face with a wisp of hay.",
+      "translation": "دغدغ وجهي بخصلة من القش."
+    },
+    {
+      "id": 432,
+      "text": "'Smile up, Needle,' he said; let's talk like old times.'",
+      "translation": "'ابتسمي يا نيدل،' قال؛ 'لنتحدث مثل الأيام الخوالي.'"
+    },
+    {
+      "id": 433,
+      "text": "'Well?'",
+      "translation": "'حسناً؟'"
+    },
+    {
+      "id": 434,
+      "text": "'No one knows about my marriage to Matilda except you and me.'",
+      "translation": "'لا أحد يعرف عن زواجي من ماتيلدا إلا أنت وأنا.'"
+    },
+    {
+      "id": 435,
+      "text": "'And Matilda,' I said.",
+      "translation": "'وماتيلدا،' قلت."
+    },
+    {
+      "id": 436,
+      "text": "'She'll hold her tongue so long as she gets her payments. My uncle left an annuity for the purpose, his lawyers see to it.'",
+      "translation": "'ستكتم صوتها طالما حصلت على مدفوعاتها. ترك عمي راتباً سنوياً لهذا الغرض، محاموه يعتنون بذلك.'"
+    },
+    {
+      "id": 437,
+      "text": "'Let me go, George.'",
+      "translation": "'دعني أذهب يا جورج.'"
+    },
+    {
+      "id": 438,
+      "text": "'You promised to keep it a secret,' he said, 'you promised.'",
+      "translation": "'وعدتِ بالحفاظ عليه سراً،' قال، 'وعدتِ.'"
+    },
+    {
+      "id": 439,
+      "text": "'Yes, I promised.'",
+      "translation": "'نعم، وعدت.'"
+    },
+    {
+      "id": 440,
+      "text": "'And now that you're going to marry Skinny, we'll be properly coupled off as we should have been years ago. We should have been - but youth! - Our youth got in the way, didn't it?'",
+      "translation": "'والآن بعد أن ستتزوجين سكيني، سنكون مرتبطين بشكل صحيح كما كان يجب أن نكون منذ سنوات. كان يجب أن نكون - لكن الشباب! - شبابنا كان في الطريق، أليس كذلك؟'"
+    },
+    {
+      "id": 441,
+      "text": "'Life got in the way,' I said.",
+      "translation": "'الحياة كانت في الطريق،' قلت."
+    },
+    {
+      "id": 442,
+      "text": "'But everything's going to be all right now. You'll keep my secret, won't you? You promised.' He had released my feet.",
+      "translation": "'لكن كل شيء سيكون على ما يرام الآن. ستحافظين على سري، أليس كذلك؟ وعدتِ.' كان قد أطلق قدمي."
+    },
+    {
+      "id": 443,
+      "text": "I edged a little further from him.",
+      "translation": "تراجعت قليلاً عنه."
+    },
+    {
+      "id": 444,
+      "text": "I said, 'If Kathleen intends to marry you, I shall tell her that you're already married.'",
+      "translation": "قلت: 'إذا كانت كاثلين تنوي الزواج منك، سأخبرها أنك متزوج بالفعل.'"
+    },
+    {
+      "id": 445,
+      "text": "'You wouldn't do a dirty trick like that, Needle? You're going to be happy with Skinny, you wouldn't stand in the way of my -'",
+      "translation": "'لن تفعلي خدعة قذرة كهذه يا نيدل؟ ستكونين سعيدة مع سكيني، لن تقفي في طريق -'"
+    },
+    {
+      "id": 446,
+      "text": "'I must, Kathleen's my best friend,' I said swiftly.",
+      "translation": "'يجب أن أفعل، كاثلين أفضل صديقة لي،' قلت بسرعة."
+    },
+    {
+      "id": 447,
+      "text": "He looked as if he would murder me and he did.",
+      "translation": "بدا كما لو كان سيق تلني وقد فعل."
+    },
+    {
+      "id": 448,
+      "text": "He stuffed hay into my mouth until it could hold no more, kneeling on my body to keep it still, holding both my wrists tight in his huge left hand.",
+      "translation": "حشا القش في فمي حتى لم يعد يستوعب المزيد، راكعاً على جسدي ليبقيه ساكناً، ممسكاً كلتا معصمي بقوة في يده اليسرى الضخمة."
+    },
+    {
+      "id": 449,
+      "text": "I saw the red full lines of his mouth and the white slit of his teeth last thing on earth.",
+      "translation": "رأيت خطوط فمه الحمراء الممتلئة وشق أسنانه الأبيض آخر شيء على وجه الأرض."
+    },
+    {
+      "id": 450,
+      "text": "Not another soul passed by as he pressed my body into the stack, as he made a deep nest for me, tearing up the hay to make a groove the length of my corpse, and finally pulling the warm dry stuff in a mound over this concealment, so natural-looking in a broken haystack.",
+      "translation": "لم يمر شخص آخر بينما كان يضغط جسدي في الكومة، وهو يصنع عشاً عميقاً لي، ويمزق القش ليصنع حفرة بطول جثتي، وأخيراً يسحب المواد الدافئة الجافة في كومة فوق هذا المخبأ، الذي يبدو طبيعياً جداً في كومة قش مكسورة."
+    },
+    {
+      "id": 451,
+      "text": "Then George climbed down, took up his bottle of milk and went his way.",
+      "translation": "ثم نزل جورج، وأخذ زجاجة الحليب الخاصة به ومضى في طريقه."
+    },
+    {
+      "id": 452,
+      "text": "I suppose that was why he looked so unwell when I stood, nearly five years later, by the barrow in the Portobello Road and said in easy tones, 'Hallo, George!'",
+      "translation": "أفترض أن هذا هو السبب في أنه بدا مريضاً جداً عندما وقفت، بعد ما يقرب من خمس سنوات، بجانب العربة في طريق بورتوبيلو وقلت بنبرة هادئة، 'مرحباً، جورج!'"
+    },
+    {
+      "id": 453,
+      "text": "The Haystack Murder was one of the notorious crimes of that year.",
+      "translation": "كانت جريمة كومة القش واحدة من الجرائم الشائنة في ذلك العام."
+    },
+    {
+      "id": 454,
+      "text": "My friends said, 'A girl who had everything to live for.'",
+      "translation": "قال أصدقائي: 'فتاة كان لديها كل شيء لتعيش من أجله.'"
+    },
+    {
+      "id": 455,
+      "text": "After a search that lasted twenty hours, when my body was found, the evening papers said, 'Needle' is found: in haystack!'",
+      "translation": "بعد بحث استمر عشرين ساعة، عندما وُجد جسدي، قالت صحف المساء: 'تم العثور على نيدل: في كومة قش!'"
+    },
+    {
+      "id": 456,
+      "text": "Kathleen, speaking from that Catholic point of view which takes some getting used to, said, 'She was at Confession only the day before she died - wasn't she lucky?'",
+      "translation": "قالت كاثلين، متحدثة من وجهة النظر الكاثوليكية التي تحتاج إلى بعض التعود: 'كانت في الاعتراف فقط في اليوم السابق لموتها - ألم تكن محظوظة؟'"
+    },
+    {
+      "id": 457,
+      "text": "The poor byre-hand who sold us the milk was grilled for hour after hour by the local police, and later by Scotland Yard.",
+      "translation": "تم استجواب عامل الحظيرة المسكين الذي باعنا الحليب لساعات بعد ساعات من قبل الشرطة المحلية، وبعد ذلك من قبل سكوتلاند يارد."
+    },
+    {
+      "id": 458,
+      "text": "So was George.",
+      "translation": "وكذلك جورج."
+    },
+    {
+      "id": 459,
+      "text": "He admitted walking as far as the haystack with me, but he denied lingering there.",
+      "translation": "اعترف بأنه مشى معي حتى كومة القش، لكنه أنكر البقاء هناك."
+    },
+    {
+      "id": 460,
+      "text": "'You hadn't seen your friend for ten years?' the Inspector asked him.",
+      "translation": "'لم تكن قد رأيت صديقتك منذ عشر سنوات؟' سأله المفتش."
+    },
+    {
+      "id": 461,
+      "text": "'That's right,' said George.",
+      "translation": "'هذا صحيح،' قال جورج."
+    },
+    {
+      "id": 462,
+      "text": "'And you didn't stop to have a chat?'",
+      "translation": "'ولم تتوقف لتبادل أطراف الحديث؟'"
+    },
+    {
+      "id": 463,
+      "text": "'No. We'd arranged to meet later at dinner. My cousin was waiting for the milk, I couldn't stop.'",
+      "translation": "'لا. كنا قد اتفقنا على اللقاء لاحقاً على العشاء. كانت قريبتي تنتظر الحليب، لم أستطع التوقف.'"
+    },
+    {
+      "id": 464,
+      "text": "The old soul, his cousin, swore that he hadn't been gone more than ten minutes in all, and she believed it to the day of her death a few months later.",
+      "translation": "أقسمت الروح العجوز، قريبته، أنه لم يغب أكثر من عشر دقائق في المجموع، وصدقت ذلك حتى يوم وفاتها بعد بضعة أشهر."
+    },
+    {
+      "id": 465,
+      "text": "There was the microscopic evidence of hay on George's jacket, of course, but the same evidence was on every man's jacket in the district that fine harvest year.",
+      "translation": "كان هناك دليل مجهري على وجود قش على سترة جورج، بالطبع، لكن نفس الدليل كان على سترة كل رجل في المنطقة في سنة الحصاد الجيدة تلك."
+    },
+    {
+      "id": 466,
+      "text": "Unfortunately, the byre man's hands were even brawnier and mightier than George's.",
+      "translation": "لسوء الحظ، كانت يدا عامل الحظيرة أقوى وأعظم من يدي جورج."
+    },
+    {
+      "id": 467,
+      "text
