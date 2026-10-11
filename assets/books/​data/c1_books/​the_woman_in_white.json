@@ -2,13 +2,2353 @@
   "id": "c1_the_woman_in_white",
   "title": "The Woman in White",
   "level": "C1",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1WSXwRdbZW463gK7P6c12rXzYcprui633",
+  "audio_url": "assets/books/audio/c1_books/The_Woman_in_White.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "This is the story of what a woman's patience can endure, and what a man's resolution can achieve.",
-      "translation": "هذه هي قصّة ما يمكن لصبْر المرأة أن يتحمّله، وما يمكن لعزيمة الرجل أن تحققه."
-    }
-  ]
-}
+      "id": 1,
+      "text": "The Woman in White",
+      "translation": "المرأة ذات الثوب الأبيض"
+    },
+    {
+      "id": 2,
+      "text": "Chapter One",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "A Strange Adventure",
+      "translation": "مغامرة غريبة"
+    },
+    {
+      "id": 4,
+      "text": "This is the story of a crime committed against a woman.",
+      "translation": "هذه قصة جريمة ارتُكبت ضد امرأة."
+    },
+    {
+      "id": 5,
+      "text": "I - Walter Hartright, drawing teacher - have asked several people to contribute narratives.",
+      "translation": "أنا - والتر هارتريت، مدرس الرسم - طلبت من عدة أشخاص المساهمة برواياتهم."
+    },
+    {
+      "id": 6,
+      "text": "Each narrator will describe what he saw with his own eyes, so that the narrative will be as truthful as possible, and the evidence will be presented as in a court of law.",
+      "translation": "سيصف كل راوٍ ما رآه بعينيه، حتى تكون الرواية صادقة قدر الإمكان، وتُقدَّم الأدلة كما في محكمة قانونية."
+    },
+    {
+      "id": 7,
+      "text": "1. Walter Hartright's narrative",
+      "translation": "1. رواية والتر هارتريت"
+    },
+    {
+      "id": 8,
+      "text": "One evening in July 1849, I went to see my mother and sister at their house on Hampstead Heath.",
+      "translation": "في مساء يوم من يوليو 1849، ذهبت لرؤية أمي وأختي في منزلهما في هامبستيد هيث."
+    },
+    {
+      "id": 9,
+      "text": "My Italian friend Pesca was there, and he had good news for me.",
+      "translation": "كان صديقي الإيطالي بيسكا هناك، وكان لديه أخبار سارة لي."
+    },
+    {
+      "id": 10,
+      "text": "He had found me a job in Cumberland in the north of England: four months teaching drawing to the nieces of Mr Frederick Fairlie of Limmeridge House.",
+      "translation": "لقد وجد لي عملاً في كمبرلاند في شمال إنجلترا: أربعة أشهر لتدريس الرسم لابنتي شقيق السيد فريدريك فيرلي من منزل ليمريدج."
+    },
+    {
+      "id": 11,
+      "text": "On the evening before I left for Cumberland, I went to say goodbye to my mother and sister.",
+      "translation": "في مساء اليوم السابق لمغادرتي إلى كمبرلاند، ذهبت لأودع أمي وأختي."
+    },
+    {
+      "id": 12,
+      "text": "It was past midnight when I left their house to walk home to my apartment in London.",
+      "translation": "كان الوقت بعد منتصف الليل عندما غادرت منزلهما لأعود سيراً إلى شقتي في لندن."
+    },
+    {
+      "id": 13,
+      "text": "As I stood at the crossroads, I felt someone suddenly touch my arm.",
+      "translation": "وبينما كنت أقف عند مفترق الطرق، شعرت بشخص يلمس ذراعي فجأة."
+    },
+    {
+      "id": 14,
+      "text": "I turned around quickly in fear and surprise.",
+      "translation": "استدرت بسرعة خوفاً ومفاجأة."
+    },
+    {
+      "id": 15,
+      "text": "There, behind me, stood a woman dressed completely in white.",
+      "translation": "وهناك، خلفي، وقفت امرأة ترتدي الأبيض بالكامل."
+    },
+    {
+      "id": 16,
+      "text": "'Is this the road to London?' she asked.",
+      "translation": "'هل هذا هو الطريق إلى لندن؟' سألت."
+    },
+    {
+      "id": 17,
+      "text": "She was young and thin with a pale, worried face.",
+      "translation": "كانت شابة ونحيلة بوجه شاحب وقلق."
+    },
+    {
+      "id": 18,
+      "text": "After a pause, I replied, 'Yes. Sorry for not answering you before. I was surprised to see you - the road was empty just a moment ago.'",
+      "translation": "بعد توقف، أجبت: 'نعم. آسف لعدم إجابتك قبل الآن. لقد فوجئت برؤيتك - كان الطريق فارغاً منذ لحظة فقط.'"
+    },
+    {
+      "id": 19,
+      "text": "She indicated a tree nearby.",
+      "translation": "أشارت إلى شجرة قريبة."
+    },
+    {
+      "id": 20,
+      "text": "'I hid behind that tree to see what kind of man you were. Don't worry, I've done nothing wrong - but there's been an accident. Will you help me?'",
+      "translation": "'اختبأت خلف تلك الشجرة لأرى أي نوع من الرجال أنت. لا تقلق، لم أفعل شيئاً خطأً - لكن حدث حادث. هل ستساعدني؟'"
+    },
+    {
+      "id": 21,
+      "text": "'Certainly.'",
+      "translation": "'بالتأكيد.'"
+    },
+    {
+      "id": 22,
+      "text": "'I need to go to London. I have a friend there. Could you help me to get a carriage?'",
+      "translation": "'أحتاج إلى الذهاب إلى لندن. لدي صديق هناك. هل يمكنك مساعدتي في الحصول على عربة؟'"
+    },
+    {
+      "id": 23,
+      "text": "As we walked together down the London road, looking for a carriage, she said, 'Do you know any aristocrats?'",
+      "translation": "وبينما كنا نسير معاً على طريق لندن، نبحث عن عربة، قالت: 'هل تعرف أي أرستقراطيين؟'"
+    },
+    {
+      "id": 24,
+      "text": "'Some,' I replied, surprised by her strange question. 'Why do you ask?'",
+      "translation": "'بعضهم،' أجبت، مندهشاً من سؤالها الغريب. 'لماذا تسألين؟'"
+    },
+    {
+      "id": 25,
+      "text": "'Because I hope that there's one you don't know - one who lives in Hampshire.'",
+      "translation": "'لأنني آمل أن يكون هناك واحد لا تعرفه - واحد يعيش في هامبشاير.'"
+    },
+    {
+      "id": 26,
+      "text": "'What's his name?'",
+      "translation": "'ما اسمه؟'"
+    },
+    {
+      "id": 27,
+      "text": "'I can't say his name; it upsets me too much! Tell me the names of the aristocrats you know.'",
+      "translation": "'لا أستطيع قول اسمه؛ إنه يزعجني كثيراً! أخبرني بأسماء الأرستقراطيين الذين تعرفهم.'"
+    },
+    {
+      "id": 28,
+      "text": "I named three gentlemen in whose houses I had taught drawing.",
+      "translation": "ذكرت ثلاثة سادة كنت قد درست الرسم في منازلهم."
+    },
+    {
+      "id": 29,
+      "text": "'You don't know him!' she cried with relief.",
+      "translation": "'أنت لا تعرفه!' صرخت بارتياح."
+    },
+    {
+      "id": 30,
+      "text": "'Has this gentleman treated you badly? Is he the reason you're here alone at this hour?'",
+      "translation": "'هل أساء إليك هذا السيد؟ هل هو سبب وجودك هنا وحدك في هذه الساعة؟'"
+    },
+    {
+      "id": 31,
+      "text": "'I can't talk about it,' she said.",
+      "translation": "'لا أستطيع التحدث عن ذلك،' قالت."
+    },
+    {
+      "id": 32,
+      "text": "We left the Heath and entered an area of houses.",
+      "translation": "غادرنا هيث ودخلنا منطقة منازل."
+    },
+    {
+      "id": 33,
+      "text": "After a while she asked me if I lived in London.",
+      "translation": "بعد فترة سألتني إذا كنت أعيش في لندن."
+    },
+    {
+      "id": 34,
+      "text": "'Yes, but tomorrow I'm going to Cumberland for four months.'",
+      "translation": "'نعم، لكن غداً سأذهب إلى كمبرلاند لمدة أربعة أشهر.'"
+    },
+    {
+      "id": 35,
+      "text": "'Cumberland!' she cried. 'I was happy there once, in a village called Limmeridge. A lady called Mrs Fairlie was kind to me, but now she and her husband are both dead.'",
+      "translation": "'كمبرلاند!' صرخت. 'كنت سعيدة هناك ذات مرة، في قرية تسمى ليمريدج. كانت سيدة تدعى السيدة فيرلي لطيفة معي، لكنها وزوجها الآن ميتان.'"
+    },
+    {
+      "id": 36,
+      "text": "I looked at her in surprise and was about to ask her more, but just then I saw a carriage.",
+      "translation": "نظرت إليها بدهشة وكنت على وشك أن أسألها المزيد، لكن في تلك اللحظة رأيت عربة."
+    },
+    {
+      "id": 37,
+      "text": "I stopped it and asked the driver to take the young woman into London.",
+      "translation": "أوقفتها وطلبت من السائق أن يأخذ الشابة إلى لندن."
+    },
+    {
+      "id": 38,
+      "text": "She got into the carriage, then turned to me and kissed my hand.",
+      "translation": "ركبت العربة، ثم استدارت إليّ وقبلت يدي."
+    },
+    {
+      "id": 39,
+      "text": "'Thank you!' she said, then the carriage drove off, and the woman in white was gone.",
+      "translation": "'شكراً لك!' قالت، ثم انطلقت العربة، واختفت المرأة ذات الثوب الأبيض."
+    },
+    {
+      "id": 40,
+      "text": "I walked on, thinking about this strange adventure.",
+      "translation": "مضيت في طريقي، أفكر في هذه المغامرة الغريبة."
+    },
+    {
+      "id": 41,
+      "text": "As I passed a policeman, I heard a carriage on the road behind me.",
+      "translation": "وبينما كنت أمر بجانب شرطي، سمعت عربة على الطريق خلفي."
+    },
+    {
+      "id": 42,
+      "text": "The carriage stopped and the driver spoke to the policeman: 'Have you seen a woman dressed in white?'",
+      "translation": "توقفت العربة وتحدث السائق إلى الشرطي: 'هل رأيت امرأة ترتدي الأبيض؟'"
+    },
+    {
+      "id": 43,
+      "text": "'No, sir.'",
+      "translation": "'لا، سيدي.'"
+    },
+    {
+      "id": 44,
+      "text": "The man gave the policeman a piece of paper. 'If you see her, stop her and take her to this address.'",
+      "translation": "أعطى الرجل الشرطي قطعة ورق. 'إذا رأيتها، أوقفها وخذها إلى هذا العنوان.'"
+    },
+    {
+      "id": 45,
+      "text": "'Why?' asked the policeman. 'What's she done?'",
+      "translation": "'لماذا؟' سأل الشرطي. 'ماذا فعلت؟'"
+    },
+    {
+      "id": 46,
+      "text": "'She's escaped from my asylum!' the man replied, and he drove off.",
+      "translation": "'لقد هربت من مصحّي!' أجاب الرجل، وانطلق بعربته."
+    },
+    {
+      "id": 47,
+      "text": "Late the next evening, I arrived at Limmeridge House.",
+      "translation": "في وقت متأخر من مساء اليوم التالي، وصلت إلى منزل ليمريدج."
+    },
+    {
+      "id": 48,
+      "text": "Mr Fairlie and his nieces were already in bed.",
+      "translation": "كان السيد فيرلي وابنتا شقيقه قد ذهبا إلى النوم بالفعل."
+    },
+    {
+      "id": 49,
+      "text": "A servant gave me dinner and showed me to my room.",
+      "translation": "قدم لي خادم العشاء وأرشدني إلى غرفتي."
+    },
+    {
+      "id": 50,
+      "text": "The next morning I went down to breakfast at nine.",
+      "translation": "في صباح اليوم التالي نزلت لتناول الإفطار في الساعة التاسعة."
+    },
+    {
+      "id": 51,
+      "text": "The dining-room was long with windows overlooking the sea.",
+      "translation": "كانت غرفة الطعام طويلة بنوافذ تطل على البحر."
+    },
+    {
+      "id": 52,
+      "text": "A lady was standing by a window at the far end of the room, looking out.",
+      "translation": "كانت سيدة تقف بجانب نافذة في الطرف البعيد من الغرفة، تنظر إلى الخارج."
+    },
+    {
+      "id": 53,
+      "text": "She was tall and had a beautiful figure.",
+      "translation": "كانت طويلة ولها قوام جميل."
+    },
+    {
+      "id": 54,
+      "text": "She turned and walked gracefully towards me.",
+      "translation": "استدارت وسارت برشاقة نحوي."
+    },
+    {
+      "id": 55,
+      "text": "'What will her face be like?' I asked myself as she got nearer.",
+      "translation": "'كيف سيكون وجهها؟' سألت نفسي وهي تقترب."
+    },
+    {
+      "id": 56,
+      "text": "First I noticed that she was dark, then that she was young, and finally (to my great surprise) that she was rather ugly!",
+      "translation": "أولاً لاحظت أنها داكنة، ثم أنها شابة، وأخيراً (ولدهشتي الشديدة) أنها قبيحة نوعاً ما!"
+    },
+    {
+      "id": 57,
+      "text": "She had a large, strong masculine jaw.",
+      "translation": "كان لديها فك كبير وقوي ذكوري."
+    },
+    {
+      "id": 58,
+      "text": "Her expression was honest and intelligent, but it had none of the gentleness that is the greatest charm of a woman.",
+      "translation": "كان تعبيرها صادقاً وذكياً، لكنه لم يكن فيه أي من اللطف الذي هو أعظم سحر للمرأة."
+    },
+    {
+      "id": 59,
+      "text": "'Mr Hartright?' she asked, shaking my hand. 'I'm Marian Halcombe, one of your new students. I hope you won't be bored here. You'll have no men to talk to. Mr Fairlie never leaves his room. He's an invalid, or so he thinks. This morning I'll be your only company for breakfast since my sister Laura is in her room with a headache. Your life here will be very quiet. I hope you aren't the kind of person who's unhappy without adventures.'",
+      "translation": "'سيد هارتريت؟' سألت وهي تصافحني. 'أنا ماريان هالكومب، إحدى طالباتك الجديدات. آمل ألا تشعر بالملل هنا. لن يكون لديك رجال لتتحدث إليهم. السيد فيرلي لا يغادر غرفته أبداً. إنه مريض، أو هكذا يعتقد. هذا الصباح سأكون رفيقتك الوحيدة على الإفطار لأن أختي لورا في غرفتها بسبب صداع. ستكون حياتك هنا هادئة جداً. آمل ألا تكون من النوع الذي يكون تعيساً بدون مغامرات.'"
+    },
+    {
+      "id": 60,
+      "text": "'Oh, no,' I replied. 'I like a quiet life, and recently I had such an adventure that I don't want another one for years.'",
+      "translation": "'أوه، لا،' أجبت. 'أنا أحب الحياة الهادئة، ومؤخراً مررت بمغامرة لدرجة أنني لا أريد أخرى لسنوات.'"
+    },
+    {
+      "id": 61,
+      "text": "As we ate breakfast side by side like two old friends, I told Miss Halcombe about the woman in white.",
+      "translation": "وبينما كنا نتناول الإفطار جنباً إلى جنب مثل صديقين قديمين، أخبرت الآنسة هالكومب عن المرأة ذات الثوب الأبيض."
+    },
+    {
+      "id": 62,
+      "text": "She listened with interest and looked surprised when I told her the part about Mrs Fairlie.",
+      "translation": "استمعت باهتمام وبدت مندهشة عندما أخبرتها الجزء المتعلق بالسيدة فيرلي."
+    },
+    {
+      "id": 63,
+      "text": "When I had finished, she said, 'Mrs Fairlie was my mother. She was married twice: once to my father, who was a poor man, and then to Mr Philip Fairlie, who was rich. My sister Laura is the daughter of her second marriage. My mother died, then Mr Fairlie died. His brother Frederick Fairlie is Laura's guardian. Laura and I are very different: she's blonde, and I'm dark; she's beautiful, and I'm ugly; she's rich, and I'm poor. But even so we love each other very much. When my mother came here, she started a school in the village. This woman in white was probably a student there. I wonder who she was?'",
+      "translation": "عندما انتهيت، قالت: 'كانت السيدة فيرلي أمي. تزوجت مرتين: مرة من والدي، الذي كان رجلاً فقيراً، ثم من السيد فيليب فيرلي، الذي كان غنياً. أختي لورا هي ابنة زواجها الثاني. ماتت أمي، ثم مات السيد فيرلي. شقيقه فريدريك فيرلي هو وصي لورا. لورا وأنا مختلفتان جداً: هي شقراء، وأنا داكنة؛ هي جميلة، وأنا قبيحة؛ هي غنية، وأنا فقيرة. لكن مع ذلك نحب بعضنا كثيراً. عندما جاءت أمي إلى هنا، بدأت مدرسة في القرية. هذه المرأة ذات الثوب الأبيض كانت على الأرجح طالبة هناك. أتساءل من كانت؟'"
+    },
+    {
+      "id": 64,
+      "text": "After breakfast, I went to see Mr Frederick Fairlie in his room.",
+      "translation": "بعد الإفطار، ذهبت لرؤية السيد فريدريك فيرلي في غرفته."
+    },
+    {
+      "id": 65,
+      "text": "He was a weak, lazy hypochondriac who considered himself a man of artistic sensibility.",
+      "translation": "كان مريضاً ضعيفاً وكسولاً يعتبر نفسه رجلاً ذا حساسية فنية."
+    },
+    {
+      "id": 66,
+      "text": "I left his room with a feeling of relief and spent the morning looking forward to my meeting with Miss Laura Fairlie.",
+      "translation": "غادرت غرفته بشعور من الارتياح وقضيت الصباح متطلعاً لمقابلتي مع الآنسة لورا فيرلي."
+    },
+    {
+      "id": 67,
+      "text": "That afternoon I went for a walk with Miss Halcombe.",
+      "translation": "في فترة ما بعد الظهر ذهبت في نزهة سيراً على الأقدام مع الآنسة هالكومب."
+    },
+    {
+      "id": 68,
+      "text": "In the garden we met her sister, Miss Fairlie.",
+      "translation": "في الحديقة قابلنا أختها، الآنسة فيرلي."
+    },
+    {
+      "id": 69,
+      "text": "She was a fair, delicate girl in a simple white dress.",
+      "translation": "كانت فتاة جميلة ورقيقة ترتدي ثوباً أبيض بسيطاً."
+    },
+    {
+      "id": 70,
+      "text": "She looked at me with kind, honest and innocent, blue eyes.",
+      "translation": "نظرت إليّ بعيون زرقاء لطيفة وصادقة وبريئة."
+    },
+    {
+      "id": 71,
+      "text": "She was the most beautiful woman I had ever seen, and yet there seemed to be something missing - I did not know what.",
+      "translation": "كانت أجمل امرأة رأيتها في حياتي، ومع ذلك بدا أن هناك شيئاً مفقوداً - لم أعرف ما هو."
+    },
+    {
+      "id": 72,
+      "text": "'Laura,' said Miss Halcombe, 'you have your drawing book with you. You see, Mr Hartright, she's the perfect student: she can't wait to begin her studies.'",
+      "translation": "'لورا،' قالت الآنسة هالكومب، 'لديك دفتر الرسم معك. كما ترى يا سيد هارتريت، إنها الطالبة المثالية: إنها لا تستطيع الانتظار لبدء دراستها.'"
+    },
+    {
+      "id": 73,
+      "text": "'No, I'm afraid to begin,' said Laura gently. 'I know my drawings aren't good, and I'm afraid to show them to you.'",
+      "translation": "'لا، أنا خائفة من البدء،' قالت لورا بلطف. 'أعلم أن رسوماتي ليست جيدة، وأخاف أن أريك إياها.'"
+    },
+    {
+      "id": 74,
+      "text": "'Well,' said Miss Halcombe, 'I'm sure that Mr Hartright will pay us compliments even if our drawings are horrible.'",
+      "translation": "'حسناً،' قالت الآنسة هالكومب، 'أنا متأكدة من أن السيد هارتريت سيمتدحنا حتى لو كانت رسوماتنا فظيعة.'"
+    },
+    {
+      "id": 75,
+      "text": "'I hope he won't pay me any compliments,' said Miss Fairlie.",
+      "translation": "'آمل ألا يمدحني بأي مجاملة،' قالت الآنسة فيرلي."
+    },
+    {
+      "id": 76,
+      "text": "'Why not?' I asked.",
+      "translation": "'لماذا لا؟' سألت."
+    },
+    {
+      "id": 77,
+      "text": "'Because I'll believe everything you say to me,' she answered simply.",
+      "translation": "'لأنني سأصدق كل ما تقوله لي،' أجابت ببساطة."
+    },
+    {
+      "id": 78,
+      "text": "I, a humble drawing teacher with no money, fell in love with the rich and beautiful Miss Laura Fairlie as soon as I saw her.",
+      "translation": "أنا، مدرس الرسم المتواضع الذي لا يملك مالاً، وقعت في حب الآنسة لورا فيرلي الغنية والجميلة بمجرد أن رأيتها."
+    },
+    {
+      "id": 79,
+      "text": "That evening, after dinner, Miss Fairlie went outside to walk in the garden.",
+      "translation": "في ذلك المساء، بعد العشاء، خرجت الآنسة فيرلي لتمشي في الحديقة."
+    },
+    {
+      "id": 80,
+      "text": "I started to follow her, but then Miss Halcombe called me, and I returned to the drawing-room.",
+      "translation": "بدأت أتبعها، لكن الآنسة هالكومب نادتني، فعدت إلى غرفة الجلوس."
+    },
+    {
+      "id": 81,
+      "text": "Miss Halcombe was holding a letter.",
+      "translation": "كانت الآنسة هالكومب تحمل خطاباً."
+    },
+    {
+      "id": 82,
+      "text": "Beyond her, through the window, I could see Miss Fairlie walking in the moonlight.",
+      "translation": "خلفها، من خلال النافذة، رأيت الآنسة فيرلي تمشي في ضوء القمر."
+    },
+    {
+      "id": 83,
+      "text": "'After the story you told me this morning, I've been reading my mother's old letters,' said Miss Halcombe. 'She wrote this to her second husband, Mr Philip Fairlie, when he was in London on business. Listen: \"There is a new student at the village school, a little girl called Anne Catherick. She has come to Limmeridge from Hampshire with her mother for a few weeks. Her mother is a respectable woman but there is something mysterious about her...\"'",
+      "translation": "'بعد القصة التي أخبرتني بها هذا الصباح، كنت أقرأ رسائل أمي القديمة،' قالت الآنسة هالكومب. 'كتبت هذه لزوجها الثاني، السيد فيليب فيرلي، عندما كان في لندن للعمل. استمع: \"هناك طالبة جديدة في مدرسة القرية، فتاة صغيرة تدعى آن كاثريك. جاءت إلى ليمريدج من هامبشاير مع والدتها لبضعة أسابيع. والدتها امرأة محترمة لكن هناك شيء غامض بشأنها...\"'"
+    },
+    {
+      "id": 84,
+      "text": "As Miss Halcombe read, I watched Miss Fairlie walking in the garden.",
+      "translation": "وبينما كانت الآنسة هالكومب تقرأ، كنت أشاهد الآنسة فيرلي تمشي في الحديقة."
+    },
+    {
+      "id": 85,
+      "text": "\"I like little Anne a lot. I noticed that she was slow in her studies, so I asked the doctor to examine her. He says that she'll get better. Her clothes were old, so I gave her some of Laura's white dresses. I told her that blonde girls look nice in white. She kissed my hand and said, 'I'll always wear white! It'll help me to remember how kind you've been to me!' Poor little soul!\"",
+      "translation": "\"أنا أحب الصغيرة آن كثيراً. لاحظت أنها بطيئة في دراستها، فطلبت من الطبيب فحصها. يقول إنها ستتحسن. كانت ملابسها قديمة، فأعطيتها بعض فساتين لورا البيضاء. قلت لها إن الفتيات الشقراوات يبدون جميلات باللون الأبيض. قبلت يدي وقالت: 'سأرتدي الأبيض دائماً! سيساعدني على تذكر مدى لطفك معي!' روح صغيرة مسكينة!\""
+    },
+    {
+      "id": 86,
+      "text": "Miss Halcombe looked up from the letter. 'The woman in white must be Anne Catherick!' she said.",
+      "translation": "رفعت الآنسة هالكومب نظرها عن الخطاب. 'المرأة ذات الثوب الأبيض لا بد أنها آن كاثريك!' قالت."
+    },
+    {
+      "id": 87,
+      "text": "Just then, Miss Fairlie passed by the window again.",
+      "translation": "في تلك اللحظة، مرت الآنسة فيرلي بجانب النافذة مرة أخرى."
+    },
+    {
+      "id": 88,
+      "text": "Her white dress shone in the moonlight.",
+      "translation": "تألق ثوبها الأبيض في ضوء القمر."
+    },
+    {
+      "id": 89,
+      "text": "My heart beat fast.",
+      "translation": "خفق قلبي بسرعة."
+    },
+    {
+      "id": 90,
+      "text": "'Listen to the last sentences of the letter,' said Miss Halcombe. \"The other reason I like Anne is that she looks very much like Laura. She isn't as pretty, but her hair, eyes, and figure are exactly like Laura's.\"",
+      "translation": "'استمع إلى الجمل الأخيرة من الخطاب،' قالت الآنسة هالكومب. \"السبب الآخر الذي يجعلني أحب آن هو أنها تشبه لورا كثيراً. إنها ليست جميلة مثلها، لكن شعرها وعينيها وقوامها مثل لورا تماماً.\""
+    },
+    {
+      "id": 91,
+      "text": "I stood up quickly, feeling the same sudden fear I had felt when that hand touched my arm at the lonely crossroads.",
+      "translation": "وقفت بسرعة، وأنا أشعر بنفس الخوف المفاجئ الذي شعرت به عندما لمست تلك اليد ذراعي عند مفترق الطرق الموحش."
+    },
+    {
+      "id": 92,
+      "text": "There stood Miss Fairlie, alone outside in the moonlight, looking exactly like the woman in white!",
+      "translation": "هناك وقفت الآنسة فيرلي، وحدها في الخارج في ضوء القمر، تبدو تماماً مثل المرأة ذات الثوب الأبيض!"
+    },
+    {
+      "id": 93,
+      "text": "I suddenly realised that the 'something missing' was this: my realisation of the disturbing similarity between the fugitive from the asylum and my student at Limmeridge House.",
+      "translation": "أدركت فجأة أن 'الشيء المفقود' كان هذا: إدراكي للتشابه المقلق بين الهاربة من المصحّ وطالبتي في منزل ليمريدج."
+    },
+    {
+      "id": 94,
+      "text": "Chapter Two",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 95,
+      "text": "The Aristocrat from Hampshire",
+      "translation": "الأرستقراطي من هامبشاير"
+    },
+    {
+      "id": 96,
+      "text": "2. Walter Hartright's narrative continued",
+      "translation": "2. تكملة رواية والتر هارتريت"
+    },
+    {
+      "id": 97,
+      "text": "The days and weeks at Limmeridge House passed so quickly!",
+      "translation": "مرت الأيام والأسابيع في منزل ليمريدج بسرعة كبيرة!"
+    },
+    {
+      "id": 98,
+      "text": "What a happy time that was!",
+      "translation": "يا لها من فترة سعيدة!"
+    },
+    {
+      "id": 99,
+      "text": "I spent every day in the company of two excellent ladies.",
+      "translation": "قضيت كل يوم في صحبة سيدتين ممتازتين."
+    },
+    {
+      "id": 100,
+      "text": "Marian Halcombe became my good friend and Laura Fairlie was my secret love.",
+      "translation": "أصبحت ماريان هالكومب صديقتي الجيدة وكانت لورا فيرلي حبي السري."
+    },
+    {
+      "id": 101,
+      "text": "The touch of her fingers or the sweet smell of her hair made my heart beat fast.",
+      "translation": "لمسة أصابعها أو الرائحة الحلوة لشعرها كانت تجعل قلبي يخفق بسرعة."
+    },
+    {
+      "id": 102,
+      "text": "A drawing teacher must spend his life in the company of beautiful women who can never be his.",
+      "translation": "يجب على مدرس الرسم أن يقضي حياته في صحبة نساء جميلات لا يمكن أن يكنّ له أبداً."
+    },
+    {
+      "id": 103,
+      "text": "I had always known this, and I had never before felt anything more than a teacher's interest in my students.",
+      "translation": "كنت أعرف هذا دائماً، ولم أشعر قبل ذلك بأي شيء أكثر من اهتمام المدرس بطالباته."
+    },
+    {
+      "id": 104,
+      "text": "But with Laura it was different.",
+      "translation": "لكن مع لورا كان الأمر مختلفاً."
+    },
+    {
+      "id": 105,
+      "text": "One day, when I had been at Limmeridge for three months, Miss Halcombe asked me to walk with her in the garden.",
+      "translation": "في أحد الأيام، عندما كنت في ليمريدج منذ ثلاثة أشهر، طلبت مني الآنسة هالكومب أن أتمشى معها في الحديقة."
+    },
+    {
+      "id": 106,
+      "text": "'I know your secret,' she said. 'You're in love with my sister. I don't blame you; I feel sorry for you, because your love is hopeless. I know you haven't told Laura that you love her. You've behaved honourably. Take my hand. What I'm about to say will hurt you, but it must be done.'",
+      "translation": "'أعرف سرك،' قالت. 'أنت واقع في حب أختي. لا ألومك؛ أشعر بالأسف عليك، لأن حبك بلا أمل. أعلم أنك لم تخبر لورا أنك تحبها. لقد تصرفت بشرف. خذ يدي. ما سأقوله الآن سيؤلمك، لكن يجب أن يُقال.'"
+    },
+    {
+      "id": 107,
+      "text": "Her sudden kindness and sympathy was too much for me.",
+      "translation": "كان لطفها وتعاطفها المفاجئ أكثر مما أستطيع تحمله."
+    },
+    {
+      "id": 108,
+      "text": "My eyes filled with tears.",
+      "translation": "امتلأت عيناي بالدموع."
+    },
+    {
+      "id": 109,
+      "text": "'You must leave Limmeridge at once,' she said. 'It's not because you're only a drawing teacher but because Laura's already engaged to be married. Her future husband is coming to stay next Monday. She's never loved him. He was chosen by her father just before he died. Until you came here, Laura was like hundreds of other women who marry without being attracted to their husbands. They learn to love them (if they don't learn to hate them!) after they're married. Tell Mr Fairlie that your sister's ill, and that you must return to London. Go before Sir Percival Glyde arrives.'",
+      "translation": "'يجب أن تغادر ليمريدج فوراً،' قالت. 'ليس لأنك مجرد مدرس رسم بل لأن لورا مخطوبة بالفعل للزواج. خطيبها المستقبلي قادم للإقامة الاثنين القادم. لم تحبه أبداً. اختاره والدها قبل وفاته مباشرة. حتى مجيئك إلى هنا، كانت لورا مثل مئات النساء الأخريات اللواتي يتزوجن دون انجذاب لأزواجهن. يتعلمن حبهن (إن لم يتعلمن كرههن!) بعد الزواج. أخبر السيد فيرلي أن أختك مريضة، وأنه يجب عليك العودة إلى لندن. اذهب قبل وصول السير بيرسيفال غلايد.'"
+    },
+    {
+      "id": 110,
+      "text": "'Sir Percival Glyde?'",
+      "translation": "'السير بيرسيفال غلايد؟'"
+    },
+    {
+      "id": 111,
+      "text": "'Yes, Laura's future husband. He has a large property in Hampshire.'",
+      "translation": "'نعم، زوج لورا المستقبلي. لديه ممتلكات كبيرة في هامبشاير.'"
+    },
+    {
+      "id": 112,
+      "text": "'Hampshire!' I cried. 'Anne Catherick spoke to me of an aristocrat from Hampshire who'd caused her suffering. But it can't be the same man! I must be going mad! Ever since I saw the similarity between Miss Fairlie and the woman in white, I've connected them in my mind. The Lord knows, I don't want to do so! I don't want that sad woman to be connected in any way with Miss Fairlie. Will you please ask Sir Percival Glyde if he knows Anne Catherick?'",
+      "translation": "'هامبشاير!' صرخت. 'آن كاثريك تحدثت معي عن أرستقراطي من هامبشاير تسبب في معاناتها. لكن لا يمكن أن يكون نفس الرجل! لا بد أنني أفقد عقلي! منذ أن رأيت التشابه بين الآنسة فيرلي والمرأة ذات الثوب الأبيض، ربطت بينهما في ذهني. الرب يعلم، أنا لا أريد فعل ذلك! لا أريد أن تكون تلك المرأة الحزينة مرتبطة بأي شكل بالآنسة فيرلي. هل يمكنك من فضلك سؤال السير بيرسيفال غلايد إذا كان يعرف آن كاثريك؟'"
+    },
+    {
+      "id": 113,
+      "text": "Miss Halcombe looked surprised. 'I've never heard anything bad about Sir Percival,' she said. 'But yes! I'll ask our lawyer, Mr Gilmore, to ask Sir Percival about it.'",
+      "translation": "بدت الآنسة هالكومب مندهشة. 'لم أسمع أبداً أي شيء سيء عن السير بيرسيفال،' قالت. 'لكن نعم! سأطلب من محامينا، السيد غيلمور، أن يسأل السير بيرسيفال عن ذلك.'"
+    },
+    {
+      "id": 114,
+      "text": "The next day, I returned to London.",
+      "translation": "في اليوم التالي، عدت إلى لندن."
+    },
+    {
+      "id": 115,
+      "text": "My narrative ends here, at the end of the happiest period in my life.",
+      "translation": "تنتهي روايتي هنا، في نهاية أسعد فترة في حياتي."
+    },
+    {
+      "id": 116,
+      "text": "3. Vincent Gilmore's narrative",
+      "translation": "3. رواية فينسنت غيلمور"
+    },
+    {
+      "id": 117,
+      "text": "I, Vincent Gilmore, am Laura Fairlie's lawyer.",
+      "translation": "أنا، فينسنت غيلمور، محامي لورا فيرلي."
+    },
+    {
+      "id": 118,
+      "text": "I arrived at Limmeridge House on the second of November.",
+      "translation": "وصلت إلى منزل ليمريدج في الثاني من نوفمبر."
+    },
+    {
+      "id": 119,
+      "text": "I had dinner with Miss Halcombe, Miss Fairlie, and Mr Hartright, their drawing teacher.",
+      "translation": "تناولت العشاء مع الآنسة هالكومب، والآنسة فيرلي، والسيد هارتريت، مدرس الرسم الخاص بهما."
+    },
+    {
+      "id": 120,
+      "text": "They all seemed sad.",
+      "translation": "بدا جميعهم حزينين."
+    },
+    {
+      "id": 121,
+      "text": "The next morning, Mr Hartright left for London.",
+      "translation": "في صباح اليوم التالي، غادر السيد هارتريت إلى لندن."
+    },
+    {
+      "id": 122,
+      "text": "After lunch, Miss Halcombe told me about Mr Hartright's adventure on Hampstead Heath and her mother's letter describing Anne Catherick.",
+      "translation": "بعد الغداء، أخبرتني الآنسة هالكومب عن مغامرة السيد هارتريت في هامبستيد هيث ورسالة والدتها التي تصف آن كاثريك."
+    },
+    {
+      "id": 123,
+      "text": "She explained Mr Hartright's concern that Sir Percival Glyde might be the aristocrat the woman in white had talked about.",
+      "translation": "شرحت قلق السيد هارتريت من أن السير بيرسيفال غلايد قد يكون الأرستقراطي الذي تحدثت عنه المرأة ذات الثوب الأبيض."
+    },
+    {
+      "id": 124,
+      "text": "She also showed me an anonymous letter that her sister had received that morning:",
+      "translation": "كما أرتني خطاباً مجهولاً كانت أختها قد تلقيته في ذلك الصباح:"
+    },
+    {
+      "id": 125,
+      "text": "Dear Miss Fairlie,",
+      "translation": "عزيزتي الآنسة فيرلي،"
+    },
+    {
+      "id": 126,
+      "text": "I hear that you are going to marry Sir Percival Glyde. Do not do it! He is an evil man. Please believe me. Your mother was very kind to me, so you and your happiness are important to me.",
+      "translation": "سمعت أنك ستتزوجين السير بيرسيفال غلايد. لا تفعلي ذلك! إنه رجل شرير. أرجوك صدقيني. كانت والدتك لطيفة جداً معي، لذا أنت وسعادتك مهمتان بالنسبة لي."
+    },
+    {
+      "id": 127,
+      "text": "I made a copy of the letter and sent it to Sir Percival's lawyer, asking for an explanation.",
+      "translation": "قمت بعمل نسخة من الخطاب وأرسلتها إلى محامي السير بيرسيفال، طالباً توضيحاً."
+    },
+    {
+      "id": 128,
+      "text": "On Monday, Sir Percival arrived at Limmeridge House.",
+      "translation": "في يوم الاثنين، وصل السير بيرسيفال إلى منزل ليمريدج."
+    },
+    {
+      "id": 129,
+      "text": "He is a charming man of about forty-five years old.",
+      "translation": "إنه رجل ساحر يبلغ من العمر حوالي خمسة وأربعين عاماً."
+    },
+    {
+      "id": 130,
+      "text": "He treated Miss Halcombe like an old friend, was polite and friendly to me, and treated Miss Fairlie with tenderness and respect.",
+      "translation": "عامل الآنسة هالكومب كصديقة قديمة، وكان مهذباً وودوداً معي، وعامل الآنسة فيرلي بحنان واحترام."
+    },
+    {
+      "id": 131,
+      "text": "He was obviously concerned about her pale face and sad expression.",
+      "translation": "كان من الواضح أنه قلق بشأن وجهها الشاحب وتعبيرها الحزين."
+    },
+    {
+      "id": 132,
+      "text": "Miss Fairlie seemed to be uncomfortable in his company and left us soon after dinner.",
+      "translation": "بدت الآنسة فيرلي غير مرتاحة في صحبته وتركتنا بعد العشاء بفترة وجيزة."
+    },
+    {
+      "id": 133,
+      "text": "Sir Percival then turned to Miss Halcombe and said, 'My lawyer sent me the copy of that letter. I'm not surprised that it made you worry, but I can explain everything.'",
+      "translation": "ثم استدار السير بيرسيفال إلى الآنسة هالكومب وقال: 'أرسل لي محاميّ نسخة من ذلك الخطاب. لست مندهشاً من أنه أثار قلقك، لكنني أستطيع شرح كل شيء.'"
+    },
+    {
+      "id": 134,
+      "text": "His manner was open and honest.",
+      "translation": "كانت طريقته منفتحة وصادقة."
+    },
+    {
+      "id": 135,
+      "text": "He told us that Mrs Catherick, Anne's mother, had been a servant in his family for many years before leaving to get married.",
+      "translation": "أخبرنا أن السيدة كاثريك، والدة آن، كانت خادمة في عائلته لسنوات عديدة قبل أن تترك العمل لتتزوج."
+    },
+    {
+      "id": 136,
+      "text": "Years later, Sir Percival heard that her husband had abandoned her and her daughter was mentally disturbed.",
+      "translation": "بعد سنوات، سمع السير بيرسيفال أن زوجها تخلى عنها وأن ابنتها مضطربة عقلياً."
+    },
+    {
+      "id": 137,
+      "text": "He wanted to do something to help the poor woman.",
+      "translation": "أراد فعل شيء لمساعدة المرأة المسكينة."
+    },
+    {
+      "id": 138,
+      "text": "Mrs Catherick told him that she wanted to put Anne in a private asylum, but she did not have enough money.",
+      "translation": "أخبرته السيدة كاثريك أنها تريد وضع آن في مصحّ خاص، لكنها لم تكن تملك ما يكفي من المال."
+    },
+    {
+      "id": 139,
+      "text": "Sir Percival offered to pay.",
+      "translation": "عرض السير بيرسيفال الدفع."
+    },
+    {
+      "id": 140,
+      "text": "Years later, when Anne discovered this, she considered him responsible and developed a passionate hatred for him.",
+      "translation": "بعد سنوات، عندما اكتشفت آن هذا، اعتبرته مسؤولاً وطورت كرهاً شديداً له."
+    },
+    {
+      "id": 141,
+      "text": "This explanation seemed satisfactory to me, but Miss Halcombe still looked concerned.",
+      "translation": "بدا هذا التفسير مرضياً لي، لكن الآنسة هالكومب لا تزال تبدو قلقة."
+    },
+    {
+      "id": 142,
+      "text": "'Please, Miss Halcombe,' said Sir Percival, 'write to Mrs Catherick and ask her to confirm my explanation.'",
+      "translation": "'من فضلك يا آنسة هالكومب،' قال السير بيرسيفال، 'اكتبي إلى السيدة كاثريك واطلبي منها تأكيد تفسيري.'"
+    },
+    {
+      "id": 143,
+      "text": "Miss Halcombe wrote a brief letter, Sir Percival wrote the address on the envelope, and a servant posted it.",
+      "translation": "كتبت الآنسة هالكومب خطاباً موجزاً، وكتب السير بيرسيفال العنوان على المغلف، وقام خادم بإرساله."
+    },
+    {
+      "id": 144,
+      "text": "Two days later, Miss Halcombe received a reply:",
+      "translation": "بعد يومين، تلقت الآنسة هالكومب رداً:"
+    },
+    {
+      "id": 145,
+      "text": "Madam,",
+      "translation": "سيدتي،"
+    },
+    {
+      "id": 146,
+      "text": "My daughter was put into a private asylum with my knowledge and approval. Sir Percival Glyde very kindly paid for the asylum, and I thank him for that.",
+      "translation": "تم وضع ابنتي في مصحّ خاص بعلمي وموافقتي. تفضل السير بيرسيفال غلايد مشكوراً بدفع تكاليف المصحّ، وأنا أشكره على ذلك."
+    },
+    {
+      "id": 147,
+      "text": "Yours truly,",
+      "translation": "المخلصة،"
+    },
+    {
+      "id": 148,
+      "text": "Jane Catherick (Anne's mother)",
+      "translation": "جين كاثريك (والدة آن)"
+    },
+    {
+      "id": 149,
+      "text": "On my last day at Limmeridge House, I talked to Miss Fairlie, explaining the details of her father's will.",
+      "translation": "في يومي الأخير في منزل ليمريدج، تحدثت مع الآنسة فيرلي، موضحاً تفاصيل وصية والدها."
+    },
+    {
+      "id": 150,
+      "text": "'Next March, on your twenty-first birthday, you'll inherit thirty thousand pounds. If you die before your aunt Eleanor - Madame Fosco - she'll inherit ten thousand pounds of that money. You must now write a will saying who you wish to leave the other twenty thousand pounds to when you die.'",
+      "translation": "'في مارس القادم، في عيد ميلادك الحادي والعشرين، سترثين ثلاثين ألف جنيه. إذا متِ قبل عمتك إليانور - مدام فوسكو - فإنها سترث عشرة آلاف جنيه من ذلك المال. يجب عليك الآن كتابة وصية تحددين فيها لمن تريدين ترك العشرين ألف جنيه الأخرى عند وفاتك.'"
+    },
+    {
+      "id": 151,
+      "text": "'Can I leave it to Marian?' asked Miss Fairlie.",
+      "translation": "'هل يمكنني تركها لماريان؟' سألت الآنسة فيرلي."
+    },
+    {
+      "id": 152,
+      "text": "'All of it? Is there no one else you wish to include in your will?'",
+      "translation": "'كلها؟ هل لا يوجد شخص آخر تريدين تضمينه في وصيتك؟'"
+    },
+    {
+      "id": 153,
+      "text": "'Yes, there is someone,' she said in a trembling voice, and she burst into tears.",
+      "translation": "'نعم، هناك شخص ما،' قالت بصوت مرتجف، وانفجرت في البكاء."
+    },
+    {
+      "id": 154,
+      "text": "'Don't cry, my dear,' I said. 'We'll discuss the details another time, when you're feeling better.'",
+      "translation": "'لا تبكي يا عزيزتي،' قلت. 'سنناقش التفاصيل في وقت آخر، عندما تشعرين بتحسن.'"
+    },
+    {
+      "id": 155,
+      "text": "I returned to London and wrote Laura Fairlie's marriage settlement.",
+      "translation": "عدت إلى لندن وكتبت عقد زواج لورا فيرلي."
+    },
+    {
+      "id": 156,
+      "text": "Her father had been my good friend, and his daughter was like a daughter to me.",
+      "translation": "كان والدها صديقي العزيز، وكانت ابنته مثل ابنتي."
+    },
+    {
+      "id": 157,
+      "text": "I wanted to make the best marriage settlement I could in order to protect her interests, if Laura Fairlie dies, I wrote, 'the twenty thousand pounds will be left according to her will.'",
+      "translation": "أردت وضع أفضل عقد زواج ممكن لحماية مصالحها، فكتبت: 'إذا ماتت لورا فيرلي، ستُترك العشرون ألف جنيه وفقاً لوصيتها.'"
+    },
+    {
+      "id": 158,
+      "text": "That evening, I sent the settlement to Sir Percival's lawyer.",
+      "translation": "في ذلك المساء، أرسلت العقد إلى محامي السير بيرسيفال."
+    },
+    {
+      "id": 159,
+      "text": "The next day, it was returned to me.",
+      "translation": "في اليوم التالي، أُعيد إليّ."
+    },
+    {
+      "id": 160,
+      "text": "In the margin, by my statement about the twenty thousand pounds, the lawyer had written, 'No - if Laura Fairlie dies, Sir Percival will inherit the twenty thousand pounds.'",
+      "translation": "في الهامش، بجانب بياني عن العشرين ألف جنيه، كتب المحامي: 'لا - إذا ماتت لورا فيرلي، سيرث السير بيرسيفال العشرين ألف جنيه.'"
+    },
+    {
+      "id": 161,
+      "text": "I knew that Sir Percival had many debts.",
+      "translation": "كنت أعلم أن السير بيرسيفال لديه ديون كثيرة."
+    },
+    {
+      "id": 162,
+      "text": "This worried me, so I wrote to Mr Frederick Fairlie and explained the situation.",
+      "translation": "أقلقني هذا، فكتبت إلى السيد فريدريك فيرلي وشرحت الموقف."
+    },
+    {
+      "id": 163,
+      "text": "I told him not to sign the settlement unless the part about the twenty thousand pounds remained as I had first written it.",
+      "translation": "أخبرته ألا يوقّع العقد إلا إذا بقي الجزء المتعلق بالعشرين ألف جنيه كما كتبته أولاً."
+    },
+    {
+      "id": 164,
+      "text": "The next day I received his reply:",
+      "translation": "في اليوم التالي تلقيت رده:"
+    },
+    {
+      "id": 165,
+      "text": "My dear Gilmore,",
+      "translation": "عزيزي غيلمور،"
+    },
+    {
+      "id": 166,
+      "text": "I am too ill to argue with Sir Percival. Please agree to whatever changes he wants to make in the marriage settlement.",
+      "translation": "أنا مريض جداً بحيث لا أستطيع الجدال مع السير بيرسيفال. من فضلك وافق على أي تغييرات يريد إجراؤها في عقد الزواج."
+    },
+    {
+      "id": 167,
+      "text": "Yours truly,",
+      "translation": "المخلص،"
+    },
+    {
+      "id": 168,
+      "text": "Frederick Fairlie",
+      "translation": "فريدريك فيرلي"
+    },
+    {
+      "id": 169,
+      "text": "This letter made me very angry.",
+      "translation": "أغضبني هذا الخطاب جداً."
+    },
+    {
+      "id": 170,
+      "text": "The man was too lazy to look after the interests of his own niece!",
+      "translation": "كان الرجل كسولاً جداً بحيث لا يهتم بمصالح ابنة شقيقه!"
+    },
+    {
+      "id": 171,
+      "text": "I went to Limmeridge the next day and told him that no one should sign a marriage settlement like this - it gave the husband a large financial interest in the death of his wife!",
+      "translation": "ذهبت إلى ليمريدج في اليوم التالي وأخبرته أنه لا ينبغي لأحد أن يوقّع عقد زواج كهذا - فهو يمنح الزوج مصلحة مالية كبيرة في وفاة زوجته!"
+    },
+    {
+      "id": 172,
+      "text": "But Mr Fairlie did not want to listen.",
+      "translation": "لكن السيد فيرلي لم يرد الاستماع."
+    },
+    {
+      "id": 173,
+      "text": "He closed his eyes and asked me to leave him in peace.",
+      "translation": "أغمض عينيه وطلب مني أن أتركه بسلام."
+    },
+    {
+      "id": 174,
+      "text": "Chapter Three",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 175,
+      "text": "Blackwater Park",
+      "translation": "حديقة بلاكووتر"
+    },
+    {
+      "id": 176,
+      "text": "4. Marian Halcombe's narrative (extracts from her diary)",
+      "translation": "4. رواية ماريان هالكومب (مقتطفات من مذكراتها)"
+    },
+    {
+      "id": 177,
+      "text": "Limmeridge House, Cumberland 8 November",
+      "translation": "منزل ليمريدج، كمبرلاند 8 نوفمبر"
+    },
+    {
+      "id": 178,
+      "text": "The date of the wedding is the twenty-second of December of this year.",
+      "translation": "تاريخ الزفاف هو الثاني والعشرون من ديسمبر من هذا العام."
+    },
+    {
+      "id": 179,
+      "text": "The married couple will go to Italy for the winter months.",
+      "translation": "سيسافر الزوجان إلى إيطاليا لأشهر الشتاء."
+    },
+    {
+      "id": 180,
+      "text": "When they return - with Sir Percival's friend Count Fosco and his wife (Laura's aunt Eleanor) - will go to live with them in Hampshire.",
+      "translation": "عندما يعودون - مع صديق السير بيرسيفال الكونت فوسكو وزوجته (عمة لورا إليانور) - سيعيشون معهم في هامبشاير."
+    },
+    {
+      "id": 181,
+      "text": "Laura asked Sir Percival if I could, and he very kindly agreed.",
+      "translation": "سألت لورا السير بيرسيفال إذا كان بإمكاني المجيء، فوافق بلطف شديد."
+    },
+    {
+      "id": 182,
+      "text": "Sir Percival has noticed that Laura seems unhappy in his company.",
+      "translation": "لاحظ السير بيرسيفال أن لورا تبدو غير سعيدة في صحبته."
+    },
+    {
+      "id": 183,
+      "text": "This morning he spoke to me, and this afternoon I told Laura what he had said: 'He was very generous. He said that if you want to break your engagement, you can.'",
+      "translation": "تحدث معي هذا الصباح، وبعد ظهر هذا اليوم أخبرت لورا بما قال: 'كان كريماً جداً. قال إنه إذا كنت تريدين فسخ خطبتك، يمكنك ذلك.'"
+    },
+    {
+      "id": 184,
+      "text": "'I can never break my engagement,' said Laura. 'It was my father's dying wish that I marry Sir Percival. But I can tell him that I love someone else. Then, perhaps, he'll break the engagement himself.'",
+      "translation": "'لا يمكنني أبداً فسخ خطبتي،' قالت لورا. 'كانت أمنية والدي وهو يحتضر أن أتزوج السير بيرسيفال. لكن يمكنني إخباره أنني أحب شخصاً آخر. ثم، ربما، سيفسخ الخطوبة بنفسه.'"
+    },
+    {
+      "id": 185,
+      "text": "Suddenly she seemed the stronger sister: she would not change her mind.",
+      "translation": "فجأة بدت الأخت الأقوى: لم تغير رأيها."
+    },
+    {
+      "id": 186,
+      "text": "After dinner, Laura explained to Sir Percival that she loved someone else.",
+      "translation": "بعد العشاء، شرحت لورا للسير بيرسيفال أنها تحب شخصاً آخر."
+    },
+    {
+      "id": 187,
+      "text": "She told him he was free to break the engagement.",
+      "translation": "أخبرته أنه حر في فسخ الخطوبة."
+    },
+    {
+      "id": 188,
+      "text": "'After what you've just said, I want to marry you more than ever,' said Sir Percival. 'You've been so honest that I value you even more than I did before.'",
+      "translation": "'بعد ما قلته للتو، أريد الزواج بك أكثر من أي وقت مضى،' قال السير بيرسيفال. 'لقد كنتِ صادقة جداً لدرجة أنني أقدّرك أكثر مما كنت من قبل.'"
+    },
+    {
+      "id": 189,
+      "text": "Laura's eyes filled with tears. 'If you insist on our marriage, I'll be your faithful wife,' she said, 'but I'll never love you!'",
+      "translation": "امتلأت عينا لورا بالدموع. 'إذا أصررت على زواجنا، سأكون زوجتك المخلصة،' قالت، 'لكنني لن أحبك أبداً!'"
+    },
+    {
+      "id": 190,
+      "text": "'I'll be satisfied with that,' he said gently, and left the room.",
+      "translation": "'سأكتفي بذلك،' قال بلطف، وغادر الغرفة."
+    },
+    {
+      "id": 191,
+      "text": "After he had gone, Laura gave me a book of drawings that Mr Hartright had given her.",
+      "translation": "بعد أن ذهب، أعطتني لورا دفتراً من الرسومات كان السيد هارتريت قد أعطاها إياه."
+    },
+    {
+      "id": 192,
+      "text": "'Marian, you must keep it now,' she said. 'If I die, please tell Walter that I loved him!'",
+      "translation": "'ماريان، يجب أن تحتفظي به الآن،' قالت. 'إذا مت، أرجوك أخبري والتر أنني أحببته!'"
+    },
+    {
+      "id": 193,
+      "text": "Then she put her head on my shoulder and burst into tears.",
+      "translation": "ثم وضعت رأسها على كتفي وانفجرت في البكاء."
+    },
+    {
+      "id": 194,
+      "text": "Sir Percival is a good-looking, charming and friendly man.",
+      "translation": "السير بيرسيفال رجل وسيم وساحر وودود."
+    },
+    {
+      "id": 195,
+      "text": "His actions towards Anne Catherick and her mother have been generous.",
+      "translation": "كانت تصرفاته تجاه آن كاثريك ووالدتها كريمة."
+    },
+    {
+      "id": 196,
+      "text": "I cannot even blame him for not breaking his engagement this evening.",
+      "translation": "لا أستطيع حتى لومه على عدم فسخ خطوبته هذا المساء."
+    },
+    {
+      "id": 197,
+      "text": "Sir Percival is certainly an admirable man - and yet, in three words, I hate him!",
+      "translation": "السير بيرسيفال بالتأكيد رجل يستحق الإعجاب - ومع ذلك، بثلاث كلمات، أنا أكرهه!"
+    },
+    {
+      "id": 198,
+      "text": "28 November",
+      "translation": "28 نوفمبر"
+    },
+    {
+      "id": 199,
+      "text": "Our dear friend Walter has gone to Central America.",
+      "translation": "صديقنا العزيز والتر ذهب إلى أمريكا الوسطى."
+    },
+    {
+      "id": 200,
+      "text": "He wrote to me, asking me to use my contacts to find him a job in a distant country.",
+      "translation": "كتب إليّ، طالباً مني استخدام معارفي لإيجاد عمل له في بلد بعيد."
+    },
+    {
+      "id": 201,
+      "text": "I knew of a scientific expedition to Honduras.",
+      "translation": "كنت أعرف ببعثة علمية إلى هندوراس."
+    },
+    {
+      "id": 202,
+      "text": "They needed someone to draw the plants and animals they found there.",
+      "translation": "كانوا بحاجة إلى شخص لرسم النباتات والحيوانات التي يجدونها هناك."
+    },
+    {
+      "id": 203,
+      "text": "I recommended Walter, and now he has gone.",
+      "translation": "أوصيت بوالتر، والآن ذهب."
+    },
+    {
+      "id": 204,
+      "text": "22 December",
+      "translation": "22 ديسمبر"
+    },
+    {
+      "id": 205,
+      "text": "They are married!",
+      "translation": "لقد تزوجا!"
+    },
+    {
+      "id": 206,
+      "text": "My dear sister has gone!",
+      "translation": "أختي العزيزة ذهبت!"
+    },
+    {
+      "id": 207,
+      "text": "I am crying so much I cannot write anymore.",
+      "translation": "أنا أبكي كثيراً لدرجة أنني لا أستطيع الكتابة بعد الآن."
+    },
+    {
+      "id": 208,
+      "text": "[Six months later]",
+      "translation": "[بعد ستة أشهر]"
+    },
+    {
+      "id": 209,
+      "text": "Blackwater Park, Hampshire",
+      "translation": "حديقة بلاكووتر، هامبشاير"
+    },
+    {
+      "id": 210,
+      "text": "15 June 1850",
+      "translation": "15 يونيو 1850"
+    },
+    {
+      "id": 211,
+      "text": "Six lonely months have passed, and I am with dear Laura once more, but we now live at Blackwater Park, Sir Percival's house in Hampshire.",
+      "translation": "مرت ستة أشهر وحيدة، وأنا مع لورا العزيزة مرة أخرى، لكننا نعيش الآن في حديقة بلاكووتر، منزل السير بيرسيفال في هامبشاير."
+    },
+    {
+      "id": 212,
+      "text": "It is a big old house, surrounded by trees.",
+      "translation": "إنه منزل كبير قديم، محاط بالأشجار."
+    },
+    {
+      "id": 213,
+      "text": "I find it dark and depressing.",
+      "translation": "أجده مظلماً وكئيباً."
+    },
+    {
+      "id": 214,
+      "text": "I arrived here a few days ago.",
+      "translation": "وصلت إلى هنا قبل بضعة أيام."
+    },
+    {
+      "id": 215,
+      "text": "Sir Percival, Laura, Count Fosco, and Madame Fosco arrived yesterday.",
+      "translation": "وصل السير بيرسيفال ولورا والكونت فوسكو ومدام فوسكو أمس."
+    },
+    {
+      "id": 216,
+      "text": "Laura has changed in the last six months.",
+      "translation": "تغيرت لورا في الأشهر الستة الماضية."
+    },
+    {
+      "id": 217,
+      "text": "I noticed it in her letters, and now I see it in her face.",
+      "translation": "لاحظته في خطاباتها، والآن أراه في وجهها."
+    },
+    {
+      "id": 218,
+      "text": "That honest, open look has gone.",
+      "translation": "تلك النظرة الصادقة المنفتحة ذهبت."
+    },
+    {
+      "id": 219,
+      "text": "There are things now that she will not discuss with me - her husband, her married life - but before we kept no secrets from each other.",
+      "translation": "هناك أشياء الآن لا تريد مناقشتها معي - زوجها، حياتها الزوجية - لكن قبل ذلك لم نكن نخفي أسراراً عن بعضنا."
+    },
+    {
+      "id": 220,
+      "text": "Sir Percival has changed too.",
+      "translation": "تغير السير بيرسيفال أيضاً."
+    },
+    {
+      "id": 221,
+      "text": "At Limmeridge, he was always friendly, but when he saw me yesterday he was cold.",
+      "translation": "في ليمريدج، كان دائماً ودوداً، لكن عندما رآني أمس كان بارداً."
+    },
+    {
+      "id": 222,
+      "text": "His manner towards Laura has changed: he does not look at her with tender interest anymore.",
+      "translation": "تغيرت طريقته تجاه لورا: لم يعد ينظر إليها باهتمام حنون."
+    },
+    {
+      "id": 223,
+      "text": "Madame Fosco is different from the Eleanor Fairlie I once knew.",
+      "translation": "مدام فوسكو مختلفة عن إليانور فيرلي التي عرفتها ذات مرة."
+    },
+    {
+      "id": 224,
+      "text": "Eleanor Fairlie was an irritating woman who talked too much and wore expensive clothes.",
+      "translation": "كانت إليانور فيرلي امرأة مزعجة تتحدث كثيراً وترتدي ملابس باهظة الثمن."
+    },
+    {
+      "id": 225,
+      "text": "Now she dresses very simply and sits silently, rolling cigarettes for her husband.",
+      "translation": "الآن ترتدي ملابس بسيطة جداً وتجلس صامتة، تلف السجائر لزوجها."
+    },
+    {
+      "id": 226,
+      "text": "And her husband? What can I say of Count Fosco?",
+      "translation": "وزوجها؟ ماذا يمكنني أن أقول عن الكونت فوسكو؟"
+    },
+    {
+      "id": 227,
+      "text": "He has certainly tamed his wife, and he looks like a man who could tame a tiger.",
+      "translation": "لقد روّض زوجته بالتأكيد، ويبدو كرجل يمكنه ترويض نمر."
+    },
+    {
+      "id": 228,
+      "text": "He interests and attracts me; he forces me to like him.",
+      "translation": "إنه يثير اهتمامي ويجذبني؛ يجبرني على الإعجاب به."
+    },
+    {
+      "id": 229,
+      "text": "He is enormously fat, and his face looks like Napoleon's.",
+      "translation": "إنه سمين للغاية، ووجهه يشبه وجه نابليون."
+    },
+    {
+      "id": 230,
+      "text": "He has intelligent grey eyes; when I look into them, I feel things that I do not want to feel.",
+      "translation": "لديه عيون رمادية ذكية؛ عندما أنظر فيها، أشعر بأشياء لا أريد أن أشعر بها."
+    },
+    {
+      "id": 231,
+      "text": "He speaks English fluently with no accent.",
+      "translation": "يتحدث الإنجليزية بطلاقة وبدون لكنة."
+    },
+    {
+      "id": 232,
+      "text": "He tells me that he left Italy a long time ago, for political reasons.",
+      "translation": "يخبرني أنه غادر إيطاليا منذ زمن طويل، لأسباب سياسية."
+    },
+    {
+      "id": 233,
+      "text": "The Count has been Sir Percival's friend for years.",
+      "translation": "كان الكونت صديق السير بيرسيفال لسنوات."
+    },
+    {
+      "id": 234,
+      "text": "They first met in Rome.",
+      "translation": "التقيا أول مرة في روما."
+    },
+    {
+      "id": 235,
+      "text": "Percival was attacked by thieves, and Count Fosco saved his life.",
+      "translation": "هوجم بيرسيفال من قبل لصوص، فأنقذ الكونت فوسكو حياته."
+    },
+    {
+      "id": 236,
+      "text": "The Count's influence over Percival is much stronger than Laura's.",
+      "translation": "تأثير الكونت على بيرسيفال أقوى بكثير من تأثير لورا."
+    },
+    {
+      "id": 237,
+      "text": "I have never before met a man like Count Fosco.",
+      "translation": "لم أقابل من قبل رجلاً مثل الكونت فوسكو."
+    },
+    {
+      "id": 238,
+      "text": "I am very glad he is not my enemy, but is this because I like him or because I am afraid of him?",
+      "translation": "أنا سعيدة جداً أنه ليس عدوي، لكن هل هذا لأنني أحبه أم لأنني أخافه؟"
+    },
+    {
+      "id": 239,
+      "text": "16 June",
+      "translation": "16 يونيو"
+    },
+    {
+      "id": 240,
+      "text": "This morning Sir Percival's lawyer came to see him.",
+      "translation": "هذا الصباح جاء محامي السير بيرسيفال لرؤيته."
+    },
+    {
+      "id": 241,
+      "text": "As I was walking to my room, I heard them talking.",
+      "translation": "وبينما كنت أسير إلى غرفتي، سمعتهما يتحدثان."
+    },
+    {
+      "id": 242,
+      "text": "'Don't worry,' said the lawyer. 'If your wife signs the document, everything will be all right. If not -'",
+      "translation": "'لا تقلق،' قال المحامي. 'إذا وقعت زوجتك الوثيقة، سيكون كل شيء على ما يرام. وإلا -'"
+    },
+    {
+      "id": 243,
+      "text": "'Of course she'll sign the document,' said Sir Percival angrily.",
+      "translation": "'بالطبع ستوقّع الوثيقة،' قال السير بيرسيفال بغضب."
+    },
+    {
+      "id": 244,
+      "text": "I went to Laura's room and told her what I had heard.",
+      "translation": "ذهبت إلى غرفة لورا وأخبرتها بما سمعت."
+    },
+    {
+      "id": 245,
+      "text": "'I know that Percival has debts,' she said, 'but I won't sign anything without reading it first.'",
+      "translation": "'أعلم أن بيرسيفال لديه ديون،' قالت، 'لكنني لن أوقّع أي شيء دون قراءته أولاً.'"
+    },
+    {
+      "id": 246,
+      "text": "After lunch, Sir Percival said, 'Will you sign this, Laura? It's just a formality. Miss Halcombe and Count Fosco, will you be our witnesses?'",
+      "translation": "بعد الغداء، قال السير بيرسيفال: 'هل ستوقّعين هذا يا لورا؟ إنه مجرد إجراء شكلي. آنسة هالكومب والكونت فوسكو، هل ستكونان شاهدينا؟'"
+    },
+    {
+      "id": 247,
+      "text": "He folded the document and placed it on the desk with his hand resting on the folded part.",
+      "translation": "طوى الوثيقة ووضعها على المكتب ويده مستندة على الجزء المطوي."
+    },
+    {
+      "id": 248,
+      "text": "The only part of the document that was visible was the line for her signature and the lines for the signatures of the two witnesses.",
+      "translation": "الجزء الوحيد المرئي من الوثيقة كان السطر المخصص لتوقيعها والسطور المخصصة لتوقيعي الشاهدين."
+    },
+    {
+      "id": 249,
+      "text": "'Sign your name here,' he said.",
+      "translation": "'وقّعي اسمك هنا،' قال."
+    },
+    {
+      "id": 250,
+      "text": "'What is the document about?' asked Laura.",
+      "translation": "'ما هي هذه الوثيقة؟' سألت لورا."
+    },
+    {
+      "id": 251,
+      "text": "'I've no time to explain,' said Sir Percival. 'A carriage is waiting for me outside. I have to go away on urgent business. Come on. Sign it.'",
+      "translation": "'ليس لدي وقت للشرح،' قال السير بيرسيفال. 'عربة تنتظرني بالخارج. يجب أن أذهب في عمل عاجل. هيا. وقّعيها.'"
+    },
+    {
+      "id": 252,
+      "text": "'I can't sign it unless I've read it. Mr Gilmore always asked me to read documents before I signed them.'",
+      "translation": "'لا يمكنني توقيعها إلا إذا قرأتها. كان السيد غيلمور دائماً يطلب مني قراءة الوثائق قبل التوقيع عليها.'"
+    },
+    {
+      "id": 253,
+      "text": "'Gilmore was your servant, I'm your husband. Don't you trust me?' cried Sir Percival angrily.",
+      "translation": "'غيلمور كان خادمك، أنا زوجك. ألا تثقين بي؟' صرخ السير بيرسيفال بغضب."
+    },
+    {
+      "id": 254,
+      "text": "'It's not fair to say I don't trust you,' said Laura. 'Ask Marian if she thinks I should read the document first.'",
+      "translation": "'ليس من العدل أن تقول إنني لا أثق بك،' قالت لورا. 'اسأل ماريان إذا كانت تعتقد أنني يجب أن أقرأ الوثيقة أولاً.'"
+    },
+    {
+      "id": 255,
+      "text": "'It's none of Miss Halcombe's business!' said Sir Percival.",
+      "translation": "'هذا ليس من شأن الآنسة هالكومب!' قال السير بيرسيفال."
+    },
+    {
+      "id": 256,
+      "text": "'Excuse me,' I said, 'but, as a witness to the signature, it is my business. Laura's objection seems to be fair to me. I can't be a witness unless Laura understands what she's signing.'",
+      "translation": "'عفواً،' قلت، 'لكن، بصفتي شاهداً على التوقيع، هذا من شأني. اعتراض لورا يبدو عادلاً بالنسبة لي. لا يمكنني أن أكون شاهداً إلا إذا فهمت لورا ما توقّعه.'"
+    },
+    {
+      "id": 257,
+      "text": "'What disrespect!' cried Sir Percival. 'You're just a guest in this house!'",
+      "translation": "'يا لقلة الاحترام!' صرخ السير بيرسيفال. 'أنت مجرد ضيفة في هذا المنزل!'"
+    },
+    {
+      "id": 258,
+      "text": "I wanted to hit him, but I was only a woman, and I loved his wife so dearly!",
+      "translation": "أردت ضربه، لكنني كنت مجرد امرأة، وأحببت زوجته كثيراً!"
+    },
+    {
+      "id": 259,
+      "text": "'Percival!' said the Count. 'Remember you are in the company of ladies!'",
+      "translation": "'بيرسيفال!' قال الكونت. 'تذكر أنك في صحبة سيدات!'"
+    },
+    {
+      "id": 260,
+      "text": "They looked at each other, and Sir Percival was the first to look away.",
+      "translation": "نظر كل منهما إلى الآخر، وكان السير بيرسيفال أول من أشاح بنظره."
+    },
+    {
+      "id": 261,
+      "text": "Those cool grey eyes had tamed him.",
+      "translation": "تلك العيون الرمادية الباردة روّضته."
+    },
+    {
+      "id": 262,
+      "text": "'I don't want to offend anybody,' he said. 'Just sign the document, will you?'",
+      "translation": "'لا أريد إهانة أي شخص،' قال. 'فقط وقّعي الوثيقة، أرجوك؟'"
+    },
+    {
+      "id": 263,
+      "text": "'I'll happily sign when I know what's in it,' said Laura. 'I'll make any sacrifice, so long as it's honest. I simply think it's wrong to sign a document I haven't read.'",
+      "translation": "'سأوقّع بكل سرور عندما أعرف ما بداخلها،' قالت لورا. 'سأقدم أي تضحية، طالما أنها شريفة. أعتقد ببساطة أنه من الخطأ توقيع وثيقة لم أقرأها.'"
+    },
+    {
+      "id": 264,
+      "text": "'Who said anything about sacrifice?' cried Sir Percival, furious again. 'And it's strange to hear you talk of right and wrong; a woman who had a passion for her drawing teacher!'",
+      "translation": "'من قال أي شيء عن التضحية؟' صرخ السير بيرسيفال، غاضباً مرة أخرى. 'ومن الغريب أن أسمعك تتحدثين عن الصواب والخطأ؛ امرأة كانت لديها شغف بمدرس الرسم الخاص بها!'"
+    },
+    {
+      "id": 265,
+      "text": "Laura looked at him coldly then turned her back on him.",
+      "translation": "نظرت إليه لورا ببرود ثم أدارت له ظهرها."
+    },
+    {
+      "id": 266,
+      "text": "When I left my chair to go to her, I heard the Count whisper to Sir Percival, 'You idiot!'",
+      "translation": "عندما تركت كرسيي لأذهب إليها، سمعت الكونت يهمس للسير بيرسيفال: 'أيها الأحمق!'"
+    },
+    {
+      "id": 267,
+      "text": "Laura walked towards the door, and I followed her.",
+      "translation": "سارت لورا نحو الباب، وتبعتها."
+    },
+    {
+      "id": 268,
+      "text": "'One moment!' said the Count.",
+      "translation": "'لحظة واحدة!' قال الكونت."
+    },
+    {
+      "id": 269,
+      "text": "Laura continued walking, but I whispered to her, 'Stop! Don't make an enemy of the Count!'",
+      "translation": "واصلت لورا السير، لكنني همست لها: 'توقفي! لا تجعلي الكونت عدواً لك!'"
+    },
+    {
+      "id": 270,
+      "text": "We stopped and waited.",
+      "translation": "توقفنا وانتظرنا."
+    },
+    {
+      "id": 271,
+      "text": "'Percival,' said the Count. 'Can it be signed tomorrow?'",
+      "translation": "'بيرسيفال،' قال الكونت. 'هل يمكن توقيعها غداً؟'"
+    },
+    {
+      "id": 272,
+      "text": "'Yes, I suppose it can.'",
+      "translation": "'نعم، أظن ذلك.'"
+    },
+    {
+      "id": 273,
+      "text": "'Then let's wait until tomorrow.'",
+      "translation": "'إذن لننتظر حتى الغد.'"
+    },
+    {
+      "id": 274,
+      "text": "'All right,' said Sir Percival.",
+      "translation": "'حسناً،' قال السير بيرسيفال."
+    },
+    {
+      "id": 275,
+      "text": "He left the room, went straight to his carriage, and drove away.",
+      "translation": "غادر الغرفة، وذهب مباشرة إلى عربته، وانطلق بعيداً."
+    },
+    {
+      "id": 276,
+      "text": "Chapter Four",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 277,
+      "text": "A Note by the Lake",
+      "translation": "ملاحظة بجانب البحيرة"
+    },
+    {
+      "id": 278,
+      "text": "5. Marian Halcombe's narrative continued",
+      "translation": "5. تكملة رواية ماريان هالكومب"
+    },
+    {
+      "id": 279,
+      "text": "Later on that afternoon, I went for a walk with Laura.",
+      "translation": "في وقت لاحق من ذلك المساء، ذهبت في نزهة سيراً على الأقدام مع لورا."
+    },
+    {
+      "id": 280,
+      "text": "'I can tell you everything now, Marian,' she said. 'After what Percival said to me this morning, I don't feel any obligation to him. At first, just after we were married, I tried not to think of Walter. I tried to be a good wife, but Percival was so cruel! One day in Rome, a lady called Mrs Markland came to visit us. She started talking about drawing. I tried to change the subject, but she went on. She said that her favourite drawing teacher was Mr Hartright. I looked away from her and saw my husband looking at me closely. I suppose my face gave away my secret. Later, when we were alone, he told me he had only married me for my money. After that, I thought about Walter often, especially on the nights when Percival left me alone and went to parties with the people from the opera house.'",
+      "translation": "'يمكنني إخبارك بكل شيء الآن يا ماريان،' قالت. 'بعد ما قاله لي بيرسيفال هذا الصباح، لم أعد أشعر بأي التزام تجاهه. في البداية، بعد زواجنا مباشرة، حاولت ألا أفكر في والتر. حاولت أن أكون زوجة جيدة، لكن بيرسيفال كان قاسياً جداً! في أحد الأيام في روما، جاءت سيدة تدعى السيدة ماركلاند لزيارتنا. بدأت تتحدث عن الرسم. حاولت تغيير الموضوع، لكنها استمرت. قالت إن مدرس الرسم المفضل لديها كان السيد هارتريت. أشحت بنظري عنها ورأيت زوجي ينظر إليّ بتمعن. أظن أن وجهي أظهر سري. لاحقاً، عندما كنا وحدنا، أخبرني أنه تزوجني فقط من أجل مالي. بعد ذلك، فكرت في والتر كثيراً، خاصة في الليالي التي كان يتركني فيها بيرسيفال وحيدة ويذهب إلى حفلات مع أناس من دار الأوبرا.'"
+    },
+    {
+      "id": 281,
+      "text": "I remembered my conversation with Walter that day in the garden with horror.",
+      "translation": "تذكرت محادثتي مع والتر في ذلك اليوم في الحديقة برعب."
+    },
+    {
+      "id": 282,
+      "text": "I had placed myself between those two young lovers!",
+      "translation": "كنت قد وضعت نفسي بين هذين العاشقين الشابين!"
+    },
+    {
+      "id": 283,
+      "text": "It was all my fault!",
+      "translation": "كان كل ذلك خطئي!"
+    },
+    {
+      "id": 284,
+      "text": "Now Walter is thousands of miles away in a foreign country.",
+      "translation": "الآن والتر على بعد آلاف الأميال في بلد أجنبي."
+    },
+    {
+      "id": 285,
+      "text": "His heart is broken, and so is Laura's!",
+      "translation": "قلبه مكسور، وكذلك قلب لورا!"
+    },
+    {
+      "id": 286,
+      "text": "I did this, and I did it for Sir Percival Glyde!",
+      "translation": "أنا فعلت هذا، وفعلته من أجل السير بيرسيفال غلايد!"
+    },
+    {
+      "id": 287,
+      "text": "18 June",
+      "translation": "18 يونيو"
+    },
+    {
+      "id": 288,
+      "text": "Sir Percival returned yesterday just before lunch.",
+      "translation": "عاد السير بيرسيفال أمس قبل الغداء مباشرة."
+    },
+    {
+      "id": 289,
+      "text": "The Count took him for a walk in the garden.",
+      "translation": "أخذه الكونت في نزهة في الحديقة."
+    },
+    {
+      "id": 290,
+      "text": "Later, the Count came to me and said, 'Miss Halcombe, Sir Percival has changed his mind. He won't ask Lady Glyde to sign anything today.'",
+      "translation": "لاحقاً، جاءني الكونت وقال: 'آنسة هالكومب، غير السير بيرسيفال رأيه. لن يطلب من الليدي غلايد توقيع أي شيء اليوم.'"
+    },
+    {
+      "id": 291,
+      "text": "I told Laura the good news, then she went for a walk alone by the lake, and I went to my room.",
+      "translation": "أخبرت لورا بالأخبار السارة، ثم ذهبت في نزهة وحدها بجانب البحيرة، وذهبت إلى غرفتي."
+    },
+    {
+      "id": 292,
+      "text": "An hour later, she came to my room looking agitated.",
+      "translation": "بعد ساعة، جاءت إلى غرفتي وبدت مضطربة."
+    },
+    {
+      "id": 293,
+      "text": "'Marian!' she said. 'I just met Anne Catherick by the lake! She looked ill and talked to me strangely. Marian, she looks like a paler, thinner version of myself! She says that she's dying. She spoke of how kind Mother had been to her and said that she wanted to die and be buried beside Mother. Then she spoke of Percival. How she hates him! She said that her mother had told her a secret - Percival's secret - and when he discovered that Anne knew it, he put her in the asylum.'",
+      "translation": "'ماريان!' قالت. 'لقد قابلت للتو آن كاثريك بجانب البحيرة! بدت مريضة وتحدثت معي بغرابة. ماريان، إنها تشبه نسخة أكثر شحوباً ونحولاً مني! تقول إنها تحتضر. تحدثت عن مدى لطف أمي معها وقالت إنها تريد أن تموت وتُدفن بجانب أمي. ثم تحدثت عن بيرسيفال. كم تكرهه! قالت إن والدتها أخبرتها بسر - سر بيرسيفال - وعندما اكتشف أن آن تعرفه، وضعها في المصحّ.'"
+    },
+    {
+      "id": 294,
+      "text": "Then she suddenly stopped speaking and listened.",
+      "translation": "ثم توقفت فجأة عن الكلام واستمعت."
+    },
+    {
+      "id": 295,
+      "text": "'Did you hear anything?' she asked me.",
+      "translation": "'هل سمعت شيئاً؟' سألتني."
+    },
+    {
+      "id": 296,
+      "text": "I'd heard nothing.",
+      "translation": "لم أسمع شيئاً."
+    },
+    {
+      "id": 297,
+      "text": "Then she said, 'Someone is nearby. It's not safe to talk. Meet me here again tomorrow at the same time,' and she ran away.",
+      "translation": "ثم قالت: 'شخص ما قريب. ليس من الآمن التحدث. قابليني هنا مرة أخرى غداً في نفس الوقت،' وركضت بعيداً."
+    },
+    {
+      "id": 298,
+      "text": "After lunch today, Laura went down to the lake alone again.",
+      "translation": "بعد الغداء اليوم، نزلت لورا إلى البحيرة وحدها مرة أخرى."
+    },
+    {
+      "id": 299,
+      "text": "She waited in the same place.",
+      "translation": "انتظرت في نفس المكان."
+    },
+    {
+      "id": 300,
+      "text": "After some time, she noticed that someone had written the word 'Look' on the ground with a stick.",
+      "translation": "بعد فترة، لاحظت أن أحدهم كتب كلمة 'انظري' على الأرض بعصا."
+    },
+    {
+      "id": 301,
+      "text": "She dug in the earth under the word and found a piece of paper.",
+      "translation": "حفرت في التراب تحت الكلمة ووجدت قطعة ورق."
+    },
+    {
+      "id": 302,
+      "text": "On it, Anne Catherick had written this:",
+      "translation": "عليها، كتبت آن كاثريك هذا:"
+    },
+    {
+      "id": 303,
+      "text": "I was seen with you yesterday by a fat old man. When I ran away, he followed me, but I ran faster than he could. I am afraid to come back this afternoon, so I am leaving you this note at six in the morning. When we speak of your husband's secret, we must be in a safe place, where no one can hear us.",
+      "translation": "رآني معك أمس رجل عجوز سمين. عندما هربت، تبعني، لكنني ركضت أسرع مما يستطيع. أخاف أن أعود بعد ظهر هذا اليوم، لذا أترك لك هذه الملاحظة في السادسة صباحاً. عندما نتحدث عن سر زوجك، يجب أن نكون في مكان آمن، حيث لا يمكن لأحد سماعنا."
+    },
+    {
+      "id": 304,
+      "text": "A. C.",
+      "translation": "أ. ك."
+    },
+    {
+      "id": 305,
+      "text": "As Laura was reading Anne's note, she heard footsteps behind her.",
+      "translation": "وبينما كانت لورا تقرأ ملاحظة آن، سمعت خطوات خلفها."
+    },
+    {
+      "id": 306,
+      "text": "There was Sir Percival, looking furious.",
+      "translation": "كان هناك السير بيرسيفال، يبدو غاضباً."
+    },
+    {
+      "id": 307,
+      "text": "'What did Anne Catherick tell you?' he cried. 'It's no use lying to me. I know you spoke to her yesterday.'",
+      "translation": "'ماذا أخبرتك آن كاثريك؟' صرخ. 'لا فائدة من الكذب عليّ. أعلم أنك تحدثت معها أمس.'"
+    },
+    {
+      "id": 308,
+      "text": "Laura told him everything, but he did not believe her.",
+      "translation": "أخبرته لورا بكل شيء، لكنه لم يصدقها."
+    },
+    {
+      "id": 309,
+      "text": "He was certain that she knew the secret.",
+      "translation": "كان متأكداً أنها تعرف السر."
+    },
+    {
+      "id": 310,
+      "text": "He held her arm so tightly that he left dark bruises on her white skin.",
+      "translation": "أمسك ذراعها بقوة لدرجة أنه ترك كدمات داكنة على بشرتها البيضاء."
+    },
+    {
+      "id": 311,
+      "text": "She showed them to me later, and that made me want to kill him.",
+      "translation": "أرتني إياها لاحقاً، وهذا جعلني أريد قتله."
+    },
+    {
+      "id": 312,
+      "text": "He took her back to the house and shut her in her room.",
+      "translation": "أعادها إلى المنزل وأغلق عليها في غرفتها."
+    },
+    {
+      "id": 313,
+      "text": "'You'll stay there until you tell the truth!' he cried.",
+      "translation": "'ستبقين هناك حتى تخبري بالحقيقة!' صرخ."
+    },
+    {
+      "id": 314,
+      "text": "When I went to see her, I found the room was locked.",
+      "translation": "عندما ذهبت لرؤيتها، وجدت الغرفة مغلقة."
+    },
+    {
+      "id": 315,
+      "text": "Laura told me what had happened through the door.",
+      "translation": "أخبرتني لورا بما حدث من خلال الباب."
+    },
+    {
+      "id": 316,
+      "text": "I went to the drawing-room.",
+      "translation": "ذهبت إلى غرفة الجلوس."
+    },
+    {
+      "id": 317,
+      "text": "There Sir Percival, the Count and Madame Fosco were speaking quietly.",
+      "translation": "هناك كان السير بيرسيفال والكونت ومدام فوسكو يتحدثون بهدوء."
+    },
+    {
+      "id": 318,
+      "text": "I walked up to Percival and said, 'You can't keep your wife as a prisoner in her own house! There are laws in England to protect women from cruelty and injustice!'",
+      "translation": "اقتربت من بيرسيفال وقلت: 'لا يمكنك الاحتفاظ بزوجتك كسجينة في منزلها! هناك قوانين في إنجلترا لحماية النساء من القسوة والظلم!'"
+    },
+    {
+      "id": 319,
+      "text": "'I'll lock you up too, if you threaten me,' he replied.",
+      "translation": "'سأحبسك أنت أيضاً، إذا هددتني،' رد."
+    },
+    {
+      "id": 320,
+      "text": "I felt the Count's cool grey eyes on my face.",
+      "translation": "شعرت بالعيون الرمادية الباردة للكونت على وجهي."
+    },
+    {
+      "id": 321,
+      "text": "Then he turned from me and nodded to his wife.",
+      "translation": "ثم استدار عني وأومأ لزوجته."
+    },
+    {
+      "id": 322,
+      "text": "She came to my side and said, 'Sir Percival, I must leave. I can't stay in a house where women are treated like this.'",
+      "translation": "جاءت إلى جانبي وقالت: 'سير بيرسيفال، يجب أن أغادر. لا أستطيع البقاء في منزل تُعامل فيه النساء بهذه الطريقة.'"
+    },
+    {
+      "id": 323,
+      "text": "Sir Percival looked shocked.",
+      "translation": "بدا السير بيرسيفال مصدوماً."
+    },
+    {
+      "id": 324,
+      "text": "The Count took his wife's arm and said, 'She is simply wonderful! I'm at your service, Eleanor. And at Miss Halcombe's service too.'",
+      "translation": "أخذ الكونت ذراع زوجته وقال: 'إنها رائعة ببساطة! أنا في خدمتك يا إليانور. وفي خدمة الآنسة هالكومب أيضاً.'"
+    },
+    {
+      "id": 325,
+      "text": "'Damn it! What do you mean?' cried Sir Percival.",
+      "translation": "'اللعنة! ماذا تقصد؟' صرخ السير بيرسيفال."
+    },
+    {
+      "id": 326,
+      "text": "'I mean I agree with my wife.'",
+      "translation": "'أعني أنني أتفق مع زوجتي.'"
+    },
+    {
+      "id": 327,
+      "text": "'All right! Do what you want!' said Sir Percival, and he left the room.",
+      "translation": "'حسناً! افعلوا ما تريدون!' قال السير بيرسيفال، وغادر الغرفة."
+    },
+    {
+      "id": 328,
+      "text": "'We've won,' said the Count. 'Lady Glyde will be released from her room.' Then, turning to me, he added, 'Let me express my sincere admiration for your courage.'",
+      "translation": "'لقد فزنا،' قال الكونت. 'سيتم الإفراج عن الليدي غلايد من غرفتها.' ثم، مستديراً إليّ، أضاف: 'دعيني أعبر عن إعجابي الصادق بشجاعتك.'"
+    },
+    {
+      "id": 329,
+      "text": "I went to Laura's room and found the door unlocked.",
+      "translation": "ذهبت إلى غرفة لورا ووجدت الباب مفتوحاً."
+    },
+    {
+      "id": 330,
+      "text": "'Laura, dear,' I said. 'The Count persuaded Percival to unlock your door.'",
+      "translation": "'لورا، عزيزتي،' قلت. 'أقنع الكونت بيرسيفال بفتح بابك.'"
+    },
+    {
+      "id": 331,
+      "text": "'Don't speak of the Count!' cried Laura. 'The Count is a spy!'",
+      "translation": "'لا تتحدثي عن الكونت!' صرخت لورا. 'الكونت جاسوس!'"
+    },
+    {
+      "id": 332,
+      "text": "Just then there was a knock at the door.",
+      "translation": "في تلك اللحظة كان هناك طرق على الباب."
+    },
+    {
+      "id": 333,
+      "text": "I opened it and found Madame Fosco there, holding my handkerchief.",
+      "translation": "فتحته ووجدت مدام فوسكو هناك، تحمل منديلتي."
+    },
+    {
+      "id": 334,
+      "text": "'You dropped this downstairs,' she said.",
+      "translation": "'أسقطتِ هذا في الأسفل،' قالت."
+    },
+    {
+      "id": 335,
+      "text": "Her face was pale, her hand was trembling, and her eyes looked at Laura with hatred.",
+      "translation": "كان وجهها شاحباً، ويدها ترتجف، وعيناها تنظران إلى لورا بكراهية."
+    },
+    {
+      "id": 336,
+      "text": "I realised that she was listening at the door a moment ago.",
+      "translation": "أدركت أنها كانت تتنصت على الباب قبل لحظة."
+    },
+    {
+      "id": 337,
+      "text": "When she was gone, I said, 'Oh, Laura! You shouldn't have called the Count a spy!'",
+      "translation": "عندما ذهبت، قلت: 'أوه، لورا! لم يكن ينبغي أن تسمي الكونت جاسوساً!'"
+    },
+    {
+      "id": 338,
+      "text": "When I left Laura's room and went downstairs, I saw Madame Fosco alone in the drawing-room.",
+      "translation": "عندما غادرت غرفة لورا ونزلت إلى الأسفل، رأيت مدام فوسكو وحدها في غرفة الجلوس."
+    },
+    {
+      "id": 339,
+      "text": "She had never liked Laura.",
+      "translation": "لم تكن تحب لورا أبداً."
+    },
+    {
+      "id": 340,
+      "text": "Laura's father (her brother) had been angry with her for marrying an Italian.",
+      "translation": "كان والد لورا (شقيقها) غاضباً منها لزواجها من إيطالي."
+    },
+    {
+      "id": 341,
+      "text": "She had no money of her own and had to rely on her brother's generosity, but he wasn't generous.",
+      "translation": "لم يكن لديها مال خاص بها وكانت تعتمد على كرم شقيقها، لكنه لم يكن كريماً."
+    },
+    {
+      "id": 342,
+      "text": "And then, instead of leaving ten thousand pounds to his sister directly, he left the money to Laura.",
+      "translation": "وبدلاً من ترك عشرة آلاف جنيه لأخته مباشرة، ترك المال للورا."
+    },
+    {
+      "id": 343,
+      "text": "Madame Fosco would only inherit the money if Laura died before she did.",
+      "translation": "لن ترث مدام فوسكو المال إلا إذا ماتت لورا قبلها."
+    },
+    {
+      "id": 344,
+      "text": "However, since Madame Fosco was forty-three and Laura was twenty-one, that was unlikely.",
+      "translation": "ومع ذلك، بما أن مدام فوسكو كانت في الثالثة والأربعين ولورا في الحادية والعشرين، كان ذلك غير مرجح."
+    },
+    {
+      "id": 345,
+      "text": "Because of this, Madame Fosco had always disliked Laura.",
+      "translation": "بسبب هذا، كانت مدام فوسكو دائماً تكره لورا."
+    },
+    {
+      "id": 346,
+      "text": "Now she had a new reason to dislike her.",
+      "translation": "الآن أصبح لديها سبب جديد لكراهيتها."
+    },
+    {
+      "id": 347,
+      "text": "'Countess,' I began. 'I'm afraid that when you so kindly brought my handkerchief to me you probably heard Laura say something very offensive. I hope you didn't tell the Count.'",
+      "translation": "'كونتيسة،' بدأت. 'أخشى أنك عندما أحضرتِ منديلتي بلطف، ربما سمعتِ لورا تقول شيئاً مسيئاً جداً. آمل أنك لم تخبري الكونت.'"
+    },
+    {
+      "id": 348,
+      "text": "'There are no secrets between my husband and me,' she said. 'He saw that I was upset, and I told him why.'",
+      "translation": "'لا توجد أسرار بيني وبين زوجي،' قالت. 'رأى أنني منزعجة، وأخبرته لماذا.'"
+    },
+    {
+      "id": 349,
+      "text": "'I hope that you and the Count will understand that Laura wasn't herself when she spoke those words. I hope you can both forgive her.'",
+      "translation": "'آمل أن تفهمي أنت والكونت أن لورا لم تكن في حالتها الطبيعية عندما قالت تلك الكلمات. آمل أن تتمكنا من مسامحتها.'"
+    },
+    {
+      "id": 350,
+      "text": "'Certainly!' said the Count's voice behind me. 'I've already forgiven Lady Glyde.'",
+      "translation": "'بالتأكيد!' قال صوت الكونت خلفي. 'لقد سامحت الليدي غلايد بالفعل.'"
+    },
+    {
+      "id": 351,
+      "text": "'You're very kind,' I replied.",
+      "translation": "'أنت لطيف جداً،' ردت."
+    },
+    {
+      "id": 352,
+      "text": "'Let's forget about it,' he said, then he took my hand and put it to his lips.",
+      "translation": "'لننسَ الأمر،' قال، ثم أخذ يدي ورفعها إلى شفتيه."
+    },
+    {
+      "id": 353,
+      "text": "I tried to hide my disgust behind a false smile.",
+      "translation": "حاولت إخفاء اشمئزازي خلف ابتسامة زائفة."
+    },
+    {
+      "id": 354,
+      "text": "Chapter Five",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 355,
+      "text": "A Death",
+      "translation": "موت"
+    },
+    {
+      "id": 356,
+      "text": "6. Marian Halcombe's Narrative continued",
+      "translation": "6. تكملة رواية ماريان هالكومب"
+    },
+    {
+      "id": 357,
+      "text": "20 June",
+      "translation": "20 يونيو"
+    },
+    {
+      "id": 358,
+      "text": "Laura and I have no father or brother to protect us.",
+      "translation": "لورا وأنا ليس لدينا أب أو أخ لحمايتنا."
+    },
+    {
+      "id": 359,
+      "text": "Our dearest friend Walter is in Central America, where no letter can reach him.",
+      "translation": "صديقنا العزيز والتر في أمريكا الوسطى، حيث لا يمكن لأي خطاب أن يصل إليه."
+    },
+    {
+      "id": 360,
+      "text": "Mr Gilmore is ill and is staying with relatives in Germany.",
+      "translation": "السيد غيلمور مريض ويقيم مع أقارب في ألمانيا."
+    },
+    {
+      "id": 361,
+      "text": "Our uncle Frederick Fairlie is a lazy hypochondriac, but he is also our only hope.",
+      "translation": "عمنا فريدريك فيرلي مريض ضعيف وكسول، لكنه أيضاً أملنا الوحيد."
+    },
+    {
+      "id": 362,
+      "text": "This afternoon, I wrote him a letter, asking if we could return to Limmeridge House.",
+      "translation": "بعد ظهر هذا اليوم، كتبت له خطاباً، أسأله إذا كان بإمكاننا العودة إلى منزل ليمريدج."
+    },
+    {
+      "id": 363,
+      "text": "After dinner, Percival said to the Count, 'I want to talk to you in private.'",
+      "translation": "بعد العشاء، قال بيرسيفال للكونت: 'أريد التحدث معك على انفراد.'"
+    },
+    {
+      "id": 364,
+      "text": "The Count replied, 'Later, when the ladies are asleep.'",
+      "translation": "رد الكونت: 'لاحقاً، عندما تنام السيدات.'"
+    },
+    {
+      "id": 365,
+      "text": "I said that I had a headache and went up to my room earlier than usual.",
+      "translation": "قلت إنني أعاني من صداع وصعدت إلى غرفتي أبكر من المعتاد."
+    },
+    {
+      "id": 366,
+      "text": "I thought to myself, I must hear their conversation.",
+      "translation": "فكرت في نفسي، يجب أن أسمع محادثتهما."
+    },
+    {
+      "id": 367,
+      "text": "I took off my dress and put on a simple cloak.",
+      "translation": "خلعت فستاني وارتديت عباءة بسيطة."
+    },
+    {
+      "id": 368,
+      "text": "I climbed out of the window and moved along a narrow ledge to the library roof, where I sat down.",
+      "translation": "تسلقت من النافذة وتحركت على طول حافة ضيقة إلى سطح المكتبة، حيث جلست."
+    },
+    {
+      "id": 369,
+      "text": "There I could hear the voices of Sir Percival and the Count through the open windows.",
+      "translation": "هناك سمعت أصوات السير بيرسيفال والكونت من خلال النوافذ المفتوحة."
+    },
+    {
+      "id": 370,
+      "text": "'Percival, we are now at a financial crisis,' said the Count. 'I owe hundreds of pounds; you owe thousands. We must find the money to pay those debts. Recently you've acted very foolishly. Can't you see that Miss Halcombe has more intelligence than most men? She is a noble creature, full of strength and courage, and she'll use it all to protect that foolish little wife of yours. Now, explain to me about your wife's money.'",
+      "translation": "'بيرسيفال، نحن الآن في أزمة مالية،' قال الكونت. 'أنا مدين بمئات الجنيهات؛ وأنت مدين بآلاف. يجب أن نجد المال لسداد تلك الديون. مؤخراً تصرفت بحماقة شديدة. ألا ترى أن الآنسة هالكومب تتمتع بذكاء أكثر من معظم الرجال؟ إنها مخلوق نبيل، مليء بالقوة والشجاعة، وستستخدمها كلها لحماية زوجتك الصغيرة الحمقاء. الآن، اشرح لي عن مال زوجتك.'"
+    },
+    {
+      "id": 371,
+      "text": "Sir Percival said, 'It's very simple. While my wife lives, I get three thousand pounds a year, but that's not enough to pay my debts.'",
+      "translation": "قال السير بيرسيفال: 'الأمر بسيط جداً. ما دامت زوجتي على قيد الحياة، أحصل على ثلاثة آلاف جنيه سنوياً، لكن هذا لا يكفي لسداد ديوني.'"
+    },
+    {
+      "id": 372,
+      "text": "'And if she dies?' asked the Count.",
+      "translation": "'وإذا ماتت؟' سأل الكونت."
+    },
+    {
+      "id": 373,
+      "text": "'If she dies without children, I'll get twenty thousand pounds.'",
+      "translation": "'إذا ماتت بدون أطفال، سأحصل على عشرين ألف جنيه.'"
+    },
+    {
+      "id": 374,
+      "text": "'Ah!' said the Count. 'The rain has come at last.'",
+      "translation": "'آه!' قال الكونت. 'لقد جاء المطر أخيراً.'"
+    },
+    {
+      "id": 375,
+      "text": "He was right.",
+      "translation": "كان محقاً."
+    },
+    {
+      "id": 376,
+      "text": "Up on the roof, I was getting wet, but I had to hear their conversation to the end.",
+      "translation": "على السطح، كنت أبتل، لكن كان عليّ سماع محادثتهما حتى النهاية."
+    },
+    {
+      "id": 377,
+      "text": "'Do you love your wife, Percival?' asked the Count.",
+      "translation": "'هل تحب زوجتك يا بيرسيفال؟' سأل الكونت."
+    },
+    {
+      "id": 378,
+      "text": "'What a question!'",
+      "translation": "'يا له من سؤال!'"
+    },
+    {
+      "id": 379,
+      "text": "'If she dies, you get twenty thousand pounds.'",
+      "translation": "'إذا ماتت، تحصل على عشرين ألف جنيه.'"
+    },
+    {
+      "id": 380,
+      "text": "'Yes, and your wife gets ten thousand pounds!' cried Sir Percival. 'Don't forget that. Anyway, the money isn't my only problem. I have a secret.'",
+      "translation": "'نعم، وزوجتك تحصل على عشرة آلاف جنيه!' صرخ السير بيرسيفال. 'لا تنسَ ذلك. على أي حال، المال ليس مشكلتي الوحيدة. لدي سر.'"
+    },
+    {
+      "id": 381,
+      "text": "'Don't tell me the secret; just tell me who knows it.'",
+      "translation": "'لا تخبرني بالسر؛ فقط أخبرني من يعرفه.'"
+    },
+    {
+      "id": 382,
+      "text": "'My wife knows it, and a drawing teacher called Walter Hartright knows it. I know that Hartright's left the country. He's in love with my wife, and she loves him too. Anyway, the important thing is that they know the secret. Anne Catherick knows it, and she hates me. I'm sure she told them. I've tried to find her, but I can't.'",
+      "translation": "'زوجتي تعرفه، ومدرس رسم يدعى والتر هارتريت يعرفه. أعلم أن هارتريت غادر البلاد. إنه واقع في حب زوجتي، وهي تحبه أيضاً. على أي حال، المهم هو أنهما يعرفان السر. آن كاثريك تعرفه، وهي تكرهني. أنا متأكد أنها أخبرتهما. حاولت العثور عليها، لكنني لم أستطع.'"
+    },
+    {
+      "id": 383,
+      "text": "'What does she look like?' asked the Count. 'I saw a woman by the lake, but I only saw her from behind.'",
+      "translation": "'كيف تبدو؟' سأل الكونت. 'رأيت امرأة بجانب البحيرة، لكنني رأيتها من الخلف فقط.'"
+    },
+    {
+      "id": 384,
+      "text": "'She looks like my wife. She's not as pretty, and she's very ill, but still she looks very similar.'",
+      "translation": "'إنها تشبه زوجتي. إنها ليست جميلة مثلها، وهي مريضة جداً، لكنها لا تزال تشبهها كثيراً.'"
+    },
+    {
+      "id": 385,
+      "text": "'Really?' said the Count in surprise.",
+      "translation": "'حقاً؟' قال الكونت بدهشة."
+    },
+    {
+      "id": 386,
+      "text": "He then smiled to himself and laughed. 'Don't worry, Percival. You'll pay your debts, and you'll find Anne Catherick, I promise. Good night!'",
+      "translation": "ثم ابتسم لنفسه وضحك. 'لا تقلق يا بيرسيفال. ستدفع ديونك، وستجد آن كاثريك، أعدك. تصبح على خير!'"
+    },
+    {
+      "id": 387,
+      "text": "Up on the roof, I was cold and wet.",
+      "translation": "على السطح، كنت أشعر بالبرد والبلل."
+    },
+    {
+      "id": 388,
+      "text": "I moved slowly along the ledge to my bedroom window and climbed back in.",
+      "translation": "تحركت ببطء على طول الحافة إلى نافذة غرفتي وتسللت مرة أخرى."
+    },
+    {
+      "id": 389,
+      "text": "I changed into dry clothes, lit a candle, and wrote down the conversation.",
+      "translation": "غيرت ملابسي إلى ملابس جافة، وأشعلت شمعة، وكتبت المحادثة."
+    },
+    {
+      "id": 390,
+      "text": "But now I am ill! I have a fever!",
+      "translation": "لكنني الآن مريضة! لدي حمى!"
+    },
+    {
+      "id": 391,
+      "text": "I cannot get ill now, when Laura needs me more than ever!",
+      "translation": "لا يمكنني أن أمرض الآن، عندما تحتاجني لورا أكثر من أي وقت مضى!"
+    },
+    {
+      "id": 392,
+      "text": "[Note: Here the diary becomes impossible to read. On the next page, another entry appears, but it is in a man's handwriting.]",
+      "translation": "[ملاحظة: هنا تصبح المذكرات مستحيلة القراءة. في الصفحة التالية، يظهر مدخل آخر، لكنه بخط رجل.]"
+    },
+    {
+      "id": 393,
+      "text": "Postscript by a Sincere Friend",
+      "translation": "ملحق من صديق مخلص"
+    },
+    {
+      "id": 394,
+      "text": "The illness of the excellent Miss Halcombe has given me the opportunity to read this interesting diary.",
+      "translation": "أعطتني مرض الآنسة هالكومب الممتازة الفرصة لقراءة هذه المذكرات المثيرة للاهتمام."
+    },
+    {
+      "id": 395,
+      "text": "There are hundreds of pages here, and I have read them all with pleasure.",
+      "translation": "هناك مئات الصفحات هنا، وقد قرأتها كلها بسرور."
+    },
+    {
+      "id": 396,
+      "text": "I admire Marian greatly; her intellect, graceful style and courage.",
+      "translation": "أنا معجب بماريان كثيراً؛ ذكاؤها وأسلوبها الرشيق وشجاعتها."
+    },
+    {
+      "id": 397,
+      "text": "The description of my own character is brilliant.",
+      "translation": "وصف شخصيتي هو رائع."
+    },
+    {
+      "id": 398,
+      "text": "I'm sorry that our interests are opposed.",
+      "translation": "أنا آسف لأن مصالحنا متعارضة."
+    },
+    {
+      "id": 399,
+      "text": "And even though they are opposed, and even though I will be victorious, I want Miss Halcombe to know how much I admire her diary and that nothing in it contributed to my victory and her failure.",
+      "translation": "وحتى لو كانت متعارضة، وحتى لو كنت سأنتصر، أريد أن تعرف الآنسة هالكومب كم أنا معجب بمذكراتها وأن شيئاً فيها لم يساهم في انتصاري وفشلها."
+    },
+    {
+      "id": 400,
+      "text": "FOSCO.",
+      "translation": "فوسكو."
+    },
+    {
+      "id": 401,
+      "text": "7. Eliza Michelson's narrative",
+      "translation": "7. رواية إليزا ميكلسون"
+    },
+    {
+      "id": 402,
+      "text": "I am the housekeeper at Blackwater Park, and I took care of Miss Halcombe when she was ill.",
+      "translation": "أنا مدبرة المنزل في حديقة بلاكووتر، واعتنيت بالآنسة هالكومب عندما كانت مريضة."
+    },
+    {
+      "id": 403,
+      "text": "During that time, Lady Glyde was so worried about her sister that she herself became ill and stayed in her room.",
+      "translation": "خلال ذلك الوقت، كانت الليدي غلايد قلقة جداً على أختها لدرجة أنها مرضت هي نفسها وبقيت في غرفتها."
+    },
+    {
+      "id": 404,
+      "text": "One day, Sir Percival called me into his study and said, 'I plan to leave Blackwater Park. As soon as Miss Halcombe and my wife are well enough, they'll go to stay with their uncle in Cumberland. Count Fosco and the Countess will soon go to their new house in London, and I'll go to Paris. Send away all the servants tomorrow. You'll stay to manage the house while I'm away.'",
+      "translation": "في أحد الأيام، استدعاني السير بيرسيفال إلى مكتبه وقال: 'أخطط لمغادرة حديقة بلاكووتر. بمجرد أن تتحسن الآنسة هالكومب وزوجتي بما يكفي، سيذهبان للإقامة مع عمهما في كمبرلاند. سيذهب الكونت فوسكو والكونتيسة قريباً إلى منزلهما الجديد في لندن، وسأذهب إلى باريس. أرسل جميع الخدم بعيداً غداً. ستبقين لإدارة المنزل أثناء غيابي.'"
+    },
+    {
+      "id": 405,
+      "text": "The Count spent his days by the lake (I have no idea why).",
+      "translation": "قضى الكونت أيامه بجانب البحيرة (ليس لدي أي فكرة لماذا)."
+    },
+    {
+      "id": 406,
+      "text": "The next day, when the Count returned from the lake, I heard Sir Percival ask him, 'Did you find her?'",
+      "translation": "في اليوم التالي، عندما عاد الكونت من البحيرة، سمعت السير بيرسيفال يسأله: 'هل وجدتها؟'"
+    },
+    {
+      "id": 407,
+      "text": "The Count did not reply but he smiled.",
+      "translation": "لم يرد الكونت لكنه ابتسم."
+    },
+    {
+      "id": 408,
+      "text": "The next day was my day off.",
+      "translation": "كان اليوم التالي يوم عطلتي."
+    },
+    {
+      "id": 409,
+      "text": "When I returned, Sir Percival told me that Count Fosco and the Countess had left for London.",
+      "translation": "عندما عدت، أخبرني السير بيرسيفال أن الكونت فوسكو والكونتيسة غادرا إلى لندن."
+    },
+    {
+      "id": 410,
+      "text": "I then went to Lady Glyde's room to see how she was.",
+      "translation": "ثم ذهبت إلى غرفة الليدي غلايد لأرى كيف حالها."
+    },
+    {
+      "id": 411,
+      "text": "She was still weak and depressed, and she asked me to take her to her sister's room.",
+      "translation": "كانت لا تزال ضعيفة ومكتئبة، وطلبت مني أن آخذها إلى غرفة أختها."
+    },
+    {
+      "id": 412,
+      "text": "As we walked along the corridor, Sir Percival came up the stairs and said, 'She's not there. She went to London with Count Fosco and the Countess. Then she'll go to your uncle in Cumberland.'",
+      "translation": "وبينما كنا نسير على طول الممر، صعد السير بيرسيفال الدرج وقال: 'إنها ليست هناك. ذهبت إلى لندن مع الكونت فوسكو والكونتيسة. ثم ستذهب إلى عمك في كمبرلاند.'"
+    },
+    {
+      "id": 413,
+      "text": "'That's impossible!' cried Lady Glyde. 'She didn't tell me she was going or say goodbye! I must go to her immediately!'",
+      "translation": "'هذا مستحيل!' صرخت الليدي غلايد. 'لم تخبرني أنها ذاهبة ولم تودعني! يجب أن أذهب إليها فوراً!'"
+    },
+    {
+      "id": 414,
+      "text": "'You must wait till tomorrow,' said Sir Percival. 'I'll write to Fosco. He'll meet you at the station and take you to his house.'",
+      "translation": "'يجب أن تنتظري حتى الغد،' قال السير بيرسيفال. 'سأكتب إلى فوسكو. سيقابلك في المحطة ويأخذك إلى منزله.'"
+    },
+    {
+      "id": 415,
+      "text": "Lady Glyde began to shake.",
+      "translation": "بدأت الليدي غلايد ترتجف."
+    },
+    {
+      "id": 416,
+      "text": "'I don't want to sleep in London,' she said.",
+      "translation": "'لا أريد النوم في لندن،' قالت."
+    },
+    {
+      "id": 417,
+      "text": "'You must. The journey from here to Cumberland is too long to do in one day.'",
+      "translation": "'يجب أن تفعلي. الرحلة من هنا إلى كمبرلاند طويلة جداً لإنهائها في يوم واحد.'"
+    },
+    {
+      "id": 418,
+      "text": "Lady Glyde was ready to leave the next morning.",
+      "translation": "كانت الليدي غلايد مستعدة للمغادرة في صباح اليوم التالي."
+    },
+    {
+      "id": 419,
+      "text": "I took her to the station.",
+      "translation": "أخذتها إلى المحطة."
+    },
+    {
+      "id": 420,
+      "text": "When we got there, she suddenly seemed frightened.",
+      "translation": "عندما وصلنا إلى هناك، بدت فجأة خائفة."
+    },
+    {
+      "id": 421,
+      "text": "'I don't want to go alone!' she said. 'You've been very kind to my sister and me. Thank you!'",
+      "translation": "'لا أريد الذهاب وحدي!' قالت. 'لقد كنتِ لطيفة جداً معي ومع أختي. شكراً لك!'"
+    },
+    {
+      "id": 422,
+      "text": "She looked so lonely as she said those words that my eyes filled with tears.",
+      "translation": "بدت وحيدة جداً وهي تقول تلك الكلمات لدرجة أن عيناي امتلأت بالدموع."
+    },
+    {
+      "id": 423,
+      "text": "'Goodbye, my lady!' I called, as the train moved off.",
+      "translation": "'وداعاً يا سيدتي!' ناديت، بينما تحرك القطار."
+    },
+    {
+      "id": 424,
+      "text": "When I returned to Blackwater Park, Sir Percival said to me, 'Go and see if Miss Halcombe is all right. She's in the guest room on the second floor.'",
+      "translation": "عندما عدت إلى حديقة بلاكووتر، قال لي السير بيرسيفال: 'اذهبي وانظري إذا كانت الآنسة هالكومب بخير. إنها في غرفة الضيوف في الطابق الثاني.'"
+    },
+    {
+      "id": 425,
+      "text": "'Miss Halcombe?' I cried.",
+      "translation": "'الآنسة هالكومب؟' صرخت."
+    },
+    {
+      "id": 426,
+      "text": "'Yes,' said Sir Percival. 'I had to lie to Lady Glyde. You heard the doctor say that she needed fresh air. The only way to make her go to Cumberland was to tell her that her sister had already gone. It was done with the best of intentions.'",
+      "translation": "'نعم،' قال السير بيرسيفال. 'كان عليّ الكذب على الليدي غلايد. سمعتِ الطبيب يقول إنها تحتاج إلى هواء نقي. الطريقة الوحيدة لجعلها تذهب إلى كمبرلاند كانت إخبارها أن أختها ذهبت بالفعل. لقد فعلت ذلك بأفضل النوايا.'"
+    },
+    {
+      "id": 427,
+      "text": "'Sir Percival,' I said firmly. 'I can't work here anymore. I'll stay until Miss Halcombe is well enough to leave, but then I must go.'",
+      "translation": "'سير بيرسيفال،' قلت بحزم. 'لا أستطيع العمل هنا بعد الآن. سأبقى حتى تتحسن الآنسة هالكومب بما يكفي للمغادرة، لكن بعد ذلك يجب أن أذهب.'"
+    },
+    {
+      "id": 428,
+      "text": "That night Sir Percival left Blackwater Park.",
+      "translation": "في تلك الليلة غادر السير بيرسيفال حديقة بلاكووتر."
+    },
+    {
+      "id": 429,
+      "text": "I never saw him again, and I hope I never will.",
+      "translation": "لم أره مرة أخرى أبداً، وآمل ألا أراه أبداً."
+    },
+    {
+      "id": 430,
+      "text": "8. The cook's narrative",
+      "translation": "8. رواية الطباخة"
+    },
+    {
+      "id": 431,
+      "text": "I am the cook at Count Fosco's house in London.",
+      "translation": "أنا الطباخة في منزل الكونت فوسكو في لندن."
+    },
+    {
+      "id": 432,
+      "text": "When the Count and Countess arrived from the countryside, they brought a guest with them: the Countess's niece, Lady Glyde.",
+      "translation": "عندما وصل الكونت والكونتيسة من الريف، أحضرا معهما ضيفة: ابنة أخت الكونتيسة، الليدي غلايد."
+    },
+    {
+      "id": 433,
+      "text": "She was a pretty blonde lady with blue eyes, but she looked very weak.",
+      "translation": "كانت سيدة شقراء جميلة بعيون زرقاء، لكنها بدت ضعيفة جداً."
+    },
+    {
+      "id": 434,
+      "text": "The day she arrived, she became very ill.",
+      "translation": "في اليوم الذي وصلت فيه، مرضت بشدة."
+    },
+    {
+      "id": 435,
+      "text": "Dr Goodricke examined her and said, 'This is a serious case of heart disease. Lady Glyde won't live much longer.'",
+      "translation": "فحصها الدكتور غودريك وقال: 'هذه حالة خطيرة من مرض القلب. الليدي غلايد لن تعيش طويلاً.'"
+    },
+    {
+      "id": 436,
+      "text": "The next day she died.",
+      "translation": "في اليوم التالي ماتت."
+    },
+    {
+      "id": 437,
+      "text": "Dr Goodricke registered the death, and my mistress made all the arrangements for the funeral.",
+      "translation": "سجل الدكتور غودريك الوفاة، وقامت سيدتي بكل ترتيبات الجنازة."
+    },
+    {
+      "id": 438,
+      "text": "The dead lady's husband was out of the country, so my mistress arranged for the lady to be buried in her home town in Cumberland in the same grave as her mother.",
+      "translation": "كان زوج السيدة المتوفاة خارج البلاد، لذا رتبت سيدتي لدفن السيدة في مدينتها الأصلية في كمبرلاند في نفس قبر والدتها."
+    },
+    {
+      "id": 439,
+      "text": "In conclusion, I'll answer two questions that Mr Hartright asked me.",
+      "translation": "في الختام، سأجيب على سؤالين سألني إياهما السيد هارتريت."
+    },
+    {
+      "id": 440,
+      "text": "1.) I never saw Count Fosco give Lady Glyde any medicine.",
+      "translation": "1.) لم أرَ الكونت فوسكو يعطي الليدي غلايد أي دواء أبداً."
+    },
+    {
+      "id": 441,
+      "text": "2.) He was never alone in the room with her.",
+      "translation": "2.) لم يكن أبداً وحيداً في الغرفة معها."
+    },
+    {
+      "id": 442,
+      "text": "9. The doctor's narrative",
+      "translation": "9. رواية الطبيب"
+    },
+    {
+      "id": 443,
+      "text": "I certify that Lady Glyde, aged twenty-one, died on 25 July 1850 at 5 Forest Road, London.",
+      "translation": "أشهد أن الليدي غلايد، البالغة من العمر واحداً وعشرين عاماً، توفيت في 25 يوليو 1850 في 5 شارع فورست، لندن."
+    },
+    {
+      "id": 444,
+      "text": "The cause of death was heart disease.",
+      "translation": "كان سبب الوفاة مرض القلب."
+    },
+    {
+      "id": 445,
+      "text": "(Signed) Dr Alfred Goodricke",
+      "translation": "(موقّع) الدكتور ألفريد غودريك"
+    },
+    {
+      "id": 446,
+      "text": "10. The gravestone's narrative",
+      "translation": "10. رواية شاهد القبر"
+    },
+    {
+      "id": 447,
+      "text": "Here lies Laura, Lady Glyde, wife of Sir Percival Glyde, born 27 March 1829; married 22 December 1849; died 25 July 1850.",
+      "translation": "هنا ترقد لورا، الليدي غلايد، زوجة السير بيرسيفال غلايد، ولدت في 27 مارس 1829؛ تزوجت في 22 ديسمبر 1849؛ توفيت في 25 يوليو 1850."
+    },
+    {
+      "id": 448,
+      "text": "Chapter Six",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 449,
+      "text": "Sir Percival's Secret",
+      "translation": "سر السير بيرسيفال"
+    },
+    {
+      "id": 450,
+      "text": "11. Walter Hartright's narrative",
+      "translation": "11. رواية والتر هارتريت"
+    },
+    {
+      "id": 451,
+      "text": "On 13 October 1850, I returned to England.",
+      "translation": "في 13 أكتوبر 1850، عدت إلى إنجلترا."
+    },
+    {
+      "id": 452,
+      "text": "I still loved Laura, but I knew I had to live without her.",
+      "translation": "كنت لا أزال أحب لورا، لكنني علمت أنه يجب عليّ العيش بدونها."
+    },
+    {
+      "id": 453,
+      "text": "First I went to my mother's house.",
+      "translation": "أولاً ذهبت إلى منزل والدتي."
+    },
+    {
+      "id": 454,
+      "text": "When she met me she told me - very gently - that my love was dead.",
+      "translation": "عندما قابلتني أخبرتني - بلطف شديد - أن حبيبي مات."
+    },
+    {
+      "id": 455,
+      "text": "In the deepest misery, I went to Limmeridge to see her grave.",
+      "translation": "في أعمق بؤس، ذهبت إلى ليمريدج لرؤية قبرها."
+    },
+    {
+      "id": 456,
+      "text": "The countryside and the sea reminded me of the happy months we had spent together.",
+      "translation": "ذكّرني الريف والبحر بالأشهر السعيدة التي قضيناها معاً."
+    },
+    {
+      "id": 457,
+      "text": "I went to Mrs Fairlie's grave.",
+      "translation": "ذهبت إلى قبر السيدة فيرلي."
+    },
+    {
+      "id": 458,
+      "text": "There was a new inscription written on it: 'Here lies Laura, Lady Glyde...'",
+      "translation": "كان هناك نقش جديد مكتوب عليه: 'هنا ترقد لورا، الليدي غلايد...'"
+    },
+    {
+      "id": 459,
+      "text": "In the near distance I saw two women with veils over their faces.",
+      "translation": "على مسافة قريبة رأيت امرأتين تضعان أغطية على وجوههما."
+    },
+    {
+      "id": 460,
+      "text": "When they saw me, one lifted up her veil.",
+      "translation": "عندما رأتاني، رفعت إحداهما غطاءها."
+    },
+    {
+      "id": 461,
+      "text": "It was Miss Halcombe, her face sadly changed by suffering and sadness.",
+      "translation": "كانت الآنسة هالكومب، وجهها متغير بشكل محزن بفعل المعاناة والحزن."
+    },
+    {
+      "id": 462,
+      "text": "The other woman walked towards me.",
+      "translation": "سارت المرأة الأخرى نحوي."
+    },
+    {
+      "id": 463,
+      "text": "I looked at her closely.",
+      "translation": "نظرت إليها بتمعن."
+    },
+    {
+      "id": 464,
+      "text": "She stopped in front of me and lifted up her veil.",
+      "translation": "توقفت أمامي ورفعت غطاءها."
+    },
+    {
+      "id": 465,
+      "text": "Standing before me - beside her own grave - was Laura, Lady Glyde!",
+      "translation": "واقفة أمامي - بجانب قبرها - كانت لورا، الليدي غلايد!"
+    },
+    {
+      "id": 466,
+      "text": "***",
+      "translation": "***"
+    },
+    {
+      "id": 467,
+      "text": "I cannot describe my feelings of shock and joy at that moment.",
+      "translation": "لا أستطيع وصف مشاعري من الصدمة والفرح في تلك اللحظة."
+    },
+    {
+      "id": 468,
+      "text": "Miss Halcombe said, 'Walter, we must all go to London immediately! We're probably being followed!'",
+      "translation": "قالت الآنسة هالكومب: 'والتر، يجب أن نذهب جميعاً إلى لندن فوراً! من المحتمل أننا متبَعون!'"
+    },
+    {
+      "id": 469,
+      "text": "On the train Miss Halcombe told me everything that had happened since she last wrote to me.",
+      "translation": "في القطار أخبرتني الآنسة هالكومب بكل ما حدث منذ آخر مرة كتبت إليّ."
+    },
+    {
+      "id": 470,
+      "text": "'When I woke up from my illness,' she said, 'I found myself in a strange room. Mrs Michelson told me that Laura had gone to London, where she'd become ill and died! This terrible news made me ill again, and I was unable to leave that house for another three weeks. Then I went to London to see Mr Gilmore's partner, Mr Kyrle. I told him I was suspicious about the circumstances of Laura's death. Mr Kyrle investigated and told me that he saw nothing suspicious. I then went to Limmeridge and saw my uncle. He told me that Count Fosco had accompanied the body from London and had gone to the funeral (which my uncle himself had been too ill to go to). The Count had left a letter for my uncle, telling him that Anne Catherick was back in the asylum, but she now believed that she was Lady Glyde! I left Limmeridge and went to the asylum. I explained who I was and asked to see Anne. Imagine my feelings, Walter, when I saw my dear sister there in the asylum, and that everyone believed she was Anne Catherick! I gave the nurse one hundred pounds to help Laura escape. We came to Limmeridge and explained everything to my uncle, but he said
