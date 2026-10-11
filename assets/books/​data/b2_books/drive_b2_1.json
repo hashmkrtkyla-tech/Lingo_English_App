@@ -1,14 +1,1408 @@
 {
-  "id": "b2_drive_book_1",
-  "title": "B2 Advanced Audio Book 1",
-  "level": "B2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1nrmLfIx1whJ1jBf5vfjCW6Q_xCEK1qxB",
+  "id": "c1_blood_feuds",
+  "title": "Blood Feuds",
+  "level": "C1",
+  "audio_url": "assets/books/audio/c1_books/Blood_Feuds.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Welcome to this audio book for intermediate plus English learners.",
-      "translation": "مرحباً بكم في هذا الكتاب الصوتي لمتعلمي اللغة الإنجليزية بمستوى فوق المتوسط."
+      "id": 1,
+      "text": "Blood Feuds",
+      "translation": "عداوات الدم"
+    },
+    {
+      "id": 2,
+      "text": "No one who has not felt it can understand the pain of an exile.",
+      "translation": "لا يمكن لأي شخص لم يشعر به أن يفهم ألم المنفى."
+    },
+    {
+      "id": 3,
+      "text": "Living in a country that is not your own, among people who are not your people.",
+      "translation": "العيش في بلد ليس بلدك، بين أناس ليسوا شعبك."
+    },
+    {
+      "id": 4,
+      "text": "Always a foreigner, an outsider, someone who does not belong.",
+      "translation": "دائماً غريباً، دخيلاً، شخصاً لا ينتمي."
+    },
+    {
+      "id": 5,
+      "text": "Two families, living in Zimbabwe, but the country they call home is Malawi, a country they have not seen for nearly thirty years, a sad, troubled country...",
+      "translation": "عائلتان، تعيشان في زيمبابوي، لكن البلد الذي يسمونه وطناً هو مالاوي، بلد لم يروه منذ ما يقرب من ثلاثين عاماً، بلد حزين ومضطرب..."
+    },
+    {
+      "id": 6,
+      "text": "Of course my father and Uncle Phala had their little disagreements.",
+      "translation": "بالطبع كان لدى والدي والعم فالا خلافاتهما الصغيرة."
+    },
+    {
+      "id": 7,
+      "text": "But they were the usual ones among friends.",
+      "translation": "لكنها كانت الخلافات المعتادة بين الأصدقاء."
+    },
+    {
+      "id": 8,
+      "text": "Then there were all those moments of loneliness, of no hope at all, that everyone in exile feels.",
+      "translation": "ثم كانت هناك كل تلك اللحظات من الوحدة، وانعدام الأمل تماماً، التي يشعر بها كل منفي."
+    },
+    {
+      "id": 9,
+      "text": "But they always survived, because they missed home so much.",
+      "translation": "لكنهم نجوا دائماً، لأنهم اشتاقوا للوطن كثيراً."
+    },
+    {
+      "id": 10,
+      "text": "They never doubted they would return one day.",
+      "translation": "لم يشكوا أبداً في أنهم سيعودون يوماً ما."
+    },
+    {
+      "id": 11,
+      "text": "That was all my father and Uncle Phala dreamed about: the return to their own country.",
+      "translation": "كان هذا كل ما حلم به والدي والعم فالا: العودة إلى بلدهما."
+    },
+    {
+      "id": 12,
+      "text": "They talked about home all the time.",
+      "translation": "كانا يتحدثان عن الوطن طوال الوقت."
+    },
+    {
+      "id": 13,
+      "text": "How they grew up.",
+      "translation": "كيف نشآ."
+    },
+    {
+      "id": 14,
+      "text": "The games they used to play.",
+      "translation": "الألعاب التي كانا يلعبانها."
+    },
+    {
+      "id": 15,
+      "text": "The schools they went to, the fight for freedom.",
+      "translation": "المدارس التي ذهبا إليها، والنضال من أجل الحرية."
+    },
+    {
+      "id": 16,
+      "text": "'You young ones have no idea what we had to do to get rid of the British,' Uncle Phala used to tell us whenever he could.",
+      "translation": "'أنتم أيها الشباب ليس لديكم فكرة عما كان علينا فعله للتخلص من البريطانيين،' كان العم فالا يخبرنا كلما سنحت له الفرصة."
+    },
+    {
+      "id": 17,
+      "text": "He was proud of the injury to his leg, which he said he got in a street battle against the government in the 1950s.",
+      "translation": "كان فخوراً بإصابة ساقه، والتي قال إنه أصيب بها في معركة شوارع ضد الحكومة في الخمسينيات."
+    },
+    {
+      "id": 18,
+      "text": "And then my father, of course, felt he had to show us the marks on his back, which he got from beatings in prison.",
+      "translation": "ثم شعر والدي، بالطبع، أنه يجب عليه أن يرينا العلامات على ظهره، والتي حصل عليها من الضرب في السجن."
+    },
+    {
+      "id": 19,
+      "text": "'I was in prison for a week,' he would say proudly, 'not like others who only got injured in a fight.'",
+      "translation": "'كنت في السجن لمدة أسبوع،' كان يقول بفخر، 'وليس مثل الآخرين الذين أصيبوا فقط في قتال.'"
+    },
+    {
+      "id": 20,
+      "text": "Over the years his time in prison became a month, six weeks, then a year.",
+      "translation": "على مر السنين أصبحت مدة سجنه شهراً، ثم ستة أسابيع، ثم سنة."
+    },
+    {
+      "id": 21,
+      "text": "'Don't listen to him,' Uncle Phala would answer.",
+      "translation": "'لا تستمعوا إليه،' كان العم فالا يجيب."
+    },
+    {
+      "id": 22,
+      "text": "'He fell out of a tree. That's how he got those marks!'",
+      "translation": "'لقد سقط من شجرة. هكذا حصل على تلك العلامات!'"
+    },
+    {
+      "id": 23,
+      "text": "And he would break into a great, deep laugh.",
+      "translation": "وسينفجر في ضحكة عميقة وعظيمة."
+    },
+    {
+      "id": 24,
+      "text": "'Now I'll tell you how he really got his injury!' my father would say, also laughing.",
+      "translation": "'الآن سأخبركم كيف أصيب حقاً!' كان والدي يقول، وهو يضحك أيضاً."
+    },
+    {
+      "id": 25,
+      "text": "And they would go on like this.",
+      "translation": "وكانا يستمران على هذا المنوال."
+    },
+    {
+      "id": 26,
+      "text": "It wasn't just that they liked each other - it was much more than that.",
+      "translation": "لم يكن الأمر مجرد إعجاب كل منهما بالآخر - بل كان أكثر من ذلك بكثير."
+    },
+    {
+      "id": 27,
+      "text": "They called each other brother.",
+      "translation": "كانا يناديان بعضهما البعض بـ 'أخي'."
+    },
+    {
+      "id": 28,
+      "text": "It was twelve years or more before I learned that Uncle Phala was, in fact, not my real uncle.",
+      "translation": "مرت اثنتا عشرة سنة أو أكثر قبل أن أتعلم أن العم فالا لم يكن، في الواقع، عمي الحقيقي."
+    },
+    {
+      "id": 29,
+      "text": "He and my father had met in the mining village in Zimbabwe where I was born and grew up.",
+      "translation": "كان هو ووالدي قد التقيا في قرية التعدين في زيمبابوي حيث ولدت ونشأت."
+    },
+    {
+      "id": 30,
+      "text": "Their two families lived together in a flat as big as a matchbox, and my brothers and sisters and I grew up and went to school with Uncle Phala's children.",
+      "translation": "عاشت عائلتاهما معاً في شقة بحجم علبة الثقاب، وكبرت أنا وإخوتي وأخواتي وذهبنا إلى المدرسة مع أطفال العم فالا."
+    },
+    {
+      "id": 31,
+      "text": "When we finished school, I and most of my brothers became miners and lived in the mining village.",
+      "translation": "عندما أنهينا المدرسة، أصبحت أنا ومعظم إخوتي عمال مناجم وعشنا في قرية التعدين."
+    },
+    {
+      "id": 32,
+      "text": "All through their years in Zimbabwe my father and Uncle Phala were involved in exile politics.",
+      "translation": "طوال سنواتهما في زيمبابوي، كان والدي والعم فالا منخرطين في سياسات المنفى."
+    },
+    {
+      "id": 33,
+      "text": "It began with the mining village's Home Burial Society.",
+      "translation": "بدأ الأمر بجمعية الدفن المنزلي في قرية التعدين."
+    },
+    {
+      "id": 34,
+      "text": "This helped workers from our home country in times of trouble, particularly burials.",
+      "translation": "ساعدت هذه الجمعية العمال من وطننا في أوقات الشدة، وخاصة في حالات الدفن."
+    },
+    {
+      "id": 35,
+      "text": "Years later my father and Uncle Phala joined the National Redemption Movement.",
+      "translation": "بعد سنوات، انضم والدي والعم فالا إلى حركة الفداء الوطنية."
+    },
+    {
+      "id": 36,
+      "text": "This was an organization of exiles who were against the government back home.",
+      "translation": "كانت هذه منظمة للمنفيين الذين كانوا ضد الحكومة في الوطن."
+    },
+    {
+      "id": 37,
+      "text": "When I was a young boy, I sometimes went with my father and Uncle Phala to the beer hall where the Movement held its meetings.",
+      "translation": "عندما كنت صبياً صغيراً، كنت أذهب أحياناً مع والدي والعم فالا إلى قاعة البيرة حيث كانت الحركة تعقد اجتماعاتها."
+    },
+    {
+      "id": 38,
+      "text": "They were both good organizers and fine speakers.",
+      "translation": "كان كلاهما منظمين جيدين ومتحدثين بارعين."
+    },
+    {
+      "id": 39,
+      "text": "Whenever one of them rose to speak, the hall became silent and people listened to every word.",
+      "translation": "كلما نهض أحدهم ليتحدث، أصبحت القاعة صامتة واستمع الناس إلى كل كلمة."
+    },
+    {
+      "id": 40,
+      "text": "After they finished speaking, everybody would clap, and I felt so proud of them.",
+      "translation": "بعد أن ينتهيا من التحدث، كان الجميع يصفق، وشعرت بالفخر الشديد بهما."
+    },
+    {
+      "id": 41,
+      "text": "When they stopped working as miners at the age of fifty, they began working full-time for the Movement, which grew quickly, thanks to a large exile community.",
+      "translation": "عندما توقفا عن العمل كعمال مناجم في سن الخمسين، بدآ العمل بدوام كامل لصالح الحركة، التي نمت بسرعة، بفضل مجتمع المنفيين الكبير."
+    },
+    {
+      "id": 42,
+      "text": "Over the years the news from home got worse.",
+      "translation": "على مر السنين، أصبحت الأخبار من الوطن أسوأ."
+    },
+    {
+      "id": 43,
+      "text": "We heard of arrests, violence, and worse.",
+      "translation": "سمعنا عن اعتقالات، وعنف، وأسوأ."
+    },
+    {
+      "id": 44,
+      "text": "It was not the government that my father and Uncle Phala had fought for when the British left in the 1960s and our country finally became independent.",
+      "translation": "لم تكن هذه هي الحكومة التي قاتل من أجلها والدي والعم فالا عندما رحل البريطانيون في الستينيات وأصبح بلدنا مستقلاً أخيراً."
+    },
+    {
+      "id": 45,
+      "text": "'In the beginning,' my father remembered, 'we loved them.",
+      "translation": "'في البداية،' تذكر والدي، 'أحببناهم."
+    },
+    {
+      "id": 46,
+      "text": "We loved the government.",
+      "translation": "أحببنا الحكومة."
+    },
+    {
+      "id": 47,
+      "text": "We thought it was ours.'",
+      "translation": "اعتقدنا أنها لنا.'"
+    },
+    {
+      "id": 48,
+      "text": "I remember Uncle Phala telling us when we were small about the day of independence.",
+      "translation": "أتذكر أن العم فالا أخبرنا عندما كنا صغاراً عن يوم الاستقلال."
+    },
+    {
+      "id": 49,
+      "text": "'Everything seemed so beautiful that day.",
+      "translation": "'بدا كل شيء جميلاً جداً في ذلك اليوم."
+    },
+    {
+      "id": 50,
+      "text": "The sunshine felt a little gentler, the skies were bluer, the plants were greener, and the air smelled fresher.",
+      "translation": "كان شعاع الشمس أكثر لطفاً، والسماء أكثر زرقة، والنباتات أكثر خضرة، والهواء أنقى رائحة."
+    },
+    {
+      "id": 51,
+      "text": "Just before midnight the British flag was taken down, and our flag was raised as thousands clapped.",
+      "translation": "قبل منتصف الليل بقليل، أُنزل العلم البريطاني، ورُفع علمنا بينما صفق الآلاف."
+    },
+    {
+      "id": 52,
+      "text": "We loved every word our leader spoke.",
+      "translation": "أحببنا كل كلمة قالها زعيمنا."
+    },
+    {
+      "id": 53,
+      "text": "We called him \"the savior\" - we thought he would save us.'",
+      "translation": "أطلقنا عليه \"المنقذ\" - اعتقدنا أنه سينقذنا.'"
+    },
+    {
+      "id": 54,
+      "text": "Like so many other people, my father and Uncle Phala spent all the money they had to go to the capital for the independence ceremony - a great day for our country.",
+      "translation": "مثل العديد من الأشخاص الآخرين، أنفق والدي والعم فالا كل ما لديهما من مال للذهاب إلى العاصمة لحضور حفل الاستقلال - يوم عظيم لبلدنا."
+    },
+    {
+      "id": 55,
+      "text": "At that time my father worked on a farm.",
+      "translation": "في ذلك الوقت كان والدي يعمل في مزرعة."
+    },
+    {
+      "id": 56,
+      "text": "Soon afterwards he lost his job when the farm was sold to one of the new government officers who preferred to employ workers from his own part of the country.",
+      "translation": "بعد ذلك بوقت قصير فقد وظيفته عندما بيعت المزرعة لواحد من ضباط الحكومة الجدد الذين فضلوا توظيف عمال من منطقته."
+    },
+    {
+      "id": 57,
+      "text": "Uncle Phala lost his job because he was the leader of a workers' organization at his factory.",
+      "translation": "فقد العم فالا وظيفته لأنه كان قائد منظمة عمالية في مصنعه."
+    },
+    {
+      "id": 58,
+      "text": "The new government did not allow workers' organizations any more, saying that the workers had no enemies now that independence had been won.",
+      "translation": "لم تسمح الحكومة الجديدة بمنظمات العمال بعد الآن، بحجة أنه لم يعد للعمال أعداء بعد تحقيق الاستقلال."
+    },
+    {
+      "id": 59,
+      "text": "So Uncle Phala and my father left the country a couple of years later, as so many others had done before them, to look for jobs in the mines of Zimbabwe.",
+      "translation": "فغادر العم فالا ووالدي البلاد بعد عامين، كما فعل الكثيرون قبلهما، للبحث عن عمل في مناجم زيمبابوي."
+    },
+    {
+      "id": 60,
+      "text": "The exiles in Zimbabwe learned to live with the bad news that came from home.",
+      "translation": "تعلم المنفيون في زيمبابوي التعايش مع الأخبار السيئة القادمة من الوطن."
+    },
+    {
+      "id": 61,
+      "text": "They would discuss it and pass it on, but it was something they did not actually experience.",
+      "translation": "كانوا يناقشونها ويتناقلونها، لكنها كانت شيئاً لم يختبروه فعلياً."
+    },
+    {
+      "id": 62,
+      "text": "Although exile was painful, they could hide behind it and dream, and avoid being responsible for their own lives.",
+      "translation": "على الرغم من أن المنفى كان مؤلماً، إلا أنهم كانوا يستطيعون الاختباء خلفه والحلم، وتجنب تحمل مسؤولية حياتهم."
+    },
+    {
+      "id": 63,
+      "text": "I did not think of myself as one of them.",
+      "translation": "لم أكن أعتبر نفسي واحداً منهم."
+    },
+    {
+      "id": 64,
+      "text": "Of course, I considered where my parents came from as my homeland too, although I had never been there.",
+      "translation": "بالطبع، اعتبرت المكان الذي جاء منه والداي وطني أيضاً، على الرغم من أنني لم أكن هناك قط."
+    },
+    {
+      "id": 65,
+      "text": "But I also felt strong ties to Zimbabwe, the place of my birth.",
+      "translation": "لكني شعرت أيضاً بروابط قوية بزيمبابوي، مكان ولادتي."
+    },
+    {
+      "id": 66,
+      "text": "At home we spoke my parents' language; elsewhere we used one of the local languages.",
+      "translation": "في المنزل كنا نتحدث لغة والدي؛ وفي مكان آخر كنا نستخدم إحدى اللغات المحلية."
+    },
+    {
+      "id": 67,
+      "text": "I never really had to think much about my real home until I was an adult.",
+      "translation": "لم أكن مضطراً حقاً للتفكير كثيراً في وطني الحقيقي حتى أصبحت بالغاً."
+    },
+    {
+      "id": 68,
+      "text": "It didn't matter when I was a child.",
+      "translation": "لم يكن الأمر يهم عندما كنت طفلاً."
+    },
+    {
+      "id": 69,
+      "text": "Of course, the other children would sometimes call us by rude names - whatever word was fashionable for 'foreigners' at the time - but it never mattered to me.",
+      "translation": "بالطبع، كان الأطفال الآخرون أحياناً ينادوننا بأسماء وقحة - أياً كانت الكلمة الرائجة لـ 'الأجانب' في ذلك الوقت - لكن ذلك لم يهمني أبداً."
+    },
+    {
+      "id": 70,
+      "text": "Not so in later years.",
+      "translation": "ليس كذلك في السنوات اللاحقة."
+    },
+    {
+      "id": 71,
+      "text": "It was partly age, I suppose.",
+      "translation": "كان جزء منه بسبب العمر، كما أفترض."
+    },
+    {
+      "id": 72,
+      "text": "As you grow older, things seem to hurt a little deeper.",
+      "translation": "كلما تقدمت في العمر، تبدو الأشياء مؤلمة أكثر قليلاً."
+    },
+    {
+      "id": 73,
+      "text": "The situation in Zimbabwe was also changing.",
+      "translation": "كان الوضع في زيمبابوي يتغير أيضاً."
+    },
+    {
+      "id": 74,
+      "text": "People began to think of themselves less as Africans and more as Zimbabweans.",
+      "translation": "بدأ الناس يفكرون في أنفسهم أقل كأفارقة وأكثر كزيمبابويين."
+    },
+    {
+      "id": 75,
+      "text": "We became 'foreigners', even those of us who were born in Zimbabwe, when it came to giving out jobs and to finding someone to blame for the nation's problems.",
+      "translation": "أصبحنا 'أجانب'، حتى أولئك الذين ولدوا في زيمبابوي، عندما يتعلق الأمر بتوزيع الوظائف وإيجاد شخص ما لإلقاء اللوم عليه بشأن مشاكل البلاد."
+    },
+    {
+      "id": 76,
+      "text": "That is when I became more involved in the National Redemption Movement.",
+      "translation": "عندها أصبحت أكثر انخراطاً في حركة الفداء الوطنية."
+    },
+    {
+      "id": 77,
+      "text": "Slowly, our community turned inward, and as far as possible we kept together, helped one another, and married among ourselves.",
+      "translation": "ببطء، تحول مجتمعنا إلى الداخل، وبقدر الإمكان بقينا معاً، وساعدنا بعضنا البعض، وتزوجنا فيما بيننا."
+    },
+    {
+      "id": 78,
+      "text": "I married Uncle Phala's eldest daughter, Mwali, which pleased both our parents greatly.",
+      "translation": "تزوجت مالي، الابنة الكبرى للعم فالا، مما أسعد والدينا كثيراً."
+    },
+    {
+      "id": 79,
+      "text": "'We are now real brothers!' the two men told everyone at the wedding ceremony.",
+      "translation": "'نحن الآن أخوان حقيقيان!' قال الرجلان للجميع في حفل الزفاف."
+    },
+    {
+      "id": 80,
+      "text": "I began to miss my homeland as much as my father and Uncle Phala did.",
+      "translation": "بدأت أشتاق إلى وطني بقدر ما اشتاق والدي والعم فالا."
+    },
+    {
+      "id": 81,
+      "text": "I wanted to know more about it.",
+      "translation": "أردت معرفة المزيد عنه."
+    },
+    {
+      "id": 82,
+      "text": "So I asked questions; I searched for information in books, newspapers, and magazines.",
+      "translation": "فطرحت أسئلة؛ بحثت عن معلومات في الكتب والصحف والمجلات."
+    },
+    {
+      "id": 83,
+      "text": "I dreamed of the shining lake with its golden sand beaches, the rivers, hills, and mountains, and the cool green highlands.",
+      "translation": "حلمت بالبحيرة اللامعة بشواطئها الرملية الذهبية، والأنهار، والتلال، والجبال، والمرتفعات الخضراء الباردة."
+    },
+    {
+      "id": 84,
+      "text": "A land, as my father and Uncle Phala remembered it, of tidy villages, handsome cities, safe streets, and smiling faces.",
+      "translation": "أرض، كما تذكرها والدي والعم فالا، من القرى المرتبة، والمدن الجميلة، والشوارع الآمنة، والوجوه المبتسمة."
+    },
+    {
+      "id": 85,
+      "text": "Not this dry, empty land that was only good for exiles.",
+      "translation": "ليست هذه الأرض الجافة الفارغة التي كانت جيدة فقط للمنفيين."
+    },
+    {
+      "id": 86,
+      "text": "We hoped and dreamed.",
+      "translation": "أملنا وحلمنا."
+    },
+    {
+      "id": 87,
+      "text": "In the meantime I grew older.",
+      "translation": "في هذه الأثناء كبرت."
+    },
+    {
+      "id": 88,
+      "text": "I had three children.",
+      "translation": "كان لدي ثلاثة أطفال."
+    },
+    {
+      "id": 89,
+      "text": "My father and Uncle Phala began to look like the grandfathers they were.",
+      "translation": "بدأ والدي والعم فالا يبدوان كالجدود الذين كانوا عليه."
+    },
+    {
+      "id": 90,
+      "text": "They continued to be involved in the Movement, but the situation in our homeland stayed the same.",
+      "translation": "استمرا في الانخراط في الحركة، لكن الوضع في وطننا بقي على حاله."
+    },
+    {
+      "id": 91,
+      "text": "None of us thought it would change soon, although we did not doubt that change would come in the end.",
+      "translation": "لم يعتقد أي منا أنه سيتغير قريباً، على الرغم من أننا لم نشك في أن التغيير سيأتي في النهاية."
+    },
+    {
+      "id": 92,
+      "text": "Nobody imagined how quickly the thirty-year-old regime would fall a few years later.",
+      "translation": "لم يتخيل أحد مدى سرعة سقوط النظام الذي دام ثلاثين عاماً بعد بضع سنوات."
+    },
+    {
+      "id": 93,
+      "text": "People had been unhappy for years, of course, but it was the church leaders who brought it into the open.",
+      "translation": "كان الناس غير سعداء لسنوات، بالطبع، لكن قادة الكنيسة هم الذين أظهروه للعلن."
+    },
+    {
+      "id": 94,
+      "text": "One Easter Sunday the priests read out a letter in churches throughout the country.",
+      "translation": "في أحد أيام عيد الفصح، قرأ الكهنة خطاباً في الكنائس في جميع أنحاء البلاد."
+    },
+    {
+      "id": 95,
+      "text": "The letter did not ask for anything unusual, just simple things like respect for the law, freedom for political prisoners, food for the hungry...",
+      "translation": "لم يطلب الخطاب أي شيء غير عادي، مجرد أشياء بسيطة مثل احترام القانون، وحرية السجناء السياسيين، وطعام للجائعين..."
+    },
+    {
+      "id": 96,
+      "text": "But the letter hit the country like a bomb.",
+      "translation": "لكن الخطاب ضرب البلاد مثل قنبلة."
+    },
+    {
+      "id": 97,
+      "text": "No one had ever demanded these things openly before.",
+      "translation": "لم يطالب أحد بهذه الأشياء علناً من قبل."
+    },
+    {
+      "id": 98,
+      "text": "Some church leaders were arrested and terrible warnings were given.",
+      "translation": "تم اعتقال بعض قادة الكنيسة وتم إعطاء تحذيرات رهيبة."
+    },
+    {
+      "id": 99,
+      "text": "But it was too late.",
+      "translation": "لكن الأوان كان قد فات."
+    },
+    {
+      "id": 100,
+      "text": "The students, young and impatient, joined the fight.",
+      "translation": "انضم الطلاب، الشباب وغير الصبورين، إلى القتال."
+    },
+    {
+      "id": 101,
+      "text": "'Give us free elections!' they demanded.",
+      "translation": "'أعطونا انتخابات حرة!' طالبوا."
+    },
+    {
+      "id": 102,
+      "text": "'Let political prisoners go free!'",
+      "translation": "'أطلقوا سراح السجناء السياسيين!'"
+    },
+    {
+      "id": 103,
+      "text": "The universities and colleges were closed and the students were sent home.",
+      "translation": "أُغلقت الجامعات والكليات وأُرسل الطلاب إلى منازلهم."
+    },
+    {
+      "id": 104,
+      "text": "That only made things worse, because the students took the message back to their home towns.",
+      "translation": "هذا زاد الأمور سوءاً فقط، لأن الطلاب أخذوا الرسالة إلى بلداتهم."
+    },
+    {
+      "id": 105,
+      "text": "Then the workers joined the battle.",
+      "translation": "ثم انضم العمال إلى المعركة."
+    },
+    {
+      "id": 106,
+      "text": "They stopped work, demanding better pay.",
+      "translation": "توقفوا عن العمل، مطالبين بأجور أفضل."
+    },
+    {
+      "id": 107,
+      "text": "The police tried to break up one protest march, but they only succeeded in shooting hundreds of workers and starting angry protests all over the country.",
+      "translation": "حاولت الشرطة تفريق مسيرة احتجاجية واحدة، لكنها نجحت فقط في إطلاق النار على مئات العمال وبدء احتجاجات غاضبة في جميع أنحاء البلاد."
+    },
+    {
+      "id": 108,
+      "text": "Even foreign governments and banks began to talk about sending no more money to a regime that had lost control.",
+      "translation": "حتى الحكومات والبنوك الأجنبية بدأت تتحدث عن عدم إرسال المزيد من الأموال إلى نظام فقد السيطرة."
+    },
+    {
+      "id": 109,
+      "text": "I had never seen my father and Uncle Phala so excited.",
+      "translation": "لم أر والدي والعم فالا بهذا الحماس من قبل."
+    },
+    {
+      "id": 110,
+      "text": "They had the radio and television on all the time, following the news from home.",
+      "translation": "كانا يشغلان الراديو والتلفزيون طوال الوقت، يتابعان الأخبار من الوطن."
+    },
+    {
+      "id": 111,
+      "text": "For some reason I was not as excited as I had expected.",
+      "translation": "لسبب ما لم أكن متحمساً كما توقعت."
+    },
+    {
+      "id": 112,
+      "text": "I had become so used to hoping and dreaming that the possibility of return frightened me.",
+      "translation": "لقد اعتدت على الأمل والحلم لدرجة أن احتمال العودة أخافني."
+    },
+    {
+      "id": 113,
+      "text": "Exile had always been my life.",
+      "translation": "كان المنفى دائماً حياتي."
+    },
+    {
+      "id": 114,
+      "text": "It was all I knew.",
+      "translation": "كان كل ما أعرفه."
+    },
+    {
+      "id": 115,
+      "text": "Other things made me uneasy too.",
+      "translation": "أشياء أخرى جعلتني أشعر بالقلق أيضاً."
+    },
+    {
+      "id": 116,
+      "text": "Our community of exiles began to break into two groups: those who wanted to return, and those who were not so enthusiastic.",
+      "translation": "بدأ مجتمع المنفيين لدينا ينقسم إلى مجموعتين: أولئك الذين أرادوا العودة، وأولئك الذين لم يكونوا متحمسين جداً."
+    },
+    {
+      "id": 117,
+      "text": "The same disagreements were seen in families, and before long in the Movement itself.",
+      "translation": "لوحظت نفس الخلافات في العائلات، وقبل وقت طويل في الحركة نفسها."
+    },
+    {
+      "id": 118,
+      "text": "At our yearly meeting there were so many arguments that by the end the Movement had broken into three separate groups.",
+      "translation": "في اجتماعنا السنوي كان هناك الكثير من الجدال لدرجة أنه بحلول النهاية انقسمت الحركة إلى ثلاث مجموعات منفصلة."
+    },
+    {
+      "id": 119,
+      "text": "It was sad to watch.",
+      "translation": "كان من المحزن مشاهدته."
+    },
+    {
+      "id": 120,
+      "text": "Nothing prepared me for what was waiting for us in our dear homeland.",
+      "translation": "لم يعدني شيء لما كان ينتظرنا في وطننا العزيز."
+    },
+    {
+      "id": 121,
+      "text": "It was certainly beautiful, but that was all.",
+      "translation": "كان جميلاً بالتأكيد، لكن هذا كل شيء."
+    },
+    {
+      "id": 122,
+      "text": "We went first to my father's village.",
+      "translation": "ذهبنا أولاً إلى قرية والدي."
+    },
+    {
+      "id": 123,
+      "text": "I was disappointed.",
+      "translation": "أصابني خيبة أمل."
+    },
+    {
+      "id": 124,
+      "text": "It was nothing more than a group of rough mud houses.",
+      "translation": "لم يكن أكثر من مجموعة من منازل الطين الخشنة."
+    },
+    {
+      "id": 125,
+      "text": "I met some of my uncles and aunts for the first time.",
+      "translation": "قابلت بعض أعمامي وعماتي لأول مرة."
+    },
+    {
+      "id": 126,
+      "text": "They all looked much older than my father, although they were younger than he was.",
+      "translation": "بدوا جميعاً أكبر بكثير من والدي، على الرغم من أنهم كانوا أصغر منه."
+    },
+    {
+      "id": 127,
+      "text": "They were nice and friendly, but that was all they could offer us.",
+      "translation": "كانوا لطفاء وودودين، لكن هذا كل ما يمكنهم تقديمه لنا."
+    },
+    {
+      "id": 128,
+      "text": "It was the same at my mother's village, which was a few miles away.",
+      "translation": "كان الأمر نفسه في قرية والدتي، التي كانت على بعد بضعة أميال."
+    },
+    {
+      "id": 129,
+      "text": "I felt like a stranger.",
+      "translation": "شعرت أنني غريب."
+    },
+    {
+      "id": 130,
+      "text": "Our relations called us machona, meaning the long lost people.",
+      "translation": "أطلق أقاربنا علينا اسم ماتشونا، والتي تعني الأشخاص المفقودين منذ زمن طويل."
+    },
+    {
+      "id": 131,
+      "text": "As machona, we were expected to bring endless presents, far more than the workers who returned every two years or so, carrying huge suitcases full of gifts for their relations - clothes, blankets, radios, watches, sunglasses...",
+      "translation": "بصفنا ماتشونا، كان من المتوقع أن نحضر هدايا لا حصر لها، أكثر بكثير من العمال الذين يعودون كل عامين أو نحو ذلك، حاملين حقائب ضخمة مليئة بالهدايا لأقاربهم - ملابس، بطانيات، راديوهات، ساعات، نظارات شمسية..."
+    },
+    {
+      "id": 132,
+      "text": "For a couple of months they would live like chiefs.",
+      "translation": "لمدة شهرين أو نحو ذلك كانوا يعيشون مثل الزعماء."
+    },
+    {
+      "id": 133,
+      "text": "Then, when all their money had gone, they would leave for Zimbabwe once again.",
+      "translation": "ثم، عندما ينفد كل مالهم، يغادرون إلى زيمبابوي مرة أخرى."
+    },
+    {
+      "id": 134,
+      "text": "But we disappointed our relations.",
+      "translation": "لكننا خيبنا آمال أقاربنا."
+    },
+    {
+      "id": 135,
+      "text": "I suspected that this was one of the reasons that my father had not returned for so long.",
+      "translation": "اشتبهت في أن هذا كان أحد الأسباب التي جعلت والدي لا يعود لفترة طويلة."
+    },
+    {
+      "id": 136,
+      "text": "I also began to understand that my own people were no different from the people of Zimbabwe, who had many arguments and fights between their different ethnic groups.",
+      "translation": "بدأت أيضاً أفهم أن شعبي لم يكونوا مختلفين عن شعب زيمبابوي، الذين كان لديهم العديد من الخلافات والمعارك بين مجموعاتهم العرقية المختلفة."
+    },
+    {
+      "id": 137,
+      "text": "We were proud that our community of exiles in the mining village had no silly ethnic arguments of that kind, although we had people who came from different places and ethnic groups in the homeland.",
+      "translation": "كنا فخورين بأن مجتمع المنفيين لدينا في قرية التعدين لم يكن لديه خلافات عرقية سخيفة من هذا النوع، على الرغم من أن لدينا أشخاصاً جاءوا من أماكن ومجموعات عرقية مختلفة في الوطن."
+    },
+    {
+      "id": 138,
+      "text": "My father, for example, was from the south, and Uncle Phala from the north.",
+      "translation": "كان والدي، على سبيل المثال، من الجنوب، والعم فالا من الشمال."
+    },
+    {
+      "id": 139,
+      "text": "But back in our own country I heard the same sad, silly arguments.",
+      "translation": "لكن في بلدنا، سمعت نفس الحجج الحزينة والسخيفة."
+    },
+    {
+      "id": 140,
+      "text": "In fact, it was more serious than that.",
+      "translation": "في الواقع، كان الأمر أكثر خطورة من ذلك."
+    },
+    {
+      "id": 141,
+      "text": "All our politicians, old and new, seemed to want to make trouble between the different ethnic groups.",
+      "translation": "بدا أن جميع سياسيينا، القدامى والجدد، يريدون إحداث مشاكل بين المجموعات العرقية المختلفة."
+    },
+    {
+      "id": 142,
+      "text": "Perhaps this was because no political party had any real ideas or plans for our country's future.",
+      "translation": "ربما كان هذا لأن أي حزب سياسي لم يكن لديه أي أفكار أو خطط حقيقية لمستقبل بلدنا."
+    },
+    {
+      "id": 143,
+      "text": "My father, of course, soon got involved in politics.",
+      "translation": "والدي، بالطبع، انخرط قريباً في السياسة."
+    },
+    {
+      "id": 144,
+      "text": "At first he was busy trying to start a business with the money he had brought back from Zimbabwe.",
+      "translation": "في البداية كان مشغولاً بمحاولة بدء عمل تجاري بالمال الذي أحضره من زيمبابوي."
+    },
+    {
+      "id": 145,
+      "text": "Then someone asked him to be a leader of one of the local parties.",
+      "translation": "ثم طلب منه شخص ما أن يكون قائداً لأحد الأحزاب المحلية."
+    },
+    {
+      "id": 146,
+      "text": "He said no at first, but I think that was only because he did not want to seem too enthusiastic.",
+      "translation": "قال لا في البداية، لكنني أعتقد أن ذلك كان فقط لأنه لم يرغب في أن يبدو متحمساً للغاية."
+    },
+    {
+      "id": 147,
+      "text": "'Well, I have to do what is best for my people,' he said in the end.",
+      "translation": "'حسناً، يجب أن أفعل ما هو أفضل لشعبي،' قال في النهاية."
+    },
+    {
+      "id": 148,
+      "text": "'They need a man of my experience for leadership.'",
+      "translation": "'إنهم بحاجة إلى رجل يتمتع بخبرتي للقيادة.'"
+    },
+    {
+      "id": 149,
+      "text": "It was good for his business.",
+      "translation": "كان ذلك جيداً لعمله."
+    },
+    {
+      "id": 150,
+      "text": "Many of the local businesses here in the south were owned by northerners, and people were beginning to dislike this more and more.",
+      "translation": "كانت العديد من الأعمال التجارية المحلية هنا في الجنوب مملوكة لشماليين، وبدأ الناس يكرهون هذا أكثر وأكثر."
+    },
+    {
+      "id": 151,
+      "text": "A few weeks later I went north with my family to visit Uncle Phala.",
+      "translation": "بعد بضعة أسابيع ذهبت شمالاً مع عائلتي لزيارة العم فالا."
+    },
+    {
+      "id": 152,
+      "text": "We were well received.",
+      "translation": "تم استقبالنا جيداً."
+    },
+    {
+      "id": 153,
+      "text": "Uncle Phala proudly introduced me to his relations.",
+      "translation": "قدمني العم فالا بفخر إلى أقاربه."
+    },
+    {
+      "id": 154,
+      "text": "I liked his village better than my father's.",
+      "translation": "أعجبتني قريته أكثر من قرية والدي."
+    },
+    {
+      "id": 155,
+      "text": "The place and the people seemed less miserable.",
+      "translation": "بدا المكان والناس أقل بؤساً."
+    },
+    {
+      "id": 156,
+      "text": "Mwali and I decided to make our home there and start a business.",
+      "translation": "قررنا أنا ومالي أن نستقر هناك ونبدأ عملاً تجارياً."
+    },
+    {
+      "id": 157,
+      "text": "I bought two lorries to take fish from the lake to the capital.",
+      "translation": "اشتريت شاحنتين لنقل الأسماك من البحيرة إلى العاصمة."
+    },
+    {
+      "id": 158,
+      "text": "It would make me a lot of money.",
+      "translation": "سأجني الكثير من المال من ذلك."
+    },
+    {
+      "id": 159,
+      "text": "My father was not pleased with my plan when I returned for a visit.",
+      "translation": "لم يكن والدي سعيداً بخطتي عندما عدت للزيارة."
+    },
+    {
+      "id": 160,
+      "text": "He said I was turning my back on my people.",
+      "translation": "قال إنني أدير ظهري لشعبي."
+    },
+    {
+      "id": 161,
+      "text": "'But Father,' I protested, 'we're living with Uncle Phala.",
+      "translation": "'لكن يا أبي،' احتججت، 'نحن نعيش مع العم فالا."
+    },
+    {
+      "id": 162,
+      "text": "He's your \"brother\", remember?'",
+      "translation": "إنه \"أخوك\"، تذكر؟'"
+    },
+    {
+      "id": 163,
+      "text": "'Uncle Phala is all right. It's his people who aren't.'",
+      "translation": "'العم فالا بخير. إنهم شعبه الذين ليسوا بخير.'"
+    },
+    {
+      "id": 164,
+      "text": "'I can't believe you, of all people, saying that.'",
+      "translation": "'لا أستطيع أن أصدقك، وأنت من بين كل الناس، تقول ذلك.'"
+    },
+    {
+      "id": 165,
+      "text": "I did not tell Uncle Phala about my father's opinions.",
+      "translation": "لم أخبر العم فالا بآراء والدي."
+    },
+    {
+      "id": 166,
+      "text": "He was pleased that we had decided to stay.",
+      "translation": "كان سعيداً لأننا قررنا البقاء."
+    },
+    {
+      "id": 167,
+      "text": "'You're my favourite son. You've been good to my daughter.'",
+      "translation": "'أنت ابني المفضل. لقد كنت جيداً مع ابنتي.'"
+    },
+    {
+      "id": 168,
+      "text": "Uncle Phala did not have a son.",
+      "translation": "لم يكن لدى العم فالا ابن."
+    },
+    {
+      "id": 169,
+      "text": "All of his eight children were girls.",
+      "translation": "كان جميع أطفاله الثمانية من البنات."
+    },
+    {
+      "id": 170,
+      "text": "Like my father, he had also started a business, which was doing quite well.",
+      "translation": "مثل والدي، بدأ هو أيضاً عملاً تجارياً، كان يسير بشكل جيد."
+    },
+    {
+      "id": 171,
+      "text": "Before long he, too, was asked to join a leading local political party.",
+      "translation": "وقبل وقت طويل، طُلب منه هو أيضاً الانضمام إلى حزب سياسي محلي رائد."
+    },
+    {
+      "id": 172,
+      "text": "And like his 'brother', he waited for a while before he agreed.",
+      "translation": "ومثل 'أخيه'، انتظر بعض الوقت قبل أن يوافق."
+    },
+    {
+      "id": 173,
+      "text": "And so the two most important men in my life became caught in the new politics.",
+      "translation": "وهكذا وقع الرجلان الأهم في حياتي في فخ السياسة الجديدة."
+    },
+    {
+      "id": 174,
+      "text": "Each party tried to organize bigger meetings, bigger marches than the others; no one discussed plans for government.",
+      "translation": "حاول كل حزب تنظيم اجتماعات أكبر، ومسيرات أكبر من الآخرين؛ لم يناقش أحد خططاً للحكم."
+    },
+    {
+      "id": 175,
+      "text": "Political prisoners, locked up in prison, were almost forgotten, except by their mothers.",
+      "translation": "تم نسيان السجناء السياسيين، المحبوسين في السجون، تقريباً، باستثناء أمهاتهم."
+    },
+    {
+      "id": 176,
+      "text": "And no party called for national discussions on how to bring good government to our poor, weak, unhappy country.",
+      "translation": "ولم يدعُ أي حزب إلى مناقشات وطنية حول كيفية إحضار حكومة جيدة لبلدنا الفقير والضعيف وغير السعيد."
+    },
+    {
+      "id": 177,
+      "text": "It was difficult not to be part of the noisy business of politics, but I tried to stay out of it.",
+      "translation": "كان من الصعب ألا تكون جزءاً من العمل السياسي الصاخب، لكنني حاولت الابتعاد عنه."
+    },
+    {
+      "id": 178,
+      "text": "I missed the quieter politics of exile.",
+      "translation": "افتقدت سياسة المنفى الأكثر هدوءاً."
+    },
+    {
+      "id": 179,
+      "text": "Here there was no hoping, no dreaming - it was all rough and real.",
+      "translation": "هنا لم يكن هناك أمل، ولا حلم - كان كل شيء خشناً وحقيقياً."
+    },
+    {
+      "id": 180,
+      "text": "Too rough, in fact.",
+      "translation": "خشن جداً، في الواقع."
+    },
+    {
+      "id": 181,
+      "text": "A couple of months before the elections were held for a new government, violence broke out.",
+      "translation": "قبل شهرين من إجراء الانتخابات لحكومة جديدة، اندلعت أعمال عنف."
+    },
+    {
+      "id": 182,
+      "text": "It was not clear who started it.",
+      "translation": "لم يكن واضحاً من بدأها."
+    },
+    {
+      "id": 183,
+      "text": "Northerners accused southerners, and southerners accused northerners.",
+      "translation": "اتهم الشماليون الجنوبيين، واتهم الجنوبيون الشماليين."
+    },
+    {
+      "id": 184,
+      "text": "Both sides chased the 'foreigners', the outsiders, living among them.",
+      "translation": "طارد الجانبان 'الأجانب'، الغرباء، الذين يعيشون بينهم."
+    },
+    {
+      "id": 185,
+      "text": "Church leaders and others blamed the government for making the troubles worse.",
+      "translation": "ألقى قادة الكنيسة وآخرون اللوم على الحكومة لجعل الاضطرابات أسوأ."
+    },
+    {
+      "id": 186,
+      "text": "The government, of course, said that they were not responsible.",
+      "translation": "قالت الحكومة، بالطبع، إنها ليست مسؤولة."
+    },
+    {
+      "id": 187,
+      "text": "Our \"savior\", now a very sick old man, said the violence proved he was right.",
+      "translation": "قال \"منقذنا\"، وهو الآن رجل عجوز مريض جداً، إن العنف أثبت أنه كان على حق."
+    },
+    {
+      "id": 188,
+      "text": "It showed that party politics and elections were as foreign to the country as winter.",
+      "translation": "أظهر أن سياسة الأحزاب والانتخابات كانت غريبة على البلاد مثل الشتاء."
+    },
+    {
+      "id": 189,
+      "text": "One morning we were woken by a noise like a bomb exploding.",
+      "translation": "في أحد الصباحات استيقظنا على صوت يشبه انفجار قنبلة."
+    },
+    {
+      "id": 190,
+      "text": "We looked out of the window.",
+      "translation": "نظرنا من النافذة."
+    },
+    {
+      "id": 191,
+      "text": "My lorries were on fire.",
+      "translation": "كانت شاحناتي تحترق."
+    },
+    {
+      "id": 192,
+      "text": "We all knew why, but we blamed thieves for it.",
+      "translation": "كنا جميعاً نعرف السبب، لكننا ألقينا اللوم على اللصوص."
+    },
+    {
+      "id": 193,
+      "text": "It was less painful that way.",
+      "translation": "كان الأمر أقل إيلاماً بهذه الطريقة."
+    },
+    {
+      "id": 194,
+      "text": "We were trying to keep the hopes and dreams of exile alive, but we could not hide from the real world any longer.",
+      "translation": "كنا نحاول إبقاء آمال وأحلام المنفى حية، لكننا لم نعد نستطيع الاختباء من العالم الحقيقي."
+    },
+    {
+      "id": 195,
+      "text": "That evening Uncle Phala spoke what was on our minds.",
+      "translation": "في ذلك المساء قال العم فالا ما كان يدور في أذهاننا."
+    },
+    {
+      "id": 196,
+      "text": "'You're not safe here. Maybe you should go home.'",
+      "translation": "'أنت لست آمناً هنا. ربما يجب أن تعود إلى المنزل.'"
+    },
+    {
+      "id": 197,
+      "text": "'I thought I was home,' I said, more in sadness than in anger.",
+      "translation": "'اعتقدت أنني في وطني،' قلت، بحزن أكثر من غضب."
+    },
+    {
+      "id": 198,
+      "text": "'So did I. This isn't the country your father and I left thirty years ago.",
+      "translation": "'وأنا أيضاً. هذا ليس البلد الذي تركه والدك وأنا قبل ثلاثين عاماً."
+    },
+    {
+      "id": 199,
+      "text": "They've changed it into something else, something terrible, that will eat us alive if we aren't careful.'",
+      "translation": "لقد حولوه إلى شيء آخر، شيء رهيب، سيأكلنا أحياءً إذا لم نكن حذرين.'"
+    },
+    {
+      "id": 200,
+      "text": "For the first time he looked very old.",
+      "translation": "لأول مرة بدا عجوزاً جداً."
+    },
+    {
+      "id": 201,
+      "text": "'We'll be out of here as soon as we can.'",
+      "translation": "'سنخرج من هنا في أقرب وقت ممكن.'"
+    },
+    {
+      "id": 202,
+      "text": "'No, you'll go alone. Mwali and the children will be as unsafe in your home as you are here.'",
+      "translation": "'لا، سترحل وحدك. ستكون مالي والأطفال غير آمنين في منزلك كما أنت هنا.'"
+    },
+    {
+      "id": 203,
+      "text": "'But I can't leave my family behind.'",
+      "translation": "'لكن لا يمكنني ترك عائلتي.'"
+    },
+    {
+      "id": 204,
+      "text": "'It's for their own good, and for your own good too,' he said sadly. 'Believe me.'",
+      "translation": "'إنه لمصلحتهم، ولمصلحتك أيضاً،' قال بحزن. 'صدقني.'"
+    },
+    {
+      "id": 205,
+      "text": "'It's not right,' I said softly. 'It's just not right.'",
+      "translation": "'هذا ليس صحيحاً،' قلت بهدوء. 'هذا ليس صحيحاً على الإطلاق.'"
+    },
+    {
+      "id": 206,
+      "text": "He did not look at Mwali or me, but I could see that he agreed.",
+      "translation": "لم ينظر إلى مالي أو إليّ، لكنني رأيت أنه يوافق."
+    },
+    {
+      "id": 207,
+      "text": "Mwali and I spent a sleepless night discussing the matter.",
+      "translation": "قضينا أنا ومالي ليلة بلا نوم نناقش الأمر."
+    },
+    {
+      "id": 208,
+      "text": "We decided that we would either stay together or leave together.",
+      "translation": "قررنا أن نبقى معاً أو نرحل معاً."
+    },
+    {
+      "id": 209,
+      "text": "Nothing would separate us.",
+      "translation": "لا شيء سيفرقنا."
+    },
+    {
+      "id": 210,
+      "text": "But we did not have time to tell Uncle Phala what we had decided, because early the next morning we heard a large crowd shouting excitedly outside.",
+      "translation": "لكن لم يكن لدينا وقت لإخبار العم فالا بما قررناه، لأنه في صباح اليوم التالي سمعنا حشداً كبيراً يصرخ بحماس في الخارج."
+    },
+    {
+      "id": 211,
+      "text": "'We want the southerner!' they screamed.",
+      "translation": "'نريد الجنوبي!' صرخوا."
+    },
+    {
+      "id": 212,
+      "text": "'We want the southerner! Give us the southerner!'",
+      "translation": "'نريد الجنوبي! أعطونا الجنوبي!'"
+    },
+    {
+      "id": 213,
+      "text": "'Hide under the bed quick,' Mwali whispered.",
+      "translation": "'اختبئ تحت السرير بسرعة،' همست مالي."
+    },
+    {
+      "id": 214,
+      "text": "The shouting came closer, and some people started banging on the door.",
+      "translation": "اقترب الصراخ، وبدأ بعض الناس يطرقون الباب."
+    },
+    {
+      "id": 215,
+      "text": "Then the noise stopped, and we heard Uncle Phala's voice.",
+      "translation": "ثم توقف الضجيج، وسمعنا صوت العم فالا."
+    },
+    {
+      "id": 216,
+      "text": "'He ran away last night!'",
+      "translation": "'لقد هرب الليلة الماضية!'"
+    },
+    {
+      "id": 217,
+      "text": "'No!' the crowd shouted with disappointment.",
+      "translation": "'لا!' صاح الحشد بخيبة أمل."
+    },
+    {
+      "id": 218,
+      "text": "'We want the southerner!'",
+      "translation": "'نريد الجنوبي!'"
+    },
+    {
+      "id": 219,
+      "text": "'You know how these southerners are!' Uncle Phala shouted.",
+      "translation": "'أنتم تعرفون كيف يكون هؤلاء الجنوبيون!' صاح العم فالا."
+    },
+    {
+      "id": 220,
+      "text": "'They don't know what \"brave\" means.",
+      "translation": "'إنهم لا يعرفون معنى \"الشجاعة\"."
+    },
+    {
+      "id": 221,
+      "text": "They may be good with books and take all the jobs for teachers and clerks, but that's all they can do.",
+      "translation": "قد يكونون جيدين في الكتب ويأخذون كل وظائف المعلمين والكتبة، لكن هذا كل ما يستطيعون فعله."
+    },
+    {
+      "id": 222,
+      "text": "They can't fight.",
+      "translation": "لا يستطيعون القتال."
+    },
+    {
+      "id": 223,
+      "text": "That boy may have balls, but he's no braver than a woman.'",
+      "translation": "قد يكون ذلك الفتى شجاعاً، لكنه ليس أكثر شجاعة من امرأة.'"
+    },
+    {
+      "id": 224,
+      "text": "The crowd laughed.",
+      "translation": "ضحك الحشد."
+    },
+    {
+      "id": 225,
+      "text": "'Leave the house alone.' Suddenly he called out Mwali's name.",
+      "translation": "'اتركوا المنزل وشأنه.' فجأة نادى باسم مالي."
+    },
+    {
+      "id": 226,
+      "text": "'Come and tell these brave sons of the north where your useless husband is.'",
+      "translation": "'تعالي وأخبري هؤلاء الأبناء الشجعان من الشمال أين زوجك عديم الفائدة.'"
+    },
+    {
+      "id": 227,
+      "text": "I could not believe what he was saying.",
+      "translation": "لم أستطع تصديق ما كان يقوله."
+    },
+    {
+      "id": 228,
+      "text": "Had he gone crazy?",
+      "translation": "هل أصابه الجنون؟"
+    },
+    {
+      "id": 229,
+      "text": "'What should I do?' she asked me desperately.",
+      "translation": "'ماذا يجب أن أفعل؟' سألتني بيأس."
+    },
+    {
+      "id": 230,
+      "text": "'I don't know. What's wrong with your father? I thought he loved me.",
+      "translation": "'لا أعرف. ما خطب والدك؟ اعتقدت أنه يحبني."
+    },
+    {
+      "id": 231,
+      "text": "He told me so himself.'",
+      "translation": "لقد أخبرني بذلك بنفسه.'"
+    },
+    {
+      "id": 232,
+      "text": "'Mwali! Please come out and tell these men where your good-for-nothing husband went.'",
+      "translation": "'مالي! أرجوك اخرجي وأخبري هؤلاء الرجال أين ذهب زوجك عديم الفائدة.'"
+    },
+    {
+      "id": 233,
+      "text": "I felt suddenly angry. 'Go. He's your father.'",
+      "translation": "شعرت بالغضب فجأة. 'اذهبي. إنه والدك.'"
+    },
+    {
+      "id": 234,
+      "text": "I pushed her and she started crying. 'Go, I said!'",
+      "translation": "دفعتها وبدأت في البكاء. 'اذهبي، قلت!'"
+    },
+    {
+      "id": 235,
+      "text": "'Don't scream. They'll hear you.'",
+      "translation": "'لا تصرخي. سوف يسمعونك.'"
+    },
+    {
+      "id": 236,
+      "text": "She tried to get herself under control.",
+      "translation": "حاولت السيطرة على نفسها."
+    },
+    {
+      "id": 237,
+      "text": "'Please stay where you are. Don't move,' she said as she went unwillingly to the door.",
+      "translation": "'أرجوك ابق حيث أنت. لا تتحرك،' قالت وهي تذهب على مضض إلى الباب."
+    },
+    {
+      "id": 238,
+      "text": "'See, she's crying,' Uncle Phala said when she came out.",
+      "translation": "'انظروا، إنها تبكي،' قال العم فالا عندما خرجت."
+    },
+    {
+      "id": 239,
+      "text": "'I told her not to marry a southerner!'",
+      "translation": "'لقد أخبرتها ألا تتزوج من جنوبي!'"
+    },
+    {
+      "id": 240,
+      "text": "The crowd began to go away, still shouting about southerners.",
+      "translation": "بدأ الحشد في المغادرة، وهم لا يزالون يصرخون بشأن الجنوبيين."
+    },
+    {
+      "id": 241,
+      "text": "Moments later Mwali returned, looking both shaken and thankful.",
+      "translation": "بعد لحظات عادت مالي، وبدت مرتجفة وممتناة في آن واحد."
+    },
+    {
+      "id": 242,
+      "text": "I stayed indoors the whole day.",
+      "translation": "بقيت في الداخل طوال اليوم."
+    },
+    {
+      "id": 243,
+      "text": "Later Uncle Phala came to me.",
+      "translation": "لاحقاً جاءني العم فالا."
+    },
+    {
+      "id": 244,
+      "text": "I could see the unhappiness on his face.",
+      "translation": "رأيت التعاسة على وجهه."
+    },
+    {
+      "id": 245,
+      "text": "'I'm sorry I had to say all those things.'",
+      "translation": "'أنا آسف لأنني اضطررت لقول كل تلك الأشياء.'"
+    },
+    {
+      "id": 246,
+      "text": "'So you didn't mean it,' I said coldly.",
+      "translation": "'إذن لم تقصدها،' قلت ببرود."
+    },
+    {
+      "id": 247,
+      "text": "'Of course not.' He was trying not to cry.",
+      "translation": "'بالطبع لا.' كان يحاول ألا يبكي."
+    },
+    {
+      "id": 248,
+      "text": "'That was the only way I could save you, by talking their kind of language.",
+      "translation": "'كانت هذه هي الطريقة الوحيدة التي يمكنني أن أنقذك بها، بالتحدث بلغتهم."
+    },
+    {
+      "id": 249,
+      "text": "You'll always be my favourite son, no matter what.'",
+      "translation": "ستظل دائماً ابني المفضل، مهما حدث.'"
+    },
+    {
+      "id": 250,
+      "text": "I do not know how long we sat there, staring at the walls.",
+      "translation": "لا أعرف كم من الوقت جلسنا هناك، نحدق في الجدران."
+    },
+    {
+      "id": 251,
+      "text": "We all wished to be back in the old days of exile.",
+      "translation": "تمنى كلنا لو نعود إلى أيام المنفى القديمة."
+    },
+    {
+      "id": 252,
+      "text": "I escaped that night, and my people were thankful to see me safe.",
+      "translation": "هربت في تلك الليلة، وكان شعبي ممتناً لرؤيتي بأمان."
+    },
+    {
+      "id": 253,
+      "text": "'I always told you that northerners are cruel and wild,' my father said.",
+      "translation": "'لطالما أخبرتك أن الشماليين قساة ومتوحشون،' قال والدي."
+    },
+    {
+      "id": 254,
+      "text": "I could not remember him ever saying that.",
+      "translation": "لم أتذكر أنه قال ذلك أبداً."
+    },
+    {
+      "id": 255,
+      "text": "But I did not feel like arguing with him.",
+      "translation": "لكنني لم أشعر بالرغبة في الجدال معه."
+    },
+    {
+      "id": 256,
+      "text": "I just wanted to sleep and dream of the simpler days of exile.",
+      "translation": "أردت فقط النوم والحلم بأيام المنفى الأبسط."
+    },
+    {
+      "id": 257,
+      "text": "The elections were held on time.",
+      "translation": "أُجريت الانتخابات في موعدها."
+    },
+    {
+      "id": 258,
+      "text": "The old governing party just managed to win, but the other political parties refused to accept the results and did not recognize the government.",
+      "translation": "تمكن الحزب الحاكم القديم بالكاد من الفوز، لكن الأحزاب السياسية الأخرى رفضت قبول النتائج ولم تعترف بالحكومة."
+    },
+    {
+      "id": 259,
+      "text": "While this argument went on, the army appeared on the streets, and the frightened country became calm.",
+      "translation": "وبينما استمر هذا الجدال، ظهر الجيش في الشوارع، وأصبح البلد الخائف هادئاً."
+    },
+    {
+      "id": 260,
+      "text": "It seemed safe enough for me to ask Mwali and the children to come.",
+      "translation": "بدا آمناً بما يكفي لأطلب من مالي والأطفال القدوم."
+    },
+    {
+      "id": 261,
+      "text": "Uncle Phala came with them.",
+      "translation": "جاء العم فالا معهم."
+    },
+    {
+      "id": 262,
+      "text": "When the two old men met, they put their arms round each other.",
+      "translation": "عندما التقى الرجلان العجوزان، وضعا ذراعيهما حول بعضهما البعض."
+    },
+    {
+      "id": 263,
+      "text": "For a while it seemed like the old days, except that they both looked so much older now.",
+      "translation": "لوهلة بدا الأمر وكأنه الأيام الخوالي، باستثناء أنهما بدوا أكبر سناً بكثير الآن."
+    },
+    {
+      "id": 264,
+      "text": "They were both much thinner.",
+      "translation": "كان كلاهما أنحف بكثير."
+    },
+    {
+      "id": 265,
+      "text": "Uncle Phala walked even more painfully, and my father could not see or hear very well.",
+      "translation": "كان العم فالا يمشي بألم أكثر، ولم يكن والدي يرى أو يسمع جيداً."
+    },
+    {
+      "id": 266,
+      "text": "But it was not the old days.",
+      "translation": "لكنها لم تكن الأيام الخوالي."
+    },
+    {
+      "id": 267,
+      "text": "They had little to talk about.",
+      "translation": "لم يكن لديهما الكثير ليتحدثا عنه."
+    },
+    {
+      "id": 268,
+      "text": "It was painful to watch.",
+      "translation": "كان من المؤلم مشاهدته."
+    },
+    {
+      "id": 269,
+      "text": "The friendliness and the laughter had all gone.",
+      "translation": "لقد ذهبت الود والضحك جميعاً."
+    },
+    {
+      "id": 270,
+      "text": "The days of exile now seemed so far away and unreal.",
+      "translation": "بدت أيام المنفى الآن بعيدة جداً وغير حقيقية."
+    },
+    {
+      "id": 271,
+      "text": "And yet we had been back for about a year.",
+      "translation": "ومع ذلك كنا قد عدنا منذ حوالي عام."
+    },
+    {
+      "id": 272,
+      "text": "Uncle Phala only stayed a couple of days.",
+      "translation": "بقي العم فالا يومين فقط."
+    },
+    {
+      "id": 273,
+      "text": "He left early in the morning.",
+      "translation": "غادر في الصباح الباكر."
+    },
+    {
+      "id": 274,
+      "text": "We all went with him to the bus station, except for my mother who was not feeling well.",
+      "translation": "ذهبنا جميعاً معه إلى محطة الحافلات، باستثناء والدتي التي لم تكن تشعر بحالة جيدة."
+    },
+    {
+      "id": 275,
+      "text": "My father and Uncle Phala stood in silence with their arms round each other for what seemed like a long time.",
+      "translation": "وقف والدي والعم فالا في صمت وذراعا كل منهما حول الآخر لفترة بدت طويلة."
+    },
+    {
+      "id": 276,
+      "text": "From the steps of the bus Uncle Phala waved to us with his stick. waved in return.",
+      "translation": "من درجات الحافلة لوح لنا العم فالا بعصاه. لوحنا له بالمثل."
+    },
+    {
+      "id": 277,
+      "text": "Then he climbed painfully onto the bus and never looked back.",
+      "translation": "ثم صعد بصعوبة إلى الحافلة ولم ينظر إلى الوراء أبداً."
+    },
+    {
+      "id": 278,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 279,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 280,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
