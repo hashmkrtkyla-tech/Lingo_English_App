@@ -2,13 +2,892 @@
   "id": "b2_happy_new_year",
   "title": "Happy New Year",
   "level": "B2",
-  "audio_url": "assets/books/audio/b2_books/Happy_New_Year-Kathy_Bur....mp3",
+  "audio_url": "assets/books/audio/b2_books/Happy_New_Year-Kathy_Burke.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "New Year celebrations always bring new hope and unexpected surprises.",
-      "translation": "احتفالات رأس السنة تجلب دائماً أملاً جديداً ومفاجآت غير متوقعة."
+      "id": 1,
+      "text": "Happy New Year",
+      "translation": "سنة جديدة سعيدة"
+    },
+    {
+      "id": 2,
+      "text": "Kathy Burke",
+      "translation": "كاثي بيرك"
+    },
+    {
+      "id": 3,
+      "text": "Six hundred years ago, on a cold winter's night, Mrs Yeh sat alone in her living room, waiting for her husband, Mr Yeh, to return.",
+      "translation": "قبل ستمائة عام، في ليلة شتاء باردة، جلست السيدة يه وحدها في غرفة معيشتها، تنتظر عودة زوجها، السيد يه."
+    },
+    {
+      "id": 4,
+      "text": "He had been gone for almost a year, teaching in a private school about seventy kilometers away.",
+      "translation": "كان قد غاب لمدة عام تقريباً، يدرس في مدرسة خاصة على بعد حوالي سبعين كيلومتراً."
+    },
+    {
+      "id": 5,
+      "text": "Mrs Yeh was looking forward to seeing him.",
+      "translation": "كانت السيدة يه متشوقة لرؤيته."
+    },
+    {
+      "id": 6,
+      "text": "She also needed the salary he had earned for his year of work.",
+      "translation": "كانت بحاجة أيضاً إلى الراتب الذي كسبه مقابل عام من العمل."
+    },
+    {
+      "id": 7,
+      "text": "All the money he had left her was now gone and New Year's Eve was approaching, a very special but expensive holiday.",
+      "translation": "كل المال الذي تركه لها قد نفد الآن، وكانت ليلة رأس السنة تقترب، وهي عطلة مميزة جداً ولكنها مكلفة."
+    },
+    {
+      "id": 8,
+      "text": "New Year's Eve dinner was the most important meal of the year, even more important than New Year's Day.",
+      "translation": "كان عشاء ليلة رأس السنة هو الوجبة الأهم في العام، حتى أكثر أهمية من يوم رأس السنة."
+    },
+    {
+      "id": 9,
+      "text": "The Chinese believed that a New Year's Eve dinner with plenty of delicious, healthy food would start the year well and bring them happiness and wealth.",
+      "translation": "كان الصينيون يعتقدون أن عشاء ليلة رأس السنة مع الكثير من الطعام اللذيذ والصحي سيبدأ العام بشكل جيد ويجلب لهم السعادة والثروة."
+    },
+    {
+      "id": 10,
+      "text": "A typical New Year's Eve meal included four 'wholes' - a whole chicken, a whole duck, a whole fish, and a whole leg of pork - and four kinds of cold meat.",
+      "translation": "تضمنت وجبة ليلة رأس السنة النموذجية أربعة 'كاملات' - دجاجة كاملة، وبطة كاملة، وسمكة كاملة، وساق لحم خنزير كاملة - وأربعة أنواع من اللحوم الباردة."
+    },
+    {
+      "id": 11,
+      "text": "Then there was also a sweet rice dish with eight different things in it, and the 'eight specials,' which is made of eight different kinds of vegetables and beans.",
+      "translation": "ثم كان هناك أيضاً طبق أرز حلو مع ثمانية أشياء مختلفة فيه، و'الثمانية المميزة'، المصنوعة من ثمانية أنواع مختلفة من الخضروات والفاصوليا."
+    },
+    {
+      "id": 12,
+      "text": "The New Year's holiday lasted for fifteen days, and if people could afford it they cooked enough food for the whole two weeks.",
+      "translation": "استمرت عطلة رأس السنة لمدة خمسة عشر يوماً، وإذا كان الناس يستطيعون تحمل التكاليف، كانوا يطبخون ما يكفي من الطعام للأسبوعين كاملين."
+    },
+    {
+      "id": 13,
+      "text": "This allowed them to relax and visit relatives and friends without having to think about cooking.",
+      "translation": "سمح لهم ذلك بالاسترخاء وزيارة الأقارب والأصدقاء دون الحاجة للتفكير في الطبخ."
+    },
+    {
+      "id": 14,
+      "text": "But more importantly, it showed other people that they were wealthy enough to buy all this food.",
+      "translation": "ولكن الأهم من ذلك، أظهر للآخرين أنهم أغنياء بما يكفي لشراء كل هذا الطعام."
+    },
+    {
+      "id": 15,
+      "text": "So this time of year was important for everyone's pride.",
+      "translation": "لذلك كان هذا الوقت من العام مهماً لكبرياء الجميع."
+    },
+    {
+      "id": 16,
+      "text": "Mrs Yeh began to worry, as she had expected her husband home hours ago.",
+      "translation": "بدأت السيدة يه تقلق، حيث كانت تتوقع عودة زوجها منذ ساعات."
+    },
+    {
+      "id": 17,
+      "text": "She tried not to think about possible disasters that could happen on a winter's night like this, with the terrible snow and ice.",
+      "translation": "حاولت ألا تفكر في الكوارث المحتملة التي قد تحدث في ليلة شتوية كهذه، مع الثلج والجليد الرهيبين."
+    },
+    {
+      "id": 18,
+      "text": "At last she heard footsteps coming along the path.",
+      "translation": "أخيراً سمعت خطوات قادمة على طول الممر."
+    },
+    {
+      "id": 19,
+      "text": "She hurried to open the door and there, shaking the snow off his cap, was her husband, Mr Yeh.",
+      "translation": "أسرعت لفتح الباب وهناك، وهو ينفض الثلج عن قبعته، كان زوجها، السيد يه."
+    },
+    {
+      "id": 20,
+      "text": "Mrs Yeh gave her husband a bowl of hot soup to drink by the fire.",
+      "translation": "أعطت السيدة يه زوجها وعاءً من الحساء الساخن ليشربه بجانب النار."
+    },
+    {
+      "id": 21,
+      "text": "Later, when he finally felt his body warming from the fire and the soup, she asked him about his salary.",
+      "translation": "لاحقاً، عندما شعر أخيراً بجسده يدفأ من النار والحساء، سألته عن راتبه."
+    },
+    {
+      "id": 22,
+      "text": "\"Well, was it a good year?\"",
+      "translation": "\"حسناً، هل كان عاماً جيداً؟\""
+    },
+    {
+      "id": 23,
+      "text": "\"Yes, it was. I earned a silver yuan-pao,\" he answered.",
+      "translation": "\"نعم، كان كذلك. لقد كسبت يوان باو فضياً،\" أجاب."
+    },
+    {
+      "id": 24,
+      "text": "\"Oh! Thank Buddha. Now we can enjoy our New Year's Eve dinner. So where is this silver yuan-pao? Let's put it in the money pot and I'll make some tea.\"",
+      "translation": "\"أوه! شكراً بوذا. الآن يمكننا الاستمتاع بعشاء ليلة رأس السنة. إذن أين هذا اليوان باو الفضي؟ لنضعه في وعاء المال وسأصنع بعض الشاي.\""
+    },
+    {
+      "id": 25,
+      "text": "Mr Yeh hesitated and then said quietly, \"Well, there's one small problem.\"",
+      "translation": "تردد السيد يه ثم قال بهدوء: \"حسناً، هناك مشكلة صغيرة واحدة.\""
+    },
+    {
+      "id": 26,
+      "text": "\"What problem?\" his wife asked.",
+      "translation": "\"أي مشكلة؟\" سألت زوجته."
+    },
+    {
+      "id": 27,
+      "text": "\"I gave it away,\" he answered.",
+      "translation": "\"لقد أعطيته،\" أجاب."
+    },
+    {
+      "id": 28,
+      "text": "\"What! Oh, old man. Don't joke with a poor old woman after a hard year. Where is the yuan-pao? Give it to me.\"",
+      "translation": "\"ماذا! أوه، أيها العجوز. لا تمزح مع امرأة عجوز مسكينة بعد عام شاق. أين اليوان باو؟ أعطني إياه.\""
+    },
+    {
+      "id": 29,
+      "text": "\"I'm afraid I'm not joking,\" Mr Yeh said in a serious voice.",
+      "translation": "\"أخشى أنني لا أمزح،\" قال السيد يه بصوت جاد."
+    },
+    {
+      "id": 30,
+      "text": "\"Please bring me some hot tea and I'll tell you what happened.\" He then sat there warming his hands on his teacup.",
+      "translation": "\"أرجوك أحضري لي بعض الشاي الساخن وسأخبرك بما حدث.\" ثم جلس هناك يدفئ يديه على فنجان الشاي."
+    },
+    {
+      "id": 31,
+      "text": "\"It all started when I was walking along the road. I was feeling very happy that I was coming home...\" And so he began his story.",
+      "translation": "\"بدأ كل شيء عندما كنت أسير على الطريق. كنت أشعر بسعادة غامرة لأنني كنت عائداً إلى المنزل...\" وهكذا بدأ قصته."
+    },
+    {
+      "id": 32,
+      "text": "It was freezing cold and he had to pull his old coat up around his face to help keep out the cold wind.",
+      "translation": "كان الجو متجمداً بارداً وكان عليه أن يسحب معطفه القديم حول وجهه للمساعدة في إبعاد الرياح الباردة."
+    },
+    {
+      "id": 33,
+      "text": "But he was happy too because in his bag he had his silver yuan-pao.",
+      "translation": "لكنه كان سعيداً أيضاً لأنه كان في حقيبته اليوان باو الفضي."
+    },
+    {
+      "id": 34,
+      "text": "He was sure that his wife had used all the money she had and was \"waiting for rice to put into the pot,\" as they say in China.",
+      "translation": "كان متأكداً من أن زوجته قد أنفقت كل المال الذي كان لديها وكانت \"تنتظر الأرز ليضعه في الوعاء\"، كما يقولون في الصين."
+    },
+    {
+      "id": 35,
+      "text": "He couldn't wait to get home and see the joy in her eyes when he gave her the silver yuan-pao.",
+      "translation": "لم يستطع الانتظار للوصول إلى المنزل ورؤية الفرحة في عينيها عندما يعطيها اليوان باو الفضي."
+    },
+    {
+      "id": 36,
+      "text": "He was also happy because it was almost New Year's Eve, his favorite holiday.",
+      "translation": "كان سعيداً أيضاً لأنه كان قد اقترب موعد ليلة رأس السنة، عطلته المفضلة."
+    },
+    {
+      "id": 37,
+      "text": "As he walked along, he started to plan the menu for the New Year's Eve dinner.",
+      "translation": "وبينما كان يسير، بدأ يخطط لقائمة عشاء ليلة رأس السنة."
+    },
+    {
+      "id": 38,
+      "text": "He knew that they would probably not be able to buy four \"wholes.\"",
+      "translation": "كان يعلم أنهم على الأرجح لن يتمكنوا من شراء الأربعة 'كاملات'."
+    },
+    {
+      "id": 39,
+      "text": "But at least his wife could get some pork and cook his favorite meal, pork with red wine and red beans.",
+      "translation": "لكن على الأقل يمكن لزوجته الحصول على بعض لحم الخنزير وطبخ وجبته المفضلة، لحم الخنزير مع النبيذ الأحمر والفاصوليا الحمراء."
+    },
+    {
+      "id": 40,
+      "text": "He would get out his favorite rice wine to have with it.",
+      "translation": "سيخرج نبيذ الأرز المفضل لديه ليتناوله معه."
+    },
+    {
+      "id": 41,
+      "text": "Suddenly, as he was walking along thinking these happy thoughts, he saw a woman running toward the river.",
+      "translation": "فجأة، وبينما كان يسير يفكر في هذه الأفكار السعيدة، رأى امرأة تركض نحو النهر."
+    },
+    {
+      "id": 42,
+      "text": "He was sure she was going to throw herself in.",
+      "translation": "كان متأكداً أنها ستلقي بنفسها فيه."
+    },
+    {
+      "id": 43,
+      "text": "As he struggled to see better through the falling snow, he realized it was A-ken Sao, the wife of the carpenter A-ken.",
+      "translation": "وبينما كان يحاول الرؤية بشكل أفضل من خلال الثلج المتساقط، أدرك أنها أ-كين ساو، زوجة النجار أ-كين."
+    },
+    {
+      "id": 44,
+      "text": "He rushed forward to stop her and just managed to catch her in his arms before she got to the water.",
+      "translation": "اندفع إلى الأمام لوقفها وتمكن بالكاد من التقاطها بين ذراعيه قبل أن تصل إلى الماء."
+    },
+    {
+      "id": 45,
+      "text": "\"Let me go! Please!\" she cried.",
+      "translation": "\"اتركني أذهب! أرجوك!\" صرخت."
+    },
+    {
+      "id": 46,
+      "text": "But he refused. \"You can't end your life like this! What is it? What's wrong?\"",
+      "translation": "لكنه رفض. \"لا يمكنك إنهاء حياتك بهذه الطريقة! ما الأمر؟ ما الخطأ؟\""
+    },
+    {
+      "id": 47,
+      "text": "\"Let me die, please,\" cried A-ken Sao.",
+      "translation": "\"دعني أموت، أرجوك،\" صرخت أ-كين ساو."
+    },
+    {
+      "id": 48,
+      "text": "\"I haven't heard from A-ken for a whole year. He's either died or left me, but I must pay the rent by tomorrow. If I don't, the owner of the building is going to sell our daughter, Yeng-hua! But I have no money! I can't pay the rent! There's nothing I can do!\"",
+      "translation": "\"لم أسمع من أ-كين لمدة عام كامل. إما أنه مات أو تركني، لكن يجب أن أدفع الإيجار بحلول الغد. إذا لم أفعل، سيبيع مالك المبنى ابنتنا، يينغ-هوا! لكن ليس لدي مال! لا أستطيع دفع الإيجار! لا يوجد شيء يمكنني فعله!\""
+    },
+    {
+      "id": 49,
+      "text": "\"No! You're wrong. A-ken did write to you,\" said Mr Yeh.",
+      "translation": "\"لا! أنت مخطئة. أ-كين كتب إليك بالفعل،\" قال السيد يه."
+    },
+    {
+      "id": 50,
+      "text": "He was thinking hard.",
+      "translation": "كان يفكر بجد."
+    },
+    {
+      "id": 51,
+      "text": "A-ken Sao stopped struggling. \"Oh, do you have a letter for me then?\"",
+      "translation": "توقفت أ-كين ساو عن المقاومة. \"أوه، هل لديك رسالة لي إذن؟\""
+    },
+    {
+      "id": 52,
+      "text": "\"Um... well... I...\" said Mr Yeh. He let go of her and pretended to search in his pockets.",
+      "translation": "\"أم... حسناً... أنا...\" قال السيد يه. أفلتها وتظاهر بالبحث في جيوبه."
+    },
+    {
+      "id": 53,
+      "text": "After a minute, he smiled and apologized. \"Sorry, I thought I had a letter. I'm sure there was a letter.\"",
+      "translation": "بعد دقيقة، ابتسم واعتذر. \"آسف، اعتقدت أن لدي رسالة. أنا متأكد أنه كانت هناك رسالة.\""
+    },
+    {
+      "id": 54,
+      "text": "\"Oh!\" cried A-ken Sao, and she started to run toward the river again.",
+      "translation": "\"أوه!\" صرخت أ-كين ساو، وبدأت تركض نحو النهر مرة أخرى."
+    },
+    {
+      "id": 55,
+      "text": "Mr Yeh shouted, \"No! Wait! I was confused. I made a mistake. A-ken didn't give me a letter but he did send some money for you.\"",
+      "translation": "صرخ السيد يه: \"لا! انتظري! لقد كنت مرتبكاً. لقد ارتكبت خطأ. أ-كين لم يعطني رسالة لكنه أرسل بعض المال لك.\""
+    },
+    {
+      "id": 56,
+      "text": "He took his silver yuan-pao out of his bag, looked at it one last time, and gave it to A-ken Sao.",
+      "translation": "أخرج اليوان باو الفضي من حقيبته، ونظر إليه للمرة الأخيرة، وأعطاه لأ-كين ساو."
+    },
+    {
+      "id": 57,
+      "text": "She stopped and looked down for a quiet moment at the silver yuan-pao in her hand.",
+      "translation": "توقفت ونظرت إلى الأسفل للحظة هادئة إلى اليوان باو الفضي في يدها."
+    },
+    {
+      "id": 58,
+      "text": "A wide smile appeared on her face and then she began to laugh.",
+      "translation": "ظهرت ابتسامة عريضة على وجهها ثم بدأت تضحك."
+    },
+    {
+      "id": 59,
+      "text": "\"Oh! My husband is alive and hasn't forgotten us! And our daughter has been saved! Thank Buddha!\" she cried happily.",
+      "translation": "\"أوه! زوجي على قيد الحياة ولم ينسنا! وتم إنقاذ ابنتنا! شكراً بوذا!\" صرخت بسعادة."
+    },
+    {
+      "id": 60,
+      "text": "\"And thank you too, Mr Yeh. I must go to my daughter. Thank you! Thank you so much!\" She was crying again now, but with happiness, as she ran away down the road.",
+      "translation": "\"وشكراً لك أيضاً يا سيد يه. يجب أن أذهب إلى ابنتي. شكراً لك! شكراً جزيلاً!\" كانت تبكي مرة أخرى الآن، لكن من الفرح، وهي تركض بعيداً على الطريق."
+    },
+    {
+      "id": 61,
+      "text": "\"Watching her, I knew I'd just given our New Year's Eve dinner away,\" Mr Yeh told his wife, who was sitting opposite him at their table.",
+      "translation": "\"أثناء مراقبتها، علمت أنني تبرعت بعشاء ليلة رأس السنة الخاص بنا للتو،\" قال السيد يه لزوجته، التي كانت تجلس مقابله على طاولتهما."
+    },
+    {
+      "id": 62,
+      "text": "\"But what could I do?\" Mr Yeh was very depressed.",
+      "translation": "\"لكن ماذا كان بإمكاني أن أفعل؟\" كان السيد يه محبطاً للغاية."
+    },
+    {
+      "id": 63,
+      "text": "\"But why did you give A-ken Sao all your money?\" Mrs Yeh asked. \"Why didn't you save some for us?\"",
+      "translation": "\"لكن لماذا أعطيت أ-كين ساو كل مالك؟\" سألت السيدة يه. \"لماذا لم تحتفظ ببعضه لنا؟\""
+    },
+    {
+      "id": 64,
+      "text": "\"I had only one yuan-pao. I'd told her that this yuan-pao was A-ken's salary, which he'd asked me to give her.\"",
+      "translation": "\"كان لدي يوان باو واحد فقط. أخبرتها أن هذا اليوان باو هو راتب أ-كين، الذي طلب مني أن أعطيه لها.\""
+    },
+    {
+      "id": 65,
+      "text": "Mrs Yeh became angry. \"But what's going to happen to us now? Do we have to die of hunger because of your kindness? You must do something. We need food. I want you to ask our friends and neighbors for the same kindness. Go and borrow some money for our New Year's food.\"",
+      "translation": "غضبت السيدة يه. \"لكن ماذا سيحدث لنا الآن؟ هل يجب أن نموت جوعاً بسبب لطفك؟ يجب أن تفعل شيئاً. نحن بحاجة إلى طعام. أريدك أن تطلب من أصدقائنا وجيراننا نفس اللطف. اذهب واقترض بعض المال لطعام رأس السنة.\""
+    },
+    {
+      "id": 66,
+      "text": "Mr Yeh knew he couldn't refuse his wife, so he did as she asked.",
+      "translation": "عرف السيد يه أنه لا يستطيع رفض زوجته، ففعل كما طلبت."
+    },
+    {
+      "id": 67,
+      "text": "The next morning, he went out to ask their neighbors if he could borrow some money.",
+      "translation": "في صباح اليوم التالي، خرج ليسأل جيرانه إذا كان بإمكانه اقتراض بعض المال."
+    },
+    {
+      "id": 68,
+      "text": "He knew that New Year's Eve was the worst time to do this. People were busy cooking dinner, and they believed that people who borrowed money could bring them bad luck in the New Year.",
+      "translation": "كان يعلم أن ليلة رأس السنة كانت أسوأ وقت لفعل ذلك. كان الناس مشغولين بطهي العشاء، وكانوا يعتقدون أن الأشخاص الذين يقترضون المال يمكن أن يجلبوا لهم الحظ السيئ في العام الجديد."
+    },
+    {
+      "id": 69,
+      "text": "Almost every door was shut in his face. Finally one man gave him a small package, but when he opened it he discovered that it was only stones wrapped in some paper.",
+      "translation": "تم إغلاق كل باب تقريباً في وجهه. أخيراً أعطاه رجل حزمة صغيرة، لكن عندما فتحها اكتشف أنها كانت مجرد حجارة ملفوفة في بعض الورق."
+    },
+    {
+      "id": 70,
+      "text": "Tired and disappointed, Mr Yeh went home and told his wife he had failed.",
+      "translation": "تعب السيد يه وخاب أمله، فعاد إلى المنزل وأخبر زوجته أنه فشل."
+    },
+    {
+      "id": 71,
+      "text": "\"I'm exhausted,\" he said. \"Let's go to bed and not think about dinner. We have nothing to eat anyway. I'll try to think of something in the morning.\"",
+      "translation": "\"أنا منهك،\" قال. \"لنذهب إلى السرير ولا نفكر في العشاء. ليس لدينا ما نأكله على أي حال. سأحاول التفكير في شيء في الصباح.\""
+    },
+    {
+      "id": 72,
+      "text": "But his wife was too hungry to sleep.",
+      "translation": "لكن زوجته كانت جائعة جداً لدرجة أنها لم تستطع النوم."
+    },
+    {
+      "id": 73,
+      "text": "\"No, you have to do something,\" she told him. \"I have an idea. The fields are full of big sweet potatoes at the moment. Why don't you get some of those?\"",
+      "translation": "\"لا، يجب أن تفعل شيئاً،\" قالت له. \"لدي فكرة. الحقول مليئة بالبطاطا الحلوة الكبيرة في الوقت الحالي. لماذا لا تحضر بعضاً منها؟\""
+    },
+    {
+      "id": 74,
+      "text": "\"But those potatoes don't belong to us. Those aren't our fields,\" Mr Yeh replied.",
+      "translation": "\"لكن تلك البطاطا لا تنتمي إلينا. تلك ليست حقولنا،\" رد السيد يه."
+    },
+    {
+      "id": 75,
+      "text": "\"So?\"",
+      "translation": "\"وماذا في ذلك؟\""
+    },
+    {
+      "id": 76,
+      "text": "\"What? You want me to steal!\"",
+      "translation": "\"ماذا؟ تريدين مني أن أسرق!\""
+    },
+    {
+      "id": 77,
+      "text": "\"Well, let's say 'borrow.' I want you to 'borrow' some potatoes from the fields.\"",
+      "translation": "\"حسناً، لنقل 'أستعير'. أريدك أن 'تستعير' بعض البطاطا من الحقول.\""
+    },
+    {
+      "id": 78,
+      "text": "\"But dear, I can't do this,\" Mr Yeh replied.",
+      "translation": "\"لكن يا عزيزتي، لا أستطيع فعل هذا،\" رد السيد يه."
+    },
+    {
+      "id": 79,
+      "text": "\"Oh! But you can let us die of hunger!\" his wife shouted.",
+      "translation": "\"أوه! لكن يمكنك أن تدعنا نموت جوعاً!\" صرخت زوجته."
+    },
+    {
+      "id": 80,
+      "text": "Then she started to cry as she had never cried before.",
+      "translation": "ثم بدأت في البكاء كما لم تبكِ من قبل."
+    },
+    {
+      "id": 81,
+      "text": "And so finally Mr Yeh agreed to \"borrow\" some sweet potatoes.",
+      "translation": "وهكذا وافق السيد يه أخيراً على 'استعارة' بعض البطاطا الحلوة."
+    },
+    {
+      "id": 82,
+      "text": "The next evening he took a basket and walked toward the fields.",
+      "translation": "في مساء اليوم التالي أخذ سلة وسار نحو الحقول."
+    },
+    {
+      "id": 83,
+      "text": "These sweet potato fields belonged to a widow, Liu Sao, and her only son, young Hsiao-pao.",
+      "translation": "كانت حقول البطاطا الحلوة هذه مملوكة لأرملة، ليو ساو، وابنها الوحيد، الشاب هسياو باو."
+    },
+    {
+      "id": 84,
+      "text": "Liu Sao knew that New Year's Eve was a good time for people to steal sweet potatoes because she would be busy cooking and couldn't watch her fields.",
+      "translation": "عرفت ليو ساو أن ليلة رأس السنة كانت وقتاً جيداً للناس لسرقة البطاطا الحلوة لأنها ستكون مشغولة بالطهي ولن تتمكن من مراقبة حقولها."
+    },
+    {
+      "id": 85,
+      "text": "So this year she decided to take her son to the fields to guard the potatoes.",
+      "translation": "لذلك قررت هذا العام أن تأخذ ابنها إلى الحقول لحراسة البطاطا."
+    },
+    {
+      "id": 86,
+      "text": "She put up a tent for Hsiao-pao to sit in, left him, and went home to continue her work.",
+      "translation": "أقامت خيمة ليجلس فيها هسياو باو، وتركته، وعادت إلى المنزل لتواصل عملها."
+    },
+    {
+      "id": 87,
+      "text": "Hsiao-pao sat silently in the darkness, waiting and listening.",
+      "translation": "جلس هسياو باو بصمت في الظلام، ينتظر ويستمع."
+    },
+    {
+      "id": 88,
+      "text": "He had brought a big stick to beat any thieves with and he felt very serious and brave and strong.",
+      "translation": "كان قد أحضر عصا كبيرة ليضرب بها أي لصوص، وشعر بالجدية والشجاعة والقوة الشديدة."
+    },
+    {
+      "id": 89,
+      "text": "He sat there for hours trying not to fall asleep.",
+      "translation": "جلس هناك لساعات محاولاً ألا ينام."
+    },
+    {
+      "id": 90,
+      "text": "Just as his eyes were closing, he heard a small noise.",
+      "translation": "وبينما كانت عيناه تغلقان، سمع ضجيجاً صغيراً."
+    },
+    {
+      "id": 91,
+      "text": "He looked out into the dark night and saw a person walking very quietly along the edge of the field.",
+      "translation": "نظر إلى الليل المظلم ورأى شخصاً يسير بهدوء شديد على حافة الحقل."
+    },
+    {
+      "id": 92,
+      "text": "He couldn't see if it was a man or a woman.",
+      "translation": "لم يستطع رؤية ما إذا كان رجلاً أم امرأة."
+    },
+    {
+      "id": 93,
+      "text": "He watched and waited.",
+      "translation": "راقب وانتظر."
+    },
+    {
+      "id": 94,
+      "text": "This person then went into the small temple at the edge of the field, where people came to pray to the Buddha of earth.",
+      "translation": "ثم دخل هذا الشخص إلى المعبد الصغير على حافة الحقل، حيث يأتي الناس للصلاة لبوذا الأرض."
+    },
+    {
+      "id": 95,
+      "text": "Hsiao-pao went quickly to the temple and hid inside.",
+      "translation": "ذهب هسياو باو بسرعة إلى المعبد واختبأ في الداخل."
+    },
+    {
+      "id": 96,
+      "text": "He saw the person, a man, kneeling in front of the Buddha and whispering.",
+      "translation": "رأى الشخص، وهو رجل، راكعاً أمام بوذا ويهمس."
+    },
+    {
+      "id": 97,
+      "text": "In the darkness Hsiao-pao recognized his old teacher, Mr Yeh.",
+      "translation": "في الظلام تعرف هسياو باو على معلمه القديم، السيد يه."
+    },
+    {
+      "id": 98,
+      "text": "He was curious to know what Mr Yeh was saying but he couldn't quite hear, so he moved very quietly nearer to the Buddha.",
+      "translation": "كان فضولياً لمعرفة ما يقوله السيد يه لكنه لم يستطع السماع جيداً، فتحرك بهدوء شديد بالقرب من بوذا."
+    },
+    {
+      "id": 99,
+      "text": "He heard Mr Yeh asking, \"Buddha, what should I do?\"",
+      "translation": "سمع السيد يه يسأل: \"بوذا، ماذا يجب أن أفعل؟\""
+    },
+    {
+      "id": 100,
+      "text": "Then Mr Yeh told the Buddha what had happened to him and how his wife now wanted him to \"borrow\" some sweet potatoes.",
+      "translation": "ثم أخبر السيد يه بوذا بما حدث له وكيف أرادت زوجته الآن منه أن 'يستعير' بعض البطاطا الحلوة."
+    },
+    {
+      "id": 101,
+      "text": "He asked if the Buddha thought it was all right to do this \"just once\" because of their money problems.",
+      "translation": "سأل إذا كان بوذا يعتقد أنه لا بأس في فعل هذا 'لمرة واحدة فقط' بسبب مشاكلهما المالية."
+    },
+    {
+      "id": 102,
+      "text": "\"If you think this is all right, please show me,\" he prayed.",
+      "translation": "\"إذا كنت تعتقد أن هذا لا بأس به، أرجوك أرني،\" صلى."
+    },
+    {
+      "id": 103,
+      "text": "Then he stood up, took some chi'en out of their box near the Buddha, threw them on the ground, closed his eyes and prayed.",
+      "translation": "ثم وقف، وأخذ بعض التشي إن من صندوقها بالقرب من بوذا، وألقاها على الأرض، وأغمض عينيه وصلى."
+    },
+    {
+      "id": 104,
+      "text": "Chi'en are sticks that show your future.",
+      "translation": "التشي إن هي عصي تظهر مستقبلك."
+    },
+    {
+      "id": 105,
+      "text": "People use them to ask the gods for advice when they don't know what to do.",
+      "translation": "يستخدمها الناس لطلب النصيحة من الآلهة عندما لا يعرفون ماذا يفعلون."
+    },
+    {
+      "id": 106,
+      "text": "The chi'en have long and short lines cut into each side.",
+      "translation": "التشي إن لها خطوط طويلة وقصيرة محفورة على كل جانب."
+    },
+    {
+      "id": 107,
+      "text": "You throw the sticks on the ground and read the pattern they make.",
+      "translation": "ترمي العصي على الأرض وتقرأ النمط الذي تشكله."
+    },
+    {
+      "id": 108,
+      "text": "Different patterns have different meanings.",
+      "translation": "الأنماط المختلفة لها معانٍ مختلفة."
+    },
+    {
+      "id": 109,
+      "text": "One of the patterns means \"yes.\"",
+      "translation": "أحد الأنماط يعني \"نعم.\""
+    },
+    {
+      "id": 110,
+      "text": "Hsiao-pao laughed to himself when he heard what Mr Yeh was praying about.",
+      "translation": "ضحك هسياو باو في نفسه عندما سمع ما كان السيد يه يصلي بشأنه."
+    },
+    {
+      "id": 111,
+      "text": "\"I think I'll pretend to be Buddha tonight and have some fun,\" he thought.",
+      "translation": "\"أعتقد أنني سأتظاهر بأنني بوذا الليلة وأستمتع ببعض المرح،\" فكر."
+    },
+    {
+      "id": 112,
+      "text": "So while Mr Yeh was praying, Hsiao-pao moved closer and looked at the sticks.",
+      "translation": "لذا بينما كان السيد يه يصلي، اقترب هسياو باو ونظر إلى العصي."
+    },
+    {
+      "id": 113,
+      "text": "They didn't make the \"yes\" pattern, but he quickly changed the pattern so that they did.",
+      "translation": "لم تشكل نمط \"نعم\"، لكنه غير النمط بسرعة ليفعلوا ذلك."
+    },
+    {
+      "id": 114,
+      "text": "Mr Yeh opened his eyes, looked at the sticks and smiled.",
+      "translation": "فتح السيد يه عينيه، ونظر إلى العصي وابتسم."
+    },
+    {
+      "id": 115,
+      "text": "\"Oh, thank you, Buddha,\" he cried.",
+      "translation": "\"أوه، شكراً لك يا بوذا،\" صرخ."
+    },
+    {
+      "id": 116,
+      "text": "\"I promise to live well and pay Liu Sao and her son back as soon as I get some money.\"",
+      "translation": "\"أعد بأن أعيش بشكل جيد وأرد لليو ساو وابنها بمجرد حصولي على بعض المال.\""
+    },
+    {
+      "id": 117,
+      "text": "He kissed the ground at the Buddha's feet three times and left the temple.",
+      "translation": "قبل الأرض عند قدمي بوذا ثلاث مرات وغادر المعبد."
+    },
+    {
+      "id": 118,
+      "text": "Hsiao-pao quietly followed him, laughing to himself and thinking about how his old teacher, Mr Yeh, had always told his students never to steal.",
+      "translation": "تبعه هسياو باو بهدوء، وهو يضحك في نفسه ويفكر في كيف أن معلمه القديم، السيد يه، كان دائماً يخبر طلابه ألا يسرقوا أبداً."
+    },
+    {
+      "id": 119,
+      "text": "He hid behind some bushes at the edge of the field and watched Mr Yeh fill his basket with sweet potatoes that he dug from the earth.",
+      "translation": "اختبأ خلف بعض الشجيرات على حافة الحقل وراقب السيد يه يملأ سلته بالبطاطا الحلوة التي حفرها من الأرض."
+    },
+    {
+      "id": 120,
+      "text": "As Hsiao-pao watched, he thought, \"Mr Yeh was an excellent teacher but he's terrible at digging!\"",
+      "translation": "وبينما كان هسياو باو يراقب، فكر: \"كان السيد يه معلماً ممتازاً لكنه فظيع في الحفر!\""
+    },
+    {
+      "id": 121,
+      "text": "Mr Yeh was so inexperienced and afraid of being discovered that he dug very slowly.",
+      "translation": "كان السيد يه قليل الخبرة جداً وخائفاً من الاكتشاف لدرجة أنه حفر ببطء شديد."
+    },
+    {
+      "id": 122,
+      "text": "He finally cried out, \"This is hopeless! Please help me, Buddha!\"",
+      "translation": "صرخ أخيراً: \"هذا ميؤوس منه! أرجوك ساعدني يا بوذا!\""
+    },
+    {
+      "id": 123,
+      "text": "Hsiao-pao felt very sympathetic about poor Mr Yeh's situation.",
+      "translation": "شعر هسياو باو بتعاطف كبير مع وضع السيد يه المسكين."
+    },
+    {
+      "id": 124,
+      "text": "\"You want some help?\" he thought. \"I'll help and have some more fun at the same time.\"",
+      "translation": "\"هل تريد بعض المساعدة؟\" فكر. \"سأساعد وأستمتع ببعض المرح في نفس الوقت.\""
+    },
+    {
+      "id": 125,
+      "text": "He took out his knife and started digging up sweet potatoes.",
+      "translation": "أخرج سكينته وبدأ يحفر البطاطا الحلوة."
+    },
+    {
+      "id": 126,
+      "text": "He could do this very quickly because he was so experienced.",
+      "translation": "كان بإمكانه فعل ذلك بسرعة كبيرة لأنه كان ذا خبرة."
+    },
+    {
+      "id": 127,
+      "text": "As soon as he had gathered several potatoes on the ground around him, he threw a handful at Mr Yeh.",
+      "translation": "بمجرد أن جمع العديد من البطاطا على الأرض حوله، ألقى حفنة على السيد يه."
+    },
+    {
+      "id": 128,
+      "text": "\"Ouch!\" Mr Yeh, said, as one hit his head.",
+      "translation": "\"آخ!\" قال السيد يه، عندما أصابت واحدة رأسه."
+    },
+    {
+      "id": 129,
+      "text": "\"Oh, Buddha, thank you!\"",
+      "translation": "\"أوه، بوذا، شكراً لك!\""
+    },
+    {
+      "id": 130,
+      "text": "The potatoes continued to rain down all around him as Hsiao-pao threw them from behind the bushes.",
+      "translation": "استمرت البطاطا في التساقط حوله بينما كان هسياو باو يرميها من خلف الشجيرات."
+    },
+    {
+      "id": 131,
+      "text": "Mr Yeh was amazed.",
+      "translation": "كان السيد يه مندهشاً."
+    },
+    {
+      "id": 132,
+      "text": "He thanked Buddha again but asked him to slow down a little.",
+      "translation": "شكر بوذا مرة أخرى لكنه طلب منه أن يبطئ قليلاً."
+    },
+    {
+      "id": 133,
+      "text": "When Hsiao-pao, the little Buddha, thought that Mr Yeh had enough, he stopped.",
+      "translation": "عندما اعتقد هسياو باو، بوذا الصغير، أن السيد يه قد اكتفى، توقف."
+    },
+    {
+      "id": 134,
+      "text": "Mr Yeh then finished filling his basket and walked slowly home.",
+      "translation": "ثم أنهى السيد يه ملء سلته وسار ببطء إلى المنزل."
+    },
+    {
+      "id": 135,
+      "text": "Liu Sao finished her cooking and came to get her son.",
+      "translation": "أنهت ليو ساو طهيها وجاءت لتحضر ابنها."
+    },
+    {
+      "id": 136,
+      "text": "She was very angry when she found the tent empty, holes everywhere and many of her sweet potatoes gone.",
+      "translation": "غضبت جداً عندما وجدت الخيمة فارغة، وحفر في كل مكان، والعديد من البطاطا الحلوة قد اختفت."
+    },
+    {
+      "id": 137,
+      "text": "\"Look at this mess!\" she shouted. \"Did you fall asleep? Where are my sweet potatoes?\"",
+      "translation": "\"انظر إلى هذه الفوضى!\" صرخت. \"هل نمت؟ أين البطاطا الحلوة الخاصة بي؟\""
+    },
+    {
+      "id": 138,
+      "text": "\"Mr Yeh stole them, Mother!\" Hsiao-pao told her with excitement.",
+      "translation": "\"السيد يه سرقها يا أمي!\" أخبرها هسياو باو بحماس."
+    },
+    {
+      "id": 139,
+      "text": "\"Hsiao-pao! Don't say such things about your old teacher, who is such a good man and has helped so many people!\"",
+      "translation": "\"هسياو باو! لا تقل مثل هذه الأشياء عن معلمك القديم، الذي هو رجل طيب جداً وقد ساعد الكثير من الناس!\""
+    },
+    {
+      "id": 140,
+      "text": "Hsiao-pao cried, \"But it's true, mother, and I helped him!\"",
+      "translation": "صرخ هسياو باو: \"لكنه صحيح يا أمي، وأنا ساعدته!\""
+    },
+    {
+      "id": 141,
+      "text": "Then he told her the whole story.",
+      "translation": "ثم أخبرها بالقصة كاملة."
+    },
+    {
+      "id": 142,
+      "text": "Liu Sao felt sorry for Mr Yeh and realized that he must be having a difficult time.",
+      "translation": "شعرت ليو ساو بالأسف على السيد يه وأدركت أنه لا بد أنه يمر بوقت عصيب."
+    },
+    {
+      "id": 143,
+      "text": "So she decided that the next morning she and Hsiao-pao would go and wish Mr Yeh and his wife a happy New Year, and take them some of the delicious New Year's food that she had cooked.",
+      "translation": "لذلك قررت أنه في صباح اليوم التالي ستذهب هي وهسياو باو لتهنئة السيد يه وزوجته بالسنة الجديدة، ويأخذان لهما بعضاً من طعام رأس السنة اللذيذ الذي طهته."
+    },
+    {
+      "id": 144,
+      "text": "The next morning, as Liu Sao and Hsiao-pao were walking up to Mr Yeh's house, they heard Mr and Mrs Yeh talking happily to each other.",
+      "translation": "في صباح اليوم التالي، بينما كانت ليو ساو وهسياو باو يسيران نحو منزل السيد يه، سمعا السيد والسيدة يه يتحدثان بسعادة مع بعضهما البعض."
+    },
+    {
+      "id": 145,
+      "text": "They stood under the window to listen and were very surprised to hear what they were saying.",
+      "translation": "وقفا تحت النافذة ليستمعا وكانا مندهشين جداً مما سمعاه."
+    },
+    {
+      "id": 146,
+      "text": "\"Old woman, help yourself, eat some lovely pork with red wine.\"",
+      "translation": "\"أيتها العجوز، تفضلي، كلي بعض لحم الخنزير اللذيذ مع النبيذ الأحمر.\""
+    },
+    {
+      "id": 147,
+      "text": "\"Old man, don't be shy, have some nice cold sliced pork.\"",
+      "translation": "\"أيها العجوز، لا تخجل، تناول بعض لحم الخنزير البارد المقطع اللذيذ.\""
+    },
+    {
+      "id": 148,
+      "text": "Hsiao-pao was very upset.",
+      "translation": "كان هسياو باو مستاءً جداً."
+    },
+    {
+      "id": 149,
+      "text": "\"He lied! He's a thief! He stole our sweet potatoes but all the time he had money to buy pork!\"",
+      "translation": "\"لقد كذب! إنه سارق! لقد سرق البطاطا الحلوة لكن طوال الوقت كان لديه مال لشراء لحم الخنزير!\""
+    },
+    {
+      "id": 150,
+      "text": "\"Quiet, son,\" his mother said, and she looked through the window to see what was happening.",
+      "translation": "\"اهدأ يا بني،\" قالت أمه، ونظرت من النافذة لترى ما يحدث."
+    },
+    {
+      "id": 151,
+      "text": "She saw Mr Yeh putting a piece of red-skinned sweet potato into his wife's bowl as she was putting a piece of white-skinned sweet potato into his bowl.",
+      "translation": "رأت السيد يه يضع قطعة من البطاطا الحلوة ذات القشرة الحمراء في وعاء زوجته بينما كانت تضع قطعة من البطاطا الحلوة ذات القشرة البيضاء في وعائه."
+    },
+    {
+      "id": 152,
+      "text": "They were both pretending that they were eating real pork!",
+      "translation": "كان كلاهما يتظاهران بأنهما يأكلان لحم خنزير حقيقي!"
+    },
+    {
+      "id": 153,
+      "text": "\"It's all right, son,\" she said.",
+      "translation": "\"لا بأس يا بني،\" قالت."
+    },
+    {
+      "id": 154,
+      "text": "Then she lifted Hsiao-pao up so he could see.",
+      "translation": "ثم رفعت هسياو باو ليرى."
+    },
+    {
+      "id": 155,
+      "text": "He immediately jumped down, banged on Mr Yeh's door and shouted for him to come.",
+      "translation": "قفز فوراً، وطرق باب السيد يه وصاح ليأتي."
+    },
+    {
+      "id": 156,
+      "text": "When Mr Yeh heard Hsiao-pao, he jumped up from his chair, frightened, and whispered to his wife, \"Oh no! Hsiao-pao's here! Quick! Hide these!\"",
+      "translation": "عندما سمع السيد يه هسياو باو، قفز من كرسيه، خائفاً، وهمس لزوجته: \"أوه لا! هسياو باو هنا! بسرعة! أخفي هذه!\""
+    },
+    {
+      "id": 157,
+      "text": "Mrs Yeh quickly took away the rest of the potatoes while Mr Yeh looked for a place to hide the skins of the potatoes they had already eaten.",
+      "translation": "أخذت السيدة يه بقية البطاطا بسرعة بينما كان السيد يه يبحث عن مكان لإخفاء قشور البطاطا التي تناولوها بالفعل."
+    },
+    {
+      "id": 158,
+      "text": "He rushed to the fire, put them in a pot and put the lid on.",
+      "translation": "أسرع إلى النار، ووضعها في وعاء ووضع الغطاء."
+    },
+    {
+      "id": 159,
+      "text": "Then he opened the door for Hsiao-pao and his mother.",
+      "translation": "ثم فتح الباب لهسياو باو وأمه."
+    },
+    {
+      "id": 160,
+      "text": "\"Happy New Year, Mr Yeh,\" said Liu Sao, as she gave him his New Year's Eve food.",
+      "translation": "\"سنة جديدة سعيدة يا سيد يه،\" قالت ليو ساو، وهي تعطيه طعام ليلة رأس السنة."
+    },
+    {
+      "id": 161,
+      "text": "Mr Yeh was very embarrassed, but before he could say anything A-ken Sao came through the door with her daughter, Ying-hua.",
+      "translation": "كان السيد يه محرجاً جداً، لكن قبل أن يتمكن من قول أي شيء، دخلت أ-كين ساو من الباب مع ابنتها، يينغ-هوا."
+    },
+    {
+      "id": 162,
+      "text": "\"Mr Yeh,\" A-ken Sao called.",
+      "translation": "\"سيد يه،\" نادت أ-كين ساو."
+    },
+    {
+      "id": 163,
+      "text": "\"We've just come to thank you again for giving us A-ken's money and making our New Year such a happy one. Happy New Year to you and your good wife.\"",
+      "translation": "\"لقد جئنا للتو لنشكرك مرة أخرى على إعطائنا مال أ-كين وجعل عامنا الجديد سعيداً. سنة جديدة سعيدة لك ولزوجتك الطيبة.\""
+    },
+    {
+      "id": 164,
+      "text": "While all this was happening, no one noticed that A-ken had appeared and was standing in the door listening.",
+      "translation": "بينما كان كل هذا يحدث، لم يلاحظ أحد أن أ-كين قد ظهر وكان واقفاً في الباب يستمع."
+    },
+    {
+      "id": 165,
+      "text": "So they all jumped when he quietly asked, \"What's this about my money?\"",
+      "translation": "فقفز الجميع عندما سأل بهدوء: \"ما هذا الذي عن مالي؟\""
+    },
+    {
+      "id": 166,
+      "text": "\"My darling!\" cried A-ken Sao, and she rushed into his arms,",
+      "translation": "\"يا حبيبي!\" صرخت أ-كين ساو، واندفعت إلى ذراعيه،"
+    },
+    {
+      "id": 167,
+      "text": "saying, \"I'm just thanking Mr Yeh for giving me...\"",
+      "translation": "قائلة: \"أنا فقط أشكر السيد يه لأنه أعطاني...\""
+    },
+    {
+      "id": 168,
+      "text": "\"I know, I heard,\" he answered. \"But I didn't give Mr Yeh anything. I'm completely confused.\"",
+      "translation": "\"أعرف، لقد سمعت،\" أجاب. \"لكني لم أعط السيد يه أي شيء. أنا مرتبك تماماً.\""
+    },
+    {
+      "id": 169,
+      "text": "Hsiao-Pao suddenly interrupted.",
+      "translation": "قاطع هسياو باو فجأة."
+    },
+    {
+      "id": 170,
+      "text": "\"I know everything! Sit down and let me tell you!\" And he told them the whole story.",
+      "translation": "\"أنا أعرف كل شيء! اجلسوا ودعني أخبركم!\" وأخبرهم بالقصة كاملة."
+    },
+    {
+      "id": 171,
+      "text": "When he had finished, both A-ken and his wife fell down on their knees in front of Mr Yeh, crying, \"Oh, Mr Yeh, how can we thank you?\"",
+      "translation": "عندما انتهى، سقط كل من أ-كين وزوجته على ركبهما أمام السيد يه، وهم يبكون: \"أوه، سيد يه، كيف يمكننا أن نشكرك؟\""
+    },
+    {
+      "id": 172,
+      "text": "Hsiao-pao laughed loudly then for the first time.",
+      "translation": "ضحك هسياو باو بصوت عالٍ حينها للمرة الأولى."
+    },
+    {
+      "id": 173,
+      "text": "He ran over to the pot where Mr Yeh had hidden the sweet potato skins.",
+      "translation": "ركض إلى الوعاء حيث أخفى السيد يه قشور البطاطا الحلوة."
+    },
+    {
+      "id": 174,
+      "text": "He took them out, threw them up in the air and shouted, \"Happy New Year!\"",
+      "translation": "أخرجها، وألقاها في الهواء وصرخ: \"سنة جديدة سعيدة!\""
+    },
+    {
+      "id": 175,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 176,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 177,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
