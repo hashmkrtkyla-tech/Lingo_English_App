@@ -1,0 +1,832 @@
+{
+  "titles": {
+    "a1_26": "Je, tu, nous, ils",
+    "a1_27": "J'aime, je n'aime pas",
+    "a1_28": "Je veux, j'ai besoin",
+    "a1_29": "Tu me comprends ?",
+    "a1_30": "Merci et pardon",
+    "a1_31": "Mon matin",
+    "a1_32": "Mon trajet pour aller au travail",
+    "a1_33": "Soirée à la maison",
+    "a1_34": "Cuisiner à la maison",
+    "a1_35": "Au marché",
+    "a1_36": "Fruits et légumes",
+    "a1_37": "Le week-end",
+    "a1_38": "Mes passe-temps",
+    "a1_39": "Le sport",
+    "a1_40": "Mon téléphone",
+    "a1_41": "Un appel téléphonique",
+    "a1_42": "À l'aéroport",
+    "a1_43": "À l'hôtel",
+    "a1_44": "Au café",
+    "a1_45": "Les transports",
+    "a1_46": "École et université",
+    "a1_47": "Mes amis",
+    "a1_48": "J'apprends chaque jour",
+    "a1_49": "Mes rêves",
+    "a1_50": "Grande révision"
+  },
+  "c": {
+    "we": "nous",
+    "they": "ils",
+    "he": "il",
+    "she": "elle",
+    "we_are_students": "Nous sommes étudiants",
+    "he_is_my_friend": {
+      "t": "Il est mon ami",
+      "g": [
+        3
+      ]
+    },
+    "we_live_together": {
+      "t": "Nous vivons ensemble",
+      "g": [
+        2
+      ]
+    },
+    "you_are_kind": {
+      "t": "Tu es gentil",
+      "g": [
+        2
+      ]
+    },
+    "she_is_my_sister": {
+      "t": "Elle est ma sœur",
+      "g": [
+        3
+      ]
+    },
+    "they_are_here": "Ils sont ici",
+    "music": "musique",
+    "movies": "films",
+    "juice": "jus",
+    "chocolate": "chocolat",
+    "i_like_coffee": {
+      "t": "J'aime le café",
+      "g": [
+        2
+      ]
+    },
+    "do_you_like_movies": {
+      "t": "Tu aimes les films?",
+      "g": [
+        3
+      ]
+    },
+    "i_like_apples": {
+      "t": "J'aime les pommes",
+      "g": [
+        2
+      ]
+    },
+    "i_love_music": {
+      "t": "J'adore la musique",
+      "g": [
+        2
+      ]
+    },
+    "i_dont_like_it": "Je n'aime pas ça",
+    "she_likes_juice": {
+      "t": "Elle aime le jus",
+      "g": [
+        1
+      ]
+    },
+    "i_dont_like_cold": {
+      "t": "Je n'aime pas le temps froid",
+      "g": [
+        5
+      ]
+    },
+    "help": "aide",
+    "cup": "tasse",
+    "home": "foyer",
+    "i_need_help": "J'ai besoin d'aide",
+    "i_want_to_sleep": "Je veux dormir",
+    "i_need_water": {
+      "t": "J'ai besoin d'eau",
+      "g": [
+        1
+      ]
+    },
+    "do_you_need_help": {
+      "t": "Tu as besoin d'aide?",
+      "g": [
+        3
+      ]
+    },
+    "what_do_you_want": {
+      "t": "Qu'est-ce que tu veux?",
+      "g": [
+        3
+      ]
+    },
+    "i_dont_want_that": "Je ne veux pas cela",
+    "i_want_tea": {
+      "t": "Je veux une tasse de thé",
+      "g": [
+        3
+      ]
+    },
+    "he_wants_home": {
+      "t": "Il veut rentrer à la maison",
+      "g": [
+        2
+      ]
+    },
+    "understand": "comprendre",
+    "repeat": "répéter",
+    "word": "mot",
+    "slowly": "lentement",
+    "fast": "rapide",
+    "speak_slowly": {
+      "t": "Parle lentement, s'il te plaît",
+      "g": [
+        1
+      ]
+    },
+    "can_you_help_me": "Peux-tu m'aider?",
+    "i_dont_understand": {
+      "t": "Je ne comprends pas",
+      "g": [
+        2
+      ]
+    },
+    "please_repeat": {
+      "t": "Répète ça, s'il te plaît",
+      "g": [
+        0
+      ]
+    },
+    "do_you_understand_me": "Tu me comprends?",
+    "i_understand": "Je comprends",
+    "how_do_you_say": {
+      "t": "Comment on dit ça?",
+      "g": [
+        2
+      ]
+    },
+    "what_does_it_mean": {
+      "t": "Que signifie ce mot?",
+      "g": [
+        1
+      ]
+    },
+    "excuse_me": "Excusez-moi",
+    "no_problem": {
+      "t": "Pas de problème",
+      "g": [
+        2
+      ]
+    },
+    "thats_okay": {
+      "t": "Ce n'est pas grave",
+      "g": [
+        3
+      ]
+    },
+    "thanks_for_help": {
+      "t": "Merci pour ton aide",
+      "g": [
+        3
+      ]
+    },
+    "sorry_late": "Désolé, je suis en retard",
+    "see_you_later": {
+      "t": "À plus tard",
+      "g": [
+        2
+      ]
+    },
+    "have_nice_day": {
+      "t": "Bonne journée",
+      "g": [
+        1
+      ]
+    },
+    "im_sorry": "Je suis désolé",
+    "see_you_tomorrow": {
+      "t": "À demain",
+      "g": [
+        1
+      ]
+    },
+    "alarm": "réveil",
+    "towel": "serviette",
+    "soap": "savon",
+    "shower": "douche",
+    "teeth": "dents",
+    "i_wake_up_early": "Je me réveille tôt",
+    "i_brush_teeth": "Je me brosse les dents",
+    "i_take_shower": {
+      "t": "Je prends une douche",
+      "g": [
+        3
+      ]
+    },
+    "alarm_rings": {
+      "t": "Le réveil sonne à six heures",
+      "g": [
+        1
+      ]
+    },
+    "i_eat_breakfast": {
+      "t": "Je prends le petit-déjeuner à sept heures",
+      "g": [
+        3
+      ]
+    },
+    "i_make_bed": "Je fais mon lit",
+    "i_drink_coffee": {
+      "t": "Je bois du café le matin",
+      "g": [
+        3
+      ]
+    },
+    "train": "train",
+    "taxi": "taxi",
+    "ticket": "billet",
+    "station": "gare",
+    "traffic": "circulation",
+    "minute": "minute",
+    "i_take_train": {
+      "t": "Je prends le train pour aller au travail",
+      "g": [
+        3
+      ]
+    },
+    "it_takes_thirty": "Ça prend trente minutes",
+    "where_is_station": {
+      "t": "Où est la gare?",
+      "g": [
+        3
+      ]
+    },
+    "traffic_is_heavy": {
+      "t": "La circulation est dense",
+      "g": [
+        3
+      ]
+    },
+    "take_taxi": "Prenons un taxi",
+    "i_buy_ticket": {
+      "t": "J'achète un billet",
+      "g": [
+        2
+      ]
+    },
+    "i_listen_music_way": "J'écoute de la musique en chemin",
+    "dinner": "dîner",
+    "lamp": "lampe",
+    "sofa": "canapé",
+    "tv": "télévision",
+    "we_eat_dinner": {
+      "t": "Nous dînons ensemble",
+      "g": [
+        2
+      ]
+    },
+    "i_watch_tv": "Je regarde la télévision le soir",
+    "i_relax_sofa": {
+      "t": "Je me détends sur le canapé",
+      "g": [
+        5
+      ]
+    },
+    "i_read_before_bed": {
+      "t": "Je lis un livre avant de dormir",
+      "g": [
+        3
+      ]
+    },
+    "i_go_to_bed": {
+      "t": "Je vais au lit à dix heures",
+      "g": [
+        3
+      ]
+    },
+    "turn_off_lamp": "Éteins la lampe",
+    "spoon": "cuillère",
+    "fork": "fourchette",
+    "knife": "couteau",
+    "plate": "assiette",
+    "pot": "casserole",
+    "salt": "sel",
+    "i_cook_at_home": {
+      "t": "Je cuisine d'habitude à la maison",
+      "g": [
+        1
+      ]
+    },
+    "add_salt": "Ajoute un peu de sel",
+    "the_plate_is_clean": {
+      "t": "L'assiette est propre",
+      "g": [
+        2
+      ]
+    },
+    "i_eat_outside": {
+      "t": "Je mange parfois dehors",
+      "g": [
+        3
+      ]
+    },
+    "i_avoid_fast_food": "J'évite la restauration rapide",
+    "use_fork_and_knife": "Utilise une fourchette et un couteau",
+    "cook_in_pot": {
+      "t": "Je fais cuire du riz dans une casserole",
+      "g": [
+        7
+      ]
+    },
+    "market": "marché",
+    "basket": "panier",
+    "kilo": "kilo",
+    "fresh": "frais",
+    "i_buy_fresh_bread": {
+      "t": "J'achète du pain frais",
+      "g": [
+        3
+      ]
+    },
+    "one_kilo": "Un kilo de riz, s'il vous plaît",
+    "put_in_basket": {
+      "t": "Mets-le dans le panier",
+      "g": [
+        3
+      ]
+    },
+    "is_it_fresh": {
+      "t": "C'est frais?",
+      "g": [
+        1
+      ]
+    },
+    "i_go_to_market": "Je vais au marché le samedi",
+    "how_much_kilo": {
+      "t": "Combien coûte le kilo?",
+      "g": [
+        3
+      ]
+    },
+    "banana": "banane",
+    "orange": "orange",
+    "grapes": "raisin",
+    "tomato": "tomate",
+    "potato": "pomme de terre",
+    "carrot": "carotte",
+    "vegetables": "légumes",
+    "i_buy_potatoes": "J'achète des pommes de terre et des carottes",
+    "fruit": "fruit",
+    "i_eat_banana": {
+      "t": "Je mange une banane tous les jours",
+      "g": [
+        3
+      ]
+    },
+    "tomatoes_are_red": {
+      "t": "Les tomates sont rouges",
+      "g": [
+        3
+      ]
+    },
+    "do_you_like_grapes": {
+      "t": "Tu aimes le raisin?",
+      "g": [
+        3
+      ]
+    },
+    "fruit_is_healthy": "Les fruits sont bons pour la santé",
+    "i_like_oranges": "J'aime le jus d'orange",
+    "vegetables_fresh": {
+      "t": "Ces légumes sont frais",
+      "g": [
+        3
+      ]
+    },
+    "weekend": "week-end",
+    "beach": "plage",
+    "cinema": "cinéma",
+    "picnic": "pique-nique",
+    "i_rest_weekend": {
+      "t": "Je me repose le week-end",
+      "g": [
+        2
+      ]
+    },
+    "we_go_to_beach": "Nous allons à la plage le vendredi",
+    "lets_go_cinema": {
+      "t": "Allons au cinéma",
+      "g": [
+        2
+      ]
+    },
+    "picnic_in_park": {
+      "t": "Nous faisons un pique-nique au parc",
+      "g": [
+        3
+      ]
+    },
+    "have_a_good_weekend": "Bon week-end",
+    "i_visit_family": "Je rends visite à ma famille",
+    "i_sleep_late": {
+      "t": "Je dors tard le samedi",
+      "g": [
+        2
+      ]
+    },
+    "hobby": "passe-temps",
+    "guitar": "guitare",
+    "drawing": "dessin",
+    "singing": "chant",
+    "reading": "lecture",
+    "cooking": "cuisiner",
+    "i_like_drawing": "J'aime dessiner",
+    "i_play_guitar": "Je joue de la guitare",
+    "my_hobby_is_reading": {
+      "t": "Mon passe-temps, c'est la lecture",
+      "g": [
+        4
+      ]
+    },
+    "she_likes_singing": {
+      "t": "Elle aime chanter",
+      "g": [
+        2
+      ]
+    },
+    "what_is_your_hobby": {
+      "t": "Quel est ton passe-temps?",
+      "g": [
+        3
+      ]
+    },
+    "in_free_time_read": "Pendant mon temps libre, je lis des livres",
+    "i_enjoy_learning": {
+      "t": "J'aime apprendre de nouvelles choses",
+      "g": [
+        1
+      ]
+    },
+    "ball": "ballon",
+    "team": "équipe",
+    "game": "match",
+    "sport": "sport",
+    "swimming": "natation",
+    "tennis": "tennis",
+    "i_play_football": {
+      "t": "Je joue au football le vendredi",
+      "g": [
+        3
+      ]
+    },
+    "our_team_wins": "Notre équipe gagne",
+    "he_plays_tennis": {
+      "t": "Il joue au tennis avec son ami",
+      "g": [
+        3
+      ]
+    },
+    "i_like_swimming": {
+      "t": "J'aime la natation",
+      "g": [
+        2
+      ]
+    },
+    "sports_weekend": "Je fais du sport le week-end",
+    "the_game_is_at_five": "Le match est à cinq heures",
+    "throw_the_ball": {
+      "t": "Lance le ballon",
+      "g": [
+        2
+      ]
+    },
+    "battery": "batterie",
+    "charger": "chargeur",
+    "screen": "écran",
+    "message": "message",
+    "app": "application",
+    "i_need_charger": "J'ai besoin d'un chargeur",
+    "i_send_message": "J'envoie un message",
+    "my_battery_low": {
+      "t": "Ma batterie est faible",
+      "g": [
+        1
+      ]
+    },
+    "i_use_apps": {
+      "t": "J'utilise des applications pour apprendre",
+      "g": [
+        2
+      ]
+    },
+    "reduce_screen_time": "J'essaie de réduire le temps d'écran",
+    "i_check_phone": {
+      "t": "Je regarde trop mon téléphone",
+      "g": [
+        1
+      ]
+    },
+    "call_me_later": {
+      "t": "Rappelle-moi plus tard",
+      "g": [
+        2
+      ]
+    },
+    "call": "appel",
+    "number": "numéro",
+    "answer": "répondre",
+    "busy": "occupé",
+    "whats_your_number": {
+      "t": "Quel est ton numéro de téléphone?",
+      "g": [
+        3
+      ]
+    },
+    "hello_who_is_this": "Allô, qui est à l'appareil?",
+    "i_will_call_you": {
+      "t": "Je t'appellerai demain",
+      "g": [
+        1
+      ]
+    },
+    "can_i_call_later": {
+      "t": "Je peux t'appeler plus tard?",
+      "g": [
+        4
+      ]
+    },
+    "this_is_anna_speaking": "Ici Anna",
+    "im_busy_now": {
+      "t": "Je suis occupé maintenant",
+      "g": [
+        2
+      ]
+    },
+    "please_answer": "Réponds au téléphone, s'il te plaît",
+    "airport": "aéroport",
+    "plane": "avion",
+    "gate": "porte d'embarquement",
+    "passport": "passeport",
+    "suitcase": "valise",
+    "flight": "vol",
+    "here_is_passport": "Voici mon passeport",
+    "my_flight_at_nine": "Mon vol est à neuf heures",
+    "where_is_gate": {
+      "t": "Où est la porte d'embarquement?",
+      "g": [
+        3
+      ]
+    },
+    "the_plane_is_late": {
+      "t": "L'avion est en retard",
+      "g": [
+        3
+      ]
+    },
+    "welcome_to_airport": {
+      "t": "Bienvenue à l'aéroport",
+      "g": [
+        2
+      ]
+    },
+    "i_have_one_suitcase": "J'ai une valise",
+    "i_need_ticket": {
+      "t": "J'ai besoin de mon billet",
+      "g": [
+        4
+      ]
+    },
+    "hotel": "hôtel",
+    "reservation": "réservation",
+    "key": "clé",
+    "floor": "étage",
+    "elevator": "ascenseur",
+    "i_have_reservation": {
+      "t": "J'ai une réservation",
+      "g": [
+        2
+      ]
+    },
+    "here_is_key": "Voici ta clé",
+    "where_is_elevator": {
+      "t": "Où est l'ascenseur?",
+      "g": [
+        2
+      ]
+    },
+    "breakfast_at_seven": {
+      "t": "Le petit-déjeuner est à sept heures",
+      "g": [
+        4
+      ]
+    },
+    "the_room_is_clean": "La chambre est propre",
+    "room_on_third_floor": {
+      "t": "La chambre est au troisième étage",
+      "g": [
+        5
+      ]
+    },
+    "room_for_two": {
+      "t": "Une chambre pour deux nuits",
+      "g": [
+        4
+      ]
+    },
+    "cake": "gâteau",
+    "sandwich": "sandwich",
+    "sugar": "sucre",
+    "cafe": "cafétéria",
+    "a_coffee_please": "Un café, s'il vous plaît",
+    "with_sugar": "Avec du sucre, s'il vous plaît",
+    "i_want_cake": {
+      "t": "Je veux une part de gâteau",
+      "g": [
+        5
+      ]
+    },
+    "the_coffee_is_hot": {
+      "t": "Le café est chaud",
+      "g": [
+        3
+      ]
+    },
+    "is_there_wifi": {
+      "t": "Il y a du wifi ici?",
+      "g": [
+        4
+      ]
+    },
+    "table_by_window": {
+      "t": "Une table près de la fenêtre",
+      "g": [
+        5
+      ]
+    },
+    "a_sandwich_and_juice": {
+      "t": "Un sandwich et un jus",
+      "g": [
+        1
+      ]
+    },
+    "bicycle": "vélo",
+    "boat": "bateau",
+    "metro": "métro",
+    "map": "plan",
+    "road": "route",
+    "left": "gauche",
+    "right": "droite",
+    "i_ride_bicycle": {
+      "t": "Je vais à l'école à vélo",
+      "g": [
+        5
+      ]
+    },
+    "turn_right_road": "Tourne à droite sur la route",
+    "boat_is_slow": {
+      "t": "Le bateau est lent",
+      "g": [
+        1
+      ]
+    },
+    "take_metro": {
+      "t": "Prends le métro",
+      "g": [
+        2
+      ]
+    },
+    "how_do_you_travel": "Comment voyages-tu?",
+    "look_at_map": "Regarde le plan",
+    "fast_train": {
+      "t": "Le train est rapide",
+      "g": [
+        1
+      ]
+    },
+    "exam": "examen",
+    "homework": "devoirs",
+    "lesson": "leçon",
+    "university": "université",
+    "class": "classe",
+    "i_study_university": "J'étudie à l'université",
+    "the_class_starts": "Le cours commence à huit heures",
+    "i_do_homework": {
+      "t": "Je fais mes devoirs",
+      "g": [
+        3
+      ]
+    },
+    "teacher_explains": {
+      "t": "Le professeur explique la leçon",
+      "g": [
+        2
+      ]
+    },
+    "open_your_book": "Ouvre ton livre",
+    "exam_tomorrow": "L'examen est demain",
+    "i_ask_questions": {
+      "t": "Je pose des questions quand je ne comprends pas",
+      "g": [
+        1
+      ]
+    },
+    "neighbor": "voisin",
+    "funny": "drôle",
+    "kind": "gentil",
+    "smart": "intelligent",
+    "tall": "grand",
+    "he_is_my_best_friend": {
+      "t": "Il est mon meilleur ami",
+      "g": [
+        4
+      ]
+    },
+    "we_play_together": "Nous jouons ensemble après l'école",
+    "she_is_funny": {
+      "t": "Elle est très drôle",
+      "g": [
+        3
+      ]
+    },
+    "my_friend_is_tall": {
+      "t": "Mon ami est grand",
+      "g": [
+        3
+      ]
+    },
+    "i_call_my_friend": "J'appelle mon ami tous les jours",
+    "my_neighbor_is_kind": "Mon voisin est gentil",
+    "he_is_smart": {
+      "t": "Il est intelligent",
+      "g": [
+        2
+      ]
+    },
+    "practice": "pratique",
+    "goal": "objectif",
+    "mistake": "erreur",
+    "progress": "progrès",
+    "patient": "patient",
+    "learn": "apprendre",
+    "i_set_goals": "Je me fixe de petits objectifs",
+    "i_learn_every_day": "J'apprends quelque chose de nouveau chaque jour",
+    "i_write_new_words": {
+      "t": "J'écris les nouveaux mots dans un cahier",
+      "g": [
+        6
+      ]
+    },
+    "repetition_helps": {
+      "t": "La répétition m'aide à retenir",
+      "g": [
+        4
+      ]
+    },
+    "i_practice_speaking": {
+      "t": "Je m'entraîne à parler à voix haute",
+      "g": [
+        3
+      ]
+    },
+    "mistakes_are_normal": "Faire des erreurs fait partie de l'apprentissage",
+    "i_am_patient": {
+      "t": "Je reste patient",
+      "g": [
+        2
+      ]
+    },
+    "dream": "rêve",
+    "future": "avenir",
+    "success": "succès",
+    "world": "monde",
+    "plan": "projet",
+    "i_want_travel": {
+      "t": "Je veux voyager à travers le monde",
+      "g": [
+        2
+      ]
+    },
+    "i_have_a_dream": "J'ai un grand rêve",
+    "every_day_new_chance": {
+      "t": "Chaque jour est une nouvelle chance",
+      "g": [
+        5
+      ]
+    },
+    "small_steps": {
+      "t": "Les petits pas mènent à de grands résultats",
+      "g": [
+        2
+      ]
+    },
+    "i_believe_myself": "Je crois en moi",
+    "i_am_proud": "Je suis fier de mes progrès",
+    "my_plan_is_simple": {
+      "t": "Mon projet est simple",
+      "g": [
+        1
+      ]
+    }
+  }
+}
