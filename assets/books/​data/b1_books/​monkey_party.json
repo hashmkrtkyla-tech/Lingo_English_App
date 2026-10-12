@@ -2,13 +2,232 @@
   "id": "b1_monkey_party",
   "title": "Monkey Party",
   "level": "B1",
-  "audio_url": "assets/books/audio/b1_books/Monkey_Party-John_Bookwork.mp3",
+  "audio_url": "assets/books/audio/b1_books/Monkey_Party.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "The monkeys gathered in the jungle for a big celebration.",
-      "translation": "تجمعت القردة في الغابة لحفل كبير."
+      "id": 1,
+      "text": "Monkey Party",
+      "translation": "حفلة القرود"
+    },
+    {
+      "id": 2,
+      "text": "In the town of Lopburi in Thailand there are monkeys everywhere.",
+      "translation": "في بلدة لوببوري في تايلاند، هناك قرود في كل مكان."
+    },
+    {
+      "id": 3,
+      "text": "They run around the streets. They climb on cars, houses, and other buildings.",
+      "translation": "إنها تجري في الشوارع. تتسلق السيارات والمنازل والمباني الأخرى."
+    },
+    {
+      "id": 4,
+      "text": "They can go anywhere they want to, and they get into everything!",
+      "translation": "يمكنها الذهاب إلى أي مكان تريده، وتتدخل في كل شيء!"
+    },
+    {
+      "id": 5,
+      "text": "The monkeys in this town are very playful and sometimes they cause a lot of trouble.",
+      "translation": "القرود في هذه البلدة مرحة جداً وأحياناً تسبب الكثير من المتاعب."
+    },
+    {
+      "id": 6,
+      "text": "But what about the people of Lopburi? How do they feel about these mischievous little animals?",
+      "translation": "لكن ماذا عن سكان لوببوري؟ كيف يشعرون تجاه هذه الحيوانات الصغيرة المشاغبة؟"
+    },
+    {
+      "id": 7,
+      "text": "The truth is that the people of Lopburi are not too concerned about the trouble caused by the monkeys.",
+      "translation": "الحقيقة هي أن سكان لوببوري ليسوا قلقين كثيراً بشأن المتاعب التي تسببها القرود."
+    },
+    {
+      "id": 8,
+      "text": "Of course, they know that the monkeys are troublemakers. They also know that sometimes they can make life difficult.",
+      "translation": "بالطبع، يعرفون أن القرود مشاغبة. يعرفون أيضاً أنها أحياناً يمكن أن تجعل الحياة صعبة."
+    },
+    {
+      "id": 9,
+      "text": "It's not always fun when they sit on people's cars, run everywhere, and take food.",
+      "translation": "ليس الأمر ممتعاً دائماً عندما تجلس على سيارات الناس، وتجري في كل مكان، وتأخذ الطعام."
+    },
+    {
+      "id": 10,
+      "text": "However, the people of Lopburi also know that it's not just the monkeys.",
+      "translation": "لكن سكان لوببوري يعرفون أيضاً أن الأمر ليس فقط من القرود."
+    },
+    {
+      "id": 11,
+      "text": "They know that the people of the town also cause the problem. They allow the monkeys to run ground the streets.",
+      "translation": "يعرفون أن سكان البلدة أيضاً هم من يسببون المشكلة. إنهم يسمحون للقرود بالجري في الشوارع."
+    },
+    {
+      "id": 12,
+      "text": "They allow them to cause trouble. They don't try to stop the monkeys.",
+      "translation": "يسمحون لها بإحداث المتاعب. لا يحاولون إيقاف القرود."
+    },
+    {
+      "id": 13,
+      "text": "And once a year, the people of Lopburi do even more. They have a monkey party!",
+      "translation": "ومرة واحدة في السنة، يفعل سكان لوببوري أكثر من ذلك. يقيمون حفلة للقرود!"
+    },
+    {
+      "id": 14,
+      "text": "They have a banquet. With lots of food - for the monkeys!",
+      "translation": "يقيمون مأدبة. بالكثير من الطعام - للقرود!"
+    },
+    {
+      "id": 15,
+      "text": "But why do they have this big monkey party? Why do they present the monkeys with a banquet?",
+      "translation": "لكن لماذا يقيمون حفلة القرود الكبيرة هذه؟ لماذا يقدمون للقرود مأدبة؟"
+    },
+    {
+      "id": 16,
+      "text": "The reason involves legend and tradition. Most people in Thailand are Buddhists, and for many of them monkeys are very important animals.",
+      "translation": "السبب يتضمن الأسطورة والتقليد. معظم الناس في تايلاند بوذيون، وبالنسبة لكثير منهم تعتبر القرود حيوانات مهمة جداً."
+    },
+    {
+      "id": 17,
+      "text": "Monkeys appear in many Thai stories and legends. Because of one special story, some Thai people consider monkeys to be heroes.",
+      "translation": "تظهر القرود في العديد من القصص والأساطير التايلاندية. بسبب قصة خاصة واحدة، يعتبر بعض التايلانديين القرود أبطالاً."
+    },
+    {
+      "id": 18,
+      "text": "In Thailand, there is a famous old legend about monkey hero called Hanuman.",
+      "translation": "في تايلاند، هناك أسطورة قديمة شهيرة عن بطل قرد يُدعى هانومان."
+    },
+    {
+      "id": 19,
+      "text": "In the story, a demon takes the god Rama's wife. The monkey, Hanuman, helps to save Rama's wife.",
+      "translation": "في القصة، يأخذ شيطان زوجة الإله راما. يساعد القرد هانومان في إنقاذ زوجة راما."
+    },
+    {
+      "id": 20,
+      "text": "Because of this, Hanuman becomes a hero.",
+      "translation": "وبسبب هذا، يصبح هانومان بطلاً."
+    },
+    {
+      "id": 21,
+      "text": "Due to the legend of Hanuman and Buddhist traditions, many people in Thailand are especially kind to monkeys today.",
+      "translation": "بسبب أسطورة هانومان والتقاليد البوذية، كثير من الناس في تايلاند لطفاء بشكل خاص مع القرود اليوم."
+    },
+    {
+      "id": 22,
+      "text": "This kindness is not just limited to allowing monkeys to do anything they wish.",
+      "translation": "هذا اللطف لا يقتصر فقط على السماح للقرود بفعل أي شيء تريده."
+    },
+    {
+      "id": 23,
+      "text": "Monkeys also get special food often - not just at festivals.",
+      "translation": "تحصل القرود أيضاً على طعام خاص غالباً - ليس فقط في المهرجانات."
+    },
+    {
+      "id": 24,
+      "text": "Every day of the year, people bring food for the monkeys to shrines.",
+      "translation": "كل يوم من أيام السنة، يجلب الناس طعاماً للقرود إلى المزارات."
+    },
+    {
+      "id": 25,
+      "text": "These people think it's good karma to give them food. The people also think that it will bring them good luck.",
+      "translation": "يعتقد هؤلاء الناس أن إعطاءهم الطعام يعتبر كارما جيدة. يعتقد الناس أيضاً أنه سيجلب لهم الحظ الجيد."
+    },
+    {
+      "id": 26,
+      "text": "With this special treatment, the monkeys of Lopburi are getting bigger and bigger all the time!",
+      "translation": "مع هذه المعاملة الخاصة، أصبحت قرود لوببوري تكبر أكثر وأكثر طوال الوقت!"
+    },
+    {
+      "id": 27,
+      "text": "The time for the yearly monkey party finally arrives.",
+      "translation": "أخيراً يحين وقت حفلة القرود السنوية."
+    },
+    {
+      "id": 28,
+      "text": "It's a time when the community of Lopburi can show the monkeys just how much they like them.",
+      "translation": "إنه وقت يمكن لمجتمع لوببوري أن يظهر للقرود كم يحبونها."
+    },
+    {
+      "id": 29,
+      "text": "They always give the monkeys a lot of special food at this time. But this year there's a particularly special treat.",
+      "translation": "إنهم دائماً يعطون القرود الكثير من الطعام الخاص في هذا الوقت. لكن هذا العام هناك متعة خاصة بشكل خاص."
+    },
+    {
+      "id": 30,
+      "text": "The festival organizers are giving the monkeys a whole cake!",
+      "translation": "منظمو المهرجان يعطون القرود كعكة كاملة!"
+    },
+    {
+      "id": 31,
+      "text": "An organizer of the event explains the banquet and the Buddhist traditions.",
+      "translation": "يشرح أحد منظمي الحدث المأدبة والتقاليد البوذية."
+    },
+    {
+      "id": 32,
+      "text": "He says: 'Every year there are a lot of people who come and help with the monkey banquet.'",
+      "translation": "يقول: \"كل عام هناك الكثير من الناس الذين يأتون ويساعدون في مأدبة القرود.\""
+    },
+    {
+      "id": 33,
+      "text": "We want people to help offer food to the monkeys. This is because these monkeys are part of our local Buddhist tradition.'",
+      "translation": "نريد من الناس المساعدة في تقديم الطعام للقرود. هذا لأن هذه القرود جزء من تقاليدنا البوذية المحلية.\""
+    },
+    {
+      "id": 34,
+      "text": "What about this year's cake? Well, it's a very big one, and a lot of people help to make it.",
+      "translation": "ماذا عن كعكة هذا العام؟ حسناً، إنها كبيرة جداً، والكثير من الناس يساعدون في صنعها."
+    },
+    {
+      "id": 35,
+      "text": "The festival organizer explains: 'This year, we've made a cake that is four metres long for the monkey banquet.'",
+      "translation": "يشرح منظم المهرجان: \"هذا العام، صنعنا كعكة يبلغ طولها أربعة أمتار لمأدبة القرود.\""
+    },
+    {
+      "id": 36,
+      "text": "Fifty people worked to make this cake. We all wanted to find out if the monkeys liked the cake.'",
+      "translation": "عمل خمسون شخصاً على صنع هذه الكعكة. أردنا جميعاً معرفة ما إذا كانت القرود تحب الكعكة.\""
+    },
+    {
+      "id": 37,
+      "text": "Will the monkeys like the cake? Will they want to eat it all?",
+      "translation": "هل ستحب القرود الكعكة؟ هل سترغب في أكلها كلها؟"
+    },
+    {
+      "id": 38,
+      "text": "At last, the festival organizers give the monkeys the cake.",
+      "translation": "أخيراً، يعطي منظمو المهرجان القرود الكعكة."
+    },
+    {
+      "id": 39,
+      "text": "They don't just like the cake, they love it!",
+      "translation": "إنهم لا يحبون الكعكة فقط، بل يعشقونها!"
+    },
+    {
+      "id": 40,
+      "text": "The people in Lopburi are very happy and this year's Monkey Party is a big success.",
+      "translation": "سكان لوببوري سعداء جداً وحفلة القرود لهذا العام نجاح كبير."
+    },
+    {
+      "id": 41,
+      "text": "Maybe the people in Lopburi will receive good karma because they've treated the monkeys well and given them this beautiful cake.",
+      "translation": "ربما سيحصل سكان لوببوري على كارما جيدة لأنهم عاملوا القرود بشكل جيد وأعطوها هذه الكعكة الجميلة."
+    },
+    {
+      "id": 42,
+      "text": "Maybe they won't. Either way, the people of this Thai town did learn one thing - if you want to have a great party for monkeys, give them cake!",
+      "translation": "ربما لا. في كلتا الحالتين، تعلم سكان هذه البلدة التايلاندية شيئاً واحداً - إذا أردت إقامة حفلة رائعة للقرود، أعطها كعكة!"
+    },
+    {
+      "id": 43,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 44,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 45,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
 }
