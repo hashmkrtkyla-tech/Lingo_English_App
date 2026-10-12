@@ -1,14 +1,298 @@
 {
-  "id": "b1_the_count_and_the_wedding",
+  "id": "b1_the_count_and_the_wedding_guest",
   "title": "The Count and the Wedding Guest",
   "level": "B1",
-  "audio_url": "assets/books/audio/b1_books/The_Count_and_the_wedding_guest-O_Henry.mp3",
+  "audio_url": "assets/books/audio/b1_books/The_Count_and_the_Wedding_Guest-O_Henry.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Andy was sitting in his room when a young lady walked in.",
-      "translation": "كان أندي يجلس في غرفته عندما دخلت شابة."
+      "id": 1,
+      "text": "The Count and the wedding guest",
+      "translation": "الكونت وضيفة الزفاف"
+    },
+    {
+      "id": 2,
+      "text": "At dinner one night in the boarding house where Andy Donovan lived, near Second Avenue, his landlady introduced him to a new paying guest - Miss Conway.",
+      "translation": "في عشاء ذات ليلة في بيت الضيافة حيث كان يعيش آندي دونوفان، بالقرب من الجادة الثانية، قدمته صاحبة المنزل لنزيلة جديدة تدفع - الآنسة كونواي."
+    },
+    {
+      "id": 3,
+      "text": "'Nice to meet you, Mr Donovan,' said Miss Conway quietly, and then she went back to her meal.",
+      "translation": "\"سعيد بلقائك يا سيد دونوفان،\" قالت الآنسة كونواي بهدوء، ثم عادت إلى وجبتها."
+    },
+    {
+      "id": 4,
+      "text": "She was an uninteresting young woman in a boring brown dress. Andy gave her a smile, and forgot her at once.",
+      "translation": "كانت شابة غير مثيرة للاهتمام ترتدي فستاناً بنياً مملاً. ابتسم لها آندي، ونسيها فوراً."
+    },
+    {
+      "id": 5,
+      "text": "Two weeks later, Andy was smoking a cigar outside the front door when he heard someone coming out. He turned to see who it was, and was pleasantly surprised.",
+      "translation": "بعد أسبوعين، كان آندي يدخن سيجاراً خارج الباب الأمامي عندما سمع أحدهم يخرج. استدار ليرى من كان، وفوجئ بسرور."
+    },
+    {
+      "id": 6,
+      "text": "There was Miss Conway - all in black from her head to her feet.",
+      "translation": "كانت هناك الآنسة كونواي - ترتدي الأسود من رأسها حتى قدميها."
+    },
+    {
+      "id": 7,
+      "text": "With her bright gold hair, her grey eyes, and her sad face, she looked lovely.",
+      "translation": "بشعرها الذهبي اللامع، وعينيها الرماديتين، ووجهها الحزين، بدت جميلة."
+    },
+    {
+      "id": 8,
+      "text": "Mourning clothes can make any woman look beautiful, and are sure to make any man look twice.",
+      "translation": "يمكن لملابس الحداد أن تجعل أي امرأة تبدو جميلة، ومن المؤكد أنها تجعل أي رجل ينظر مرتين."
+    },
+    {
+      "id": 9,
+      "text": "Andy immediately decided not to forget Miss Conway. He dropped his half-finished cigar on the ground and said, 'It's a fine evening, Miss Conway.'",
+      "translation": "قرر آندي فوراً ألا ينسى الآنسة كونواي. أسقط سيجاره نصف المنتهي على الأرض وقال: \"إنه مساء جميل يا آنسة كونواي.\""
+    },
+    {
+      "id": 10,
+      "text": "'For those with the heart to enjoy it, Mr Donovan,' she replied sadly, looking down.",
+      "translation": "\"بالنسبة لأولئك الذين لديهم قلب للاستمتاع به يا سيد دونوفان،\" ردت بحزن، ناظرة إلى الأسفل."
+    },
+    {
+      "id": 11,
+      "text": "'I hope there hasn't been a death in the family,' he said.",
+      "translation": "\"آمل ألا يكون هناك وفاة في العائلة،\" قال."
+    },
+    {
+      "id": 12,
+      "text": "'Not really in the family,' she replied. 'But I won't worry you with my troubles.'",
+      "translation": "\"ليس حقاً في العائلة،\" ردت. \"لكني لن أقلقك بمتاعبي.\""
+    },
+    {
+      "id": 13,
+      "text": "'Worry me? But I'd really like to hear all about them Miss Conway. I mean, please feel free to speak to a true friend in your time of need.'",
+      "translation": "\"تقلقني؟ لكنني أرغب حقاً في سماع كل شيء عنها يا آنسة كونواي. أعني، من فضلك لا تترددي في التحدث إلى صديق حقيقي في وقت حاجتك.\""
+    },
+    {
+      "id": 14,
+      "text": "Miss Conway smiled sadly at this.",
+      "translation": "ابتسمت الآنسة كونواي بحزن عند هذا."
+    },
+    {
+      "id": 15,
+      "text": "'I feel so lonely in New York,' she said. 'I have no friends here. But you have been kind to me, Mr Donovan. Thank you for that.'",
+      "translation": "\"أشعر بالوحدة الشديدة في نيويورك،\" قالت. \"ليس لدي أصدقاء هنا. لكنك كنت لطيفاً معي يا سيد دونوفان. شكراً لك على ذلك.\""
+    },
+    {
+      "id": 16,
+      "text": "It was true. Andy sometimes passed the salt to her at the dinner table.",
+      "translation": "كان ذلك صحيحاً. كان آندي أحياناً يمرر لها الملح على طاولة العشاء."
+    },
+    {
+      "id": 17,
+      "text": "'You're right,' he said. 'It's hard when you're alone. But why don't you take a walk in the park? That'll make you feel better, I'm sure. I'll go along with you if you want.'",
+      "translation": "\"أنت على حق،\" قال. \"إنه أمر صعب عندما تكون وحيداً. لكن لماذا لا تتمشين في الحديقة؟ سيجعلك تشعرين بتحسن، أنا متأكد. سأذهب معك إذا أردت.\""
+    },
+    {
+      "id": 18,
+      "text": "'Thank you, Mr Donovan. I'd like that. If you're happy to take a walk with someone like me who has a sad and heavy heart.'",
+      "translation": "\"شكراً لك يا سيد دونوفان. أود ذلك. إذا كنت سعيداً بالتمشية مع شخص مثلي لديه قلب حزين وثقيل.\""
+    },
+    {
+      "id": 19,
+      "text": "'He was my fiance,' said Miss Conway after an hour in the park.",
+      "translation": "\"كان خطيبي،\" قالت الآنسة كونواي بعد ساعة في الحديقة."
+    },
+    {
+      "id": 20,
+      "text": "'We wanted to get married. He was a real Italian Count, with a big old house in Italy. Count Fernando Mazzini was his name, and he was a great dresser.'",
+      "translation": "\"أردنا الزواج. كان كونتاً إيطالياً حقيقياً، لديه منزل كبير قديم في إيطاليا. كان اسمه الكونت فرناندو ماتزيني، وكان يرتدي ملابس أنيقة جداً.\""
+    },
+    {
+      "id": 21,
+      "text": "Father didn't agree to it, of course. When we ran away together, he came after us and found us.'",
+      "translation": "لم يوافق والدي على ذلك، بالطبع. عندما هربنا معاً، جاء خلفنا ووجدنا.\""
+    },
+    {
+      "id": 22,
+      "text": "'In the end, when he learned how rich Fernando was, father agreed to a spring wedding.'",
+      "translation": "\"في النهاية، عندما علم بمدى ثراء فرناندو، وافق والدي على زفاف في الربيع.\""
+    },
+    {
+      "id": 23,
+      "text": "Fernando wanted to give me a wedding present of seven thousand dollars - for the dress, the flowers, the dinner and all.",
+      "translation": "أراد فرناندو أن يمنحني هدية زفاف بقيمة سبعة آلاف دولار - للفستان والزهور والعشاء وكل شيء."
+    },
+    {
+      "id": 24,
+      "text": "But father was proud and said \"no\". So when the Count went back to Italy to get his big old house ready for us, I got myself a job in a candy store to help pay for the wedding.'",
+      "translation": "لكن والدي كان فخوراً وقال \"لا\". لذا عندما عاد الكونت إلى إيطاليا لتجهيز منزله الكبير القديم لنا، حصلت على وظيفة في متجر حلوى للمساعدة في دفع تكاليف الزفاف.\""
+    },
+    {
+      "id": 25,
+      "text": "'Then three days ago, I got a letter from Italy, saying that Fernando was dead. It was a terrible gondola accident that killed him they said.'",
+      "translation": "\"ثم قبل ثلاثة أيام، تلقيت رسالة من إيطاليا، تقول إن فرناندو قد مات. قالوا إنه حادث غوندولا مروع قتله.\""
+    },
+    {
+      "id": 26,
+      "text": "'So that explains my mourning, Mr Donovan. I'll never forget Fernando, you see. And after losing him, I'm afraid I just can't look at any other man.'",
+      "translation": "\"هذا يفسر حدادي يا سيد دونوفان. لن أنسى فرناندو أبداً، كما ترى. وبعد فقدانه، أخشى أنني لا أستطيع النظر إلى أي رجل آخر.\""
+    },
+    {
+      "id": 27,
+      "text": "'I'm really sorry for you,' said Andy. 'And I'm your true friend. I want you to know that.'",
+      "translation": "\"أنا آسف حقاً لأجلك،\" قال آندي. \"وأنا صديقك الحقيقي. أريدك أن تعرفي ذلك.\""
+    },
+    {
+      "id": 28,
+      "text": "'I have his picture here in my locket,' said Miss Conway tearfully. 'And because you're a true friend, Mr Donovan, I'll show it to you.'",
+      "translation": "\"لدي صورته هنا في قلادتي،\" قالت الآنسة كونواي بدموع. \"ولأنك صديق حقيقي يا سيد دونوفان، سأريك إياها.\""
+    },
+    {
+      "id": 29,
+      "text": "For some time Andy studied the photograph in the locket that Miss Conway opened for him. The man's face was young, bright and clever.",
+      "translation": "لبعض الوقت درس آندي الصورة في القلادة التي فتحتها الآنسة كونواي له. كان وجه الرجل شاباً ومشرقاً وذكياً."
+    },
+    {
+      "id": 30,
+      "text": "It was the face of a strong man that other people are always ready to follow.",
+      "translation": "كان وجه رجل قوي يستعد الآخرون دائماً لاتباعه."
+    },
+    {
+      "id": 31,
+      "text": "'I have a larger photograph in my room,' said Miss Conway.",
+      "translation": "\"لدي صورة أكبر في غرفتي،\" قالت الآنسة كونواي."
+    },
+    {
+      "id": 32,
+      "text": "'I'll show you later. They're the only things that I have of Fernando now. But he'll always be in my heart.'",
+      "translation": "\"سأريك إياها لاحقاً. إنها الأشياء الوحيدة التي لدي من فرناندو الآن. لكنه سيكون دائماً في قلبي.\""
+    },
+    {
+      "id": 33,
+      "text": "Andy decided there and then to try to win Miss Conway's heart from the Count.",
+      "translation": "قرر آندي هناك وهنالك أن يحاول كسب قلب الآنسة كونواي من الكونت."
+    },
+    {
+      "id": 34,
+      "text": "He took her to have an ice cream, but her grey eyes still looked sad.",
+      "translation": "أخذها لتناول الآيس كريم، لكن عينيها الرماديتين بدتا حزينتين."
+    },
+    {
+      "id": 35,
+      "text": "That evening, she brought down the larger photograph and showed it to Andy. He looked at it silently.",
+      "translation": "في ذلك المساء، أحضرت الصورة الأكبر وأرتها لآندي. نظر إليها بصمت."
+    },
+    {
+      "id": 36,
+      "text": "'He gave this to me the night that he left for Italy,' said Miss Conway.",
+      "translation": "\"أعطاني هذه في الليلة التي غادر فيها إلى إيطاليا،\" قالت الآنسة كونواي."
+    },
+    {
+      "id": 37,
+      "text": "'A fine-looking man,' said Andy. 'Now would you like to come out with me again next Sunday afternoon?'",
+      "translation": "\"رجل وسيم،\" قال آندي. \"الآن هل تودين الخروج معي مرة أخرى بعد ظهر الأحد القادم؟\""
+    },
+    {
+      "id": 38,
+      "text": "A month later, they told the landlady and the other guests at the boarding house of their plans to get married. Miss Conway stayed in mourning.",
+      "translation": "بعد شهر، أخبرا صاحبة المنزل والضيوف الآخرين في بيت الضيافة بخططهما للزواج. بقيت الآنسة كونواي في حداد."
+    },
+    {
+      "id": 39,
+      "text": "A week after that, they were sitting in the park near the boarding house. Andy's usually smiling face was dark with worry, and he was strangely silent.",
+      "translation": "بعد أسبوع من ذلك، كانا جالسين في الحديقة بالقرب من بيت الضيافة. كان وجه آندي المبتسم عادةً مظلماً بالقلق، وكان صامتاً بشكل غريب."
+    },
+    {
+      "id": 40,
+      "text": "'What's the matter, Andy?' asked Miss Conway.",
+      "translation": "\"ما الأمر يا آندي؟\" سألت الآنسة كونواي."
+    },
+    {
+      "id": 41,
+      "text": "'Well, you've heard of Big Mike Sullivan, haven't you?' said Andy, after a while.",
+      "translation": "\"حسناً، لقد سمعت عن بيغ مايك سوليفان، أليس كذلك؟\" قال آندي، بعد فترة."
+    },
+    {
+      "id": 42,
+      "text": "'No, I haven't. Who is he?'",
+      "translation": "\"لا، لم أسمع به. من هو؟\""
+    },
+    {
+      "id": 43,
+      "text": "'He's a great New York politician, and a friend of mine. I met him today, and he wants to come to our wedding. I'd really like him to come.'",
+      "translation": "\"إنه سياسي كبير في نيويورك، وصديق لي. التقيت به اليوم، وهو يريد القدوم إلى حفل زفافنا. أرغب حقاً في قدومه.\""
+    },
+    {
+      "id": 44,
+      "text": "'OK. So he can be our guest.'",
+      "translation": "\"حسناً. إذن يمكنه أن يكون ضيفنا.\""
+    },
+    {
+      "id": 45,
+      "text": "'Right, but before we can have our wedding I need to know something. Do you still prefer Count Mazzini over me?'",
+      "translation": "\"صحيح، لكن قبل أن نقيم حفل زفافنا أحتاج أن أعرف شيئاً. هل ما زلت تفضلين الكونت ماتزيني عليّ؟\""
+    },
+    {
+      "id": 46,
+      "text": "Suddenly Miss Conway started crying.",
+      "translation": "فجأة بدأت الآنسة كونواي في البكاء."
+    },
+    {
+      "id": 47,
+      "text": "'Oh, Andy, there never was a Count. All the other girls had boyfriends - but I didn't. And you know how good I look in black.'",
+      "translation": "\"أوه، آندي، لم يكن هناك كونت قط. كان لدى جميع الفتيات الأخريات أصدقاء - لكنني لم أكن كذلك. وأنت تعرف كم أبدو جيدة باللون الأسود.\""
+    },
+    {
+      "id": 48,
+      "text": "So I bought a big photograph of a man that I didn't know at a photograph store, and got a small one, too, for my locket.",
+      "translation": "لذلك اشتريت صورة كبيرة لرجل لا أعرفه من متجر صور، وحصلت على صورة صغيرة أيضاً لقلادتي."
+    },
+    {
+      "id": 49,
+      "text": "Then I thought up the story of the Count's death and put on my black clothes. I'm just a big fake.",
+      "translation": "ثم ابتكرت قصة موت الكونت وارتديت ملابسي السوداء. أنا مجرد مزيفة كبيرة."
+    },
+    {
+      "id": 50,
+      "text": "And now you won't marry me because of it, I'm sure. And you're the only man that I've ever loved!'",
+      "translation": "والآن لن تتزوجني بسبب ذلك، أنا متأكدة. وأنت الرجل الوحيد الذي أحببته على الإطلاق!\""
+    },
+    {
+      "id": 51,
+      "text": "Smiling, Andy took her in his arms.",
+      "translation": "مبتسماً، أخذها آندي بين ذراعيه."
+    },
+    {
+      "id": 52,
+      "text": "'Do you still want to marry me after what I've done?' she asked in surprise.",
+      "translation": "\"هل ما زلت تريد الزواج مني بعد ما فعلته؟\" سألت في دهشة."
+    },
+    {
+      "id": 53,
+      "text": "'Of course,' he replied. 'You were very good to explain it all to me. Now we can forget the Count, there's nothing to stop us becoming man and wife.'",
+      "translation": "\"بالطبع،\" رد. \"كنت لطيفة جداً بشرح كل شيء لي. الآن يمكننا نسيان الكونت، لا يوجد شيء يمنعنا من أن نصبح زوجاً وزوجة.\""
+    },
+    {
+      "id": 54,
+      "text": "'Andy,' Miss Conway went on, 'Did you really think that my stories about the Count were true?'",
+      "translation": "\"آندي،\" تابعت الآنسة كونواي، \"هل اعتقدت حقاً أن قصصي عن الكونت كانت حقيقية؟\""
+    },
+    {
+      "id": 55,
+      "text": "'Not really,' he replied, taking out a cigar, 'Mostly because that photograph in your locket is of my friend Mike Sullivan.'",
+      "translation": "\"ليس حقاً،\" رد، وهو يخرج سيجاراً، \"بشكل أساسي لأن تلك الصورة في قلادتك هي لصديقي مايك سوليفان.\""
+    },
+    {
+      "id": 56,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 57,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 58,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
 }
