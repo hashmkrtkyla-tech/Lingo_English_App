@@ -1,14 +1,2823 @@
 {
-  "id": "a2_drive_10",
-  "title": "A2 Elementary Story 10",
+  "id": "a2_the_curse_of_the_mummy",
+  "title": "The Curse of the Mummy",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1cD-FcOW0pfXfhOPh7ST_WR22hKAWFuxN",
+  "audio_url": "assets/books/audio/a2_books/The_Curse_of_the_Mummy.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Discover classical narratives graded for your level.",
-      "translation": "اكتشف السرديات الكلاسيكية المصممة لمستواك."
+      "id": 1,
+      "text": "The Curse of The Mummy",
+      "translation": "لعنة المومياء"
+    },
+    {
+      "id": 2,
+      "text": "CHAPTER ONE",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "Where are Tutankhamun's treasures?",
+      "translation": "أين كنوز توت عنخ آمون؟"
+    },
+    {
+      "id": 4,
+      "text": "August 4th 1922: The Valley of the Kings",
+      "translation": "4 أغسطس 1922: وادي الملوك"
+    },
+    {
+      "id": 5,
+      "text": "Here I am at last in the Valley of the Kings!",
+      "translation": "ها أنا ذا أخيراً في وادي الملوك!"
+    },
+    {
+      "id": 6,
+      "text": "It's a valley in the desert with lots of sand and the tombs of dead Egyptian kings in it.",
+      "translation": "إنه وادٍ في الصحراء به الكثير من الرمال ومقابر ملوك مصر الموتى."
+    },
+    {
+      "id": 7,
+      "text": "It took us a long time to get here, and we all felt very hot when we arrived, but that doesn't matter now.",
+      "translation": "استغرقنا وقتاً طويلاً للوصول إلى هنا، وشعرنا جميعاً بالحر الشديد عند وصولنا، لكن ذلك لا يهم الآن."
+    },
+    {
+      "id": 8,
+      "text": "It's good to be here.",
+      "translation": "من الجيد أن أكون هنا."
+    },
+    {
+      "id": 9,
+      "text": "I'm happy to be working with Mr Carter.",
+      "translation": "أنا سعيد بالعمل مع السيد كارتر."
+    },
+    {
+      "id": 10,
+      "text": "Lots of young men wanted to work with him in the Valley of the Kings, but he took me because of my father.",
+      "translation": "أراد الكثير من الشباب العمل معه في وادي الملوك، لكنه اختارني بسبب والدي."
+    },
+    {
+      "id": 11,
+      "text": "My father and Mr Carter are good friends.",
+      "translation": "والدي والسيد كارتر صديقان حميمان."
+    },
+    {
+      "id": 12,
+      "text": "They often meet at the museum in Cairo.",
+      "translation": "يلتقيان غالباً في المتحف في القاهرة."
+    },
+    {
+      "id": 13,
+      "text": "My father works there.",
+      "translation": "والدي يعمل هناك."
+    },
+    {
+      "id": 14,
+      "text": "Also, I'm a good artist.",
+      "translation": "أيضاً، أنا فنان جيد."
+    },
+    {
+      "id": 15,
+      "text": "And I know a lot about Tutankhamun, too.",
+      "translation": "وأعرف الكثير عن توت عنخ آمون أيضاً."
+    },
+    {
+      "id": 16,
+      "text": "Did you know he was a king when he was only nine years old?",
+      "translation": "هل تعلم أنه كان ملكاً عندما كان عمره تسع سنوات فقط؟"
+    },
+    {
+      "id": 17,
+      "text": "But he wasn't king for very long.",
+      "translation": "لكنه لم يكن ملكاً لفترة طويلة."
+    },
+    {
+      "id": 18,
+      "text": "He died when he was eighteen.",
+      "translation": "مات عندما كان عمره ثمانية عشر عاماً."
+    },
+    {
+      "id": 19,
+      "text": "That's only one year older than me!",
+      "translation": "هذا أكبر مني بعام واحد فقط!"
+    },
+    {
+      "id": 20,
+      "text": "Why did he die then?",
+      "translation": "لماذا مات إذن؟"
+    },
+    {
+      "id": 21,
+      "text": "Perhaps we can find the answer when we find his tomb.",
+      "translation": "ربما يمكننا إيجاد الإجابة عندما نجد مقبرته."
+    },
+    {
+      "id": 22,
+      "text": "Mr Carter thinks it's in the Valley of the Kings.",
+      "translation": "يعتقد السيد كارتر أنها في وادي الملوك."
+    },
+    {
+      "id": 23,
+      "text": "He began looking for it five years ago, and he doesn't want to stop.",
+      "translation": "بدأ البحث عنها منذ خمس سنوات، ولا يريد التوقف."
+    },
+    {
+      "id": 24,
+      "text": "Some people think he's crazy, but I don't.",
+      "translation": "يعتقد بعض الناس أنه مجنون، لكنني لا أعتقد ذلك."
+    },
+    {
+      "id": 25,
+      "text": "Nearly all the other old Egyptian kings have a tomb here, so why not Tutankhamun?",
+      "translation": "معظم ملوك مصر القديمة الآخرين لديهم مقبرة هنا، فلماذا لا توت عنخ آمون؟"
+    },
+    {
+      "id": 26,
+      "text": "There are about twenty of us, men and boys, working here in the valley.",
+      "translation": "نحن حوالي عشرين شخصاً، رجالاً وصبية، نعمل هنا في الوادي."
+    },
+    {
+      "id": 27,
+      "text": "Perhaps I can make friends later, but for now I'm going to write this diary and my diary can be my friend.",
+      "translation": "ربما أستطيع تكوين صداقات لاحقاً، لكن في الوقت الحالي سأكتب هذه المذكرات وستكون مذكراتي صديقتي."
+    },
+    {
+      "id": 28,
+      "text": "There aren't any shops or cinemas here, so I need something to do in the evenings.",
+      "translation": "لا توجد أي متاجر أو دور سينما هنا، لذا أحتاج شيئاً أفعله في الأمسيات."
+    },
+    {
+      "id": 29,
+      "text": "And perhaps one day people are going to want to read my diary.",
+      "translation": "وربما في يوم من الأيام سيرغب الناس في قراءة مذكراتي."
+    },
+    {
+      "id": 30,
+      "text": "Why? Well, perhaps we're going to find Tutankhamun's tomb, or a different king's tomb, or some new treasures.",
+      "translation": "لماذا؟ حسناً، ربما سنجد مقبرة توت عنخ آمون، أو مقبرة ملك آخر، أو بعض الكنوز الجديدة."
+    },
+    {
+      "id": 31,
+      "text": "Egyptian tombs have lots of treasures in them, you know - gold and jewels.",
+      "translation": "تحتوي المقابر المصرية على الكثير من الكنوز، كما تعلم - الذهب والمجوهرات."
+    },
+    {
+      "id": 32,
+      "text": "But thieves took treasures from many of the tombs in the past.",
+      "translation": "لكن اللصوص أخذوا الكنوز من العديد من المقابر في الماضي."
+    },
+    {
+      "id": 33,
+      "text": "And there are tomb thieves in Egypt today, too.",
+      "translation": "وهناك لصوص مقابر في مصر اليوم أيضاً."
+    },
+    {
+      "id": 34,
+      "text": "People come from all over the world to look for gold and jewels.",
+      "translation": "يأتي الناس من جميع أنحاء العالم للبحث عن الذهب والمجوهرات."
+    },
+    {
+      "id": 35,
+      "text": "When they find a tomb, they take all the treasure home to their countries.",
+      "translation": "عندما يجدون مقبرة، يأخذون كل الكنز إلى بلدانهم."
+    },
+    {
+      "id": 36,
+      "text": "I think that's very bad.",
+      "translation": "أعتقد أن هذا سيء جداً."
+    },
+    {
+      "id": 37,
+      "text": "I'm happy to say Mr Carter is not a thief.",
+      "translation": "يسعدني القول إن السيد كارتر ليس لصاً."
+    },
+    {
+      "id": 38,
+      "text": "He says Egyptian treasures must stay in Egypt.",
+      "translation": "يقول إن الكنوز المصرية يجب أن تبقى في مصر."
+    },
+    {
+      "id": 39,
+      "text": "I think he's right.",
+      "translation": "أعتقد أنه على حق."
+    },
+    {
+      "id": 40,
+      "text": "But our work's not going to be easy.",
+      "translation": "لكن عملنا لن يكون سهلاً."
+    },
+    {
+      "id": 41,
+      "text": "Mr Carter has only one year now to find Tutankhamun's tomb.",
+      "translation": "أمام السيد كارتر عام واحد فقط الآن للعثور على مقبرة توت عنخ آمون."
+    },
+    {
+      "id": 42,
+      "text": "He's got a rich friend, Lord Carnarvon, and he gives Mr Carter money to help with our work.",
+      "translation": "لديه صديق ثري، اللورد كارنارفون، وهو يعطي السيد كارتر مالاً للمساعدة في عملنا."
+    },
+    {
+      "id": 43,
+      "text": "Lord Carnarvon likes Egypt a lot and he loves old Egyptian treasures.",
+      "translation": "يحب اللورد كارنارفون مصر كثيراً ويعشق الكنوز المصرية القديمة."
+    },
+    {
+      "id": 44,
+      "text": "He's got lots of them in his home in England.",
+      "translation": "لديه الكثير منها في منزله في إنجلترا."
+    },
+    {
+      "id": 45,
+      "text": "But after giving Mr Carter money for five years he must be careful.",
+      "translation": "لكن بعد إعطاء السيد كارتر مالاً لمدة خمس سنوات يجب أن يكون حذراً."
+    },
+    {
+      "id": 46,
+      "text": "Not long ago he called Mr Carter to England and told him, 'Only one more year looking for Tutankhamun, Howard.'",
+      "translation": "منذ وقت ليس ببعيد استدعى السيد كارتر إلى إنجلترا وقال له: \"عام واحد فقط للبحث عن توت عنخ آمون يا هوارد.\""
+    },
+    {
+      "id": 47,
+      "text": "Mr Carter came back to Egypt at once.",
+      "translation": "عاد السيد كارتر إلى مصر فوراً."
+    },
+    {
+      "id": 48,
+      "text": "He brought a little yellow bird with him.",
+      "translation": "أحضر معه طائراً أصفر صغيراً."
+    },
+    {
+      "id": 49,
+      "text": "'That bird is going to help us find Tutankhamun's tomb,' said Karim.",
+      "translation": "\"هذا الطائر سيساعدنا في العثور على مقبرة توت عنخ آمون،\" قال كريم."
+    },
+    {
+      "id": 50,
+      "text": "He's one of the boys working in the valley with me.",
+      "translation": "إنه أحد الصبية العاملين في الوادي معي."
+    },
+    {
+      "id": 51,
+      "text": "How can a little bird help us? I don't know.",
+      "translation": "كيف يمكن لطائر صغير أن يساعدنا؟ لا أعرف."
+    },
+    {
+      "id": 52,
+      "text": "But it's true we need some help - from something or someone.",
+      "translation": "لكن صحيح أننا بحاجة إلى بعض المساعدة - من شيء ما أو شخص ما."
+    },
+    {
+      "id": 53,
+      "text": "Perhaps you think a year's a long time?",
+      "translation": "ربما تعتقد أن العام فترة طويلة؟"
+    },
+    {
+      "id": 54,
+      "text": "It's not when you're looking for a little tomb in a very big valley.",
+      "translation": "إنها ليست كذلك عندما تبحث عن مقبرة صغيرة في وادٍ كبير جداً."
+    },
+    {
+      "id": 55,
+      "text": "Where are all of Tutankhamun's treasures?",
+      "translation": "أين كل كنوز توت عنخ آمون؟"
+    },
+    {
+      "id": 56,
+      "text": "Mr Carter thinks he knows - and I think he's right, but let's wait and see!",
+      "translation": "يعتقد السيد كارتر أنه يعرف - وأعتقد أنه على حق، لكن لننتظر ونرَ!"
+    },
+    {
+      "id": 57,
+      "text": "Well, good night, diary - from me, Tariq.",
+      "translation": "حسناً، تصبح على خير يا مذكراتي - مني، طارق."
+    },
+    {
+      "id": 58,
+      "text": "August 25th 1922",
+      "translation": "25 أغسطس 1922"
+    },
+    {
+      "id": 59,
+      "text": "Today I'm going to tell you something about our days in the desert.",
+      "translation": "اليوم سأخبرك بشيء عن أيامنا في الصحراء."
+    },
+    {
+      "id": 60,
+      "text": "We begin work very early every morning when the sun comes up.",
+      "translation": "نبدأ العمل مبكراً جداً كل صباح عند شروق الشمس."
+    },
+    {
+      "id": 61,
+      "text": "We dig for six hours with not much water to drink.",
+      "translation": "نحفر لمدة ست ساعات مع قليل من الماء للشرب."
+    },
+    {
+      "id": 62,
+      "text": "At twelve o'clock, it is very, very hot.",
+      "translation": "في الساعة الثانية عشرة، يكون الجو حاراً جداً جداً."
+    },
+    {
+      "id": 63,
+      "text": "So we stop to eat, to drink, and to sleep.",
+      "translation": "لذلك نتوقف لنأكل ونشرب وننام."
+    },
+    {
+      "id": 64,
+      "text": "After two hours we begin digging again.",
+      "translation": "بعد ساعتين نبدأ الحفر مرة أخرى."
+    },
+    {
+      "id": 65,
+      "text": "We stop when it gets dark.",
+      "translation": "نتوقف عندما يحل الظلام."
+    },
+    {
+      "id": 66,
+      "text": "My back and my arms always feel bad in the evenings.",
+      "translation": "ظهري وذراعاي يؤلمانني دائماً في الأمسيات."
+    },
+    {
+      "id": 67,
+      "text": "We're very hungry when the sun goes down and the nights in the desert are very cold.",
+      "translation": "نكون جائعين جداً عندما تغرب الشمس وليالي الصحراء باردة جداً."
+    },
+    {
+      "id": 68,
+      "text": "Everyone is tired, so we don't talk much when we're eating dinner.",
+      "translation": "الجميع متعبون، لذلك لا نتحدث كثيراً أثناء تناول العشاء."
+    },
+    {
+      "id": 69,
+      "text": "I don't know what other people think about all day, but I think about Tutankhamun.",
+      "translation": "لا أعرف بماذا يفكر الآخرون طوال اليوم، لكنني أفكر في توت عنخ آمون."
+    },
+    {
+      "id": 70,
+      "text": "Mr Carter says he lived with his brothers and sisters when he was a little boy.",
+      "translation": "يقول السيد كارتر إنه عاش مع إخوته وأخواته عندما كان صبياً صغيراً."
+    },
+    {
+      "id": 71,
+      "text": "Later he married the beautiful Ankhesenamun.",
+      "translation": "لاحقاً تزوج الجميلة عنخ إسن آمون."
+    },
+    {
+      "id": 72,
+      "text": "Some people say he has no tomb because he died suddenly when he was very young.",
+      "translation": "يقول بعض الناس إنه ليس لديه مقبرة لأنه مات فجأة عندما كان صغيراً جداً."
+    },
+    {
+      "id": 73,
+      "text": "But tombs were very important in old Egypt and Mr Carter thinks Tutankhamun has his tomb somewhere in this valley.",
+      "translation": "لكن المقابر كانت مهمة جداً في مصر القديمة ويعتقد السيد كارتر أن توت عنخ آمون لديه مقبرة في مكان ما في هذا الوادي."
+    },
+    {
+      "id": 74,
+      "text": "But where?",
+      "translation": "لكن أين؟"
+    },
+    {
+      "id": 75,
+      "text": "It's late now and the sky is dark.",
+      "translation": "الوقت متأخر الآن والسماء مظلمة."
+    },
+    {
+      "id": 76,
+      "text": "Suddenly I feel cold.",
+      "translation": "فجأة أشعر بالبرد."
+    },
+    {
+      "id": 77,
+      "text": "Is Tutankhamun's body in a tomb somewhere near us now?",
+      "translation": "هل جسد توت عنخ آمون في مقبرة قريبة منا الآن؟"
+    },
+    {
+      "id": 78,
+      "text": "Are we going to find it soon?",
+      "translation": "هل سنجدها قريباً؟"
+    },
+    {
+      "id": 79,
+      "text": "Is Mr Carter's little yellow bird going to help us or not?",
+      "translation": "هل سيساعدنا طائر السيد كارتر الأصفر الصغير أم لا؟"
+    },
+    {
+      "id": 80,
+      "text": "Who knows?",
+      "translation": "من يعلم؟"
+    },
+    {
+      "id": 81,
+      "text": "September 12th 1922",
+      "translation": "12 سبتمبر 1922"
+    },
+    {
+      "id": 82,
+      "text": "Some visitors came to the Valley of the Kings today.",
+      "translation": "جاء بعض الزوار إلى وادي الملوك اليوم."
+    },
+    {
+      "id": 83,
+      "text": "People often come here to look at the open tombs.",
+      "translation": "يأتي الناس غالباً إلى هنا للنظر إلى المقابر المفتوحة."
+    },
+    {
+      "id": 84,
+      "text": "They look at the pictures in the tombs and the bodies of the dead kings - we call them mummies, you know.",
+      "translation": "ينظرون إلى الصور في المقابر وجثث الملوك الموتى - نسميهم مومياوات، كما تعلم."
+    },
+    {
+      "id": 85,
+      "text": "Today's visitors were artists from France.",
+      "translation": "كان زوار اليوم فنانين من فرنسا."
+    },
+    {
+      "id": 86,
+      "text": "They said everyone in Europe is interested in Egypt now.",
+      "translation": "قالوا إن الجميع في أوروبا مهتمون بمصر الآن."
+    },
+    {
+      "id": 87,
+      "text": "They are building new 'Egyptian' cinemas and hotels in the big cities.",
+      "translation": "إنهم يبنون دور سينما وفنادق 'مصرية' جديدة في المدن الكبيرة."
+    },
+    {
+      "id": 88,
+      "text": "And shops are selling 'Egyptian' beds, tables, chairs, and pictures too.",
+      "translation": "والمتاجر تبيع أسرّة وطاولات وكراسي وصوراً 'مصرية' أيضاً."
+    },
+    {
+      "id": 89,
+      "text": "Artists can make a lot of money with Egyptian things.",
+      "translation": "يمكن للفنانين كسب الكثير من المال بالأشياء المصرية."
+    },
+    {
+      "id": 90,
+      "text": "A young girl with dark hair and a beautiful, strong face walked along the valley behind the other artists.",
+      "translation": "سارت فتاة شابة ذات شعر داكن ووجه جميل وقوي على طول الوادي خلف الفنانين الآخرين."
+    },
+    {
+      "id": 91,
+      "text": "For a minute, she looked at me.",
+      "translation": "لدقيقة، نظرت إليّ."
+    },
+    {
+      "id": 92,
+      "text": "Then suddenly she dropped something in the sand and began to look for it.",
+      "translation": "ثم فجأة أسقطت شيئاً في الرمال وبدأت تبحث عنه."
+    },
+    {
+      "id": 93,
+      "text": "I went to help her.",
+      "translation": "ذهبت لمساعدتها."
+    },
+    {
+      "id": 94,
+      "text": "After a minute, I found it - a gold bracelet with an Egyptian eye on it.",
+      "translation": "بعد دقيقة، وجدته - سوار ذهبي عليه عين مصرية."
+    },
+    {
+      "id": 95,
+      "text": "I gave it to her and she smiled.",
+      "translation": "أعطيته لها فابتسمت."
+    },
+    {
+      "id": 96,
+      "text": "'Thank you,' she said. 'My teacher, Mr Ayrton, gave it to me for my birthday. Isn't it nice? I didn't want to lose it.'",
+      "translation": "\"شكراً لك،\" قالت. \"أعطاني إياه معلمي، السيد أيرتون، في عيد ميلادي. أليس جميلاً؟ لم أرد أن أفقده.\""
+    },
+    {
+      "id": 97,
+      "text": "She had beautiful dark eyes.",
+      "translation": "كان لديها عيون داكنة جميلة."
+    },
+    {
+      "id": 98,
+      "text": "I wanted to speak to her, but what could I say? 'Excuse me, Anne, you have a beautiful face.' Of course not!",
+      "translation": "أردت التحدث معها، لكن ماذا يمكنني أن أقول؟ \"عفواً آن، لديك وجه جميل.\" بالطبع لا!"
+    },
+    {
+      "id": 99,
+      "text": "I know her name is Anne because an older man called to her 'Come on, Anne!'",
+      "translation": "أعرف أن اسمها آن لأن رجلاً أكبر سناً ناداها: \"هيا يا آن!\""
+    },
+    {
+      "id": 100,
+      "text": "'Coming, Mr Ayrton,' she said, and she ran after him.",
+      "translation": "\"قادمة يا سيد أيرتون،\" قالت، وركضت خلفه."
+    },
+    {
+      "id": 101,
+      "text": "In the evening, the French artists left and went back to their hotel in Luxor.",
+      "translation": "في المساء، غادر الفنانون الفرنسيون وعادوا إلى فندقهم في الأقصر."
+    },
+    {
+      "id": 102,
+      "text": "Anne smiled at me when she left, but then her teacher, Mr Ayrton, called her and the smile left her face and she ran after him again.",
+      "translation": "ابتسمت لي آن عندما غادرت، لكن بعد ذلك ناداها معلمها، السيد أيرتون، واختفت الابتسامة من وجهها وركضت خلفه مرة أخرى."
+    },
+    {
+      "id": 103,
+      "text": "Am I going to see Anne again?",
+      "translation": "هل سأرى آن مرة أخرى؟"
+    },
+    {
+      "id": 104,
+      "text": "I like her a lot, but I don't like her teacher, Mr Ayrton.",
+      "translation": "أحبها كثيراً، لكنني لا أحب معلمها، السيد أيرتون."
+    },
+    {
+      "id": 105,
+      "text": "He's a lot older than her.",
+      "translation": "إنه أكبر منها بكثير."
+    },
+    {
+      "id": 106,
+      "text": "Perhaps he's a very good artist, but why must she run to him every time he calls her?",
+      "translation": "ربما يكون فناناً جيداً جداً، لكن لماذا يجب أن تركض إليه في كل مرة يناديها؟"
+    },
+    {
+      "id": 107,
+      "text": "She needs to be with young people, not old Mr Ayrton!",
+      "translation": "تحتاج أن تكون مع الشباب، وليس السيد أيرتون العجوز!"
+    },
+    {
+      "id": 108,
+      "text": "It's another beautiful night tonight.",
+      "translation": "إنها ليلة جميلة أخرى الليلة."
+    },
+    {
+      "id": 109,
+      "text": "Desert nights are wonderful.",
+      "translation": "ليالي الصحراء رائعة."
+    },
+    {
+      "id": 110,
+      "text": "But again I feel very cold.",
+      "translation": "لكنني أشعر بالبرد الشديد مرة أخرى."
+    },
+    {
+      "id": 111,
+      "text": "I think the dead kings come near us and watch us at night.",
+      "translation": "أعتقد أن الملوك الموتى يقتربون منا ويراقبوننا في الليل."
+    },
+    {
+      "id": 112,
+      "text": "I can feel their dead eyes looking at us coldly.",
+      "translation": "أستطيع أن أشعر بعيونهم الميتة تنظر إلينا ببرود."
+    },
+    {
+      "id": 113,
+      "text": "Some people think they're angry with us for digging here.",
+      "translation": "يعتقد بعض الناس أنهم غاضبون منا لأننا نحفر هنا."
+    },
+    {
+      "id": 114,
+      "text": "They say bad things happen to people when they go into Egyptian tombs looking for treasure.",
+      "translation": "يقولون إن أشياء سيئة تحدث للناس عندما يدخلون المقابر المصرية بحثاً عن الكنز."
+    },
+    {
+      "id": 115,
+      "text": "But Mr Carter is OK, and he began digging in Egypt years ago.",
+      "translation": "لكن السيد كارتر بخير، وقد بدأ الحفر في مصر منذ سنوات."
+    },
+    {
+      "id": 116,
+      "text": "So perhaps they're wrong!",
+      "translation": "إذن ربما كانوا مخطئين!"
+    },
+    {
+      "id": 117,
+      "text": "CHAPTER TWO",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 118,
+      "text": "There's something here!",
+      "translation": "هناك شيء هنا!"
+    },
+    {
+      "id": 119,
+      "text": "November 4th 1922",
+      "translation": "4 نوفمبر 1922"
+    },
+    {
+      "id": 120,
+      "text": "Something wonderful happened today!",
+      "translation": "حدث شيء رائع اليوم!"
+    },
+    {
+      "id": 121,
+      "text": "We found a step in the sand.",
+      "translation": "وجدنا درجة في الرمال."
+    },
+    {
+      "id": 122,
+      "text": "It was about 4 p.m. when someone suddenly cried out behind me.",
+      "translation": "كان الوقت حوالي الرابعة بعد الظهر عندما صرخ أحدهم فجأة خلفي."
+    },
+    {
+      "id": 123,
+      "text": "It was my friend Karim.",
+      "translation": "كان صديقي كريم."
+    },
+    {
+      "id": 124,
+      "text": "'Tariq, quick, there's something here!'",
+      "translation": "\"طارق، بسرعة، هناك شيء هنا!\""
+    },
+    {
+      "id": 125,
+      "text": "I ran to him and we dug fast.",
+      "translation": "ركضت إليه وحفرنا بسرعة."
+    },
+    {
+      "id": 126,
+      "text": "We soon found a step in the sand and under the first step we could see a second one.",
+      "translation": "سرعان ما وجدنا درجة في الرمال وتحت الدرجة الأولى رأينا درجة ثانية."
+    },
+    {
+      "id": 127,
+      "text": "I said 'Stop! We must get Mr Carter.'",
+      "translation": "قلت: \"توقف! يجب أن نحضر السيد كارتر.\""
+    },
+    {
+      "id": 128,
+      "text": "Someone found Mr Carter and he ran over to us.",
+      "translation": "وجد أحدهم السيد كارتر فركض إلينا."
+    },
+    {
+      "id": 129,
+      "text": "When he saw the step, he was very excited and he couldn't speak.",
+      "translation": "عندما رأى الدرجة، كان متحمساً جداً ولم يستطع الكلام."
+    },
+    {
+      "id": 130,
+      "text": "We all waited.",
+      "translation": "انتظرنا جميعاً."
+    },
+    {
+      "id": 131,
+      "text": "Then he found his voice.",
+      "translation": "ثم استعاد صوته."
+    },
+    {
+      "id": 132,
+      "text": "'Dig' he cried. 'Dig I say!'",
+      "translation": "\"احفروا،\" صرخ. \"احفروا كما أقول!\""
+    },
+    {
+      "id": 133,
+      "text": "So we all dug very quickly and we found five more steps before the sun went down.",
+      "translation": "فحفرنا جميعاً بسرعة كبيرة ووجدنا خمس درجات أخرى قبل غروب الشمس."
+    },
+    {
+      "id": 134,
+      "text": "Then we stopped.",
+      "translation": "ثم توقفنا."
+    },
+    {
+      "id": 135,
+      "text": "Now we are all very tired, but very excited.",
+      "translation": "الآن نحن جميعاً متعبون جداً، لكن متحمسون جداً."
+    },
+    {
+      "id": 136,
+      "text": "At dinner there were many questions in all our heads: 'What are we going to find next?' 'Is there a tomb here?' 'Is it going to be open or closed?'",
+      "translation": "على العشاء كانت هناك أسئلة كثيرة في رؤوسنا جميعاً: \"ماذا سنجد بعد ذلك؟\" \"هل هناك مقبرة هنا؟\" \"هل ستكون مفتوحة أم مغلقة؟\""
+    },
+    {
+      "id": 137,
+      "text": "Early tomorrow morning we must dig more.",
+      "translation": "في الصباح الباكر غداً يجب أن نحفر أكثر."
+    },
+    {
+      "id": 138,
+      "text": "I don't think I'm going to sleep very much tonight.",
+      "translation": "لا أعتقد أنني سأنام كثيراً الليلة."
+    },
+    {
+      "id": 139,
+      "text": "At last there is something new in the sand.",
+      "translation": "أخيراً هناك شيء جديد في الرمال."
+    },
+    {
+      "id": 140,
+      "text": "And my friend Karim found it!",
+      "translation": "وصديقي كريم وجده!"
+    },
+    {
+      "id": 141,
+      "text": "November 6th 1922",
+      "translation": "6 نوفمبر 1922"
+    },
+    {
+      "id": 142,
+      "text": "Tonight I can tell my diary everything.",
+      "translation": "الليلة يمكنني أن أخبر مذكراتي بكل شيء."
+    },
+    {
+      "id": 143,
+      "text": "But only my diary.",
+      "translation": "لكن مذكراتي فقط."
+    },
+    {
+      "id": 144,
+      "text": "Mr Carter says we can't tell people about the steps in the sand.",
+      "translation": "يقول السيد كارتر إننا لا نستطيع إخبار الناس عن الدرجات في الرمال."
+    },
+    {
+      "id": 145,
+      "text": "He says they're very important.",
+      "translation": "يقول إنها مهمة جداً."
+    },
+    {
+      "id": 146,
+      "text": "Today we found sixteen steps in the sand.",
+      "translation": "اليوم وجدنا ست عشرة درجة في الرمال."
+    },
+    {
+      "id": 147,
+      "text": "Then we found a door.",
+      "translation": "ثم وجدنا باباً."
+    },
+    {
+      "id": 148,
+      "text": "And the most important thing - the door wasn't open, but had old Egyptian seals on it.",
+      "translation": "وأهم شيء - لم يكن الباب مفتوحاً، بل كانت عليه أختام مصرية قديمة."
+    },
+    {
+      "id": 149,
+      "text": "Mr Carter went down the steps and looked at the seals very carefully for a long time.",
+      "translation": "نزل السيد كارتر الدرجات ونظر إلى الأختام بعناية شديدة لفترة طويلة."
+    },
+    {
+      "id": 150,
+      "text": "We all waited in the sand under the hot sun.",
+      "translation": "انتظرنا جميعاً في الرمال تحت الشمس الحارقة."
+    },
+    {
+      "id": 151,
+      "text": "Down in the dark, looking at that old Egyptian door, Mr Carter began to laugh.",
+      "translation": "في الأسفل في الظلام، بينما كان ينظر إلى ذلك الباب المصري القديم، بدأ السيد كارتر في الضحك."
+    },
+    {
+      "id": 152,
+      "text": "'They're his seals,' he called up to us. 'Tutankhamun's seals! I think it's his tomb at last! Well done everybody!'",
+      "translation": "\"إنها أختامه،\" نادى علينا. \"أختام توت عنخ آمون! أعتقد أنها مقبرته أخيراً! أحسنتم جميعاً!\""
+    },
+    {
+      "id": 153,
+      "text": "We all laughed and cried.",
+      "translation": "ضحكنا وبكينا جميعاً."
+    },
+    {
+      "id": 154,
+      "text": "It was very exciting!",
+      "translation": "كان ذلك مثيراً جداً!"
+    },
+    {
+      "id": 155,
+      "text": "But after a time, Mr Carter said we must all be quiet.",
+      "translation": "لكن بعد فترة، قال السيد كارتر إنه يجب أن نكون جميعاً هادئين."
+    },
+    {
+      "id": 156,
+      "text": "He doesn't want newspaper men to hear about this and to come to the Valley of the Kings bringing lots of visitors.",
+      "translation": "لا يريد أن يسمع رجال الصحف عن هذا ويأتوا إلى وادي الملوك جالبين الكثير من الزوار."
+    },
+    {
+      "id": 157,
+      "text": "'First, I must tell Lord Carnarvon,' said Mr Carter. 'We can't open the door without him. Put all the sand back and say nothing about this.'",
+      "translation": "\"أولاً، يجب أن أخبر اللورد كارنارفون،\" قال السيد كارتر. \"لا يمكننا فتح الباب بدونه. أعيدوا كل الرمال ولا تقولوا شيئاً عن هذا.\""
+    },
+    {
+      "id": 158,
+      "text": "So we covered the door and all the steps under the sand again.",
+      "translation": "فغطينا الباب وكل الدرجات تحت الرمال مرة أخرى."
+    },
+    {
+      "id": 159,
+      "text": "And now we must wait for Lord Carnarvon.",
+      "translation": "والآن يجب أن ننتظر اللورد كارنارفون."
+    },
+    {
+      "id": 160,
+      "text": "It's going to take two weeks or more for him to come to Egypt by ship from England.",
+      "translation": "سيستغرق وصوله إلى مصر بالسفينة من إنجلترا أسبوعين أو أكثر."
+    },
+    {
+      "id": 161,
+      "text": "How can we keep quiet for two weeks?",
+      "translation": "كيف يمكننا أن نبقى صامتين لمدة أسبوعين؟"
+    },
+    {
+      "id": 162,
+      "text": "It's a good thing I'm far from my family.",
+      "translation": "من الجيد أنني بعيد عن عائلتي."
+    },
+    {
+      "id": 163,
+      "text": "And that beautiful French artist Anne is far away now.",
+      "translation": "وتلك الفنانة الفرنسية الجميلة آن بعيدة الآن."
+    },
+    {
+      "id": 164,
+      "text": "I think she would like to hear all about this, too.",
+      "translation": "أعتقد أنها ستحب سماع كل شيء عن هذا أيضاً."
+    },
+    {
+      "id": 165,
+      "text": "Without them here, there's nobody to talk to - nobody but you, my diary.",
+      "translation": "بدونهم هنا، لا يوجد أحد للتحدث معه - لا أحد سواك يا مذكراتي."
+    },
+    {
+      "id": 166,
+      "text": "November 12th 1922",
+      "translation": "12 نوفمبر 1922"
+    },
+    {
+      "id": 167,
+      "text": "Something very strange happened today.",
+      "translation": "حدث شيء غريب جداً اليوم."
+    },
+    {
+      "id": 168,
+      "text": "A snake killed Mr Carter's yellow bird and ate it.",
+      "translation": "قتل ثعبان طائر السيد كارتر الأصفر وأكله."
+    },
+    {
+      "id": 169,
+      "text": "Karim was ill, and his face went white, when he heard about it.",
+      "translation": "مرض كريم، وأصبح وجهه أبيض، عندما سمع عن ذلك."
+    },
+    {
+      "id": 170,
+      "text": "'The yellow bird helped us to find Tutankhamun's tomb,' he said, 'but now Tutankhamun sends this snake to kill the bird because he is angry with us.'",
+      "translation": "\"ساعدنا الطائر الأصفر في العثور على مقبرة توت عنخ آمون،\" قال، \"لكن الآن يرسل توت عنخ آمون هذا الثعبان لقتل الطائر لأنه غاضب منا.\""
+    },
+    {
+      "id": 171,
+      "text": "We must stop digging at once and never, never open the boy-king's tomb.'",
+      "translation": "يجب أن نتوقف عن الحفر فوراً ولا نفتح أبداً مقبرة الملك الصبي.\""
+    },
+    {
+      "id": 172,
+      "text": "Mr Carter told Karim to be quiet and not to say all those crazy things in front of the younger boys.",
+      "translation": "أخبر السيد كارتر كريم أن يهدأ وألا يقول كل هذه الأشياء المجنونة أمام الأولاد الأصغر."
+    },
+    {
+      "id": 173,
+      "text": "'Listen to me, Karim,' he said, 'Tutankhamun died thousands of years ago. He can't be angry with us, do you hear?'",
+      "translation": "\"اسمعني يا كريم،\" قال، \"مات توت عنخ آمون منذ آلاف السنين. لا يمكن أن يكون غاضباً منا، أتسمع؟\""
+    },
+    {
+      "id": 174,
+      "text": "Who is right about Tutankhamun? Mr Carter, or Karim? I don't know.",
+      "translation": "من هو على حق بشأن توت عنخ آمون؟ السيد كارتر أم كريم؟ لا أعرف."
+    },
+    {
+      "id": 175,
+      "text": "But I'm beginning to feel afraid.",
+      "translation": "لكنني بدأت أشعر بالخوف."
+    },
+    {
+      "id": 176,
+      "text": "November 23rd 1922",
+      "translation": "23 نوفمبر 1922"
+    },
+    {
+      "id": 177,
+      "text": "Today at last Lord Carnarvon and his daughter, Evelyn, arrived.",
+      "translation": "اليوم أخيراً وصل اللورد كارنارفون وابنته إيفلين."
+    },
+    {
+      "id": 178,
+      "text": "Lord Carnarvon doesn't look well.",
+      "translation": "لا يبدو اللورد كارنارفون بحالة جيدة."
+    },
+    {
+      "id": 179,
+      "text": "His face is very white and tired.",
+      "translation": "وجهه شاحب جداً ومتعب."
+    },
+    {
+      "id": 180,
+      "text": "When they arrived, we took the sand off the steps and the door again.",
+      "translation": "عندما وصلا، أزلنا الرمال عن الدرجات والباب مرة أخرى."
+    },
+    {
+      "id": 181,
+      "text": "Lord Carnarvon and Mr Carter went down the steps to look at the seals on the door.",
+      "translation": "نزل اللورد كارنارفون والسيد كارتر الدرجات للنظر إلى الأختام على الباب."
+    },
+    {
+      "id": 182,
+      "text": "They were very excited.",
+      "translation": "كانا متحمسين جداً."
+    },
+    {
+      "id": 183,
+      "text": "Lord Carnarvon's daughter stood next to me on the first step and I heard her say: 'I hope there's something there this time. Oh, Father, you're very tired and ill! I hope this visit doesn't make you feel worse.'",
+      "translation": "وقفت ابنة اللورد كارنارفون بجانبي على الدرجة الأولى وسمعتها تقول: \"آمل أن يكون هناك شيء هذه المرة. أوه، أبي، أنت متعب ومريض جداً! آمل ألا تجعلك هذه الزيارة تشعر بسوء أكثر.\""
+    },
+    {
+      "id": 184,
+      "text": "She spoke very quietly, but I heard her.",
+      "translation": "تحدثت بهدوء شديد، لكنني سمعتها."
+    },
+    {
+      "id": 185,
+      "text": "Lord Carnarvon and Mr Carter stayed down looking at the door for a long time.",
+      "translation": "بقي اللورد كارنارفون والسيد كارتر في الأسفل ينظران إلى الباب لفترة طويلة."
+    },
+    {
+      "id": 186,
+      "text": "They were very quiet.",
+      "translation": "كانا هادئين جداً."
+    },
+    {
+      "id": 187,
+      "text": "We went away to have something to eat and drink.",
+      "translation": "ذهبنا بعيداً لتناول شيء نأكله ونشربه."
+    },
+    {
+      "id": 188,
+      "text": "When we came back an hour later, they came up the steps to meet us.",
+      "translation": "عندما عدنا بعد ساعة، صعدا الدرجات للقائنا."
+    },
+    {
+      "id": 189,
+      "text": "'Some of the seals on the door are broken,' said Lord Carnarvon. 'So we're not the first people to find the door. Perhaps the tomb behind the door has nothing in it.'",
+      "translation": "\"بعض الأختام على الباب مكسورة،\" قال اللورد كارنارفون. \"إذن نحن لسنا أول من وجد الباب. ربما لا يوجد شيء في المقبرة خلف الباب.\""
+    },
+    {
+      "id": 190,
+      "text": "Nobody spoke.",
+      "translation": "لم يتكلم أحد."
+    },
+    {
+      "id": 191,
+      "text": "Everybody thought of all the gold and treasures we hoped to find there.",
+      "translation": "فكر الجميع في كل الذهب والكنوز التي كنا نأمل في إيجادها هناك."
+    },
+    {
+      "id": 192,
+      "text": "'But,' Lord Carnarvon continued, 'it's a wonderful thing to find a new tomb.'",
+      "translation": "\"لكن،\" تابع اللورد كارنارفون، \"إنه شيء رائع أن تجد مقبرة جديدة.\""
+    },
+    {
+      "id": 193,
+      "text": "We may find pictures on the walls or mummies or other beautiful things.",
+      "translation": "قد نجد صوراً على الجدران أو مومياوات أو أشياء جميلة أخرى."
+    },
+    {
+      "id": 194,
+      "text": "Our work is very important.",
+      "translation": "عملنا مهم جداً."
+    },
+    {
+      "id": 195,
+      "text": "There are stones behind the door, and we must now move away the stones.'",
+      "translation": "هناك حجارة خلف الباب، ويجب علينا الآن إزالة الحجارة.\""
+    },
+    {
+      "id": 196,
+      "text": "So we worked all afternoon.",
+      "translation": "فعملنا طوال فترة بعد الظهر."
+    },
+    {
+      "id": 197,
+      "text": "The stones are big and heavy and I don't know when we're going to finish - perhaps tomorrow.",
+      "translation": "الحجارة كبيرة وثقيلة ولا أعرف متى سننتهي - ربما غداً."
+    },
+    {
+      "id": 198,
+      "text": "It is cold again tonight.",
+      "translation": "الجو بارد مرة أخرى الليلة."
+    },
+    {
+      "id": 199,
+      "text": "Are we going to find treasure in Tutankhamun's tomb?",
+      "translation": "هل سنجد كنزاً في مقبرة توت عنخ آمون؟"
+    },
+    {
+      "id": 200,
+      "text": "Is his angry spirit near us, watching us?",
+      "translation": "هل روحه الغاضبة قريبة منا، تراقبنا؟"
+    },
+    {
+      "id": 201,
+      "text": "I am too tired to think or to write any more now.",
+      "translation": "أنا متعب جداً للتفكير أو الكتابة أكثر الآن."
+    },
+    {
+      "id": 202,
+      "text": "Good night, diary.",
+      "translation": "تصبح على خير يا مذكراتي."
+    },
+    {
+      "id": 203,
+      "text": "CHAPTER THREE",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 204,
+      "text": "Into the tomb",
+      "translation": "داخل المقبرة"
+    },
+    {
+      "id": 205,
+      "text": "November 26th 1922",
+      "translation": "26 نوفمبر 1922"
+    },
+    {
+      "id": 206,
+      "text": "It was late at night.",
+      "translation": "كان الوقت متأخراً من الليل."
+    },
+    {
+      "id": 207,
+      "text": "I saw that French artist Anne far away in the desert.",
+      "translation": "رأيت تلك الفنانة الفرنسية آن بعيداً في الصحراء."
+    },
+    {
+      "id": 208,
+      "text": "I felt happy.",
+      "translation": "شعرت بالسعادة."
+    },
+    {
+      "id": 209,
+      "text": "She came nearer and nearer to me.",
+      "translation": "اقتربت مني أكثر وأكثر."
+    },
+    {
+      "id": 210,
+      "text": "Now I could see her face and it was very sad.",
+      "translation": "الآن رأيت وجهها وكان حزيناً جداً."
+    },
+    {
+      "id": 211,
+      "text": "I wanted to speak to her, to take her in my arms, but she was far, far away from me.",
+      "translation": "أردت التحدث معها، لأخذها بين ذراعي، لكنها كانت بعيدة جداً عني."
+    },
+    {
+      "id": 212,
+      "text": "Then I saw something moving in the sand next to her feet.",
+      "translation": "ثم رأيت شيئاً يتحرك في الرمال بجانب قدميها."
+    },
+    {
+      "id": 213,
+      "text": "It was a head and an arm.",
+      "translation": "كان رأساً وذراعاً."
+    },
+    {
+      "id": 214,
+      "text": "At first I thought it was old Mr Ayrton, her teacher, but then I saw it was the mummy of an old Egyptian king.",
+      "translation": "في البداية اعتقدت أنه السيد أيرتون العجوز، معلمها، لكنني رأيت أنها مومياء ملك مصري قديم."
+    },
+    {
+      "id": 215,
+      "text": "Worse than that, it was alive!",
+      "translation": "والأسوأ من ذلك، كانت حية!"
+    },
+    {
+      "id": 216,
+      "text": "'Anne!' I cried, and I ran to help her.",
+      "translation": "\"آن!\" صرخت، وركضت لمساعدتها."
+    },
+    {
+      "id": 217,
+      "text": "Then the mummy came out of the sand.",
+      "translation": "ثم خرجت المومياء من الرمال."
+    },
+    {
+      "id": 218,
+      "text": "It took Anne in its black arms and down they went into the sand.",
+      "translation": "أخذت آن بين ذراعيها السوداء ونزلتا معاً في الرمال."
+    },
+    {
+      "id": 219,
+      "text": "Anne cried 'Help me, Tariq!' but there was nothing I could do.",
+      "translation": "صرخت آن: \"ساعدني يا طارق!\" لكن لم يكن هناك شيء يمكنني فعله."
+    },
+    {
+      "id": 220,
+      "text": "I woke up in my bed in our camp feeling cold and afraid.",
+      "translation": "استيقظت في سريري في مخيمنا أشعر بالبرد والخوف."
+    },
+    {
+      "id": 221,
+      "text": "It was only a dream after all!",
+      "translation": "كان مجرد حلم في النهاية!"
+    },
+    {
+      "id": 222,
+      "text": "We moved the last big stone at 5 p.m. today and we saw a second door behind the first!",
+      "translation": "أزلنا آخر حجر كبير في الساعة الخامسة بعد الظهر اليوم ورأينا باباً ثانياً خلف الأول!"
+    },
+    {
+      "id": 223,
+      "text": "There were seals on this door too, and Mr Carter said they were Tutankhamun's seals again.",
+      "translation": "كانت هناك أختام على هذا الباب أيضاً، وقال السيد كارتر إنها أختام توت عنخ آمون مرة أخرى."
+    },
+    {
+      "id": 224,
+      "text": "But this time the seals were not broken.",
+      "translation": "لكن هذه المرة لم تكن الأختام مكسورة."
+    },
+    {
+      "id": 225,
+      "text": "I could see Lord Carnarvon and Mr Carter were happy.",
+      "translation": "رأيت أن اللورد كارنارفون والسيد كارتر كانا سعيدين."
+    },
+    {
+      "id": 226,
+      "text": "But they didn't want to look excited in front of us.",
+      "translation": "لكنهما لم يريدا أن يبدوا متحمسين أمامنا."
+    },
+    {
+      "id": 227,
+      "text": "'It's late,' they said to us. 'Of course we can't open the tomb without the most important Egyptian people being here.'",
+      "translation": "\"الوقت متأخر،\" قالا لنا. \"بالطبع لا يمكننا فتح المقبرة بدون وجود أهم الشخصيات المصرية هنا.\""
+    },
+    {
+      "id": 228,
+      "text": "So there is nothing more you can do today.",
+      "translation": "لذلك لا يوجد شيء آخر يمكنكم فعله اليوم."
+    },
+    {
+      "id": 229,
+      "text": "Go and eat now. We want to look carefully at these seals again.'",
+      "translation": "اذهبوا وكلوا الآن. نريد النظر إلى هذه الأختام بعناية مرة أخرى.\""
+    },
+    {
+      "id": 230,
+      "text": "We walked slowly away and everyone began talking excitedly.",
+      "translation": "سِرنا بعيداً ببطء وبدأ الجميع يتحدثون بحماس."
+    },
+    {
+      "id": 231,
+      "text": "'Tariq,' I heard suddenly. 'Could you please wait?'",
+      "translation": "\"طارق،\" سمعت فجأة. \"هل يمكنك الانتظار من فضلك؟\""
+    },
+    {
+      "id": 232,
+      "text": "It was Mr Carter's voice.",
+      "translation": "كان صوت السيد كارتر."
+    },
+    {
+      "id": 233,
+      "text": "My friends walked on to the camp, and I went back and looked down the steps.",
+      "translation": "سار أصدقائي نحو المخيم، وعدت أنا ونظرت إلى أسفل الدرجات."
+    },
+    {
+      "id": 234,
+      "text": "'Come down,' said Lord Carnarvon. I went down the steps and stood next to him and Mr Carter in front of the tomb door.",
+      "translation": "\"انزل،\" قال اللورد كارنارفون. نزلت الدرجات ووقفت بجانبه وبجانب السيد كارتر أمام باب المقبرة."
+    },
+    {
+      "id": 235,
+      "text": "'We're going to make a little hole in this door and look into the tomb,' said Mr Carter. 'We want you to be with us because your father wants to know everything about our work here. You can draw pictures of everything. Do you understand?'",
+      "translation": "\"سنصنع ثقباً صغيراً في هذا الباب وننظر داخل المقبرة،\" قال السيد كارتر. \"نريدك أن تكون معنا لأن والدك يريد معرفة كل شيء عن عملنا هنا. يمكنك رسم صور لكل شيء. هل تفهم؟\""
+    },
+    {
+      "id": 236,
+      "text": "Of course I said 'yes'.",
+      "translation": "بالطبع قلت \"نعم\"."
+    },
+    {
+      "id": 237,
+      "text": "They made a little hole in the door.",
+      "translation": "صنعا ثقباً صغيراً في الباب."
+    },
+    {
+      "id": 238,
+      "text": "Carter looked through it with one eye.",
+      "translation": "نظر كارتر من خلاله بعين واحدة."
+    },
+    {
+      "id": 239,
+      "text": "Lord Carnarvon and I waited.",
+      "translation": "انتظرت أنا واللورد كارنارفون."
+    },
+    {
+      "id": 240,
+      "text": "Carter said nothing.",
+      "translation": "لم يقل كارتر شيئاً."
+    },
+    {
+      "id": 241,
+      "text": "'What can you see?' asked Lord Carnarvon at last.",
+      "translation": "\"ماذا ترى؟\" سأل اللورد كارنارفون أخيراً."
+    },
+    {
+      "id": 242,
+      "text": "'Wonderful things!' answered Mr Carter slowly.",
+      "translation": "\"أشياء رائعة!\" أجاب السيد كارتر ببطء."
+    },
+    {
+      "id": 243,
+      "text": "Then Lord Carnarvon and I looked.",
+      "translation": "ثم نظر اللورد كارنارفون وأنا."
+    },
+    {
+      "id": 244,
+      "text": "We saw gold and jewels and treasure everywhere behind the door.",
+      "translation": "رأينا الذهب والمجوهرات والكنوز في كل مكان خلف الباب."
+    },
+    {
+      "id": 245,
+      "text": "'I can see golden animals and chairs and -'",
+      "translation": "\"أستطيع رؤية حيوانات ذهبية وكراسي و-\""
+    },
+    {
+      "id": 246,
+      "text": "'Shh,' said Mr Carter, 'More quietly, please, Tariq! We don't want everyone to hear.'",
+      "translation": "\"اصمت،\" قال السيد كارتر، \"بهدوء أكثر يا طارق! لا نريد أن يسمع الجميع.\""
+    },
+    {
+      "id": 247,
+      "text": "'Tomorrow we must cover the doors and the steps with sand again,' said Lord Carnarvon. 'But tonight...'",
+      "translation": "\"غداً يجب أن نغطي الأبواب والدرجات بالرمال مرة أخرى،\" قال اللورد كارنارفون. \"لكن الليلة...\""
+    },
+    {
+      "id": 248,
+      "text": "He stopped speaking.",
+      "translation": "توقف عن الكلام."
+    },
+    {
+      "id": 249,
+      "text": "He and Mr Carter looked at me.",
+      "translation": "نظر إليّ هو والسيد كارتر."
+    },
+    {
+      "id": 250,
+      "text": "I looked from Lord Carnarvon to Mr Carter. 'Can we go into the tomb tonight?' I asked. 'To have a look?'",
+      "translation": "نظرت من اللورد كارنارفون إلى السيد كارتر. \"هل يمكننا الدخول إلى المقبرة الليلة؟\" سألت. \"لنلقي نظرة؟\""
+    },
+    {
+      "id": 251,
+      "text": "'What do you want to do?' asked Lord Carnarvon. 'I think your father would like you to come with us.'",
+      "translation": "\"ماذا تريد أن تفعل؟\" سأل اللورد كارنارفون. \"أعتقد أن والدك سيحب أن تأتي معنا.\""
+    },
+    {
+      "id": 252,
+      "text": "I didn't take long to answer. 'I'm coming,' I said.",
+      "translation": "لم أستغرق وقتاً طويلاً للإجابة. \"أنا قادم،\" قلت."
+    },
+    {
+      "id": 253,
+      "text": "We're going into the tomb at midnight with lights.",
+      "translation": "سنذهب إلى المقبرة في منتصف الليل بالمصابيح."
+    },
+    {
+      "id": 254,
+      "text": "We must wait for some hours.",
+      "translation": "يجب أن ننتظر لبضع ساعات."
+    },
+    {
+      "id": 255,
+      "text": "When everyone in the camp is sleeping we can go.",
+      "translation": "عندما ينام الجميع في المخيم يمكننا الذهاب."
+    },
+    {
+      "id": 256,
+      "text": "November 27th 1922",
+      "translation": "27 نوفمبر 1922"
+    },
+    {
+      "id": 257,
+      "text": "It took us two hours to make a hole in the door.",
+      "translation": "استغرقنا ساعتين لصنع ثقب في الباب."
+    },
+    {
+      "id": 258,
+      "text": "We worked very quietly, so we couldn't finish by midnight.",
+      "translation": "عملنا بهدوء شديد، لذلك لم نتمكن من الانتهاء بحلول منتصف الليل."
+    },
+    {
+      "id": 259,
+      "text": "At 2 a.m. we were ready.",
+      "translation": "في الساعة الثانية صباحاً كنا مستعدين."
+    },
+    {
+      "id": 260,
+      "text": "Lord Carnarvon went first and then Mr Carter.",
+      "translation": "ذهب اللورد كارنارفون أولاً ثم السيد كارتر."
+    },
+    {
+      "id": 261,
+      "text": "I went in last, after Lord Carnarvon's daughter.",
+      "translation": "دخلت أخيراً، بعد ابنة اللورد كارنارفون."
+    },
+    {
+      "id": 262,
+      "text": "The long room was hot and our lights nearly went out when the air in the tomb moved for the first time in three thousand years.",
+      "translation": "كانت الغرفة الطويلة حارة وكادت مصابيحنا تنطفئ عندما تحرك الهواء في المقبرة لأول مرة منذ ثلاثة آلاف عام."
+    },
+    {
+      "id": 263,
+      "text": "Slowly we began to see strange animals and golden statues and chairs.",
+      "translation": "ببطء بدأنا نرى حيوانات غريبة وتماثيل ذهبية وكراسي."
+    },
+    {
+      "id": 264,
+      "text": "We looked at everything without speaking.",
+      "translation": "نظرنا إلى كل شيء دون كلام."
+    },
+    {
+      "id": 265,
+      "text": "All those beautiful things!",
+      "translation": "كل تلك الأشياء الجميلة!"
+    },
+    {
+      "id": 266,
+      "text": "I saw a little statue of an Egyptian girl and I remembered the face on it.",
+      "translation": "رأيت تمثالاً صغيراً لفتاة مصرية وتذكرت الوجه عليه."
+    },
+    {
+      "id": 267,
+      "text": "But from where?",
+      "translation": "لكن من أين؟"
+    },
+    {
+      "id": 268,
+      "text": "Suddenly I knew. It was Anne's face.",
+      "translation": "فجأة عرفت. كان وجه آن."
+    },
+    {
+      "id": 269,
+      "text": "I remembered my dream.",
+      "translation": "تذكرت حلمي."
+    },
+    {
+      "id": 270,
+      "text": "There was something strange happening here.",
+      "translation": "كان هناك شيء غريب يحدث هنا."
+    },
+    {
+      "id": 271,
+      "text": "Something between Tutankhamun, Anne and me.",
+      "translation": "شيء بين توت عنخ آمون، وآن، وأنا."
+    },
+    {
+      "id": 272,
+      "text": "'Look at the two black statues in front of us,' said Mr Carter. 'I think they're statues of Tutankhamun.'",
+      "translation": "\"انظروا إلى التمثالين الأسودين أمامنا،\" قال السيد كارتر. \"أعتقد أنهما تمثالان لتوت عنخ آمون.\""
+    },
+    {
+      "id": 273,
+      "text": "Between them there's a new door. Who wants to go through it with me?'",
+      "translation": "بينهما يوجد باب جديد. من يريد العبور من خلاله معي؟\""
+    },
+    {
+      "id": 274,
+      "text": "Lord Carnarvon wanted to go with him, but his daughter and I were afraid.",
+      "translation": "أراد اللورد كارنارفون الذهاب معه، لكن ابنته وأنا كنا خائفين."
+    },
+    {
+      "id": 275,
+      "text": "I felt the spirit of Tutankhamun was in the long, hot, dark room with us, and I wanted to get out into the cold night air.",
+      "translation": "شعرت أن روح توت عنخ آمون كانت في الغرفة الطويلة الحارة المظلمة معنا، وأردت الخروج إلى هواء الليل البارد."
+    },
+    {
+      "id": 276,
+      "text": "'It's all right,' said Mr Carter. 'You two can wait for us outside. But we need your help to make a hole in this new door. It won't take long.'",
+      "translation": "\"لا بأس،\" قال السيد كارتر. \"يمكنكما انتظارنا في الخارج. لكننا نحتاج مساعدتكما لصنع ثقب في هذا الباب الجديد. لن يستغرق وقتاً طويلاً.\""
+    },
+    {
+      "id": 277,
+      "text": "So we helped them.",
+      "translation": "فساعدناهم."
+    },
+    {
+      "id": 278,
+      "text": "After they went through the door, we left the tomb.",
+      "translation": "بعد أن عبرا الباب، غادرنا المقبرة."
+    },
+    {
+      "id": 279,
+      "text": "The stars looked down at us and it was very cold.",
+      "translation": "نظرت النجوم إلينا وكان الجو بارداً جداً."
+    },
+    {
+      "id": 280,
+      "text": "At last the other two came through the door near us.",
+      "translation": "أخيراً عبر الاثنان الآخران الباب قربنا."
+    },
+    {
+      "id": 281,
+      "text": "We worked to close the hole carefully.",
+      "translation": "عملنا على إغلاق الثقب بعناية."
+    },
+    {
+      "id": 282,
+      "text": "'What did you see in the second room?' we asked.",
+      "translation": "\"ماذا رأيتما في الغرفة الثانية؟\" سألنا."
+    },
+    {
+      "id": 283,
+      "text": "'A golden wall,' they answered. 'The body of Tutankhamun is somewhere behind that. This is a wonderful day for all of us.'",
+      "translation": "\"جدار ذهبي،\" أجابا. \"جسد توت عنخ آمون في مكان ما خلف ذلك. هذا يوم رائع لنا جميعاً.\""
+    },
+    {
+      "id": 284,
+      "text": "By then it was early morning and I went back to my tent and slept all day.",
+      "translation": "بحلول ذلك الوقت كان الصباح الباكر وعدت إلى خيمتي ونمت طوال اليوم."
+    },
+    {
+      "id": 285,
+      "text": "Now it's evening again, and I'm afraid.",
+      "translation": "الآن هو المساء مرة أخرى، وأنا خائف."
+    },
+    {
+      "id": 296,
+      "text": "But who can I talk to about my feelings?",
+      "translation": "لكن مع من يمكنني التحدث عن مشاعري؟"
+    },
+    {
+      "id": 297,
+      "text": "CHAPTER FOUR",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 298,
+      "text": "Every day we find new things",
+      "translation": "كل يوم نجد أشياء جديدة"
+    },
+    {
+      "id": 299,
+      "text": "December 22nd 1922",
+      "translation": "22 ديسمبر 1922"
+    },
+    {
+      "id": 300,
+      "text": "Today, a month after my night visit to the tomb, we opened the tomb door again, this time in front of everybody.",
+      "translation": "اليوم، بعد شهر من زيارتي الليلية للمقبرة، فتحنا باب المقبرة مرة أخرى، هذه المرة أمام الجميع."
+    },
+    {
+      "id": 301,
+      "text": "Many important Egyptians came to the Valley of the Kings with lots of newspaper men and interested people from all over the world.",
+      "translation": "جاء العديد من المصريين المهمين إلى وادي الملوك مع الكثير من رجال الصحف والمهتمين من جميع أنحاء العالم."
+    },
+    {
+      "id": 302,
+      "text": "Many people talked to us, but I said nothing about the golden treasures in the tomb.",
+      "translation": "تحدث الكثير من الناس إلينا، لكنني لم أقل شيئاً عن الكنوز الذهبية في المقبرة."
+    },
+    {
+      "id": 303,
+      "text": "Only my father knows about them.",
+      "translation": "والدي فقط يعرف عنها."
+    },
+    {
+      "id": 304,
+      "text": "When we opened the door in the sunlight, everybody could see the gold and the treasures.",
+      "translation": "عندما فتحنا الباب في ضوء الشمس، تمكن الجميع من رؤية الذهب والكنوز."
+    },
+    {
+      "id": 305,
+      "text": "First Mr Carter is going to photograph everything we find in the tomb.",
+      "translation": "أولاً سيقوم السيد كارتر بتصوير كل شيء نجده في المقبرة."
+    },
+    {
+      "id": 306,
+      "text": "After the photographs, we can move things and look at them carefully.",
+      "translation": "بعد الصور، يمكننا تحريك الأشياء والنظر إليها بعناية."
+    },
+    {
+      "id": 307,
+      "text": "Then we must write all about each treasure in a book.",
+      "translation": "ثم يجب أن نكتب كل شيء عن كل كنز في كتاب."
+    },
+    {
+      "id": 308,
+      "text": "After that, we must send them to the Museum in Cairo.",
+      "translation": "بعد ذلك، يجب أن نرسلها إلى المتحف في القاهرة."
+    },
+    {
+      "id": 309,
+      "text": "This work is going to take a long time, but we must be very careful when we move things.",
+      "translation": "سيستغرق هذا العمل وقتاً طويلاً، لكن يجب أن نكون حذرين جداً عند تحريك الأشياء."
+    },
+    {
+      "id": 310,
+      "text": "Mr Carter picked up a shoe in the tomb today and it broke into little pieces in his hands!",
+      "translation": "رفع السيد كارتر حذاءً في المقبرة اليوم فتكسر إلى قطع صغيرة في يديه!"
+    },
+    {
+      "id": 311,
+      "text": "January 2nd 1923",
+      "translation": "2 يناير 1923"
+    },
+    {
+      "id": 312,
+      "text": "Every day we find new things in the first room in the tomb.",
+      "translation": "كل يوم نجد أشياء جديدة في الغرفة الأولى في المقبرة."
+    },
+    {
+      "id": 313,
+      "text": "Today we found some pens and some old Egyptian games.",
+      "translation": "اليوم وجدنا بعض الأقلام وبعض الألعاب المصرية القديمة."
+    },
+    {
+      "id": 314,
+      "text": "Mr Carter says the Ancient Egyptians loved playing games.",
+      "translation": "يقول السيد كارتر إن المصريين القدماء أحبوا لعب الألعاب."
+    },
+    {
+      "id": 315,
+      "text": "He says Tutankhamun was happy when he was a little boy.",
+      "translation": "يقول إن توت عنخ آمون كان سعيداً عندما كان صبياً صغيراً."
+    },
+    {
+      "id": 316,
+      "text": "Most of the time, he played with his brothers and sisters in the palace gardens.",
+      "translation": "معظم الوقت، كان يلعب مع إخوته وأخواته في حدائق القصر."
+    },
+    {
+      "id": 317,
+      "text": "He didn't go to school because he had a teacher in the palace.",
+      "translation": "لم يكن يذهب إلى المدرسة لأن لديه معلماً في القصر."
+    },
+    {
+      "id": 318,
+      "text": "He couldn't go out of the palace very often because the Egyptian people thought he was a god.",
+      "translation": "لم يكن يستطيع الخروج من القصر كثيراً لأن الشعب المصري كان يعتقد أنه إله."
+    },
+    {
+      "id": 319,
+      "text": "They thought all Ancient Egyptian kings and their families were gods.",
+      "translation": "كانوا يعتقدون أن جميع ملوك مصر القديمة وعائلاتهم آلهة."
+    },
+    {
+      "id": 320,
+      "text": "Near the games we found a beautiful golden chair, and there were also many different things to wear.",
+      "translation": "قرب الألعاب وجدنا كرسياً ذهبياً جميلاً، وكانت هناك أيضاً أشياء كثيرة مختلفة لارتدائها."
+    },
+    {
+      "id": 321,
+      "text": "Mr Carter says it took more than 3,000 hours to make only one of his shirts!",
+      "translation": "يقول السيد كارتر إن صنع قميص واحد فقط من قمصانه استغرق أكثر من 3000 ساعة!"
+    },
+    {
+      "id": 322,
+      "text": "Sometimes, when I look at Tutankhamun's things, I feel he's near me.",
+      "translation": "أحياناً، عندما أنظر إلى أشياء توت عنخ آمون، أشعر أنه قريب مني."
+    },
+    {
+      "id": 323,
+      "text": "But he died when he was one year older than me.",
+      "translation": "لكنه مات عندما كان أكبر مني بعام واحد."
+    },
+    {
+      "id": 324,
+      "text": "Why? I want to know the answer to that question more than anything.",
+      "translation": "لماذا؟ أريد معرفة إجابة هذا السؤال أكثر من أي شيء."
+    },
+    {
+      "id": 325,
+      "text": "February 18th 1923",
+      "translation": "18 فبراير 1923"
+    },
+    {
+      "id": 326,
+      "text": "Today, at last, we opened the second room in the tomb.",
+      "translation": "اليوم، أخيراً، فتحنا الغرفة الثانية في المقبرة."
+    },
+    {
+      "id": 327,
+      "text": "It took us seven weeks to take everything out of the first room.",
+      "translation": "استغرقنا سبعة أسابيع لإخراج كل شيء من الغرفة الأولى."
+    },
+    {
+      "id": 328,
+      "text": "All this time, everyone wanted to go through into the second room, but Mr Carter said: 'No! We must take all the things out of the first room - slowly and carefully - before we do that!'",
+      "translation": "طوال هذا الوقت، أراد الجميع العبور إلى الغرفة الثانية، لكن السيد كارتر قال: \"لا! يجب أن نخرج كل الأشياء من الغرفة الأولى - ببطء وعناية - قبل أن نفعل ذلك!\""
+    },
+    {
+      "id": 329,
+      "text": "I know it was difficult for him too, because he knew the second room was the burial room.",
+      "translation": "أعلم أنه كان صعباً عليه أيضاً، لأنه كان يعلم أن الغرفة الثانية هي غرفة الدفن."
+    },
+    {
+      "id": 330,
+      "text": "Lots of people were here again today for the opening of the burial room.",
+      "translation": "كان الكثير من الناس هنا مرة أخرى اليوم لافتتاح غرفة الدفن."
+    },
+    {
+      "id": 331,
+      "text": "It was very hot in the tomb.",
+      "translation": "كان الجو حاراً جداً في المقبرة."
+    },
+    {
+      "id": 332,
+      "text": "Mr Carter opened the door between the two black statues and he went in first.",
+      "translation": "فتح السيد كارتر الباب بين التمثالين الأسودين ودخل أولاً."
+    },
+    {
+      "id": 333,
+      "text": "When he was in the second room he could see all of the golden wall.",
+      "translation": "عندما كان في الغرفة الثانية تمكن من رؤية كل الجدار الذهبي."
+    },
+    {
+      "id": 334,
+      "text": "'But it isn't a wall,' he called out to us. 'It's one side of a tall, golden shrine.'",
+      "translation": "\"لكنها ليست جداراً،\" نادى علينا. \"إنها جانب واحد من ضريح ذهبي طويل.\""
+    },
+    {
+      "id": 335,
+      "text": "The shrine nearly filled the second room.",
+      "translation": "كاد الضريح يملأ الغرفة الثانية."
+    },
+    {
+      "id": 336,
+      "text": "It was very difficult to move around the shrine because there were treasures on every side of it.",
+      "translation": "كان من الصعب جداً التحرك حول الضريح لأن هناك كنوزاً على كل جانب منه."
+    },
+    {
+      "id": 337,
+      "text": "On the far side of the burial room is an open door and a third room.",
+      "translation": "على الجانب البعيد من غرفة الدفن يوجد باب مفتوح وغرفة ثالثة."
+    },
+    {
+      "id": 338,
+      "text": "This room also has lots of treasures in it.",
+      "translation": "تحتوي هذه الغرفة أيضاً على الكثير من الكنوز."
+    },
+    {
+      "id": 339,
+      "text": "After a short time, Mr Carter asked all our visitors to leave.",
+      "translation": "بعد وقت قصير، طلب السيد كارتر من جميع زوارنا المغادرة."
+    },
+    {
+      "id": 340,
+      "text": "He said: 'We can't open the shrine now because it has lots of treasures around it and we must look at all of them first.'",
+      "translation": "قال: \"لا يمكننا فتح الضريح الآن لأن حوله الكثير من الكنوز ويجب أن ننظر إليها كلها أولاً.\""
+    },
+    {
+      "id": 341,
+      "text": "The newspaper men took lots of photos of the shrine and of the treasures and then they left.",
+      "translation": "التقط رجال الصحف الكثير من الصور للضريح والكنوز ثم غادروا."
+    },
+    {
+      "id": 342,
+      "text": "The walls of the burial room are covered with pictures.",
+      "translation": "جدران غرفة الدفن مغطاة بالصور."
+    },
+    {
+      "id": 343,
+      "text": "There are many pictures of Tutankhamun with a young woman.",
+      "translation": "هناك العديد من الصور لتوت عنخ آمون مع امرأة شابة."
+    },
+    {
+      "id": 344,
+      "text": "Mr Carter says she is his queen, Ankhesenamun.",
+      "translation": "يقول السيد كارتر إنها ملكته، عنخ إسن آمون."
+    },
+    {
+      "id": 345,
+      "text": "She has a strong, dark face.",
+      "translation": "لديها وجه قوي وداكن."
+    },
+    {
+      "id": 346,
+      "text": "It makes me think of Anne, the French artist from my dream.",
+      "translation": "يجعلني أفكر في آن، الفنانة الفرنسية من حلمي."
+    },
+    {
+      "id": 347,
+      "text": "In some of the pictures, Ankhesenamun is giving Tutankhamun flowers, and he is smiling at her.",
+      "translation": "في بعض الصور، تعطي عنخ إسن آمون توت عنخ آمون زهوراً، وهو يبتسم لها."
+    },
+    {
+      "id": 348,
+      "text": "They look very happy.",
+      "translation": "يبدوان سعيدين جداً."
+    },
+    {
+      "id": 349,
+      "text": "Mr Carter thinks they were very happy when they married.",
+      "translation": "يعتقد السيد كارتر أنهما كانا سعيدين جداً عندما تزوجا."
+    },
+    {
+      "id": 350,
+      "text": "Am I going to be happy when I marry?",
+      "translation": "هل سأكون سعيداً عندما أتزوج؟"
+    },
+    {
+      "id": 351,
+      "text": "I'd like to marry Anne.",
+      "translation": "أود أن أتزوج آن."
+    },
+    {
+      "id": 352,
+      "text": "But where is she now?",
+      "translation": "لكن أين هي الآن؟"
+    },
+    {
+      "id": 353,
+      "text": "Back in France?",
+      "translation": "في فرنسا؟"
+    },
+    {
+      "id": 354,
+      "text": "Or here in Egypt in a museum somewhere, looking at Ancient Egyptian jewels and statues?",
+      "translation": "أم هنا في مصر في متحف ما، تنظر إلى مجوهرات وتماثيل مصرية قديمة؟"
+    },
+    {
+      "id": 355,
+      "text": "After Tutankhamun died, Mr Carter says, the next king of Egypt was Lord Ay, a man twenty years older than Tutankhamun.",
+      "translation": "بعد وفاة توت عنخ آمون، يقول السيد كارتر، كان الملك التالي لمصر هو اللورد آي، رجل أكبر من توت عنخ آمون بعشرين عاماً."
+    },
+    {
+      "id": 356,
+      "text": "When Mr Carter told me about this, I remembered my bad dream of Anne and the old Egyptian mummy in the sands of the desert.",
+      "translation": "عندما أخبرني السيد كارتر بهذا، تذكرت حلمي السيئ عن آن والمومياء المصرية القديمة في رمال الصحراء."
+    },
+    {
+      "id": 357,
+      "text": "And I remembered the time when her eye bracelet fell in the sand.",
+      "translation": "وتذكرت الوقت الذي سقط فيه سوار عينها في الرمال."
+    },
+    {
+      "id": 358,
+      "text": "After work today I slept and had another dream.",
+      "translation": "بعد العمل اليوم نمت ورأيت حلماً آخر."
+    },
+    {
+      "id": 359,
+      "text": "This time I saw Anne wearing a white Egyptian dress.",
+      "translation": "هذه المرة رأيت آن ترتدي فستاناً مصرياً أبيض."
+    },
+    {
+      "id": 360,
+      "text": "She had Egyptian jewels in her hair and Egyptian bracelets on her arms.",
+      "translation": "كانت ترتدي مجوهرات مصرية في شعرها وأساور مصرية على ذراعيها."
+    },
+    {
+      "id": 361,
+      "text": "We were in a room in an old Egyptian palace.",
+      "translation": "كنا في غرفة في قصر مصري قديم."
+    },
+    {
+      "id": 362,
+      "text": "I lay with my eyes open on an old Egyptian bed and she sat next to the bed on an old Egyptian chair.",
+      "translation": "استلقيت وعيناي مفتوحتان على سرير مصري قديم وجلست بجانب السرير على كرسي مصري قديم."
+    },
+    {
+      "id": 363,
+      "text": "'Tutankhamun,' she said, holding my hand, 'Lord Ay is watching me all the time now, and I am afraid.'",
+      "translation": "\"توت عنخ آمون،\" قالت، ممسكة بيدي، \"اللورد آي يراقبني طوال الوقت الآن، وأنا خائفة.\""
+    },
+    {
+      "id": 364,
+      "text": "I wanted to say, 'My name's Tariq', but I couldn't speak.",
+      "translation": "أردت أن أقول: \"اسمي طارق\"، لكنني لم أستطع الكلام."
+    },
+    {
+      "id": 365,
+      "text": "'What is going to happen to me when you die?' she asked.",
+      "translation": "\"ماذا سيحدث لي عندما تموت؟\" سألت."
+    },
+    {
+      "id": 366,
+      "text": "Again I could say nothing.",
+      "translation": "مرة أخرى لم أستطع قول أي شيء."
+    },
+    {
+      "id": 367,
+      "text": "'First our two children, and now you. People say Lord Ay killed them. And they say he's killing you, too, with poison because he wants to marry me and be king of Egypt.'",
+      "translation": "\"أولاً طفلانا، والآن أنت. يقول الناس إن اللورد آي قتلهم. ويقولون إنه يقتلك أيضاً بالسم لأنه يريد الزواج مني وأن يكون ملك مصر.\""
+    },
+    {
+      "id": 368,
+      "text": "Suddenly a man came quietly into the room behind her.",
+      "translation": "فجأة دخل رجل بهدوء إلى الغرفة خلفها."
+    },
+    {
+      "id": 369,
+      "text": "He wore a white Ancient Egyptian skirt, but he had the face of Anne's teacher, Mr Ayrton!",
+      "translation": "كان يرتدي تنورة مصرية قديمة بيضاء، لكن كان لديه وجه معلم آن، السيد أيرتون!"
+    },
+    {
+      "id": 370,
+      "text": "I wanted to tell Anne to look behind her, but I couldn't open my mouth.",
+      "translation": "أردت أن أخبر آن لتنظر خلفها، لكنني لم أستطع فتح فمي."
+    },
+    {
+      "id": 371,
+      "text": "The man came to her and put his hand on her arm.",
+      "translation": "جاء الرجل إليها ووضع يده على ذراعها."
+    },
+    {
+      "id": 372,
+      "text": "'Ankhesenamun,' he said, smiling coldly. 'Forget Tutankhamun. He is dying. You must take a new husband now. Are you ready to be my wife?'",
+      "translation": "\"عنخ إسن آمون،\" قال، مبتسماً ببرود. \"انسي توت عنخ آمون. إنه يحتضر. يجب أن تتخذي زوجاً جديداً الآن. هل أنت مستعدة لتكوني زوجتي؟\""
+    },
+    {
+      "id": 373,
+      "text": "I woke up suddenly, crying 'Anne! No! Don't do it!'",
+      "translation": "استيقظت فجأة، صارخاً: \"آن! لا! لا تفعليها!\""
+    },
+    {
+      "id": 374,
+      "text": "Karim sleeps in the tent next to me, and he woke up when he heard my voice.",
+      "translation": "ينام كريم في الخيمة المجاورة لي، واستيقظ عندما سمع صوتي."
+    },
+    {
+      "id": 375,
+      "text": "'What's the matter, Tariq?' he said. 'It's three o'clock in the morning! Are you crazy?'",
+      "translation": "\"ما الأمر يا طارق؟\" قال. \"إنها الثالثة صباحاً! هل أنت مجنون؟\""
+    },
+    {
+      "id": 376,
+      "text": "Am I crazy? Why am I having these dreams?",
+      "translation": "هل أنا مجنون؟ لماذا أرى هذه الأحلام؟"
+    },
+    {
+      "id": 377,
+      "text": "I don't understand them.",
+      "translation": "لا أفهمها."
+    },
+    {
+      "id": 378,
+      "text": "Are they telling me to stop working for Mr Carter and to leave the Valley of the Kings?",
+      "translation": "هل يخبرونني أن أتوقف عن العمل مع السيد كارتر وأترك وادي الملوك؟"
+    },
+    {
+      "id": 379,
+      "text": "CHAPTER FIVE",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 380,
+      "text": "Tutankhamun's mummy is killing people",
+      "translation": "مومياء توت عنخ آمون تقتل الناس"
+    },
+    {
+      "id": 381,
+      "text": "March 15th 1923",
+      "translation": "15 مارس 1923"
+    },
+    {
+      "id": 382,
+      "text": "We had some bad news today.",
+      "translation": "تلقينا بعض الأخبار السيئة اليوم."
+    },
+    {
+      "id": 383,
+      "text": "Lord Carnarvon is very ill.",
+      "translation": "اللورد كارنارفون مريض جداً."
+    },
+    {
+      "id": 384,
+      "text": "Mr Carter says it's because of the poison from a bad mosquito bite.",
+      "translation": "يقول السيد كارتر إنه بسبب السم من لدغة بعوضة سيئة."
+    },
+    {
+      "id": 385,
+      "text": "Mosquitoes can be dangerous in Egypt.",
+      "translation": "يمكن أن يكون البعوض خطيراً في مصر."
+    },
+    {
+      "id": 386,
+      "text": "Some people are saying that he's ill because the spirit of Tutankhamun is angry.",
+      "translation": "يقول بعض الناس إنه مريض لأن روح توت عنخ آمون غاضبة."
+    },
+    {
+      "id": 387,
+      "text": "In the newspapers, a woman called Maria Corelli says that he's going to die because Tutankhamun is angry.",
+      "translation": "في الصحف، تقول امرأة تُدعى ماريا كوريللي إنه سيموت لأن توت عنخ آمون غاضب."
+    },
+    {
+      "id": 388,
+      "text": "Some people say that all of us here are going to die soon because we opened the tomb.",
+      "translation": "يقول بعض الناس إننا جميعاً هنا سنموت قريباً لأننا فتحنا المقبرة."
+    },
+    {
+      "id": 389,
+      "text": "So nobody is sleeping easily in their tents tonight.",
+      "translation": "لذلك لا ينام أحد بسهولة في خيامهم الليلة."
+    },
+    {
+      "id": 390,
+      "text": "We're all thinking about the spirit of Tutankhamun.",
+      "translation": "نحن جميعاً نفكر في روح توت عنخ آمون."
+    },
+    {
+      "id": 391,
+      "text": "Is he angry with us?",
+      "translation": "هل هو غاضب منا؟"
+    },
+    {
+      "id": 392,
+      "text": "And why am I dreaming about that French girl, the artist, Anne?",
+      "translation": "ولماذا أحلم بتلك الفتاة الفرنسية، الفنانة، آن؟"
+    },
+    {
+      "id": 393,
+      "text": "Where is she now?",
+      "translation": "أين هي الآن؟"
+    },
+    {
+      "id": 394,
+      "text": "I'm sure we're going to meet again.",
+      "translation": "أنا متأكد أننا سنلتقي مرة أخرى."
+    },
+    {
+      "id": 395,
+      "text": "But where?",
+      "translation": "لكن أين؟"
+    },
+    {
+      "id": 396,
+      "text": "April 6th 1923",
+      "translation": "6 أبريل 1923"
+    },
+    {
+      "id": 397,
+      "text": "Lord Carnarvon is dead.",
+      "translation": "اللورد كارنارفون مات."
+    },
+    {
+      "id": 398,
+      "text": "I am sorry because I liked him and his daughter, Evelyn.",
+      "translation": "أنا آسف لأنني أحببته وابنته إيفلين."
+    },
+    {
+      "id": 399,
+      "text": "The newspapers say that all the lights in Cairo went out when he died.",
+      "translation": "تقول الصحف إن جميع الأنوار في القاهرة انطفأت عندما مات."
+    },
+    {
+      "id": 400,
+      "text": "The city was dark for many hours.",
+      "translation": "كانت المدينة مظلمة لساعات عديدة."
+    },
+    {
+      "id": 401,
+      "text": "Mr Carter told us that Lord Carnarvon's dog died in England on that night too.",
+      "translation": "أخبرنا السيد كارتر أن كلب اللورد كارنارفون مات في إنجلترا في تلك الليلة أيضاً."
+    },
+    {
+      "id": 402,
+      "text": "Mr Carter only laughs at the things in the newspapers.",
+      "translation": "السيد كارتر يضحك فقط على الأشياء في الصحف."
+    },
+    {
+      "id": 403,
+      "text": "He's not afraid of anything.",
+      "translation": "إنه لا يخاف من أي شيء."
+    },
+    {
+      "id": 404,
+      "text": "But he's sorry too: Lord Carnarvon was a good friend.",
+      "translation": "لكنه آسف أيضاً: كان اللورد كارنارفون صديقاً جيداً."
+    },
+    {
+      "id": 405,
+      "text": "May 29th 1923",
+      "translation": "29 مايو 1923"
+    },
+    {
+      "id": 406,
+      "text": "People are talking about Lord Carnarvon dying.",
+      "translation": "الناس يتحدثون عن موت اللورد كارنارفون."
+    },
+    {
+      "id": 407,
+      "text": "They are saying that we were wrong to go into a dead man's tomb.",
+      "translation": "يقولون إننا أخطأنا بدخولنا مقبرة رجل ميت."
+    },
+    {
+      "id": 408,
+      "text": "But Mr Carter doesn't listen to anybody.",
+      "translation": "لكن السيد كارتر لا يستمع إلى أي شخص."
+    },
+    {
+      "id": 409,
+      "text": "He wants to open the shrine in the burial room soon and find the body of Tutankhamun.",
+      "translation": "يريد فتح الضريح في غرفة الدفن قريباً والعثور على جسد توت عنخ آمون."
+    },
+    {
+      "id": 410,
+      "text": "It's going to take us all summer to finish our work on the things in the burial room and the treasure room, but what happens then?",
+      "translation": "سيستغرقنا الصيف بأكمله لإنهاء عملنا على الأشياء في غرفة الدفن وغرفة الكنوز، لكن ماذا يحدث بعد ذلك؟"
+    },
+    {
+      "id": 411,
+      "text": "Are we all going to die after finding the body of the boy-king?",
+      "translation": "هل سنموت جميعاً بعد العثور على جسد الملك الصبي؟"
+    },
+    {
+      "id": 412,
+      "text": "October 3rd 1923",
+      "translation": "3 أكتوبر 1923"
+    },
+    {
+      "id": 413,
+      "text": "A week ago we sent the last treasure from the first room to the museum.",
+      "translation": "قبل أسبوع أرسلنا آخر كنز من الغرفة الأولى إلى المتحف."
+    },
+    {
+      "id": 414,
+      "text": "My father has everything now.",
+      "translation": "والدي لديه كل شيء الآن."
+    },
+    {
+      "id": 415,
+      "text": "In his last letter, he told me they are looking for more workers at the museum in Cairo.",
+      "translation": "في رسالته الأخيرة، أخبرني أنهم يبحثون عن المزيد من العمال في المتحف في القاهرة."
+    },
+    {
+      "id": 416,
+      "text": "My father has a lot of work to do there now because the museum has lots of visitors every week.",
+      "translation": "والدي لديه الكثير من العمل ليفعله هناك الآن لأن المتحف يستقبل الكثير من الزوار كل أسبوع."
+    },
+    {
+      "id": 417,
+      "text": "Everyone wants to see Tutankhamun's beautiful things.",
+      "translation": "الجميع يريد رؤية أشياء توت عنخ آمون الجميلة."
+    },
+    {
+      "id": 418,
+      "text": "Mr Carter thinks we can open the shrine some time in the winter, perhaps in December.",
+      "translation": "يعتقد السيد كارتر أنه يمكننا فتح الضريح في وقت ما في الشتاء، ربما في ديسمبر."
+    },
+    {
+      "id": 419,
+      "text": "December 12th 1923",
+      "translation": "12 ديسمبر 1923"
+    },
+    {
+      "id": 420,
+      "text": "Today we opened the shrine.",
+      "translation": "اليوم فتحنا الضريح."
+    },
+    {
+      "id": 421,
+      "text": "In it there was a second golden shrine.",
+      "translation": "كان فيه ضريح ذهبي ثانٍ."
+    },
+    {
+      "id": 422,
+      "text": "We must open this very carefully!",
+      "translation": "يجب أن نفتح هذا بعناية شديدة!"
+    },
+    {
+      "id": 423,
+      "text": "January 20th 1924",
+      "translation": "20 يناير 1924"
+    },
+    {
+      "id": 424,
+      "text": "There are three golden shrines!",
+      "translation": "هناك ثلاثة أضرحة ذهبية!"
+    },
+    {
+      "id": 425,
+      "text": "After opening all three of them, we found a stone sarcophagus.",
+      "translation": "بعد فتح الثلاثة جميعاً، وجدنا تابوتاً حجرياً."
+    },
+    {
+      "id": 426,
+      "text": "How much more must we open before we find Tutankhamun?",
+      "translation": "كم يجب أن نفتح أكثر قبل أن نجد توت عنخ آمون؟"
+    },
+    {
+      "id": 427,
+      "text": "November 12th 1924",
+      "translation": "12 نوفمبر 1924"
+    },
+    {
+      "id": 428,
+      "text": "When we opened the sarcophagus we found a golden coffin, with two more golden coffins inside it.",
+      "translation": "عندما فتحنا التابوت وجدنا تابوتاً ذهبياً، مع تابوتين ذهبيين آخرين بداخله."
+    },
+    {
+      "id": 429,
+      "text": "On each we saw a beautiful golden face - the face of Tutankhamun.",
+      "translation": "على كل منها رأينا وجهاً ذهبياً جميلاً - وجه توت عنخ آمون."
+    },
+    {
+      "id": 430,
+      "text": "I know his face well now from all the pictures on the walls of the tomb.",
+      "translation": "أعرف وجهه جيداً الآن من جميع الصور على جدران المقبرة."
+    },
+    {
+      "id": 431,
+      "text": "On the last coffin, his head is blue and gold, and he has a golden snake and a bird's head over his big, dark eyes.",
+      "translation": "على التابوت الأخير، رأسه أزرق وذهبي، ولديه ثعبان ذهبي ورأس طائر فوق عينيه الكبيرتين الداكنتين."
+    },
+    {
+      "id": 432,
+      "text": "These mean he was king of the North and the South of Egypt, Mr Carter says.",
+      "translation": "هذه تعني أنه كان ملك شمال وجنوب مصر، كما يقول السيد كارتر."
+    },
+    {
+      "id": 433,
+      "text": "Today, at last, we found the mummy of Tutankhamun.",
+      "translation": "اليوم، أخيراً، وجدنا مومياء توت عنخ آمون."
+    },
+    {
+      "id": 434,
+      "text": "It is only a young boy's body inside all that gold and treasure.",
+      "translation": "إنه مجرد جسد صبي صغير داخل كل ذلك الذهب والكنز."
+    },
+    {
+      "id": 435,
+      "text": "Around the mummy were 143 jewels of all colours: red, green, white and blue.",
+      "translation": "حول المومياء كانت هناك 143 جوهرة من جميع الألوان: الأحمر والأخضر والأبيض والأزرق."
+    },
+    {
+      "id": 436,
+      "text": "There were also some blue flowers.",
+      "translation": "كانت هناك أيضاً بعض الزهور الزرقاء."
+    },
+    {
+      "id": 437,
+      "text": "I'm sure his beautiful queen Ankhesenamun put them there.",
+      "translation": "أنا متأكد أن ملكته الجميلة عنخ إسن آمون وضعتها هناك."
+    },
+    {
+      "id": 438,
+      "text": "When we found the body, there were lots of people in the room and it was very hot, but I felt cold and afraid.",
+      "translation": "عندما وجدنا الجسد، كان هناك الكثير من الناس في الغرفة وكان الجو حاراً جداً، لكنني شعرت بالبرد والخوف."
+    },
+    {
+      "id": 439,
+      "text": "Mr Carter was very excited.",
+      "translation": "كان السيد كارتر متحمساً جداً."
+    },
+    {
+      "id": 440,
+      "text": "But I could only hear a little voice in my head.",
+      "translation": "لكنني سمعت فقط صوتاً صغيراً في رأسي."
+    },
+    {
+      "id": 441,
+      "text": "The voice said to me it was wrong to be there.",
+      "translation": "قال لي الصوت إنه كان من الخطأ أن أكون هناك."
+    },
+    {
+      "id": 442,
+      "text": "I left the tomb and ran outside into the warm sun.",
+      "translation": "غادرت المقبرة وركضت خارجاً إلى الشمس الدافئة."
+    },
+    {
+      "id": 443,
+      "text": "But I felt cold out there, too.",
+      "translation": "لكنني شعرت بالبرد هناك أيضاً."
+    },
+    {
+      "id": 444,
+      "text": "In the evening, Mr Carter came to my tent.",
+      "translation": "في المساء، جاء السيد كارتر إلى خيمتي."
+    },
+    {
+      "id": 445,
+      "text": "'Why did you suddenly leave us, Tariq?' he asked.",
+      "translation": "\"لماذا تركتنا فجأة يا طارق؟\" سأل."
+    },
+    {
+      "id": 446,
+      "text": "I told him that I felt afraid of Tutankhamun's spirit.",
+      "translation": "أخبرته أنني شعرت بالخوف من روح توت عنخ آمون."
+    },
+    {
+      "id": 447,
+      "text": "'You're tired,' he said. 'You need a holiday. Why don't you visit your father for one or two weeks? I know he'd like to see you. You can help him in the museum.'",
+      "translation": "\"أنت متعب،\" قال. \"تحتاج عطلة. لماذا لا تزور والدك لأسبوع أو أسبوعين؟ أعلم أنه سيحب رؤيتك. يمكنك مساعدته في المتحف.\""
+    },
+    {
+      "id": 448,
+      "text": "'Thank you, Mr Carter,' I answered.",
+      "translation": "\"شكراً لك يا سيد كارتر،\" أجبت."
+    },
+    {
+      "id": 449,
+      "text": "'And remember, Tutankhamun died three thousand years ago. He can't be angry with anybody any more.'",
+      "translation": "\"وتذكر، مات توت عنخ آمون منذ ثلاثة آلاف عام. لا يمكن أن يكون غاضباً من أي شخص بعد الآن.\""
+    },
+    {
+      "id": 450,
+      "text": "'Perhaps not,' I said, but I wasn't sure.",
+      "translation": "\"ربما لا،\" قلت، لكنني لم أكن متأكداً."
+    },
+    {
+      "id": 451,
+      "text": "So tomorrow morning I'm going back to Cairo!",
+      "translation": "لذا في صباح الغد سأعود إلى القاهرة!"
+    },
+    {
+      "id": 452,
+      "text": "All my things are ready in my bag and my diary's coming with me too.",
+      "translation": "كل أشيائي جاهزة في حقيبتي ومذكراتي ستأتي معي أيضاً."
+    },
+    {
+      "id": 453,
+      "text": "I'm going to be far away when the doctor comes to cut up Tutankhamun's body.",
+      "translation": "سأكون بعيداً عندما يأتي الطبيب لتقطيع جسد توت عنخ آمون."
+    },
+    {
+      "id": 454,
+      "text": "I don't want to see that.",
+      "translation": "لا أريد رؤية ذلك."
+    },
+    {
+      "id": 455,
+      "text": "I hope my father understands.",
+      "translation": "آمل أن يفهم والدي."
+    },
+    {
+      "id": 456,
+      "text": "I'm looking at the stars now.",
+      "translation": "أنظر إلى النجوم الآن."
+    },
+    {
+      "id": 457,
+      "text": "I must say goodbye to my best friends in the desert.",
+      "translation": "يجب أن أودع أفضل أصدقائي في الصحراء."
+    },
+    {
+      "id": 458,
+      "text": "January 14th 1925: Cairo",
+      "translation": "14 يناير 1925: القاهرة"
+    },
+    {
+      "id": 459,
+      "text": "I'm not going back to the camp.",
+      "translation": "لن أعود إلى المخيم."
+    },
+    {
+      "id": 460,
+      "text": "My father and I spoke about it today.",
+      "translation": "تحدثت مع والدي عن ذلك اليوم."
+    },
+    {
+      "id": 461,
+      "text": "All over the world, people are saying Tutankhamun's mummy is killing people.",
+      "translation": "في جميع أنحاء العالم، يقول الناس إن مومياء توت عنخ آمون تقتل الناس."
+    },
+    {
+      "id": 462,
+      "text": "And my friend Karim died last week at the camp.",
+      "translation": "وصديقي كريم مات الأسبوع الماضي في المخيم."
+    },
+    {
+      "id": 463,
+      "text": "How did he die? I don't know, but I know everybody's going to say Tutankhamun's angry spirit killed him.",
+      "translation": "كيف مات؟ لا أعرف، لكنني أعلم أن الجميع سيقولون إن روح توت عنخ آمون الغاضبة قتلته."
+    },
+    {
+      "id": 464,
+      "text": "Mr Carter still isn't afraid, but he's the only one now.",
+      "translation": "السيد كارتر لا يزال غير خائف، لكنه الوحيد الآن."
+    },
+    {
+      "id": 465,
+      "text": "My father doesn't believe in 'the curse of the mummy', but he wants me to stay with him and help him in Cairo in the museum.",
+      "translation": "والدي لا يؤمن بـ 'لعنة المومياء'، لكنه يريدني أن أبقى معه وأساعده في القاهرة في المتحف."
+    },
+    {
+      "id": 466,
+      "text": "Last week Mr Carter found more coffins and the mummies of two little children.",
+      "translation": "الأسبوع الماضي وجد السيد كارتر المزيد من التوابيت ومومياوات طفلين صغيرين."
+    },
+    {
+      "id": 467,
+      "text": "He thinks they are Tutankhamun's children.",
+      "translation": "يعتقد أنهما أطفال توت عنخ آمون."
+    },
+    {
+      "id": 468,
+      "text": "They died before they were born.",
+      "translation": "ماتا قبل أن يولدوا."
+    },
+    {
+      "id": 469,
+      "text": "I feel sorry for the boy-king and his beautiful young queen.",
+      "translation": "أشعر بالأسف على الملك الصبي وملكته الشابة الجميلة."
+    },
+    {
+      "id": 470,
+      "text": "We're going to look after all his things very carefully here in Cairo.",
+      "translation": "سنعتني بكل أشيائه بعناية شديدة هنا في القاهرة."
+    },
+    {
+      "id": 471,
+      "text": "Then perhaps he isn't going to get angry with me or my father.",
+      "translation": "عندها ربما لن يغضب مني أو من والدي."
+    },
+    {
+      "id": 472,
+      "text": "CHAPTER SIX",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 473,
+      "text": "The end of a wonderful time",
+      "translation": "نهاية وقت رائع"
+    },
+    {
+      "id": 474,
+      "text": "February 13th 1932",
+      "translation": "13 فبراير 1932"
+    },
+    {
+      "id": 475,
+      "text": "It's time for me to finish my diary now.",
+      "translation": "حان الوقت لأن أنهي مذكراتي الآن."
+    },
+    {
+      "id": 476,
+      "text": "I stopped writing it seven years ago, but the story of Tutankhamun's tomb didn't finish then.",
+      "translation": "توقفت عن كتابتها منذ سبع سنوات، لكن قصة مقبرة توت عنخ آمون لم تنتهِ حينها."
+    },
+    {
+      "id": 477,
+      "text": "For seven more years Mr Carter and his workers stayed in the Valley of the Kings.",
+      "translation": "لمدة سبع سنوات أخرى بقي السيد كارتر وعماله في وادي الملوك."
+    },
+    {
+      "id": 478,
+      "text": "They found a small fourth room in the tomb.",
+      "translation": "وجدوا غرفة رابعة صغيرة في المقبرة."
+    },
+    {
+      "id": 479,
+      "text": "There was food and drink there.",
+      "translation": "كان هناك طعام وشراب هناك."
+    },
+    {
+      "id": 480,
+      "text": "(Would anyone like some 3,000-year-old bread?)",
+      "translation": "(هل يريد أي شخص بعض الخبز الذي عمره 3000 عام؟)"
+    },
+    {
+      "id": 481,
+      "text": "There were also thirty bottles of wine!",
+      "translation": "كانت هناك أيضاً ثلاثون زجاجة نبيذ!"
+    },
+    {
+      "id": 482,
+      "text": "There were many more beautiful treasures in the fourth room too.",
+      "translation": "كانت هناك الكثير من الكنوز الجميلة الأخرى في الغرفة الرابعة أيضاً."
+    },
+    {
+      "id": 483,
+      "text": "We have them all in the museum here in Cairo now.",
+      "translation": "لدينا كلها في المتحف هنا في القاهرة الآن."
+    },
+    {
+      "id": 484,
+      "text": "I'm happy to say no more workers died at the camp and Mr Carter is still alive and very well.",
+      "translation": "يسعدني القول إنه لم يمت المزيد من العمال في المخيم والسيد كارتر لا يزال على قيد الحياة وبحالة جيدة جداً."
+    },
+    {
+      "id": 485,
+      "text": "The last treasure arrived at the museum three weeks ago and then Mr Carter at last left the Valley of the Kings.",
+      "translation": "وصل آخر كنز إلى المتحف قبل ثلاثة أسابيع ثم غادر السيد كارتر أخيراً وادي الملوك."
+    },
+    {
+      "id": 486,
+      "text": "He's coming to our house tonight, and we're all going out to have dinner at the best restaurant in Cairo.",
+      "translation": "سيأتي إلى منزلنا الليلة، وسنخرج جميعاً لتناول العشاء في أفضل مطعم في القاهرة."
+    },
+    {
+      "id": 487,
+      "text": "'It's the end of a wonderful time,' my father says. 'We're going to have an evening to remember.'",
+      "translation": "\"إنها نهاية وقت رائع،\" يقول والدي. \"سنقضي أمسية لا تُنسى.\""
+    },
+    {
+      "id": 488,
+      "text": "Four of us are going to the restaurant: Mr Carter, my father, the French artist Anne, and me.",
+      "translation": "أربعة منا سيذهبون إلى المطعم: السيد كارتر، ووالدي، والفنانة الفرنسية آن، وأنا."
+    },
+    {
+      "id": 489,
+      "text": "I met Anne again at the museum a year ago.",
+      "translation": "قابلت آن مرة أخرى في المتحف منذ عام."
+    },
+    {
+      "id": 490,
+      "text": "She came to make some pictures of Tutankhamun's treasures.",
+      "translation": "جاءت لرسم بعض الصور لكنوز توت عنخ آمون."
+    },
+    {
+      "id": 491,
+      "text": "When she arrived at the museum, I remembered her at once and she remembered me.",
+      "translation": "عندما وصلت إلى المتحف، تذكرتها فوراً وتذكرتني."
+    },
+    {
+      "id": 492,
+      "text": "So it was easy to begin to talk.",
+      "translation": "لذلك كان من السهل بدء الحديث."
+    },
+    {
+      "id": 493,
+      "text": "'And what happened to your old teacher, Mr Ayrton?' I asked soon after we met.",
+      "translation": "\"وماذا حدث لمعلمك القديم، السيد أيرتون؟\" سألت بعد لقائنا بفترة قصيرة."
+    },
+    {
+      "id": 494,
+      "text": "'Oh, him!' said Anne and she laughed, 'What a bad man he was!'",
+      "translation": "\"أوه، هو!\" قالت آن وضحكت، \"يا له من رجل سيء!\""
+    },
+    {
+      "id": 495,
+      "text": "'What do you mean?' I asked.",
+      "translation": "\"ماذا تقصدين؟\" سألت."
+    },
+    {
+      "id": 496,
+      "text": "'He wasn't a good teacher. He was a tomb thief, only interested in getting ancient Egyptian treasures.'",
+      "translation": "\"لم يكن معلماً جيداً. كان لص مقابر، مهتماً فقط بالحصول على الكنوز المصرية القديمة.\""
+    },
+    {
+      "id": 497,
+      "text": "I looked at the Egyptian eye bracelet on her arm.",
+      "translation": "نظرت إلى سوار العين المصرية على ذراعها."
+    },
+    {
+      "id": 498,
+      "text": "Anne's eyes met my eyes.",
+      "translation": "التقت عينا آن بعينيّ."
+    },
+    {
+      "id": 499,
+      "text": "'Yes. He liked beautiful things, and in the end, I think I was only one more beautiful thing for him to look at. So I left him.'",
+      "translation": "\"نعم. أحب الأشياء الجميلة، وفي النهاية، أعتقد أنني كنت مجرد شيء جميل آخر لينظر إليه. فتركته.\""
+    },
+    {
+      "id": 500,
+      "text": "I'm much happier now.",
+      "translation": "أنا أكثر سعادة الآن."
+    },
+    {
+      "id": 501,
+      "text": "I feel free without Mr Ayrton, without his eyes watching me all the time.'",
+      "translation": "أشعر بالحرية بدون السيد أيرتون، بدون عينيه تراقبني طوال الوقت.\""
+    },
+    {
+      "id": 502,
+      "text": "Anne and I worked in one of my father's offices at the museum for some weeks and in that time we talked about many things - often about Tutankhamun.",
+      "translation": "عملت آن وأنا في أحد مكاتب والدي في المتحف لبضعة أسابيع وفي ذلك الوقت تحدثنا عن أشياء كثيرة - غالباً عن توت عنخ آمون."
+    },
+    {
+      "id": 503,
+      "text": "Anne feels the boy-king is her friend.",
+      "translation": "تشعر آن أن الملك الصبي صديقها."
+    },
+    {
+      "id": 504,
+      "text": "And I feel I understand him very well, too.",
+      "translation": "وأشعر أنني أفهمه جيداً أيضاً."
+    },
+    {
+      "id": 505,
+      "text": "My father likes Anne.",
+      "translation": "والدي يحب آن."
+    },
+    {
+      "id": 506,
+      "text": "He says she's a very good artist, and she loves Egypt - the ancient country and the new country, too.",
+      "translation": "يقول إنها فنانة جيدة جداً، وهي تحب مصر - البلد القديم والبلد الجديد أيضاً."
+    },
+    {
+      "id": 507,
+      "text": "She says she would like to live here always.",
+      "translation": "تقول إنها تود العيش هنا دائماً."
+    },
+    {
+      "id": 508,
+      "text": "Would she like to marry an Egyptian man? I'm not sure.",
+      "translation": "هل تود الزواج من رجل مصري؟ لست متأكداً."
+    },
+    {
+      "id": 509,
+      "text": "But I think I'm going to ask her one day soon.",
+      "translation": "لكنني أعتقد أنني سأسألها في يوم قريب."
+    },
+    {
+      "id": 510,
+      "text": "A taxi is stopping outside our door.",
+      "translation": "تتوقف سيارة أجرة خارج بابنا."
+    },
+    {
+      "id": 511,
+      "text": "It's Anne and Mr Carter.",
+      "translation": "إنها آن والسيد كارتر."
+    },
+    {
+      "id": 512,
+      "text": "I must go downstairs and meet them.",
+      "translation": "يجب أن أنزل لملاقاتهما."
+    },
+    {
+      "id": 513,
+      "text": "February 14th 1932",
+      "translation": "14 فبراير 1932"
+    },
+    {
+      "id": 514,
+      "text": "We all had a wonderful time last night.",
+      "translation": "قضينا جميعاً وقتاً رائعاً الليلة الماضية."
+    },
+    {
+      "id": 515,
+      "text": "The food and wine were very good and everybody talked and laughed a lot in the restaurant.",
+      "translation": "كان الطعام والنبيذ جيدين جداً وتحدث الجميع وضحكوا كثيراً في المطعم."
+    },
+    {
+      "id": 516,
+      "text": "Mr Carter looks very happy and not much older than seven years ago.",
+      "translation": "يبدو السيد كارتر سعيداً جداً وليس أكبر بكثير من سبع سنوات مضت."
+    },
+    {
+      "id": 517,
+      "text": "It was nice to see him again.",
+      "translation": "كان من الجيد رؤيته مرة أخرى."
+    },
+    {
+      "id": 518,
+      "text": "Nobody could think that Tutankhamun's spirit is angry with him.",
+      "translation": "لا يمكن لأحد أن يعتقد أن روح توت عنخ آمون غاضبة منه."
+    },
+    {
+      "id": 519,
+      "text": "Mr Carter and I talked more about Karim.",
+      "translation": "تحدثت أنا والسيد كارتر أكثر عن كريم."
+    },
+    {
+      "id": 520,
+      "text": "Some people are saying there were dangerous bacteria inside the tomb and these killed my friend.",
+      "translation": "يقول بعض الناس إن هناك بكتيريا خطيرة داخل المقبرة وقد قتلت صديقي."
+    },
+    {
+      "id": 521,
+      "text": "But why only Karim?",
+      "translation": "لكن لماذا كريم فقط؟"
+    },
+    {
+      "id": 522,
+      "text": "Other people say the ancient Egyptians put poison in the tombs to kill tomb thieves.",
+      "translation": "يقول آخرون إن المصريين القدماء وضعوا السم في المقابر لقتل لصوص المقابر."
+    },
+    {
+      "id": 523,
+      "text": "Mr Carter thinks these stories are wrong.",
+      "translation": "يعتقد السيد كارتر أن هذه القصص خاطئة."
+    },
+    {
+      "id": 524,
+      "text": "He says there was nothing wrong. He says there was nothing strange about it.",
+      "translation": "يقول إنه لم يكن هناك شيء خاطئ. يقول إنه لم يكن هناك شيء غريب في الأمر."
+    },
+    {
+      "id": 525,
+      "text": "One day Karim got dangerously ill and died before the doctor could get to the camp.",
+      "translation": "في أحد الأيام مرض كريم بشكل خطير ومات قبل أن يتمكن الطبيب من الوصول إلى المخيم."
+    },
+    {
+      "id": 526,
+      "text": "My father told Mr Carter about the new stories in the English newspapers.",
+      "translation": "أخبر والدي السيد كارتر عن القصص الجديدة في الصحف الإنجليزية."
+    },
+    {
+      "id": 527,
+      "text": "People in England are now afraid of having mummies and ancient Egyptian treasures in their houses.",
+      "translation": "يخاف الناس في إنجلترا الآن من وجود مومياوات وكنوز مصرية قديمة في منازلهم."
+    },
+    {
+      "id": 528,
+      "text": "They're sending them all to the British Museum.",
+      "translation": "يرسلونها كلها إلى المتحف البريطاني."
+    },
+    {
+      "id": 529,
+      "text": "And the Museum is going to need a new room to keep all these things in.",
+      "translation": "وسيحتاج المتحف إلى غرفة جديدة لحفظ كل هذه الأشياء فيها."
+    },
+    {
+      "id": 530,
+      "text": "Some people think that the great Titanic accident happened because the ship had an Egyptian mummy on it.",
+      "translation": "يعتقد بعض الناس أن حادث التايتانيك العظيم حدث لأن السفينة كان عليها مومياء مصرية."
+    },
+    {
+      "id": 531,
+      "text": "A museum in New York wanted the mummy for its Egyptian rooms, but when the Titanic went down in the Atlantic, the mummy went down with the ship.",
+      "translation": "أراد متحف في نيويورك المومياء لغرفه المصرية، لكن عندما غرق التايتانيك في الأطلسي، غرقت المومياء مع السفينة."
+    },
+    {
+      "id": 532,
+      "text": "After dinner my father asked Mr Carter, 'Do you want to go and see The Mummy?'",
+      "translation": "بعد العشاء سأل والدي السيد كارتر: \"هل تريد الذهاب لمشاهدة فيلم المومياء؟\""
+    },
+    {
+      "id": 533,
+      "text": "It's a new film here in Cairo and everybody loves it.",
+      "translation": "إنه فيلم جديد هنا في القاهرة والجميع يحبه."
+    },
+    {
+      "id": 534,
+      "text": "Boris Karloff is the mummy.",
+      "translation": "بوريس كارلوف هو المومياء."
+    },
+    {
+      "id": 535,
+      "text": "He's a very famous film star in Cairo these days.",
+      "translation": "إنه نجم سينمائي مشهور جداً في القاهرة هذه الأيام."
+    },
+    {
+      "id": 536,
+      "text": "Mr Carter laughed again and said 'Why not?' So he went to the cinema with my father.",
+      "translation": "ضحك السيد كارتر مرة أخرى وقال: \"ولم لا؟\" فذهب إلى السينما مع والدي."
+    },
+    {
+      "id": 537,
+      "text": "But Anne and I didn't want to go with them.",
+      "translation": "لكن آن وأنا لم نرغب في الذهاب معهما."
+    },
+    {
+      "id": 538,
+      "text": "We can't laugh about the curse of the mummy.",
+      "translation": "لا يمكننا الضحك على لعنة المومياء."
+    },
+    {
+      "id": 539,
+      "text": "I think the spirit of Tutankhamun doesn't do anything bad to Mr Carter because he isn't a tomb thief.",
+      "translation": "أعتقد أن روح توت عنخ آمون لا تفعل أي شيء سيئ بالسيد كارتر لأنه ليس لص مقابر."
+    },
+    {
+      "id": 540,
+      "text": "He found Tutankhamun's treasure, but he's leaving it here in Egypt.",
+      "translation": "لقد وجد كنز توت عنخ آمون، لكنه يتركه هنا في مصر."
+    },
+    {
+      "id": 541,
+      "text": "With my father's help the Tutankhamun rooms in the Cairo museum are now beautiful.",
+      "translation": "بمساعدة والدي أصبحت غرف توت عنخ آمون في متحف القاهرة جميلة الآن."
+    },
+    {
+      "id": 542,
+      "text": "So Tutankhamun isn't angry with my father or with Mr Carter.",
+      "translation": "لذا توت عنخ آمون ليس غاضباً من والدي ولا من السيد كارتر."
+    },
+    {
+      "id": 543,
+      "text": "But I'm not sure about Lord Carnarvon or my friend Karim.",
+      "translation": "لكنني لست متأكداً بشأن اللورد كارنارفون أو صديقي كريم."
+    },
+    {
+      "id": 544,
+      "text": "Why did they die?",
+      "translation": "لماذا ماتا؟"
+    },
+    {
+      "id": 545,
+      "text": "And what about me and Anne?",
+      "translation": "وماذا عني وعن آن؟"
+    },
+    {
+      "id": 546,
+      "text": "Anne and I walked slowly back to her hotel from the restaurant.",
+      "translation": "سارت آن وأنا ببطء عائدين إلى فندقها من المطعم."
+    },
+    {
+      "id": 547,
+      "text": "The stars over Cairo were wonderful that night and I told her how the stars were my friends in the desert.",
+      "translation": "كانت النجوم فوق القاهرة رائعة تلك الليلة وأخبرتها كيف كانت النجوم أصدقائي في الصحراء."
+    },
+    {
+      "id": 548,
+      "text": "'Let's go to the museum,' she said suddenly. 'You've got your key, haven't you?'",
+      "translation": "\"لنذهب إلى المتحف،\" قالت فجأة. \"لديك مفتاحك، أليس كذلك؟\""
+    },
+    {
+      "id": 549,
+      "text": "'Yes, of course,' I answered. 'I always have it with me.'",
+      "translation": "\"نعم، بالطبع،\" أجبت. \"أحمله معي دائماً.\""
+    },
+    {
+      "id": 550,
+      "text": "We went there at once and, with my key, I opened the museum door and we went into Tutankhamun's rooms.",
+      "translation": "ذهبنا إلى هناك فوراً، وبمفتاحي، فتحت باب المتحف ودخلنا غرف توت عنخ آمون."
+    },
+    {
+      "id": 551,
+      "text": "We looked at one of the golden shrines there.",
+      "translation": "نظرنا إلى أحد الأضرحة الذهبية هناك."
+    },
+    {
+      "id": 552,
+      "text": "On it there's a picture of Tutankhamun and his queen Ankhesenamun at a table.",
+      "translation": "عليه صورة لتوت عنخ آمون وملكته عنخ إسن آمون على طاولة."
+    },
+    {
+      "id": 553,
+      "text": "She's putting some wine into his glass.",
+      "translation": "إنها تضع بعض النبيذ في كأسه."
+    },
+    {
+      "id": 554,
+      "text": "Some women are playing music for them.",
+      "translation": "بعض النساء يعزفن الموسيقى لهما."
+    },
+    {
+      "id": 555,
+      "text": "It's wonderful to think this all happened thousands of years ago!",
+      "translation": "من الرائع التفكير في أن كل هذا حدث منذ آلاف السنين!"
+    },
+    {
+      "id": 556,
+      "text": "'I think they were happy for a time,' Anne said, 'before Lord Ay came along, before their children died, and before Tutankhamun died.'",
+      "translation": "\"أعتقد أنهما كانا سعيدين لفترة،\" قالت آن، \"قبل أن يأتي اللورد آي، قبل أن يموت طفلاهما، وقبل أن يموت توت عنخ آمون.\""
+    },
+    {
+      "id": 557,
+      "text": "And perhaps they can be happy again now. Who knows?'",
+      "translation": "وربما يمكنهما أن يكونا سعيدين مرة أخرى الآن. من يعلم؟\""
+    },
+    {
+      "id": 558,
+      "text": "She took my hand.",
+      "translation": "أخذت يدي."
+    },
+    {
+      "id": 559,
+      "text": "'I want to leave my bracelet here, Tariq,' she said. 'For Tutankhamun and Ankhesenamun.'",
+      "translation": "\"أريد أن أترك سواري هنا يا طارق،\" قالت. \"لتوت عنخ آمون وعنخ إسن آمون.\""
+    },
+    {
+      "id": 560,
+      "text": "I don't need it now, you see. Now I have you.",
+      "translation": "لا أحتاجه الآن، كما ترى. الآن لديّ أنت."
+    },
+    {
+      "id": 561,
+      "text": "So I can close the door on Mr Ayrton, and on Lord Ay.'",
+      "translation": "لذا يمكنني إغلاق الباب على السيد أيرتون، وعلى اللورد آي.\""
+    },
+    {
+      "id": 562,
+      "text": "She took the Egyptian eye bracelet from her arm and put it down in front of the golden shrine.",
+      "translation": "أخذت سوار العين المصرية من ذراعها ووضعته أمام الضريح الذهبي."
+    },
+    {
+      "id": 563,
+      "text": "When she put the bracelet down, I thought I could hear far away music, and some strange and beautiful singing coming from somewhere.",
+      "translation": "عندما وضعت السوار، اعتقدت أنني سمعت موسيقى بعيدة، وبعض الغناء الغريب والجميل يأتي من مكان ما."
+    },
+    {
+      "id": 564,
+      "text": "In my head I closed the door on Lord Carnarvon, on my friend Karim, and on Tutankhamun's curse, and I felt happy.",
+      "translation": "في رأسي أغلقت الباب على اللورد كارنارفون، وعلى صديقي كريم، وعلى لعنة توت عنخ آمون، وشعرت بالسعادة."
+    },
+    {
+      "id": 565,
+      "text": "Then Anne and I left the museum, arm in arm.",
+      "translation": "ثم غادرت آن وأنا المتحف، ذراعاً بذراع."
+    },
+    {
+      "id": 566,
+      "text": "She was free of Mr Ayrton and I was free of the mummy's curse at last.",
+      "translation": "كانت حرة من السيد أيرتون وكنت حراً من لعنة المومياء أخيراً."
+    },
+    {
+      "id": 567,
+      "text": "I smiled at Anne and she smiled at me.",
+      "translation": "ابتسمت لآن وابتسمت لي."
+    },
+    {
+      "id": 568,
+      "text": "We walked slowly back to her hotel and said goodbye at the door.",
+      "translation": "سِرنا ببطء عائدين إلى فندقها وودعنا بعضنا عند الباب."
+    },
+    {
+      "id": 569,
+      "text": "'See you tomorrow morning.' said Anne looking at me, with stars in her eyes.",
+      "translation": "\"أراك صباح الغد،\" قالت آن وهي تنظر إليّ، بنجوم في عينيها."
+    },
+    {
+      "id": 570,
+      "text": "'Yes, see you tomorrow morning,' I answered, and I walked back home, happy and excited, dreaming of asking Anne to marry me.",
+      "translation": "\"نعم، أراك صباح الغد،\" أجبت، وعدت إلى المنزل سعيداً ومتحمساً، أحلم بأن أطلب من آن الزواج بي."
+    },
+    {
+      "id": 571,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 572,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 573,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
