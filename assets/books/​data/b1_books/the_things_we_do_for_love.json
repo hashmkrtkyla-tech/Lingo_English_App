@@ -1,14 +1,293 @@
 {
   "id": "b1_the_things_we_do_for_love",
-  "title": "The Things We Do for Love",
+  "title": "The Things We Do For Love",
   "level": "B1",
-  "audio_url": "assets/books/audio/b1_books/The_Things_We_Do_for_Love.mp3",
+  "audio_url": "assets/books/audio/b1_books/The_Things_We_Do_For_Love-O_Henry.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Love makes people do extraordinary and unexpected things.",
-      "translation": "الحب يجعل الناس يفعلون أشياء استثنائية وغير متوقعة."
+      "id": 1,
+      "text": "The things we do for love",
+      "translation": "الأشياء التي نفعلها من أجل الحب"
+    },
+    {
+      "id": 2,
+      "text": "As a boy, Joe Larabee was famous in the town in Middle America where he lived because he could paint beautifully.",
+      "translation": "عندما كان صبياً، كان جو لارابي مشهوراً في البلدة في وسط أمريكا حيث كان يعيش لأنه كان يستطيع الرسم بشكل جميل."
+    },
+    {
+      "id": 3,
+      "text": "At twenty, he went to study in New York.",
+      "translation": "في العشرين من عمره، ذهب للدراسة في نيويورك."
+    },
+    {
+      "id": 4,
+      "text": "Delia Carruthers was from the South, and played music wonderfully as a girl.",
+      "translation": "كانت ديليا كاروثرز من الجنوب، وكانت تعزف الموسيقى بشكل رائع عندما كانت فتاة."
+    },
+    {
+      "id": 5,
+      "text": "When she was eighteen, her family paid for her to study in New York.",
+      "translation": "عندما كانت في الثامنة عشرة، دفعت عائلتها لتدرس في نيويورك."
+    },
+    {
+      "id": 6,
+      "text": "Joe and Delia met one day in the big city, fell in love, and soon after got married.",
+      "translation": "التقى جو وديليا ذات يوم في المدينة الكبيرة، ووقعا في الحب، وتزوجا بعد ذلك بوقت قصير."
+    },
+    {
+      "id": 7,
+      "text": "They went to live in a little flat far from the centre.",
+      "translation": "ذهبا للعيش في شقة صغيرة بعيدة عن المركز."
+    },
+    {
+      "id": 8,
+      "text": "Joe studied painting with Mr Magister, and Delia studied music with Mr Rosenstock.",
+      "translation": "درس جو الرسم مع السيد ماجيستر، ودرست ديليا الموسيقى مع السيد روزنستوك."
+    },
+    {
+      "id": 9,
+      "text": "They were very happy while their money lasted.",
+      "translation": "كانا سعيدين جداً طالما استمر مالهما."
+    },
+    {
+      "id": 10,
+      "text": "But soon they couldn't pay for more classes with Magister and Rosenstock, who were expensive.",
+      "translation": "لكن سرعان ما لم يتمكنا من الدفع لمزيد من الدروس مع ماجيستر وروزنستوك، اللذين كانا غاليين."
+    },
+    {
+      "id": 11,
+      "text": "So Delia said she would give music lessons to get some money.",
+      "translation": "لذا قالت ديليا إنها ستعطي دروساً في الموسيقى للحصول على بعض المال."
+    },
+    {
+      "id": 12,
+      "text": "After two days, she came home excitedly.",
+      "translation": "بعد يومين، عادت إلى المنزل بحماس."
+    },
+    {
+      "id": 13,
+      "text": "'I've found a student,' she said. 'Her name's Clementina.'",
+      "translation": "\"لقد وجدت طالبة،\" قالت. \"اسمها كليمنتينا.\""
+    },
+    {
+      "id": 14,
+      "text": "She's General A. B. Pinkney's daughter. They live in a wonderful, big house on Seventy-First Street.",
+      "translation": "إنها ابنة الجنرال أ. ب. بينكني. يعيشون في منزل رائع كبير في شارع الحادي والسبعين."
+    },
+    {
+      "id": 15,
+      "text": "Clementina's only eighteen, wears white, and is a lovely girl.",
+      "translation": "كليمنتينا في الثامنة عشرة فقط، ترتدي الأبيض، وهي فتاة جميلة."
+    },
+    {
+      "id": 16,
+      "text": "I'm going to give her three lessons a week, for five dollars each. Just think.",
+      "translation": "سأعطيها ثلاثة دروس في الأسبوع، مقابل خمسة دولارات لكل درس. فقط فكر."
+    },
+    {
+      "id": 17,
+      "text": "When I get more students, I can go back to Rosenstock.'",
+      "translation": "عندما أحصل على المزيد من الطلاب، يمكنني العودة إلى روزنستوك.\""
+    },
+    {
+      "id": 18,
+      "text": "'I can't let you do all the work,' said Joe. 'I must get a job too, even if it's only selling newspapers in the street.'",
+      "translation": "\"لا يمكنني أن أدعك تقومين بكل العمل،\" قال جو. \"يجب أن أحصل على وظيفة أيضاً، حتى لو كانت بيع الصحف في الشارع.\""
+    },
+    {
+      "id": 19,
+      "text": "'Oh, no, Joe,' replied Delia, 'You mustn't stop your classes with Magister.'",
+      "translation": "\"أوه، لا يا جو،\" ردت ديليا، \"لا يجب أن توقف دروسك مع ماجيستر.\""
+    },
+    {
+      "id": 20,
+      "text": "'All right,' said Joe. 'I really don't like you giving lessons. It isn't art. But you're a dear to do it.'",
+      "translation": "\"حسناً،\" قال جو. \"أنا حقاً لا أحب أن تعطي دروساً. هذا ليس فناً. لكنك عزيزة لفعل ذلك.\""
+    },
+    {
+      "id": 21,
+      "text": "'When you love your art, nothing is too hard,' said Delia softly.",
+      "translation": "\"عندما تحب فنك، لا شيء صعب،\" قالت ديليا بهدوء."
+    },
+    {
+      "id": 22,
+      "text": "'Well, Tinkle said that I could put some of my pictures in his window. Perhaps I'll sell one to a rich old man one of these days.'",
+      "translation": "\"حسناً، قال تينكل إنني يمكنني وضع بعض لوحاتي في نافذته. ربما سأبيع واحدة لرجل عجوز ثري يوماً ما.\""
+    },
+    {
+      "id": 23,
+      "text": "'I'm sure that you will,' said Delia.",
+      "translation": "\"أنا متأكدة أنك ستفعل،\" قالت ديليا."
+    },
+    {
+      "id": 24,
+      "text": "That Saturday, she put fifteen dollars on the small table in the middle of their small sitting room.",
+      "translation": "في ذلك السبت، وضعت خمسة عشر دولاراً على الطاولة الصغيرة في وسط غرفة الجلوس الصغيرة."
+    },
+    {
+      "id": 25,
+      "text": "'Clementina's terrible,' she said. 'She never studies, never listens to me, and always wears white, which gets boring after a while.'",
+      "translation": "\"كليمنتينا فظيعة،\" قالت. \"إنها لا تدرس أبداً، ولا تستمع إليّ، وترتدي دائماً الأبيض، الذي يصبح مملاً بعد فترة.\""
+    },
+    {
+      "id": 26,
+      "text": "But the General's a nice, friendly man.'",
+      "translation": "لكن الجنرال رجل لطيف وودود.\""
+    },
+    {
+      "id": 27,
+      "text": "Just then, Joe put eighteen dollars on the table.",
+      "translation": "في تلك اللحظة، وضع جو ثمانية عشر دولاراً على الطاولة."
+    },
+    {
+      "id": 28,
+      "text": "'I sold a picture today to a fat man from Arizona,' he said. He saw it in Tinkle's window.",
+      "translation": "\"بعت لوحة اليوم لرجل سمين من أريزونا،\" قال. رآها في نافذة تينكل."
+    },
+    {
+      "id": 29,
+      "text": "He doesn't really understand art, but he wants another picture - of a train station - before he goes home.'",
+      "translation": "إنه لا يفهم الفن حقاً، لكنه يريد لوحة أخرى - لمحطة قطار - قبل أن يعود إلى منزله.\""
+    },
+    {
+      "id": 30,
+      "text": "'Oh, I'm so happy that you didn't stop painting,' said Delia, 'And now we have thirty-three dollars. What a lot of money! We can have a really good dinner tonight.'",
+      "translation": "\"أوه، أنا سعيدة جداً لأنك لم تتوقف عن الرسم،\" قالت ديليا، \"والآن لدينا ثلاثة وثلاثون دولاراً. يا لكثرة المال! يمكننا تناول عشاء جيد حقاً الليلة.\""
+    },
+    {
+      "id": 31,
+      "text": "The next Saturday evening, Joe got home first. He put eighteen dollars on the table, and washed what looked like black paint from his hands.",
+      "translation": "في مساء السبت التالي، وصل جو إلى المنزل أولاً. وضع ثمانية عشر دولاراً على الطاولة، وغسل ما بدا مثل الطلاء الأسود من يديه."
+    },
+    {
+      "id": 32,
+      "text": "Then Delia came home. Her hand had some white cloth around it, and her face was dark with worry.",
+      "translation": "ثم عادت ديليا إلى المنزل. كان هناك بعض القماش الأبيض ملفوفاً حول يدها، وكان وجهها مظلماً بالقلق."
+    },
+    {
+      "id": 33,
+      "text": "'What happened?' asked Joe.",
+      "translation": "\"ماذا حدث؟\" سأل جو."
+    },
+    {
+      "id": 34,
+      "text": "'Oh, Clementina wanted a hot cheese sandwich in the middle of her lesson. Strange girl!'",
+      "translation": "\"أوه، أرادت كليمنتينا شطيرة جبن ساخنة في منتصف درسها. فتاة غريبة!\""
+    },
+    {
+      "id": 35,
+      "text": "Unluckily lots of hot cheese fell onto my hand and hurt it terribly.",
+      "translation": "للأسف سقط الكثير من الجبن الساخن على يدي وأصابها بشكل مروع."
+    },
+    {
+      "id": 36,
+      "text": "The General was very worried, and sent someone from downstairs to buy some things to put on it. But now it doesn't hurt so much.'",
+      "translation": "كان الجنرال قلقاً جداً، وأرسل شخصاً من الطابق السفلي ليشتري بعض الأشياء لوضعها عليها. لكنها الآن لا تؤلم كثيراً.\""
+    },
+    {
+      "id": 37,
+      "text": "Then she saw Joe's money on the table.",
+      "translation": "ثم رأت مال جو على الطاولة."
+    },
+    {
+      "id": 38,
+      "text": "'Did you sell another picture?'",
+      "translation": "\"هل بعت لوحة أخرى؟\""
+    },
+    {
+      "id": 39,
+      "text": "'Yes, to the man from Arizona. But what time did you hurt your hand?'",
+      "translation": "\"نعم، للرجل من أريزونا. لكن في أي وقت جرحت يدك؟\""
+    },
+    {
+      "id": 40,
+      "text": "'It was five o'clock when the iron... I mean, when the cheese burnt me.'",
+      "translation": "\"كانت الخامسة عندما... أعني، عندما أحرقني الجبن.\""
+    },
+    {
+      "id": 41,
+      "text": "'Sit down, Delia,' said Joe kindly, 'And tell me where your money really comes from.'",
+      "translation": "\"اجلسي يا ديليا،\" قال جو بلطف، \"وأخبريني من أين يأتي مالك حقاً.\""
+    },
+    {
+      "id": 42,
+      "text": "Delia began crying. 'I couldn't find any music students,' she said.",
+      "translation": "بدأت ديليا في البكاء. \"لم أستطع العثور على أي طلاب موسيقى،\" قالت."
+    },
+    {
+      "id": 43,
+      "text": "'So I took a job in the big laundry on Twenty-Fourth Street.'",
+      "translation": "\"لذا أخذت وظيفة في المغسلة الكبيرة في شارع الرابع والعشرين.\""
+    },
+    {
+      "id": 44,
+      "text": "I told you stories about the General and Clementina to stop you feeling bad about my work.",
+      "translation": "أخبرتك قصصاً عن الجنرال وكليمنتينا لتوقفك عن الشعور بالسوء تجاه عملي."
+    },
+    {
+      "id": 45,
+      "text": "Then today, another girl at the laundry put a hot iron on my hand, and I thought of that hot cheese story on the way home.",
+      "translation": "ثم اليوم، وضعت فتاة أخرى في المغسلة مكواة ساخنة على يدي، وفكرت في قصة الجبن الساخن في طريق العودة إلى المنزل."
+    },
+    {
+      "id": 46,
+      "text": "Please don't be angry. But how did you find out that my stories weren't true?'",
+      "translation": "أرجوك لا تغضب. لكن كيف اكتشفت أن قصصي لم تكن حقيقية؟\""
+    },
+    {
+      "id": 47,
+      "text": "'Well,' said Joe. 'At five o'clock I had to send up some oil and cloth for a woman in the laundry upstairs after she burnt her hand on an iron.'",
+      "translation": "\"حسناً،\" قال جو. \"في الساعة الخامسة كان عليّ أن أرسل بعض الزيت والقماش لامرأة في المغسلة في الطابق العلوي بعد أن أحرقت يدها بالمكواة.\""
+    },
+    {
+      "id": 48,
+      "text": "I'm working downstairs in the engine room. I started there two weeks ago.'",
+      "translation": "أنا أعمل في الطابق السفلي في غرفة المحركات. بدأت هناك منذ أسبوعين.\""
+    },
+    {
+      "id": 49,
+      "text": "'So you didn't really sell -'",
+      "translation": "\"إذن أنت لم تبع حقاً -\""
+    },
+    {
+      "id": 50,
+      "text": "'My buyer from Arizona, and your General Pinkney are both works of art - but not really music or painting.'",
+      "translation": "\"مشتري من أريزونا، وجنرالك بينكني كلاهما عملان فنيان - لكن ليسا حقاً موسيقى أو رسم.\""
+    },
+    {
+      "id": 51,
+      "text": "They both laughed.",
+      "translation": "ضحك كلاهما."
+    },
+    {
+      "id": 52,
+      "text": "'When you love your art, nothing -' began Joe.",
+      "translation": "\"عندما تحب فنك، لا شيء -\" بدأ جو."
+    },
+    {
+      "id": 53,
+      "text": "But Delia put her hand over his mouth to stop him.",
+      "translation": "لكن ديليا وضعت يدها على فمه لتوقفه."
+    },
+    {
+      "id": 54,
+      "text": "'No,' she said, 'It's just \"When you love.\"'",
+      "translation": "\"لا،\" قالت، \"إنها فقط \"عندما تحب.\"\""
+    },
+    {
+      "id": 55,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 56,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 57,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
 }
