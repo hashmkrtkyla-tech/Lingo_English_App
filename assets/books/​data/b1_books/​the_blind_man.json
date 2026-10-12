@@ -5,10 +5,904 @@
   "audio_url": "assets/books/audio/b1_books/The_Blind_Man-D_H_Lawrence.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Maurice lost his sight in the war, but his mind remained sharp.",
-      "translation": "فقد موريس بصره في الحرب، لكن عقله ظل حاداً."
+      "id": 1,
+      "text": "The Blind Man",
+      "translation": "الرجل الأعمى"
+    },
+    {
+      "id": 2,
+      "text": "D. H. Lawrence",
+      "translation": "د. هـ. لورنس"
+    },
+    {
+      "id": 3,
+      "text": "Maurice didn't think much or worry much. While he had the power of touch, he was happy without sight.",
+      "translation": "لم يكن موريس يفكر كثيراً أو يقلق كثيراً. وبينما كان يمتلك حاسة اللمس، كان سعيداً بلا بصر."
+    },
+    {
+      "id": 4,
+      "text": "Isabel Pervin was listening for two sounds - for the sound of wheels on the drive outside and for the noise of her husband's footsteps in the hall.",
+      "translation": "كانت إيزابيل بيرفين تستمع إلى صوتين - صوت العجلات على الممر في الخارج وضجيج خطوات زوجها في القاعة."
+    },
+    {
+      "id": 5,
+      "text": "It was the late afternoon of a rainy November day.",
+      "translation": "كان أصيل يوم ممطر من أيام نوفمبر."
+    },
+    {
+      "id": 6,
+      "text": "Her dearest and oldest friend was on his way from the station. Her husband, who had been blinded in the war in France, was outside somewhere.",
+      "translation": "كان أعز أصدقائها وأقدمهم في طريقه من المحطة. أما زوجها، الذي فقد بصره في الحرب في فرنسا، فكان في الخارج في مكان ما."
+    },
+    {
+      "id": 7,
+      "text": "Maurice had been home for a year now. He was badly scared and totally blind, but they had been very happy.",
+      "translation": "كان موريس قد عاد إلى المنزل منذ عام الآن. كان مصاباً بجروح بالغة وفقَد بصره تماماً، لكنهما كانا سعيدين جداً."
+    },
+    {
+      "id": 8,
+      "text": "Grange Farm was Maurice's place. The farm workers lived at the back of the house, while Isabel lived with her husband in the comfortable rooms at the front.",
+      "translation": "كانت مزرعة غرينج مكان موريس. كان عمال المزرعة يعيشون في الجزء الخلفي من المنزل، بينما كانت إيزابيل تعيش مع زوجها في الغرف المريحة في المقدمة."
+    },
+    {
+      "id": 9,
+      "text": "They had spent most of their time alone together since his return.",
+      "translation": "كانا قد أمضيا معظم وقتهما وحدهما معاً منذ عودته."
+    },
+    {
+      "id": 10,
+      "text": "They talked and sang and read together. She wrote short pieces for a newspaper and he did some work on the farm - simple work, it is true, but it gave him satisfaction.",
+      "translation": "كانا يتحدثان ويغنيان ويقرآن معاً. كانت تكتب مقالات قصيرة لإحدى الصحف وكان يقوم ببعض العمل في المزرعة - عمل بسيط، صحيح، لكنه كان يمنحه رضاً."
+    },
+    {
+      "id": 11,
+      "text": "He milked the cows and looked after the pigs and horses. Life was still very full for the blind man, peaceful in darkness.",
+      "translation": "كان يحلب الأبقار ويعتني بالخنازير والخيول. كانت الحياة لا تزال مليئة جداً للرجل الأعمى، هادئة في الظلام."
+    },
+    {
+      "id": 12,
+      "text": "With his wife, he had a whole world, rich and real.",
+      "translation": "مع زوجته، كان لديه عالم كامل، غني وحقيقي."
+    },
+    {
+      "id": 13,
+      "text": "But sometimes their happiness left them. In that silent house, Isabel sometimes felt she was going crazy. And sometimes her husband became despairing.",
+      "translation": "لكن سعادتهما كانت تختفي أحياناً. في ذلك المنزل الصامت، كانت إيزابيل تشعر أحياناً أنها ستفقد عقلها. وكان زوجها أحياناً يصيبه اليأس."
+    },
+    {
+      "id": 14,
+      "text": "She tried then to force the old cheerfulness to continue bat the effort was almost too much for her. At such times, she would give anything, anything, to escape.",
+      "translation": "كانت تحاول حينها أن تدفع المرح القديم للاستمرار، لكن المجهود كان أثقل من طاقتها تقريباً. في تلك الأوقات، كانت مستعدة لتضحي بأي شيء، أي شيء، للهروب."
+    },
+    {
+      "id": 15,
+      "text": "She looked for a way out. She invited friends. She tried to give her husband some further connection with the outside world. But it was no good.",
+      "translation": "بحثت عن مخرج. دعت أصدقاء. حاولت منح زوجها مزيداً من التواصل مع العالم الخارجي. لكن لم يفد ذلك."
+    },
+    {
+      "id": 16,
+      "text": "Nobody could understand the depth of the experiences that they had shared in the past year.",
+      "translation": "لم يستطع أحد فهم عمق التجارب التي شاركاها في العام الماضي."
+    },
+    {
+      "id": 17,
+      "text": "But now, in a few weeks' time, her second baby would be born. The first had died while her husband was in France.",
+      "translation": "لكن الآن، خلال بضعة أسابيع، سيولد طفلها الثاني. أما الأول فقد مات بينما كان زوجها في فرنسا."
+    },
+    {
+      "id": 18,
+      "text": "She looked forward with pleasure to the coming of the second, but she also felt a little anxious. The child would take her love and attention. And then, what about Maurice? What would he do?",
+      "translation": "كانت تتطلع بسرور إلى قدوم الثاني، لكنها شعرت أيضاً بقليل من القلق. سوف يأخذ الطفل حبها واهتمامها. وبعد ذلك، ماذا عن موريس؟ ماذا سيفعل؟"
+    },
+    {
+      "id": 19,
+      "text": "It was at this time that Isabel's old friend, Bertie Reid, wrote to her.",
+      "translation": "في ذلك الوقت كتب إليها صديقها القديم، بيرتي ريد."
+    },
+    {
+      "id": 20,
+      "text": "All her life he had been her friend - like a brother, but better than her own brothers.",
+      "translation": "طوال حياتها كان صديقها - مثل أخ، لكن أفضل من إخوتها."
+    },
+    {
+      "id": 21,
+      "text": "She loved him, though not in the same way as the man she had chosen to marry.",
+      "translation": "كانت تحبه، لكن ليس بالطريقة نفسها التي أحبت بها الرجل الذي اختارته لتتزوجه."
+    },
+    {
+      "id": 22,
+      "text": "Bertie was a lawyer, a thoughtful type with a quick mind.",
+      "translation": "كان بيرتي محامياً، من النوع المتأمل ذي العقل السريع."
+    },
+    {
+      "id": 23,
+      "text": "Maurice was different. He was slow and sensitive - a big, heavy man.",
+      "translation": "كان موريس مختلفاً. كان بطيئاً وحساساً - رجلاً كبيراً ثقيلاً."
+    },
+    {
+      "id": 24,
+      "text": "The two men had never been close. Isabel thought they should like each other. But they did not.",
+      "translation": "لم يكن الرجلان قريبين يوماً. اعتقدت إيزابيل أنه يجب أن يحب كل منهما الآخر. لكنهما لم يفعلا."
+    },
+    {
+      "id": 25,
+      "text": "So when Maurice was going out to France, she wrote to Bertie saying that she must end her friendship with him.",
+      "translation": "لذلك عندما كان موريس ذاهباً إلى فرنسا، كتبت إلى بيرتي تقول إنها يجب أن تنهي صداقتها معه."
+    },
+    {
+      "id": 26,
+      "text": "For nearly two years, there had been no communication between the two friends.",
+      "translation": "لما يقرب من عامين، لم يكن هناك أي تواصل بين الصديقين."
+    },
+    {
+      "id": 27,
+      "text": "Then a little note came from Bertie. He wrote of the real pain he felt about Maurice's blindness.",
+      "translation": "ثم جاءت رسالة قصيرة من بيرتي. كتب عن الألم الحقيقي الذي شعر به بسبب عمى موريس."
+    },
+    {
+      "id": 28,
+      "text": "Isabel felt a nervous excitement again, and she read the letter to Maurice.",
+      "translation": "شعرت إيزابيل باهتياج عصبي مرة أخرى، وقرأت الرسالة على موريس."
+    },
+    {
+      "id": 29,
+      "text": "'Ask him to come down,' he said.",
+      "translation": "\"اطلبي منه أن ينزل،\" قال."
+    },
+    {
+      "id": 30,
+      "text": "'Ask Bertie to come here?'",
+      "translation": "\"أطلب من بيرتي أن يأتي إلى هنا؟\""
+    },
+    {
+      "id": 31,
+      "text": "'Yes - if he wants to.'",
+      "translation": "\"نعم - إن أراد ذلك.\""
+    },
+    {
+      "id": 32,
+      "text": "Isabel thought about this.",
+      "translation": "فكرت إيزابيل في هذا."
+    },
+    {
+      "id": 33,
+      "text": "'I know he wants to,' she replied. 'But what about you, Maurice? How would you like it?'",
+      "translation": "\"أعرف أنه يريد ذلك،\" ردت. \"لكن ماذا عنك يا موريس؟ كيف تحب ذلك؟\""
+    },
+    {
+      "id": 34,
+      "text": "'I should like it.'",
+      "translation": "\"سيعجبني ذلك.\""
+    },
+    {
+      "id": 35,
+      "text": "'Well - in that case - But I thought you didn't care for him-'",
+      "translation": "\"حسناً - في هذه الحالة - لكنني اعتقدت أنك لا تحبه-\""
+    },
+    {
+      "id": 36,
+      "text": "'Oh, I don't know. I might think differently of him now,' the blind man replied.",
+      "translation": "\"أوه، لا أعرف. قد أفكر فيه بشكل مختلف الآن،\" رد الرجل الأعمى."
+    },
+    {
+      "id": 37,
+      "text": "So Bertie was coming, coming this evening, in the November rain and darkness.",
+      "translation": "إذن كان بيرتي قادماً، قادماً هذا المساء، في مطر نوفمبر والظلام."
+    },
+    {
+      "id": 38,
+      "text": "Isabel looked nervously again at the high windows, where the rain was beating against the glass. Maurice was out in the stable.",
+      "translation": "نظرت إيزابيل بتوتر مرة أخرى إلى النوافذ العالية، حيث كان المطر يضرب الزجاج. كان موريس في الإسطبل."
+    },
+    {
+      "id": 39,
+      "text": "She stood up and looked at herself in the mirror. Her face was calm.",
+      "translation": "وقفت ونظرت إلى نفسها في المرآة. كان وجهها هادئاً."
+    },
+    {
+      "id": 40,
+      "text": "Her neck made a beautiful line to her shoulder. She had a warm, motherly look.",
+      "translation": "شكّل عنقها خطاً جميلاً إلى كتفها. كان لديها مظهر دافئ وحنون كالأم."
+    },
+    {
+      "id": 41,
+      "text": "She passed down the wide hall and put on heavy shoes, a large coat and a man's hat. Then she went outside.",
+      "translation": "عبرت القاعة الواسعة وارتدت حذاءً ثقيلاً ومعطفاً كبيراً وقبعة رجل. ثم خرجت."
+    },
+    {
+      "id": 42,
+      "text": "It was very dark and very windy. As she walked on, the darkness seemed deeper, and she was sorry she had not brought a lamp.",
+      "translation": "كان الظلام دامساً والريح شديدة. وبينما كانت تسير، بدا الظلام أعمق، وأسفت لأنها لم تحضر مصباحاً."
+    },
+    {
+      "id": 43,
+      "text": "Rain blew against her. She half liked it and she half felt that she did not want to light against it.",
+      "translation": "هبّ المطر عليها. أحبته نصف حب وشعرت في نصفها الآخر أنها لا تريد أن تضيء في مواجهته."
+    },
+    {
+      "id": 44,
+      "text": "She reached the door of the stable. There was no light anywhere.",
+      "translation": "وصلت إلى باب الإسطبل. لم يكن هناك ضوء في أي مكان."
+    },
+    {
+      "id": 45,
+      "text": "She opened the door and looked in, into total darkness. The sudden smell of horses shocked her.",
+      "translation": "فتحت الباب ونظرت إلى الداخل، في ظلام دامس. صدمتها رائحة الخيول المفاجئة."
+    },
+    {
+      "id": 46,
+      "text": "She listened but could only hear the night and the restless movement of a horse.",
+      "translation": "استمعت لكنها لم تسمع سوى الليل وحركة حصان لا يهدأ."
+    },
+    {
+      "id": 47,
+      "text": "'Maurice!' she called softly. 'Maurice - are you there?'",
+      "translation": "\"موريس!\" نادت بهدوء. \"موريس - هل أنت هناك؟\""
+    },
+    {
+      "id": 48,
+      "text": "Nothing came from the darkness. The rain and the wind were blowing in, so she entered and shut the door.",
+      "translation": "لم يأتِ شيء من الظلام. كان المطر والريح يتدفقان إلى الداخل، فدخلت وأغلقت الباب."
+    },
+    {
+      "id": 49,
+      "text": "She was conscious of the horses, though she could not see them, and she was afraid.",
+      "translation": "كانت تشعر بوجود الخيول، رغم أنها لم ترها، وكانت خائفة."
+    },
+    {
+      "id": 50,
+      "text": "Then she heard a small noise in the distance. It was Maurice in the other part of the stable.",
+      "translation": "ثم سمعت ضجيجاً صغيراً في المسافة. كان موريس في الجزء الآخر من الإسطبل."
+    },
+    {
+      "id": 51,
+      "text": "The low sound of his voice as he spoke to the horses came to her in the darkness.",
+      "translation": "جاءها صوته المنخفض وهو يتحدث إلى الخيول في الظلام."
+    },
+    {
+      "id": 52,
+      "text": "She called quietly, 'Maurice, Maurice - dear!'",
+      "translation": "نادت بهدوء: \"موريس، موريس - عزيزي!\""
+    },
+    {
+      "id": 53,
+      "text": "'Yes,' he answered. 'Isabel?'",
+      "translation": "\"نعم،\" أجاب. \"إيزابيل؟\""
+    },
+    {
+      "id": 54,
+      "text": "She saw nothing, and the sound of his voice seemed to touch her.",
+      "translation": "لم ترَ شيئاً، وبدا صوت صوته يلمسها."
+    },
+    {
+      "id": 55,
+      "text": "'Won't you come in, dear?' she said.",
+      "translation": "\"ألا تأتي إلى الداخل يا عزيزي؟\" قالت."
+    },
+    {
+      "id": 56,
+      "text": "'Yes, I'm coming. Just half a minute. Bertie hasn't arrived yet, has he?'",
+      "translation": "\"نعم، أنا قادم. نصف دقيقة فقط. ألم يصل بيرتي بعد، أليس كذلك؟\""
+    },
+    {
+      "id": 57,
+      "text": "'Not yet,' said Isabel.",
+      "translation": "\"ليس بعد،\" قالت إيزابيل."
+    },
+    {
+      "id": 58,
+      "text": "She wanted him to come to her. When she could not see him, she was frightened of him.",
+      "translation": "أرادته أن يأتي إليها. عندما لم تستطع رؤيته، كانت تخافه."
+    },
+    {
+      "id": 59,
+      "text": "'Bertie won't much enjoy the drive in this weather,' he said, as he closed the door.",
+      "translation": "\"لن يستمتع بيرتي كثيراً بالقيادة في هذا الطقس،\" قال وهو يغلق الباب."
+    },
+    {
+      "id": 60,
+      "text": "'No, he won't!' said Isabel calmly, watching the dark shape at the door. 'Give me your arm, dear.'",
+      "translation": "\"لا، لن يستمتع!\" قالت إيزابيل بهدوء، وهي تراقب الشكل المظلم عند الباب. \"أعطني ذراعك يا عزيزي.\""
+    },
+    {
+      "id": 61,
+      "text": "Isabel was pleased to be back in the house. She was a little afraid of him out there in the darkness.",
+      "translation": "كانت إيزابيل سعيدة بالعودة إلى المنزل. كانت تخافه قليلاً هناك في الظلام."
+    },
+    {
+      "id": 62,
+      "text": "In the hall, he sat down heavily. As he bent down to take off his boots, he didn't seem blind.",
+      "translation": "في القاعة، جلس بثقل. وبينما كان ينحني ليخلع حذاءه، لم يبدُ أعمى."
+    },
+    {
+      "id": 63,
+      "text": "When he stood up, the blood rushed to his face and neck, and she didn't look at his eyes.",
+      "translation": "عندما وقف، تدفق الدم إلى وجهه ورقبته، ولم تنظر إلى عينيه."
+    },
+    {
+      "id": 64,
+      "text": "He went away upstairs. She saw him go into the darkness. He did not know that the lamps upstairs were not lit. She heard him in the bathroom.",
+      "translation": "ذهب بعيداً إلى الطابق العلوي. رأته يدخل في الظلام. لم يكن يعرف أن المصابيح في الطابق العلوي لم تكن مضاءة. سمعته في الحمام."
+    },
+    {
+      "id": 65,
+      "text": "Maurice moved around almost unconsciously. He seemed to know where things were before he touched them. He didn't think much or worry much.",
+      "translation": "تحرك موريس في الأنحاء بلا وعي تقريباً. بدا يعرف مكان الأشياء قبل أن يلمسها. لم يكن يفكر كثيراً أو يقلق كثيراً."
+    },
+    {
+      "id": 66,
+      "text": "While he had the power of touch, he was happy without sight. It was a pleasure to stretch out his hands and pick up something that he couldn't see, to hold it and to own it.",
+      "translation": "بينما كان يمتلك حاسة اللمس، كان سعيداً بلا بصر. كان من دواعي سروره أن يمد يديه ويلتقط شيئاً لا يستطيع رؤيته، ليمسكه ويملكه."
+    },
+    {
+      "id": 67,
+      "text": "He didn't try to remember what it looked like. He didn't want to. This new consciousness had become natural to him.",
+      "translation": "لم يكن يحاول أن يتذكر كيف كان يبدو. لم يكن يريد ذلك. أصبح هذا الوعي الجديد طبيعياً بالنسبة له."
+    },
+    {
+      "id": 68,
+      "text": "He was generally happy and he had a burning love for Isabel. But at times despair swept over him and destroyed his happiness. Then he suffered.",
+      "translation": "كان سعيداً عموماً وكان لديه حب متوهج لإيزابيل. لكن اليأس كان يجتاحه أحياناً ويدمر سعادته. حينها كان يتألم."
+    },
+    {
+      "id": 69,
+      "text": "But tonight he was still calm, though his senses were a little sharp. His hearing was too sharp.",
+      "translation": "لكنه كان لا يزال هادئاً الليلة، رغم أن حواسه كانت حادة قليلاً. كان سمعه حاداً جداً."
+    },
+    {
+      "id": 70,
+      "text": "He was conscious of all the sounds in the house. As he went to his room, he heard a vehicle arrive.",
+      "translation": "كان واعياً بكل الأصوات في المنزل. وبينما كان ذاهباً إلى غرفته، سمع مركبة تصل."
+    },
+    {
+      "id": 71,
+      "text": "Then came Isabel's voice, like a bell ringing. 'Is it you, Bertie?'",
+      "translation": "ثم جاء صوت إيزابيل، مثل جرس يرن. \"هل هذا أنت يا بيرتي؟\""
+    },
+    {
+      "id": 72,
+      "text": "And a man's voice answered out of the wind. 'Hello, Isabel. There you are. You're looking as fit as ever.'",
+      "translation": "وأجاب صوت رجل من وسط الريح. \"مرحباً يا إيزابيل. ها أنت ذا. تبدين بصحة جيدة كما كنت دائماً.\""
+    },
+    {
+      "id": 73,
+      "text": "'Oh yes,' said Isabel. 'I'm very well. How are you? Rather thin, I think -'",
+      "translation": "\"أوه نعم،\" قالت إيزابيل. \"أنا بحالة جيدة. كيف حالك؟ نحيف نوعاً ما، كما أعتقد -\""
+    },
+    {
+      "id": 74,
+      "text": "'Worked, to death. But I'm all right. How's Maurice? Isn't he here?'",
+      "translation": "\"أعمل حتى الموت. لكنني بخير. كيف حال موريس؟ أليس هنا؟\""
+    },
+    {
+      "id": 75,
+      "text": "'Oh yes, he's upstairs, changing his clothes. Yes, he's well.'",
+      "translation": "\"أوه نعم، إنه في الطابق العلوي، يغير ملابسه. نعم، إنه بخير.\""
+    },
+    {
+      "id": 76,
+      "text": "They moved away. Maurice heard no more. But a childish sense of despair had come over him. He felt shut out- like a child in the company of adults.",
+      "translation": "تحركا بعيداً. لم يسمع موريس المزيد. لكن شعوراً طفولياً باليأس غمره. شعر أنه مستبعد - مثل طفل في صحبة الكبار."
+    },
+    {
+      "id": 77,
+      "text": "He dressed himself and went downstairs.",
+      "translation": "ارتدى ملابسه ونزل الدرج."
+    },
+    {
+      "id": 78,
+      "text": "Isabel was alone in the sitting room. She watched him enter.",
+      "translation": "كانت إيزابيل وحدها في غرفة الجلوس. شاهدته يدخل."
+    },
+    {
+      "id": 79,
+      "text": "'Did you hear Bertie come, Maurice?' she said.",
+      "translation": "\"هل سمعت مجيء بيرتي يا موريس؟\" قالت."
+    },
+    {
+      "id": 80,
+      "text": "'Yes - isn't he here?'",
+      "translation": "\"نعم - أليس هنا؟\""
+    },
+    {
+      "id": 81,
+      "text": "'He's in his room. He looks very thin and tired.'",
+      "translation": "\"إنه في غرفته. يبدو نحيفاً ومتعباً جداً.\""
+    },
+    {
+      "id": 82,
+      "text": "Bertie came down. He was a little dark man, with a very big forehead, thin hair, and sad, large eyes. He had strange, short legs.",
+      "translation": "نزل بيرتي. كان رجلاً صغيراً داكناً، بجبهة كبيرة جداً، وشعر رقيق، وعينين كبيرتين حزينتين. كان لديه ساقان قصيرتان غريبتان."
+    },
+    {
+      "id": 83,
+      "text": "Isabel watched him pause at the door, and look nervously at her husband.",
+      "translation": "شاهدته إيزابيل يتوقف عند الباب، وينظر بتوتر إلى زوجها."
+    },
+    {
+      "id": 84,
+      "text": "Bertie went across to Maurice.",
+      "translation": "ذهب بيرتي عبر الغرفة إلى موريس."
+    },
+    {
+      "id": 85,
+      "text": "The blind man put his hand out and Bertie took it. Isabel watched them anxiously, and then looked away again.",
+      "translation": "مدّ الرجل الأعمى يده وأخذها بيرتي. شاهدتهما إيزابيل بقلق، ثم أبعدت نظرها مرة أخرى."
+    },
+    {
+      "id": 86,
+      "text": "'Come,' she said. 'Come to the table. Aren't you both hungry?'",
+      "translation": "\"هيا،\" قالت. \"تعالا إلى الطاولة. ألستما جائعين؟\""
+    },
+    {
+      "id": 87,
+      "text": "They sat down.",
+      "translation": "جلسا."
+    },
+    {
+      "id": 88,
+      "text": "Maurice felt for his place, his knife and fork. Bertie picked up a little bowl of flowers from the table, and held them to his nose.",
+      "translation": "تحسس موريس مكانه وسكينه وشوكته. رفع بيرتي وعاءً صغيراً من الزهور من على الطاولة، وأمسكه إلى أنفه."
+    },
+    {
+      "id": 89,
+      "text": "'They have a lovely sweet smell,' he said. 'Where do they come from?'",
+      "translation": "\"لها رائحة حلوة جميلة،\" قال. \"من أين أتت؟\""
+    },
+    {
+      "id": 90,
+      "text": "'From the garden - under the windows. Bertie, do you remember the flowers under Aunt Bell's wall?'",
+      "translation": "\"من الحديقة - تحت النوافذ. بيرتي، هل تتذكر الزهور تحت جدار العمة بيل؟\""
+    },
+    {
+      "id": 91,
+      "text": "The two friends looked at each other and smiled.",
+      "translation": "نظر الصديقان إلى بعضهما وابتسما."
+    },
+    {
+      "id": 92,
+      "text": "The meal continued and Isabel and Bertie spoke easily together. The blind man was silent. He ate carefully but quickly. He could never accept any help.",
+      "translation": "استمرت الوجبة وتحدثت إيزابيل وبيرتي بسهولة معاً. أما الرجل الأعمى فكان صامتاً. أكل بعناية لكن بسرعة. لم يكن يستطيع قبول أي مساعدة."
+    },
+    {
+      "id": 93,
+      "text": "After the meal, the three sat around the fire. Isabel put more wood on and Bertie noticed a slight slowness in her movements.",
+      "translation": "بعد الوجبة، جلس الثلاثة حول النار. وضعت إيزابيل مزيداً من الحطب ولاحظ بيرتي بطئاً طفيفاً في حركاتها."
+    },
+    {
+      "id": 94,
+      "text": "'Will you be pleased when the child comes, Isabel?' he said.",
+      "translation": "\"هل ستكونين سعيدة عندما يأتي الطفل يا إيزابيل؟\" قال."
+    },
+    {
+      "id": 95,
+      "text": "She looked at him with a smile.",
+      "translation": "نظرت إليه بابتسامة."
+    },
+    {
+      "id": 96,
+      "text": "'Yes, I shall be very pleased. So will you, Maurice, won't you?' she added.",
+      "translation": "\"نعم، سأكون سعيدة جداً. وكذلك أنت يا موريس، أليس كذلك؟\" أضافت."
+    },
+    {
+      "id": 97,
+      "text": "'Yes, I shall,' replied her husband.",
+      "translation": "\"نعم، سأكون،\" رد زوجها."
+    },
+    {
+      "id": 98,
+      "text": "'We are both looking forward to it so much,' she said.",
+      "translation": "\"كلانا نتطلع إليه كثيراً،\" قالت."
+    },
+    {
+      "id": 99,
+      "text": "'Yes, of course,' said Bertie.",
+      "translation": "\"نعم، بالطبع،\" قال بيرتي."
+    },
+    {
+      "id": 100,
+      "text": "He was three or four years older than Isabel and had never married.",
+      "translation": "كان أكبر من إيزابيل بثلاث أو أربع سنوات ولم يتزوج قط."
+    },
+    {
+      "id": 101,
+      "text": "He had other women friends - but they were friends, not lovers. If they seemed to come too close, he pulled away.",
+      "translation": "كان لديه صديقات أخريات - لكنهن كن صديقات، لا عاشقات. وإذا بدا أنهن يقتربن كثيراً، كان يتراجع."
+    },
+    {
+      "id": 102,
+      "text": "Isabel knew him very well, his kindness, but also his weakness, which made him unable ever to enter into any close human relationships.",
+      "translation": "كانت إيزابيل تعرفه جيداً، وتعرف لطفه، لكنها تعرف أيضاً ضعفه الذي جعله غير قادر على الدخول في أي علاقة إنسانية وثيقة."
+    },
+    {
+      "id": 103,
+      "text": "He was ashamed of himself because he couldn't marry. He wanted to, but he couldn't. Deep down inside he was afraid.",
+      "translation": "كان يخجل من نفسه لأنه لم يستطع الزواج. أراد ذلك، لكنه لم يستطع. في أعماقه كان خائفاً."
+    },
+    {
+      "id": 104,
+      "text": "He became a successful lawyer, a rich man and a great social success. But at the centre he felt that he was nothing.",
+      "translation": "أصبح محامياً ناجحاً، ورجلاً ثرياً ونجماً اجتماعياً كبيراً. لكن في مركزه شعر أنه لا شيء."
+    },
+    {
+      "id": 105,
+      "text": "Isabel looked at his sad face and his short little legs. She looked at his dark grey eyes.",
+      "translation": "نظرت إيزابيل إلى وجهه الحزين وساقيه القصيرتين الصغيرتين. نظرت إلى عينيه الرماديتين الداكنتين."
+    },
+    {
+      "id": 106,
+      "text": "There was something childlike in him and she loved him. At the same time, she pitied and disliked his weakness. He understood this.",
+      "translation": "كان هناك شيء طفولي فيه وكانت تحبه. في الوقت نفسه، أشفقت على ضعفه وكرهته. كان يفهم ذلك."
+    },
+    {
+      "id": 107,
+      "text": "Suddenly, Bertie spoke to Maurice.",
+      "translation": "فجأة، تحدث بيرتي إلى موريس."
+    },
+    {
+      "id": 108,
+      "text": "'Isabel tells me that you have not suffered too badly from losing your sight.' Maurice straightened himself.",
+      "translation": "\"أخبرتني إيزابيل أنك لم تعانِ كثيراً من فقدان بصرك.\" استقام موريس."
+    },
+    {
+      "id": 109,
+      "text": "'No,' he said, 'not too badly. You stop worrying about many things.'",
+      "translation": "\"لا،\" قال، \"ليس كثيراً. تتوقف عن القلق بشأن أشياء كثيرة.\""
+    },
+    {
+      "id": 110,
+      "text": "'And that is good,' said Bertie. 'But what is it that takes the place of worry?'",
+      "translation": "\"وهذا جيد،\" قال بيرتي. \"لكن ما الذي يحل محل القلق؟\""
+    },
+    {
+      "id": 111,
+      "text": "Maurice was slow in replying.",
+      "translation": "كان موريس بطيئاً في الرد."
+    },
+    {
+      "id": 112,
+      "text": "'There is something,' Maurice said. 'But I couldn't tell you what it is.'",
+      "translation": "\"هناك شيء ما،\" قال موريس. \"لكني لا أستطيع أن أخبرك ما هو.\""
+    },
+    {
+      "id": 113,
+      "text": "Then the blind man was silent. He stood up slowly, a big, uncomfortable figure. He wanted to go away.",
+      "translation": "ثم صمت الرجل الأعمى. وقف ببطء، شخصية كبيرة غير مريحة. أراد أن يذهب بعيداً."
+    },
+    {
+      "id": 114,
+      "text": "'Do you mind,' he said, 'if I go and speak to the farm manager? I won't be long.'",
+      "translation": "\"هل تمانع،\" قال، \"إن ذهبت لأتحدث مع مدير المزرعة؟ لن أتأخر.\""
+    },
+    {
+      "id": 115,
+      "text": "'No - go along, dear,' said Isabel.",
+      "translation": "\"لا - اذهب يا عزيزي،\" قالت إيزابيل."
+    },
+    {
+      "id": 116,
+      "text": "And he went out. A silence came over the two friends. The wind blew loudly outside. Rain beat like a drum on the windows.",
+      "translation": "وخرج. ساد الصمت بين الصديقين. هبت الريح بصوت عالٍ في الخارج. ضرب المطر مثل الطبل على النوافذ."
+    },
+    {
+      "id": 117,
+      "text": "The wood in the fireplace burned lowly with hot small flames.",
+      "translation": "كان الحطب في المدفأة يحترق ببطء بلهب صغير حار."
+    },
+    {
+      "id": 118,
+      "text": "Bertie seemed uncomfortable. There were dark circles around his eyes. Isabel looked into the fire.",
+      "translation": "بدا بيرتي غير مرتاح. كانت هناك دوائر داكنة حول عينيه. نظرت إيزابيل إلى النار."
+    },
+    {
+      "id": 119,
+      "text": "'The child coming seems to make me calm. I feel there's nothing to worry about,' she said.",
+      "translation": "\"قدوم الطفل يبدو أنه يجعلني هادئة. أشعر أنه لا يوجد شيء يدعو للقلق،\" قالت."
+    },
+    {
+      "id": 120,
+      "text": "'A good thing, I should say,' Bertie replied slowly.",
+      "translation": "\"شيء جيد، كما أقول،\" رد بيرتي ببطء."
+    },
+    {
+      "id": 121,
+      "text": "'If I didn't feel anxious about Maurice, I'd be quite happy.'",
+      "translation": "\"لو لم أشعر بالقلق على موريس، لكنت سعيدة تماماً.\""
+    },
+    {
+      "id": 122,
+      "text": "The evening passed slowly. Isabel looked at the clock.",
+      "translation": "مر المساء ببطء. نظرت إيزابيل إلى الساعة."
+    },
+    {
+      "id": 123,
+      "text": "'It's nearly ten o'clock,' she said. 'Where can Maurice be?'",
+      "translation": "\"إنها العاشرة تقريباً،\" قالت. \"أين يمكن أن يكون موريس؟\""
+    },
+    {
+      "id": 124,
+      "text": "Bertie looked at her. 'Would you like me to go out and see?'",
+      "translation": "نظر إليها بيرتي. \"هل تريدين أن أخرج وأرى؟\""
+    },
+    {
+      "id": 125,
+      "text": "'Well - if you wouldn't mind. I'd go, but -' She did not want to make the effort.",
+      "translation": "\"حسناً - إن كنت لا تمانع. كنت سأذهب، لكن -\" لم تكن تريد بذل الجهد."
+    },
+    {
+      "id": 126,
+      "text": "Bertie put on an old coat and took a lamp. He left by the side door. He felt nervous and strangely empty.",
+      "translation": "ارتدى بيرتي معطفاً قديماً وأخذ مصباحاً. خرج من الباب الجانبي. شعر بالتوتر وفراغ غريب."
+    },
+    {
+      "id": 127,
+      "text": "He walked slowly through the wet and stormy right.",
+      "translation": "سار ببطء عبر الليل المبلل العاصف."
+    },
+    {
+      "id": 128,
+      "text": "At last, he opened the door of a stable and, looking in, he saw Maurice standing, listening.",
+      "translation": "أخيراً، فتح باب الإسطبل، ونظر إلى الداخل، فرأى موريس واقفاً يستمع."
+    },
+    {
+      "id": 129,
+      "text": "'Who is that?' said Maurice.",
+      "translation": "\"من هناك؟\" قال موريس."
+    },
+    {
+      "id": 130,
+      "text": "'It's me,' said Bertie. He entered and shut the door behind him.",
+      "translation": "\"أنا،\" قال بيرتي. دخل وأغلق الباب خلفه."
+    },
+    {
+      "id": 131,
+      "text": "'You came to look for me?' he asked.",
+      "translation": "\"هل جئت للبحث عني؟\" سأل."
+    },
+    {
+      "id": 132,
+      "text": "'Isabel was a little worried, said Bertie.",
+      "translation": "\"كانت إيزابيل قلقة قليلاً،\" قال بيرتي."
+    },
+    {
+      "id": 133,
+      "text": "'I'll come in.'",
+      "translation": "\"سأدخل.\""
+    },
+    {
+      "id": 134,
+      "text": "'I hope I'm not in your way at all,' said Bertie, rather shyly.",
+      "translation": "\"آمل ألا أكون في طريقك على الإطلاق،\" قال بيرتي، بخجل نوعاً ما."
+    },
+    {
+      "id": 135,
+      "text": "'My way?' Maurice said. 'Not a bit. I'm pleased Isabel has someone to talk to.'",
+      "translation": "\"في طريقي؟\" قال موريس. \"لا على الإطلاق. أنا سعيد لأن إيزابيل لديها من تتحدث معه.\""
+    },
+    {
+      "id": 136,
+      "text": "I'm afraid that I am in the way. I know I'm not very good company. Is Isabel all right, do you think? She's not unhappy, is she?'",
+      "translation": "أخشى أنني أنا في الطريق. أعلم أنني لست رفيقاً جيداً جداً. هل إيزابيل بخير، كما تعتقد؟ إنها ليست تعيسة، أليس كذلك؟\""
+    },
+    {
+      "id": 137,
+      "text": "'I don't think so.'",
+      "translation": "\"لا أعتقد ذلك.\""
+    },
+    {
+      "id": 138,
+      "text": "'What does she say?'",
+      "translation": "\"ماذا تقول؟\""
+    },
+    {
+      "id": 139,
+      "text": "'She says she's very happy - only a little worried about you,' said Bertie carefully.",
+      "translation": "\"تقول إنها سعيدة جداً - فقط قلقة قليلاً عليك،\" قال بيرتي بحذر."
+    },
+    {
+      "id": 140,
+      "text": "'She needn't worry about me. I'm afraid that she'll find me dull, always alone with me down here.'",
+      "translation": "\"لا حاجة لها للقلق عليّ. أخشى أنها ستجدني مملاً، دائماً وحدها معي هنا.\""
+    },
+    {
+      "id": 141,
+      "text": "Maurice lowered his voice and took a deep breath. 'Bertie,' he asked, 'is my face a very ugly sight? Do you mind telling me?'",
+      "translation": "خفض موريس صوته وتنفس بعمق. \"بيرتي،\" سأل، \"هل وجهي منظر قبيح جداً؟ هل تمانع في إخباري؟\""
+    },
+    {
+      "id": 142,
+      "text": "'There is a scar,' said. Bertie, surprised. 'But one feels pity more than shock at the sight of it.'",
+      "translation": "\"هناك ندبة،\" قال بيرتي، مندهشاً. \"لكن المرء يشعر بالشفقة أكثر من الصدمة عند رؤيتها.\""
+    },
+    {
+      "id": 143,
+      "text": "'A bad scar, though,' said Maurice.",
+      "translation": "\"ندبة سيئة، مع ذلك،\" قال موريس."
+    },
+    {
+      "id": 144,
+      "text": "'Oh, yes.'",
+      "translation": "\"أوه، نعم.\""
+    },
+    {
+      "id": 145,
+      "text": "There was a pause.",
+      "translation": "كان هناك صمت."
+    },
+    {
+      "id": 146,
+      "text": "'I don't really know you, do I?' Maurice said suddenly in a strange voice. 'Probably not,' said Bertie.",
+      "translation": "\"أنا لا أعرفك حقاً، أليس كذلك؟\" قال موريس فجأة بصوت غريب. \"على الأرجح لا،\" قال بيرتي."
+    },
+    {
+      "id": 147,
+      "text": "'Do you mind if I touch you?'",
+      "translation": "\"هل تمانع إن لمستك؟\""
+    },
+    {
+      "id": 148,
+      "text": "Bertie stepped back but said, in a small voice, 'Not at all.'",
+      "translation": "تراجع بيرتي لكنه قال بصوت صغير: \"لا على الإطلاق.\""
+    },
+    {
+      "id": 149,
+      "text": "He suffered as the blind man stretched out a strong hand and felt his head.",
+      "translation": "تألم بينما مدّ الرجل الأعمى يداً قوية وتحسس رأسه."
+    },
+    {
+      "id": 150,
+      "text": "He covered the face of the smaller man, touching the forehead, the closed eyes, the small nose, the mouth, the strong chin.",
+      "translation": "غطى وجه الرجل الأصغر، لامساً الجبهة، والعينين المغلقتين، والأنف الصغير، والفم، والذقن القوية."
+    },
+    {
+      "id": 151,
+      "text": "'You seem young,' Maurice said quietly, at last.",
+      "translation": "\"تبدو شاباً،\" قال موريس بهدوء، أخيراً."
+    },
+    {
+      "id": 152,
+      "text": "Bertie stood, nearly destroyed, unable to answer.",
+      "translation": "وقف بيرتي، شبه مدمر، غير قادر على الإجابة."
+    },
+    {
+      "id": 153,
+      "text": "'Your head seems soft,' Maurice continued. 'So do your hands.'",
+      "translation": "\"يبدو رأسك ناعماً،\" تابع موريس. \"وكذلك يداك.\""
+    },
+    {
+      "id": 154,
+      "text": "Touch my eyes, will you? Touch my scar.'",
+      "translation": "المس عينيّ، أرجوك. المس ندبتي.\""
+    },
+    {
+      "id": 155,
+      "text": "Bertie was sickened by the idea, but he was under the power of the blind man.",
+      "translation": "شعر بيرتي بالغثيان من الفكرة، لكنه كان تحت سلطة الرجل الأعمى."
+    },
+    {
+      "id": 156,
+      "text": "He lifted his hand, and touched the scar. Maurice suddenly covered it with his own hand, pressed the fingers of the other man onto his scarred eyes.",
+      "translation": "رفع يده، ولمس الندبة. غطاها موريس فجأة بيده، وضغط أصابع الرجل الآخر على عينيه المندوبتين."
+    },
+    {
+      "id": 157,
+      "text": "He stayed in this position for a minute or more while Bertie froze, helpless.",
+      "translation": "بقي في هذا الوضع لدقيقة أو أكثر بينما تجمد بيرتي، عاجزاً."
+    },
+    {
+      "id": 158,
+      "text": "Then, suddenly, Maurice took the other man's hand away and stood holding it in his own.",
+      "translation": "ثم، فجأة، أخذ موريس يد الرجل الآخر بعيداً ووقف ممسكاً بها في يده."
+    },
+    {
+      "id": 159,
+      "text": "'Oh my God,' he said. 'We shall know each other now, shan't we? We shall know each other now.'",
+      "translation": "\"أوه يا إلهي،\" قال. \"سنعرف بعضنا البعض الآن، أليس كذلك؟ سنعرف بعضنا البعض الآن.\""
+    },
+    {
+      "id": 160,
+      "text": "Bertie could not answer. He looked at the blind man silently and in terror, despairing at his own weakness.",
+      "translation": "لم يستطع بيرتي الإجابة. نظر إلى الرجل الأعمى بصمت ورعب، يائساً من ضعفه."
+    },
+    {
+      "id": 161,
+      "text": "He knew that he could not answer. He had an unreasonable fear that the other man would suddenly destroy him.",
+      "translation": "عرف أنه لا يستطيع الإجابة. كان لديه خوف غير معقول من أن الرجل الآخر سيدمره فجأة."
+    },
+    {
+      "id": 162,
+      "text": "Maurice was actually filled with a burning desire for friendship - and Bertie only wanted to escape.",
+      "translation": "كان موريس في الواقع مليئاً برغبة متوهجة في الصداقة - وكان بيرتي يريد فقط الهروب."
+    },
+    {
+      "id": 163,
+      "text": "'It's all right now, as long as we live. We're all right together now, aren't we?' Maurice said.",
+      "translation": "\"كل شيء على ما يرام الآن، ما دمنا أحياء. نحن بخير معاً الآن، أليس كذلك؟\" قال موريس."
+    },
+    {
+      "id": 164,
+      "text": "'Yes,' said Bertie.",
+      "translation": "\"نعم،\" قال بيرتي."
+    },
+    {
+      "id": 165,
+      "text": "Maurice turned to pick up his coat.",
+      "translation": "استدار موريس ليلتقط معطفه."
+    },
+    {
+      "id": 166,
+      "text": "'Come,' he said, 'we'll go to Isabel.'",
+      "translation": "\"هيا،\" قال، \"سنذهب إلى إيزابيل.\""
+    },
+    {
+      "id": 167,
+      "text": "Bertie took the lamp and opened the door. The two men went in silence.",
+      "translation": "أخذ بيرتي المصباح وفتح الباب. سار الرجلان في صمت."
+    },
+    {
+      "id": 168,
+      "text": "Isabel heard their footsteps and looked up anxiously as they entered. There seemed a strange happiness in Maurice. Bertie looked tired. His eyes were darker than before.",
+      "translation": "سمعت إيزابيل خطواتهما ورفعت نظرها بقلق وهما يدخلان. بدا وكأن هناك سعادة غريبة في موريس. بدا بيرتي متعباً. كانت عيناه أكثر قتامة من قبل."
+    },
+    {
+      "id": 169,
+      "text": "'What is it?' she asked.",
+      "translation": "\"ما الأمر؟\" سألت."
+    },
+    {
+      "id": 170,
+      "text": "'We've become friends,' said Maurice.",
+      "translation": "\"أصبحنا صديقين،\" قال موريس."
+    },
+    {
+      "id": 171,
+      "text": "She looked at Bertie. He met her eyes with a despairing look.",
+      "translation": "نظرت إلى بيرتي. قابل نظراتها بنظرة يائسة."
+    },
+    {
+      "id": 172,
+      "text": "'I'm so pleased,' she said, confused.",
+      "translation": "\"أنا سعيدة جداً،\" قالت، مرتبكة."
+    },
+    {
+      "id": 173,
+      "text": "'Yes,' said Maurice.",
+      "translation": "\"نعم،\" قال موريس."
+    },
+    {
+      "id": 174,
+      "text": "Isabel took his hand with both of hers and held it tight.",
+      "translation": "أخذت إيزابيل يده بكلتا يديها وضغطت عليها بقوة."
+    },
+    {
+      "id": 175,
+      "text": "'You'll be happier now, dear,' she said.",
+      "translation": "\"ستكون أكثر سعادة الآن يا عزيزي،\" قالت."
+    },
+    {
+      "id": 176,
+      "text": "But she was watching Bertie. She knew that he had one desire - to escape from this friendship, which had been forced on him.",
+      "translation": "لكنها كانت تراقب بيرتي. عرفت أن لديه رغبة واحدة - الهروب من هذه الصداقة التي فُرضت عليه."
+    },
+    {
+      "id": 177,
+      "text": "He could not accept that he had been touched by the blind man.",
+      "translation": "لم يستطع تقبل أنه لُمس من قبل الرجل الأعمى."
+    },
+    {
+      "id": 178,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 179,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 180,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
