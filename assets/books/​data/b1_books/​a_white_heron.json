@@ -5,10 +5,789 @@
   "audio_url": "assets/books/audio/b1_books/A_White_Heron-Sarah_Orne_Jewett.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Sylvia lived in a small house near the woods.",
-      "translation": "عاشت سيلفيا في منزل صغير بالقرب من الغابة."
+      "id": 1,
+      "text": "A White Heron",
+      "translation": "مالك الحزين الأبيض"
+    },
+    {
+      "id": 2,
+      "text": "Sarah Orne Jewett",
+      "translation": "سارة أورن جويت"
+    },
+    {
+      "id": 3,
+      "text": "The woods were already filled with shadows one June evening, just before eight o'clock, although a bright sun, low in the west, still shone through the trees.",
+      "translation": "كانت الغابة مليئة بالفعل بالظلال في أمسية من يونيو، قبل الثامنة بقليل، رغم أن شمساً ساطعة، منخفضة في الغرب، كانت لا تزال تشرق عبر الأشجار."
+    },
+    {
+      "id": 4,
+      "text": "A little girl was driving home her cow, a slow-moving, annoying creature, but also a good companion among the shadowy trees.",
+      "translation": "كانت فتاة صغيرة تقود بقرتها إلى المنزل، مخلوقاً بطيء الحركة ومزعجاً، لكنه أيضاً رفيق جيد بين الأشجار المظللة."
+    },
+    {
+      "id": 5,
+      "text": "Their way home was deep in the woods, but their feet knew the path very well, so the darkness did not matter.",
+      "translation": "كان طريقهما إلى المنزل عميقاً في الغابة، لكن أقدامهما كانت تعرف الممر جيداً، لذلك لم يكن الظلام يهم."
+    },
+    {
+      "id": 6,
+      "text": "It often took a long time to find the cow before Sylvia could bring her home.",
+      "translation": "غالباً ما كان يستغرق وقتاً طويلاً للعثور على البقرة قبل أن تتمكن سيلفيا من إحضارها إلى المنزل."
+    },
+    {
+      "id": 7,
+      "text": "The cow seemed to enjoy hiding among the bushes.",
+      "translation": "بدت البقرة تستمع بالاختباء بين الشجيرات."
+    },
+    {
+      "id": 8,
+      "text": "She wore a loud bell around her neck, but the clever creature had discovered that the bell did not ring if she stood very still.",
+      "translation": "كانت ترتدي جرساً عالياً حول رقبتها، لكن المخلوق الذكي اكتشف أن الجرس لا يرن إذا وقفت ساكنة جداً."
+    },
+    {
+      "id": 9,
+      "text": "Luckily, the cow gave good milk and lots of it, so her owners did not mind about her hiding.",
+      "translation": "لحسن الحظ، كانت البقرة تعطي حليباً جيداً وكثيراً منه، لذلك لم يمانع أصحابها في اختبائها."
+    },
+    {
+      "id": 10,
+      "text": "And Sylvia had all the time in the world, and very little to do in that time except chase the cow.",
+      "translation": "وكانت سيلفيا تملك كل الوقت في العالم، والقليل جداً لتفعله في ذلك الوقت سوى مطاردة البقرة."
+    },
+    {
+      "id": 11,
+      "text": "The cow had now decided she wanted to go home, and stepped along the path more quickly.",
+      "translation": "قررت البقرة الآن أنها تريد العودة إلى المنزل، وسارت على الممر بسرعة أكبر."
+    },
+    {
+      "id": 12,
+      "text": "Sylvia wondered what her grandmother would say, because they were very late.",
+      "translation": "تساءلت سيلفيا عما ستقوله جدتها، لأنهما كانا متأخرين جداً."
+    },
+    {
+      "id": 13,
+      "text": "It was a long time since she had left home at half-past five.",
+      "translation": "كان قد مضى وقت طويل منذ أن غادرت المنزل في الخامسة والنصف."
+    },
+    {
+      "id": 14,
+      "text": "But Mrs Tilley had chased the cow herself on many summer evenings and knew how difficult the old cow could be.",
+      "translation": "لكن السيدة تيلي كانت قد طاردت البقرة بنفسها في العديد من أمسيات الصيف وعرفت كم يمكن أن تكون البقرة العجوز صعبة."
+    },
+    {
+      "id": 15,
+      "text": "She also knew that Sylvia loved being outside in the woods and fields.",
+      "translation": "كانت تعرف أيضاً أن سيلفيا أحبت البقاء في الخارج في الغابة والحقول."
+    },
+    {
+      "id": 16,
+      "text": "It was a great change for a little girl who had lived for eight years in a crowded noisy town full of factories.",
+      "translation": "كان تغييراً كبيراً لفتاة صغيرة عاشت لمدة ثماني سنوات في بلدة مزدحمة صاخبة مليئة بالمصانع."
+    },
+    {
+      "id": 17,
+      "text": "Old Mrs Tilley had chosen Sylvia from her daughter's houseful of children, to come and live with her at the farm.",
+      "translation": "اختارت السيدة تيلي العجوز سيلفيا من بين أطفال ابنتها الكثيرين، لتأتي وتعيش معها في المزرعة."
+    },
+    {
+      "id": 18,
+      "text": "Sylvia was 'afraid of people', her mother said, but Mrs Tilley just laughed.",
+      "translation": "قالت والدتها إن سيلفيا 'تخاف من الناس'، لكن السيدة تيلي ضحكت فقط."
+    },
+    {
+      "id": 19,
+      "text": "'I guess she won't be troubled much with people up at the old place!'",
+      "translation": "\"أظن أنها لن تنزعج كثيراً من الناس في المكان القديم!\""
+    },
+    {
+      "id": 20,
+      "text": "So the old grandmother took Sylvia away.",
+      "translation": "لذلك أخذت الجدة العجوز سيلفيا بعيداً."
+    },
+    {
+      "id": 21,
+      "text": "And when at last they reached the door of the lonely farmhouse, and the cat came to walk around their legs purring loudly, Sylvia whispered that this was a beautiful place to live in, and she would never wish to go home.",
+      "translation": "وعندما وصلا أخيراً إلى باب المزرعة المنعزلة، وجاء القط ليتجول حول ساقيهما وهو يخرخر بصوت عالٍ، همست سيلفيا بأن هذا مكان جميل للعيش فيه، وأنها لن ترغب أبداً في العودة إلى المنزل."
+    },
+    {
+      "id": 22,
+      "text": "That was a year ago, and now the girl and the cow followed the shadowy path through the woods.",
+      "translation": "كان ذلك قبل عام، والآن تتبع الفتاة والبقرة الممر المظلل عبر الغابة."
+    },
+    {
+      "id": 23,
+      "text": "The cow stopped to drink in a little river, and Sylvia stood still and waited, letting her feet cool themselves in the shallow water.",
+      "translation": "توقفت البقرة لتشرب من نهر صغير، ووقفت سيلفيا ساكنة تنتظر، تاركة قدميها تبرد في الماء الضحل."
+    },
+    {
+      "id": 24,
+      "text": "Up above her, in the great branches of the tall trees, the leaves moved gently in a little wind, and the birds were singing, preparing for the night.",
+      "translation": "فوقها، في أغصان الأشجار الطويلة العظيمة، تحركت الأوراق بلطف في ريح خفيفة، وكانت الطيور تغني، مستعدة لليل."
+    },
+    {
+      "id": 25,
+      "text": "Sylvia herself felt sleepy, but it was not far to the house now, and the air was soft and sweet.",
+      "translation": "شعرت سيلفيا نفسها بالنعاس، لكن لم يكن المنزل بعيداً الآن، وكان الهواء ناعماً وحلواً."
+    },
+    {
+      "id": 26,
+      "text": "She felt that she belonged in this quiet world of gray shadows and moving leaves, and her life in the noisy town seemed far away.",
+      "translation": "شعرت أنها تنتمي إلى هذا العالم الهادئ من الظلال الرمادية والأوراق المتحركة، وبدت حياتها في البلدة الصاخبة بعيدة جداً."
+    },
+    {
+      "id": 27,
+      "text": "Suddenly the little woods-girl heard a clear whistle not far away.",
+      "translation": "فجأة سمعت فتاة الغابة الصغيرة صفيراً واضحاً على مسافة غير بعيدة."
+    },
+    {
+      "id": 28,
+      "text": "Not a bird's whistle, which is a friendly sound, but a boy's whistle - loud and strong and full of fight.",
+      "translation": "ليس صفير طائر، وهو صوت ودود، بل صفير صبي - عالٍ وقوي ومليء بالقتال."
+    },
+    {
+      "id": 29,
+      "text": "Frightened, Sylvia tried to hide behind some bushes, but she was just too late.",
+      "translation": "خائفة، حاولت سيلفيا الاختباء خلف بعض الشجيرات، لكنها كانت متأخرة قليلاً."
+    },
+    {
+      "id": 30,
+      "text": "The enemy had discovered her, and called out in a friendly voice, 'Hallo, little girl, how far is it to the road?'",
+      "translation": "كان العدو قد اكتشفها، ونادى بصوت ودود: \"مرحباً، أيتها الفتاة الصغيرة، كم يبعد الطريق؟\""
+    },
+    {
+      "id": 31,
+      "text": "'A good long way,' answered Sylvia in a frightened little whisper.",
+      "translation": "\"مسافة طويلة جداً،\" أجابت سيلفيا بهمسة صغيرة خائفة."
+    },
+    {
+      "id": 32,
+      "text": "She was not brave enough to look at the tall young man, who carried a gun over his shoulder, but she came out from behind her bush and again followed the cow.",
+      "translation": "لم تكن شجاعة بما يكفي للنظر إلى الشاب الطويل، الذي كان يحمل بندقية على كتفه، لكنها خرجت من خلف شجيرتها وتبعت البقرة مرة أخرى."
+    },
+    {
+      "id": 33,
+      "text": "The young man walked along beside her.",
+      "translation": "سار الشاب بجانبها."
+    },
+    {
+      "id": 34,
+      "text": "'I have been hunting for some birds,' the stranger said, 'and I have lost my way, and need a friend very much.'",
+      "translation": "\"كنت أصطاد بعض الطيور،\" قال الغريب، \"وقد ضللت طريقي، وأحتاج إلى صديق بشدة.\""
+    },
+    {
+      "id": 35,
+      "text": "'Don't be afraid,' he added gently. 'Speak up, and tell me what your name is.'",
+      "translation": "\"لا تخافي،\" أضاف بلطف. \"تحدثي، وأخبريني ما اسمك.\""
+    },
+    {
+      "id": 36,
+      "text": "And do you think I can spend the night at your house, and go out hunting early in the morning?'",
+      "translation": "وهل تعتقدين أنني أستطيع قضاء الليل في منزلكم، ثم الخروج للصيد مبكراً في الصباح؟\""
+    },
+    {
+      "id": 37,
+      "text": "Sylvia was more frightened than ever.",
+      "translation": "كانت سيلفيا خائفة أكثر من أي وقت مضى."
+    },
+    {
+      "id": 38,
+      "text": "What would her grandmother say about this? She did not know what to do and looked down at the ground.",
+      "translation": "ماذا ستقول جدتها عن هذا؟ لم تكن تعرف ما تفعل ونظرت إلى الأرض."
+    },
+    {
+      "id": 39,
+      "text": "In the end she managed to whisper, 'Sylvy', when the young man again asked her name.",
+      "translation": "في النهاية تمكنت من الهمس: \"سيلفي\"، عندما سألها الشاب مرة أخرى عن اسمها."
+    },
+    {
+      "id": 40,
+      "text": "Mrs Tilley was at the door when the three companions arrived. The cow gave a loud moo to explain matters.",
+      "translation": "كانت السيدة تيلي عند الباب عندما وصل الرفاق الثلاثة. أطلقت البقرة خواراً عالياً لشرح الأمور."
+    },
+    {
+      "id": 41,
+      "text": "'Yes, you ought to be sorry!' Mrs Tilley said to the cow.",
+      "translation": "\"نعم، يجب أن تكوني آسفة!\" قالت السيدة تيلي للبقرة."
+    },
+    {
+      "id": 42,
+      "text": "'Where was she hidin' herself this time, Sylvy?'",
+      "translation": "\"أين كانت تختبئ هذه المرة يا سيلفي؟\""
+    },
+    {
+      "id": 43,
+      "text": "But Sylvia kept silent, not knowing how to explain the stranger.",
+      "translation": "لكن سيلفيا بقيت صامتة، لا تعرف كيف تشرح وجود الغريب."
+    },
+    {
+      "id": 44,
+      "text": "The young man put his gun by the door, and dropped his hunting bag next to it.",
+      "translation": "وضع الشاب بندقيته عند الباب، وأسقط حقيبة صيده بجانبها."
+    },
+    {
+      "id": 45,
+      "text": "He said good evening to Mrs Tilley, told his story, and asked for a night's rest at the farm.",
+      "translation": "قال مساء الخير للسيدة تيلي، وأخبرها بقصته، وطلب مكاناً للمبيت في المزرعة."
+    },
+    {
+      "id": 46,
+      "text": "'Put me anywhere you like,' he said. 'I must be off early in the morning, before day; but I am very hungry indeed. You can give me some milk, that's clear.'",
+      "translation": "\"ضعيني في أي مكان تشائين،\" قال. \"يجب أن أرحل مبكراً في الصباح، قبل النهار؛ لكنني جائع جداً بالفعل. يمكنك أن تعطيني بعض الحليب، هذا واضح.\""
+    },
+    {
+      "id": 47,
+      "text": "'Oh yes, we can give you milk,' said Mrs Tilley. 'And you're welcome to what we've got.'",
+      "translation": "\"أوه نعم، يمكننا أن نعطيك حليباً،\" قالت السيدة تيلي. \"ونحن نرحب بك بما لدينا.\""
+    },
+    {
+      "id": 48,
+      "text": "I'll milk the cow right now, an' you make yourself at home.",
+      "translation": "سأحلب البقرة الآن، واجعل نفسك في بيتك."
+    },
+    {
+      "id": 49,
+      "text": "There's plenty o' comfortable places to sleep round the farm,' she added kindly.",
+      "translation": "هناك أماكن مريحة كثيرة للنوم حول المزرعة،\" أضافت بلطف."
+    },
+    {
+      "id": 50,
+      "text": "'Now step round an' put out a plate for the gentleman, Sylvy!'",
+      "translation": "\"الآن اذهبي وضعي طبقاً للسيد يا سيلفي!\""
+    },
+    {
+      "id": 51,
+      "text": "Sylvia disappeared at once, pleased to have something to do, and she was hungry herself.",
+      "translation": "اختفت سيلفيا فوراً، سعيدة لأن لديها شيئاً تفعله، وكانت جائعة بنفسها."
+    },
+    {
+      "id": 52,
+      "text": "The young man was surprised to find this clean and comfortable little house in the New England wilderness.",
+      "translation": "فوجئ الشاب بإيجاد هذا المنزل الصغير النظيف والمريح في براري نيو إنجلاند."
+    },
+    {
+      "id": 53,
+      "text": "He had stayed in very different kinds of homes, where the chickens lived in the same room as the family.",
+      "translation": "كان قد أقام في أنواع مختلفة جداً من المنازل، حيث كانت الدجاجات تعيش في نفس غرفة العائلة."
+    },
+    {
+      "id": 54,
+      "text": "He listened with interest to the old woman talking, he watched Sylvia's pale face and shining gray eyes, and he said it was the best supper that he had eaten in a month.",
+      "translation": "استمع باهتمام إلى العجوز تتحدث، وراقب وجه سيلفيا الشاحب وعينيها الرماديتين اللامعتين، وقال إنه أفضل عشاء تناوله منذ شهر."
+    },
+    {
+      "id": 55,
+      "text": "Afterward, the new friends sat in the doorway together while the moon came up.",
+      "translation": "بعد ذلك، جلس الأصدقاء الجدد معاً في المدخل بينما طلع القمر."
+    },
+    {
+      "id": 56,
+      "text": "'I've buried four children,' Mrs Tilley told the young man.",
+      "translation": "\"لقد دفنت أربعة أطفال،\" أخبرت السيدة تيلي الشاب."
+    },
+    {
+      "id": 57,
+      "text": "'Sylvy's mother and one son are all the children that I have now. Dan, my boy, was a great hunter, he was always out in the woods.'",
+      "translation": "\"والدة سيلفي وابن واحد هما كل الأطفال الذين لديّ الآن. دان، ابني، كان صياداً عظيماً، كان دائماً في الغابة.\""
+    },
+    {
+      "id": 58,
+      "text": "Sylvy is like him, she knows all the woods an' fields, every tree an' bush.",
+      "translation": "سيلفي تشبهه، إنها تعرف كل الغابات والحقول، كل شجرة وشجيرة."
+    },
+    {
+      "id": 59,
+      "text": "The wild creatures think she's one o' them.",
+      "translation": "تعرف المخلوقات البرية أنها واحدة منهم."
+    },
+    {
+      "id": 60,
+      "text": "The squirrels will come and eat right out o' her hands, and all kinds o' birds.",
+      "translation": "ستأتي السناجب وتأكل مباشرة من يديها، وجميع أنواع الطيور."
+    },
+    {
+      "id": 61,
+      "text": "She knows all o' them. Just like Dan.",
+      "translation": "إنها تعرفها جميعاً. تماماً مثل دان."
+    },
+    {
+      "id": 62,
+      "text": "He's been gone for years,' she said sadly. 'Dan an' his father, they didn't get along.'",
+      "translation": "لقد غاب منذ سنوات،\" قالت بحزن. \"دان ووالده، لم يتفاهما.\""
+    },
+    {
+      "id": 63,
+      "text": "There was some family sadness hidden in those words, but the young man did not hear it; he was too interested in something else.",
+      "translation": "كان هناك بعض الحزن العائلي مخفياً في تلك الكلمات، لكن الشاب لم يسمعه؛ كان مهتماً جداً بشيء آخر."
+    },
+    {
+      "id": 64,
+      "text": "'So Sylvy knows all about birds, does she?' he said.",
+      "translation": "\"إذن سيلفي تعرف كل شيء عن الطيور، أليس كذلك؟\" قال."
+    },
+    {
+      "id": 65,
+      "text": "He looked round at the little girl who sat, shy and sleepy, in the moonlight.",
+      "translation": "نظر إلى الفتاة الصغيرة التي كانت جالسة، خجولة ونعسانة، في ضوء القمر."
+    },
+    {
+      "id": 66,
+      "text": "'I've been collecting birds myself, ever since I was a boy.' (Mrs Tilley smiled.)",
+      "translation": "\"لقد كنت أجمع الطيور بنفسي، منذ أن كنت صبياً.\" (ابتسمت السيدة تيلي.)"
+    },
+    {
+      "id": 67,
+      "text": "'But there are two or three unusual ones that I haven't found yet.'",
+      "translation": "\"لكن هناك اثنان أو ثلاثة طيور غير عادية لم أجدها بعد.\""
+    },
+    {
+      "id": 68,
+      "text": "'Do you put them in cages?' asked Mrs Tilley.",
+      "translation": "\"هل تضعها في أقفاص؟\" سألت السيدة تيلي."
+    },
+    {
+      "id": 69,
+      "text": "'Oh no, they're stuffed. And I've shot or caught every one myself.'",
+      "translation": "\"أوه لا، إنها محنطة. وقد أصطدت أو أمسكت بكل واحد منها بنفسي.\""
+    },
+    {
+      "id": 70,
+      "text": "I saw a white heron two days ago, and I've been following it. The little white heron, it is,'",
+      "translation": "رأيت مالك حزين أبيض منذ يومين، وكنت أتبعه. إنه مالك الحزين الأبيض الصغير،\""
+    },
+    {
+      "id": 71,
+      "text": "and he turned to look at Sylvia, hoping that she had seen it.",
+      "translation": "والتفت لينظر إلى سيلفيا، آملاً أنها قد رأته."
+    },
+    {
+      "id": 72,
+      "text": "'A strange tall white bird with soft feathers and long thin legs. Its nest is made of sticks, often in the top of a high tree.'",
+      "translation": "\"طائر أبيض طويل غريب بريش ناعم وسيقان طويلة رفيعة. عشه مصنوع من العصي، غالباً في قمة شجرة عالية.\""
+    },
+    {
+      "id": 73,
+      "text": "Sylvia's heart gave a wild beat.",
+      "translation": "أحدث قلب سيلفيا دقة جامحة."
+    },
+    {
+      "id": 74,
+      "text": "She knew that strange white bird, and had once got close to where it stood in the green marsh grass, over at the other side of the woods.",
+      "translation": "كانت تعرف ذلك الطائر الأبيض الغريب، وقد اقتربت ذات مرة من مكان وقوفه في عشب المستنقع الأخضر، على الجانب الآخر من الغابة."
+    },
+    {
+      "id": 75,
+      "text": "'I'd like to find that heron's nest more than anything,' the young man said.",
+      "translation": "\"أرغب في العثور على عش مالك الحزين ذاك أكثر من أي شيء،\" قال الشاب."
+    },
+    {
+      "id": 76,
+      "text": "'I'd give ten dollars to anybody who could show it to me,' he added, 'and I plan to spend the rest of my vacation hunting for it.'",
+      "translation": "\"سأعطي عشرة دولارات لأي شخص يمكنه أن يريني إياه،\" أضاف، \"وأخطط لقضاء بقية عطلتي في البحث عنه.\""
+    },
+    {
+      "id": 77,
+      "text": "Mrs Tilley listened to all this with amused interest, but Sylvia was watching the moonlight dancing in the trees.",
+      "translation": "استمعت السيدة تيلي إلى كل هذا باهتمام مستمتع، لكن سيلفيا كانت تراقب ضوء القمر يرقص في الأشجار."
+    },
+    {
+      "id": 78,
+      "text": "It was impossible to decide, during that night, how many wonderful things those ten dollars could buy.",
+      "translation": "كان من المستحيل أن تقرر، خلال تلك الليلة، كم من الأشياء الرائعة يمكن أن تشتريها تلك العشرة دولارات."
+    },
+    {
+      "id": 79,
+      "text": "The next day the young hunter walked around the woods, and Sylvia went with him.",
+      "translation": "في اليوم التالي، تجول الصياد الشاب في الغابة، وذهبت سيلفيا معه."
+    },
+    {
+      "id": 80,
+      "text": "She had lost her fear of the young man, who was friendly and kind.",
+      "translation": "كانت قد فقدت خوفها من الشاب، الذي كان ودوداً ولطيفاً."
+    },
+    {
+      "id": 81,
+      "text": "He told her many things about the birds and where they lived and what they did.",
+      "translation": "أخبرها بالكثير من الأشياء عن الطيور وأين تعيش وماذا تفعل."
+    },
+    {
+      "id": 82,
+      "text": "And he gave her a pocket-knife, which was a wonderful thing to her.",
+      "translation": "وأعطاها سكين جيب، وكان شيئاً رائعاً بالنسبة لها."
+    },
+    {
+      "id": 83,
+      "text": "She liked him very much indeed, but she did not like the shooting.",
+      "translation": "أعجبها كثيراً حقاً، لكنها لم تحب القتل بالبندقية."
+    },
+    {
+      "id": 84,
+      "text": "She could not understand why he killed the birds that he seemed to love so much.",
+      "translation": "لم تستطع فهم لماذا يقتل الطيور التي يبدو أنه يحبها كثيراً."
+    },
+    {
+      "id": 85,
+      "text": "But as the day passed, Sylvia still watched the young man, and the woman's heart, asleep in the child, slowly began to learn the dream of love.",
+      "translation": "لكن بينما مر النهار، ظلت سيلفيا تراقب الشاب، وقلب المرأة، النائم في الطفلة، بدأ ببطء يتعلم حلم الحب."
+    },
+    {
+      "id": 86,
+      "text": "Together they stepped softly through the woodlands.",
+      "translation": "معاً خطوا بهدوء عبر الغابات."
+    },
+    {
+      "id": 87,
+      "text": "They stopped to listen to a bird's song, then went forward, carefully moving branches to one side.",
+      "translation": "توقفا ليستمعا إلى أغنية طائر، ثم تقدم، يحركان الأغصان بعناية إلى الجانب."
+    },
+    {
+      "id": 88,
+      "text": "They spoke little, and only in whispers; the young man going first and Sylvia following, with her gray eyes dark with excitement.",
+      "translation": "تحدثا قليلاً، وبالهمس فقط؛ الشاب يمشي أولاً وسيلفيا تتبعه، وعيناها الرماديتان داكنتان من الإثارة."
+    },
+    {
+      "id": 89,
+      "text": "She was sad because they did not find the white heron, the bird that the young man wanted so much.",
+      "translation": "كانت حزينة لأنهما لم يجدا مالك الحزين الأبيض، الطائر الذي أراده الشاب كثيراً."
+    },
+    {
+      "id": 90,
+      "text": "But Sylvia only followed where he went; she could never speak first.",
+      "translation": "لكن سيلفيا تبعت فقط حيث ذهب؛ لم تستطع أبداً أن تتحدث أولاً."
+    },
+    {
+      "id": 91,
+      "text": "It was hard enough for her to whisper 'yes' or 'no' to answer questions.",
+      "translation": "كان من الصعب عليها بما يكفي أن تهمس بـ'نعم' أو 'لا' للإجابة على الأسئلة."
+    },
+    {
+      "id": 92,
+      "text": "At last evening came, and they found and drove the cow home together.",
+      "translation": "أخيراً جاء المساء، ووجدا البقرة وساقاها إلى المنزل معاً."
+    },
+    {
+      "id": 93,
+      "text": "And Sylvia smiled happily when they came to the place where she heard the whistle and was afraid only the night before.",
+      "translation": "وابتسمت سيلفيا بسعادة عندما وصلا إلى المكان الذي سمعت فيه الصفير وخافت فيه الليلة الماضية فقط."
+    },
+    {
+      "id": 94,
+      "text": "Half a mile from home, at the far edge of the woods, on high ground, a great pine-tree stood.",
+      "translation": "على بعد نصف ميل من المنزل، عند الحافة البعيدة للغابة، على أرض مرتفعة، وقفت شجرة صنوبر عظيمة."
+    },
+    {
+      "id": 95,
+      "text": "It was the last tree of an older forest, and around it a new wood of younger trees had grown.",
+      "translation": "كانت آخر شجرة من غابة قديمة، ونمت حولها غابة جديدة من الأشجار الأصغر."
+    },
+    {
+      "id": 96,
+      "text": "But the old pine-tree's head stood high above them all, and was seen from miles away across land and sea.",
+      "translation": "لكن رأس شجرة الصنوبر العجوز كان يقف عالياً فوقها جميعاً، وكان يُرى من أميال بعيدة عبر البر والبحر."
+    },
+    {
+      "id": 97,
+      "text": "Sylvia knew this tree well. She believed that at the top it was possible to see the Atlantic Ocean.",
+      "translation": "كانت سيلفيا تعرف هذه الشجرة جيداً. كانت تعتقد أنه من الممكن رؤية المحيط الأطلسي من قمتها."
+    },
+    {
+      "id": 98,
+      "text": "The little girl had never seen the sea, but she had often dreamed about it.",
+      "translation": "لم تكن الفتاة الصغيرة قد رأت البحر أبداً، لكنها كانت تحلم به كثيراً."
+    },
+    {
+      "id": 99,
+      "text": "Now, she had a new idea, which filled her with excitement.",
+      "translation": "الآن، راودتها فكرة جديدة، ملأتها بالإثارة."
+    },
+    {
+      "id": 100,
+      "text": "From the top of this great tree she could see all the world.",
+      "translation": "من قمة هذه الشجرة العظيمة يمكنها أن ترى العالم كله."
+    },
+    {
+      "id": 101,
+      "text": "So couldn't she also see where the white heron flew, where it came from, and where it went to?",
+      "translation": "إذن، ألا يمكنها أيضاً أن ترى أين يطير مالك الحزين الأبيض، من أين يأتي، وإلى أين يذهب؟"
+    },
+    {
+      "id": 102,
+      "text": "She would see where it flew into the trees, and she would remember the place, and find the hidden nest.",
+      "translation": "سترى أين يطير بين الأشجار، وستتذكر المكان، وتجد العش المخفي."
+    },
+    {
+      "id": 103,
+      "text": "What an adventure it would be! And how wonderful, later in the morning, when she could tell her great secret!",
+      "translation": "يا لها من مغامرة ستكون! ويا لها من روعة، لاحقاً في الصباح، عندما تستطيع إخبار سرها العظيم!"
+    },
+    {
+      "id": 104,
+      "text": "The young hunter and the old grandmother slept deeply that night, but Sylvia lay awake, waiting for the short summer night to pass, and her great adventure to begin.",
+      "translation": "نام الصياد الشاب والجدة العجوز بعمق تلك الليلة، لكن سيلفيا بقيت مستيقظة، تنتظر مرور ليلة الصيف القصيرة، وبدء مغامرتها العظيمة."
+    },
+    {
+      "id": 105,
+      "text": "Before daylight, she quietly left the house and followed the path through the woods.",
+      "translation": "قبل طلوع النهار، غادرت المنزل بهدوء وتبعت الممر عبر الغابة."
+    },
+    {
+      "id": 106,
+      "text": "The birds were making their first sleepy little calls, but Sylvia was thinking only about the great change that had come into her dull little life.",
+      "translation": "كانت الطيور تطلق صيحاتها الصغيرة النعسانة الأولى، لكن سيلفيا كانت تفكر فقط في التغيير الكبير الذي دخل حياتها الصغيرة المملة."
+    },
+    {
+      "id": 107,
+      "text": "Ah, Sylvy, Sylvy, do not forget that the birds and animals of the forest were your first friends!",
+      "translation": "آه، سيلفي، سيلفي، لا تنسي أن طيور وحيوانات الغابة كانوا أصدقائك الأوائل!"
+    },
+    {
+      "id": 108,
+      "text": "Now she came to the great pine-tree, and small and foolish Sylvia began to climb.",
+      "translation": "الآن وصلت إلى شجرة الصنوبر العظيمة، وبدأت سيلفيا الصغيرة الحمقاء في التسلق."
+    },
+    {
+      "id": 109,
+      "text": "First, she must climb the white oak tree next to the pine-tree.",
+      "translation": "أولاً، يجب أن تتسلق شجرة البلوط البيضاء المجاورة لشجرة الصنوبر."
+    },
+    {
+      "id": 110,
+      "text": "She had often climbed this tree, and knew that one of its high branches went into the pine-tree, and she could move from one tree to the other.",
+      "translation": "كانت قد تسلقت هذه الشجرة كثيراً، وعرفت أن أحد أغصانها العالية يمتد إلى شجرة الصنوبر، ويمكنها الانتقال من شجرة إلى أخرى."
+    },
+    {
+      "id": 111,
+      "text": "She made that dangerous crossing safely, and now began to climb the pine-tree itself, using all her fingers and toes to hold on.",
+      "translation": "عبرت ذلك المعبر الخطير بأمان، وبدأت الآن تتسلق شجرة الصنوبر نفسها، مستخدمة كل أصابعها وأصابع قدميها للتشبث."
+    },
+    {
+      "id": 112,
+      "text": "The way was harder than she thought; she must reach far and hold fast.",
+      "translation": "كان الطريق أصعب مما اعتقدت؛ كان عليها أن تمتد بعيداً وتتشبث بقوة."
+    },
+    {
+      "id": 113,
+      "text": "A red squirrel, coming down the tree, stopped in great surprise when it saw her, and then ran away along a branch.",
+      "translation": "توقف سنجاب أحمر، كان ينزل من الشجرة، في دهشة كبيرة عندما رآها، ثم هرب على طول غصن."
+    },
+    {
+      "id": 114,
+      "text": "Bravely, she climbed upward.",
+      "translation": "بشجاعة، صعدت إلى الأعلى."
+    },
+    {
+      "id": 115,
+      "text": "Light was just appearing in the eastern sky, and the small song-birds began to sing their welcome to the new day.",
+      "translation": "كان الضوء يظهر للتو في السماء الشرقية، وبدأت الطيور المغردة الصغيرة تغني ترحيبها باليوم الجديد."
+    },
+    {
+      "id": 116,
+      "text": "Higher and higher Sylvia climbed.",
+      "translation": "صعدت سيلفيا أعلى وأعلى."
+    },
+    {
+      "id": 117,
+      "text": "Her fingers ached from holding on, and the roughness of the branches hurt her feet.",
+      "translation": "تألمت أصابعها من التشبث، وخشونة الأغصان آلمت قدميها."
+    },
+    {
+      "id": 118,
+      "text": "But on she went.",
+      "translation": "لكنها مضت قدماً."
+    },
+    {
+      "id": 119,
+      "text": "Perhaps the old pine-tree welcomed this stranger among its branches, and loved the brave, beating heart of the gray-eyed child.",
+      "translation": "ربما رحبت شجرة الصنوبر العجوز بهذه الغريبة بين أغصانها، وأحبت القلب الشجاع النابض للطفلة ذات العينين الرماديتين."
+    },
+    {
+      "id": 120,
+      "text": "At last, Sylvia's face appeared like a pale star, and she stood, tired and aching, but bright with victory, high in the tree-top.",
+      "translation": "أخيراً، ظهر وجه سيلفيا مثل نجمة شاحبة، ووقفت، متعبة ومتألمة، لكن مشرقة بالنصر، عالياً في قمة الشجرة."
+    },
+    {
+      "id": 121,
+      "text": "Yes, there was the sea in the east, with the sun making a golden path across it.",
+      "translation": "نعم، كان هناك البحر في الشرق، والشمس تصنع مساراً ذهبياً عبره."
+    },
+    {
+      "id": 122,
+      "text": "And in the west, the woods and farms, the green fields and white villages, reached miles into the distance.",
+      "translation": "وفي الغرب، الغابات والمزارع، الحقول الخضراء والقرى البيضاء، تمتد أميالاً في البعيد."
+    },
+    {
+      "id": 123,
+      "text": "Truly, it was a great and beautiful world.",
+      "translation": "حقاً، كان عالماً عظيماً وجميلاً."
+    },
+    {
+      "id": 124,
+      "text": "The birds sang louder and louder, and the sun grew brighter.",
+      "translation": "غنت الطيور أعلى وأعلى، وأصبحت الشمس أكثر سطوعاً."
+    },
+    {
+      "id": 125,
+      "text": "Sylvia could see the white sails of ships out at sea, and the purple-pink clouds began to turn white.",
+      "translation": "استطاعت سيلفيا رؤية الأشرعة البيضاء للسفن في البحر، وبدأت السحب الأرجوانية الوردية تتحول إلى بيضاء."
+    },
+    {
+      "id": 126,
+      "text": "Where was the white heron's nest in this sea of green branches?",
+      "translation": "أين كان عش مالك الحزين الأبيض في هذا البحر من الأغصان الخضراء؟"
+    },
+    {
+      "id": 127,
+      "text": "Now look down, Sylvy, to where the green marsh lies between the trees.",
+      "translation": "الآن انظري إلى الأسفل يا سيلفي، إلى حيث يقع المستنقع الأخضر بين الأشجار."
+    },
+    {
+      "id": 128,
+      "text": "There, where you saw the white heron once, you will see him again.",
+      "translation": "هناك، حيث رأيت مالك الحزين الأبيض مرة، سترينه مرة أخرى."
+    },
+    {
+      "id": 129,
+      "text": "Look, look! Something white is flying upward from the dead hemlock-tree by the green marsh.",
+      "translation": "انظري، انظري! شيء أبيض يطير صعوداً من شجرة الشوكران الميتة بجانب المستنقع الأخضر."
+    },
+    {
+      "id": 130,
+      "text": "It comes higher and higher, and flies past the great pine-tree, its white wings beating slowly.",
+      "translation": "يأتي أعلى وأعلى، ويطير ماراً بشجرة الصنوبر العظيمة، وأجنحته البيضاء ترفرف ببطء."
+    },
+    {
+      "id": 131,
+      "text": "Now it lands on a branch nearby, and cries back to his mate on the nest below and cleans his feathers for the new day.",
+      "translation": "الآن يهبط على غصن قريب، وينادي رفيقته في العش بالأسفل وينظف ريشه لليوم الجديد."
+    },
+    {
+      "id": 132,
+      "text": "The child watches, her heart full of happiness.",
+      "translation": "الطفلة تراقب، وقلبها مليء بالسعادة."
+    },
+    {
+      "id": 133,
+      "text": "She knows the wild white heron's secret now.",
+      "translation": "إنها تعرف سر مالك الحزين الأبيض البري الآن."
+    },
+    {
+      "id": 134,
+      "text": "In a minute he flies away, back down to his home in the green world below.",
+      "translation": "خلال دقيقة يطير بعيداً، عائداً إلى منزله في العالم الأخضر بالأسفل."
+    },
+    {
+      "id": 135,
+      "text": "Then Sylvia begins the dangerous climb down, careful not to look down, and ready to cry sometimes because her fingers ache and her feet hurt.",
+      "translation": "ثم تبدأ سيلفيا النزول الخطير، حذرة ألا تنظر إلى الأسفل، ومستعدة للبكاء أحياناً لأن أصابعها تؤلمها وقدماها تؤلمانها."
+    },
+    {
+      "id": 136,
+      "text": "But she wonders over and over again what the young man will say to her when she tells him how to find his way straight to the heron's nest.",
+      "translation": "لكنها تتساءل مراراً وتكراراً عما سيقوله لها الشاب عندما تخبره كيف يجد طريقه مباشرة إلى عش مالك الحزين."
+    },
+    {
+      "id": 137,
+      "text": "'Sylvy, Sylvy!' called the busy old grandmother again and again, but Sylvia's small bed was empty.",
+      "translation": "\"سيلفي، سيلفي!\" نادت الجدة العجوز المشغولة مراراً وتكراراً، لكن سرير سيلفيا الصغير كان فارغاً."
+    },
+    {
+      "id": 138,
+      "text": "The visitor woke up, and hurried to get ready for his day in the woods.",
+      "translation": "استيقظ الزائر، وأسرع ليستعد ليومه في الغابة."
+    },
+    {
+      "id": 139,
+      "text": "He was sure from the shy little girl's face that she knew where the white heron was.",
+      "translation": "كان متأكداً من وجه الفتاة الصغيرة الخجولة أنها تعرف أين مالك الحزين الأبيض."
+    },
+    {
+      "id": 140,
+      "text": "Here she is now, paler than ever, her dress dirty from the pine-tree.",
+      "translation": "ها هي الآن، أكثر شحوباً من أي وقت مضى، وثوبها متسخ من شجرة الصنوبر."
+    },
+    {
+      "id": 141,
+      "text": "The grandmother and the hunter stand at the door together and question her, and the great moment has come to speak of the dead hemlock-tree by the green marsh.",
+      "translation": "تقف الجدة والصياد معاً عند الباب ويسألانها، وقد جاءت اللحظة العظيمة لتتحدث عن شجرة الشوكران الميتة بجانب المستنقع الأخضر."
+    },
+    {
+      "id": 142,
+      "text": "But Sylvia does not speak after all, although the young man's kind eyes are looking straight into her own.",
+      "translation": "لكن سيلفيا لا تتحدث في النهاية، رغم أن عيني الشاب الطيبتين تنظران مباشرة إلى عينيها."
+    },
+    {
+      "id": 143,
+      "text": "He can make them rich with money; he has promised it, and they are poor now.",
+      "translation": "يمكنه أن يجعلهم أغنياء بالمال؛ لقد وعد بذلك، وهم فقراء الآن."
+    },
+    {
+      "id": 144,
+      "text": "She wants so much to make him happy, and he waits to hear the story that she can tell.",
+      "translation": "تريد كثيراً أن تسعده، وهو ينتظر سماع القصة التي يمكنها أن تخبره بها."
+    },
+    {
+      "id": 145,
+      "text": "No, she must keep silent!",
+      "translation": "لا، يجب أن تبقى صامتة!"
+    },
+    {
+      "id": 146,
+      "text": "Why, suddenly, is it forbidden to speak?",
+      "translation": "لماذا، فجأة، يُحرم عليها الكلام؟"
+    },
+    {
+      "id": 147,
+      "text": "It is the first time in her young life that the great world has put out a hand to her - and must she push it away, because of a bird?",
+      "translation": "إنها المرة الأولى في حياتها الصغيرة التي يمد فيها العالم العظيم يده إليها - وهل يجب أن تدفعه بعيداً، بسبب طائر؟"
+    },
+    {
+      "id": 148,
+      "text": "The sound of the great pine-tree's branches is in her ears, she remembers how the white heron came flying through the golden air and how they watched the sea and the morning together, and Sylvia cannot speak; she cannot tell the heron's secret and give its life away.",
+      "translation": "صوت أغصان شجرة الصنوبر العظيمة في أذنيها، تتذكر كيف جاء مالك الحزين الأبيض يطير عبر الهواء الذهبي وكيف شاهدا البحر والصباح معاً، وسيلفيا لا تستطيع الكلام؛ لا تستطيع إخبار سر مالك الحزين والتخلي عن حياته."
+    },
+    {
+      "id": 149,
+      "text": "The pain in that loyal heart was great when the young man went away disappointed later in the day.",
+      "translation": "كان الألم في ذلك القلب الوفي كبيراً عندما ذهب الشاب خائب الأمل في وقت لاحق من ذلك اليوم."
+    },
+    {
+      "id": 150,
+      "text": "The promise and the dream of love had gone for ever.",
+      "translation": "كان الوعد وحلم الحب قد ذهبا إلى الأبد."
+    },
+    {
+      "id": 151,
+      "text": "For a long time she heard again his whistle as she came home with the cow, and she even forgot her sadness at the sound of his gun and the song-birds falling silent to the ground.",
+      "translation": "لفترة طويلة سمعت صفيره مرة أخرى بينما كانت تعود إلى المنزل مع البقرة، حتى نسيت حزنها عند صوت بندقيته والطيور المغردة تسقط صامتة على الأرض."
+    },
+    {
+      "id": 152,
+      "text": "Were the birds better friends than their hunter - who can tell?",
+      "translation": "هل كانت الطيور أصدقاء أفضل من صيادها - من يستطيع أن يقول؟"
+    },
+    {
+      "id": 153,
+      "text": "But remember, you wild creatures of the woodland, what this child has lost!",
+      "translation": "لكن تذكروا، يا مخلوقات الغابة البرية، ما فقدته هذه الطفلة!"
+    },
+    {
+      "id": 154,
+      "text": "Bring your love and trust and tell your secrets to this lonely country child!",
+      "translation": "أحضروا حبكم وثقتكم وأخبروا أسراركم لهذه الطفلة الريفية الوحيدة!"
+    },
+    {
+      "id": 155,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 156,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 157,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
