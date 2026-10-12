@@ -5,10 +5,689 @@
   "audio_url": "assets/books/audio/b1_books/The_Dream-Frank_Tilsley.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "He woke up suddenly after having a strange dream.",
-      "translation": "استيقظ فجأة بعد أن رأى حلمًا غريبًا."
+      "id": 1,
+      "text": "The Dream",
+      "translation": "الحلم"
+    },
+    {
+      "id": 2,
+      "text": "Frank Tilsley",
+      "translation": "فرانك تيلسلي"
+    },
+    {
+      "id": 3,
+      "text": "Even if dreams can show us the future, this dream did not make sense.",
+      "translation": "حتى لو كانت الأحلام تستطيع أن ترينا المستقبل، فإن هذا الحلم لم يكن منطقياً."
+    },
+    {
+      "id": 4,
+      "text": "Must I never pass a lorry on a clear road?",
+      "translation": "هل يجب ألا أتجاوز شاحنة أبداً على طريق خالٍ؟"
+    },
+    {
+      "id": 5,
+      "text": "Can a dream show us the future and give us the opportunity of changing it? It is hard to believe.",
+      "translation": "هل يمكن للحلم أن يرينا المستقبل ويمنحنا فرصة تغييره؟ من الصعب تصديق ذلك."
+    },
+    {
+      "id": 6,
+      "text": "If we can see the future in a dream, then surely the future already exists.",
+      "translation": "إذا كنا نستطيع رؤية المستقبل في حلم، فلا شك أن المستقبل موجود بالفعل."
+    },
+    {
+      "id": 7,
+      "text": "If it does, then we are not free to act in the ways we wish to, we are not responsible for our own lives.",
+      "translation": "وإذا كان موجوداً، فنحن لسنا أحراراً في التصرف بالطرق التي نريدها، ولسنا مسؤولين عن حياتنا."
+    },
+    {
+      "id": 8,
+      "text": "Before I tell you the dream, I must explain a little about the context.",
+      "translation": "قبل أن أخبرك بالحلم، يجب أن أشرح قليلاً عن السياق."
+    },
+    {
+      "id": 9,
+      "text": "It was the summer of four years ago, and I was driving my family back from Italy through the south of France.",
+      "translation": "كان ذلك في صيف أربع سنوات مضت، وكنت أقود سيارتي بعائلتي عائداً من إيطاليا عبر جنوب فرنسا."
+    },
+    {
+      "id": 10,
+      "text": "My son had not yet learned to drive, my daughter was too young, and my wife doesn't drive at all.",
+      "translation": "لم يكن ابني قد تعلم القيادة بعد، وكانت ابنتي صغيرة جداً، وزوجتي لا تقود على الإطلاق."
+    },
+    {
+      "id": 11,
+      "text": "I had been at the wheel for the best part of three weeks.",
+      "translation": "كنت خلف عجلة القيادة لأفضل جزء من ثلاثة أسابيع."
+    },
+    {
+      "id": 12,
+      "text": "Perhaps I was tired; perhaps I could think of nothing except cars.",
+      "translation": "ربما كنت متعباً؛ ربما لم أستطع التفكير في أي شيء سوى السيارات."
+    },
+    {
+      "id": 13,
+      "text": "We spent the night of the dream in a town called Tain l'Hermitage.",
+      "translation": "أمضينا ليلة الحلم في بلدة تُدعى تين ليرميتاج."
+    },
+    {
+      "id": 14,
+      "text": "Now I'll tell you the dream.",
+      "translation": "الآن سأخبرك بالحلم."
+    },
+    {
+      "id": 15,
+      "text": "I was sitting in a big, powerful, cream-coloured car, and I was driving at high speed through the country.",
+      "translation": "كنت جالساً في سيارة كبيرة قوية بلون الكريم، وكنت أقود بسرعة عالية عبر الريف."
+    },
+    {
+      "id": 16,
+      "text": "I was coming to a bend in the road, and in front of me, there was a very large lorry.",
+      "translation": "كنت أقترب من منعطف في الطريق، وأمامي كانت هناك شاحنة كبيرة جداً."
+    },
+    {
+      "id": 17,
+      "text": "My foot reached out towards the brake, but it could not find it.",
+      "translation": "امتدت قدمي نحو الفرامل، لكنها لم تجدها."
+    },
+    {
+      "id": 18,
+      "text": "I looked down: there was no brake!",
+      "translation": "نظرت إلى الأسفل: لم تكن هناك فرامل!"
+    },
+    {
+      "id": 19,
+      "text": "Worse: my hands held empty air.",
+      "translation": "والأسوأ: كانت يداي تحملان الهواء الفارغ."
+    },
+    {
+      "id": 20,
+      "text": "There was no wheel for them to hold. There were no controls of any kind.",
+      "translation": "لم يكن هناك عجلة قيادة لتمسكا بها. لم تكن هناك أي أجهزة تحكم من أي نوع."
+    },
+    {
+      "id": 21,
+      "text": "Already we were almost into the back of the lorry.",
+      "translation": "كنا بالفعل على وشك الاصطدام بمؤخرة الشاحنة."
+    },
+    {
+      "id": 22,
+      "text": "I shouted in fear. Then I heard a calm voice coming from my left, and I turned my head.",
+      "translation": "صرخت من الخوف. ثم سمعت صوتاً هادئاً يأتي من يساري، والتفتت رأسي."
+    },
+    {
+      "id": 23,
+      "text": "A stranger was sitting there. He was a cheerful man of about forty.",
+      "translation": "كان غريب يجلس هناك. كان رجلاً مرحاً في حوالي الأربعين."
+    },
+    {
+      "id": 24,
+      "text": "He was wearing an expensive shirt, and on his head, he had a red hat.",
+      "translation": "كان يرتدي قميصاً غالياً، وعلى رأسه قبعة حمراء."
+    },
+    {
+      "id": 25,
+      "text": "I couldn't understand what he said; he spoke very quickly in French, and my own French is not very good.",
+      "translation": "لم أستطع فهم ما قاله؛ تحدث بسرعة كبيرة بالفرنسية، وفرنسيتي ليست جيدة جداً."
+    },
+    {
+      "id": 26,
+      "text": "I didn't, in fact, care what he said.",
+      "translation": "في الواقع، لم أهتم بما قاله."
+    },
+    {
+      "id": 27,
+      "text": "My eyes were on his clean, fat hands, which were holding the wheel.",
+      "translation": "كانت عيناي على يديه النظيفتين الممتلئتين، اللتين كانتا تمسكان بعجلة القيادة."
+    },
+    {
+      "id": 28,
+      "text": "This car had its wheel on the left. He, not I, was in control.",
+      "translation": "كانت عجلة قيادة هذه السيارة على اليسار. كان هو، وليس أنا، من يتحكم."
+    },
+    {
+      "id": 29,
+      "text": "We drove safely round the bend. He turned the wheel slightly to place the car in the middle of the road.",
+      "translation": "قدنا بأمان حول المنعطف. أدار عجلة القيادة قليلاً ليضع السيارة في منتصف الطريق."
+    },
+    {
+      "id": 30,
+      "text": "He was going to pass the lorry. The road stretched straight ahead.",
+      "translation": "كان سيتجاوز الشاحنة. امتد الطريق مستقيماً إلى الأمام."
+    },
+    {
+      "id": 31,
+      "text": "It was bright in the sunlight and it was quite empty.",
+      "translation": "كان مشرقاً في ضوء الشمس وكان خالياً تماماً."
+    },
+    {
+      "id": 32,
+      "text": "Only one other person was in sight; a woman was sitting outside a small house with white walls, and this house was almost exactly ahead of us.",
+      "translation": "كان هناك شخص واحد آخر فقط في الأفق؛ كانت امرأة تجلس خارج منزل صغير بجدران بيضاء، وكان هذا المنزل أمامنا تماماً تقريباً."
+    },
+    {
+      "id": 33,
+      "text": "She was sitting by a table putting some flowers in pots.",
+      "translation": "كانت تجلس بجانب طاولة تضع بعض الزهور في أصص."
+    },
+    {
+      "id": 34,
+      "text": "She wanted to sell us some, and waved them at us.",
+      "translation": "أرادت أن تبيع لنا بعضاً منها، ولوحت بها نحونا."
+    },
+    {
+      "id": 35,
+      "text": "This sight, for some reason, filled me with a terrible fear.",
+      "translation": "هذا المنظر، لسبب ما، ملأني بخوف رهيب."
+    },
+    {
+      "id": 36,
+      "text": "The flowers made me think of death and our final resting place.",
+      "translation": "جعلتني الزهور أفكر في الموت ومثوانا الأخير."
+    },
+    {
+      "id": 37,
+      "text": "At this moment, we were level with the lorry and ready to pass it, but then the lorry began to turn away from the side of the road, towards our car.",
+      "translation": "في هذه اللحظة، كنا على مستوى الشاحنة ومستعدين لتجاوزها، لكن الشاحنة بدأت تنحرف بعيداً عن جانب الطريق، باتجاه سيارتنا."
+    },
+    {
+      "id": 38,
+      "text": "It appeared that the driver was doing this on purpose.",
+      "translation": "بدا أن السائق كان يفعل هذا عن قصد."
+    },
+    {
+      "id": 39,
+      "text": "The stranger by my side shouted loudly and tried to move out of the way.",
+      "translation": "صرخ الغريب بجانبي بصوت عالٍ وحاول الابتعاد عن الطريق."
+    },
+    {
+      "id": 40,
+      "text": "There was a terrible noise from the back of the car, and then an explosion.",
+      "translation": "كان هناك ضجيج رهيب من مؤخرة السيارة، ثم انفجار."
+    },
+    {
+      "id": 41,
+      "text": "The earth seemed to turn over, and the noise of flames burned in my ears.",
+      "translation": "بدت الأرض تنقلب، وأحرق ضجيج اللهب أذنيّ."
+    },
+    {
+      "id": 42,
+      "text": "At that point, I woke up in fear.",
+      "translation": "في تلك اللحظة، استيقظت من الخوف."
+    },
+    {
+      "id": 43,
+      "text": "I was very worried by this dream, and could not sleep again.",
+      "translation": "كنت قلقاً جداً بسبب هذا الحلم، ولم أستطع النوم مرة أخرى."
+    },
+    {
+      "id": 44,
+      "text": "It seemed to have a message, and I wanted to explain it.",
+      "translation": "بدا أن لديه رسالة، وأردت تفسيرها."
+    },
+    {
+      "id": 45,
+      "text": "Even if dreams can show us the future, this dream did not make sense.",
+      "translation": "حتى لو كانت الأحلام تستطيع أن ترينا المستقبل، فإن هذا الحلم لم يكن منطقياً."
+    },
+    {
+      "id": 46,
+      "text": "Must I never pass a lorry on a clear road?",
+      "translation": "هل يجب ألا أتجاوز شاحنة أبداً على طريق خالٍ؟"
+    },
+    {
+      "id": 47,
+      "text": "The road to Paris is always filled with very large lorries.",
+      "translation": "الطريق إلى باريس مليء دائماً بشاحنات كبيرة جداً."
+    },
+    {
+      "id": 48,
+      "text": "Most of them come up from Marseilles, and I always have to pass them when the road is clear; I can't drive slowly behind them forever.",
+      "translation": "معظمها يأتي من مرسيليا، وعليّ دائماً تجاوزها عندما يكون الطريق خالياً؛ لا أستطيع القيادة ببطء خلفها إلى الأبد."
+    },
+    {
+      "id": 49,
+      "text": "No, this was not the meaning of the dream.",
+      "translation": "لا، لم يكن هذا معنى الحلم."
+    },
+    {
+      "id": 50,
+      "text": "At its heart was some kind of fear.",
+      "translation": "في قلبه كان هناك نوع من الخوف."
+    },
+    {
+      "id": 51,
+      "text": "I had to recognize my fear, and then I could forget all about it.",
+      "translation": "كان عليّ أن أتعرف على خوفي، وبعدها أستطيع نسيان الأمر برمته."
+    },
+    {
+      "id": 52,
+      "text": "I thought about my driving during the last three weeks.",
+      "translation": "فكرت في قيادتي خلال الأسابيع الثلاثة الماضية."
+    },
+    {
+      "id": 53,
+      "text": "I tried to remember all the lorries and all the small white houses.",
+      "translation": "حاولت تذكر كل الشاحنات وكل المنازل البيضاء الصغيرة."
+    },
+    {
+      "id": 54,
+      "text": "I thought of all the cars, which were painted cream.",
+      "translation": "فكرت في كل السيارات التي كانت مطلاة بلون الكريم."
+    },
+    {
+      "id": 55,
+      "text": "I remembered nothing of any great interest.",
+      "translation": "لم أتذكر أي شيء ذي أهمية كبيرة."
+    },
+    {
+      "id": 56,
+      "text": "I had imagined that the road in the dream must be in France; it was long, empty and straight.",
+      "translation": "كنت قد تخيلت أن الطريق في الحلم لا بد أن يكون في فرنسا؛ كان طويلاً وخالياً ومستقيماً."
+    },
+    {
+      "id": 57,
+      "text": "But then I remembered that we had passed the lorry on the right.",
+      "translation": "لكنني تذكرت بعد ذلك أننا تجاوزنا الشاحنة على اليمين."
+    },
+    {
+      "id": 58,
+      "text": "So the dream was about a road in England; in England all cars keep to the left.",
+      "translation": "إذن كان الحلم عن طريق في إنجلترا؛ في إنجلترا تلتزم جميع السيارات باليسار."
+    },
+    {
+      "id": 59,
+      "text": "Immediately, I remembered something.",
+      "translation": "فوراً، تذكرت شيئاً."
+    },
+    {
+      "id": 60,
+      "text": "Two years before this, I was travelling in the north of England.",
+      "translation": "قبل ذلك بعامين، كنت مسافراً في شمال إنجلترا."
+    },
+    {
+      "id": 61,
+      "text": "An American and I were making some radio programmes.",
+      "translation": "كنت وأمريكي نصنع بعض البرامج الإذاعية."
+    },
+    {
+      "id": 62,
+      "text": "He had brought his car from America, and of course, the driver sat on the left side.",
+      "translation": "كان قد أحضر سيارته من أمريكا، وبالطبع، جلس السائق على الجانب الأيسر."
+    },
+    {
+      "id": 63,
+      "text": "The brakes and other controls were also on the left, but the colour of his car was not cream.",
+      "translation": "كانت الفرامل وأجهزة التحكم الأخرى أيضاً على اليسار، لكن لون سيارته لم يكن الكريم."
+    },
+    {
+      "id": 64,
+      "text": "The American was a careless driver, and often passed other cars against my advice.",
+      "translation": "كان الأمريكي سائقاً مهملاً، وغالباً ما كان يتجاوز السيارات الأخرى ضد نصيحتي."
+    },
+    {
+      "id": 65,
+      "text": "Remember that I was in a better position to see: I was sitting on the right.",
+      "translation": "تذكر أنني كنت في وضع أفضل للرؤية: كنت جالساً على اليمين."
+    },
+    {
+      "id": 66,
+      "text": "Once, just after Nottingham, he played chicken'.",
+      "translation": "مرة، بعد نوتنغهام مباشرة، لعب لعبة 'الدجاجة'."
+    },
+    {
+      "id": 67,
+      "text": "You probably know about 'chicken'; it is a game that is played on the roads.",
+      "translation": "ربما تعرف لعبة 'الدجاجة'؛ إنها لعبة تُلعب على الطرق."
+    },
+    {
+      "id": 68,
+      "text": "It is becoming more and more popular in America, because long journeys are often very dull.",
+      "translation": "أصبحت أكثر شعبية في أمريكا، لأن الرحلات الطويلة غالباً ما تكون مملة جداً."
+    },
+    {
+      "id": 69,
+      "text": "You just move your car into the middle of the road and stay there.",
+      "translation": "أنت فقط تحرك سيارتك إلى منتصف الطريق وتبقى هناك."
+    },
+    {
+      "id": 70,
+      "text": "When another car appears, it comes towards you in the middle of the road.",
+      "translation": "عندما تظهر سيارة أخرى، تأتي نحوك في منتصف الطريق."
+    },
+    {
+      "id": 71,
+      "text": "The driver who turns away is the chicken.",
+      "translation": "السائق الذي ينحرف بعيداً هو الدجاجة."
+    },
+    {
+      "id": 72,
+      "text": "Quite often, neither driver turns away.",
+      "translation": "في كثير من الأحيان، لا ينحرف أي من السائقين."
+    },
+    {
+      "id": 73,
+      "text": "I expressed my displeasure at this game in language that the American could not fail to understand.",
+      "translation": "أعربت عن استيائي من هذه اللعبة بلغة لم يكن بإمكان الأمريكي ألا يفهمها."
+    },
+    {
+      "id": 74,
+      "text": "We did not play it again, but it had probably left its mark on my mind.",
+      "translation": "لم نلعبها مرة أخرى، لكنها على الأرجح تركت أثرها في ذهني."
+    },
+    {
+      "id": 75,
+      "text": "So then, when I was asleep, I experienced it all again in a dream.",
+      "translation": "لذا، عندما كنت نائماً، عشت الأمر كله مرة أخرى في حلم."
+    },
+    {
+      "id": 76,
+      "text": "I also remembered something else while I was having breakfast.",
+      "translation": "تذكرت أيضاً شيئاً آخر بينما كنت أتناول الفطور."
+    },
+    {
+      "id": 77,
+      "text": "When we played 'chicken', it was an uncommonly windy day.",
+      "translation": "عندما لعبنا 'الدجاجة'، كان يوماً عاصفاً بشكل غير عادي."
+    },
+    {
+      "id": 78,
+      "text": "We stopped at Chesterfield, and the American bought a hat.",
+      "translation": "توقفنا في تشيسترفيلد، واشترى الأمريكي قبعة."
+    },
+    {
+      "id": 79,
+      "text": "It was a black hat, not a red one, but in dreams, details are not always exact.",
+      "translation": "كانت قبعة سوداء، ليست حمراء، لكن في الأحلام، التفاصيل ليست دائماً دقيقة."
+    },
+    {
+      "id": 80,
+      "text": "After this, I forgot about the dream until the afternoon.",
+      "translation": "بعد هذا، نسيت الحلم حتى بعد الظهر."
+    },
+    {
+      "id": 81,
+      "text": "The big French lorries often play their own game.",
+      "translation": "غالباً ما تلعب الشاحنات الفرنسية الكبيرة لعبتها الخاصة."
+    },
+    {
+      "id": 82,
+      "text": "They stay in the middle of the road, and you can't pass them.",
+      "translation": "تبقى في منتصف الطريق، ولا يمكنك تجاوزها."
+    },
+    {
+      "id": 83,
+      "text": "You have to stay behind them. Sometimes you have to follow them for endless kilometres, although the roads are almost completely empty.",
+      "translation": "عليك أن تبقى خلفها. أحياناً عليك أن تتبعها لكيلومترات لا نهاية لها، رغم أن الطرق خالية تماماً تقريباً."
+    },
+    {
+      "id": 84,
+      "text": "This afternoon we were following a large vehicle, which was making terrible noises.",
+      "translation": "في هذا الأصيل كنا نتبع مركبة كبيرة، كانت تصدر ضجيجاً رهيباً."
+    },
+    {
+      "id": 85,
+      "text": "When I blew my horn, the driver moved to the side of the road, but it was the wrong side.",
+      "translation": "عندما أطلقت البوق، انتقل السائق إلى جانب الطريق، لكنه كان الجانب الخاطئ."
+    },
+    {
+      "id": 86,
+      "text": "He was driving along on the left, instead of keeping to the right.",
+      "translation": "كان يقود على اليسار، بدلاً من الالتزام باليمين."
+    },
+    {
+      "id": 87,
+      "text": "There was enough space on the right for me to pass him. But to do that would be wrong.",
+      "translation": "كانت هناك مساحة كافية على اليمين لأتجاوزه. لكن فعل ذلك سيكون خطأ."
+    },
+    {
+      "id": 88,
+      "text": "So I just followed him for a few kilometres and I told myself not to pass him.",
+      "translation": "لذا تبعته فقط لبضعة كيلومترات وقلت لنفسي ألا أتجاوزه."
+    },
+    {
+      "id": 89,
+      "text": "I considered the situation from every point of view.",
+      "translation": "درست الموقف من كل وجهة نظر."
+    },
+    {
+      "id": 90,
+      "text": "I could certainly turn my car more quickly than he could turn his lorry.",
+      "translation": "يمكنني بالتأكيد أن أدير سيارتي بشكل أسرع مما يمكنه أن يدير شاحنته."
+    },
+    {
+      "id": 91,
+      "text": "It was a very big, heavy lorry.",
+      "translation": "كانت شاحنة كبيرة وثقيلة جداً."
+    },
+    {
+      "id": 92,
+      "text": "Could I, perhaps, pass him quickly on the right before he could do anything?",
+      "translation": "هل يمكنني، ربما، أن أتجاوزه بسرعة على اليمين قبل أن يتمكن من فعل أي شيء؟"
+    },
+    {
+      "id": 93,
+      "text": "If he turned to the right, though, he could easily kill us all.",
+      "translation": "إذا انحرف إلى اليمين، مع ذلك، يمكنه بسهولة أن يقتلنا جميعاً."
+    },
+    {
+      "id": 94,
+      "text": "He probably wanted a bit of fun, but he might want an accident.",
+      "translation": "ربما أراد القليل من المرح، لكنه قد يريد حادثاً."
+    },
+    {
+      "id": 95,
+      "text": "If he killed us, nobody would say it was his fault; the law would be on his side.",
+      "translation": "إذا قتلنا، لن يقول أحد إنه خطؤه؛ سيكون القانون في صفه."
+    },
+    {
+      "id": 96,
+      "text": "The road ahead was quite empty, and went on for many kilometres.",
+      "translation": "كان الطريق أمامنا خالياً تماماً، واستمر لعدة كيلومترات."
+    },
+    {
+      "id": 97,
+      "text": "I drove more slowly until some distance separated us.",
+      "translation": "قدت ببطء أكثر حتى فصلت بيننا مسافة ما."
+    },
+    {
+      "id": 98,
+      "text": "Then I increased my speed as much as I could.",
+      "translation": "ثم زدت سرعتي قدر ما أستطيع."
+    },
+    {
+      "id": 99,
+      "text": "I drove towards that empty space beside the lorry.",
+      "translation": "قدت نحو تلك المساحة الفارغة بجانب الشاحنة."
+    },
+    {
+      "id": 100,
+      "text": "My car was moving at about 110 kilometres an hour.",
+      "translation": "كانت سيارتي تتحرك بسرعة 110 كيلومترات في الساعة تقريباً."
+    },
+    {
+      "id": 101,
+      "text": "The front of my car was almost level with the back of the lorry.",
+      "translation": "كان مقدمة سيارتي على مستوى مؤخرة الشاحنة تقريباً."
+    },
+    {
+      "id": 102,
+      "text": "Then I saw something that knocked the breath out of my body.",
+      "translation": "ثم رأيت شيئاً كاد أن يوقف أنفاسي."
+    },
+    {
+      "id": 103,
+      "text": "On the grass beside the road, a woman was sitting outside a small white house with a table of flowers!",
+      "translation": "على العشب بجانب الطريق، كانت امرأة تجلس خارج منزل صغير أبيض مع طاولة زهور!"
+    },
+    {
+      "id": 104,
+      "text": "For the first time in my life, I changed my mind while I was preparing to pass another vehicle.",
+      "translation": "لأول مرة في حياتي، غيرت رأيي بينما كنت أستعد لتجاوز مركبة أخرى."
+    },
+    {
+      "id": 105,
+      "text": "My foot went down hard on the brake. The car rocked from side to side.",
+      "translation": "نزلت قدمي بقوة على الفرامل. تمايلت السيارة من جانب إلى آخر."
+    },
+    {
+      "id": 106,
+      "text": "From behind me, I heard the sound of a horn.",
+      "translation": "من خلفي، سمعت صوت بوق."
+    },
+    {
+      "id": 107,
+      "text": "Another car was following us at a high speed.",
+      "translation": "كانت سيارة أخرى تتبعنا بسرعة عالية."
+    },
+    {
+      "id": 108,
+      "text": "I knew its colour before I saw it; it was cream.",
+      "translation": "عرفت لونها قبل أن أراها؛ كان لون الكريم."
+    },
+    {
+      "id": 109,
+      "text": "I pressed hard on the brake and turned the wheel slightly.",
+      "translation": "ضغطت بقوة على الفرامل وأدرت عجلة القيادة قليلاً."
+    },
+    {
+      "id": 110,
+      "text": "I was just able to move in behind the lorry without touching it.",
+      "translation": "تمكنت بالكاد من الانتقال خلف الشاحنة دون لمسها."
+    },
+    {
+      "id": 111,
+      "text": "The other car passed us and the driver blew his horn wildly.",
+      "translation": "تجاوزتنا السيارة الأخرى وأطلق السائق بوقه بجنون."
+    },
+    {
+      "id": 112,
+      "text": "It reached the lorry - and then the lorry turned towards it.",
+      "translation": "وصلت إلى الشاحنة - ثم انحرفت الشاحنة نحوها."
+    },
+    {
+      "id": 113,
+      "text": "For a moment I thought that the car was going to pass the lorry safely; it was moving very fast.",
+      "translation": "لحظة اعتقدت أن السيارة ستتجاوز الشاحنة بأمان؛ كانت تتحرك بسرعة كبيرة."
+    },
+    {
+      "id": 114,
+      "text": "Then the front of the lorry just touched the back of the car.",
+      "translation": "ثم لمست مقدمة الشاحنة مؤخرة السيارة قليلاً."
+    },
+    {
+      "id": 115,
+      "text": "It was only a light touch, but it knocked the car towards the side of the road and the woman at the table.",
+      "translation": "كانت مجرد لمسة خفيفة، لكنها دفعت السيارة نحو جانب الطريق والمرأة عند الطاولة."
+    },
+    {
+      "id": 116,
+      "text": "The driver of that car knew exactly what to do.",
+      "translation": "عرف سائق تلك السيارة بالضبط ماذا يفعل."
+    },
+    {
+      "id": 117,
+      "text": "With the greatest skill, he turned it back into the middle of the road.",
+      "translation": "بأعظم مهارة، أعادها إلى منتصف الطريق."
+    },
+    {
+      "id": 118,
+      "text": "His control was wonderful, much better than mine.",
+      "translation": "كانت سيطرته رائعة، أفضل بكثير من سيطرتي."
+    },
+    {
+      "id": 119,
+      "text": "He waved angrily at the lorry driver and drove quickly away in a cloud of dust.",
+      "translation": "لوح بغضب لسائق الشاحنة وقاد بعيداً بسرعة في سحابة من الغبار."
+    },
+    {
+      "id": 120,
+      "text": "He was soon out of sight.",
+      "translation": "سرعان ما اختفى عن الأنظار."
+    },
+    {
+      "id": 121,
+      "text": "We stayed that night in Fontainebleau.",
+      "translation": "أمضينا تلك الليلة في فونتينبلو."
+    },
+    {
+      "id": 122,
+      "text": "A big car was standing outside the hotel, and the back showed signs of damage to the paintwork.",
+      "translation": "كانت سيارة كبيرة واقفة خارج الفندق، وأظهرت مؤخرتها علامات تلف في الطلاء."
+    },
+    {
+      "id": 123,
+      "text": "It was a cream car, and so I looked for the driver.",
+      "translation": "كانت سيارة بلون الكريم، فبحثت عن السائق."
+    },
+    {
+      "id": 124,
+      "text": "He was not wearing a red hat or an expensive shirt.",
+      "translation": "لم يكن يرتدي قبعة حمراء أو قميصاً غالياً."
+    },
+    {
+      "id": 125,
+      "text": "He was a young man from Paris - not like the driver in my dream.",
+      "translation": "كان شاباً من باريس - ليس مثل السائق في حلمي."
+    },
+    {
+      "id": 126,
+      "text": "He spoke good English, so I asked him if he would like the number of that lorry.",
+      "translation": "كان يتحدث الإنجليزية جيداً، فسألته إن كان يريد رقم تلك الشاحنة."
+    },
+    {
+      "id": 127,
+      "text": "I had noticed it, and I was happy to give it to him.",
+      "translation": "كنت قد لاحظته، وكنت سعيداً بإعطائه له."
+    },
+    {
+      "id": 128,
+      "text": "But he only laughed; the law won't help you if you pass on the wrong side of the road.",
+      "translation": "لكنه ضحك فقط؛ لن يساعدك القانون إذا تجاوزت على الجانب الخاطئ من الطريق."
+    },
+    {
+      "id": 129,
+      "text": "To him the whole thing had been a game.",
+      "translation": "بالنسبة له كان الأمر كله لعبة."
+    },
+    {
+      "id": 130,
+      "text": "'It tests your skill,' he said. 'If the car is powerful enough, you can do it. But you couldn't do it, not in your car.'",
+      "translation": "\"إنها تختبر مهارتك،\" قال. \"إذا كانت السيارة قوية بما يكفي، يمكنك فعلها. لكنك لم تستطع فعلها، ليس في سيارتك.\""
+    },
+    {
+      "id": 131,
+      "text": "I didn't tell him about my dream, my reason for not passing the lorry.",
+      "translation": "لم أخبره عن حلمي، سببي لعدم تجاوز الشاحنة."
+    },
+    {
+      "id": 132,
+      "text": "There was no time; he was in a hurry and wanted to reach Paris quickly.",
+      "translation": "لم يكن هناك وقت؛ كان في عجلة من أمره وأراد الوصول إلى باريس بسرعة."
+    },
+    {
+      "id": 133,
+      "text": "It made me think, though.",
+      "translation": "لكنه جعلني أفكر."
+    },
+    {
+      "id": 134,
+      "text": "I don't really believe in dreams, of course; but something saved us all from a terrible death.",
+      "translation": "أنا لا أؤمن حقاً بالأحلام، بالطبع؛ لكن شيئاً ما أنقذنا جميعاً من موت رهيب."
+    },
+    {
+      "id": 135,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 136,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 137,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
