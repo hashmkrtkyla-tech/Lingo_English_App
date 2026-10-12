@@ -5,10 +5,384 @@
   "audio_url": "assets/books/audio/b1_books/Thinking_Yourself_Rich-O_Henry.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Mindset plays a crucial role in achieving personal success.",
-      "translation": "تلعب طريقة التفكير دوراً حاسماً في تحقيق النجاح الشخصي."
+      "id": 1,
+      "text": "Thinking yourself rich",
+      "translation": "اجعل نفسك غنياً بالتفكير"
+    },
+    {
+      "id": 2,
+      "text": "My real name's Jeff Peters.",
+      "translation": "اسمي الحقيقي جيف بيترز."
+    },
+    {
+      "id": 3,
+      "text": "But when I visited Fisher Hill, Arkansas, I went there as Doctor Waugh-Hoo, the famous Indian medicine man.",
+      "translation": "لكن عندما زرت فيشر هيل، أركنساس، ذهبت إلى هناك باسم الدكتور واه-هو، طبيب الأعشاب الهندي الشهير."
+    },
+    {
+      "id": 4,
+      "text": "I had only five dollars in my pocket, so I got fifty medicine bottles from the drugstore, and went straight to my hotel room.",
+      "translation": "كان معي خمسة دولارات فقط في جيبي، فأحضرت خمسين زجاجة دواء من الصيدلية، وذهبت مباشرة إلى غرفتي في الفندق."
+    },
+    {
+      "id": 5,
+      "text": "The other things that I needed were in my bag.",
+      "translation": "الأشياء الأخرى التي احتجتها كانت في حقيبتي."
+    },
+    {
+      "id": 6,
+      "text": "At the hotel I put water, purple colouring, and a little Chinchona - real medicine that comes from a Peruvian tree - into every bottle.",
+      "translation": "في الفندق وضعت ماءً، وملوناً بنفسجياً، وقليلاً من الكينا - دواء حقيقي يأتي من شجرة بيروفية - في كل زجاجة."
+    },
+    {
+      "id": 7,
+      "text": "Then I put labels on them saying: 'DR WAUGH-HOO'S INDIAN POTION - SURF TO BRING THE DEAD TO LIFE!'",
+      "translation": "ثم وضعت عليها ملصقات تقول: \"جرعة الدكتور واه-هو الهندية - كافية لإحياء الموتى!\""
+    },
+    {
+      "id": 8,
+      "text": "I was ready for business.",
+      "translation": "كنت مستعداً للعمل."
+    },
+    {
+      "id": 9,
+      "text": "I started that night on a street in the centre of town.",
+      "translation": "بدأت تلك الليلة في شارع في وسط البلدة."
+    },
+    {
+      "id": 10,
+      "text": "After selling twenty-five bottles at twenty cents each, I felt a hand on my arm. It was a policeman.",
+      "translation": "بعد بيع خمس وعشرين زجاجة بعشرين سنتاً لكل واحدة، شعرت بيد على ذراعي. كان شرطياً."
+    },
+    {
+      "id": 11,
+      "text": "'Do you have a licence to sell medicine here?' he asked.",
+      "translation": "\"هل لديك ترخيص لبيع الدواء هنا؟\" سأل."
+    },
+    {
+      "id": 12,
+      "text": "'No, I don't.' I replied.",
+      "translation": "\"لا، ليس لدي.\" أجبت."
+    },
+    {
+      "id": 13,
+      "text": "'Well, you'll have to stop, then.'",
+      "translation": "\"حسناً، يجب أن تتوقف إذن.\""
+    },
+    {
+      "id": 14,
+      "text": "I stopped, went back to my hotel at once, and spoke to the landlord.",
+      "translation": "توقفت، وعدت إلى فندقي فوراً، وتحدثت مع صاحب الفندق."
+    },
+    {
+      "id": 15,
+      "text": "'You'll never get a licence,' he said. 'Doctor Hoskins is the only doctor here, and his wife's the Mayor's sister. A fake doctor has no chance.'",
+      "translation": "\"لن تحصل أبداً على ترخيص،\" قال. \"الدكتور هوسكينز هو الطبيب الوحيد هنا، وزوجته أخت العمدة. الطبيب المزيف لا فرصة له.\""
+    },
+    {
+      "id": 16,
+      "text": "'I'm not a doctor. I'm a travelling salesman. And I'll get a licence tomorrow.'",
+      "translation": "\"أنا لست طبيباً. أنا بائع متجول. وسأحصل على ترخيص غداً.\""
+    },
+    {
+      "id": 17,
+      "text": "I went to the Mayor's office early the next day, but he wasn't there. So I went back to my hotel, sat in a chair, had a smoke, and waited.",
+      "translation": "ذهبت إلى مكتب العمدة مبكراً في اليوم التالي، لكنه لم يكن هناك. فعدت إلى فندقي، وجلست على كرسي، ودخنت، وانتظرت."
+    },
+    {
+      "id": 18,
+      "text": "Soon a young man in a blue suit sat down next to me and asked me the time.",
+      "translation": "سرعان ما جلس شاب يرتدي بدلة زرقاء بجانبي وسألني عن الوقت."
+    },
+    {
+      "id": 19,
+      "text": "'It's ten o'clock,' I said, 'And you're Andy Tucker. I remember you.'",
+      "translation": "\"إنها العاشرة،\" قلت، \"وأنت آندي تاكر. أتذكرك.\""
+    },
+    {
+      "id": 20,
+      "text": "Andy was a good street salesman, and I needed a partner. So we agreed to go outside.",
+      "translation": "كان آندي بائعاً جيداً في الشوارع، وكنت بحاجة إلى شريك. فاتفقنا على الخروج."
+    },
+    {
+      "id": 21,
+      "text": "He was just off the train, and had plans to ask people in Fisher Hill for money to build a new bath house at Eureka Springs.",
+      "translation": "كان قد نزل للتو من القطار، وكان لديه خطط لسؤال الناس في فيشر هيل عن المال لبناء حمام جديد في يوريكا سبرينغز."
+    },
+    {
+      "id": 22,
+      "text": "I told him how things were in Fisher Hill, and we sat and talked.",
+      "translation": "أخبرته كيف كانت الأمور في فيشر هيل، وجلسنا نتحدث."
+    },
+    {
+      "id": 23,
+      "text": "Next morning, at eleven o'clock, an old black man came looking for me at the hotel, where I sat alone.",
+      "translation": "في صباح اليوم التالي، في الساعة الحادية عشرة، جاء رجل أسود عجوز يبحث عني في الفندق، حيث كنت جالساً وحدي."
+    },
+    {
+      "id": 24,
+      "text": "'You must come, sir,' he said. 'The Mayor's terribly ill. He needs your help.'",
+      "translation": "\"يجب أن تأتي يا سيدي،\" قال. \"العمدة مريض بشكل مروع. إنه بحاجة إلى مساعدتك.\""
+    },
+    {
+      "id": 25,
+      "text": "'Get Dr Hoskins,' I replied.",
+      "translation": "\"أحضر الدكتور هوسكينز،\" ردت."
+    },
+    {
+      "id": 26,
+      "text": "'He can't come, sir. He's in the country. But the Mayor's nearly dying. He needs help right now!'",
+      "translation": "\"لا يستطيع المجيء يا سيدي. إنه في الريف. لكن العمدة على وشك الموت. يحتاج إلى المساعدة الآن!\""
+    },
+    {
+      "id": 27,
+      "text": "'OK,' I said, 'I can't leave a man in need. I'll come.'",
+      "translation": "\"حسناً،\" قلت، \"لا أستطيع ترك رجل في حاجة. سآتي.\""
+    },
+    {
+      "id": 28,
+      "text": "When I arrived, I found the Mayor in bed, looking bad. A young man stood near him holding a cup of water.",
+      "translation": "عندما وصلت، وجدت العمدة في سريره، يبدو بحالة سيئة. وقف شاب بالقرب منه يحمل كوب ماء."
+    },
+    {
+      "id": 29,
+      "text": "'Doctor, can you help me? It's terrible,' said the Mayor.",
+      "translation": "\"دكتور، هل يمكنك مساعدتي؟ إنه أمر مروع،\" قال العمدة."
+    },
+    {
+      "id": 30,
+      "text": "'Well, I'm not here as a doctor,' I said, 'but as a friend.'",
+      "translation": "\"حسناً، أنا لست هنا كطبيب،\" قلت، \"بل كصديق.\""
+    },
+    {
+      "id": 31,
+      "text": "'Thank you, Doctor Waugh-hoo,' he replied. 'This young man is my nephew, Mr Biddle. He's tried to help, but it's no good. Ooooh, it hurts!'",
+      "translation": "\"شكراً لك يا دكتور واه-هو،\" رد. \"هذا الشاب هو ابن أخي، السيد بيدل. حاول مساعدتي، لكن لا فائدة. أوووه، إنه يؤلم!\""
+    },
+    {
+      "id": 32,
+      "text": "I nodded at Biddle, and sat on the bed. I looked at the Mayor's eyes, tongue and ears, and listened to his heart and chest.",
+      "translation": "أومأت لبيدل، وجلست على السرير. نظرت إلى عيني العمدة ولسانه وأذنيه، واستمعت إلى قلبه وصدره."
+    },
+    {
+      "id": 33,
+      "text": "'What's the matter with me?' he asked.",
+      "translation": "\"ما الذي أصابني؟\" سأل."
+    },
+    {
+      "id": 34,
+      "text": "'Mr Mayor,' I said, 'I'm sorry to say that you have a dangerous pneumonia of the circular dandelion in the upper right vegetable of your heart.'",
+      "translation": "\"سيد العمدة،\" قلت، \"يؤسفني أن أقول إن لديك التهاباً رئوياً خطيراً في الهندباء الدائرية في الخضار العلوي الأيمن من قلبك.\""
+    },
+    {
+      "id": 35,
+      "text": "'Can you give me something for it?'",
+      "translation": "\"هل يمكنك إعطائي شيئاً له؟\""
+    },
+    {
+      "id": 36,
+      "text": "'Medicine won't touch it, I'm afraid,' I said. 'Your only hope is hypnosis!'",
+      "translation": "\"الدواء لن يؤثر عليه، كما أخشى،\" قلت. \"أملك الوحيد هو التنويم المغناطيسي!\""
+    },
+    {
+      "id": 37,
+      "text": "'Hypno- what?' said the Mayor.",
+      "translation": "\"التنويم- ماذا؟\" قال العمدة."
+    },
+    {
+      "id": 38,
+      "text": "'It means me helping you to think yourself well again,' I explained helpfully.",
+      "translation": "\"إنه يعني أنني أساعدك على التفكير في نفسك بشكل جيد مرة أخرى،\" شرحت مساعداً."
+    },
+    {
+      "id": 39,
+      "text": "'Can you do that?' asked the Mayor.",
+      "translation": "\"هل يمكنك فعل ذلك؟\" سأل العمدة."
+    },
+    {
+      "id": 40,
+      "text": "'Well, I'm not a doctor, you understand, but to save your life I'm more than ready to do some hypnosis on you - if you forget the licence question.'",
+      "translation": "\"حسناً، أنا لست طبيباً، كما تفهم، لكن لإنقاذ حياتك أنا أكثر من مستعد للقيام ببعض التنويم المغناطيسي عليك - إذا نسيت مسألة الترخيص.\""
+    },
+    {
+      "id": 41,
+      "text": "'Of course,' he said. 'And please can you start now. It's hurting a lot!'",
+      "translation": "\"بالطبع،\" قال. \"وأرجوك هل يمكنك البدء الآن. إنه يؤلم كثيراً!\""
+    },
+    {
+      "id": 42,
+      "text": "'Hypnosis costs two hundred and fifty dollars for two visits,' I said.",
+      "translation": "\"التنويم المغناطيسي يكلف مائتين وخمسين دولاراً لزيارتين،\" قلت."
+    },
+    {
+      "id": 43,
+      "text": "'That's not much to pay for my life,' said the Mayor.",
+      "translation": "\"هذا ليس كثيراً لدفعه مقابل حياتي،\" قال العمدة."
+    },
+    {
+      "id": 44,
+      "text": "So I began. Looking him in the eye, I said: 'Look into my eyes. You're sleepy. Your upper right vegetable isn't hurting now.'",
+      "translation": "فبدأت. ناظراً إلى عينيه، قلت: \"انظر في عيني. أنت نعسان. خضارك العلوي الأيمن لم يعد يؤلم الآن.\""
+    },
+    {
+      "id": 45,
+      "text": "The circular dandelion's going. You have no upper right vegetable, no heart, no body. Your eyes are closing.'",
+      "translation": "الهندباء الدائرية تختفي. ليس لديك خضار علوي أيمن، ولا قلب، ولا جسد. عيناك تغلقان.\""
+    },
+    {
+      "id": 46,
+      "text": "I left him sleeping and went back to the hotel. The next day I went back to his house early.",
+      "translation": "تركته نائماً وعدت إلى الفندق. في اليوم التالي عدت إلى منزله مبكراً."
+    },
+    {
+      "id": 47,
+      "text": "'How is he?' I asked Mr Biddle at the bedroom door.",
+      "translation": "\"كيف حاله؟\" سألت السيد بيدل عند باب غرفة النوم."
+    },
+    {
+      "id": 48,
+      "text": "'A lot better,' said the young man.",
+      "translation": "\"أفضل بكثير،\" قال الشاب."
+    },
+    {
+      "id": 49,
+      "text": "I did some more hypnosis on the Mayor, and he said that nothing hurt him after that.",
+      "translation": "قمت ببعض التنويم المغناطيسي الإضافي على العمدة، وقال إن شيئاً لم يؤلمه بعد ذلك."
+    },
+    {
+      "id": 50,
+      "text": "'Stay in bed, rest for two days, and you'll be fine. You were very lucky that I was in town yesterday,' I said. 'And now for my money.'",
+      "translation": "\"ابقَ في السرير، واسترح لمدة يومين، وستكون بخير. كنت محظوظاً جداً لأنني كنت في البلدة أمس،\" قلت. \"والآن مالي.\""
+    },
+    {
+      "id": 51,
+      "text": "'Here it is,' said the Mayor, taking the bills from the table by his bed and giving them to me.",
+      "translation": "\"ها هو،\" قال العمدة، آخذاً الأوراق النقدية من الطاولة بجانب سريره ومعطيها لي."
+    },
+    {
+      "id": 52,
+      "text": "'And put your name on this,' he went on, giving me a paper that said:",
+      "translation": "\"وضع اسمك على هذا،\" تابع، معطياً لي ورقة تقول:"
+    },
+    {
+      "id": 53,
+      "text": "For two visits by Dr Waugh-Hoo to the Mayor of Fisher Hill",
+      "translation": "مقابل زيارتين للدكتور واه-هو لعمدة فيشر هيل"
+    },
+    {
+      "id": 54,
+      "text": "Two hundred and fifty dollars",
+      "translation": "مائتان وخمسون دولاراً"
+    },
+    {
+      "id": 55,
+      "text": "I wrote Dr Waugh-Hoo at the bottom of the paper and gave it back to him.",
+      "translation": "كتبت الدكتور واه-هو في أسفل الورقة وأعدتها إليه."
+    },
+    {
+      "id": 56,
+      "text": "'Now do your work, officer,' said the Mayor with a big smile on his face. Suddenly he didn't look ill at all.",
+      "translation": "\"الآن قم بعملك أيها الضابط،\" قال العمدة بابتسامة عريضة على وجهه. فجأة لم يبدُ مريضاً على الإطلاق."
+    },
+    {
+      "id": 57,
+      "text": "Mr Biddle put his hand on my arm.",
+      "translation": "وضع السيد بيدل يده على ذراعي."
+    },
+    {
+      "id": 58,
+      "text": "'I arrest you Dr Waugh-Hoo - or Jeff Peters, to give you your usual name - for selling fake medicine without a licence,' he said.",
+      "translation": "\"أعتقلك يا دكتور واه-هو - أو جيف بيترز، لأعطيك اسمك المعتاد - لبيعك دواءً مزيّفاً بدون ترخيص،\" قال."
+    },
+    {
+      "id": 59,
+      "text": "'Who are you?' I cried.",
+      "translation": "\"من أنت؟\" صرخت."
+    },
+    {
+      "id": 60,
+      "text": "'He's a detective,' said the Mayor, 'working for the Arkansas Medical Society.'",
+      "translation": "\"إنه محقق،\" قال العمدة، \"يعمل لصالح الجمعية الطبية في أركنساس.\""
+    },
+    {
+      "id": 61,
+      "text": "He's followed you all over Arkansas for weeks. He came to me yesterday, and told me all about you, and we made a plan to catch you. You won't sell your fake medicine around here any more.'",
+      "translation": "لقد تبعك في كل أنحاء أركنساس لأسابيع. جاء إليّ أمس، وأخبرني بكل شيء عنك، ووضعنا خطة للإمساك بك. لن تبيع دواءك المزيّف هنا بعد الآن.\""
+    },
+    {
+      "id": 62,
+      "text": "'A detective!' I said.",
+      "translation": "\"محقق!\" قلت."
+    },
+    {
+      "id": 63,
+      "text": "'That's right. And now we're going to see the sheriff,' said the young man.",
+      "translation": "\"هذا صحيح. والآن سنذهب لرؤية الشريف،\" قال الشاب."
+    },
+    {
+      "id": 64,
+      "text": "'Oh, no we're not,' I cried, taking his neck in my hands and nearly pushing him through the window.",
+      "translation": "\"أوه، لا لن نذهب،\" صرخت، آخذاً رقبته بين يديّ وكنت على وشك دفعه عبر النافذة."
+    },
+    {
+      "id": 65,
+      "text": "Then he pulled out a gun, and put it to my head. I stood still. After that, he put handcuffs on me, and took the money out of my pocket.",
+      "translation": "ثم أخرج مسدساً، ووضعه على رأسي. وقفت ساكناً. بعد ذلك، وضع الأصفاد عليّ، وأخرج المال من جيبي."
+    },
+    {
+      "id": 66,
+      "text": "'I'll need to take this to the sheriff, sir. I'll be sure to tell him that these were your bills with my marks on them. You'll get it all back once the criminal is in jail.'",
+      "translation": "\"سأحتاج إلى أخذ هذا إلى الشريف يا سيدي. سأتأكد من إخباره أن هذه كانت أوراقك النقدية وعليها علاماتي. ستستعيدها كلها بمجرد أن يكون المجرم في السجن.\""
+    },
+    {
+      "id": 67,
+      "text": "'That's fine by me, Mr Biddle,' said the Mayor. Then he turned to me, laughing.",
+      "translation": "\"هذا لا يمانعني يا سيد بيدل،\" قال العمدة. ثم التفت إليّ، ضاحكاً."
+    },
+    {
+      "id": 68,
+      "text": "'Well Dr Waugh-hoo. Show us your famous hypnosis now. Make those handcuffs go away by thinking yourself free again!'",
+      "translation": "\"حسناً دكتور واه-هو. أرنا تنويمك المغناطيسي الشهير الآن. اجعل تلك الأصفاد تختفي بالتفكير في نفسك حراً مرة أخرى!\""
+    },
+    {
+      "id": 69,
+      "text": "'Come on, officer,' I said. 'I'll go quietly.'",
+      "translation": "\"هيا أيها الضابط،\" قلت. \"سأذهب بهدوء.\""
+    },
+    {
+      "id": 70,
+      "text": "At the door, I shook my handcuffs at the Mayor, saying, 'The time will come when you understand that hypnosis works, and that it worked very well for me here today, too.'",
+      "translation": "عند الباب، هززت أصفادي في وجه العمدة، قائلاً: \"سيأتي الوقت الذي تفهم فيه أن التنويم المغناطيسي يعمل، وأنه عمل بشكل جيد جداً لي هنا اليوم أيضاً.\""
+    },
+    {
+      "id": 71,
+      "text": "And in a way that was true.",
+      "translation": "وبطريقة ما كان ذلك صحيحاً."
+    },
+    {
+      "id": 72,
+      "text": "When we arrived out on the street, I said to Mr Biddle, 'Somebody could see us. Take the handcuffs off now, Andy.' And he did.",
+      "translation": "عندما وصلنا إلى الشارع، قلت للسيد بيدل: \"قد يرانا أحدهم. اخلع الأصفاد الآن يا آندي.\" وفعل."
+    },
+    {
+      "id": 73,
+      "text": "Biddle was really my old friend Andy Tucker, you see, and it was all his idea. And that's how we started in business together.",
+      "translation": "كان بيدل في الحقيقة صديقي القديم آندي تاكر، كما ترى، وكانت الفكرة كلها فكرته. وهكذا بدأنا العمل معاً."
+    },
+    {
+      "id": 74,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 75,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 76,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
