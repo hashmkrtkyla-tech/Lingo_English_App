@@ -2,13 +2,792 @@
   "id": "b1_the_stars",
   "title": "The Stars",
   "level": "B1",
-  "audio_url": "assets/books/audio/b1_books/The_Stars-Alphonse_Daudet.mp3",
+  "audio_url": "assets/books/audio/b1_books/The_Stars.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "The shepherd looked up at the night sky full of shining stars.",
-      "translation": "نظر الراعي إلى السماء الليلية المليئة بالنجوم الساطعة."
+      "id": 1,
+      "text": "The Stars",
+      "translation": "النجوم"
+    },
+    {
+      "id": 2,
+      "text": "CHAPTER ONE",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "A Welcome Visitor",
+      "translation": "زائر مرحب به"
+    },
+    {
+      "id": 4,
+      "text": "At one point in my life, I was a shepherd at Luberon.",
+      "translation": "في مرحلة من حياتي، كنت راعياً في لوبيرون."
+    },
+    {
+      "id": 5,
+      "text": "It was a very isolated place.",
+      "translation": "كان مكاناً معزولاً جداً."
+    },
+    {
+      "id": 6,
+      "text": "I would often spend weeks there without seeing a single person.",
+      "translation": "كنت غالباً ما أمضي أسابيع هناك دون رؤية شخص واحد."
+    },
+    {
+      "id": 7,
+      "text": "During those weeks, I would joyfully spend my time with my dog, tending my flocks of sheep.",
+      "translation": "خلال تلك الأسابيع، كنت أمضي وقتي بفرح مع كلبي، أرعى قطعان خرافي."
+    },
+    {
+      "id": 8,
+      "text": "At times when I did see another person, it was usually the loner who lived up on Mount Lure.",
+      "translation": "في الأوقات التي كنت أرى فيها شخصاً آخر، كان عادةً المنعزل الذي يعيش على جبل لور."
+    },
+    {
+      "id": 9,
+      "text": "From time to time, he would come down, looking for some simple conversation and to hear some news of the outside world.",
+      "translation": "من وقت لآخر، كان ينزل، باحثاً عن بعض المحادثة البسيطة وسماع بعض أخبار العالم الخارجي."
+    },
+    {
+      "id": 10,
+      "text": "I also saw the odd coalmen.",
+      "translation": "رأيت أيضاً عمال الفحم العرضيين."
+    },
+    {
+      "id": 11,
+      "text": "They worked in the coal mines not too far from my fields.",
+      "translation": "كانوا يعملون في مناجم الفحم ليست بعيدة جداً عن حقولي."
+    },
+    {
+      "id": 12,
+      "text": "All of these people were simple folk and did not care for the shallow wants of the world.",
+      "translation": "كان كل هؤلاء الناس أناساً بسطاء ولم يهتموا برغبات العالم السطحية."
+    },
+    {
+      "id": 13,
+      "text": "About once every two weeks, a person was sent to bring me supplies on a mule.",
+      "translation": "حوالي مرة كل أسبوعين، كان يُرسل شخص لإحضار المؤن لي على بغل."
+    },
+    {
+      "id": 14,
+      "text": "This person was usually a farmhand from the lowlands or an old woman who always wore a reddish-colored cap.",
+      "translation": "كان هذا الشخص عادة عاملاً من الأراضي المنخفضة أو امرأة عجوز ترتدي دائماً قبعة بلون محمر."
+    },
+    {
+      "id": 15,
+      "text": "I heard all of the news from the lowlands from them.",
+      "translation": "سمعت كل أخبار الأراضي المنخفضة منهم."
+    },
+    {
+      "id": 16,
+      "text": "However, the news that interested me the most was any word about my Master's daughter.",
+      "translation": "لكن الأخبار التي اهتممت بها أكثر كانت أي كلمة عن ابنة سيدي."
+    },
+    {
+      "id": 17,
+      "text": "My Master's daughter was the prettiest girl in the surrounding area.",
+      "translation": "كانت ابنة سيدي أجمل فتاة في المنطقة المحيطة."
+    },
+    {
+      "id": 18,
+      "text": "But I was just a lowly twenty-year-old shepherd who tended her father's flocks.",
+      "translation": "لكنني كنت مجرد راعٍ متواضع في العشرين من عمري أرعى قطعان والدها."
+    },
+    {
+      "id": 19,
+      "text": "I always had to remind myself that there were many handsome young men in the lowlands.",
+      "translation": "كان عليّ دائماً أن أذكر نفسي أن هناك العديد من الشباب الوسيمين في الأراضي المنخفضة."
+    },
+    {
+      "id": 20,
+      "text": "They could provide better for her than what some poor shepherd could.",
+      "translation": "كان بإمكانهم توفير حياة أفضل لها مما يمكن أن يوفره راعٍ فقير."
+    },
+    {
+      "id": 21,
+      "text": "Being a vain girl, I knew that she would always have more interest in wealthier men.",
+      "translation": "لكونها فتاة مغرورة، عرفت أنها ستهتم دائماً بالرجال الأثرياء أكثر."
+    },
+    {
+      "id": 22,
+      "text": "I never even expected her to say hello to me.",
+      "translation": "لم أكن حتى أتوقع منها أن تلقي عليّ التحية."
+    },
+    {
+      "id": 23,
+      "text": "Two weeks had passed since my last supplies had been delivered to me.",
+      "translation": "كان قد مضى أسبوعان منذ أن سُلّمت لي مؤونتي الأخيرة."
+    },
+    {
+      "id": 24,
+      "text": "It was a Sunday, and I was waiting for the mule to arrive with my provisions.",
+      "translation": "كان يوم أحد، وكنت أنتظر وصول البغل بمؤونتي."
+    },
+    {
+      "id": 25,
+      "text": "I waited patiently, but no one came.",
+      "translation": "انتظرت بصبر، لكن لم يأتِ أحد."
+    },
+    {
+      "id": 26,
+      "text": "'It is the fault of my Master's house,' I thought. 'They have forgotten to send me my provisions.'",
+      "translation": "\"إنه خطأ منزل سيدي،\" فكرت. \"لقد نسوا إرسال مؤونتي إليّ.\""
+    },
+    {
+      "id": 27,
+      "text": "I waited until noon.",
+      "translation": "انتظرت حتى الظهر."
+    },
+    {
+      "id": 28,
+      "text": "I watched for someone to come, but in the distance, I noticed there was a very dark storm.",
+      "translation": "راقبت قدوم أحدهم، لكن في المسافة، لاحظت وجود عاصفة داكنة جداً."
+    },
+    {
+      "id": 29,
+      "text": "'The storm has delayed the person from delivering me my necessities,' I thought.",
+      "translation": "\"لقد أخّرت العاصفة الشخص عن إيصال ضرورياتي إليّ،\" فكرت."
+    },
+    {
+      "id": 30,
+      "text": "'I am sure that the roads are very bad now because of the storm.'",
+      "translation": "\"أنا متأكد من أن الطرق سيئة جداً الآن بسبب العاصفة.\""
+    },
+    {
+      "id": 31,
+      "text": "Another three hours passed. The storm had now passed.",
+      "translation": "مرت ثلاث ساعات أخرى. كانت العاصفة قد مرّت الآن."
+    },
+    {
+      "id": 32,
+      "text": "I looked into the sky. It was now a beautiful, clean, blue sky, and the sun was casting its warm rays over the hills.",
+      "translation": "نظرت إلى السماء. كانت الآن سماءً زرقاء جميلة نظيفة، وكانت الشمس تلقي بأشعتها الدافئة على التلال."
+    },
+    {
+      "id": 33,
+      "text": "The familiar sound of water running through the brook brightened my spirits.",
+      "translation": "رفع الصوت المألوف للماء المتدفق عبر الجدول معنوياتي."
+    },
+    {
+      "id": 34,
+      "text": "Then I heard another familiar sound. It was the sound of the bell ringing around the mule's neck.",
+      "translation": "ثم سمعت صوتاً مألوفاً آخر. كان صوت الجرس يرن حول رقبة البغل."
+    },
+    {
+      "id": 35,
+      "text": "I waited to see whether it was a farmhand or the old woman who wore the red cap.",
+      "translation": "انتظرت لأرى إن كان عاملاً أم المرأة العجوز التي ترتدي القبعة الحمراء."
+    },
+    {
+      "id": 36,
+      "text": "I was greatly surprised. It was neither the farmhand nor the old woman.",
+      "translation": "فوجئت كثيراً. لم يكن العامل ولا المرأة العجوز."
+    },
+    {
+      "id": 37,
+      "text": "It was the young lady, my Master's daughter.",
+      "translation": "كانت الشابة، ابنة سيدي."
+    },
+    {
+      "id": 38,
+      "text": "She rode up as I watched in amazement.",
+      "translation": "صعدت بينما كنت أرهاق في دهشة."
+    },
+    {
+      "id": 39,
+      "text": "She climbed down from the mule and said, 'The farmhand is sick and the old woman is spending a holiday with her children. So I came instead.'",
+      "translation": "نزلت من البغل وقالت: \"العامل مريض والمرأة العجوز تقضي عطلة مع أطفالها. لذلك جئت بدلاً منهما.\""
+    },
+    {
+      "id": 40,
+      "text": "She also told me that she had lost her way.",
+      "translation": "أخبرتني أيضاً أنها ضلّت طريقها."
+    },
+    {
+      "id": 41,
+      "text": "However, when I looked into her face, her eyes danced.",
+      "translation": "لكن عندما نظرت إلى وجهها، كانت عيناها ترقصان."
+    },
+    {
+      "id": 42,
+      "text": "It seemed like she was delayed because she had stopped to dance on the hills instead.",
+      "translation": "بدا أنها تأخرت لأنها توقفت للرقص على التلال بدلاً من ذلك."
+    },
+    {
+      "id": 43,
+      "text": "In that fresh afternoon air, she looked simply beautiful.",
+      "translation": "في هواء بعد الظهر المنعش، بدت جميلة ببساطة."
+    },
+    {
+      "id": 44,
+      "text": "I could hardly take my eyes off her.",
+      "translation": "بالكاد تمكنت من إبعاد عينيّ عنها."
+    },
+    {
+      "id": 45,
+      "text": "I had never stood so closely to her before.",
+      "translation": "لم أقف يوماً بهذا القرب منها من قبل."
+    },
+    {
+      "id": 46,
+      "text": "I had only ever seen her from an admiring distance.",
+      "translation": "كنت قد رأيتها فقط من مسافة إعجاب."
+    },
+    {
+      "id": 47,
+      "text": "When I returned to the lowlands in the winter with the flocks, I went to the farm for my dinner.",
+      "translation": "عندما عدت إلى الأراضي المنخفضة في الشتاء مع القطعان، ذهبت إلى المزرعة لتناول عشائي."
+    },
+    {
+      "id": 48,
+      "text": "At those times, I had seen her proudly walking through the rooms, not saying a word to any of the servants.",
+      "translation": "في تلك الأوقات، كنت أراها تسير بفخر عبر الغرف، دون أن تقول كلمة لأي من الخدم."
+    },
+    {
+      "id": 49,
+      "text": "She had always appeared to be very proud at those moments.",
+      "translation": "كانت دائماً تبدو فخورة جداً في تلك اللحظات."
+    },
+    {
+      "id": 50,
+      "text": "Now she was standing directly in front of me. I had her all to myself.",
+      "translation": "الآن كانت واقفة أمامي مباشرة. كان لديّ كل اهتمامها."
+    },
+    {
+      "id": 51,
+      "text": "I watched as she took my provisions off the mule.",
+      "translation": "شاهدتها وهي تفرغ مؤونتي من البغل."
+    },
+    {
+      "id": 52,
+      "text": "'So where is it that you sleep?' the girl asked me.",
+      "translation": "\"إذن أين تنام؟\" سألتني الفتاة."
+    },
+    {
+      "id": 53,
+      "text": "I showed her. My bed was a very simple place made only of straw and sheepskin.",
+      "translation": "أريتها. كان سريري مكاناً بسيطاً جداً مصنوعاً فقط من القش وجلد الغنم."
+    },
+    {
+      "id": 54,
+      "text": "Just above on the wall were my cape and stick. She found it all very amusing.",
+      "translation": "فوق الجدار مباشرة كان عبائي وعصاي. وجدت كل ذلك مسلياً جداً."
+    },
+    {
+      "id": 55,
+      "text": "'You poor shepherd!' she exclaimed. 'You live here?'",
+      "translation": "\"أيها الراعي المسكين!\" صرخت. \"أنت تعيش هنا؟\""
+    },
+    {
+      "id": 56,
+      "text": "You must always be so lonely and bored! What do you do with your time? What do you think about during your days?' she asked.",
+      "translation": "لا بد أنك دائماً وحيد وملول! ماذا تفعل بوقتك؟ بماذا تفكر خلال أيامك؟\" سألت."
+    },
+    {
+      "id": 57,
+      "text": "I wanted to reply, 'I only think about you.' However, I didn't.",
+      "translation": "أردت أن أجيب: \"أنا أفكر فيك فقط.\" لكنني لم أفعل."
+    },
+    {
+      "id": 58,
+      "text": "In fact, I couldn't speak a word.",
+      "translation": "في الواقع، لم أستطع أن أنطق بكلمة."
+    },
+    {
+      "id": 59,
+      "text": "My Master's daughter realized my embarrassment. She took great pleasure in it. She started to tease me.",
+      "translation": "أدركت ابنة سيدي ارتباكي. أخذت متعة كبيرة في ذلك. بدأت تنتقدني."
+    },
+    {
+      "id": 60,
+      "text": "'And do the fairies come to visit you here?' she asked, laughing with a twinkle in her eyes.",
+      "translation": "\"وهل تأتي الجنيات لزيارتك هنا؟\" سألت، ضاحكة ببريق في عينيها."
+    },
+    {
+      "id": 61,
+      "text": "I thought that she seemed as delicate and graceful as a fairy.",
+      "translation": "اعتقدت أنها بدت رقيقة ورشيقة مثل الجنية."
+    },
+    {
+      "id": 62,
+      "text": "She quickly prepared to leave. We said goodbye, and I watched her as she disappeared.",
+      "translation": "استعدت بسرعة للرحيل. ودّعنا بعضنا، وشاهدتها وهي تختفي."
+    },
+    {
+      "id": 63,
+      "text": "However, the sound of the mule's footsteps continued for a while longer.",
+      "translation": "لكن صوت خطوات البغل استمر لفترة أطول."
+    },
+    {
+      "id": 64,
+      "text": "The sounds of those footsteps stayed with me for a long time.",
+      "translation": "بقيت أصوات تلك الخطوات معي لفترة طويلة."
+    },
+    {
+      "id": 65,
+      "text": "I wanted to keep hearing them over and over in my head.",
+      "translation": "أردت أن أستمر في سماعها مراراً وتكراراً في رأسي."
+    },
+    {
+      "id": 66,
+      "text": "They were a reminder of my very pleasant visitor.",
+      "translation": "كانت تذكيراً بزائري اللطيف جداً."
+    },
+    {
+      "id": 67,
+      "text": "CHAPTER TWO",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 68,
+      "text": "Jewels in the Sky",
+      "translation": "جواهر في السماء"
+    },
+    {
+      "id": 69,
+      "text": "After she left, I went about my work.",
+      "translation": "بعد أن رحلت، عدت إلى عملي."
+    },
+    {
+      "id": 70,
+      "text": "Night time came very quickly, and I prepared for the evening.",
+      "translation": "جاء الليل بسرعة كبيرة، واستعددت للمساء."
+    },
+    {
+      "id": 71,
+      "text": "I brought the flocks of sheep to the fields that were close to where I slept.",
+      "translation": "أحضرت قطعان الخراف إلى الحقول القريبة من المكان الذي أنام فيه."
+    },
+    {
+      "id": 72,
+      "text": "As I was finishing my chores, I heard a voice come from below near my dwelling.",
+      "translation": "بينما كنت أنهي أعمالي، سمعت صوتاً يأتي من الأسفل بالقرب من مسكني."
+    },
+    {
+      "id": 73,
+      "text": "My Master's daughter had returned and she was shaking, cold, and wet.",
+      "translation": "كانت ابنة سيدي قد عادت وكانت ترتجف، باردة ومبللة."
+    },
+    {
+      "id": 74,
+      "text": "In a trembling voice, she said, 'On the way to the lowlands, there is the river as you know.'",
+      "translation": "قالت بصوت مرتجف: \"في الطريق إلى الأراضي المنخفضة، هناك النهر كما تعلم.\""
+    },
+    {
+      "id": 75,
+      "text": "Well, the water from the storm has flooded the river.",
+      "translation": "حسناً، لقد أغرق ماء العاصفة النهر."
+    },
+    {
+      "id": 76,
+      "text": "I tried to get across, but I feared I would drown. I didn't know what to do.",
+      "translation": "حاولت العبور، لكنني خشيت أن أغرق. لم أعرف ماذا أفعل."
+    },
+    {
+      "id": 77,
+      "text": "I knew I could not get across the river. So I just returned here.'",
+      "translation": "عرفت أنني لا أستطيع عبور النهر. فعدت إلى هنا فقط.\""
+    },
+    {
+      "id": 78,
+      "text": "She was in a terrible situation.",
+      "translation": "كانت في موقف مروع."
+    },
+    {
+      "id": 79,
+      "text": "I thought, 'No one will come here searching for her. And I cannot leave the flocks to take her home.'",
+      "translation": "فكرت: \"لن يأتي أحد إلى هنا بحثاً عنها. ولا أستطيع ترك القطعان لأخذها إلى المنزل.\""
+    },
+    {
+      "id": 80,
+      "text": "I was very worried. I didn't know what to do.",
+      "translation": "كنت قلقاً جداً. لم أعرف ماذا أفعل."
+    },
+    {
+      "id": 81,
+      "text": "It wasn't right for her to spend the night on the mountain.",
+      "translation": "لم يكن صحيحاً أن تمضي الليل على الجبل."
+    },
+    {
+      "id": 82,
+      "text": "But then I thought, 'The nights in July are short. It is only one night.'",
+      "translation": "لكنني فكرت بعد ذلك: \"الليالي في يوليو قصيرة. إنها ليلة واحدة فقط.\""
+    },
+    {
+      "id": 83,
+      "text": "I very quickly lit a fire so that she could dry her feet and dress.",
+      "translation": "أشعلت ناراً بسرعة كبيرة لتجفف قدميها وملابسها."
+    },
+    {
+      "id": 84,
+      "text": "I also prepared some food and milk. But she was not interested in eating or getting dry.",
+      "translation": "حضرت أيضاً بعض الطعام والحليب. لكنها لم تكن مهتمة بالأكل أو الجفاف."
+    },
+    {
+      "id": 85,
+      "text": "She burst into tears and I almost felt like crying, too.",
+      "translation": "انفجرت في البكاء وكدت أشعر بالبكاء أيضاً."
+    },
+    {
+      "id": 86,
+      "text": "It was completely dark outside now. There was not even a hint of sunset left in the sky.",
+      "translation": "كان الظلام دامساً في الخارج الآن. لم يكن هناك حتى أثر لغروب الشمس في السماء."
+    },
+    {
+      "id": 87,
+      "text": "I urged my Master's daughter to go into the dwelling and rest.",
+      "translation": "حثثت ابنة سيدي على الدخول إلى المسكن والراحة."
+    },
+    {
+      "id": 88,
+      "text": "I put down a new sheepskin for her to rest on.",
+      "translation": "وضعت جلد غنم جديداً لترتاح عليه."
+    },
+    {
+      "id": 89,
+      "text": "We said goodnight, and I went outside.",
+      "translation": "قلنا تصبحين على خير، وخرجت."
+    },
+    {
+      "id": 90,
+      "text": "I sat down in the front door entrance.",
+      "translation": "جلست في مدخل الباب الأمامي."
+    },
+    {
+      "id": 91,
+      "text": "I tried to think of things other than the young lady who was resting in my house.",
+      "translation": "حاولت التفكير في أشياء أخرى غير الشابة التي كانت ترتاح في منزلي."
+    },
+    {
+      "id": 92,
+      "text": "I felt proud that I had been given the great responsibility of watching over such a precious person.",
+      "translation": "شعرت بالفخر لأنني أُعطيت المسؤولية الكبيرة لحراسة شخص ثمين كهذا."
+    },
+    {
+      "id": 93,
+      "text": "She was more valuable than any of the creatures that I was entrusted to watch over.",
+      "translation": "كانت أكثر قيمة من أي من المخلوقات التي أُوكلت إليّ حراستها."
+    },
+    {
+      "id": 94,
+      "text": "I was happy, and I thought, 'The stars look more beautiful than ever tonight.'",
+      "translation": "كنت سعيداً، وفكرت: \"تبدو النجوم الليلة أجمل من أي وقت مضى.\""
+    },
+    {
+      "id": 95,
+      "text": "Just as I finished my thought, the young lady appeared behind me.",
+      "translation": "وبينما أنهيت فكرتي، ظهرت الشابة خلفي."
+    },
+    {
+      "id": 96,
+      "text": "'I cannot sleep,' she told me. 'The animals are quite noisy outside. I think that I would like to sit by the fire.'",
+      "translation": "\"لا أستطيع النوم،\" أخبرتني. \"الحيوانات صاخبة جداً في الخارج. أعتقد أنني أود الجلوس بجانب النار.\""
+    },
+    {
+      "id": 97,
+      "text": "She sat down by the fire, and I gave her the goatskin which I had wrapped around me.",
+      "translation": "جلست بجانب النار، وأعطيتها جلد الماعز الذي كنت ملفوفاً به."
+    },
+    {
+      "id": 98,
+      "text": "I stirred the embers of the fire, and it quickly became very warm. We sat by the fire in silence.",
+      "translation": "حركت جمر النار، وسرعان ما أصبحت دافئة جداً. جلسنا بجانب النار في صمت."
+    },
+    {
+      "id": 99,
+      "text": "It was a much more beautiful night because a beautiful star sat beside me.",
+      "translation": "كانت ليلة أجمل بكثير لأن نجمة جميلة جلست بجانبي."
+    },
+    {
+      "id": 100,
+      "text": "That night, every creature seemed to come alive.",
+      "translation": "في تلك الليلة، بدا كل مخلوق ينبض بالحياة."
+    },
+    {
+      "id": 101,
+      "text": "Perhaps they wanted to witness the beautiful star, too.",
+      "translation": "ربما أرادوا هم أيضاً أن يشهدوا النجمة الجميلة."
+    },
+    {
+      "id": 102,
+      "text": "The frogs and the insects sang so much louder.",
+      "translation": "غنت الضفادع والحشرات بصوت أعلى بكثير."
+    },
+    {
+      "id": 103,
+      "text": "The light of the fire shone even more brilliantly in the pond.",
+      "translation": "أضاء ضوء النار بشكل أكثر إشراقاً في البركة."
+    },
+    {
+      "id": 104,
+      "text": "There was an unmistakable freshness to the night.",
+      "translation": "كان هناك انتعاش لا لبس فيه في الليلة."
+    },
+    {
+      "id": 105,
+      "text": "Perhaps it was because of the storm.",
+      "translation": "ربما كان ذلك بسبب العاصفة."
+    },
+    {
+      "id": 106,
+      "text": "But I wanted to believe it was because the Master's daughter was there with me that night.",
+      "translation": "لكنني أردت أن أعتقد أنه كان لأن ابنة سيدي كانت هناك معي تلك الليلة."
+    },
+    {
+      "id": 107,
+      "text": "I looked at her, and I noticed that she was shivering.",
+      "translation": "نظرت إليها، ولاحظت أنها كانت ترتجف."
+    },
+    {
+      "id": 108,
+      "text": "Some noises in the night frightened her, and she moved closer to me.",
+      "translation": "أخافتها بعض الأصوات في الليل، فاقتربت مني أكثر."
+    },
+    {
+      "id": 109,
+      "text": "In the distant sky, we saw the most beautiful shooting star.",
+      "translation": "في السماء البعيدة، رأينا أجمل شهاب."
+    },
+    {
+      "id": 110,
+      "text": "It darted through the sky and quickly vanished.",
+      "translation": "انطلق عبر السماء وتلاشى بسرعة."
+    },
+    {
+      "id": 111,
+      "text": "'What was that?' the young lady asked me.",
+      "translation": "\"ما كان ذلك؟\" سألتني الشابة."
+    },
+    {
+      "id": 112,
+      "text": "'It is a soul which has just been taken to heaven,' I told her.",
+      "translation": "\"إنها روح تم أخذها للتو إلى السماء،\" أخبرتها."
+    },
+    {
+      "id": 113,
+      "text": "'You are very different from other young men,' she said.",
+      "translation": "\"أنت مختلف جداً عن الشباب الآخرين،\" قالت."
+    },
+    {
+      "id": 114,
+      "text": "'I am sure I am just like other ordinary men. But my life is very different here. I live very closely to the stars.'",
+      "translation": "\"أنا متأكد أنني مثل أي رجل عادي آخر. لكن حياتي مختلفة جداً هنا. أنا أعيش قريباً جداً من النجوم.\""
+    },
+    {
+      "id": 115,
+      "text": "I know more about what happens up there than I do about what happens on the plains.'",
+      "translation": "أعرف أكثر عما يحدث هناك في الأعلى مما أعرف عما يحدث في السهول.\""
+    },
+    {
+      "id": 116,
+      "text": "The young lady looked at me with her head in her hand.",
+      "translation": "نظرت إليّ الشابة ورأسها في يدها."
+    },
+    {
+      "id": 117,
+      "text": "The goatskin was wrapped around her. She looked like a divine shepherd!",
+      "translation": "كان جلد الماعز ملفوفاً حولها. بدت مثل راعية إلهية!"
+    },
+    {
+      "id": 118,
+      "text": "'There is another one,' she exclaimed, pointing to another shooting star.",
+      "translation": "\"هناك واحد آخر،\" صرخت، مشيرة إلى شهاب آخر."
+    },
+    {
+      "id": 119,
+      "text": "'I have never seen so many beautiful stars in my life. Do you know the names of the stars?'",
+      "translation": "\"لم أرَ يوماً هذا العدد من النجوم الجميلة في حياتي. هل تعرف أسماء النجوم؟\""
+    },
+    {
+      "id": 120,
+      "text": "'Indeed I do, mistress!' I replied.",
+      "translation": "\"بالتأكيد أعرفها يا سيدتي!\" ردت."
+    },
+    {
+      "id": 121,
+      "text": "'Look up there! Can you see that? That is the Milky Way. And look at that.'",
+      "translation": "\"انظري إلى هناك! هل ترين ذلك؟ هذا درب التبانة. وانظري إلى ذلك.\""
+    },
+    {
+      "id": 122,
+      "text": "Let's imagine that is France! You can see that it goes all the way to Spain. Many military men have used the stars to help them find their way to battle.",
+      "translation": "لنتخيل أن ذلك فرنسا! يمكنك أن تري أنها تمتد حتى إسبانيا. العديد من العسكريين استخدموا النجوم لمساعدتهم في إيجاد طريقهم إلى المعركة."
+    },
+    {
+      "id": 123,
+      "text": "Jacques de Galice is one such man. The Milky Way helped him find his way during the war with the Buckwheats!'",
+      "translation": "جاك دي غاليس هو أحد هؤلاء الرجال. ساعده درب التبانة في إيجاد طريقه خلال الحرب مع البكويتس!\""
+    },
+    {
+      "id": 124,
+      "text": "I continued to tell her about the stars.",
+      "translation": "واصلت إخبارها عن النجوم."
+    },
+    {
+      "id": 125,
+      "text": "'Look over there! Can you see that group of stars? That is the Tank of Hearts.'",
+      "translation": "\"انظري هناك! هل ترين تلك المجموعة من النجوم؟ هذا خزان القلوب.\""
+    },
+    {
+      "id": 126,
+      "text": "If you look closely, you can see that it looks like it has four axles.",
+      "translation": "إذا نظرتِ عن كثب، يمكنك أن تري أنه يبدو وكأن له أربعة محاور."
+    },
+    {
+      "id": 127,
+      "text": "Then, just in front of it, there are three stars. Can you see them?",
+      "translation": "ثم، أمامه مباشرة، هناك ثلاثة نجوم. هل ترينها؟"
+    },
+    {
+      "id": 128,
+      "text": "They are the Three Animals. And over there is the Rake.",
+      "translation": "إنها الحيوانات الثلاثة. وهناك في الأفق هو المشط."
+    },
+    {
+      "id": 129,
+      "text": "Many people also know it as Orion or the Three Kings.",
+      "translation": "يعرفه الكثيرون أيضاً باسم الجبار أو الملوك الثلاثة."
+    },
+    {
+      "id": 130,
+      "text": "For people who live alone in the mountains like me, we use it as a clock.",
+      "translation": "بالنسبة للأشخاص الذين يعيشون وحدهم في الجبال مثلي، نستخدمه كساعة."
+    },
+    {
+      "id": 131,
+      "text": "'Right now, I can tell that it is already midnight.'",
+      "translation": "\"الآن، يمكنني أن أقول إنه منتصف الليل بالفعل.\""
+    },
+    {
+      "id": 132,
+      "text": "'Look over there. That is the south. You can see a group of stars.'",
+      "translation": "\"انظري هناك. ذلك هو الجنوب. يمكنك أن تري مجموعة من النجوم.\""
+    },
+    {
+      "id": 133,
+      "text": "Some people call it Jean de Milan. Others know it as the torch of the stars.'",
+      "translation": "يسميها بعض الناس جان دي ميلان. ويعرفها آخرون بمشعل النجوم.\""
+    },
+    {
+      "id": 134,
+      "text": "'Many shepherds tell a story about those stars.'",
+      "translation": "\"يروي العديد من الرعاة قصة عن تلك النجوم.\""
+    },
+    {
+      "id": 135,
+      "text": "In the story, Jean de Milan, together with the Three Kings and the star known as the Pleiad are invited to the wedding of a friend, who is also a star.",
+      "translation": "في القصة، جان دي ميلان، مع الملوك الثلاثة والنجم المعروف باسم الثريا مدعوون إلى حفل زفاف صديق، هو أيضاً نجم."
+    },
+    {
+      "id": 136,
+      "text": "However, the Pleiad leaves the wedding very quickly.",
+      "translation": "لكن الثريا تترك حفل الزفاف بسرعة كبيرة."
+    },
+    {
+      "id": 137,
+      "text": "You can see that path there in the sky. That is the high way and the Pleiad followed that path.",
+      "translation": "يمكنك أن تري ذلك المسار هناك في السماء. ذلك هو الطريق العالي والثريا اتبعت ذلك المسار."
+    },
+    {
+      "id": 138,
+      "text": "The Three Kings caught up to the Pleiad by going along the low way.",
+      "translation": "لحق الملوك الثلاثة بالثريا بالسير على الطريق المنخفض."
+    },
+    {
+      "id": 139,
+      "text": "Jean de Milan was very lazy. It had fallen asleep and was left at the wedding.",
+      "translation": "كان جان دي ميلان كسولاً جداً. لقد نام وتُرك في حفل الزفاف."
+    },
+    {
+      "id": 140,
+      "text": "When it woke up, it was extremely angry and threw a stick at the Three Kings.",
+      "translation": "عندما استيقظ، كان غاضباً للغاية وألقى عصا على الملوك الثلاثة."
+    },
+    {
+      "id": 141,
+      "text": "Because of that, the Three Kings are also known as the Stick of Jean de Milan.",
+      "translation": "وبسبب ذلك، يُعرف الملوك الثلاثة أيضاً بعصا جان دي ميلان."
+    },
+    {
+      "id": 142,
+      "text": "They are all beautiful stars. However, the evening star is the most beautiful.",
+      "translation": "كلها نجوم جميلة. لكن نجمة المساء هي الأجمل."
+    },
+    {
+      "id": 143,
+      "text": "It is the first star to come out at night. It is a shepherd's friend in the sky,' I said.",
+      "translation": "إنها أول نجمة تظهر في الليل. إنها صديق الراعي في السماء،\" قلت."
+    },
+    {
+      "id": 144,
+      "text": "'Shepherds also have another name for that glorious star. The name is Maguelonne.'",
+      "translation": "\"للرعاة أيضاً اسم آخر لتلك النجمة المجيدة. الاسم هو ماغيلون.\""
+    },
+    {
+      "id": 145,
+      "text": "It means the one who pursues Saturn and weds him every seven years.'",
+      "translation": "إنه يعني تلك التي تطارد زحل وتتزوجه كل سبع سنوات.\""
+    },
+    {
+      "id": 146,
+      "text": "'The stars can marry!' she exclaimed.",
+      "translation": "\"النجوم يمكن أن تتزوج!\" صرخت."
+    },
+    {
+      "id": 147,
+      "text": "'Yes, they certainly can,' I replied.",
+      "translation": "\"نعم، بالتأكيد يمكنها ذلك،\" ردت."
+    },
+    {
+      "id": 148,
+      "text": "Just as I was about to explain this to her, I felt something on my shoulder.",
+      "translation": "وبينما كنت على وشك شرح هذا لها، شعرت بشيء على كتفي."
+    },
+    {
+      "id": 149,
+      "text": "I turned and saw her. She had laid her head upon my shoulder.",
+      "translation": "استدرت ورأيتها. كانت قد وضعت رأسها على كتفي."
+    },
+    {
+      "id": 150,
+      "text": "In the cool breeze, the ribbons and the lace in her hair danced and it was the most enchanting sight.",
+      "translation": "في النسيم البارد، رقصت الأشرطة والدانتيل في شعرها وكان المنظر الأكثر سحراً."
+    },
+    {
+      "id": 151,
+      "text": "She fell asleep on my shoulder, and we stayed like that until the first rays of dawn appeared.",
+      "translation": "نامت على كتفي، وبقينا هكذا حتى ظهرت أول أشعة الفجر."
+    },
+    {
+      "id": 152,
+      "text": "I wanted that night to last forever.",
+      "translation": "أردت لتلك الليلة أن تدوم إلى الأبد."
+    },
+    {
+      "id": 153,
+      "text": "The memory of it is one of my greatest treasures. She slept, and the night was still except for a faint breeze.",
+      "translation": "ذكراها هي واحدة من أعظم كنوزي. نامت، وكانت الليلة ساكنة إلا من نسيم خفيف."
+    },
+    {
+      "id": 154,
+      "text": "The stars sparkled in the sky, and I imagined that the most magnificent one had lost her way in the sky and was now resting on my shoulder.",
+      "translation": "تلألأت النجوم في السماء، وتخيلت أن أروعها قد ضلّت طريقها في السماء وهي الآن ترتاح على كتفي."
+    },
+    {
+      "id": 155,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 156,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 157,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
