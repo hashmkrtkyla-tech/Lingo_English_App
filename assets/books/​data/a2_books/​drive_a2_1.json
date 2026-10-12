@@ -1,14 +1,2033 @@
 {
-  "id": "a2_drive_1",
-  "title": "A2 Elementary Story 1",
-  "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1MwU6g-1qH-FDeaBnP5uPwhjZieBCr8K_",
+  "id": "b1_stephen_hawking",
+  "title": "Stephen Hawking",
+  "level": "B1",
+  "audio_url": "assets/books/audio/b1_books/Stephen_Hawking.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Welcome to elementary level audiobooks for English learners.",
-      "translation": "مرحباً بكم في الكتب الصوتية للمستوى الابتدائي لمتعلمي الإنجليزية."
+      "id": 1,
+      "text": "Stephen Hawking",
+      "translation": "ستيفن هوكينغ"
+    },
+    {
+      "id": 2,
+      "text": "CHAPTER ONE",
+      "translation": "الفصل الأول"
+    },
+    {
+      "id": 3,
+      "text": "Scientist and Thinker",
+      "translation": "عالم ومفكر"
+    },
+    {
+      "id": 4,
+      "text": "It is April 2015, and hundreds of people - young and old - are sitting in the famous Sydney Opera House in Australia.",
+      "translation": "إنه أبريل 2015، ومئات الأشخاص - صغاراً وكباراً - يجلسون في دار أوبرا سيدني الشهيرة في أستراليا."
+    },
+    {
+      "id": 5,
+      "text": "Great singers often come to the Opera House, but the people here tonight have not come to listen to music.",
+      "translation": "غالباً ما يأتي المطربون العظماء إلى دار الأوبرا، لكن الناس هنا الليلة لم يأتوا للاستماع إلى الموسيقى."
+    },
+    {
+      "id": 6,
+      "text": "They have paid a lot of money for tickets to hear a talk by a scientist - and there is not an empty seat in the room.",
+      "translation": "لقد دفعوا الكثير من المال مقابل تذاكر لحضور محاضرة لعالم - ولا يوجد مقعد فارغ في القاعة."
+    },
+    {
+      "id": 7,
+      "text": "Everyone is excited when they see the world-famous scientist who is going to speak.",
+      "translation": "الجميع متحمسون عندما يرون العالم المشهور عالمياً الذي سيتحدث."
+    },
+    {
+      "id": 8,
+      "text": "It is Stephen Hawking, but he is not really here.",
+      "translation": "إنه ستيفن هوكينغ، لكنه ليس هنا حقاً."
+    },
+    {
+      "id": 9,
+      "text": "There is a hologram of him in the Opera House - a special picture of him that looks real!",
+      "translation": "هناك صورة ثلاثية الأبعاد له في دار الأوبرا - صورة خاصة له تبدو حقيقية!"
+    },
+    {
+      "id": 10,
+      "text": "Stephen Hawking himself is thousands of kilometres away in Cambridge, England.",
+      "translation": "ستيفن هوكينغ نفسه على بعد آلاف الكيلومترات في كامبريدج، إنجلترا."
+    },
+    {
+      "id": 11,
+      "text": "He sits in his wheelchair.",
+      "translation": "يجلس في كرسيه المتحرك."
+    },
+    {
+      "id": 12,
+      "text": "His body is still because he can only move his eyes and face, and he can only speak through a computer.",
+      "translation": "جسده ساكن لأنه يستطيع تحريك عينيه ووجهه فقط، ولا يستطيع التحدث إلا من خلال جهاز كمبيوتر."
+    },
+    {
+      "id": 13,
+      "text": "'Hello, can you hear me?' he asks the crowd.",
+      "translation": "\"مرحباً، هل يمكنكم سماعي؟\" يسأل الجمهور."
+    },
+    {
+      "id": 14,
+      "text": "'Yes!' they shout excitedly.",
+      "translation": "\"نعم!\" يصرخون بحماس."
+    },
+    {
+      "id": 15,
+      "text": "Stephen Hawking is one of the greatest thinkers of our time.",
+      "translation": "ستيفن هوكينغ هو أحد أعظم المفكرين في عصرنا."
+    },
+    {
+      "id": 16,
+      "text": "That evening in Sydney, he talks about his life and his ideas, and he also tells funny stories.",
+      "translation": "في ذلك المساء في سيدني، يتحدث عن حياته وأفكاره، ويروي أيضاً قصصاً مضحكة."
+    },
+    {
+      "id": 17,
+      "text": "At the end, when people leave the Opera House, they talk about their wonderful evening.",
+      "translation": "في النهاية، عندما يغادر الناس دار الأوبرا، يتحدثون عن أمسيتهم الرائعة."
+    },
+    {
+      "id": 18,
+      "text": "They have laughed with Stephen Hawking, and they have also thought about some very big questions.",
+      "translation": "لقد ضحكوا مع ستيفن هوكينغ، وفكروا أيضاً في بعض الأسئلة الكبيرة جداً."
+    },
+    {
+      "id": 19,
+      "text": "Why are we here? Where did the universe come from? Does time have a beginning and an end?",
+      "translation": "لماذا نحن هنا؟ من أين جاء الكون؟ هل للزمن بداية ونهاية؟"
+    },
+    {
+      "id": 20,
+      "text": "Stephen Hawking always tries to answer these questions, not just for scientists, but for ordinary listeners, too.",
+      "translation": "يحاول ستيفن هوكينغ دائماً الإجابة على هذه الأسئلة، ليس فقط للعلماء، بل للمستمعين العاديين أيضاً."
+    },
+    {
+      "id": 21,
+      "text": "Because he tries to explain things for people, and because of his great life story, he has become a star.",
+      "translation": "لأنه يحاول شرح الأشياء للناس، وبسبب قصة حياته العظيمة، أصبح نجماً."
+    },
+    {
+      "id": 22,
+      "text": "Stephen Hawking has had to use a wheelchair for most of his life - and today, he cannot move, eat, or speak without help.",
+      "translation": "اضطر ستيفن هوكينغ لاستخدام كرسي متحرك معظم حياته - واليوم، لا يستطيع الحركة أو الأكل أو التحدث دون مساعدة."
+    },
+    {
+      "id": 23,
+      "text": "So how does he live and work from day to day? When did he become famous? And what are his most important ideas?",
+      "translation": "إذن كيف يعيش ويعمل يوماً بيوم؟ متى أصبح مشهوراً؟ وما هي أهم أفكاره؟"
+    },
+    {
+      "id": 24,
+      "text": "CHAPTER TWO",
+      "translation": "الفصل الثاني"
+    },
+    {
+      "id": 25,
+      "text": "Early Years",
+      "translation": "السنوات المبكرة"
+    },
+    {
+      "id": 26,
+      "text": "Stephen William Hawking was born in Oxford, England, on 8th January 1942.",
+      "translation": "وُلد ستيفن ويليام هوكينغ في أكسفورد، إنجلترا، في 8 يناير 1942."
+    },
+    {
+      "id": 27,
+      "text": "On that same day, some people were remembering the death three hundred years earlier of another great man who studied the night sky, Galileo Galilei.",
+      "translation": "في ذلك اليوم نفسه، كان بعض الناس يتذكرون وفاة رجل عظيم آخر درس سماء الليل قبل ثلاثمائة عام، غاليليو غاليلي."
+    },
+    {
+      "id": 28,
+      "text": "Stephen was the oldest of four children - he had two sisters and a much younger brother.",
+      "translation": "كان ستيفن الأكبر بين أربعة أطفال - كان لديه أختان وأخ أصغر منه بكثير."
+    },
+    {
+      "id": 29,
+      "text": "His father Frank was a doctor and scientist who studied diseases.",
+      "translation": "كان والده فرانك طبيباً وعالماً درس الأمراض."
+    },
+    {
+      "id": 30,
+      "text": "Stephen's father and his mother Isobel both had degrees from Oxford University, one of the best universities in the world.",
+      "translation": "كان والد ستيفن ووالدته إيزوبيل حاصلين على شهادات من جامعة أكسفورد، إحدى أفضل الجامعات في العالم."
+    },
+    {
+      "id": 31,
+      "text": "They were a very clever family, and the Hawkings often all sat and read books at the table while they were eating dinner.",
+      "translation": "كانوا عائلة ذكية جداً، وغالباً ما كان آل هوكينغ يجلسون جميعاً ويقرؤون الكتب على الطاولة أثناء تناول العشاء."
+    },
+    {
+      "id": 32,
+      "text": "The family home during Stephen's earliest years was in Highgate, north London - Stephen was only born in Oxford because Britain was at war with Germany at that time, and people thought that London was too dangerous for babies.",
+      "translation": "كان منزل العائلة خلال سنوات ستيفن الأولى في هايغيت، شمال لندن - وُلد ستيفن في أكسفورد فقط لأن بريطانيا كانت في حالة حرب مع ألمانيا في ذلك الوقت، وكان الناس يعتقدون أن لندن خطيرة جداً على الأطفال."
+    },
+    {
+      "id": 33,
+      "text": "A few years after the war, when Stephen was eight years old, the family moved to St Albans, a small town about 30 kilometres north of London.",
+      "translation": "بعد بضع سنوات من الحرب، عندما كان ستيفن في الثامنة من عمره، انتقلت العائلة إلى سانت ألبانز، بلدة صغيرة على بعد حوالي 30 كيلومتراً شمال لندن."
+    },
+    {
+      "id": 34,
+      "text": "The Hawkings' house in St Albans was big, old, and very cold in winter, but Stephen loved it.",
+      "translation": "كان منزل آل هوكينغ في سانت ألبانز كبيراً وقديماً وبارداً جداً في الشتاء، لكن ستيفن أحبه."
+    },
+    {
+      "id": 35,
+      "text": "He and his sister Mary liked to find lots of different ways into their house.",
+      "translation": "كان هو وأخته ماري يحبان إيجاد طرق مختلفة كثيرة للدخول إلى منزلهما."
+    },
+    {
+      "id": 36,
+      "text": "They often climbed up the outside and then went in through open windows.",
+      "translation": "كانا غالباً ما يتسلقان من الخارج ثم يدخلان عبر النوافذ المفتوحة."
+    },
+    {
+      "id": 37,
+      "text": "Stephen was a good climber, and he sometimes climbed trees, too.",
+      "translation": "كان ستيفن متسلقاً جيداً، وكان أحياناً يتسلق الأشجار أيضاً."
+    },
+    {
+      "id": 38,
+      "text": "His mother Isobel often took her children out into the garden at night.",
+      "translation": "غالباً ما كانت والدته إيزوبيل تأخذ أطفالها إلى الحديقة ليلاً."
+    },
+    {
+      "id": 39,
+      "text": "On warm summer evenings, they lay on their backs and looked up at the night sky.",
+      "translation": "في أمسيات الصيف الدافئة، كانوا يستلقون على ظهورهم وينظرون إلى سماء الليل."
+    },
+    {
+      "id": 40,
+      "text": "Even then, Stephen was very interested in the stars.",
+      "translation": "حتى ذلك الحين، كان ستيفن مهتماً جداً بالنجوم."
+    },
+    {
+      "id": 41,
+      "text": "He also liked to ride bicycles, dance, and play tennis.",
+      "translation": "كان يحب أيضاً ركوب الدراجات والرقص ولعب التنس."
+    },
+    {
+      "id": 42,
+      "text": "Stephen liked to understand how things worked, and he often built little aeroplanes and boats.",
+      "translation": "كان ستيفن يحب فهم كيفية عمل الأشياء، وغالباً ما كان يبني طائرات وقوارب صغيرة."
+    },
+    {
+      "id": 43,
+      "text": "Nobody had computers at home or school in those days, but when Stephen was sixteen, he and some school friends built a computer from pieces of old machines.",
+      "translation": "لم يكن لدى أحد أجهزة كمبيوتر في المنزل أو المدرسة في تلك الأيام، ولكن عندما كان ستيفن في السادسة عشرة، قام هو وبعض أصدقاء المدرسة ببناء جهاز كمبيوتر من قطع من آلات قديمة."
+    },
+    {
+      "id": 44,
+      "text": "It was not very good, but they could use it to do mathematics problems.",
+      "translation": "لم يكن جيداً جداً، لكنهم استخدموه لحل مسائل الرياضيات."
+    },
+    {
+      "id": 45,
+      "text": "Stephen did not like school very much, but he had some good friends there.",
+      "translation": "لم يحب ستيفن المدرسة كثيراً، لكن كان لديه بعض الأصدقاء الجيدين هناك."
+    },
+    {
+      "id": 46,
+      "text": "They enjoyed talking together about things like science and music.",
+      "translation": "كانوا يستمتعون بالتحدث معاً عن أشياء مثل العلم والموسيقى."
+    },
+    {
+      "id": 47,
+      "text": "Stephen's friends called him 'Einstein' because he was so clever.",
+      "translation": "أطلق أصدقاء ستيفن عليه لقب 'أينشتاين' لأنه كان ذكياً جداً."
+    },
+    {
+      "id": 48,
+      "text": "His teachers knew that he was clever, too, but he was always laughing and making jokes at school, and he did not work very hard.",
+      "translation": "عرف معلموه أنه ذكي أيضاً، لكنه كان دائماً يضحك ويمزح في المدرسة، ولم يكن يعمل بجد."
+    },
+    {
+      "id": 49,
+      "text": "He was not a good student!",
+      "translation": "لم يكن طالباً جيداً!"
+    },
+    {
+      "id": 50,
+      "text": "Stephen began to work harder in his last year at school because he wanted to study science at Oxford University.",
+      "translation": "بدأ ستيفن العمل بجدية أكبر في عامه الأخير في المدرسة لأنه أراد دراسة العلوم في جامعة أكسفورد."
+    },
+    {
+      "id": 51,
+      "text": "He became a student there, at University College, when he was only seventeen years old.",
+      "translation": "أصبح طالباً هناك، في كلية الجامعة، عندما كان في السابعة عشرة من عمره فقط."
+    },
+    {
+      "id": 52,
+      "text": "He studied physics for his degree.",
+      "translation": "درس الفيزياء للحصول على شهادته."
+    },
+    {
+      "id": 53,
+      "text": "Physics is very difficult to understand for most people, but it was easy for Stephen, so he did not have to work as hard as many other students.",
+      "translation": "من الصعب جداً فهم الفيزياء لمعظم الناس، لكنها كانت سهلة على ستيفن، لذلك لم يكن مضطراً للعمل بجد مثل العديد من الطلاب الآخرين."
+    },
+    {
+      "id": 54,
+      "text": "And Stephen did not need to write a lot of notes, because he could remember things very easily.",
+      "translation": "ولم يكن ستيفن بحاجة لكتابة الكثير من الملاحظات، لأنه كان يتذكر الأشياء بسهولة بالغة."
+    },
+    {
+      "id": 55,
+      "text": "Stephen was younger than many of the other Oxford students, and he felt lonely at first, but that changed when he discovered rowing.",
+      "translation": "كان ستيفن أصغر من العديد من طلاب أكسفورد الآخرين، وشعر بالوحدة في البداية، لكن ذلك تغير عندما اكتشف التجديف."
+    },
+    {
+      "id": 56,
+      "text": "Stephen was the cox: he did not row, but he sat at the front of the boat and told the rowers to go faster or slower, left or right.",
+      "translation": "كان ستيفن قائد القارب (الكوكس): لم يكن يجدف، لكنه جلس في مقدمة القارب وأخبر المجدفين بالتحرك بشكل أسرع أو أبطأ، يساراً أو يميناً."
+    },
+    {
+      "id": 57,
+      "text": "Stephen wanted his rowing team to go faster than the other teams, so he often did dangerous things to go past their boats.",
+      "translation": "أراد ستيفن أن يتقدم فريقه في التجديف بشكل أسرع من الفرق الأخرى، لذلك كان غالباً ما يقوم بأشياء خطيرة لتجاوز قواربهم."
+    },
+    {
+      "id": 58,
+      "text": "He sometimes took his team's boat very near to other boats, and even hit them!",
+      "translation": "كان أحياناً يقترب بقارب فريقه كثيراً من القوارب الأخرى، بل ويصطدم بها!"
+    },
+    {
+      "id": 59,
+      "text": "After a difficult start, Stephen had a great time at Oxford.",
+      "translation": "بعد بداية صعبة، قضى ستيفن وقتاً رائعاً في أكسفورد."
+    },
+    {
+      "id": 60,
+      "text": "He had many friends in the rowing team, and he liked to listen to music with them and go to dances.",
+      "translation": "كان لديه العديد من الأصدقاء في فريق التجديف، وكان يحب الاستماع إلى الموسيقى معهم والذهاب إلى الرقصات."
+    },
+    {
+      "id": 61,
+      "text": "Stephen often stayed out with his friends late at night, and had to climb over the walls to go back to his room because his college closed its doors at midnight.",
+      "translation": "غالباً ما كان ستيفن يبقى خارج المنزل مع أصدقائه حتى وقت متأخر من الليل، وكان عليه التسلق فوق الجدران للعودة إلى غرفته لأن كليته كانت تغلق أبوابها في منتصف الليل."
+    },
+    {
+      "id": 62,
+      "text": "Stephen left Oxford University in 1962 with a very good degree, so he decided to go to Cambridge University and study for a PhD.",
+      "translation": "ترك ستيفن جامعة أكسفورد في عام 1962 بدرجة ممتازة، فقرر الذهاب إلى جامعة كامبريدج لدراسة الدكتوراه."
+    },
+    {
+      "id": 63,
+      "text": "A PhD is a higher university degree, and anyone who wants to become an important scientist or teach at a university needs to get one.",
+      "translation": "الدكتوراه هي درجة جامعية أعلى، وأي شخص يريد أن يصبح عالماً مهماً أو يدرس في جامعة يحتاج إلى الحصول عليها."
+    },
+    {
+      "id": 64,
+      "text": "The summer before he went to Cambridge, Stephen travelled across Europe with a friend, in trains and buses, and then went on to Iran.",
+      "translation": "في الصيف قبل ذهابه إلى كامبريدج، سافر ستيفن عبر أوروبا مع صديق، بالقطارات والحافلات، ثم توجه إلى إيران."
+    },
+    {
+      "id": 65,
+      "text": "It was a wonderful journey, and for the first time, Stephen was far away from his family.",
+      "translation": "كانت رحلة رائعة، ولأول مرة، كان ستيفن بعيداً عن عائلته."
+    },
+    {
+      "id": 66,
+      "text": "He could go anywhere and do anything.",
+      "translation": "كان بإمكانه الذهاب إلى أي مكان وفعل أي شيء."
+    },
+    {
+      "id": 67,
+      "text": "He was a happy young man and he had a great life in front of him.",
+      "translation": "كان شاباً سعيداً وكانت أمامه حياة رائعة."
+    },
+    {
+      "id": 68,
+      "text": "But a few months later, everything changed.",
+      "translation": "لكن بعد بضعة أشهر، تغير كل شيء."
+    },
+    {
+      "id": 69,
+      "text": "CHAPTER THREE",
+      "translation": "الفصل الثالث"
+    },
+    {
+      "id": 70,
+      "text": "Marriage",
+      "translation": "الزواج"
+    },
+    {
+      "id": 71,
+      "text": "One day in Stephen's last year at Oxford University, he was walking down some stairs at his college when he suddenly fell.",
+      "translation": "في أحد الأيام في عام ستيفن الأخير في جامعة أكسفورد، كان ينزل بعض الدرج في كليته عندما سقط فجأة."
+    },
+    {
+      "id": 72,
+      "text": "Friends helped him, but for a few minutes, Stephen could not remember who he was or anything about his life.",
+      "translation": "ساعده أصدقاؤه، لكن لبضع دقائق، لم يستطع ستيفن تذكر من هو أو أي شيء عن حياته."
+    },
+    {
+      "id": 73,
+      "text": "The accident worried Stephen, but his doctor did not think that there was anything wrong with him.",
+      "translation": "أقلق الحادث ستيفن، لكن طبيبه لم يعتقد أن هناك أي خطب فيه."
+    },
+    {
+      "id": 74,
+      "text": "Nobody knew that he was really very ill.",
+      "translation": "لم يعلم أحد أنه كان مريضاً جداً حقاً."
+    },
+    {
+      "id": 75,
+      "text": "Stephen started at Cambridge University in October 1962.",
+      "translation": "بدأ ستيفن في جامعة كامبريدج في أكتوبر 1962."
+    },
+    {
+      "id": 76,
+      "text": "He knew that he did not feel right, and his arms and legs were not as strong as before.",
+      "translation": "كان يعلم أنه لا يشعر بحالة جيدة، وأن ذراعيه وساقيه لم تكونا بنفس القوة السابقة."
+    },
+    {
+      "id": 77,
+      "text": "But he tried to forget about these problems and enjoy life.",
+      "translation": "لكنه حاول نسيان هذه المشاكل والاستمتاع بالحياة."
+    },
+    {
+      "id": 78,
+      "text": "For his PhD, Stephen was studying cosmology: how the universe works.",
+      "translation": "في رسالة الدكتوراه، كان ستيفن يدرس علم الكونيات: كيف يعمل الكون."
+    },
+    {
+      "id": 79,
+      "text": "Cambridge was a good place for studying physics because it was home to many great scientists.",
+      "translation": "كانت كامبريدج مكاناً جيداً لدراسة الفيزياء لأنها كانت موطناً للعديد من العلماء العظماء."
+    },
+    {
+      "id": 80,
+      "text": "It was a good place in other ways, too, because there were lots of young people, music, and parties.",
+      "translation": "كانت مكاناً جيداً من نواحٍ أخرى أيضاً، لأن هناك الكثير من الشباب والموسيقى والحفلات."
+    },
+    {
+      "id": 81,
+      "text": "Stephen went home to St Albans for the winter holidays in December 1962.",
+      "translation": "عاد ستيفن إلى منزله في سانت ألبانز لقضاء عطلة الشتاء في ديسمبر 1962."
+    },
+    {
+      "id": 82,
+      "text": "There he saw his family and his old school friends, and he went to a New Year party.",
+      "translation": "هناك رأى عائلته وأصدقاء مدرسته القدامى، وذهب إلى حفلة رأس السنة."
+    },
+    {
+      "id": 83,
+      "text": "At the party, Stephen met a girl called Jane Wilde, and they soon became good friends.",
+      "translation": "في الحفلة، التقى ستيفن بفتاة تُدعى جين وايلد، وسرعان ما أصبحا صديقين جيدين."
+    },
+    {
+      "id": 84,
+      "text": "Stephen was happy, and he looked well, too, but one day that winter, Stephen was outside with his mother when he fell, and could not get up.",
+      "translation": "كان ستيفن سعيداً، وبدا بحالة جيدة أيضاً، لكن في أحد أيام ذلك الشتاء، كان ستيفن بالخارج مع والدته عندما سقط، ولم يستطع النهوض."
+    },
+    {
+      "id": 85,
+      "text": "His mother took him to the doctor, and just after his birthday in January 1963, Stephen went into hospital.",
+      "translation": "أخذته والدته إلى الطبيب، وبعد عيد ميلاده مباشرة في يناير 1963، دخل ستيفن المستشفى."
+    },
+    {
+      "id": 86,
+      "text": "The doctors kept him in hospital for two weeks, and at last, they explained what was wrong: Stephen had a disease called ALS.",
+      "translation": "أبقاه الأطباء في المستشفى لمدة أسبوعين، وأخيراً، شرحوا ما كان الخطأ: كان ستيفن مصاباً بمرض يُدعى التصلب الجانبي الضموري (ALS)."
+    },
+    {
+      "id": 87,
+      "text": "He was only twenty-one, and the doctors thought that he would only live for two more years.",
+      "translation": "كان عمره واحداً وعشرين عاماً فقط، وكان الأطباء يعتقدون أنه سيعيش لمدة عامين آخرين فقط."
+    },
+    {
+      "id": 88,
+      "text": "Not many people get ALS, but it is a terrible disease.",
+      "translation": "لا يصاب الكثير من الناس بمرض التصلب الجانبي الضموري، لكنه مرض مروع."
+    },
+    {
+      "id": 89,
+      "text": "If you have ALS, it slowly becomes harder and harder to move your body.",
+      "translation": "إذا كنت مصاباً بالتصلب الجانبي الضموري، يصبح تحريك جسدك أصعب وأصعب ببطء."
+    },
+    {
+      "id": 90,
+      "text": "First, it becomes difficult to move your arms and legs, and then, after a time, you cannot eat, speak, or move your head.",
+      "translation": "أولاً، يصبح من الصعب تحريك ذراعيك وساقيك، ثم بعد فترة، لا تستطيع الأكل أو التحدث أو تحريك رأسك."
+    },
+    {
+      "id": 91,
+      "text": "Usually, in the end, people with ALS die because they cannot breathe any more.",
+      "translation": "عادة، في النهاية، يموت المصابون بالتصلب الجانبي الضموري لأنهم لا يستطيعون التنفس بعد الآن."
+    },
+    {
+      "id": 92,
+      "text": "When Stephen's mother asked a doctor, 'What can we do to fight the disease?', the answer was 'Nothing'.",
+      "translation": "عندما سألت والدة ستيفن طبيباً: 'ماذا يمكننا أن نفعل لمحاربة المرض؟'، كان الجواب 'لا شيء'."
+    },
+    {
+      "id": 93,
+      "text": "This was a terrible time for Stephen, but he tried to be strong.",
+      "translation": "كان هذا وقتاً مروعاً لستيفن، لكنه حاول أن يكون قوياً."
+    },
+    {
+      "id": 94,
+      "text": "One night, he had a strange dream.",
+      "translation": "في إحدى الليالي، رأى حلماً غريباً."
+    },
+    {
+      "id": 95,
+      "text": "In the dream, some people wanted to kill him, and while he waited for death, Stephen thought about his life.",
+      "translation": "في الحلم، أراد بعض الناس قتله، وبينما كان ينتظر الموت، فكر ستيفن في حياته."
+    },
+    {
+      "id": 96,
+      "text": "Then he knew that he wanted to do lots of things.",
+      "translation": "ثم عرف أنه يريد أن يفعل الكثير من الأشياء."
+    },
+    {
+      "id": 97,
+      "text": "The dream helped Stephen.",
+      "translation": "ساعده الحلم."
+    },
+    {
+      "id": 98,
+      "text": "He knew now that he must not just feel sorry for himself.",
+      "translation": "عرف الآن أنه يجب ألا يشعر بالأسف على نفسه فقط."
+    },
+    {
+      "id": 99,
+      "text": "Perhaps he did not have a lot of time, but in that time, he needed to try and live an ordinary life.",
+      "translation": "ربما لم يكن لديه الكثير من الوقت، لكن في ذلك الوقت، كان بحاجة لمحاولة عيش حياة عادية."
+    },
+    {
+      "id": 100,
+      "text": "So, after some time at home, Stephen went back to Cambridge and began to study for his PhD again.",
+      "translation": "لذلك، بعد بعض الوقت في المنزل، عاد ستيفن إلى كامبريدج وبدأ الدراسة للحصول على درجة الدكتوراه مرة أخرى."
+    },
+    {
+      "id": 101,
+      "text": "That June, Stephen took his friend Jane Wilde to a big summer party in his college, Trinity Hall.",
+      "translation": "في ذلك الشهر من يونيو، أخذ ستيفن صديقته جين وايلد إلى حفلة صيفية كبيرة في كليته، ترينيتي هول."
+    },
+    {
+      "id": 102,
+      "text": "Music played and lights burned in the gardens of the beautiful five-hundred-year-old college.",
+      "translation": "عزفت الموسيقى وأضاءت الأضواء في حدائق الكلية الجميلة التي يبلغ عمرها خمسمائة عام."
+    },
+    {
+      "id": 103,
+      "text": "People laughed, ate, and talked.",
+      "translation": "ضحك الناس وأكلوا وتحدثوا."
+    },
+    {
+      "id": 104,
+      "text": "Stephen could not move very well by then because his legs were not very strong any more.",
+      "translation": "لم يكن ستيفن قادراً على الحركة بشكل جيد بحلول ذلك الوقت لأن ساقيه لم تكونا قويتين جداً بعد الآن."
+    },
+    {
+      "id": 105,
+      "text": "But Stephen and Jane listened to music, and they tried to dance.",
+      "translation": "لكن ستيفن وجين استمعا إلى الموسيقى، وحاولا الرقص."
+    },
+    {
+      "id": 106,
+      "text": "Stephen had blue-grey eyes and a big smile, and Jane liked being with him.",
+      "translation": "كان لدى ستيفن عيون زرقاء رمادية وابتسامة عريضة، وأحبت جين البقاء معه."
+    },
+    {
+      "id": 107,
+      "text": "Stephen liked Jane very much, too.",
+      "translation": "أحب ستيفن جين كثيراً أيضاً."
+    },
+    {
+      "id": 108,
+      "text": "She was clever, funny, and beautiful.",
+      "translation": "كانت ذكية ومضحكة وجميلة."
+    },
+    {
+      "id": 109,
+      "text": "For a few hours that evening, Stephen could try to forget about his troubles and enjoy life.",
+      "translation": "لبضع ساعات في ذلك المساء، تمكن ستيفن من محاولة نسيان متاعبه والاستمتاع بالحياة."
+    },
+    {
+      "id": 110,
+      "text": "After that summer party, Stephen and Jane often met in London, because Jane was studying French and Spanish at university there.",
+      "translation": "بعد حفلة الصيف تلك، كان ستيفن وجين يلتقيان غالباً في لندن، لأن جين كانت تدرس الفرنسية والإسبانية في الجامعة هناك."
+    },
+    {
+      "id": 111,
+      "text": "Jane knew that Stephen was very ill, but she loved him, and they decided to marry.",
+      "translation": "عرفت جين أن ستيفن مريض جداً، لكنها أحبته، وقررا الزواج."
+    },
+    {
+      "id": 112,
+      "text": "This changed Stephen's life, and gave him hope for the future.",
+      "translation": "غير هذا حياة ستيفن، وأعطاه الأمل في المستقبل."
+    },
+    {
+      "id": 113,
+      "text": "Jane and Stephen got married in July 1965.",
+      "translation": "تزوج جين وستيفن في يوليو 1965."
+    },
+    {
+      "id": 114,
+      "text": "They did not have very much money, but they were happy together.",
+      "translation": "لم يكن لديهما الكثير من المال، لكنهما كانا سعيدين معاً."
+    },
+    {
+      "id": 115,
+      "text": "Stephen now needed a stick to walk, and he could not easily hold a pen and write any more.",
+      "translation": "احتاج ستيفن الآن إلى عصا للمشي، ولم يعد بإمكانه الإمساك بالقلم والكتابة بسهولة."
+    },
+    {
+      "id": 116,
+      "text": "But after two and a half years with ALS, he was still alive and doing well.",
+      "translation": "لكن بعد عامين ونصف مع مرض التصلب الجانبي الضموري، كان لا يزال على قيد الحياة وبحالة جيدة."
+    },
+    {
+      "id": 117,
+      "text": "Everything felt possible, and Stephen and Jane never talked about his disease - they both wanted to think about life, not death.",
+      "translation": "بدا كل شيء ممكناً، ولم يتحدث ستيفن وجين أبداً عن مرضه - كان كلاهما يريد التفكير في الحياة، وليس الموت."
+    },
+    {
+      "id": 118,
+      "text": "They went to America that summer.",
+      "translation": "ذهبا إلى أمريكا في ذلك الصيف."
+    },
+    {
+      "id": 119,
+      "text": "Stephen went to physics lectures at Cornell University, and he and Jane also visited many great places in New York.",
+      "translation": "ذهب ستيفن إلى محاضرات الفيزياء في جامعة كورنيل، وزار هو وجين أيضاً العديد من الأماكن الرائعة في نيويورك."
+    },
+    {
+      "id": 120,
+      "text": "Did anyone see them when they stood at the top of the Empire State Building one day and looked down at the streets of Manhattan?",
+      "translation": "هل رآهم أحد عندما وقفوا في قمة مبنى إمباير ستيت ذات يوم ونظروا إلى شوارع مانهاتن؟"
+    },
+    {
+      "id": 121,
+      "text": "When Stephen became a famous scientist, years later, everybody knew his name, but nobody knew him then.",
+      "translation": "عندما أصبح ستيفن عالماً مشهوراً، بعد سنوات، عرف الجميع اسمه، لكن لم يعرفه أحد حينها."
+    },
+    {
+      "id": 122,
+      "text": "He was just another British visitor to New York: a young man standing next to his wife, on top of the world.",
+      "translation": "كان مجرد زائر بريطاني آخر لنيويورك: شاب يقف بجانب زوجته، فوق قمة العالم."
+    },
+    {
+      "id": 123,
+      "text": "CHAPTER FOUR",
+      "translation": "الفصل الرابع"
+    },
+    {
+      "id": 124,
+      "text": "Theories and Ideas",
+      "translation": "النظريات والأفكار"
+    },
+    {
+      "id": 125,
+      "text": "In 1964, the year before he got married, Stephen went to an important lecture in London by a British scientist called Fred Hoyle.",
+      "translation": "في عام 1964، أي قبل عام من زواجه، ذهب ستيفن إلى محاضرة مهمة في لندن ألقاها عالم بريطاني يُدعى فريد هويل."
+    },
+    {
+      "id": 126,
+      "text": "At that time, Hoyle was one of the greatest scientists in Britain, and the room was full of famous and important people.",
+      "translation": "في ذلك الوقت، كان هويل أحد أعظم العلماء في بريطانيا، وكانت القاعة مليئة بأشخاص مشهورين ومهمين."
+    },
+    {
+      "id": 127,
+      "text": "Everyone listened carefully while Hoyle explained his latest theory in cosmology.",
+      "translation": "استمع الجميع بعناية بينما شرح هويل أحدث نظرياته في علم الكونيات."
+    },
+    {
+      "id": 128,
+      "text": "But when it was time for questions, Stephen stood up and said that Hoyle was wrong.",
+      "translation": "لكن عندما حان وقت الأسئلة، وقف ستيفن وقال إن هويل مخطئ."
+    },
+    {
+      "id": 129,
+      "text": "Everybody looked at Stephen.",
+      "translation": "نظر الجميع إلى ستيفن."
+    },
+    {
+      "id": 130,
+      "text": "He was only a young PhD student, and nobody knew who he was.",
+      "translation": "كان مجرد طالب دكتوراه شاب، ولم يعرف أحد من هو."
+    },
+    {
+      "id": 131,
+      "text": "But Stephen said that there was a mistake in the mathematics of Hoyle's theory.",
+      "translation": "لكن ستيفن قال إن هناك خطأ في رياضيات نظرية هويل."
+    },
+    {
+      "id": 132,
+      "text": "He said that it did not work.",
+      "translation": "قال إنها لا تعمل."
+    },
+    {
+      "id": 133,
+      "text": "Of course, nobody in the room that day agreed with Stephen.",
+      "translation": "بالطبع، لم يوافق أحد في القاعة ذلك اليوم على ستيفن."
+    },
+    {
+      "id": 134,
+      "text": "But a few months after Hoyle's lecture, scientists found other problems with Hoyle's theory.",
+      "translation": "لكن بعد بضعة أشهر من محاضرة هويل، وجد العلماء مشاكل أخرى في نظرية هويل."
+    },
+    {
+      "id": 135,
+      "text": "Hoyle really was wrong.",
+      "translation": "كان هويل مخطئاً حقاً."
+    },
+    {
+      "id": 136,
+      "text": "The Big Bang",
+      "translation": "الانفجار العظيم"
+    },
+    {
+      "id": 137,
+      "text": "Hoyle's theory of cosmology said that our universe has always been the same.",
+      "translation": "قالت نظرية هويل في علم الكونيات إن كوننا كان دائماً على نفس الحال."
+    },
+    {
+      "id": 138,
+      "text": "But Stephen and some other cosmologists thought that the universe began suddenly a long time ago.",
+      "translation": "لكن ستيفن وبعض علماء الكونيات الآخرين اعتقدوا أن الكون بدأ فجأة منذ زمن طويل."
+    },
+    {
+      "id": 139,
+      "text": "The universe was very small at first, they said, but in seconds, it became much, much bigger - and it is still getting bigger today.",
+      "translation": "قالوا إن الكون كان صغيراً جداً في البداية، لكنه في ثوانٍ أصبح أكبر بكثير - ولا يزال يكبر حتى اليوم."
+    },
+    {
+      "id": 140,
+      "text": "People called this theory 'the Big Bang'.",
+      "translation": "أطلق الناس على هذه النظرية اسم 'الانفجار العظيم'."
+    },
+    {
+      "id": 141,
+      "text": "Today, cosmologists think that this is true, and they think that the Big Bang happened about 13.8 billion years ago.",
+      "translation": "اليوم، يعتقد علماء الكونيات أن هذا صحيح، ويعتقدون أن الانفجار العظيم حدث منذ حوالي 13.8 مليار سنة."
+    },
+    {
+      "id": 142,
+      "text": "The Big Bang was one of the most important ideas in cosmology, and when Stephen was working on it, he was still only in his twenties.",
+      "translation": "كان الانفجار العظيم أحد أهم الأفكار في علم الكونيات، وعندما كان ستيفن يعمل عليه، كان لا يزال في العشرينيات من عمره."
+    },
+    {
+      "id": 143,
+      "text": "Einstein and space-time",
+      "translation": "أينشتاين والزمكان"
+    },
+    {
+      "id": 144,
+      "text": "To understand Stephen's ideas, we first have to look at the theories of another great thinker - Albert Einstein.",
+      "translation": "لفهم أفكار ستيفن، يجب أن ننظر أولاً إلى نظريات مفكر عظيم آخر - ألبرت أينشتاين."
+    },
+    {
+      "id": 145,
+      "text": "In 1905, Einstein had an important theory about space (the empty place between things) and time.",
+      "translation": "في عام 1905، كان لدى أينشتاين نظرية مهمة حول الفضاء (المكان الفارغ بين الأشياء) والزمن."
+    },
+    {
+      "id": 146,
+      "text": "Space is all around us: we can start in one place, walk around in space, and then go back to our starting place.",
+      "translation": "الفضاء يحيط بنا من كل جانب: يمكننا البدء من مكان ما، والتجول في الفضاء، ثم العودة إلى مكان بدايتنا."
+    },
+    {
+      "id": 147,
+      "text": "But we cannot move around freely in time.",
+      "translation": "لكننا لا نستطيع التحرك بحرية في الزمن."
+    },
+    {
+      "id": 148,
+      "text": "Space and time feel different, but Einstein said that they are really two sides of the same thing - like two sides of a piece of paper.",
+      "translation": "يبدو الفضاء والزمن مختلفين، لكن أينشتاين قال إنهما في الحقيقة وجهان لنفس الشيء - مثل وجهي قطعة ورق."
+    },
+    {
+      "id": 149,
+      "text": "We call this 'space-time'.",
+      "translation": "نسمي هذا 'الزمكان'."
+    },
+    {
+      "id": 150,
+      "text": "Einstein also explained gravity.",
+      "translation": "شرح أينشتاين أيضاً الجاذبية."
+    },
+    {
+      "id": 151,
+      "text": "Gravity happens because things like stars 'push into' space-time and bend it.",
+      "translation": "تحدث الجاذبية لأن أشياء مثل النجوم 'تندفع داخل' الزمكان وتثنيه."
+    },
+    {
+      "id": 152,
+      "text": "This is difficult to understand, but physics teachers explain the idea to their students like this: they take a big sheet of something which stretches (gets longer when you pull it).",
+      "translation": "من الصعب فهم هذا، لكن معلمي الفيزياء يشرحون الفكرة لطلابهم هكذا: يأخذون قطعة كبيرة من شيء يتمدد (يزداد طولاً عند سحبه)."
+    },
+    {
+      "id": 153,
+      "text": "Then they ask two students to hold the sheet between them, and they put a heavy ball on it.",
+      "translation": "ثم يطلبون من طالبين الإمساك بالقطعة بينهما، ويضعون كرة ثقيلة عليها."
+    },
+    {
+      "id": 154,
+      "text": "The ball bends the sheet, just like a star bends space-time.",
+      "translation": "تثني الكرة القطعة، تماماً كما يثني النجم الزمكان."
+    },
+    {
+      "id": 155,
+      "text": "When the teacher puts a lighter ball on the sheet, it moves closer to the big ball because the big ball is heavier and bends the sheet more.",
+      "translation": "عندما يضع المعلم كرة أخف على القطعة، فإنها تتحرك أقرب إلى الكرة الكبيرة لأن الكرة الكبيرة أثقل وتثني القطعة أكثر."
+    },
+    {
+      "id": 156,
+      "text": "In the same way, because of gravity, lighter things always move closer to heavier things.",
+      "translation": "وبنفس الطريقة، بسبب الجاذبية، تتحرك الأشياء الأخف دائماً أقرب إلى الأشياء الأثقل."
+    },
+    {
+      "id": 157,
+      "text": "For example, a small planet will always move closer to a big one.",
+      "translation": "على سبيل المثال، سيتحرك كوكب صغير دائماً أقرب إلى كوكب كبير."
+    },
+    {
+      "id": 158,
+      "text": "Black holes",
+      "translation": "الثقوب السوداء"
+    },
+    {
+      "id": 159,
+      "text": "In Stephen's first years at Cambridge University, he used Einstein's theories to study one of the strangest things in the universe: black holes.",
+      "translation": "في سنوات ستيفن الأولى في جامعة كامبريدج، استخدم نظريات أينشتاين لدراسة أحد أغرب الأشياء في الكون: الثقوب السوداء."
+    },
+    {
+      "id": 160,
+      "text": "When a star stops shining, gravity pulls everything in the dead star closer and closer together, and the star becomes smaller and smaller.",
+      "translation": "عندما يتوقف نجم عن اللمعان، تسحب الجاذبية كل شيء في النجم الميت معاً بشكل أقرب وأقرب، ويصبح النجم أصغر وأصغر."
+    },
+    {
+      "id": 161,
+      "text": "In the end, gravity pulls everything into one very, very small place in space.",
+      "translation": "في النهاية، تسحب الجاذبية كل شيء إلى مكان واحد صغير جداً جداً في الفضاء."
+    },
+    {
+      "id": 162,
+      "text": "Because everything from the dead star is in one place, this bends space-time more and more, and at last, a hole is made.",
+      "translation": "لأن كل شيء من النجم الميت في مكان واحد، فإن هذا يثني الزمكان أكثر وأكثر، وأخيراً، تُصنع حفرة."
+    },
+    {
+      "id": 163,
+      "text": "The gravity in this hole is very, very strong, so nothing can escape from it - not even light - and it becomes a 'black hole'.",
+      "translation": "الجاذبية في هذه الحفرة قوية جداً جداً، لذلك لا شيء يمكنه الهروب منها - ولا حتى الضوء - وتصبح 'ثقباً أسود'."
+    },
+    {
+      "id": 164,
+      "text": "When things like other stars come too close to a black hole, they cannot escape its gravity.",
+      "translation": "عندما تقترب أشياء مثل النجوم الأخرى كثيراً من ثقب أسود، فإنها لا تستطيع الهروب من جاذبيته."
+    },
+    {
+      "id": 165,
+      "text": "They fall into the black hole.",
+      "translation": "تسقط في الثقب الأسود."
+    },
+    {
+      "id": 166,
+      "text": "In the early 1960s, the scientist Roger Penrose discovered something new about black holes.",
+      "translation": "في أوائل الستينيات، اكتشف العالم روجر بنروز شيئاً جديداً عن الثقوب السوداء."
+    },
+    {
+      "id": 167,
+      "text": "He said that the centre of a black hole becomes smaller and smaller, and at last there is no space there.",
+      "translation": "قال إن مركز الثقب الأسود يصبح أصغر وأصغر، وأخيراً لا يوجد فضاء هناك."
+    },
+    {
+      "id": 168,
+      "text": "And because space and time are two sides of the same thing, time stops inside a black hole, too!",
+      "translation": "ولأن الفضاء والزمن وجهان لنفس الشيء، فإن الزمن يتوقف داخل الثقب الأسود أيضاً!"
+    },
+    {
+      "id": 169,
+      "text": "This gave Stephen his first great idea.",
+      "translation": "أعطى هذا ستيفن فكرته العظيمة الأولى."
+    },
+    {
+      "id": 170,
+      "text": "In his PhD, he wrote about the universe at the time of the Big Bang.",
+      "translation": "في رسالة الدكتوراه، كتب عن الكون في وقت الانفجار العظيم."
+    },
+    {
+      "id": 171,
+      "text": "Stephen said that it was just like the centre of a black hole.",
+      "translation": "قال ستيفن إنه كان تماماً مثل مركز الثقب الأسود."
+    },
+    {
+      "id": 172,
+      "text": "Everything that later became the stars and planets was in one place: a place with no space and no time.",
+      "translation": "كل شيء أصبح لاحقاً نجومًا وكواكب كان في مكان واحد: مكان بلا فضاء وبلا زمن."
+    },
+    {
+      "id": 173,
+      "text": "Stephen says that you cannot ask 'Where did the Big Bang happen?' or 'What happened \"before\" the Big Bang?'",
+      "translation": "يقول ستيفن إنه لا يمكنك أن تسأل 'أين حدث الانفجار العظيم؟' أو 'ماذا حدث \"قبل\" الانفجار العظيم؟'"
+    },
+    {
+      "id": 174,
+      "text": "These are questions about space and time - and there was no space or time before the Big Bang.",
+      "translation": "هذه أسئلة عن الفضاء والزمن - ولم يكن هناك فضاء أو زمن قبل الانفجار العظيم."
+    },
+    {
+      "id": 175,
+      "text": "CHAPTER FIVE",
+      "translation": "الفصل الخامس"
+    },
+    {
+      "id": 176,
+      "text": "A Great Cosmologist",
+      "translation": "عالم كونيات عظيم"
+    },
+    {
+      "id": 177,
+      "text": "After Stephen finished his PhD in March 1966, he went on working at Gonville and Caius College, Cambridge.",
+      "translation": "بعد أن أنهى ستيفن درجة الدكتوراه في مارس 1966، واصل العمل في كلية غونفيل وكايوس، كامبريدج."
+    },
+    {
+      "id": 178,
+      "text": "Stephen's work in cosmology built on the theories of Roger Penrose, and in the 1960s and 1970s, Stephen studied black holes with him and others.",
+      "translation": "بُني عمل ستيفن في علم الكونيات على نظريات روجر بنروز، وفي الستينيات والسبعينيات، درس ستيفن الثقوب السوداء معه ومع آخرين."
+    },
+    {
+      "id": 179,
+      "text": "Together, they discovered a lot of important things about the universe - for example, how black holes begin and what happens inside them.",
+      "translation": "معاً، اكتشفوا الكثير من الأشياء المهمة عن الكون - على سبيل المثال، كيف تبدأ الثقوب السوداء وماذا يحدث بداخلها."
+    },
+    {
+      "id": 180,
+      "text": "They also asked questions about what happens when two black holes meet.",
+      "translation": "طرحوا أيضاً أسئلة حول ما يحدث عندما يلتقي ثقبان أسودان."
+    },
+    {
+      "id": 181,
+      "text": "Hawking and Penrose won a lot of prizes for their work, too, like the Gravity Foundation Prize and the Adams Prize.",
+      "translation": "فاز هوكينغ وبنروز بالكثير من الجوائز على عملهما أيضاً، مثل جائزة مؤسسة الجاذبية وجائزة آدامز."
+    },
+    {
+      "id": 182,
+      "text": "Stephen became the world's number one black hole scientist.",
+      "translation": "أصبح ستيفن عالم الثقوب السوداء الأول في العالم."
+    },
+    {
+      "id": 183,
+      "text": "His work was very important, because when cosmologists know about black holes, they can understand many other things about the universe, for example, how it began and what will happen to it in the end.",
+      "translation": "كان عمله مهماً جداً، لأنه عندما يعرف علماء الكونيات عن الثقوب السوداء، يمكنهم فهم العديد من الأشياء الأخرى عن الكون، على سبيل المثال، كيف بدأ وماذا سيحدث له في النهاية."
+    },
+    {
+      "id": 184,
+      "text": "Stephen was teaching at Cambridge University at this time, but in 1974, there was a big change for him.",
+      "translation": "كان ستيفن يدرس في جامعة كامبريدج في هذا الوقت، لكن في عام 1974، حدث تغيير كبير له."
+    },
+    {
+      "id": 185,
+      "text": "An important university in California called California Institute of Technology (Caltech) asked Stephen to teach there for a year - so the family went to live in the USA.",
+      "translation": "طلبت جامعة مهمة في كاليفورنيا تُدعى معهد كاليفورنيا للتكنولوجيا (كالتك) من ستيفن التدريس هناك لمدة عام - فانتقلت العائلة للعيش في الولايات المتحدة."
+    },
+    {
+      "id": 186,
+      "text": "Stephen and Jane made lots of friends there.",
+      "translation": "كوّن ستيفن وجين الكثير من الأصدقاء هناك."
+    },
+    {
+      "id": 187,
+      "text": "Their house was very close to the university, and it was always full of scientists and other friends at the weekends.",
+      "translation": "كان منزلهما قريباً جداً من الجامعة، وكان ممتلئاً دائماً بالعلماء والأصدقاء الآخرين في عطلات نهاية الأسبوع."
+    },
+    {
+      "id": 188,
+      "text": "They had parties and dinners, and Stephen often sat with his friends and talked about science late into the night.",
+      "translation": "أقاموا حفلات وعشاء، وغالباً ما كان ستيفن يجلس مع أصدقائه ويتحدث عن العلم حتى وقت متأخر من الليل."
+    },
+    {
+      "id": 189,
+      "text": "At Caltech, Stephen worked with some of the greatest names in physics and cosmology.",
+      "translation": "في كالتك، عمل ستيفن مع بعض أعظم الأسماء في الفيزياء وعلم الكونيات."
+    },
+    {
+      "id": 190,
+      "text": "In 1974, Stephen gave an important lecture, and he explained something very surprising.",
+      "translation": "في عام 1974، ألقى ستيفن محاضرة مهمة، وشرح شيئاً مفاجئاً جداً."
+    },
+    {
+      "id": 191,
+      "text": "Nothing escapes from inside a black hole, he said, but radiation comes from a place around the black hole.",
+      "translation": "قال إن لا شيء يهرب من داخل الثقب الأسود، لكن الإشعاع يأتي من مكان حول الثقب الأسود."
+    },
+    {
+      "id": 192,
+      "text": "Because radiation is escaping from around the black hole, the black hole slowly becomes smaller and smaller - and after a long time, there is no black hole any more.",
+      "translation": "ولأن الإشعاع يهرب من حول الثقب الأسود، فإن الثقب الأسود يصبح أصغر وأصغر ببطء - وبعد وقت طويل، لا يوجد ثقب أسود بعد الآن."
+    },
+    {
+      "id": 193,
+      "text": "Many cosmologists just laughed at this idea when Stephen first explained it, but most people today think that it is true.",
+      "translation": "ضحك الكثير من علماء الكونيات على هذه الفكرة عندما شرحها ستيفن لأول مرة، لكن معظم الناس اليوم يعتقدون أنها صحيحة."
+    },
+    {
+      "id": 194,
+      "text": "Soon after this, while Stephen was still in California, he had some important news.",
+      "translation": "بعد ذلك بوقت قصير، بينما كان ستيفن لا يزال في كاليفورنيا، تلقى بعض الأخبار المهمة."
+    },
+    {
+      "id": 195,
+      "text": "A letter arrived which asked him to be one of the scientists in London's world-famous Royal Society.",
+      "translation": "وصلت رسالة تطلب منه أن يكون أحد العلماء في الجمعية الملكية الشهيرة عالمياً في لندن."
+    },
+    {
+      "id": 196,
+      "text": "This was a great and exciting thing for a thirty-two-year-old scientist.",
+      "translation": "كان هذا شيئاً عظيماً ومثيراً لعالم يبلغ من العمر اثنين وثلاثين عاماً."
+    },
+    {
+      "id": 197,
+      "text": "The Hawkings went back to Britain in 1975, and Stephen started work at Cambridge University again.",
+      "translation": "عاد آل هوكينغ إلى بريطانيا في عام 1975، وبدأ ستيفن العمل في جامعة كامبريدج مرة أخرى."
+    },
+    {
+      "id": 198,
+      "text": "He was doing very important work in cosmology at this time, and by the end of the 1970s, physicists everywhere knew about him.",
+      "translation": "كان يقوم بعمل مهم جداً في علم الكونيات في هذا الوقت، وبحلول نهاية السبعينيات، كان الفيزيائيون في كل مكان يعرفونه."
+    },
+    {
+      "id": 199,
+      "text": "He was also getting prizes and special degrees from universities and societies around the world.",
+      "translation": "كان أيضاً يحصل على جوائز ودرجات فخرية من جامعات وجمعيات حول العالم."
+    },
+    {
+      "id": 200,
+      "text": "Then, in 1979, Stephen became Cambridge University's Lucasian Professor of Mathematics.",
+      "translation": "ثم، في عام 1979، أصبح ستيفن أستاذ الرياضيات اللوكاسي في جامعة كامبريدج."
+    },
+    {
+      "id": 201,
+      "text": "This job is for the very best mathematicians and physicists, and some of the greatest names in science have been Lucasian Professor in the past.",
+      "translation": "هذه الوظيفة مخصصة لأفضل علماء الرياضيات والفيزياء، وكان بعض أعظم الأسماء في العلم أستاذاً لوكاسياً في الماضي."
+    },
+    {
+      "id": 202,
+      "text": "One Lucasian Professor was Isaac Newton, the father of modern physics and the man who discovered gravity in the late 1600s.",
+      "translation": "كان أحد الأساتذة اللوكاسيين هو إسحاق نيوتن، أبو الفيزياء الحديثة والرجل الذي اكتشف الجاذبية في أواخر القرن السابع عشر."
+    },
+    {
+      "id": 203,
+      "text": "Now Stephen was one of these great people, too.",
+      "translation": "الآن أصبح ستيفن واحداً من هؤلاء العظماء أيضاً."
+    },
+    {
+      "id": 204,
+      "text": "Stephen's work brought together many different ideas in physics for the first time, and this started him on a new journey.",
+      "translation": "جمع عمل ستيفن العديد من الأفكار المختلفة في الفيزياء معاً للمرة الأولى، وبدأ هذا رحلته الجديدة."
+    },
+    {
+      "id": 205,
+      "text": "He wanted to find a 'theory of everything' - one theory that we can use to understand any question in physics, like 'How did the universe begin?' and 'What is everything really made of?'",
+      "translation": "أراد إيجاد 'نظرية كل شيء' - نظرية واحدة يمكننا استخدامها لفهم أي سؤال في الفيزياء، مثل 'كيف بدأ الكون؟' و'مم يتكون كل شيء حقاً؟'"
+    },
+    {
+      "id": 206,
+      "text": "No one has found a theory of everything yet, but many scientists are working on the problem.",
+      "translation": "لم يجد أحد نظرية كل شيء بعد، لكن العديد من العلماء يعملون على هذه المشكلة."
+    },
+    {
+      "id": 207,
+      "text": "One day, perhaps, if they find this theory, we can use it to build wonderful new machines, or even travel to the stars!",
+      "translation": "يوماً ما، ربما، إذا وجدوا هذه النظرية، يمكننا استخدامها لبناء آلات جديدة رائعة، أو حتى السفر إلى النجوم!"
+    },
+    {
+      "id": 208,
+      "text": "It only became possible for people to visit the moon because of past theories in physics - that is how important these theories are.",
+      "translation": "لم يصبح من الممكن للناس زيارة القمر إلا بفضل نظريات الفيزياء السابقة - وهذا يوضح مدى أهمية هذه النظريات."
+    },
+    {
+      "id": 209,
+      "text": "Some of Stephen's theories about the universe have changed a lot, and sometimes Stephen has been wrong about things, too.",
+      "translation": "تغيرت بعض نظريات ستيفن عن الكون كثيراً، وكان ستيفن مخطئاً في بعض الأشياء أحياناً أيضاً."
+    },
+    {
+      "id": 210,
+      "text": "But this is not unusual in science - even the great Albert Einstein made some mistakes.",
+      "translation": "لكن هذا ليس غير عادي في العلم - حتى ألبرت أينشتاين العظيم ارتكب بعض الأخطاء."
+    },
+    {
+      "id": 211,
+      "text": "Stephen is not afraid to ask big questions, for example, 'Will people travel in time one day?', 'Can scientists make small black holes here on Earth?', and 'Are there other universes?'",
+      "translation": "لا يخاف ستيفن من طرح أسئلة كبيرة، على سبيل المثال، 'هل سيسافر الناس عبر الزمن يوماً ما؟'، 'هل يمكن للعلماء صنع ثقوب سوداء صغيرة هنا على الأرض؟'، و'هل هناك أكوان أخرى؟'"
+    },
+    {
+      "id": 212,
+      "text": "We do not know the answers to these questions, but thanks to Stephen, we are beginning to understand how to study them.",
+      "translation": "لا نعرف إجابات هذه الأسئلة، لكن بفضل ستيفن، بدأنا نفهم كيفية دراستها."
+    },
+    {
+      "id": 213,
+      "text": "CHAPTER SIX",
+      "translation": "الفصل السادس"
+    },
+    {
+      "id": 214,
+      "text": "A New Voice",
+      "translation": "صوت جديد"
+    },
+    {
+      "id": 215,
+      "text": "In 1963, doctors said that Stephen would only live for about two more years.",
+      "translation": "في عام 1963، قال الأطباء إن ستيفن سيعيش لمدة عامين آخرين فقط تقريباً."
+    },
+    {
+      "id": 216,
+      "text": "But fifteen years later, he was still alive.",
+      "translation": "لكن بعد خمسة عشر عاماً، كان لا يزال على قيد الحياة."
+    },
+    {
+      "id": 217,
+      "text": "His disabilities became a little worse every year, and he had many problems, but he did not stop working - and he never lost hope.",
+      "translation": "أصبحت إعاقاته أسوأ قليلاً كل عام، وكان لديه العديد من المشاكل، لكنه لم يتوقف عن العمل - ولم يفقد الأمل أبداً."
+    },
+    {
+      "id": 218,
+      "text": "After 1969, Stephen had to use a wheelchair.",
+      "translation": "بعد عام 1969، اضطر ستيفن لاستخدام كرسي متحرك."
+    },
+    {
+      "id": 219,
+      "text": "He could not use his hands very much by then, so Jane had to write the words for Stephen's lectures for him - and she also had to look after him.",
+      "translation": "لم يكن قادراً على استخدام يديه كثيراً بحلول ذلك الوقت، لذلك كان على جين كتابة كلمات محاضرات ستيفن له - وكان عليها أيضاً الاعتناء به."
+    },
+    {
+      "id": 220,
+      "text": "By the late 1970s, Stephen could not use a lot of his body.",
+      "translation": "بحلول أواخر السبعينيات، لم يكن ستيفن قادراً على استخدام الكثير من جسده."
+    },
+    {
+      "id": 221,
+      "text": "His arms were not strong any more, and he could not speak easily.",
+      "translation": "لم تعد ذراعاه قويتين، ولم يكن قادراً على التحدث بسهولة."
+    },
+    {
+      "id": 222,
+      "text": "Only Stephen's family and close friends could understand his voice, so when he gave a lecture, a scientist friend or a student always helped him.",
+      "translation": "فقط عائلة ستيفن وأصدقاؤه المقربون كانوا يستطيعون فهم صوته، لذلك عندما كان يلقي محاضرة، كان صديق عالم أو طالب يساعده دائماً."
+    },
+    {
+      "id": 223,
+      "text": "He spoke quietly to them, and then they said his words to everyone in the room.",
+      "translation": "كان يتحدث معهم بهدوء، ثم ينقلون كلماته إلى الجميع في القاعة."
+    },
+    {
+      "id": 224,
+      "text": "By this time, Stephen could not write notes, so he had to remember everything.",
+      "translation": "بحلول هذا الوقت، لم يستطع ستيفن كتابة ملاحظات، لذلك كان عليه تذكر كل شيء."
+    },
+    {
+      "id": 225,
+      "text": "He was already good at this, but now he had to be really good.",
+      "translation": "كان بالفعل جيداً في هذا، لكن الآن كان عليه أن يكون جيداً حقاً."
+    },
+    {
+      "id": 226,
+      "text": "He found special ways to remember things, and he learned to read something once or listen to a lecture once, and then keep it all in his head.",
+      "translation": "وجد طرقاً خاصة لتذكر الأشياء، وتعلم قراءة شيء ما مرة واحدة أو الاستماع إلى محاضرة مرة واحدة، ثم الاحتفاظ بكل شيء في رأسه."
+    },
+    {
+      "id": 227,
+      "text": "Physicists write lots of difficult mathematics when they think about problems, but Stephen could not write, so he had to work in a different way.",
+      "translation": "يكتب الفيزيائيون الكثير من الرياضيات الصعبة عندما يفكرون في المشكلات، لكن ستيفن لم يستطع الكتابة، لذلك كان عليه العمل بطريقة مختلفة."
+    },
+    {
+      "id": 228,
+      "text": "When Stephen thinks about a problem in physics, he usually uses pictures in his head, and not mathematics, to find the answers.",
+      "translation": "عندما يفكر ستيفن في مشكلة في الفيزياء، فإنه عادة يستخدم الصور في رأسه، وليس الرياضيات، لإيجاد الإجابات."
+    },
+    {
+      "id": 229,
+      "text": "And because Stephen thinks about things in a different way, he has different and new ideas.",
+      "translation": "ولأن ستيفن يفكر في الأشياء بطريقة مختلفة، لديه أفكار مختلفة وجديدة."
+    },
+    {
+      "id": 230,
+      "text": "He does not have to look at lots of books or sit at a desk when he is working.",
+      "translation": "لا يتعين عليه النظر في الكثير من الكتب أو الجلوس على مكتب عندما يعمل."
+    },
+    {
+      "id": 231,
+      "text": "He carries all his ideas about a new theory in his head, so he can think about it at any time.",
+      "translation": "يحمل كل أفكاره حول نظرية جديدة في رأسه، لذا يمكنه التفكير فيها في أي وقت."
+    },
+    {
+      "id": 232,
+      "text": "Once, he discovered something important about black holes when he was getting into bed!",
+      "translation": "ذات مرة، اكتشف شيئاً مهماً عن الثقوب السوداء عندما كان يستعد للنوم!"
+    },
+    {
+      "id": 233,
+      "text": "In 1985, Stephen was meeting with other scientists in Switzerland when he became very ill.",
+      "translation": "في عام 1985، كان ستيفن يجتمع مع علماء آخرين في سويسرا عندما مرض بشدة."
+    },
+    {
+      "id": 234,
+      "text": "He could not breathe without a machine, and the doctors thought that he would die.",
+      "translation": "لم يستطع التنفس بدون جهاز، وكان الأطباء يعتقدون أنه سيموت."
+    },
+    {
+      "id": 235,
+      "text": "They wanted to turn off the machine, but Stephen's wife Jane stopped them doing this.",
+      "translation": "أرادوا إيقاف الجهاز، لكن زوجة ستيفن جين منعتهم من فعل ذلك."
+    },
+    {
+      "id": 236,
+      "text": "For weeks, Stephen was very near to death.",
+      "translation": "لأسابيع، كان ستيفن قريباً جداً من الموت."
+    },
+    {
+      "id": 237,
+      "text": "Friends and family stayed by his bed - they talked to him, read books to him, and hoped for him.",
+      "translation": "بقي الأصدقاء والعائلة بجانب سريره - تحدثوا معه، وقرؤوا له الكتب، وأملوا من أجله."
+    },
+    {
+      "id": 238,
+      "text": "And he lived.",
+      "translation": "وعاش."
+    },
+    {
+      "id": 239,
+      "text": "When Stephen was a little stronger, doctors in England opened a hole in his throat.",
+      "translation": "عندما أصبح ستيفن أقوى قليلاً، فتح الأطباء في إنجلترا ثقباً في حلقه."
+    },
+    {
+      "id": 240,
+      "text": "Now he could breathe through the hole, and without a machine.",
+      "translation": "الآن يمكنه التنفس من خلال الثقب، وبدون جهاز."
+    },
+    {
+      "id": 241,
+      "text": "But Stephen needed the help of nurses twenty-four hours a day - and he could not speak any more.",
+      "translation": "لكن ستيفن احتاج إلى مساعدة الممرضات أربعاً وعشرين ساعة في اليوم - ولم يعد قادراً على الكلام."
+    },
+    {
+      "id": 242,
+      "text": "Stephen now needed to talk to people and ask for things in a different way.",
+      "translation": "احتاج ستيفن الآن للتحدث مع الناس وطلب الأشياء بطريقة مختلفة."
+    },
+    {
+      "id": 243,
+      "text": "At first, he used a special A-Z to 'talk'.",
+      "translation": "في البداية، استخدم كتاب أبجدية خاص (A-Z) لـ 'التحدث'."
+    },
+    {
+      "id": 244,
+      "text": "Friends and nurses held up the letters A-Z one at a time, and Stephen moved his eyes when someone showed him the right letter.",
+      "translation": "كان الأصدقاء والممرضات يرفعون الحروف من A إلى Z واحداً تلو الآخر، وكان ستيفن يحرك عينيه عندما يُظهر له أحدهم الحرف الصحيح."
+    },
+    {
+      "id": 245,
+      "text": "In this way, his helper could write his words.",
+      "translation": "بهذه الطريقة، يمكن لمساعده كتابة كلماته."
+    },
+    {
+      "id": 246,
+      "text": "But talking like this was very difficult and slow.",
+      "translation": "لكن التحدث بهذه الطريقة كان صعباً وبطيئاً للغاية."
+    },
+    {
+      "id": 247,
+      "text": "Stephen wanted something better, so his friends spoke to somebody who made computers and machines for people with disabilities.",
+      "translation": "أراد ستيفن شيئاً أفضل، فتحدث أصدقاؤه إلى شخص يصنع أجهزة كمبيوتر وآلات للأشخاص ذوي الإعاقات."
+    },
+    {
+      "id": 248,
+      "text": "After a lot of hard work, a special machine was made just for Stephen.",
+      "translation": "بعد الكثير من العمل الشاق، صُنعت آلة خاصة لستيفن فقط."
+    },
+    {
+      "id": 249,
+      "text": "With this machine, Stephen had to look at lots of words on a computer, and then touch a little box in his hand for the right word.",
+      "translation": "باستخدام هذه الآلة، كان على ستيفن النظر إلى الكثير من الكلمات على جهاز كمبيوتر، ثم لمس صندوق صغير في يده للكلمة الصحيحة."
+    },
+    {
+      "id": 250,
+      "text": "In this way, Stephen could write about fifteen words a minute.",
+      "translation": "بهذه الطريقة، كان ستيفن قادراً على كتابة حوالي خمسة عشر كلمة في الدقيقة."
+    },
+    {
+      "id": 251,
+      "text": "By the end of 1985, Stephen's machine had a special 'voice': when he wrote on the computer, the 'voice' spoke slowly for him.",
+      "translation": "بحلول نهاية عام 1985، كان لآلة ستيفن 'صوت' خاص: عندما كان يكتب على الكمبيوتر، كان 'الصوت' يتحدث ببطء نيابة عنه."
+    },
+    {
+      "id": 252,
+      "text": "Stephen's new computer voice sounded strange - like a robot - but it helped him a lot.",
+      "translation": "بدا صوت كمبيوتر ستيفن الجديد غريباً - مثل روبوت - لكنه ساعده كثيراً."
+    },
+    {
+      "id": 253,
+      "text": "Before, when he spoke, most people could not understand what he was saying.",
+      "translation": "في السابق، عندما كان يتحدث، لم يستطع معظم الناس فهم ما يقوله."
+    },
+    {
+      "id": 254,
+      "text": "Now, suddenly, he could talk to anybody again - even a big room full of people - as loud as he wanted.",
+      "translation": "الآن، فجأة، أصبح بإمكانه التحدث مع أي شخص مرة أخرى - حتى غرفة كبيرة مليئة بالناس - بصوت عالٍ كما يريد."
+    },
+    {
+      "id": 255,
+      "text": "Stephen's computer has changed since then because his disease has become worse - and computers have become better.",
+      "translation": "تغير كمبيوتر ستيفن منذ ذلك الحين لأن مرضه أصبح أسوأ - وأصبحت أجهزة الكمبيوتر أفضل."
+    },
+    {
+      "id": 256,
+      "text": "He now wears a small camera because he cannot use either of his hands any more.",
+      "translation": "يرتدي الآن كاميرا صغيرة لأنه لم يعد قادراً على استخدام أي من يديه."
+    },
+    {
+      "id": 257,
+      "text": "When he finds a word on the computer, he moves his face a little.",
+      "translation": "عندما يجد كلمة على الكمبيوتر، يحرك وجهه قليلاً."
+    },
+    {
+      "id": 258,
+      "text": "The camera sees this and writes the word.",
+      "translation": "ترى الكاميرا هذا وتكتب الكلمة."
+    },
+    {
+      "id": 259,
+      "text": "Stephen can now only find three words in a minute, so it takes him hours to write or say anything.",
+      "translation": "يمكن لستيفن الآن العثور على ثلاث كلمات فقط في الدقيقة، لذا يستغرق كتابة أو قول أي شيء ساعات."
+    },
+    {
+      "id": 260,
+      "text": "Writing on a voice computer is very difficult, but Stephen has written many important lectures - and seven books - like this!",
+      "translation": "الكتابة على كمبيوتر صوتي صعبة للغاية، لكن ستيفن كتب العديد من المحاضرات المهمة - وسبعة كتب - بهذه الطريقة!"
+    },
+    {
+      "id": 261,
+      "text": "Stephen's computer voice has not changed since 1985.",
+      "translation": "لم يتغير صوت كمبيوتر ستيفن منذ عام 1985."
+    },
+    {
+      "id": 262,
+      "text": "There are lots of new and better computer voices now, but Stephen does not want a new one.",
+      "translation": "هناك الكثير من أصوات الكمبيوتر الجديدة والأفضل الآن، لكن ستيفن لا يريد صوتاً جديداً."
+    },
+    {
+      "id": 263,
+      "text": "His voice has become as famous as him, and when Stephen speaks, everyone knows who it is!",
+      "translation": "أصبح صوته مشهوراً مثله، وعندما يتحدث ستيفن، يعرف الجميع من هو!"
+    },
+    {
+      "id": 264,
+      "text": "CHAPTER SEVEN",
+      "translation": "الفصل السابع"
+    },
+    {
+      "id": 265,
+      "text": "A Big Name",
+      "translation": "اسم كبير"
+    },
+    {
+      "id": 266,
+      "text": "By the middle of the 1970s, cosmologists everywhere knew about Stephen because of his work on black holes.",
+      "translation": "بحلول منتصف السبعينيات، كان علماء الكونيات في كل مكان يعرفون ستيفن بسبب عمله على الثقوب السوداء."
+    },
+    {
+      "id": 267,
+      "text": "Ordinary people in Britain began to hear his name more after he was on British TV in Professor Hawking's Universe in the 1980s.",
+      "translation": "بدأ الناس العاديون في بريطانيا يسمعون اسمه أكثر بعد ظهوره على التلفزيون البريطاني في برنامج 'كون البروفيسور هوكينغ' في الثمانينيات."
+    },
+    {
+      "id": 268,
+      "text": "Stephen also got an important British award called a CBE in 1982.",
+      "translation": "حصل ستيفن أيضاً على جائزة بريطانية مهمة تُسمى CBE في عام 1982."
+    },
+    {
+      "id": 269,
+      "text": "After he got that award, he was often on TV and in the newspapers - first in Britain, and then around the world.",
+      "translation": "بعد حصوله على تلك الجائزة، كان غالباً ما يظهر على التلفزيون وفي الصحف - أولاً في بريطانيا، ثم حول العالم."
+    },
+    {
+      "id": 270,
+      "text": "Of course, for many people, the story of Stephen's life was as interesting as his ideas about physics.",
+      "translation": "بالطبع، بالنسبة للكثيرين، كانت قصة حياة ستيفن مثيرة للاهتمام مثل أفكاره عن الفيزياء."
+    },
+    {
+      "id": 271,
+      "text": "He was so clever, but he had a body with terrible disabilities.",
+      "translation": "كان ذكياً جداً، لكن كان لديه جسد بإعاقات مروعة."
+    },
+    {
+      "id": 272,
+      "text": "He could understand the universe, but he could not move his arms or legs.",
+      "translation": "كان قادراً على فهم الكون، لكنه لم يستطع تحريك ذراعيه أو ساقيه."
+    },
+    {
+      "id": 273,
+      "text": "And after twenty years with a deadly disease, he was still alive!",
+      "translation": "وبعد عشرين عاماً مع مرض قاتل، كان لا يزال على قيد الحياة!"
+    },
+    {
+      "id": 274,
+      "text": "Stephen Hawking's story was wonderful, but people also loved him as a person.",
+      "translation": "كانت قصة ستيفن هوكينغ رائعة، لكن الناس أحبوه أيضاً كشخص."
+    },
+    {
+      "id": 275,
+      "text": "He could explain difficult ideas in science, and when he talked about them, they became interesting.",
+      "translation": "كان قادراً على شرح الأفكار الصعبة في العلم، وعندما كان يتحدث عنها، أصبحت مثيرة للاهتمام."
+    },
+    {
+      "id": 276,
+      "text": "He always had a funny, clever reply for every question, too.",
+      "translation": "كان لديه دائماً رد مضحك وذكي على كل سؤال أيضاً."
+    },
+    {
+      "id": 277,
+      "text": "Explaining science on TV gave Stephen a great idea.",
+      "translation": "أعطى شرح العلم على التلفزيون ستيفن فكرة رائعة."
+    },
+    {
+      "id": 278,
+      "text": "He decided to write a book about cosmology for ordinary people, not scientists.",
+      "translation": "قرر كتابة كتاب عن علم الكونيات للناس العاديين، وليس للعلماء."
+    },
+    {
+      "id": 279,
+      "text": "Many people said that it was not possible.",
+      "translation": "قال الكثيرون إن ذلك غير ممكن."
+    },
+    {
+      "id": 280,
+      "text": "They did not think that anyone would want to read a book like that.",
+      "translation": "لم يعتقدوا أن أي شخص سيرغب في قراءة كتاب كهذا."
+    },
+    {
+      "id": 281,
+      "text": "But Stephen did not listen.",
+      "translation": "لكن ستيفن لم يستمع."
+    },
+    {
+      "id": 282,
+      "text": "When Stephen began to work on his book, A Brief History of Time, in 1982, he spoke the words to someone who wrote them for him.",
+      "translation": "عندما بدأ ستيفن العمل على كتابه 'تاريخ موجز للزمن' في عام 1982، كان ينطق الكلمات لشخص يكتبها له."
+    },
+    {
+      "id": 283,
+      "text": "But after he lost his voice in 1985, he had to finish the book on his voice computer, writing very, very slowly.",
+      "translation": "لكن بعد أن فقد صوته في عام 1985، اضطر لإنهاء الكتاب على كمبيوتر الصوت الخاص به، يكتب ببطء شديد جداً."
+    },
+    {
+      "id": 284,
+      "text": "Stephen also needed to change some pages of the book again and again - because he wanted ordinary people to understand it easily.",
+      "translation": "احتاج ستيفن أيضاً لتغيير بعض صفحات الكتاب مراراً وتكراراً - لأنه أراد أن يفهمه الناس العاديون بسهولة."
+    },
+    {
+      "id": 285,
+      "text": "At last, in 1988, after a lot of very hard work, the book was ready.",
+      "translation": "أخيراً، في عام 1988، بعد الكثير من العمل الشاق جداً، أصبح الكتاب جاهزاً."
+    },
+    {
+      "id": 286,
+      "text": "And when it began selling in the shops later that year, people loved it.",
+      "translation": "وعندما بدأ بيعه في المتاجر في وقت لاحق من ذلك العام، أحبه الناس."
+    },
+    {
+      "id": 287,
+      "text": "More than ten million people bought A Brief History of Time, and you can now read it in forty different languages.",
+      "translation": "اشترى أكثر من عشرة ملايين شخص 'تاريخ موجز للزمن'، ويمكنك الآن قراءته بأربعين لغة مختلفة."
+    },
+    {
+      "id": 288,
+      "text": "Stephen travelled a lot to talk about the book, and in many towns around the world, people waited for hours to see him.",
+      "translation": "سافر ستيفن كثيراً للتحدث عن الكتاب، وفي العديد من البلدات حول العالم، انتظر الناس ساعات لرؤيته."
+    },
+    {
+      "id": 289,
+      "text": "Stephen still gets letters and emails about A Brief History of Time today.",
+      "translation": "لا يزال ستيفن يتلقى رسائل وبريداً إلكترونياً حول 'تاريخ موجز للزمن' حتى اليوم."
+    },
+    {
+      "id": 290,
+      "text": "Readers write to him and say how much they enjoyed it.",
+      "translation": "يكتب القراء إليه ويقولون كم استمتعوا به."
+    },
+    {
+      "id": 291,
+      "text": "So why did people like A Brief History of Time so much?",
+      "translation": "فلماذا أحب الناس 'تاريخ موجز للزمن' كثيراً؟"
+    },
+    {
+      "id": 292,
+      "text": "Perhaps because it asked many important questions, and because people who read it understood for the first time how wonderful our universe really is.",
+      "translation": "ربما لأنه طرح العديد من الأسئلة المهمة، ولأن الأشخاص الذين قرؤوه فهموا لأول مرة كم هو كوننا رائع حقاً."
+    },
+    {
+      "id": 293,
+      "text": "Many young people became interested in science - and perhaps became scientists - because of Stephen's book.",
+      "translation": "أصبح العديد من الشباب مهتمين بالعلم - وربما أصبحوا علماء - بسبب كتاب ستيفن."
+    },
+    {
+      "id": 294,
+      "text": "Since A Brief History of Time, Stephen has written more science books for ordinary readers, and a book about his life, called My Brief History.",
+      "translation": "منذ 'تاريخ موجز للزمن'، كتب ستيفن المزيد من كتب العلم للقراء العاديين، وكتاباً عن حياته يُدعى 'تاريخي الموجز'."
+    },
+    {
+      "id": 295,
+      "text": "Stephen wants children to understand science and cosmology, too, so he has written some books for children with his daughter, the writer Lucy Hawking.",
+      "translation": "يريد ستيفن أن يفهم الأطفال العلم وعلم الكونيات أيضاً، لذلك كتب بعض الكتب للأطفال مع ابنته، الكاتبة لوسي هوكينغ."
+    },
+    {
+      "id": 296,
+      "text": "In the books, a young boy called George travels around the universe with his friends.",
+      "translation": "في الكتب، يسافر صبي صغير يُدعى جورج حول الكون مع أصدقائه."
+    },
+    {
+      "id": 297,
+      "text": "He visits places like black holes and does some wonderful things.",
+      "translation": "يزور أماكن مثل الثقوب السوداء ويقوم ببعض الأشياء الرائعة."
+    },
+    {
+      "id": 298,
+      "text": "The books are great stories, but they are also science books.",
+      "translation": "الكتب قصص رائعة، لكنها أيضاً كتب علمية."
+    },
+    {
+      "id": 299,
+      "text": "They explain physics and cosmology in an easy way for children.",
+      "translation": "تشرح الفيزياء وعلم الكونيات بطريقة سهلة للأطفال."
+    },
+    {
+      "id": 300,
+      "text": "Stephen Hawking's theories, books, and life story have made him one of the most famous people on Earth.",
+      "translation": "جعلت نظريات ستيفن هوكينغ وكتبه وقصة حياته واحداً من أشهر الناس على وجه الأرض."
+    },
+    {
+      "id": 301,
+      "text": "People from newspapers and the TV are always asking to talk to him, and his office in Cambridge is often full of cameras.",
+      "translation": "يطلب الناس من الصحف والتلفزيون دائماً التحدث معه، ومكتبه في كامبريدج غالباً ما يكون مليئاً بالكاميرات."
+    },
+    {
+      "id": 302,
+      "text": "People do not just want to know what Stephen thinks about cosmology.",
+      "translation": "لا يريد الناس فقط معرفة رأي ستيفن في علم الكونيات."
+    },
+    {
+      "id": 303,
+      "text": "They ask him for his ideas about anything - from computers to football and pop music.",
+      "translation": "يطلبون منه أفكاره حول أي شيء - من أجهزة الكمبيوتر إلى كرة القدم وموسيقى البوب."
+    },
+    {
+      "id": 304,
+      "text": "Stephen likes to make jokes, too, and he has been on TV in The Simpsons and The Big Bang Theory.",
+      "translation": "يحب ستيفن إلقاء النكات أيضاً، وقد ظهر على التلفزيون في مسلسلي 'عائلة سيمبسون' و'نظرية الانفجار العظيم'."
+    },
+    {
+      "id": 305,
+      "text": "There are also two great films about his life.",
+      "translation": "هناك أيضاً فيلمان رائعان عن حياته."
+    },
+    {
+      "id": 306,
+      "text": "It is not always easy to be famous.",
+      "translation": "ليس من السهل دائماً أن تكون مشهوراً."
+    },
+    {
+      "id": 307,
+      "text": "But because everyone knows Stephen's name, he can do many things that are important to him - speaking against wars and helping children with disabilities, for example.",
+      "translation": "لكن لأن الجميع يعرفون اسم ستيفن، يمكنه القيام بالعديد من الأشياء المهمة له - التحدث ضد الحروب ومساعدة الأطفال ذوي الإعاقات، على سبيل المثال."
+    },
+    {
+      "id": 308,
+      "text": "Since the 1960s, Stephen and Jane have worked hard to help people with ALS.",
+      "translation": "منذ الستينيات، عمل ستيفن وجين بجد لمساعدة المصابين بمرض التصلب الجانبي الضموري."
+    },
+    {
+      "id": 309,
+      "text": "Jane has visited people with the disease in their homes, and Stephen and Jane have done many things to get money for ALS charities.",
+      "translation": "زارت جين أشخاصاً مصابين بالمرض في منازلهم، وقام ستيفن وجين بالكثير من الأشياء لجمع المال للجمعيات الخيرية الخاصة بمرض التصلب الجانبي الضموري."
+    },
+    {
+      "id": 310,
+      "text": "Being famous has helped their work.",
+      "translation": "ساعدت شهرتهما في عملهما."
+    },
+    {
+      "id": 311,
+      "text": "Before Stephen became ill, not many people knew about ALS, but now, a lot of people have heard about it.",
+      "translation": "قبل أن يمرض ستيفن، لم يكن الكثير من الناس يعرفون عن مرض التصلب الجانبي الضموري، لكن الآن، سمع الكثير من الناس عنه."
+    },
+    {
+      "id": 312,
+      "text": "Today, ALS charities are working to try to stop this terrible disease, and people have given millions of pounds to help them.",
+      "translation": "اليوم، تعمل الجمعيات الخيرية الخاصة بمرض التصلب الجانبي الضموري على محاولة إيقاف هذا المرض المروع، وقد تبرع الناس بملايين الجنيهات لمساعدتها."
+    },
+    {
+      "id": 313,
+      "text": "In the 1980s and 1990s, Stephen travelled all over the world to give lectures and meet with scientists.",
+      "translation": "في الثمانينيات والتسعينيات، سافر ستيفن في جميع أنحاء العالم لإلقاء المحاضرات والاجتماع بالعلماء."
+    },
+    {
+      "id": 314,
+      "text": "When he travelled, he also often met with groups of children who had disabilities.",
+      "translation": "عندما كان يسافر، كان يلتقي غالباً بمجموعات من الأطفال ذوي الإعاقات."
+    },
+    {
+      "id": 315,
+      "text": "He answered their questions, told them stories from his life, and gave them hope.",
+      "translation": "أجاب على أسئلتهم، وأخبرهم قصصاً من حياته، وأعطاهم الأمل."
+    },
+    {
+      "id": 316,
+      "text": "Since 1990, he has worked with a charity called SOS Children's Villages, too.",
+      "translation": "منذ عام 1990، عمل أيضاً مع جمعية خيرية تُدعى 'قرى الأطفال SOS'."
+    },
+    {
+      "id": 317,
+      "text": "The charity helps children who have no mothers and fathers, and tries to give them a better future.",
+      "translation": "تساعد الجمعية الخيرية الأطفال الذين ليس لديهم آباء وأمهات، وتحاول منحهم مستقبلاً أفضل."
+    },
+    {
+      "id": 318,
+      "text": "On 29th August 2012, Stephen spoke at the opening of the London Paralympic Games.",
+      "translation": "في 29 أغسطس 2012، تحدث ستيفن في افتتاح دورة الألعاب البارالمبية في لندن."
+    },
+    {
+      "id": 319,
+      "text": "More than sixty-two thousand people were there that night, and millions more were watching on TV around the world.",
+      "translation": "كان هناك أكثر من اثنين وستين ألف شخص في تلك الليلة، وكان الملايين يشاهدون على التلفزيون حول العالم."
+    },
+    {
+      "id": 320,
+      "text": "At the opening, Stephen talked about how nobody is ordinary - everyone is different.",
+      "translation": "في الافتتاح، تحدث ستيفن عن كيف أن لا أحد عادي - الجميع مختلفون."
+    },
+    {
+      "id": 321,
+      "text": "And he said that everyone can be good at something - even people who have very difficult lives.",
+      "translation": "وقال إنه يمكن للجميع أن يكونوا جيدين في شيء ما - حتى الأشخاص الذين يعيشون حياة صعبة للغاية."
+    },
+    {
+      "id": 322,
+      "text": "Stephen has shown this, and there are not many people in the world, with or without disabilities, who have become as important or as famous as him.",
+      "translation": "لقد أظهر ستيفن ذلك، ولا يوجد الكثير من الناس في العالم، سواء كانوا ذوي إعاقات أم لا، أصبحوا بنفس أهميته أو شهرته."
+    },
+    {
+      "id": 323,
+      "text": "CHAPTER EIGHT",
+      "translation": "الفصل الثامن"
+    },
+    {
+      "id": 324,
+      "text": "Family Life",
+      "translation": "الحياة العائلية"
+    },
+    {
+      "id": 325,
+      "text": "In December 2014, Stephen and Jane Hawking went to London for the first night of a new film about their lives, The Theory of Everything.",
+      "translation": "في ديسمبر 2014، ذهب ستيفن وجين هوكينغ إلى لندن لحضور الليلة الأولى لفيلم جديد عن حياتهما، 'نظرية كل شيء'."
+    },
+    {
+      "id": 326,
+      "text": "The film was made from a book by Jane.",
+      "translation": "صُنع الفيلم من كتاب كتبته جين."
+    },
+    {
+      "id": 327,
+      "text": "Felicity Jones played Jane, and Eddie Redmayne played Stephen - and he won an Oscar and many other awards for it.",
+      "translation": "لعبت فيليستي جونز دور جين، ولعب إيدي ريدماين دور ستيفن - وفاز بجائزة أوسكار والعديد من الجوائز الأخرى على ذلك."
+    },
+    {
+      "id": 328,
+      "text": "Stephen and Jane smiled for photos with the stars of the film, and they looked very happy when they went down the red carpet and into the cinema.",
+      "translation": "ابتسم ستيفن وجين لالتقاط الصور مع نجوم الفيلم، وبدوا سعداء جداً عندما سارا على السجادة الحمراء ودخلا السينما."
+    },
+    {
+      "id": 329,
+      "text": "But life has never been easy for them, and The Theory of Everything showed people that.",
+      "translation": "لكن الحياة لم تكن سهلة أبداً بالنسبة لهما، وقد أظهر فيلم 'نظرية كل شيء' ذلك للناس."
+    },
+    {
+      "id": 330,
+      "text": "When Jane married Stephen, she knew that he had ALS.",
+      "translation": "عندما تزوجت جين ستيفن، كانت تعلم أنه مصاب بالتصلب الجانبي الضموري (ALS)."
+    },
+    {
+      "id": 331,
+      "text": "They both thought that Stephen would not live very long, but they wanted to be together and have a family.",
+      "translation": "اعتقد كلاهما أن ستيفن لن يعيش طويلاً، لكنهما أرادا أن يكونا معاً وأن يكون لديهما عائلة."
+    },
+    {
+      "id": 332,
+      "text": "In 1967, Stephen and Jane's first child, Robert, was born, and a few years later, they had a daughter called Lucy.",
+      "translation": "في عام 1967، وُلد الطفل الأول لستيفن وجين، روبرت، وبعد بضع سنوات، رُزقا بابنة تُدعى لوسي."
+    },
+    {
+      "id": 333,
+      "text": "Stephen could not do many ordinary things with the children - he could not take them to school or play with them in the garden.",
+      "translation": "لم يستطع ستيفن القيام بالكثير من الأشياء العادية مع الأطفال - لم يكن بإمكانه أخذهم إلى المدرسة أو اللعب معهم في الحديقة."
+    },
+    {
+      "id": 334,
+      "text": "But he tried to be a good father, and he loved being with his children.",
+      "translation": "لكنه حاول أن يكون أباً صالحاً، وأحب البقاء مع أطفاله."
+    },
+    {
+      "id": 335,
+      "text": "Stephen and Jane's third child, Tim, was born in 1979.",
+      "translation": "وُلد الطفل الثالث لستيفن وجين، تيم، في عام 1979."
+    },
+    {
+      "id": 336,
+      "text": "He was much younger than the other Hawking children and, by this time, Stephen was already using a wheelchair and he could not speak very much.",
+      "translation": "كان أصغر بكثير من أطفال هوكينغ الآخرين، وبحلول هذا الوقت، كان ستيفن يستخدم كرسياً متحركاً بالفعل ولم يكن قادراً على التحدث كثيراً."
+    },
+    {
+      "id": 337,
+      "text": "For the first years of Tim's life, he could not really understand his father's voice.",
+      "translation": "في السنوات الأولى من حياة تيم، لم يكن قادراً حقاً على فهم صوت والده."
+    },
+    {
+      "id": 338,
+      "text": "He and his father could only have a real conversation after Stephen got his voice computer.",
+      "translation": "لم يتمكنا هو ووالده من إجراء محادثة حقيقية إلا بعد حصول ستيفن على كمبيوتر الصوت الخاص به."
+    },
+    {
+      "id": 339,
+      "text": "But Tim and Stephen spent a lot of time together.",
+      "translation": "لكن تيم وستيفن أمضيا الكثير من الوقت معاً."
+    },
+    {
+      "id": 340,
+      "text": "Like his father, Tim enjoyed making jokes - and he liked driving his father's wheelchair around the house!",
+      "translation": "مثل والده، استمتع تيم بإلقاء النكات - وكان يحب قيادة كرسي والده المتحرك في جميع أنحاء المنزل!"
+    },
+    {
+      "id": 341,
+      "text": "At that time, it was not easy to live in a place like Cambridge if you had to use a wheelchair.",
+      "translation": "في ذلك الوقت، لم يكن من السهل العيش في مكان مثل كامبريدج إذا كنت مضطراً لاستخدام كرسي متحرك."
+    },
+    {
+      "id": 342,
+      "text": "When Jane and Stephen went out, they had problems with holes in the roads, places that had no space for a wheelchair, and buildings with lots of stairs.",
+      "translation": "عندما كان جين وستيفن يخرجان، كانا يواجهان مشاكل مع الحفر في الطرق، والأماكن التي لا تتسع لكرسي متحرك، والمباني التي بها الكثير من السلالم."
+    },
+    {
+      "id": 343,
+      "text": "They often had to ask for help when they wanted to go into a shop or just cross the street.",
+      "translation": "كان عليهما غالباً طلب المساعدة عندما يريدان الدخول إلى متجر أو مجرد عبور الشارع."
+    },
+    {
+      "id": 344,
+      "text": "So they decided to fight for the needs of people with disabilities, and they wrote letters to newspapers and to important people.",
+      "translation": "لذلك قررا النضال من أجل احتياجات الأشخاص ذوي الإعاقات، وكتبا رسائل إلى الصحف وإلى أشخاص مهمين."
+    },
+    {
+      "id": 345,
+      "text": "They also went out in the streets with other people who had disabilities, and their families, and called for change.",
+      "translation": "خرجا أيضاً إلى الشوارع مع أشخاص آخرين ذوي إعاقات، وعائلاتهم، ودعوا إلى التغيير."
+    },
+    {
+      "id": 346,
+      "text": "All around Britain, groups of people with disabilities talked about how difficult life was for them.",
+      "translation": "في جميع أنحاء بريطانيا، تحدثت مجموعات من الأشخاص ذوي الإعاقات عن مدى صعوبة الحياة بالنسبة لهم."
+    },
+    {
+      "id": 347,
+      "text": "And slowly, more people began to listen to their needs.",
+      "translation": "وببطء، بدأ المزيد من الناس يستمعون إلى احتياجاتهم."
+    },
+    {
+      "id": 348,
+      "text": "Roads and buildings all around Britain began to change, and at last, people with disabilities could use them more easily.",
+      "translation": "بدأت الطرق والمباني في جميع أنحاء بريطانيا تتغير، وأخيراً، تمكن الأشخاص ذوو الإعاقات من استخدامها بسهولة أكبر."
+    },
+    {
+      "id": 349,
+      "text": "Stephen needed a lot of help all day and night, and he often had to go into hospital.",
+      "translation": "احتاج ستيفن الكثير من المساعدة طوال اليوم والليل، وكان غالباً ما يضطر للذهاب إلى المستشفى."
+    },
+    {
+      "id": 350,
+      "text": "For many years, Jane was studying for a PhD, but she also had to look after the children, wash and dress Stephen, tidy the house, cook, and give Stephen his food one piece at a time.",
+      "translation": "لسنوات عديدة، كانت جين تدرس للحصول على الدكتوراه، لكن كان عليها أيضاً رعاية الأطفال، وغسل وملابس ستيفن، وترتيب المنزل، والطبخ، وإعطاء ستيفن طعامه قطعة قطعة."
+    },
+    {
+      "id": 351,
+      "text": "And when it was time for bed, Jane and another helper had to carry Stephen up the stairs.",
+      "translation": "وعندما يحين وقت النوم، كان على جين ومساعد آخر حمل ستيفن صعوداً على الدرج."
+    },
+    {
+      "id": 352,
+      "text": "When Stephen, Jane, and the children were in America in 1974, a PhD student lived with the family and helped at home.",
+      "translation": "عندما كان ستيفن وجين والأطفال في أمريكا في عام 1974، عاش طالب دكتوراه مع العائلة وساعد في المنزل."
+    },
+    {
+      "id": 353,
+      "text": "Stephen and Jane thought that this was a good idea - so back in Britain, for many years, different PhD students lived with them in their house in Cambridge, and looked after Stephen with Jane.",
+      "translation": "اعتقد ستيفن وجين أن هذه فكرة جيدة - لذا في بريطانيا، لسنوات عديدة، عاش طلاب دكتوراه مختلفون معهم في منزلهم في كامبريدج، واعتنوا بستيفن مع جين."
+    },
+    {
+      "id": 354,
+      "text": "Nurses and other people visited them all the time, too, so the house was always full of people.",
+      "translation": "كان الممرضون وأشخاص آخرون يزورونهم طوال الوقت أيضاً، لذلك كان المنزل ممتلئاً دائماً بالناس."
+    },
+    {
+      "id": 355,
+      "text": "It was not easy for the Hawkings to be alone, and they could not have an ordinary family life.",
+      "translation": "لم يكن من السهل على آل هوكينغ أن يكونوا وحدهم، ولم يتمكنوا من عيش حياة عائلية عادية."
+    },
+    {
+      "id": 356,
+      "text": "Stephen and Jane's marriage came to an end in 1990.",
+      "translation": "انتهى زواج ستيفن وجين في عام 1990."
+    },
+    {
+      "id": 357,
+      "text": "In 1995, Stephen married his nurse, Elaine Mason, and they were together for eleven years.",
+      "translation": "في عام 1995، تزوج ستيفن ممرضته، إيلين ماسون، وبقيا معاً لمدة أحد عشر عاماً."
+    },
+    {
+      "id": 358,
+      "text": "He now lives alone, but people visit his house and look after him twenty-four hours a day.",
+      "translation": "يعيش الآن وحده، لكن الناس يزورون منزله ويعتنون به أربعاً وعشرين ساعة في اليوم."
+    },
+    {
+      "id": 359,
+      "text": "Jane married again in 1997, but she is still good friends with Stephen.",
+      "translation": "تزوجت جين مرة أخرى في عام 1997، لكنها لا تزال صديقة جيدة لستيفن."
+    },
+    {
+      "id": 360,
+      "text": "They often meet and see their children together, and they have grandchildren now, too.",
+      "translation": "غالباً ما يلتقيان ويريان أطفالهما معاً، ولديهما أحفاد الآن أيضاً."
+    },
+    {
+      "id": 361,
+      "text": "Lucy and Tim Hawking went with their mother and father to the first night of the film The Theory of Everything.",
+      "translation": "ذهبت لوسي وتيم هوكينغ مع والدتهما ووالدهما إلى الليلة الأولى لفيلم 'نظرية كل شيء'."
+    },
+    {
+      "id": 362,
+      "text": "They watched when Eddie Redmayne danced with Felicity Jones - the woman in the film who played their mother.",
+      "translation": "شاهدا عندما رقص إيدي ريدماين مع فيليستي جونز - المرأة في الفيلم التي لعبت دور والدتهما."
+    },
+    {
+      "id": 363,
+      "text": "They watched when a young 'Stephen Hawking' rode a bicycle, went out in a boat, and enjoyed himself with friends.",
+      "translation": "شاهدا عندما ركب 'ستيفن هوكينغ' الشاب دراجة، وخرج في قارب، واستمتع مع أصدقائه."
+    },
+    {
+      "id": 364,
+      "text": "And when Tim sat there in the dark cinema, he cried a little - because he never saw his father do those things in real life.",
+      "translation": "وعندما جلس تيم هناك في السينما المظلمة، بكى قليلاً - لأنه لم يرَ والده يفعل تلك الأشياء في الحياة الحقيقية."
+    },
+    {
+      "id": 365,
+      "text": "CHAPTER NINE",
+      "translation": "الفصل التاسع"
+    },
+    {
+      "id": 366,
+      "text": "Into the Future",
+      "translation": "نحو المستقبل"
+    },
+    {
+      "id": 367,
+      "text": "In February 2016, some cosmologists discovered what happens when two black holes meet.",
+      "translation": "في فبراير 2016، اكتشف بعض علماء الكونيات ما يحدث عندما يلتقي ثقبان أسودان."
+    },
+    {
+      "id": 368,
+      "text": "Stephen was not one of these scientists, but people wanted to know what he thought about the news.",
+      "translation": "لم يكن ستيفن أحد هؤلاء العلماء، لكن الناس أرادوا معرفة رأيه في الأخبار."
+    },
+    {
+      "id": 369,
+      "text": "'What does it mean?' they asked. 'How important is this?'",
+      "translation": "\"ماذا يعني هذا؟\" سألوا. \"ما مدى أهمية هذا؟\""
+    },
+    {
+      "id": 370,
+      "text": "Stephen explained the cosmologists' work, and why it was important, in a way that ordinary people could understand.",
+      "translation": "شرح ستيفن عمل علماء الكونيات، ولماذا كان مهماً، بطريقة يمكن للناس العاديين فهمها."
+    },
+    {
+      "id": 371,
+      "text": "People around the world are always interested in Stephen's ideas.",
+      "translation": "يهتم الناس حول العالم دائماً بأفكار ستيفن."
+    },
+    {
+      "id": 372,
+      "text": "We listen to Stephen Hawking because he is one of the greatest thinkers of our time.",
+      "translation": "نستمع إلى ستيفن هوكينغ لأنه أحد أعظم المفكرين في عصرنا."
+    },
+    {
+      "id": 373,
+      "text": "Stephen has never stopped asking questions and trying to understand our wonderful universe.",
+      "translation": "لم يتوقف ستيفن أبداً عن طرح الأسئلة ومحاولة فهم كوننا الرائع."
+    },
+    {
+      "id": 374,
+      "text": "When he began his work on black holes, many people asked, 'Are black holes real or not?'",
+      "translation": "عندما بدأ عمله على الثقوب السوداء، سأل الكثير من الناس: 'هل الثقوب السوداء حقيقية أم لا؟'"
+    },
+    {
+      "id": 375,
+      "text": "But today, scientists think that there are black holes everywhere in space.",
+      "translation": "لكن اليوم، يعتقد العلماء أن هناك ثقوباً سوداء في كل مكان في الفضاء."
+    },
+    {
+      "id": 376,
+      "text": "There is even a black hole in the centre of our galaxy, and it is bigger than a million suns!",
+      "translation": "هناك حتى ثقب أسود في مركز مجرتنا، وهو أكبر من مليون شمس!"
+    },
+    {
+      "id": 377,
+      "text": "Are Stephen's other theories right, too? We still do not know, and we will not know for many years.",
+      "translation": "هل نظريات ستيفن الأخرى صحيحة أيضاً؟ ما زلنا لا نعرف، ولن نعرف لسنوات عديدة."
+    },
+    {
+      "id": 378,
+      "text": "But one thing is sure: Stephen Hawking's ideas have explained many important things in physics and cosmology.",
+      "translation": "لكن هناك شيء واحد مؤكد: لقد شرحت أفكار ستيفن هوكينغ العديد من الأشياء المهمة في الفيزياء وعلم الكونيات."
+    },
+    {
+      "id": 379,
+      "text": "Cosmologists like Stephen know that we live on an ordinary planet near an ordinary star in an ordinary galaxy.",
+      "translation": "يعرف علماء الكونيات مثل ستيفن أننا نعيش على كوكب عادي بالقرب من نجم عادي في مجرة عادية."
+    },
+    {
+      "id": 380,
+      "text": "They say that our galaxy is one of billions out there in space.",
+      "translation": "يقولون إن مجرتنا هي واحدة من المليارات في الفضاء."
+    },
+    {
+      "id": 381,
+      "text": "Perhaps life is 'ordinary', too, but Stephen thinks that people are not ordinary, because we have science.",
+      "translation": "ربما تكون الحياة 'عادية' أيضاً، لكن ستيفن يعتقد أن الناس ليسوا عاديين، لأن لدينا العلم."
+    },
+    {
+      "id": 382,
+      "text": "Because of science, we have learned how to look at the world around us and ask questions.",
+      "translation": "بفضل العلم، تعلمنا كيفية النظر إلى العالم من حولنا وطرح الأسئلة."
+    },
+    {
+      "id": 383,
+      "text": "We have begun to understand what the universe is, how it began, and why we are here.",
+      "translation": "بدأنا نفهم ما هو الكون، وكيف بدأ، ولماذا نحن هنا."
+    },
+    {
+      "id": 384,
+      "text": "And because of this, Stephen thinks that we are very special.",
+      "translation": "وبسبب هذا، يعتقد ستيفن أننا مميزون جداً."
+    },
+    {
+      "id": 385,
+      "text": "Science has changed the lives of everyone on Earth, and Stephen thinks that it is very important for our future.",
+      "translation": "لقد غير العلم حياة كل شخص على الأرض، ويعتقد ستيفن أنه مهم جداً لمستقبلنا."
+    },
+    {
+      "id": 386,
+      "text": "But science can also bring dangers, he says.",
+      "translation": "لكن العلم يمكن أن يجلب مخاطر أيضاً، كما يقول."
+    },
+    {
+      "id": 387,
+      "text": "We are building robots that are better and better all the time, and Stephen thinks that perhaps one day, somebody will use robot soldiers which can kill millions of people in a war.",
+      "translation": "نحن نبني روبوتات أفضل وأفضل طوال الوقت، ويعتقد ستيفن أنه ربما في يوم من الأيام، سيستخدم شخص ما جنوداً آليين يمكنهم قتل الملايين في الحرب."
+    },
+    {
+      "id": 388,
+      "text": "Scientists are also trying to make computers which can think.",
+      "translation": "يحاول العلماء أيضاً صنع أجهزة كمبيوتر يمكنها التفكير."
+    },
+    {
+      "id": 389,
+      "text": "But when we build them, will these computers become cleverer than us?",
+      "translation": "لكن عندما نبنيها، هل ستصبح هذه الأجهزة أذكى منا؟"
+    },
+    {
+      "id": 390,
+      "text": "We must be careful and learn how to use these computers, Stephen thinks - before they learn how to use us!",
+      "translation": "يجب أن نكون حذرين ونتعلم كيفية استخدام هذه الأجهزة، كما يعتقد ستيفن - قبل أن تتعلم هي كيفية استخدامنا!"
+    },
+    {
+      "id": 391,
+      "text": "But Stephen has a lot of hope for the future, too.",
+      "translation": "لكن لدى ستيفن الكثير من الأمل في المستقبل أيضاً."
+    },
+    {
+      "id": 392,
+      "text": "He thinks that one day, people will build wonderful new machines and travel through the galaxy.",
+      "translation": "يعتقد أنه في يوم من الأيام، سيبني الناس آلات جديدة رائعة ويسافرون عبر المجرة."
+    },
+    {
+      "id": 393,
+      "text": "They will discover new worlds, and will perhaps decide to live far away from Earth.",
+      "translation": "سيكتشفون عوالم جديدة، وربما يقررون العيش بعيداً عن الأرض."
+    },
+    {
+      "id": 394,
+      "text": "Stephen wants to go into space himself one day, and he already has a ticket!",
+      "translation": "يريد ستيفن الذهاب إلى الفضاء بنفسه يوماً ما، ولديه تذكرة بالفعل!"
+    },
+    {
+      "id": 395,
+      "text": "He wants to be one of the first passengers on a special new 'space plane', which will take ordinary people into space for a short time, and then bring them back again.",
+      "translation": "يريد أن يكون أحد أوائل الركاب على 'طائرة فضاء' جديدة خاصة، ستنقل الناس العاديين إلى الفضاء لفترة قصيرة، ثم تعيدهم مرة أخرى."
+    },
+    {
+      "id": 396,
+      "text": "It will be a dangerous journey, but Stephen wants to go because he wants more people to be interested in space travel.",
+      "translation": "ستكون رحلة خطرة، لكن ستيفن يريد الذهاب لأنه يريد أن يهتم المزيد من الناس بالسفر إلى الفضاء."
+    },
+    {
+      "id": 397,
+      "text": "In 2007, Stephen flew in another special plane, from the Kennedy Space Center in the USA.",
+      "translation": "في عام 2007، سافر ستيفن في طائرة خاصة أخرى، من مركز كينيدي للفضاء في الولايات المتحدة."
+    },
+    {
+      "id": 398,
+      "text": "The plane climbed high into the sky above Florida, then suddenly came down very fast.",
+      "translation": "صعدت الطائرة عالياً في السماء فوق فلوريدا، ثم هبطت فجأة بسرعة كبيرة."
+    },
+    {
+      "id": 399,
+      "text": "The people inside were falling to Earth, but the plane was flying down just as fast - so the passengers felt no gravity for about twenty-five seconds.",
+      "translation": "كان الأشخاص بالداخل يسقطون نحو الأرض، لكن الطائرة كانت تهبط بنفس السرعة - لذلك لم يشعر الركاب بأي جاذبية لمدة خمس وعشرين ثانية تقريباً."
+    },
+    {
+      "id": 400,
+      "text": "Stephen loved the feeling of 'zero gravity'.",
+      "translation": "أحب ستيفن الشعور 'بانعدام الجاذبية'."
+    },
+    {
+      "id": 401,
+      "text": "He smiled from ear to ear while his helpers turned his body around and around.",
+      "translation": "ابتسم من الأذن إلى الأذن بينما كان مساعدوه يديرون جسده roundاً تلو الآخر."
+    },
+    {
+      "id": 402,
+      "text": "The great scientist and thinker was flying!",
+      "translation": "كان العالم والمفكر العظيم يطير!"
+    },
+    {
+      "id": 403,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 404,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 405,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ للعثور على المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
