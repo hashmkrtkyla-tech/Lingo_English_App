@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_26",
+      "exercises": [
+        {"t":"choice","c":"gate","dir":"t2n","big":true,"d":["queue","customs"]},
+        {"t":"choice","c":"customs","dir":"n2t","d":["queue","announcement"]},
+        {"t":"match","cs":["gate","security","customs","queue"]},
+        {"t":"match","cs":["passenger","announcement","board","declare"]},
+        {"t":"build","c":"do_you_have_anything_to_declare","dir":"n2t","d":["gate","queue"]},
+        {"t":"build","c":"the_queue_at_customs_is_long","dir":"audio","d":["passenger","board"]},
+        {"t":"fill","c":"please_show_your_boarding_pass"},
+        {"t":"listenpick","c":"the_gate_is_open_now"},
+        {"t":"speak","c":"boarding_starts_in_twenty_minutes"},
+        {"t":"choice","c":"listen_to_the_announcement_carefully","dir":"t2n","d":["the_gate_is_open_now","every_passenger_goes_through_security"]},
+        {"t":"typeword","c":"every_passenger_goes_through_security"},
+        {"t":"build","c":"boarding_starts_in_twenty_minutes","dir":"t2n","d":["gate","customs"]},
+        {"t":"fill","c":"do_you_have_anything_to_declare"},
+        {"t":"choice","c":"passenger","dir":"n2t","d":["gate","queue"]},
+        {"t":"speak","c":"the_queue_at_customs_is_long"}
+      ]
+    },
+    {
+      "id": "a2_27",
+      "exercises": [
+        {"t":"choice","c":"tourist","dir":"t2n","big":true,"d":["guide","camera"]},
+        {"t":"choice","c":"castle","dir":"n2t","d":["camera","view"]},
+        {"t":"match","cs":["tourist","guide","castle","tower"]},
+        {"t":"match","cs":["statue","view","camera","crowded"]},
+        {"t":"build","c":"the_view_from_the_castle_is_beautiful","dir":"n2t","d":["tourist","statue"]},
+        {"t":"build","c":"we_took_photos_of_the_statue","dir":"audio","d":["guide","crowded"]},
+        {"t":"fill","c":"the_tower_is_very_famous"},
+        {"t":"listenpick","c":"the_guide_speaks_very_slowly"},
+        {"t":"speak","c":"can_you_take_our_picture"},
+        {"t":"choice","c":"she_has_a_camera_and_a_map","dir":"t2n","d":["the_museum_was_too_crowded","tourists_love_this_old_tower"]},
+        {"t":"typeword","c":"the_museum_was_too_crowded"},
+        {"t":"build","c":"can_you_take_our_picture","dir":"t2n","d":["tower","camera"]},
+        {"t":"fill","c":"she_has_a_camera_and_a_map"},
+        {"t":"choice","c":"famous","dir":"n2t","d":["crowded","beautiful"]},
+        {"t":"speak","c":"tourists_love_this_old_tower"}
+      ]
+    },
+    {
+      "id": "a2_28",
+      "exercises": [
+        {"t":"choice","c":"street","dir":"t2n","big":true,"d":["square","center"]},
+        {"t":"choice","c":"lost","dir":"n2t","d":["safe","local"]},
+        {"t":"match","cs":["street","square","center","local"]},
+        {"t":"match","cs":["lost","nearby","safe","explore"]},
+        {"t":"build","c":"i_want_to_explore_the_city_center","dir":"n2t","d":["street","lost"]},
+        {"t":"build","c":"where_can_i_find_a_pharmacy","dir":"audio","d":["safe","nearby"]},
+        {"t":"fill","c":"is_there_a_bank_nearby"},
+        {"t":"listenpick","c":"excuse_me_i_am_lost"},
+        {"t":"speak","c":"i_am_new_in_this_city"},
+        {"t":"choice","c":"the_main_square_is_near_here","dir":"t2n","d":["is_this_street_safe_at_night","ask_a_local_person_for_help"]},
+        {"t":"typeword","c":"ask_a_local_person_for_help"},
+        {"t":"build","c":"i_am_new_in_this_city","dir":"t2n","d":["lost","safe"]},
+        {"t":"fill","c":"is_this_street_safe_at_night"},
+        {"t":"choice","c":"find","dir":"n2t","d":["ask","explore"]},
+        {"t":"speak","c":"where_can_i_find_a_pharmacy"}
+      ]
+    },
+    {
+      "id": "a2_29",
+      "exercises": [
+        {"t":"choice","c":"headache","dir":"t2n","big":true,"d":["fever","cough"]},
+        {"t":"choice","c":"throat","dir":"n2t","d":["stomach","cough"]},
+        {"t":"match","cs":["headache","fever","cough","throat"]},
+        {"t":"match","cs":["stomach","pain","sick","tired"]},
+        {"t":"build","c":"the_doctor_will_see_you_now","dir":"n2t","d":["fever","cough"]},
+        {"t":"build","c":"i_have_a_cough_and_a_fever","dir":"audio","d":["stomach","tired"]},
+        {"t":"fill","c":"i_have_a_bad_headache"},
+        {"t":"listenpick","c":"my_throat_hurts_a_lot"},
+        {"t":"speak","c":"when_did_the_pain_start"},
+        {"t":"choice","c":"i_feel_very_tired_today","dir":"t2n","d":["my_stomach_hurts_after_lunch","she_has_a_high_fever"]},
+        {"t":"typeword","c":"she_has_a_high_fever"},
+        {"t":"build","c":"my_stomach_hurts_after_lunch","dir":"t2n","d":["headache","sick"]},
+        {"t":"fill","c":"the_doctor_will_see_you_now"},
+        {"t":"choice","c":"pain","dir":"n2t","d":["fever","throat"]},
+        {"t":"speak","c":"i_feel_very_tired_today"}
+      ]
+    },
+    {
+      "id": "a2_30",
+      "exercises": [
+        {"t":"choice","c":"pharmacy","dir":"t2n","big":true,"d":["medicine","pill"]},
+        {"t":"choice","c":"cream","dir":"n2t","d":["pill","vitamin"]},
+        {"t":"match","cs":["pharmacy","medicine","pill","cream"]},
+        {"t":"match","cs":["prescription","bandage","painkiller","vitamin"]},
+        {"t":"build","c":"i_have_a_prescription_from_my_doctor","dir":"n2t","d":["pill","cream"]},
+        {"t":"build","c":"take_this_medicine_twice_a_day","dir":"audio","d":["bandage","vitamin"]},
+        {"t":"fill","c":"do_you_have_a_painkiller"},
+        {"t":"listenpick","c":"take_one_pill_after_dinner"},
+        {"t":"speak","c":"i_need_some_medicine_for_a_cough"},
+        {"t":"choice","c":"put_this_cream_on_your_hand","dir":"t2n","d":["i_need_a_bandage_for_my_finger","take_one_pill_after_dinner"]},
+        {"t":"typeword","c":"i_need_a_bandage_for_my_finger"},
+        {"t":"build","c":"is_the_pharmacy_open_today","dir":"t2n","d":["cream","vitamin"]},
+        {"t":"fill","c":"take_this_medicine_twice_a_day"},
+        {"t":"choice","c":"prescription","dir":"n2t","d":["bandage","painkiller"]},
+        {"t":"speak","c":"is_the_pharmacy_open_today"}
+      ]
+    }
+  ]
+}
