@@ -1,1067 +1,3063 @@
-"sentences": [
-  {
-    "id": 424,
-    "text": "I am just a sailor.",
-    "translation": "أنا مجرد بحار."
-  },
-  {
-    "id": 425,
-    "text": "And when the winds change, the sea moves and it takes my boat away.'",
-    "translation": "وعندما تتغير الرياح، يتحرك البحر ويأخذ قاربي بعيداً.'"
-  },
-  {
-    "id": 426,
-    "text": "A few days later Mr Churchill came to see Edward at Buckingham Palace.",
-    "translation": "بعد بضعة أيام جاء السيد تشرشل لرؤية إدوارد في قصر باكنغهام."
-  },
-  {
-    "id": 427,
-    "text": "At first, the King was quiet.",
-    "translation": "في البداية، كان الملك هادئاً."
-  },
-  {
-    "id": 428,
-    "text": "Then he said: 'This is my last night in England, Winston.'",
-    "translation": "ثم قال: 'هذه ليلتي الأخيرة في إنجلترا يا وينستون'."
-  },
-  {
-    "id": 429,
-    "text": "I love this country.",
-    "translation": "أنا أحب هذا البلد."
-  },
-  {
-    "id": 430,
-    "text": "I wanted to be a modern, kind King.",
-    "translation": "أردت أن أكون ملكاً عصرياً وطيباً."
-  },
-  {
-    "id": 431,
-    "text": "I wanted to change the world, but they stopped me.",
-    "translation": "أردت تغيير العالم، لكنهم أوقفوني."
-  },
-  {
-    "id": 432,
-    "text": "And now I have to leave.'",
-    "translation": "والآن يجب أن أرحل.'"
-  },
-  {
-    "id": 433,
-    "text": "It was ten o'clock.",
-    "translation": "كانت الساعة العاشرة."
-  },
-  {
-    "id": 434,
-    "text": "Edward stood up and walked over to the window.",
-    "translation": "وقف إدوارد وسار نحو النافذة."
-  },
-  {
-    "id": 435,
-    "text": "In the dark streets below there were hundreds of people.",
-    "translation": "في الشوارع المظلمة بالأسفل كان هناك مئات الأشخاص."
-  },
-  {
-    "id": 436,
-    "text": "They were singing and calling his name: 'Edward, Edward, we love Edward!' they shouted.",
-    "translation": "كانوا يغنون وينادون باسمه: 'إدوارد، إدوارد، نحب إدوارد!' صرخوا."
-  },
-  {
-    "id": 437,
-    "text": "'Long live the King!'",
-    "translation": "'عاش الملك!'"
-  },
-  {
-    "id": 438,
-    "text": "'Long live love!'",
-    "translation": "'عاش الحب!'"
-  },
-  {
-    "id": 439,
-    "text": "Suddenly the King turned to Mr Churchill.",
-    "translation": "فجأة استدار الملك نحو السيد تشرشل."
-  },
-  {
-    "id": 440,
-    "text": "'Why is this happening to me, Winston?' he cried.",
-    "translation": "صرخ: 'لماذا يحدث هذا لي يا وينستون؟'"
-  },
-  {
-    "id": 441,
-    "text": "'What have I done wrong?'",
-    "translation": "'ما الخطأ الذي فعلته؟'"
-  },
-  {
-    "id": 442,
-    "text": "He sat down and put his head in his hands.",
-    "translation": "جلس ووضع رأسه في يديه."
-  },
-  {
-    "id": 443,
-    "text": "There was a silence in the room, but through the open window came the shouting from the street.",
-    "translation": "كان هناك صمت في الغرفة، لكن من خلال النافذة المفتوحة جاء الصراخ من الشارع."
-  },
-  {
-    "id": 444,
-    "text": "'Long live Edward!'",
-    "translation": "'عاش إدوارد!'"
-  },
-  {
-    "id": 445,
-    "text": "'Long live love!'",
-    "translation": "'عاش الحب!'"
-  },
-  {
-    "id": 446,
-    "text": "'Long live Edward!'",
-    "translation": "'عاش إدوارد!'"
-  },
-  {
-    "id": 447,
-    "text": "'Long live love!'",
-    "translation": "'عاش الحب!'"
-  },
-  {
-    "id": 448,
-    "text": "Mr Churchill came over and put his hand on the King's arm.",
-    "translation": "جاء السيد تشرشل ووضع يده على ذراع الملك."
-  },
-  {
-    "id": 449,
-    "text": "Edward looked up.",
-    "translation": "رفع إدوارد رأسه."
-  },
-  {
-    "id": 450,
-    "text": "'Thank you, Winston,' he said.",
-    "translation": "قال: 'شكراً لك يا وينستون'."
-  },
-  {
-    "id": 451,
-    "text": "'You were a good friend to me.'",
-    "translation": "'كنت صديقاً جيداً لي'."
-  },
-  {
-    "id": 452,
-    "text": "'Thank you, Sir.'",
-    "translation": "'شكراً لك يا سيدي'."
-  },
-  {
-    "id": 453,
-    "text": "'And you were a good King.'",
-    "translation": "'وكنت ملكاً صالحاً'."
-  },
-  {
-    "id": 454,
-    "text": "At ten o'clock the next morning the telephone rang in Edward's bedroom.",
-    "translation": "في الساعة العاشرة من صباح اليوم التالي رن الهاتف في غرفة نوم إدوارد."
-  },
-  {
-    "id": 455,
-    "text": "'They're ready for you now, Sir,' a voice said.",
-    "translation": "قال صوت: 'إنهم مستعدون لك الآن يا سيدي'."
-  },
-  {
-    "id": 456,
-    "text": "The King walked slowly down the stairs.",
-    "translation": "نزل الملك ببطء على الدرج."
-  },
-  {
-    "id": 457,
-    "text": "In front of him, there was an open door.",
-    "translation": "أمامه، كان هناك باب مفتوح."
-  },
-  {
-    "id": 458,
-    "text": "The family were waiting for him.",
-    "translation": "كانت العائلة في انتظاره."
-  },
-  {
-    "id": 459,
-    "text": "His mother sat near the window, dressed in black.",
-    "translation": "جلست والدته قرب النافذة، مرتدية الأسود."
-  },
-  {
-    "id": 460,
-    "text": "His brothers stood beside her.",
-    "translation": "وقف إخوته بجانبها."
-  },
-  {
-    "id": 461,
-    "text": "'How close they are!' the King thought.",
-    "translation": "فكر الملك: 'كم هم قريبون من بعضهم!'"
-  },
-  {
-    "id": 462,
-    "text": "On a small table in the centre of the room, there was a piece of paper.",
-    "translation": "على طاولة صغيرة في وسط الغرفة، كانت هناك قطعة ورق."
-  },
-  {
-    "id": 463,
-    "text": "Edward sat down and read these words:",
-    "translation": "جلس إدوارد وقرأ هذه الكلمات:"
-  },
-  {
-    "id": 464,
-    "text": "I, Edward the Eighth, King of Great Britain, King of India, King of Australia, King of New Zealand, King of Canada, King of Kenya, King of Nigeria, King of Burma, King of Malaya, King of Singapore, and King of thirty-two other countries, have today given the crown to my brother George.",
-    "translation": "أنا، إدوارد الثامن، ملك بريطانيا العظمى، وملك الهند، وملك أستراليا، وملك نيوزيلندا، وملك كندا، وملك كينيا، وملك نيجيريا، وملك بورما، وملك مالايا، وملك سنغافورة، وملك اثنتين وثلاثين دولة أخرى، قد أعطيت اليوم التاج لأخي جورج."
-  },
-  {
-    "id": 465,
-    "text": "God be with him and all his people, 10th December 1936.",
-    "translation": "ليكن الله معه ومع كل شعبه، 10 ديسمبر 1936."
-  },
-  {
-    "id": 466,
-    "text": "Edward took a pen and wrote his name at the bottom of the page.",
-    "translation": "أخذ إدوارد قلماً وكتب اسمه في أسفل الصفحة."
-  },
-  {
-    "id": 467,
-    "text": "Then he stood up and kissed his brother's hand.",
-    "translation": "ثم وقف وقبّل يد أخيه."
-  },
-  {
-    "id": 468,
-    "text": "'I never wanted this to happen,' George said.",
-    "translation": "قال جورج: 'لم أرد أبداً أن يحدث هذا'."
-  },
-  {
-    "id": 469,
-    "text": "'This is the worst day of my life.'",
-    "translation": "'هذا أسوأ يوم في حياتي'."
-  },
-  {
-    "id": 470,
-    "text": "Edward walked over to his mother.",
-    "translation": "سار إدوارد نحو والدته."
-  },
-  {
-    "id": 471,
-    "text": "'Before I kiss you,' she said, 'there are some things that I want to say.'",
-    "translation": "قالت: 'قبل أن أقبلك، هناك بعض الأشياء التي أريد قولها'."
-  },
-  {
-    "id": 472,
-    "text": "I have never understood you, child.",
-    "translation": "لم أفهمك أبداً يا child."
-  },
-  {
-    "id": 473,
-    "text": "This morning you were a King.",
-    "translation": "هذا الصباح كنت ملكاً."
-  },
-  {
-    "id": 474,
-    "text": "But tonight, you'll run from England like a thief.",
-    "translation": "لكن الليلة، ستهرب من إنجلترا مثل لص."
-  },
-  {
-    "id": 475,
-    "text": "Alone. Angry. Afraid.",
-    "translation": "وحيداً. غاضباً. خائفاً."
-  },
-  {
-    "id": 476,
-    "text": "You think that you're free.",
-    "translation": "تعتقد أنك حر."
-  },
-  {
-    "id": 477,
-    "text": "But you're not. You cannot be free.",
-    "translation": "لكنك لست كذلك. لا يمكنك أن تكون حراً."
-  },
-  {
-    "id": 478,
-    "text": "'Everyone needs their family.'",
-    "translation": "'كل شخص يحتاج عائلته'."
-  },
-  {
-    "id": 479,
-    "text": "Everyone needs their home.",
-    "translation": "كل شخص يحتاج منزله."
-  },
-  {
-    "id": 480,
-    "text": "And tonight you have lost both those things.",
-    "translation": "والليلة فقدت كلا هذين الشيئين."
-  },
-  {
-    "id": 481,
-    "text": "'I love you.'",
-    "translation": "'أنا أحبك'."
-  },
-  {
-    "id": 482,
-    "text": "I am your mother and nothing can change that.",
-    "translation": "أنا أمك ولا شيء يمكن أن يغير ذلك."
-  },
-  {
-    "id": 483,
-    "text": "But if you marry that woman, you will break my heart.",
-    "translation": "لكن إذا تزوجت تلك المرأة، ستحطم قلبي."
-  },
-  {
-    "id": 484,
-    "text": "Go now. It is all very sad.'",
-    "translation": "اذهب الآن. كل هذا محزن جداً.'"
-  },
-  {
-    "id": 485,
-    "text": "Edward kissed Queen Mary's hand.",
-    "translation": "قبّل إدوارد يد الملكة ماري."
-  },
-  {
-    "id": 486,
-    "text": "Then he turned and walked away.",
-    "translation": "ثم استدار وابتعد."
-  },
-  {
-    "id": 487,
-    "text": "The next day Edward returned to Windsor Castle.",
-    "translation": "في اليوم التالي عاد إدوارد إلى قلعة وندسور."
-  },
-  {
-    "id": 488,
-    "text": "He went into a small, cold room at the top of the building.",
-    "translation": "دخل غرفة صغيرة باردة في أعلى المبنى."
-  },
-  {
-    "id": 489,
-    "text": "From there, he spoke on BBC radio to Britain and the world.",
-    "translation": "من هناك، تحدث عبر راديو BBC إلى بريطانيا والعالم."
-  },
-  {
-    "id": 490,
-    "text": "This is what he said:",
-    "translation": "هذا ما قاله:"
-  },
-  {
-    "id": 491,
-    "text": "Tonight, for the first time, I can say a few words to you.",
-    "translation": "الليلة، للمرة الأولى، يمكنني أن أقول بضع كلمات لكم."
-  },
-  {
-    "id": 492,
-    "text": "Earlier today, I gave the crown to my brother George.",
-    "translation": "في وقت سابق اليوم، أعطيت التاج لأخي جورج."
-  },
-  {
-    "id": 493,
-    "text": "He is now your King.",
-    "translation": "إنه الآن ملككم."
-  },
-  {
-    "id": 494,
-    "text": "I will soon leave this country and travel to France.",
-    "translation": "سأغادر هذا البلد قريباً وأسافر إلى فرنسا."
-  },
-  {
-    "id": 495,
-    "text": "My heart is with Wallis and I cannot live without the woman I love.",
-    "translation": "قلبي مع واليس ولا أستطيع العيش بدون المرأة التي أحبها."
-  },
-  {
-    "id": 496,
-    "text": "I don't know what will happen to me.",
-    "translation": "لا أعرف ما سيحدث لي."
-  },
-  {
-    "id": 497,
-    "text": "Perhaps I will never see England again.",
-    "translation": "ربما لن أرى إنجلترا مرة أخرى."
-  },
-  {
-    "id": 498,
-    "text": "But think of me tonight when I sail across the sea.",
-    "translation": "لكن فكروا بي الليلة عندما أبحر عبر البحر."
-  },
-  {
-    "id": 499,
-    "text": "God be with you.",
-    "translation": "ليكن الله معكم."
-  },
-  {
-    "id": 500,
-    "text": "Long live King George!'",
-    "translation": "عاش الملك جورج!'"
-  },
-  {
-    "id": 501,
-    "text": "Edward left Windsor Castle and got into a large black car.",
-    "translation": "غادر إدوارد قلعة وندسور وركب سيارة سوداء كبيرة."
-  },
-  {
-    "id": 502,
-    "text": "It was now midnight and it was just beginning to rain.",
-    "translation": "كان منتصف الليل للتو وبدأت تمطر."
-  },
-  {
-    "id": 503,
-    "text": "'Take me away as quickly as you can,' he said.",
-    "translation": "قال: 'خذني بعيداً بأسرع ما يمكنك'."
-  },
-  {
-    "id": 504,
-    "text": "The car moved off into the darkness and the rain.",
-    "translation": "انطلقت السيارة في الظلام والمطر."
-  },
-  {
-    "id": 505,
-    "text": "'What a night!' said the driver.",
-    "translation": "قال السائق: 'يا لها من ليلة!'"
-  },
-  {
-    "id": 506,
-    "text": "'I think the sky is crying, Sir.'",
-    "translation": "'أعتقد أن السماء تبكي يا سيدي'."
-  },
-  {
-    "id": 507,
-    "text": "At 1.30 a.m. they arrived at Portsmouth.",
-    "translation": "في الساعة 1:30 صباحاً وصلوا إلى بورتسموث."
-  },
-  {
-    "id": 508,
-    "text": "Edward got out of the car and a voice said: 'The King is here!'",
-    "translation": "خرج إدوارد من السيارة وقال صوت: 'الملك هنا!'"
-  },
-  {
-    "id": 509,
-    "text": "Edward stopped and looked out across the open sea.",
-    "translation": "توقف إدوارد ونظر عبر البحر المفتوح."
-  },
-  {
-    "id": 510,
-    "text": "There was a thin, cold smile on his face.",
-    "translation": "كانت هناك ابتسامة رقيقة باردة على وجهه."
-  },
-  {
-    "id": 511,
-    "text": "'King?' he said.",
-    "translation": "قال: 'ملك؟'"
-  },
-  {
-    "id": 512,
-    "text": "'No, I am not the King. I am just a man in love.'",
-    "translation": "'لا، أنا لست الملك. أنا مجرد رجل واقع في الحب'."
-  },
-  {
-    "id": 513,
-    "text": "Then he turned and walked onto the ship and into the night.",
-    "translation": "ثم استدار وصعد إلى السفينة وإلى داخل الليل."
-  },
-  {
-    "id": 514,
-    "text": "The next morning Edward telephoned Wallis from Boulogne.",
-    "translation": "في صباح اليوم التالي اتصل إدوارد بواليس من بولونيا."
-  },
-  {
-    "id": 515,
-    "text": "'Did you listen to me on the radio?' he asked.",
-    "translation": "سأل: 'هل استمعت إليّ في الراديو؟'"
-  },
-  {
-    "id": 516,
-    "text": "'Yes, of course,' she said.",
-    "translation": "قالت: 'نعم، بالطبع'."
-  },
-  {
-    "id": 517,
-    "text": "'And how did you feel?'",
-    "translation": "'وكيف شعرت؟'"
-  },
-  {
-    "id": 518,
-    "text": "'I was sitting in my room alone,' Wallis said.",
-    "translation": "قالت واليس: 'كنت جالسة في غرفتي وحدي'."
-  },
-  {
-    "id": 519,
-    "text": "'And when I listened to your words, I felt so sad.'",
-    "translation": "'وعندما استمعت إلى كلماتك، شعرت بحزن شديد'."
-  },
-  {
-    "id": 520,
-    "text": "I put my hands over my eyes and I just cried.",
-    "translation": "وضعت يدي على عيني وبكيت فقط."
-  },
-  {
-    "id": 521,
-    "text": "I couldn't stop myself.",
-    "translation": "لم أستطع إيقاف نفسي."
-  },
-  {
-    "id": 522,
-    "text": "You have left everything for me.",
-    "translation": "لقد تركت كل شيء من أجلي."
-  },
-  {
-    "id": 523,
-    "text": "But I love you so much, Edward, and with me, you'll be the happiest man in the world.'",
-    "translation": "لكنني أحبك كثيراً يا إدوارد، ومعي، ستكون أسعد رجل في العالم.'"
-  },
-  {
-    "id": 524,
-    "text": "'I am that already,' he replied.",
-    "translation": "أجاب: 'أنا كذلك بالفعل'."
-  },
-  {
-    "id": 525,
-    "text": "'You are all that matters in my life.'",
-    "translation": "'أنت كل ما يهم في حياتي'."
-  },
-  {
-    "id": 526,
-    "text": "Edward married Wallis Simpson six months later, on 3rd June 1937.",
-    "translation": "تزوج إدوارد من واليس سيمبسون بعد ستة أشهر، في 3 يونيو 1937."
-  },
-  {
-    "id": 527,
-    "text": "None of the Royal Family came to the wedding.",
-    "translation": "لم يحضر أحد من العائلة المالكة حفل الزفاف."
-  },
-  {
-    "id": 528,
-    "text": "Edward was forty-three.",
-    "translation": "كان إدوارد في الثالثة والأربعين."
-  },
-  {
-    "id": 529,
-    "text": "Wallis was forty-one.",
-    "translation": "كانت واليس في الحادية والأربعين."
-  },
-  {
-    "id": 530,
-    "text": "And they now took a new name - the Duke and Duchess of Windsor.",
-    "translation": "واتخذا الآن اسماً جديداً - دوق ودوقة وندسور."
-  },
-  {
-    "id": 531,
-    "text": "A few weeks later Edward wrote to his brother King George.",
-    "translation": "بعد بضعة أسابيع كتب إدوارد إلى أخيه الملك جورج."
-  },
-  {
-    "id": 532,
-    "text": "'I was surprised that you didn't come to the wedding,' he wrote.",
-    "translation": "كتب: 'فوجئت أنك لم تأتِ إلى حفل الزفاف'."
-  },
-  {
-    "id": 533,
-    "text": "'But Wallis is now my wife and nothing can change that.'",
-    "translation": "'لكن واليس الآن زوجتي ولا شيء يمكن أن يغير ذلك'."
-  },
-  {
-    "id": 534,
-    "text": "As you know, we have a house in Paris.",
-    "translation": "كما تعلم، لدينا منزل في باريس."
-  },
-  {
-    "id": 535,
-    "text": "But France is not my home, and I want to live again at Windsor with Wallis by my side.'",
-    "translation": "لكن فرنسا ليست وطني، وأريد أن أعيش مرة أخرى في وندسور مع واليس بجانبي.'"
-  },
-  {
-    "id": 536,
-    "text": "'I'm sorry, Edward,' King George wrote back.",
-    "translation": "رد الملك جورج: 'أنا آسف يا إدوارد'."
-  },
-  {
-    "id": 537,
-    "text": "'But you know how I feel about that woman.'",
-    "translation": "'لكنك تعرف كيف أشعر تجاه تلك المرأة'."
-  },
-  {
-    "id": 538,
-    "text": "I do not like her. I will never like her.",
-    "translation": "أنا لا أحبها. لن أحبها أبداً."
-  },
-  {
-    "id": 539,
-    "text": "You can live here, but Wallis cannot.'",
-    "translation": "يمكنك العيش هنا، لكن واليس لا تستطيع.'"
-  },
-  {
-    "id": 540,
-    "text": "'My brother', Edward said later, 'pushed me away like a dog.'",
-    "translation": "قال إدوارد لاحقاً: 'أخي دفعني بعيداً مثل كلب'."
-  },
-  {
-    "id": 541,
-    "text": "I will never forget what he did.",
-    "translation": "لن أنسى أبداً ما فعله."
-  },
-  {
-    "id": 542,
-    "text": "And after that I decided that I didn't want my family.",
-    "translation": "وبعد ذلك قررت أنني لا أريد عائلتي."
-  },
-  {
-    "id": 543,
-    "text": "They didn't want Wallis, and so I didn't want them.'",
-    "translation": "لم يريدوا واليس، لذلك لم أردهم.'"
-  },
-  {
-    "id": 544,
-    "text": "For the next thirty years, the Duke and Duchess lived in Paris.",
-    "translation": "على مدى الثلاثين عاماً التالية، عاش الدوق والدوقة في باريس."
-  },
-  {
-    "id": 545,
-    "text": "They gave parties and travelled round the world, but they never went back to Buckingham Palace.",
-    "translation": "أقاموا الحفلات وسافروا حول العالم، لكنهم لم يعودوا أبداً إلى قصر باكنغهام."
-  },
-  {
-    "id": 546,
-    "text": "When King George died in 1952 and Queen Mary died in 1961, Edward returned to Windsor for a few days.",
-    "translation": "عندما توفي الملك جورج عام 1952 وتوفيت الملكة ماري عام 1961، عاد إدوارد إلى وندسور لبضعة أيام."
-  },
-  {
-    "id": 547,
-    "text": "But Wallis stayed in France.",
-    "translation": "لكن واليس بقيت في فرنسا."
-  },
-  {
-    "id": 548,
-    "text": "'It's your family,' she said.",
-    "translation": "قالت: 'إنها عائلتك'."
-  },
-  {
-    "id": 549,
-    "text": "'Not mine.'",
-    "translation": "'ليست عائلتي'."
-  },
-  {
-    "id": 550,
-    "text": "But then, in 1966, the Duke and Duchess met Queen Elizabeth (the daughter of King George) at a small party in London.",
-    "translation": "لكن بعد ذلك، في عام 1966، التقى الدوق والدوقة بالملكة إليزابيث (ابنة الملك جورج) في حفلة صغيرة في لندن."
-  },
-  {
-    "id": 551,
-    "text": "After thirty long years it was time to forget the past.",
-    "translation": "بعد ثلاثين عاماً طويلة حان الوقت لنسيان الماضي."
-  },
-  {
-    "id": 552,
-    "text": "Elizabeth kissed the Duchess and touched her arm.",
-    "translation": "قبّلت إليزابيث الدوقة ولمست ذراعها."
-  },
-  {
-    "id": 553,
-    "text": "Then she turned to the Duke and said: 'Wallis is so beautiful, uncle.'",
-    "translation": "ثم استدارت نحو الدوق وقالت: 'واليس جميلة جداً يا عمي'."
-  },
-  {
-    "id": 554,
-    "text": "I think you're a lucky man.'",
-    "translation": "أعتقد أنك رجل محظوظ.'"
-  },
-  {
-    "id": 555,
-    "text": "'That day Elizabeth was very kind to us,' Edward wrote later.",
-    "translation": "كتب إدوارد لاحقاً: 'في ذلك اليوم كانت إليزابيث لطيفة جداً معنا'."
-  },
-  {
-    "id": 556,
-    "text": "'But why couldn't my mother or my brother say those words to me?'",
-    "translation": "'لكن لماذا لم تستطع أمي أو أخي قول تلك الكلمات لي؟'"
-  },
-  {
-    "id": 557,
-    "text": "On BBC television in 1969, the Duke and Duchess spoke about their life together.",
-    "translation": "على تلفزيون BBC في عام 1969، تحدث الدوق والدوقة عن حياتهما معاً."
-  },
-  {
-    "id": 558,
-    "text": "'Do you argue?' someone asked them.",
-    "translation": "سألهم أحدهم: 'هل تتجادلان؟'"
-  },
-  {
-    "id": 559,
-    "text": "'No, not really,' the Duchess replied.",
-    "translation": "أجابت الدوقة: 'لا، ليس حقاً'."
-  },
-  {
-    "id": 560,
-    "text": "'But there's one thing about my husband that I really don't like.'",
-    "translation": "'لكن هناك شيء واحد في زوجي لا أحبه حقاً'."
-  },
-  {
-    "id": 561,
-    "text": "He is always late.",
-    "translation": "إنه دائماً متأخر."
-  },
-  {
-    "id": 562,
-    "text": "It doesn't matter if he's meeting a queen, a president, or a film star.",
-    "translation": "لا يهم إذا كان يلتقي ملكة أو رئيساً أو نجماً سينمائياً."
-  },
-  {
-    "id": 563,
-    "text": "He can never arrive on time.",
-    "translation": "لا يمكنه أبداً الوصول في الوقت المحدد."
-  },
-  {
-    "id": 564,
-    "text": "I don't know why.",
-    "translation": "لا أعرف لماذا."
-  },
-  {
-    "id": 565,
-    "text": "I have tried to change him, but it's just not possible.'",
-    "translation": "حاولت تغييره، لكن هذا غير ممكن.'"
-  },
-  {
-    "id": 566,
-    "text": "The Duke smiled and touched her hand.",
-    "translation": "ابتسم الدوق ولمس يدها."
-  },
-  {
-    "id": 567,
-    "text": "'I know that I'm often late,' he said.",
-    "translation": "قال: 'أعلم أنني غالباً ما أتأخر'."
-  },
-  {
-    "id": 568,
-    "text": "'But on our wedding day, I arrived at the church twenty minutes before you.'",
-    "translation": "'لكن في يوم زفافنا، وصلت إلى الكنيسة قبل عشرين دقيقة منك'."
-  },
-  {
-    "id": 569,
-    "text": "I was early and you were late.'",
-    "translation": "كنت مبكراً وكنت متأخرة.'"
-  },
-  {
-    "id": 570,
-    "text": "'Yes, that's true,' the Duchess said.",
-    "translation": "قالت الدوقة: 'نعم، هذا صحيح'."
-  },
-  {
-    "id": 571,
-    "text": "And they both laughed.",
-    "translation": "وضحكا معاً."
-  },
-  {
-    "id": 572,
-    "text": "'You could see real love in their eyes,' one newspaper wrote.",
-    "translation": "كتبت إحدى الصحف: 'يمكنك رؤية الحب الحقيقي في عيونهما'."
-  },
-  {
-    "id": 573,
-    "text": "'They were on television, but they forgot about the cameras and the millions of people who were watching.'",
-    "translation": "'كانا على التلفزيون، لكنهما نسيا الكاميرات وملايين الأشخاص الذين كانوا يشاهدون'."
-  },
-  {
-    "id": 574,
-    "text": "They were just two people in love.'",
-    "translation": "كانا مجرد شخصين واقعين في الحب.'"
-  },
-  {
-    "id": 575,
-    "text": "The Duchess was famous for her jewellery.",
-    "translation": "كانت الدوقة مشهورة بمجوهراتها."
-  },
-  {
-    "id": 576,
-    "text": "'After my husband,' she once said, 'I love jewellery more than anything else in the world.'",
-    "translation": "قالت ذات مرة: 'بعد زوجي، أحب المجوهرات أكثر من أي شيء آخر في العالم'."
-  },
-  {
-    "id": 577,
-    "text": "And after thirty-five years with the Duke she had hundreds of pieces, which came from all over the world.",
-    "translation": "وبعد خمس وثلاثين سنة مع الدوق كان لديها مئات القطع، التي جاءت من جميع أنحاء العالم."
-  },
-  {
-    "id": 578,
-    "text": "'I have never met a more beautiful woman than Wallis,' Edward wrote, 'and I love giving her presents.'",
-    "translation": "كتب إدوارد: 'لم أقابل امرأة أجمل من واليس، وأحب إعطاءها الهدايا'."
-  },
-  {
-    "id": 579,
-    "text": "She has given me so much happiness.",
-    "translation": "لقد منحتني الكثير من السعادة."
-  },
-  {
-    "id": 580,
-    "text": "I buy her jewels to say 'thank you'.'",
-    "translation": "أشتري لها المجوهرات لأقول 'شكراً'.'"
-  },
-  {
-    "id": 581,
-    "text": "In May 1972, the Duke became ill.",
-    "translation": "في مايو 1972، مرض الدوق."
-  },
-  {
-    "id": 582,
-    "text": "When the doctor arrived, he listened to Edward's heart and then said: 'How many cigarettes do you have a day, Sir?'",
-    "translation": "عندما وصل الطبيب، استمع إلى قلب إدوارد ثم قال: 'كم سيجارة تدخن في اليوم يا سيدي؟'"
-  },
-  {
-    "id": 583,
-    "text": "'About forty or fifty,' the Duke replied.",
-    "translation": "أجاب الدوق: 'حوالي أربعين أو خمسين'."
-  },
-  {
-    "id": 584,
-    "text": "'But please don't ask me to stop.'",
-    "translation": "'لكن أرجوك لا تطلب مني التوقف'."
-  },
-  {
-    "id": 585,
-    "text": "I've smoked for sixty years and I cannot change now.'",
-    "translation": "لقد دخنت لمدة ستين عاماً ولا أستطيع التغيير الآن.'"
-  },
-  {
-    "id": 586,
-    "text": "That night Edward called Wallis into the room.",
-    "translation": "في تلك الليلة استدعى إدوارد واليس إلى الغرفة."
-  },
-  {
-    "id": 587,
-    "text": "'I feel very tired,' he said.",
-    "translation": "قال: 'أشعر بتعب شديد'."
-  },
-  {
-    "id": 588,
-    "text": "'And I'm afraid.'",
-    "translation": "'وأنا خائف'."
-  },
-  {
-    "id": 589,
-    "text": "I love you.",
-    "translation": "أنا أحبك."
-  },
-  {
-    "id": 590,
-    "text": "I have been very happy with you, and you have been a wonderful wife.",
-    "translation": "لقد كنت سعيداً جداً معك، وكنت زوجة رائعة."
-  },
-  {
-    "id": 591,
-    "text": "When I die, I want you to take my body back to Windsor.",
-    "translation": "عندما أموت، أريدك أن تأخذي جسدي إلى وندسور."
-  },
-  {
-    "id": 592,
-    "text": "Will you do that for me?'",
-    "translation": "هل ستفعلين ذلك من أجلي؟'"
-  },
-  {
-    "id": 593,
-    "text": "'Yes, of course,' she said.",
-    "translation": "قالت: 'نعم، بالطبع'."
-  },
-  {
-    "id": 594,
-    "text": "And they both began to cry.",
-    "translation": "وبدأ كلاهما في البكاء."
-  },
-  {
-    "id": 595,
-    "text": "The Duke of Windsor died one hour later with Wallis by his side.",
-    "translation": "توفي دوق وندسور بعد ساعة واحدة وواليس بجانبه."
-  },
-  {
-    "id": 596,
-    "text": "Three days later, a blue aeroplane arrived in Paris.",
-    "translation": "بعد ثلاثة أيام، وصلت طائرة زرقاء إلى باريس."
-  },
-  {
-    "id": 597,
-    "text": "Wallis went back to England with the Duke's body and, for the first time in her life, she entered Buckingham Palace.",
-    "translation": "عادت واليس إلى إنجلترا مع جثمان الدوق، وللمرة الأولى في حياتها، دخلت قصر باكنغهام."
-  },
-  {
-    "id": 598,
-    "text": "A week later, the Duchess returned to France, and for the next fourteen years she lived alone in Paris.",
-    "translation": "بعد أسبوع، عادت الدوقة إلى فرنسا، وعاشت الأربعة عشر عاماً التالية وحدها في باريس."
-  },
-  {
-    "id": 599,
-    "text": "The big house was dark.",
-    "translation": "كان المنزل الكبير مظلماً."
-  },
-  {
-    "id": 600,
-    "text": "The doors were locked and she did not go out.",
-    "translation": "كانت الأبواب مغلقة ولم تكن تخرج."
-  },
-  {
-    "id": 601,
-    "text": "In the afternoons, she sat in the dining room with Edward's love letters.",
-    "translation": "في فترات بعد الظهر، كانت تجلس في غرفة الطعام مع رسائل حب إدوارد."
-  },
-  {
-    "id": 602,
-    "text": "'They were so beautiful,' she said.",
-    "translation": "قالت: 'كانت جميلة جداً'."
-  },
-  {
-    "id": 603,
-    "text": "'I read them again and again.'",
-    "translation": "'قرأتها مراراً وتكراراً'."
-  },
-  {
-    "id": 604,
-    "text": "But then, in 1986, Wallis became ill.",
-    "translation": "لكن بعد ذلك، في عام 1986، مرضت واليس."
-  },
-  {
-    "id": 605,
-    "text": "She went to a small hospital near the house, and a few days later she died.",
-    "translation": "ذهبت إلى مستشفى صغير بالقرب من المنزل، وبعد بضعة أيام توفيت."
-  },
-  {
-    "id": 606,
-    "text": "'Without Edward,' she once wrote, 'my life was empty.'",
-    "translation": "كتبت ذات مرة: 'بدون إدوارد، كانت حياتي فارغة'."
-  },
-  {
-    "id": 607,
-    "text": "She was buried in England next to her husband at Windsor.",
-    "translation": "دُفنت في إنجلترا بجانب زوجها في وندسور."
-  },
-  {
-    "id": 608,
-    "text": "'It's a strange thing,' one newspaper wrote.",
-    "translation": "كتبت إحدى الصحف: 'إنه شيء غريب'."
-  },
-  {
-    "id": 609,
-    "text": "'When they were alive, the Duke and Duchess could never live in Britain.'",
-    "translation": "'عندما كانا على قيد الحياة، لم يستطع الدوق والدوقة العيش في بريطانيا أبداً'."
-  },
-  {
-    "id": 610,
-    "text": "It was only in death that they could be there together.'",
-    "translation": "فقط في الموت تمكنا من أن يكونا هناك معاً.'"
-  },
-  {
-    "id": 611,
-    "text": "In 1970, two years before his death, Edward said:",
-    "translation": "في عام 1970، قبل عامين من وفاته، قال إدوارد:"
-  },
-  {
-    "id": 612,
-    "text": "There are some people who think that I was wrong to give away my crown.",
-    "translation": "هناك بعض الناس الذين يعتقدون أنني أخطأت بالتخلي عن تاجي."
-  },
-  {
-    "id": 613,
-    "text": "But they don't understand true love.",
-    "translation": "لكنهم لا يفهمون الحب الحقيقي."
-  },
-  {
-    "id": 614,
-    "text": "When I was young, I lived in Buckingham Palace.",
-    "translation": "عندما كنت صغيراً، عشت في قصر باكنغهام."
-  },
-  {
-    "id": 615,
-    "text": "I could have anything that I wanted.",
-    "translation": "كان بإمكاني الحصول على أي شيء أريده."
-  },
-  {
-    "id": 616,
-    "text": "But I wasn't happy because my heart was empty.",
-    "translation": "لكنني لم أكن سعيداً لأن قلبي كان فارغاً."
-  },
-  {
-    "id": 617,
-    "text": "Then I met Wallis and everything changed.",
-    "translation": "ثم قابلت واليس وتغير كل شيء."
-  },
-  {
-    "id": 618,
-    "text": "For half of my life I have lived here with the most beautiful woman in the world.",
-    "translation": "لنصف حياتي عشت هنا مع أجمل امرأة في العالم."
-  },
-  {
-    "id": 619,
-    "text": "And she is everything to me.",
-    "translation": "وهي كل شيء بالنسبة لي."
-  },
-  {
-    "id": 620,
-    "text": "When I sit in my garden with the Duchess by my side, I sometimes think about my early life.",
-    "translation": "عندما أجلس في حديقتي والدوقة بجانبي، أفكر أحياناً في حياتي المبكرة."
-  },
-  {
-    "id": 621,
-    "text": "I remember the days alone in my bedroom.",
-    "translation": "أتذكر الأيام وحدي في غرفة نومي."
-  },
-  {
-    "id": 622,
-    "text": "I remember the teacher who hit me with a stick.",
-    "translation": "أتذكر المعلم الذي ضربني بعصا."
-  },
-  {
-    "id": 623,
-    "text": "I remember the war and my travels around the world.",
-    "translation": "أتذكر الحرب وأسفاري حول العالم."
-  },
-  {
-    "id": 624,
-    "text": "And then I remember the crowds of people below my window, who shouted: 'Long live love!'",
-    "translation": "ثم أتذكر حشود الناس أسفل نافذتي، الذين صرخوا: 'عاش الحب!'"
-  },
-  {
-    "id": 625,
-    "text": "On my last night in London, I spoke with Winston Churchill.",
-    "translation": "في ليلتي الأخيرة في لندن، تحدثت مع وينستون تشرشل."
-  },
-  {
-    "id": 626,
-    "text": "In the middle of our conversation, he said: 'I think, Sir, that the best things in life are free.'",
-    "translation": "في منتصف حديثنا، قال: 'أعتقد يا سيدي، أن أفضل الأشياء في الحياة مجانية'."
-  },
-  {
-    "id": 627,
-    "text": "I have never forgotten those words.",
-    "translation": "لم أنسَ تلك الكلمات أبداً."
-  },
-  {
-    "id": 628,
-    "text": "And now, many years later, I understand what they mean.",
-    "translation": "والآن، بعد سنوات عديدة، أفهم ما تعنيه."
-  },
-  {
-    "id": 629,
-    "text": "You cannot buy happiness.",
-    "translation": "لا يمكنك شراء السعادة."
-  },
-  {
-    "id": 630,
-    "text": "And you cannot buy love.",
-    "translation": "ولا يمكنك شراء الحب."
-  },
-  {
-    "id": 631,
-    "text": "To be happy deep inside your heart is the most wonderful thing in the world.",
-    "translation": "أن تكون سعيداً في أعماق قلبك هو أروع شيء في العالم."
-  },
-  {
-    "id": 632,
-    "text": "I have been a lucky man.",
-    "translation": "لقد كنت رجلاً محظوظاً."
-  },
-  {
-    "id": 633,
-    "text": "And so I say: Thank God for Wallis, and LONG LIVE LOVE!'",
-    "translation": "ولذلك أقول: الحمد لله على واليس، وعاش الحب!'"
-  },
-  {
-    "id": 634,
-    "text": "- THE END -",
-    "translation": "- النهاية -"
-  },
-  {
-    "id": 635,
-    "text": "Hope you have enjoyed the reading!",
-    "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
-  },
-  {
-    "id": 636,
-    "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
-    "translation": "عد إلى http://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
-  }
-    ]
+{
+  "id": "a2_martin_luther_king",
+  "title": "Martin Luther King",
+  "level": "A2",
+  "audio_url": "assets/books/audio/a2_books/Martin_Luther_King.mp3",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "In 1963 a black minister from a small town in Alabama in the South of the United States led a march of more than 250,000 people to Washington DC.",
+      "translation": "في عام 1963، قاد قس أسود من بلدة صغيرة في ألاباما في جنوب الولايات المتحدة مسيرة تضم أكثر من 250,000 شخص إلى واشنطن العاصمة."
+    },
+    {
+      "id": 2,
+      "text": "There he made a speech that became famous.",
+      "translation": "هناك ألقى خطاباً أصبح مشهوراً."
+    },
+    {
+      "id": 3,
+      "text": "'I have a dream,' he said.",
+      "translation": "قال: 'لدي حلم'."
+    },
+    {
+      "id": 4,
+      "text": "He dreamed of all the people of America, black and white, living together in peace and freedom.",
+      "translation": "حلم بأن يعيش جميع الناس في أمريكا، السود والبيض، معاً في سلام وحرية."
+    },
+    {
+      "id": 5,
+      "text": "He said that all men and women should be equal.",
+      "translation": "قال إن جميع الرجال والنساء يجب أن يكونوا متساوين."
+    },
+    {
+      "id": 6,
+      "text": "Many of the marchers cried as they listened to him.",
+      "translation": "بكى الكثير من المتظاهرين وهم يستمعون إليه."
+    },
+    {
+      "id": 7,
+      "text": "The minister's speech was shown on television all over the world, and he became a hero to millions of people who saw and heard the speech.",
+      "translation": "عُرض خطاب القس على التلفزيون في جميع أنحاء العالم، وأصبح بطلاً لملايين الأشخاص الذين شاهدوا وسمعوا الخطاب."
+    },
+    {
+      "id": 8,
+      "text": "But there were also people who hated this man and his ideas.",
+      "translation": "لكن كان هناك أيضاً أشخاص كرهوا هذا الرجل وأفكاره."
+    },
+    {
+      "id": 9,
+      "text": "They did not want black people to be free.",
+      "translation": "لم يريدوا أن يكون السود أحراراً."
+    },
+    {
+      "id": 10,
+      "text": "They did not want them to have equal rights.",
+      "translation": "لم يريدوا أن يكون لديهم حقوق متساوية."
+    },
+    {
+      "id": 11,
+      "text": "In 1968, less than five years after his famous speech, a white man shot him dead.",
+      "translation": "في عام 1968، بعد أقل من خمس سنوات من خطابه الشهير، أطلق رجل أبيض النار عليه فقتله."
+    },
+    {
+      "id": 12,
+      "text": "The minister was only thirty-nine years old.",
+      "translation": "كان القس في التاسعة والثلاثين من عمره فقط."
+    },
+    {
+      "id": 13,
+      "text": "When people heard of his death, there was much sadness, and people cried in the streets.",
+      "translation": "عندما سمع الناس بوفاته، كان هناك حزن شديد، وبكى الناس في الشوارع."
+    },
+    {
+      "id": 14,
+      "text": "But many people were very angry too, and there were riots in the big cities.",
+      "translation": "لكن الكثير من الناس كانوا غاضبين جداً أيضاً، وحدثت أعمال شغب في المدن الكبرى."
+    },
+    {
+      "id": 15,
+      "text": "In Chicago and Washington black people burned buildings and fought the police.",
+      "translation": "في شيكاغو وواشنطن أحرق السود المباني وقاتلوا الشرطة."
+    },
+    {
+      "id": 16,
+      "text": "Hundreds of black people were killed in these riots.",
+      "translation": "قُتل مئات من السود في هذه الأعمال الشغب."
+    },
+    {
+      "id": 17,
+      "text": "Fifteen years after his death, the government of the United States made his birthday a holiday.",
+      "translation": "بعد خمسة عشر عاماً من وفاته، جعلت حكومة الولايات المتحدة عيد ميلاده عطلة."
+    },
+    {
+      "id": 18,
+      "text": "Today he is remembered as one of the greatest Americans of the twentieth century.",
+      "translation": "اليوم يُذكر كواحد من أعظم الأمريكيين في القرن العشرين."
+    },
+    {
+      "id": 19,
+      "text": "Who was this man?",
+      "translation": "من كان هذا الرجل؟"
+    },
+    {
+      "id": 20,
+      "text": "Why did so many people love him?",
+      "translation": "لماذا أحبه الكثيرون؟"
+    },
+    {
+      "id": 21,
+      "text": "Why did others hate him?",
+      "translation": "لماذا كرهه آخرون؟"
+    },
+    {
+      "id": 22,
+      "text": "The man from Alabama, the man who had a dream, was Martin Luther King.",
+      "translation": "الرجل من ألاباما، الرجل الذي كان لديه حلم، كان مارتن لوثر كينغ."
+    },
+    {
+      "id": 23,
+      "text": "And the story of his life is the story of a people's fight for freedom.",
+      "translation": "وقصة حياته هي قصة كفاح شعب من أجل الحرية."
+    },
+    {
+      "id": 24,
+      "text": "Martin Luther King was born on 15 January 1929 in Atlanta, Georgia.",
+      "translation": "وُلد مارتن لوثر كينغ في 15 يناير 1929 في أتلانتا، جورجيا."
+    },
+    {
+      "id": 25,
+      "text": "His father, who was also called Martin Luther King, was the minister in an Atlanta church.",
+      "translation": "كان والده، الذي كان يُدعى أيضاً مارتن لوثر كينغ، قساً في كنيسة في أتلانتا."
+    },
+    {
+      "id": 26,
+      "text": "The King family were not poor.",
+      "translation": "لم تكن عائلة كينغ فقيرة."
+    },
+    {
+      "id": 27,
+      "text": "They lived in a good neighborhood of Atlanta and they had enough money to live comfortably.",
+      "translation": "عاشوا في حي جيد في أتلانتا وكان لديهم ما يكفي من المال للعيش براحة."
+    },
+    {
+      "id": 28,
+      "text": "When Martin thought about his early years in Atlanta, he remembered a loving family and friendly neighbours.",
+      "translation": "عندما فكر مارتن في سنواته الأولى في أتلانتا، تذكر عائلة محبة وجيراناً ودودين."
+    },
+    {
+      "id": 29,
+      "text": "But the King family were black.",
+      "translation": "لكن عائلة كينغ كانت سوداء."
+    },
+    {
+      "id": 30,
+      "text": "Less than a hundred years before Martin Luther King was born, his people were slaves.",
+      "translation": "قبل أقل من مائة عام من ولادة مارتن لوثر كينغ، كان شعبه عبيداً."
+    },
+    {
+      "id": 31,
+      "text": "Even in 1929 black people in the South of the United States did not have the same rights as white people.",
+      "translation": "حتى في عام 1929، لم يكن للسود في جنوب الولايات المتحدة نفس حقوق البيض."
+    },
+    {
+      "id": 32,
+      "text": "Blacks and whites lived in different worlds.",
+      "translation": "عاش السود والبيض في عوالم مختلفة."
+    },
+    {
+      "id": 33,
+      "text": "When blacks travelled on buses, they had to sit at the back of the bus.",
+      "translation": "عندما كان السود يسافرون في الحافلات، كان عليهم الجلوس في الجزء الخلفي من الحافلة."
+    },
+    {
+      "id": 34,
+      "text": "They could not sit beside whites.",
+      "translation": "لم يكن بإمكانهم الجلوس بجانب البيض."
+    },
+    {
+      "id": 35,
+      "text": "Most restaurants did not sell food to black people.",
+      "translation": "معظم المطاعم لم تكن تبيع الطعام للسود."
+    },
+    {
+      "id": 36,
+      "text": "There were different schools for black children and white children.",
+      "translation": "كانت هناك مدارس مختلفة للأطفال السود والأطفال البيض."
+    },
+    {
+      "id": 37,
+      "text": "It was like this all over the South.",
+      "translation": "كان الأمر هكذا في كل أنحاء الجنوب."
+    },
+    {
+      "id": 38,
+      "text": "Blacks and whites lived in the same places, but they were kept away from each other.",
+      "translation": "عاش السود والبيض في نفس الأماكن، لكن تم إبعادهم عن بعضهم البعض."
+    },
+    {
+      "id": 39,
+      "text": "This was called segregation.",
+      "translation": "كان هذا يسمى الفصل العنصري."
+    },
+    {
+      "id": 40,
+      "text": "'Segregation is wrong, but things will get better in time,' said Martin's father.",
+      "translation": "قال والد مارتن: 'الفصل العنصري خطأ، لكن الأمور ستتحسن مع الوقت'."
+    },
+    {
+      "id": 41,
+      "text": "'White people will start to think differently one day.'",
+      "translation": "'سيبدأ البيض في التفكير بشكل مختلف يوماً ما'."
+    },
+    {
+      "id": 42,
+      "text": "We should be patient and wait, because you can't hurry change.",
+      "translation": "يجب أن نكون صابرين وننتظر، لأنك لا تستطيع الاستعجال في التغيير."
+    },
+    {
+      "id": 43,
+      "text": "It will come, but not soon.",
+      "translation": "سيأتي، لكن ليس قريباً."
+    },
+    {
+      "id": 44,
+      "text": "We have to wait for it.'",
+      "translation": "علينا أن ننتظره.'"
+    },
+    {
+      "id": 45,
+      "text": "Young Martin did not agree with his father.",
+      "translation": "لم يوافق مارتن الشاب والده."
+    },
+    {
+      "id": 46,
+      "text": "'If you want to change things, you have to act,' he thought.",
+      "translation": "فكر: 'إذا أردت تغيير الأشياء، يجب أن تتصرف'."
+    },
+    {
+      "id": 47,
+      "text": "He knew himself what segregation meant.",
+      "translation": "كان يعرف بنفسه ما يعنيه الفصل العنصري."
+    },
+    {
+      "id": 48,
+      "text": "When he was very small, he played with a little white boy
+      {
+  "id": 48,
+  "text": "When he was very small, he played with a little white boy across the street from his house.",
+  "translation": "عندما كان صغيراً جداً، كان يلعب مع صبي أبيض صغير في الجانب الآخر من الشارع من منزله."
+},
+{
+  "id": 49,
+  "text": "His friend's name was Warren.",
+  "translation": "كان اسم صديقه وارن."
+},
+{
+  "id": 50,
+  "text": "When Martin started school, he looked for Warren, but he was not there.",
+  "translation": "عندما بدأ مارتن المدرسة، بحث عن وارن، لكنه لم يكن هناك."
+},
+{
+  "id": 51,
+  "text": "After school he went to Warren's house and asked to play with him.",
+  "translation": "بعد المدرسة ذهب إلى منزل وارن وطلب اللعب معه."
+},
+{
+  "id": 52,
+  "text": "The boy's mother said that Martin could not play with Warren anymore, because Martin was black and his friend was white.",
+  "translation": "قالت والدة الصبي إن مارتن لا يمكنه اللعب مع وارن بعد الآن، لأن مارتن أسود وصديقه أبيض."
+},
+{
+  "id": 53,
+  "text": "When Martin came home that day, he was crying.",
+  "translation": "عندما عاد مارتن إلى المنزل ذلك اليوم، كان يبكي."
+},
+{
+  "id": 54,
+  "text": "He told his mother what had happened.",
+  "translation": "أخبر والدته بما حدث."
+},
+{
+  "id": 55,
+  "text": "'It doesn't matter what other people think,' she told him, 'you're as good as anyone else.'",
+  "translation": "قالت له: 'لا يهم ما يعتقده الآخرون، أنت جيد مثل أي شخص آخر'."
+},
+{
+  "id": 56,
+  "text": "Don't you ever forget that!'",
+  "translation": "لا تنسَ ذلك أبداً!'"
+},
+{
+  "id": 57,
+  "text": "Martin remembered his mother's words.",
+  "translation": "تذكر مارتن كلمات والدته."
+},
+{
+  "id": 58,
+  "text": "He knew that she was right.",
+  "translation": "كان يعلم أنها محقة."
+},
+{
+  "id": 59,
+  "text": "He was as good as any white boy.",
+  "translation": "كان جيداً مثل أي صبي أبيض."
+},
+{
+  "id": 60,
+  "text": "But as he grew older, he saw how white people treated black people in Atlanta.",
+  "translation": "لكنه كلما كبر، رأى كيف يعامل البيض السود في أتلانتا."
+},
+{
+  "id": 61,
+  "text": "Once when he was in the center of town, he walked into a white woman.",
+  "translation": "ذات مرة عندما كان في وسط المدينة، اصطدم بامرأة بيضاء."
+},
+{
+  "id": 62,
+  "text": "It was an accident, but the white woman hit him on the face.",
+  "translation": "كان الأمر حادثاً، لكن المرأة البيضاء ضربته على وجهه."
+},
+{
+  "id": 63,
+  "text": "When someone asked her why she had done this, the woman replied, 'That little black bastard stepped on my foot.'",
+  "translation": "عندما سألها أحدهم لماذا فعلت ذلك، أجابت المرأة: 'ذلك الحقير الأسود الصغير داس على قدمي'."
+},
+{
+  "id": 64,
+  "text": "Martin's face hurt, but the name that she called him - 'little black bastard' - hurt him even more.",
+  "translation": "تألم وجه مارتن، لكن الاسم الذي أطلقته عليه - 'الحقير الأسود الصغير' - جرحه أكثر."
+},
+{
+  "id": 65,
+  "text": "When he started high school at the age of eleven, Martin began to make speeches.",
+  "translation": "عندما بدأ المدرسة الثانوية في سن الحادية عشرة، بدأ مارتن في إلقاء الخطب."
+},
+{
+  "id": 66,
+  "text": "Of course, he often spoke in church, but at school he talked about the need for change in the South.",
+  "translation": "بالطبع، كان يتحدث كثيراً في الكنيسة، لكن في المدرسة تحدث عن الحاجة للتغيير في الجنوب."
+},
+{
+  "id": 67,
+  "text": "When Martin was fourteen years old, he won a prize for one of his speeches.",
+  "translation": "عندما كان مارتن في الرابعة عشرة من عمره، فاز بجائزة عن إحدى خطبه."
+},
+{
+  "id": 68,
+  "text": "He travelled to Washington with his teacher to get his prize, and they returned to Atlanta by bus.",
+  "translation": "سافر إلى واشنطن مع معلمه للحصول على جائزته، وعادوا إلى أتلانتا بالحافلة."
+},
+{
+  "id": 69,
+  "text": "When a white man got on the bus, there were no empty seats, so the driver told Martin to get up and give the white man his seat.",
+  "translation": "عندما صعد رجل أبيض إلى الحافلة، لم تكن هناك مقاعد فارغة، فأخبر السائق مارتن أن يقف ويعطي الرجل الأبيض مقعده."
+},
+{
+  "id": 70,
+  "text": "Martin refused.",
+  "translation": "رفض مارتن."
+},
+{
+  "id": 71,
+  "text": "Why should he give his seat to this man?",
+  "translation": "لماذا يجب أن يعطي مقعده لهذا الرجل؟"
+},
+{
+  "id": 72,
+  "text": "The bus driver became angry and called him bad names.",
+  "translation": "غضب سائق الحافلة وناداه بأسماء سيئة."
+},
+{
+  "id": 73,
+  "text": "Finally, Martin gave the white man his seat because he did not want to make trouble for his teacher.",
+  "translation": "في النهاية، أعطى مارتن الرجل الأبيض مقعده لأنه لم يرد إحداث مشكلة لمعلمه."
+},
+{
+  "id": 74,
+  "text": "But he was angry.",
+  "translation": "لكنه كان غاضباً."
+},
+{
+  "id": 75,
+  "text": "It was not fair that he had to stand while a white man sat in his seat.",
+  "translation": "لم يكن من العدل أن يقف بينما يجلس رجل أبيض في مقعده."
+},
+{
+  "id": 76,
+  "text": "He did not want to hate white people, but sometimes it was hard not to hate them.",
+  "translation": "لم يرد كره البيض، لكن في بعض الأحيان كان من الصعب عدم كرههم."
+},
+{
+  "id": 77,
+  "text": "In 1929 when Martin Luther King was born in Atlanta, Georgia, most black people in America lived in the South.",
+  "translation": "في عام 1929 عندما وُلد مارتن لوثر كينغ في أتلانتا، جورجيا، كان معظم السود في أمريكا يعيشون في الجنوب."
+},
+{
+  "id": 78,
+  "text": "In fact, nine out of every ten African-Americans lived in the South.",
+  "translation": "في الواقع، كان تسعة من كل عشرة أمريكيين من أصل أفريقي يعيشون في الجنوب."
+},
+{
+  "id": 79,
+  "text": "In every way their lives were worse than the lives of Southern whites.",
+  "translation": "في كل النواحي كانت حياتهم أسوأ من حياة البيض في الجنوب."
+},
+{
+  "id": 80,
+  "text": "They were poorer, they lived in worse houses, their lives were shorter.",
+  "translation": "كانوا أفقر، وعاشوا في منازل أسوأ، وكانت حياتهم أقصر."
+},
+{
+  "id": 81,
+  "text": "Most blacks in the South could not vote.",
+  "translation": "معظم السود في الجنوب لم يستطيعوا التصويت."
+},
+{
+  "id": 82,
+  "text": "Some black people who were alive in 1929 had been slaves.",
+  "translation": "بعض السود الذين كانوا على قيد الحياة في عام 1929 كانوا عبيداً."
+},
+{
+  "id": 83,
+  "text": "They had belonged to their white owners, and they were treated like things, not people.",
+  "translation": "كانوا مملوكين لأسيادهم البيض، وكانوا يُعاملون كأشياء، لا كبشر."
+},
+{
+  "id": 84,
+  "text": "White people could buy and sell slaves just like houses or land.",
+  "translation": "كان البيض يستطيعون شراء وبيع العبيد تماماً مثل المنازل أو الأراضي."
+},
+{
+  "id": 85,
+  "text": "In the past many countries have used slaves.",
+  "translation": "في الماضي استخدمت العديد من البلدان العبيد."
+},
+{
+  "id": 86,
+  "text": "Hundreds of years ago there were slaves in Rome and Athens.",
+  "translation": "قبل مئات السنين كان هناك عبيد في روما وأثينا."
+},
+{
+  "id": 87,
+  "text": "They worked on farms and in the houses of rich people, but they were not slaves forever.",
+  "translation": "عملوا في المزارع وفي منازل الأغنياء، لكنهم لم يكونوا عبيداً للأبد."
+},
+{
+  "id": 88,
+  "text": "After some years, they became free men and women again.",
+  "translation": "بعد بضع سنوات، أصبحوا رجالاً ونساءً أحراراً مرة أخرى."
+},
+{
+  "id": 89,
+  "text": "But in North and South America slavery was different.",
+  "translation": "لكن في أمريكا الشمالية والجنوبية كان العبودية مختلفة."
+},
+{
+  "id": 90,
+  "text": "In the sixteenth century people from European countries like Britain, Spain, and Portugal began to move into North and South America.",
+  "translation": "في القرن السادس عشر بدأ الناس من الدول الأوروبية مثل بريطانيا وإسبانيا والبرتغال في الانتقال إلى أمريكا الشمالية والجنوبية."
+},
+{
+  "id": 91,
+  "text": "They cut down forests and cleared the land for farms.",
+  "translation": "قطعوا الغابات وأخلوا الأرض للزراعة."
+},
+{
+  "id": 92,
+  "text": "They needed men and women to work on their farms.",
+  "translation": "احتاجوا رجالاً ونساءً للعمل في مزارعهم."
+},
+{
+  "id": 93,
+  "text": "Where could they find them?",
+  "translation": "من أين يمكنهم إيجادهم؟"
+},
+{
+  "id": 94,
+  "text": "The answer was Africa.",
+  "translation": "كان الجواب أفريقيا."
+},
+{
+  "id": 95,
+  "text": "Men and women were taken from their homes in Africa and brought to North and South America to work on farms and on roads.",
+  "translation": "أُخذ رجال ونساء من منازلهم في أفريقيا وأُحضروا إلى أمريكا الشمالية والجنوبية للعمل في المزارع والطرق."
+},
+{
+  "id": 96,
+  "text": "From about 1500 to 1850, European ships took at least 10 million men and women from Africa to become slaves in the Americas.",
+  "translation": "من حوالي 1500 إلى 1850، أخذت السفن الأوروبية ما لا يقل عن 10 ملايين رجل وامرأة من أفريقيا ليصبحوا عبيداً في الأمريكتين."
+},
+{
+  "id": 97,
+  "text": "The ships were very full, and the men and women did not have enough food, water, or air.",
+  "translation": "كانت السفن ممتلئة جداً، ولم يكن لدى الرجال والنساء ما يكفي من الطعام والماء والهواء."
+},
+{
+  "id": 98,
+  "text": "Hundreds of thousands of Africans never reached America: they died on these slave ships.",
+  "translation": "مئات الآلاف من الأفارقة لم يصلوا أبداً إلى أمريكا: ماتوا على سفن العبيد هذه."
+},
+{
+  "id": 99,
+  "text": "When African slaves arrived in America, they were sold to white farmers.",
+  "translation": "عندما وصل العبيد الأفارقة إلى أمريكا، بيعوا لمزارعين بيض."
+},
+{
+  "id": 100,
+  "text": "Often people from the same family were sold to different owners and never saw each other again.",
+  "translation": "غالباً ما كان أفراد من نفس العائلة يُبيعون لأصحاب مختلفين ولم يروا بعضهم البعض مرة أخرى."
+},
+{
+  "id": 101,
+  "text": "Husbands lost their wives, and children were taken away from their mothers.",
+  "translation": "فقد الأزواج زوجاتهم، وأُخذ الأطفال بعيداً عن أمهاتهم."
+},
+{
+  "id": 102,
+  "text": "In the South of the United States the farms were very big.",
+  "translation": "في جنوب الولايات المتحدة كانت المزارع كبيرة جداً."
+},
+{
+  "id": 103,
+  "text": "The farmers usually grew sugar or cotton, and they needed slaves to do the hard work in the fields.",
+  "translation": "كان المزارعون يزرعون عادة السكر أو القطن، وكانوا يحتاجون عبيداً للقيام بالعمل الشاق في الحقول."
+},
+{
+  "id": 104,
+  "text": "The white farmers gave the slaves food, clothes, and houses, but the slaves had to stay on the farm.",
+  "translation": "أعطى المزارعون البيض العبيد الطعام والملابس والمنازل، لكن العبيد كان عليهم البقاء في المزرعة."
+},
+{
+  "id": 105,
+  "text": "They belonged to the farmer.",
+  "translation": "كانوا مملوكين للمزارع."
+},
+{
+  "id": 106,
+  "text": "When slaves ran away, they were usually caught and brought back to their owners.",
+  "translation": "عندما كان العبيد يهربون، كانوا عادة يُقبض عليهم ويُعادون إلى أصحابهم."
+},
+{
+  "id": 107,
+  "text": "Then they were beaten and sometimes even killed.",
+  "translation": "ثم كانوا يُضربون وأحياناً يُقتلون."
+},
+{
+  "id": 108,
+  "text": "Many slaves fought against the slave-owners.",
+  "translation": "قاوم العديد من العبيد ضد مالكي العبيد."
+},
+{
+  "id": 109,
+  "text": "In 1791 a black slave called Toussaint L'Ouverture led an army of slaves against French soldiers on the island of Haiti.",
+  "translation": "في عام 1791، قاد عبد أسود يُدعى توسان لوفرتير جيشاً من العبيد ضد جنود فرنسيين في جزيرة هايتي."
+},
+{
+  "id": 110,
+  "text": "Toussaint died in a French prison, but in 1804 Haiti became the first free black country.",
+  "translation": "مات توسان في سجن فرنسي، لكن في عام 1804 أصبحت هايتي أول دولة سوداء حرة."
+},
+{
+  "id": 111,
+  "text": "In Virginia in 1831, a slave called Nat Turner led slaves against their white owners.",
+  "translation": "في فرجينيا عام 1831، قاد عبد يُدعى نات تيرنر عبيداً ضد أصحابهم البيض."
+},
+{
+  "id": 112,
+  "text": "They did not succeed and Turner himself was killed, but the slave-owners were afraid that one day the slaves would win the fight.",
+  "translation": "لم ينجحوا وقُتل تيرنر نفسه، لكن مالكي العبيد خافوا من أن يفوز العبيد يوماً ما في المعركة."
+},
+{
+  "id": 113,
+  "text": "Some black leaders wanted to return to Africa.",
+  "translation": "أراد بعض القادة السود العودة إلى أفريقيا."
+},
+{
+  "id": 114,
+  "text": "In 1822 a new country was born in West Africa.",
+  "translation": "في عام 1822 وُلدت دولة جديدة في غرب أفريقيا."
+},
+{
+  "id": 115,
+  "text": "This was Liberia, a country for people who were once slaves but were now free.",
+  "translation": "كانت هذه ليبيريا، بلد للأشخاص الذين كانوا عبيداً ذات يوم لكنهم أصبحوا أحراراً الآن."
+},
+{
+  "id": 116,
+  "text": "A hundred years later African-American leaders such as W. E. B. Dubois argued for a return to Africa.",
+  "translation": "بعد مائة عام، طالب قادة أمريكيون من أصل أفريقي مثل ويليام إدوارد بورغهارت دوبوا بالعودة إلى أفريقيا."
+},
+{
+  "id": 117,
+  "text": "After 1808 it was against the law to bring slaves from Africa to the United States.",
+  "translation": "بعد عام 1808 كان من غير القانوني جلب العبيد من أفريقيا إلى الولايات المتحدة."
+},
+{
+  "id": 118,
+  "text": "But the number of slaves in the South continued to grow.",
+  "translation": "لكن عدد العبيد في الجنوب استمر في النمو."
+},
+{
+  "id": 119,
+  "text": "By 1860 there were more than 4 million slaves in the South.",
+  "translation": "بحلول عام 1860 كان هناك أكثر من 4 ملايين عبد في الجنوب."
+},
+{
+  "id": 120,
+  "text": "They were no longer Africans but African-Americans.",
+  "translation": "لم يعودوا أفارقة بل أمريكيين من أصل أفريقي."
+},
+{
+  "id": 121,
+  "text": "And they wanted to be free.",
+  "translation": "وأرادوا أن يكونوا أحراراً."
+},
+{
+  "id": 122,
+  "text": "When Americans wrote the Declaration of Independence in 1776, they said that men and women should be free and equal.",
+  "translation": "عندما كتب الأمريكيون إعلان الاستقلال في عام 1776، قالوا إن الرجال والنساء يجب أن يكونوا أحراراً ومتساوين."
+},
+{
+  "id": 123,
+  "text": "But the men who wrote the Declaration owned slaves.",
+  "translation": "لكن الرجال الذين كتبوا الإعلان كانوا يملكون عبيداً."
+},
+{
+  "id": 124,
+  "text": "How was this possible?",
+  "translation": "كيف كان هذا ممكناً؟"
+},
+{
+  "id": 125,
+  "text": "This was a difficult question.",
+  "translation": "كان هذا سؤالاً صعباً."
+},
+{
+  "id": 126,
+  "text": "By the nineteenth century many black people had become Christians.",
+  "translation": "بحلول القرن التاسع عشر أصبح العديد من السود مسيحيين."
+},
+{
+  "id": 127,
+  "text": "They went to church on Sunday, just like their white owners.",
+  "translation": "ذهبوا إلى الكنيسة يوم الأحد، تماماً مثل أسيادهم البيض."
+},
+{
+  "id": 128,
+  "text": "Blacks and whites both read the Bible.",
+  "translation": "قرأ السود والبيض الكتاب المقدس معاً."
+},
+{
+  "id": 129,
+  "text": "And the message of the Bible was the same: all men and women, black or white, are equal in God's eyes.",
+  "translation": "وكانت رسالة الكتاب المقدس هي نفسها: جميع الرجال والنساء، السود أو البيض، متساوون في عيني الله."
+},
+{
+  "id": 130,
+  "text": "More and more people in Europe and America thought that slavery was wrong.",
+  "translation": "المزيد والمزيد من الناس في أوروبا وأمريكا اعتقدوا أن العبودية خطأ."
+},
+{
+  "id": 131,
+  "text": "Britain ended the buying and selling of slaves in 1807.",
+  "translation": "أنهت بريطانيا شراء وبيع العبيد في عام 1807."
+},
+{
+  "id": 132,
+  "text": "A year later America did the same.",
+  "translation": "بعد عام فعلت أمريكا الشيء نفسه."
+},
+{
+  "id": 133,
+  "text": "Many Northern states ended slavery, and they wanted it to stop all over the United States.",
+  "translation": "أنهت العديد من الولايات الشمالية العبودية، وأرادت إيقافها في جميع أنحاء الولايات المتحدة."
+},
+{
+  "id": 134,
+  "text": "But Southern slave owners wanted to keep their slaves.",
+  "translation": "لكن مالكي العبيد في الجنوب أرادوا الاحتفاظ بعبيدهم."
+},
+{
+  "id": 135,
+  "text": "They refused to free them, and they were ready to fight for their right to own slaves.",
+  "translation": "رفضوا تحريرهم، وكانوا مستعدين للقتال من أجل حقهم في امتلاك العبيد."
+},
+{
+  "id": 136,
+  "text": "The Southern states were ready to go to war for these rights.",
+  "translation": "كانت الولايات الجنوبية مستعدة للذهاب إلى الحرب من أجل هذه الحقوق."
+},
+{
+  "id": 137,
+  "text": "Abraham Lincoln was elected President of the United States in 1860.",
+  "translation": "انتُخب أبراهام لينكولن رئيساً للولايات المتحدة في عام 1860."
+},
+{
+  "id": 138,
+  "text": "He wanted to end slavery in America, but the South wanted to keep their slaves.",
+  "translation": "أراد إنهاء العبودية في أمريكا، لكن الجنوب أراد الاحتفاظ بعبيده."
+},
+{
+  "id": 139,
+  "text": "So seven Southern states decided to leave the United States of America.",
+  "translation": "لذلك قررت سبع ولايات جنوبية الانفصال عن الولايات المتحدة الأمريكية."
+},
+{
+  "id": 140,
+  "text": "The North and South went to war in 1861.",
+  "translation": "ذهبت الشمال والجنوب إلى الحرب في عام 1861."
+},
+{
+  "id": 141,
+  "text": "More than 180,000 black soldiers fought for the North.",
+  "translation": "قاتل أكثر من 180,000 جندي أسود في صفوف الشمال."
+},
+{
+  "id": 142,
+  "text": "In five years of terrible fighting, more than half a million soldiers on both sides were killed.",
+  "translation": "في خمس سنوات من القتال الرهيب، قُتل أكثر من نصف مليون جندي من الجانبين."
+},
+{
+  "id": 143,
+  "text": "The North won the war and slavery in the South ended in 1865.",
+  "translation": "فاز الشمال بالحرب وانتهت العبودية في الجنوب في عام 1865."
+},
+{
+  "id": 144,
+  "text": "Now there were no more black slaves in America.",
+  "translation": "الآن لم يكن هناك المزيد من العبيد السود في أمريكا."
+},
+{
+  "id": 145,
+  "text": "But black people in the South did not have the same rights as white people.",
+  "translation": "لكن السود في الجنوب لم يحصلوا على نفس حقوق البيض."
+},
+{
+  "id": 146,
+  "text": "Blacks could not go to white schools and there were very few schools for blacks.",
+  "translation": "لم يستطع السود الذهاب إلى مدارس البيض وكانت هناك مدارس قليلة جداً للسود."
+},
+{
+  "id": 147,
+  "text": "Blacks could not go to the same shops or restaurants as whites.",
+  "translation": "لم يستطع السود الذهاب إلى نفس المتاجر أو المطاعم التي يذهب إليها البيض."
+},
+{
+  "id": 148,
+  "text": "When blacks did try to get their rights, whites often answered them with violence.",
+  "translation": "عندما حاول السود الحصول على حقوقهم، غالباً ما رد البيض عليهم بالعنف."
+},
+{
+  "id": 149,
+  "text": "Most whites in the South were angry that they had lost the war.",
+  "translation": "كان معظم البيض في الجنوب غاضبين لأنهم خسروا الحرب."
+},
+{
+  "id": 150,
+  "text": "They did not agree with the end of slavery or with equal rights for blacks.",
+  "translation": "لم يوافقوا على إنهاء العبودية أو على حقوق متساوية للسود."
+},
+{
+  "id": 151,
+  "text": "In 1867 a group of soldiers in the Southern state of Georgia started a secret organization to fight against black rights.",
+  "translation": "في عام 1867، بدأت مجموعة من الجنود في ولاية جورجيا الجنوبية منظمة سرية للقتال ضد حقوق السود."
+},
+{
+  "id": 152,
+  "text": "This organization was called the Ku Klux Klan.",
+  "translation": "كانت هذه المنظمة تسمى كو كلوكس كلان."
+},
+{
+  "id": 153,
+  "text": "They wanted to frighten blacks and stop them from voting in elections.",
+  "translation": "أرادوا إخافة السود ومنعهم من التصويت في الانتخابات."
+},
+{
+  "id": 154,
+  "text": "Klansmen dressed in white clothes and covered their faces, so nobody could see who they were.",
+  "translation": "كان أعضاء الكلان يرتدون ملابس بيضاء ويغطون وجوههم، حتى لا يرى أحد من هم."
+},
+{
+  "id": 155,
+  "text": "Sometimes they took black people out of their homes and beat them or killed them.",
+  "translation": "في بعض الأحيان كانوا يأخذون السود من منازلهم ويضربونهم أو يقتلونهم."
+},
+{
+  "id": 156,
+  "text": "They also burned the schools, homes, and churches of black people.",
+  "translation": "أحرقوا أيضاً مدارس ومنازل وكنائس السود."
+},
+{
+  "id": 157,
+  "text": "In the 1890s more than 1,000 blacks were killed by whites in the South.",
+  "translation": "في تسعينيات القرن التاسع عشر، قُتل أكثر من 1000 أسود على يد البيض في الجنوب."
+},
+{
+  "id": 158,
+  "text": "Most blacks were too frightened to tell the police because many policemen in the South actually belonged to the Klan.",
+  "translation": "كان معظم السود خائفين جداً من إخبار الشرطة لأن العديد من رجال الشرطة في الجنوب كانوا في الواقع ينتمون إلى الكلان."
+},
+{
+  "id": 159,
+  "text": "Early in the twentieth century more than 4 million whites belonged to the Ku Klux Klan.",
+  "translation": "في أوائل القرن العشرين، كان أكثر من 4 ملايين أبيض ينتمون إلى كو كلوكس كلان."
+},
+{
+  "id": 160,
+  "text": "Now that blacks were not slaves, they were free to move out of the South.",
+  "translation": "بما أن السود لم يعودوا عبيداً، كانوا أحراراً في الانتقال خارج الجنوب."
+},
+{
+  "id": 161,
+  "text": "Thousands of blacks left the South and moved to Northern cities like Chicago and Detroit.",
+  "translation": "غادر الآلاف من السود الجنوب وانتقلوا إلى مدن شمالية مثل شيكاغو وديترويت."
+},
+{
+  "id": 162,
+  "text": "There was more freedom for blacks in the North and there was work for them in the factories.",
+  "translation": "كان هناك المزيد من الحرية للسود في الشمال وكان هناك عمل لهم في المصانع."
+},
+{
+  "id": 163,
+  "text": "By the beginning of the twentieth century a quarter of blacks lived outside the South, mostly in big Northern cities.",
+  "translation": "بحلول بداية القرن العشرين، كان ربع السود يعيشون خارج الجنوب، ومعظمهم في مدن شمالية كبيرة."
+},
+{
+  "id": 164,
+  "text": "In the twentieth century, blacks began to play a more important part in the life of America.",
+  "translation": "في القرن العشرين، بدأ السود يلعبون دوراً أكثر أهمية في حياة أمريكا."
+},
+{
+  "id": 165,
+  "text": "New schools and universities for blacks opened.",
+  "translation": "افتُتحت مدارس وجامعات جديدة للسود."
+},
+{
+  "id": 166,
+  "text": "Jazz, the music of black people, became popular all over the world.",
+  "translation": "أصبحت الجاز، موسيقى السود، شائعة في جميع أنحاء العالم."
+},
+{
+  "id": 167,
+  "text": "Harlem, a black neighborhood of New York City, became the centre for black musicians like Duke Ellington and black writers like Langston Hughes.",
+  "translation": "أصبح هارلم، وهو حي أسود في مدينة نيويورك، مركزاً للموسيقيين السود مثل دوق إلينغتون والكتاب السود مثل لانغستون هيوز."
+},
+{
+  "id": 168,
+  "text": "Paul Robeson was a famous black singer and actor.",
+  "translation": "كان بول روبسون مغنياً وممثلاً أسود مشهوراً."
+},
+{
+  "id": 169,
+  "text": "He sang about the troubles of black people.",
+  "translation": "غنى عن مشاكل السود."
+},
+{
+  "id": 170,
+  "text": "But many whites were angry when he appeared in Shakespeare's play Othello with a white actress as his wife.",
+  "translation": "لكن الكثير من البيض غضبوا عندما ظهر في مسرحية شكسبير عطيل مع ممثلة بيضاء كزوجة له."
+},
+{
+  "id": 171,
+  "text": "There were many black sportsmen.",
+  "translation": "كان هناك العديد من الرياضيين السود."
+},
+{
+  "id": 172,
+  "text": "The great black runner, Jesse Owens, won gold medals for America at the 1936 Olympic Games in Berlin.",
+  "translation": "فاز العداء الأسود العظيم، جيسي أوينز، بميداليات ذهبية لأمريكا في الألعاب الأولمبية عام 1936 في برلين."
+},
+{
+  "id": 173,
+  "text": "As Hitler and other Nazi leaders watched, Owens beat the best white runners.",
+  "translation": "بينما كان هتلر وقادة نازيون آخرون يشاهدون، هزم أوينز أفضل العدائين البيض."
+},
+{
+  "id": 174,
+  "text": "The boxer Joe Louis was born into a poor black family in Alabama in 1914 and was taken to Detroit when he was ten years old.",
+  "translation": "وُلد الملاكم جو لويس في عائلة سوداء فقيرة في ألاباما عام 1914 ونُقل إلى ديترويت عندما كان في العاشرة من عمره."
+},
+{
+  "id": 175,
+  "text": "In 1937 he became the world boxing champion.",
+  "translation": "في عام 1937 أصبح بطل العالم في الملاكمة."
+},
+{
+  "id": 176,
+  "text": "His greatest fight was against the German boxer, Max Schmeling.",
+  "translation": "كانت أعظم مبارياته ضد الملاكم الألماني ماكس شميلينغ."
+},
+{
+  "id": 177,
+  "text": "Louis had lost to Schmeling in their first fight.",
+  "translation": "خسر لويس أمام شميلينغ في مباراتهما الأولى."
+},
+{
+  "id": 178,
+  "text": "When Schmeling returned to Germany he was called a hero by the Nazis.",
+  "translation": "عندما عاد شميلينغ إلى ألمانيا، أطلق عليه النازيون لقب بطل."
+},
+{
+  "id": 179,
+  "text": "Hitler himself said that because Schmeling had won, whites were stronger than blacks.",
+  "translation": "قال هتلر نفسه إنه لأن شميلينغ فاز، فالبيض أقوى من السود."
+},
+{
+  "id": 180,
+  "text": "When Louis beat Schmeling in 1938, blacks all over America were wildly happy.",
+  "translation": "عندما هزم لويس شميلينغ في عام 1938، كان السود في جميع أنحاء أمريكا سعداء للغاية."
+},
+{
+  "id": 181,
+  "text": "Joe Louis fought twenty times as world champion and was never beaten.",
+  "translation": "قاتل جو لويس عشرين مرة كبطل عالمي ولم يُهزم أبداً."
+},
+{
+  "id": 182,
+  "text": "But once again the greatest changes in the lives of black people came from a war.",
+  "translation": "لكن مرة أخرى جاءت أعظم التغييرات في حياة السود من حرب."
+},
+{
+  "id": 183,
+  "text": "In 1941 America entered the Second World War.",
+  "translation": "في عام 1941 دخلت أمريكا الحرب العالمية الثانية."
+},
+{
+  "id": 184,
+  "text": "Black soldiers fought bravely for their country, but the American army was segregated.",
+  "translation": "قاتل الجنود السود بشجاعة من أجل بلدهم، لكن الجيش الأمريكي كان مفصولاً عنصرياً."
+},
+{
+  "id": 185,
+  "text": "Black soldiers did not fight beside white soldiers and they were not treated as well as white soldiers.",
+  "translation": "لم يقاتل الجنود السود بجانب الجنود البيض ولم يُعاملوا مثل الجنود البيض."
+},
+{
+  "id": 186,
+  "text": "When black soldiers protested about this, there were often fights between black soldiers and white soldiers.",
+  "translation": "عندما احتج الجنود السود على هذا، كانت تحدث في كثير من الأحيان معارك بين الجنود السود والجنود البيض."
+},
+{
+  "id": 187,
+  "text": "When these black soldiers returned to America, they wanted equal rights for themselves.",
+  "translation": "عندما عاد هؤلاء الجنود السود إلى أمريكا، أرادوا حقوقاً متساوية لأنفسهم."
+},
+{
+  "id": 188,
+  "text": "In some of the countries they had visited, black people had the same rights as white people and were treated fairly.",
+  "translation": "في بعض البلدان التي زاروها، كان للسود نفس حقوق البيض وكانوا يُعاملون بعدالة."
+},
+{
+  "id": 189,
+  "text": "After the war even more blacks moved to the North and became richer.",
+  "translation": "بعد الحرب انتقل المزيد من السود إلى الشمال وأصبحوا أكثر ثراءً."
+},
+{
+  "id": 190,
+  "text": "Some things got better: black workers in 1950 were paid twice as much as black workers in 1940, and more blacks began to go to university.",
+  "translation": "تحسنت بعض الأشياء: كان العمال السود في عام 1950 يتقاضون ضعف ما كان يتقاضاه العمال السود في عام 1940، وبدأ المزيد من السود في الذهاب إلى الجامعة."
+},
+{
+  "id": 191,
+  "text": "But black Americans got much less money than white Americans - even when they were doing the same jobs.",
+  "translation": "لكن الأمريكيين السود حصلوا على أموال أقل بكثير من الأمريكيين البيض - حتى عندما كانوا يقومون بنفس الوظائف."
+},
+{
+  "id": 192,
+  "text": "Many fewer blacks than whites went to university.",
+  "translation": "كان عدد السود الذين ذهبوا إلى الجامعة أقل بكثير من البيض."
+},
+{
+  "id": 193,
+  "text": "And even in the North there was still the problem of racism.",
+  "translation": "وحتى في الشمال كانت لا تزال هناك مشكلة العنصرية."
+},
+{
+  "id": 194,
+  "text": "The Second World War had been a war against racist ideas.",
+  "translation": "كانت الحرب العالمية الثانية حرباً ضد الأفكار العنصرية."
+},
+{
+  "id": 195,
+  "text": "Many whites in America realized that their own country was racist.",
+  "translation": "أدرك العديد من البيض في أمريكا أن بلدهم نفسه عنصري."
+},
+{
+  "id": 196,
+  "text": "Blacks began to vote and white politicians began to listen to them.",
+  "translation": "بدأ السود في التصويت وبدأ السياسيون البيض يستمعون إليهم."
+},
+{
+  "id": 197,
+  "text": "In 1948 President Truman ended segregation in the army.",
+  "translation": "في عام 1948 أنهى الرئيس ترومان الفصل العنصري في الجيش."
+},
+{
+  "id": 198,
+  "text": "In 1954 a new law said that blacks and whites must go to the same schools and learn together.",
+  "translation": "في عام 1954، قال قانون جديد إن السود والبيض يجب أن يذهبوا إلى نفس المدارس ويتعلموا معاً."
+},
+{
+  "id": 199,
+  "text": "Things were getting better for black people.",
+  "translation": "كانت الأمور تتحسن للسود."
+},
+{
+  "id": 200,
+  "text": "But they wanted more.",
+  "translation": "لكنهم أرادوا المزيد."
+},
+{
+  "id": 201,
+  "text": "They were ready for someone to lead them towards greater freedom.",
+  "translation": "كانوا مستعدين لشخص يقودهم نحو مزيد من الحرية."
+},
+{
+  "id": 202,
+  "text": "They were ready for Martin Luther King.",
+  "translation": "كانوا مستعدين لمارتن لوثر كينغ."
+},
+{
+  "id": 203,
+  "text": "Martin Luther King was an excellent student.",
+  "translation": "كان مارتن لوثر كينغ طالباً ممتازاً."
+},
+{
+  "id": 204,
+  "text": "When he was only fifteen, he went to Morehouse College in Atlanta.",
+  "translation": "عندما كان في الخامسة عشرة فقط، ذهب إلى كلية مورهاوس في أتلانتا."
+},
+{
+  "id": 205,
+  "text": "He was a clever young man and he finished his studies there in 1948.",
+  "translation": "كان شاباً ذكياً وأنهى دراسته هناك في عام 1948."
+},
+{
+  "id": 206,
+  "text": "Martin's father wanted him to be a minister, but at first Martin said no.",
+  "translation": "أراد والد مارتن أن يصبح قساً، لكن مارتن قال لا في البداية."
+},
+{
+  "id": 207,
+  "text": "He did not want to follow his father so soon.",
+  "translation": "لم يرد أن يتبع والده بهذه السرعة."
+},
+{
+  "id": 208,
+  "text": "He was learning exciting new ideas from his teachers at Morehouse, and there was so much more that he wanted to know.",
+  "translation": "كان يتعلم أفكاراً جديدة مثيرة من معلميه في مورهاوس، وكان هناك الكثير الذي أراد معرفته."
+},
+{
+  "id": 209,
+  "text": "But slowly Martin began to think differently.",
+  "translation": "لكن ببطء بدأ مارتن يفكر بشكل مختلف."
+},
+{
+  "id": 210,
+  "text": "He decided to become a minister like his father, but to be a teacher too.",
+  "translation": "قرر أن يصبح قساً مثل والده، لكن أن يكون معلماً أيضاً."
+},
+{
+  "id": 211,
+  "text": "He went to Crozer, a college for ministers in Pennsylvania, in the North.",
+  "translation": "ذهب إلى كروزر، وهي كلية للقساوسة في بنسلفانيا، في الشمال."
+},
+{
+  "id": 212,
+  "text": "There were many white students at the college, but Martin was happy to find that they were friendly towards him - in fact, they welcomed him.",
+  "translation": "كان هناك العديد من الطلاب البيض في الكلية، لكن مارتن كان سعيداً لأنه وجدهم ودودين تجاهه - في الواقع، رحبوا به."
+},
+{
+  "id": 213,
+  "text": "Martin realized that black people and white people did not have to hate each other.",
+  "translation": "أدرك مارتن أن السود والبيض لا يجب أن يكرهوا بعضهم البعض."
+},
+{
+  "id": 214,
+  "text": "But how could he make white people in the South see this?",
+  "translation": "لكن كيف يمكنه جعل البيض في الجنوب يرون هذا؟"
+},
+{
+  "id": 215,
+  "text": "He wanted to make them think like him, but he did not know how.",
+  "translation": "أراد جعلهم يفكرون مثله، لكنه لم يعرف كيف."
+},
+{
+  "id": 216,
+  "text": "He began to think seriously about this.",
+  "translation": "بدأ يفكر بجدية في هذا."
+},
+{
+  "id": 217,
+  "text": "In his last year at Crozer, Martin went to hear a talk about the Indian leader, Mohandas Gandhi.",
+  "translation": "في سنته الأخيرة في كروزر، ذهب مارتن لسماع محاضرة عن الزعيم الهندي موهانداس غاندي."
+},
+{
+  "id": 218,
+  "text": "Gandhi and his followers had fought against the British in India.",
+  "translation": "قاتل غاندي وأتباعه ضد البريطانيين في الهند."
+},
+{
+  "id": 219,
+  "text": "But they had used non-violence, not guns, to get a free India.",
+  "translation": "لكنهم استخدموا اللاعنف، وليس البنادق، للحصول على الهند الحرة."
+},
+{
+  "id": 220,
+  "text": "They had refused to pay money to the British government.",
+  "translation": "رفضوا دفع المال للحكومة البريطانية."
+},
+{
+  "id": 221,
+  "text": "They had sat in the road to stop the British army.",
+  "translation": "جلسوا في الطريق لوقف الجيش البريطاني."
+},
+{
+  "id": 222,
+  "text": "Thousands of them had been arrested for refusing to obey unfair laws.",
+  "translation": "أُعتقل الآلاف منهم لرفضهم الامتثال لقوانين غير عادلة."
+},
+{
+  "id": 223,
+  "text": "Gandhi thought that love was more powerful than hate.",
+  "translation": "اعتقد غاندي أن الحب أقوى من الكراهية."
+},
+{
+  "id": 224,
+  "text": "'If you love your enemies, you can beat them,' Gandhi had said.",
+  "translation": "قال غاندي: 'إذا أحببت أعداءك، يمكنك هزيمتهم'."
+},
+{
+  "id": 225,
+  "text": "Martin was excited by Gandhi's words.",
+  "translation": "كان مارتن متحمساً لكلمات غاندي."
+},
+{
+  "id": 226,
+  "text": "Could black people in the South end segregation without violence?",
+  "translation": "هل يمكن للسود في الجنوب إنهاء الفصل العنصري دون عنف؟"
+},
+{
+  "id": 227,
+  "text": "Martin continued his studies at Boston University.",
+  "translation": "واصل مارتن دراسته في جامعة بوسطن."
+},
+{
+  "id": 228,
+  "text": "Now he was Dr Martin Luther King.",
+  "translation": "الآن أصبح الدكتور مارتن لوثر كينغ."
+},
+{
+  "id": 229,
+  "text": "His family were very proud of him.",
+  "translation": "كانت عائلته فخورة جداً به."
+},
+{
+  "id": 230,
+  "text": "But Martin was lonely in the North.",
+  "translation": "لكن مارتن كان وحيداً في الشمال."
+},
+{
+  "id": 231,
+  "text": "He felt far from home, and he knew that his work was in the South.",
+  "translation": "شعر بالبعد عن المنزل، وعلم أن عمله في الجنوب."
+},
+{
+  "id": 232,
+  "text": "Then some friends introduced him to a young woman from the South called Coretta Scott.",
+  "translation": "ثم عرّفه بعض الأصدقاء على شابة من الجنوب تدعى كوريتا سكوت."
+},
+{
+  "id": 233,
+  "text": "They fell in love and married in 1953.",
+  "translation": "وقعا في الحب وتزوجا في عام 1953."
+},
+{
+  "id": 234,
+  "text": "Soon they started a family.",
+  "translation": "سرعان ما كوّنا عائلة."
+},
+{
+  "id": 235,
+  "text": "For the rest of Martin Luther King's life, he and Coretta worked together to fight segregation in the South.",
+  "translation": "لبقية حياة مارتن لوثر كينغ، عمل هو وكوريتا معاً لمحاربة الفصل العنصري في الجنوب."
+},
+{
+  "id": 236,
+  "text": "In 1954 the Kings moved back to the South.",
+  "translation": "في عام 1954 انتقلت عائلة كينغ إلى الجنوب."
+},
+{
+  "id": 237,
+  "text": "Martin became minister of the Dexter Avenue Baptist Church in Montgomery, Alabama.",
+  "translation": "أصبح مارتن قساً في كنيسة دكستر أفينيو المعمدانية في مونتغومري، ألاباما."
+},
+{
+  "id": 238,
+  "text": "Once he was back in Alabama, Martin realized that things were beginning to change in the South.",
+  "translation": "بمجرد عودته إلى ألاباما، أدرك مارتن أن الأمور بدأت تتغير في الجنوب."
+},
+{
+  "id": 239,
+  "text": "Black and white children were starting to go to the same schools.",
+  "translation": "بدأ الأطفال السود والبيض في الذهاب إلى نفس المدارس."
+},
+{
+  "id": 240,
+  "text": "There were new laws against segregation.",
+  "translation": "كانت هناك قوانين جديدة ضد الفصل العنصري."
+},
+{
+  "id": 241,
+  "text": "But white people in the South decided to fight against these laws.",
+  "translation": "لكن البيض في الجنوب قرروا محاربة هذه القوانين."
+},
+{
+  "id": 242,
+  "text": "Clearly, trouble was coming in the South.",
+  "translation": "بوضوح، كانت المشاكل قادمة في الجنوب."
+},
+{
+  "id": 243,
+  "text": "And the trouble began in Martin Luther King's new home - Montgomery, Alabama.",
+  "translation": "وبدأت المشاكل في منزل مارتن لوثر كينغ الجديد - مونتغومري، ألاباما."
+},
+{
+  "id": 244,
+  "text": "Rosa Parks was a black woman who worked in a shop in Montgomery.",
+  "translation": "كانت روزا باركس امرأة سوداء تعمل في متجر في مونتغومري."
+},
+{
+  "id": 245,
+  "text": "Every day she took the bus to and from her work.",
+  "translation": "كل يوم كانت تأخذ الحافلة من وإلى عملها."
+},
+{
+  "id": 246,
+  "text": "One day in December 1955 Rosa Parks got on the bus to go home and sat in a seat at the front.",
+  "translation": "في أحد أيام ديسمبر 1955، صعدت روزا باركس إلى الحافلة للعودة إلى المنزل وجلست في مقعد في المقدمة."
+},
+{
+  "id": 247,
+  "text": "There were three other black people sitting near her.",
+  "translation": "كان هناك ثلاثة أشخاص سود آخرون يجلسون بالقرب منها."
+},
+{
+  "id": 248,
+  "text": "More and more people got on the bus, and soon there were no more seats.",
+  "translation": "صعد المزيد والمزيد من الناس إلى الحافلة، وسرعان ما لم تكن هناك مقاعد."
+},
+{
+  "id": 249,
+  "text": "White people had to stand.",
+  "translation": "كان على البيض الوقوف."
+},
+{
+  "id": 250,
+  "text": "The driver stopped the bus and asked the black people at the front to give their seats to white people.",
+  "translation": "أوقف السائق الحافلة وطلب من السود في المقدمة إعطاء مقاعدهم للبيض."
+},
+{
+  "id": 251,
+  "text": "Three of them stood up but Rosa Parks stayed in her seat.",
+  "translation": "وقف ثلاثة منهم لكن روزا باركس بقيت في مقعدها."
+},
+{
+  "id": 252,
+  "text": "Rosa belonged to the NAACP, a black civil rights group, and she knew her rights.",
+  "translation": "كانت روزا تنتمي إلى NAACP، وهي مجموعة حقوق مدنية سوداء، وكانت تعرف حقوقها."
+},
+{
+  "id": 253,
+  "text": "She refused to get up.",
+  "translation": "رفضت النهوض."
+},
+{
+  "id": 254,
+  "text": "'Why don't you stand up?' said the driver.",
+  "translation": "قال السائق: 'لماذا لا تقفين؟'"
+},
+{
+  "id": 255,
+  "text": "'I don't think I should have to stand up,' Rosa answered.",
+  "translation": "أجابت روزا: 'لا أعتقد أنه يجب عليّ الوقوف'."
+},
+{
+  "id": 256,
+  "text": "'If you don't stand up, I'm going to call the police,' said the driver.",
+  "translation": "قال السائق: 'إذا لم تقفي، سأتصل بالشرطة'."
+},
+{
+  "id": 257,
+  "text": "'You can do that,' said Rosa.",
+  "translation": "قالت روزا: 'يمكنك فعل ذلك'."
+},
+{
+  "id": 258,
+  "text": "So the driver called the police and Rosa Parks was arrested and put in prison.",
+  "translation": "فاتصل السائق بالشرطة واعتُقلت روزا باركس ووُضعت في السجن."
+},
+{
+  "id": 259,
+  "text": "The arrest of Rosa Parks made many black people in Montgomery very angry.",
+  "translation": "جعل اعتقال روزا باركس الكثير من السود في مونتغومري غاضبين جداً."
+},
+{
+  "id": 260,
+  "text": "But it gave them a chance to protest against the policy of segregation on the buses.",
+  "translation": "لكنه أعطاهم فرصة للاحتجاج على سياسة الفصل العنصري في الحافلات."
+},
+{
+  "id": 261,
+  "text": "For years the NAACP had wanted to take action against the city's bus company.",
+  "translation": "لسنوات أرادت NAACP اتخاذ إجراء ضد شركة الحافلات في المدينة."
+},
+{
+  "id": 262,
+  "text": "Now they had a chance.",
+  "translation": "الآن أصبحت لديهم فرصة."
+},
+{
+  "id": 263,
+  "text": "But who could lead them?",
+  "translation": "لكن من يمكنه قيادتهم؟"
+},
+{
+  "id": 264,
+  "text": "Martin Luther King had only been minister of the Dexter Avenue Baptist Church for a year, but he was well known for his honesty.",
+  "translation": "كان مارتن لوثر كينغ قساً لكنيسة دكستر أفينيو المعمدانية لمدة عام واحد فقط، لكنه كان معروفاً بأمانته."
+},
+{
+  "id": 265,
+  "text": "The NAACP asked King to meet them and decide what to do.",
+  "translation": "طلبت NAACP من كينغ الاجتماع بهم وتقرير ما يجب فعله."
+},
+{
+  "id": 266,
+  "text": "It was time to end segregation on Montgomery's buses.",
+  "translation": "حان الوقت لإنهاء الفصل العنصري في حافلات مونتغومري."
+},
+{
+  "id": 267,
+  "text": "They met in King's church.",
+  "translation": "اجتمعوا في كنيسة كينغ."
+},
+{
+  "id": 268,
+  "text": "King said that black people should boycott the buses in Montgomery.",
+  "translation": "قال كينغ إن على السود مقاطعة الحافلات في مونتغومري."
+},
+{
+  "id": 269,
+  "text": "'If we refuse to ride on the buses, the company is going to lose a lot of money,' he said.",
+  "translation": "قال: 'إذا رفضنا الركوب في الحافلات، ستخسر الشركة الكثير من المال'."
+},
+{
+  "id": 270,
+  "text": "'In the end they will have to end segregation.'",
+  "translation": "'في النهاية سيكون عليهم إنهاء الفصل العنصري'."
+},
+{
+  "id": 271,
+  "text": "King agreed to lead the boycott.",
+  "translation": "وافق كينغ على قيادة المقاطعة."
+},
+{
+  "id": 272,
+  "text": "When the meeting finished, King was worried.",
+  "translation": "عندما انتهى الاجتماع، كان كينغ قلقاً."
+},
+{
+  "id": 273,
+  "text": "He discussed his worries with Coretta, his wife.",
+  "translation": "ناقش مخاوفه مع كوريتا، زوجته."
+},
+{
+  "id": 274,
+  "text": "'Will the bus boycott succeed?' he wondered.",
+  "translation": "تساءل: 'هل ستنجح مقاطعة الحافلات؟'"
+},
+{
+  "id": 275,
+  "text": "'Will black people obey the boycott?'",
+  "translation": "'هل سيطيع السود المقاطعة؟'"
+},
+{
+  "id": 276,
+  "text": "Most black people don't have cars, so how are they going to get to work?",
+  "translation": "معظم السود لا يملكون سيارات، فكيف سيذهبون إلى العمل؟"
+},
+{
+  "id": 277,
+  "text": "If people can't get to work, perhaps they will lose their jobs.",
+  "translation": "إذا لم يستطع الناس الوصول إلى العمل، فربما سيفقدون وظائفهم."
+},
+{
+  "id": 278,
+  "text": "Maybe the boycott will hurt black people more than it will hurt white people.",
+  "translation": "ربما ستضر المقاطعة بالسود أكثر مما ستضر بالبيض."
+},
+{
+  "id": 279,
+  "text": "How will that help black people?'",
+  "translation": "كيف سيساعد ذلك السود؟'"
+},
+{
+  "id": 280,
+  "text": "There were a lot of questions, and King and his wife talked for hours.",
+  "translation": "كان هناك الكثير من الأسئلة، وتحدث كينغ وزوجته لساعات."
+},
+{
+  "id": 281,
+  "text": "Neither of them slept well that night.",
+  "translation": "لم ينم أي منهما جيداً تلك الليلة."
+},
+{
+  "id": 282,
+  "text": "Next morning King and Coretta got up and looked out the window.",
+  "translation": "في صباح اليوم التالي استيقظ كينغ وكوريتا ونظرا من النافذة."
+},
+{
+  "id": 283,
+  "text": "There was a bus stop in front of their house.",
+  "translation": "كان هناك موقف حافلات أمام منزلهم."
+},
+{
+  "id": 284,
+  "text": "They waited for a bus to come.",
+  "translation": "انتظروا وصول حافلة."
+},
+{
+  "id": 285,
+  "text": "At last the first bus came and it was empty.",
+  "translation": "أخيراً جاءت الحافلة الأولى وكانت فارغة."
+},
+{
+  "id": 286,
+  "text": "Then the second bus came - and it was empty too!",
+  "translation": "ثم جاءت الحافلة الثانية - وكانت فارغة أيضاً!"
+},
+{
+  "id": 287,
+  "text": "It was the same all over Montgomery.",
+  "translation": "كان الأمر نفسه في جميع أنحاء مونتغومري."
+},
+{
+  "id": 288,
+  "text": "Black people walked to work - some of them walked twenty miles or stayed at home.",
+  "translation": "سار السود إلى العمل - بعضهم سار عشرين ميلاً أو بقي في المنزل."
+},
+{
+  "id": 289,
+  "text": "Black taxi drivers drove people to work in their taxis for the same money that they paid on the bus.",
+  "translation": "قام سائقو سيارات الأجرة السود بنقل الناس إلى العمل في سيارات الأجرة مقابل نفس المبلغ الذي دفعوه في الحافلة."
+},
+{
+  "id": 290,
+  "text": "The boycott was working!",
+  "translation": "كانت المقاطعة تنجح!"
+},
+{
+  "id": 291,
+  "text": "The bus boycott lasted for more than a year.",
+  "translation": "استمرت مقاطعة الحافلات لأكثر من عام."
+},
+{
+  "id": 292,
+  "text": "Many black people were arrested and put in prison, and King was one of them.",
+  "translation": "اعتُقل الكثير من السود ووُضعوا في السجن، وكان كينغ واحداً منهم."
+},
+{
+  "id": 293,
+  "text": "Some white people were angry with King and they thought he was dangerous.",
+  "translation": "كان بعض البيض غاضبين من كينغ واعتقدوا أنه خطير."
+},
+{
+  "id": 294,
+  "text": "One night someone left a bomb outside the King family home.",
+  "translation": "في إحدى الليالي، ترك أحدهم قنبلة خارج منزل عائلة كينغ."
+},
+{
+  "id": 295,
+  "text": "It exploded, but luckily no one was hurt.",
+  "translation": "انفجرت، لكن لحسن الحظ لم يُصب أحد."
+},
+{
+  "id": 296,
+  "text": "The bus company was losing money, but it refused to change its policy.",
+  "translation": "كانت شركة الحافلات تخسر المال، لكنها رفضت تغيير سياستها."
+},
+{
+  "id": 297,
+  "text": "Shops in Montgomery were losing money too because black people were not coming into town to shop.",
+  "translation": "كانت المتاجر في مونتغومري تخسر المال أيضاً لأن السود لم يأتوا إلى المدينة للتسوق."
+},
+{
+  "id": 298,
+  "text": "The owners of the shops wanted the boycott to end, but the bus company did not want the NAACP to win.",
+  "translation": "أراد أصحاب المتاجر إنهاء المقاطعة، لكن شركة الحافلات لم ترد أن تفوز NAACP."
+},
+{
+  "id": 299,
+  "text": "The boycott leaders went to an Alabama judge.",
+  "translation": "ذهب قادة المقاطعة إلى قاضٍ في ألاباما."
+},
+{
+  "id": 300,
+  "text": "They said that segregation on buses was wrong.",
+  "translation": "قالوا إن الفصل العنصري في الحافلات خطأ."
+},
+{
+  "id": 301,
+  "text": "The Alabama judge did not agree with them, so they went to Washington to see the most important judges in the country.",
+  "translation": "لم يوافق القاضي في ألاباما معهم، فذهبوا إلى واشنطن لرؤية أهم القضاة في البلاد."
+},
+{
+  "id": 302,
+  "text": "On 13 November 1956 these judges said that segregation in buses was against the law.",
+  "translation": "في 13 نوفمبر 1956، قال هؤلاء القضاة إن الفصل العنصري في الحافلات مخالف للقانون."
+},
+{
+  "id": 303,
+  "text": "The Montgomery bus boycott had succeeded!",
+  "translation": "لقد نجحت مقاطعة حافلات مونتغومري!"
+},
+{
+  "id": 304,
+  "text": "The Montgomery bus boycott made Martin Luther King famous.",
+  "translation": "جعلت مقاطعة حافلات مونتغومري مارتن لوثر كينغ مشهوراً."
+},
+{
+  "id": 305,
+  "text": "People all over America began to talk about the young black minister who had organized it.",
+  "translation": "بدأ الناس في جميع أنحاء أمريكا يتحدثون عن القس الأسود الشاب الذي نظمها."
+},
+{
+  "id": 306,
+  "text": "But King knew that Montgomery was only the beginning.",
+  "translation": "لكن كينغ علم أن مونتغومري كانت فقط البداية."
+},
+{
+  "id": 307,
+  "text": "Black people had won their fight in Montgomery, but it was not the only fight that they had to win in the South.",
+  "translation": "فاز السود في معركتهم في مونتغومري، لكنها لم تكن المعركة الوحيدة التي كان عليهم الفوز بها في الجنوب."
+},
+{
+  "id": 308,
+  "text": "To win their civil rights, black people needed to organize themselves.",
+  "translation": "للفوز بحقوقهم المدنية، احتاج السود إلى تنظيم أنفسهم."
+},
+{
+  "id": 309,
+  "text": "In 1957 hundreds of Southern black church leaders met together to talk about what to do next.",
+  "translation": "في عام 1957، اجتمع مئات من قادة الكنائس السوداء الجنوبية معاً للتحدث عما يجب فعله بعد ذلك."
+},
+{
+  "id": 310,
+  "text": "At the meeting King said that black people had to work together to win their civil rights.",
+  "translation": "في الاجتماع قال كينغ إن على السود العمل معاً للفوز بحقوقهم المدنية."
+},
+{
+  "id": 311,
+  "text": "The church leaders organized themselves into the Southern Christian Leadership Conference (SCLC).",
+  "translation": "نظم قادة الكنائس أنفسهم في مؤتمر القيادة المسيحية الجنوبية (SCLC)."
+},
+{
+  "id": 312,
+  "text": "Martin Luther King became the president of the SCLC.",
+  "translation": "أصبح مارتن لوثر كينغ رئيساً لـ SCLC."
+},
+{
+  "id": 313,
+  "text": "He told them that they had to join together to fight for the rights of black people in the South.",
+  "translation": "أخبرهم أن عليهم الاتحاد معاً للقتال من أجل حقوق السود في الجنوب."
+},
+{
+  "id": 314,
+  "text": "King wrote a book, Stride Toward Freedom, to explain his ideas.",
+  "translation": "كتب كينغ كتاباً بعنوان 'خطوة نحو الحرية' لشرح أفكاره."
+},
+{
+  "id": 315,
+  "text": "In his book, he talked about the teachings of Gandhi.",
+  "translation": "في كتابه، تحدث عن تعاليم غاندي."
+},
+{
+  "id": 316,
+  "text": "King believed that non-violence was the only way to win the fight for black rights.",
+  "translation": "اعتقد كينغ أن اللاعنف هو الطريقة الوحيدة للفوز في معركة حقوق السود."
+},
+{
+  "id": 317,
+  "text": "In Montgomery, the boycott had been non-violent.",
+  "translation": "في مونتغومري، كانت المقاطعة سلمية."
+},
+{
+  "id": 318,
+  "text": "The police had beaten the protesters, and they had tried to break the boycott by violence, but the protesters had not fought back.",
+  "translation": "ضربت الشرطة المتظاهرين، وحاولوا كسر المقاطعة بالعنف، لكن المتظاهرين لم يردوا."
+},
+{
+  "id": 319,
+  "text": "They had no sticks or guns, and they had not fought violence with violence.",
+  "translation": "لم يكن لديهم عصي أو بنادق، ولم يقاتلوا العنف بالعنف."
+},
+{
+  "id": 320,
+  "text": "They had just refused to let people treat them unfairly.",
+  "translation": "لقد رفضوا فقط السماح للناس بمعاملتهم بعدم إنصاف."
+},
+{
+  "id": 321,
+  "text": "And they had won because they were right, not because they were violent.",
+  "translation": "وفازوا لأنهم كانوا على حق، وليس لأنهم كانوا عنيفين."
+},
+{
+  "id": 322,
+  "text": "There were many other things in the South that needed to change.",
+  "translation": "كانت هناك العديد من الأشياء الأخرى في الجنوب تحتاج إلى التغيير."
+},
+{
+  "id": 323,
+  "text": "Schools were segregated: white children went to all-white schools, black children went to all-black schools.",
+  "translation": "كانت المدارس مفصولة عنصرياً: ذهب الأطفال البيض إلى مدارس للبيض فقط، وذهب الأطفال السود إلى مدارس للسود فقط."
+},
+{
+  "id": 324,
+  "text": "Although there were more black children than white children in the South, much more money was spent on white schools than on black schools.",
+  "translation": "على الرغم من وجود أطفال سود أكثر من الأطفال البيض في الجنوب، تم إنفاق أموال أكثر بكثير على مدارس البيض مقارنة بمدارس السود."
+},
+{
+  "id": 325,
+  "text": "But in 1954 the law was changed.",
+  "translation": "لكن في عام 1954 تغير القانون."
+},
+{
+  "id": 326,
+  "text": "Now it was against the law to have different schools for black children and white children.",
+  "translation": "الآن أصبح من غير القانوني وجود مدارس مختلفة للأطفال السود والأطفال البيض."
+},
+{
+  "id": 327,
+  "text": "The new law said that all schools had to take both black children and white children.",
+  "translation": "قال القانون الجديد إن جميع المدارس يجب أن تقبل الأطفال السود والبيض معاً."
+},
+{
+  "id": 328,
+  "text": "Change came slowly to the South.",
+  "translation": "جاء التغيير ببطء إلى الجنوب."
+},
+{
+  "id": 329,
+  "text": "Many white people hated the new law, and in many Southern states, they refused to obey it.",
+  "translation": "كره الكثير من البيض القانون الجديد، وفي العديد من الولايات الجنوبية، رفضوا الامتثال له."
+},
+{
+  "id": 330,
+  "text": "Arkansas was one of these states.",
+  "translation": "كانت أركنساس إحدى هذه الولايات."
+},
+{
+  "id": 331,
+  "text": "In the state capital, Little Rock, nine black students tried to enter the Central High School at the start of the 1957-58 school year.",
+  "translation": "في عاصمة الولاية، ليتل روك، حاول تسعة طلاب سود دخول مدرسة سنترال الثانوية في بداية العام الدراسي 1957-58."
+},
+{
+  "id": 332,
+  "text": "Little Rock soon became one of the most famous places in the story of the fight for civil rights.",
+  "translation": "سرعان ما أصبحت ليتل روك واحدة من أشهر الأماكن في قصة الكفاح من أجل الحقوق المدنية."
+},
+{
+  "id": 333,
+  "text": "On 2 September, the night before the start of the new school year, the leader of the Arkansas government, Orval Faubus, ordered the National Guard to stand outside Central High School.",
+  "translation": "في 2 سبتمبر، في الليلة السابقة لبداية العام الدراسي الجديد، أمر زعيم حكومة أركنساس، أورفال فاوبس، الحرس الوطني بالوقوف خارج مدرسة سنترال الثانوية."
+},
+{
+  "id": 334,
+  "text": "He told them to stop any black students from entering the school, because he was afraid of trouble from protesters.",
+  "translation": "أخبرهم بمنع أي طلاب سود من دخول المدرسة، لأنه كان خائفاً من مشاكل من المتظاهرين."
+},
+{
+  "id": 335,
+  "text": "The school was closed.",
+  "translation": "أُغلقت المدرسة."
+},
+{
+  "id": 336,
+  "text": "But a judge said that Faubus could not use the National Guard to do something that was against the law.",
+  "translation": "لكن قاضياً قال إن فاوبس لا يمكنه استخدام الحرس الوطني للقيام بشيء مخالف للقانون."
+},
+{
+  "id": 337,
+  "text": "On 23 September the Little Rock police took the nine black students into Central High.",
+  "translation": "في 23 سبتمبر، أخذت شرطة ليتل روك الطلاب السود التسعة إلى مدرسة سنترال الثانوية."
+},
+{
+  "id": 338,
+  "text": "A crowd of more than a thousand white people tried to stop the black students from entering.",
+  "translation": "حاول حشد من أكثر من ألف شخص أبيض منع الطلاب السود من الدخول."
+},
+{
+  "id": 339,
+  "text": "The crowd rioted and attacked the police.",
+  "translation": "أثار الحشد أعمال شغب وهاجم الشرطة."
+},
+{
+  "id": 340,
+  "text": "The pictures of the riot were seen all over the world, and many Americans were shocked to see such ugly attacks in their own country.",
+  "translation": "شوهدت صور أعمال الشغب في جميع أنحاء العالم، وصُدم الكثير من الأمريكيين لرؤية مثل هذه الهجمات القبيحة في بلدهم."
+},
+{
+  "id": 341,
+  "text": "Next day, the President of the United States, Dwight D. Eisenhower, ordered the army to Little Rock.",
+  "translation": "في اليوم التالي، أمر رئيس الولايات المتحدة، دوايت د. أيزنهاور، الجيش بالذهاب إلى ليتل روك."
+},
+{
+  "id": 342,
+  "text": "A thousand soldiers stood in front of the crowd as the nine black students entered Little Rock Central High School.",
+  "translation": "وقف ألف جندي أمام الحشد بينما دخل الطلاب السود التسعة إلى مدرسة ليتل روك سنترال الثانوية."
+},
+{
+  "id": 343,
+  "text": "Every morning the nine black children walked to the school, and every morning the soldiers protected them as they walked through crowds of angry whites.",
+  "translation": "كل صباح كان الأطفال السود التسعة يسيرون إلى المدرسة، وكل صباح كان الجنود يحمونهم وهم يسيرون عبر حشود من البيض الغاضبين."
+},
+{
+  "id": 344,
+  "text": "One of the Little Rock Nine, Elizabeth Eckford, later talked about that walk past the angry crowd.",
+  "translation": "تحدثت إحدى فتيات ليتل روك التسع، إليزابيث إيكفورد، لاحقاً عن تلك المسيرة أمام الحشد الغاضب."
+},
+{
+  "id": 345,
+  "text": "'I looked for a friendly face in the crowd.'",
+  "translation": "'بحثت عن وجه ودود في الحشد'."
+},
+{
+  "id": 346,
+  "text": "I saw a nice-looking old woman.",
+  "translation": "رأيت امرأة مسنة تبدو لطيفة."
+},
+{
+  "id": 347,
+  "text": "She seemed to have a kind face.",
+  "translation": "بدا أن لها وجهاً طيباً."
+},
+{
+  "id": 348,
+  "text": "But when I smiled at her, she spat at me.'",
+  "translation": "لكن عندما ابتسمت لها، بصقت عليّ.'"
+},
+{
+  "id": 349,
+  "text": "Inside the school, things were different.",
+  "translation": "داخل المدرسة، كانت الأمور مختلفة."
+},
+{
+  "id": 350,
+  "text": "Ernest Green, one of the nine black students, remembered the friendly white students who helped him.",
+  "translation": "تذكر إرنست غرين، أحد الطلاب السود التسعة، الطلاب البيض الودودين الذين ساعدوه."
+},
+{
+  "id": 351,
+  "text": "'I missed three weeks of school, so I was behind in my class work.'",
+  "translation": "'غبت عن المدرسة ثلاثة أسابيع، لذلك تأخرت في عملي الصفي'."
+},
+{
+  "id": 352,
+  "text": "A couple of boys in my class gave me notes on the lessons that I'd missed.",
+  "translation": "أعطاني فتيان في صفي ملاحظات عن الدروس التي فاتتني."
+},
+{
+  "id": 353,
+  "text": "After seeing the crowd outside the school, I was really surprised by this.'",
+  "translation": "بعد رؤية الحشد خارج المدرسة، فوجئت حقاً بهذا.'"
+},
+{
+  "id": 354,
+  "text": "For black people in America, 1960 was an important year.",
+  "translation": "بالنسبة للسود في أمريكا، كان عام 1960 عاماً مهماً."
+},
+{
+  "id": 355,
+  "text": "King was busier than ever.",
+  "translation": "كان كينغ أكثر انشغالاً من أي وقت مضى."
+},
+{
+  "id": 356,
+  "text": "He decided to move back to his father's church in Atlanta.",
+  "translation": "قرر العودة إلى كنيسة والده في أتلانتا."
+},
+{
+  "id": 357,
+  "text": "He spent half of his time working in his church and the other half working for the SCLC.",
+  "translation": "أمضى نصف وقته في العمل في كنيسته والنصف الآخر في العمل لصالح SCLC."
+},
+{
+  "id": 358,
+  "text": "King's policy of non-violent protest was becoming more popular.",
+  "translation": "أصبحت سياسة كينغ للاحتجاج اللاعنفي أكثر شعبية."
+},
+{
+  "id": 359,
+  "text": "Soon black people found a new way to protest - the 'sit-in'.",
+  "translation": "سرعان ما وجد السود طريقة جديدة للاحتجاج - 'الاعتصام'."
+},
+{
+  "id": 360,
+  "text": "Restaurants in the South were still segregated.",
+  "translation": "كانت المطاعم في الجنوب لا تزال مفصولة عنصرياً."
+},
+{
+  "id": 361,
+  "text": "One day in February 1960 four black students in Greensboro, North Carolina, walked into a shop called Woolworth's.",
+  "translation": "في أحد أيام فبراير 1960، دخل أربعة طلاب سود في غرينسبورو، نورث كارولينا، إلى متجر يُدعى وولورث."
+},
+{
+  "id": 362,
+  "text": "There were hundreds of Woolworth's shops across the country, and many had restaurants inside the shop.",
+  "translation": "كانت هناك مئات من متاجر وولورث في جميع أنحاء البلاد، وكان العديد منها يحتوي على مطاعم داخل المتجر."
+},
+{
+  "id": 363,
+  "text": "The students sat down at a table and politely asked for lunch.",
+  "translation": "جلس الطلاب على طاولة وطلبوا الغداء بأدب."
+},
+{
+  "id": 364,
+  "text": "The waitress refused to take their order and told the students to go, but they refused to leave the restaurant.",
+  "translation": "رفضت النادلة أخذ طلبهم وأخبرت الطلاب بالذهاب، لكنهم رفضوا مغادرة المطعم."
+},
+{
+  "id": 365,
+  "text": "Instead, they began a sit-in: they sat at their tables and waited until the restaurant closed.",
+  "translation": "بدلاً من ذلك، بدأوا اعتصاماً: جلسوا على طاولاتهم وانتظروا حتى إغلاق المطعم."
+},
+{
+  "id": 366,
+  "text": "Next day some more students joined them.",
+  "translation": "في اليوم التالي انضم إليهم المزيد من الطلاب."
+},
+{
+  "id": 367,
+  "text": "Then some white students joined the sit-in too.",
+  "translation": "ثم انضم بعض الطلاب البيض إلى الاعتصام أيضاً."
+},
+{
+  "id": 368,
+  "text": "The Greensboro students were arrested, but the sit-ins did not stop.",
+  "translation": "اعتُقل طلاب غرينسبورو، لكن الاعتصامات لم تتوقف."
+},
+{
+  "id": 369,
+  "text": "Soon there were sit-ins at restaurants all over the South.",
+  "translation": "سرعان ما كانت هناك اعتصامات في المطاعم في جميع أنحاء الجنوب."
+},
+{
+  "id": 370,
+  "text": "More white students from the North travelled to the South to join the sit-ins.",
+  "translation": "سافر المزيد من الطلاب البيض من الشمال إلى الجنوب للانضمام إلى الاعتصامات."
+},
+{
+  "id": 371,
+  "text": "In July 1960 Woolworth's finally agreed to let both blacks and whites use their restaurants.",
+  "translation": "في يوليو 1960، وافقت وولورث أخيراً على السماح للسود والبيض باستخدام مطاعمها."
+},
+{
+  "id": 372,
+  "text": "Other big companies did the same.",
+  "translation": "فعلت شركات كبيرة أخرى الشيء نفسه."
+},
+{
+  "id": 373,
+  "text": "So once again, non-violent protest had been successful in the battle for civil rights.",
+  "translation": "وهكذا مرة أخرى، نجح الاحتجاج اللاعنفي في معركة الحقوق المدنية."
+},
+{
+  "id": 374,
+  "text": "Martin Luther King joined the sit-ins.",
+  "translation": "انضم مارتن لوثر كينغ إلى الاعتصامات."
+},
+{
+  "id": 375,
+  "text": "When students held a sit-in at an Atlanta restaurant in October 1960, King stayed with them.",
+  "translation": "عندما أقام الطلاب اعتصاماً في مطعم في أتلانتا في أكتوبر 1960، بقي كينغ معهم."
+},
+{
+  "id": 376,
+  "text": "He was arrested and put in prison.",
+  "translation": "اعتُقل ووُضع في السجن."
+},
+{
+  "id": 377,
+  "text": "King was not sorry to go to prison.",
+  "translation": "لم يكن كينغ آسفاً لذهابه إلى السجن."
+},
+{
+  "id": 378,
+  "text": "Like Gandhi, he believed that you should not obey a bad law.",
+  "translation": "مثل غاندي، اعتقد أنه لا يجب عليك إطاعة قانون سيئ."
+},
+{
+  "id": 379,
+  "text": "If the law is unfair, he argued, then it is right to break it.",
+  "translation": "قال إنه إذا كان القانون غير عادل، فمن الصواب كسره."
+},
+{
+  "id": 380,
+  "text": "It is better not to obey a bad law than to obey it.",
+  "translation": "من الأفضل عدم إطاعة قانون سيئ بدلاً من إطاعته."
+},
+{
+  "id": 381,
+  "text": "If this means that you go to prison, then you have to accept that.",
+  "translation": "إذا كان هذا يعني أن تذهب إلى السجن، فعليك تقبل ذلك."
+},
+{
+  "id": 382,
+  "text": "King was not afraid of prison.",
+  "translation": "لم يكن كينغ خائفاً من السجن."
+},
+{
+  "id": 383,
+  "text": "But King's family and friends were afraid for him.",
+  "translation": "لكن عائلة كينغ وأصدقاءه كانوا خائفين عليه."
+},
+{
+  "id": 384,
+  "text": "They knew that King's life was in danger in prison.",
+  "translation": "عرفوا أن حياة كينغ كانت في خطر في السجن."
+},
+{
+  "id": 385,
+  "text": "He had many enemies and there were people who wanted to kill him.",
+  "translation": "كان لديه العديد من الأعداء وكان هناك أشخاص يريدون قتله."
+},
+{
+  "id": 386,
+  "text": "In the South in 1960 it was not difficult to kill a black prisoner.",
+  "translation": "في الجنوب في عام 1960 لم يكن من الصعب قتل سجين أسود."
+},
+{
+  "id": 387,
+  "text": "Coretta King went to John F. Kennedy for help.",
+  "translation": "ذهبت كوريتا كينغ إلى جون ف. كينيدي طلباً للمساعدة."
+},
+{
+  "id": 388,
+  "text": "Kennedy had already said that segregation was a bad thing, and he promised to help King.",
+  "translation": "كان كينيدي قد قال بالفعل إن الفصل العنصري شيء سيئ، ووعد بمساعدة كينغ."
+},
+{
+  "id": 389,
+  "text": "When Kennedy asked the judge to let King go, the judge agreed.",
+  "translation": "عندما طلب كينيدي من القاضي إطلاق سراح كينغ، وافق القاضي."
+},
+{
+  "id": 390,
+  "text": "But Martin Luther King later went to prison many more times when he refused to obey unfair laws.",
+  "translation": "لكن مارتن لوثر كينغ ذهب لاحقاً إلى السجن مرات عديدة عندما رفض الامتثال لقوانين غير عادلة."
+},
+{
+  "id": 391,
+  "text": "One month later, in November 1960, John F. Kennedy became President of the United States.",
+  "translation": "بعد شهر واحد، في نوفمبر 1960، أصبح جون ف. كينيدي رئيساً للولايات المتحدة."
+},
+{
+  "id": 392,
+  "text": "Across the country, people were full of hope.",
+  "translation": "في جميع أنحاء البلاد، كان الناس مليئين بالأمل."
+},
+{
+  "id": 393,
+  "text": "The young President promised a new start.",
+  "translation": "وعد الرئيس الشاب ببداية جديدة."
+},
+{
+  "id": 394,
+  "text": "Surely this must mean the end of bad laws, and freedom at last for black people in the South?",
+  "translation": "بالتأكيد يجب أن يعني هذا نهاية القوانين السيئة، والحرية أخيراً للسود في الجنوب؟"
+},
+{
+  "id": 395,
+  "text": "But most white people in the South still did not want change.",
+  "translation": "لكن معظم البيض في الجنوب لم يريدوا التغيير بعد."
+},
+{
+  "id": 396,
+  "text": "They were ready to fight to keep their way of life.",
+  "translation": "كانوا مستعدين للقتال للحفاظ على طريقة حياتهم."
+},
+{
+  "id": 397,
+  "text": "There was a road to freedom, but it was not short, and it was not easy.",
+  "translation": "كان هناك طريق إلى الحرية، لكنه لم يكن قصيراً، ولم يكن سهلاً."
+},
+{
+  "id": 398,
+  "text": "1963 began badly for the SCLC and Martin Luther King.",
+  "translation": "بدأ عام 1963 بشكل سيئ لـ SCLC ومارتن لوثر كينغ."
+},
+{
+  "id": 399,
+  "text": "He had had success in Montgomery and Greensboro, but now, for the first time, he failed.",
+  "translation": "كان قد حقق نجاحاً في مونتغومري وغرينسبورو، لكن الآن، وللمرة الأولى، فشل."
+},
+{
+  "id": 400,
+  "text": "The SCLC tried to end segregation in Albany, Georgia.",
+  "translation": "حاولت SCLC إنهاء الفصل العنصري في ألباني، جورجيا."
+},
+{
+  "id": 401,
+  "text": "They fought against the town government and the police for almost a year.",
+  "translation": "قاتلوا ضد حكومة المدينة والشرطة لما يقرب من عام."
+},
+{
+  "id": 402,
+  "text": "But at the end of the year, Albany's schools, libraries, and parks were still segregated.",
+  "translation": "لكن في نهاية العام، كانت مدارس ألباني ومكتباتها وحدائقها لا تزال مفصولة عنصرياً."
+},
+{
+  "id": 403,
+  "text": "King had lost in Albany.",
+  "translation": "خسر كينغ في ألباني."
+},
+{
+  "id": 404,
+  "text": "Now he needed to win somewhere.",
+  "translation": "الآن احتاج إلى الفوز في مكان ما."
+},
+{
+  "id": 405,
+  "text": "He started to think about Birmingham, Alabama.",
+  "translation": "بدأ يفكر في برمنغهام، ألاباما."
+},
+{
+  "id": 406,
+  "text": "Birmingham was one of the worst cities in the country for black people.",
+  "translation": "كانت برمنغهام واحدة من أسوأ المدن في البلاد بالنسبة للسود."
+},
+{
+  "id": 407,
+  "text": "It was sometimes called 'Bombingham', because there had been so many bomb attacks on houses and churches in black neighborhoods.",
+  "translation": "كانت تسمى أحياناً 'بومينغهام'، لأنه كان هناك العديد من الهجمات بالقنابل على المنازل والكنائس في أحياء السود."
+},
+{
+  "id": 408,
+  "text": "There had been eighteen of these attacks in the last six years, but no one was ever arrested for them.",
+  "translation": "كانت هناك ثمانية عشر من هذه الهجمات في السنوات الست الماضية، لكن لم يُعتقل أحد أبداً بسببها."
+},
+{
+  "id": 409,
+  "text": "The chief of the Birmingham police was a man called Bull Connor.",
+  "translation": "كان رئيس شرطة برمنغهام رجلاً يُدعى بول كونور."
+},
+{
+  "id": 410,
+  "text": "When the SCLC organized protests in Birmingham, Connor's policemen beat the protesters and attacked them with dogs.",
+  "translation": "عندما نظمت SCLC احتجاجات في برمنغهام، ضرب رجال شرطة كونور المتظاهرين وهاجموهم بالكلاب."
+},
+{
+  "id": 411,
+  "text": "Hundreds of protesters were hurt, and hundreds were arrested.",
+  "translation": "أُصيب مئات المتظاهرين، واعتُقل المئات."
+},
+{
+  "id": 412,
+  "text": "King was one of the protesters who went to prison.",
+  "translation": "كان كينغ واحداً من المتظاهرين الذين ذهبوا إلى السجن."
+},
+{
+  "id": 413,
+  "text": "When he was in prison, King read that some white church leaders had called for an end to the protests.",
+  "translation": "عندما كان في السجن، قرأ كينغ أن بعض قادة الكنائس البيض دعوا إلى إنهاء الاحتجاجات."
+},
+{
+  "id": 414,
+  "text": "They said it was not the right time for protests.",
+  "translation": "قالوا إنه ليس الوقت المناسب للاحتجاجات."
+},
+{
+  "id": 415,
+  "text": "King was angry when he read this.",
+  "translation": "غضب كينغ عندما قرأ هذا."
+},
+{
+  "id": 416,
+  "text": "He wrote a letter to the white churchmen.",
+  "translation": "كتب رسالة إلى رجال الكنيسة البيض."
+},
+{
+  "id": 417,
+  "text": "In it he said: 'You say it is not the right time to protest.'",
+  "translation": "قال فيها: 'تقولون إنه ليس الوقت المناسب للاحتجاج'."
+},
+{
+  "id": 418,
+  "text": "You say 'Wait!'",
+  "translation": "تقولون 'انتظروا!'"
+},
+{
+  "id": 419,
+  "text": "For years I have heard the word 'Wait!'",
+  "translation": "لسنوات سمعت كلمة 'انتظروا!'"
+},
+{
+  "id": 420,
+  "text": "For too many years black people have waited.",
+  "translation": "لسنوات عديدة جداً انتظر السود."
+},
+{
+  "id": 421,
+  "text": "Too often 'Wait!' means 'Never!'",
+  "translation": "في كثير من الأحيان تعني 'انتظروا!' 'أبداً!'"
+},
+{
+  "id": 422,
+  "text": "There was a problem with the protest.",
+  "translation": "كانت هناك مشكلة في الاحتجاج."
+},
+{
+  "id": 423,
+  "text": "When men and women were arrested and put in prison, they often lost their jobs.",
+  "translation": "عندما كان الرجال والنساء يُعتقلون ويوضعون في السجن، غالباً ما كانوا يفقدون وظائفهم."
+},
+{
+  "id": 424,
+  "text": "It was difficult for black families when their fathers and mothers were in prison.",
+  "translation": "كان من الصعب على العائلات السوداء عندما كان آباؤهم وأمهاتهم في السجن."
+},
+{
+  "id": 425,
+  "text": "'Why not ask young people to join the protest?' King said.",
+  "translation": "قال كينغ: 'لماذا لا نطلب من الشباب الانضمام إلى الاحتجاج؟'"
+},
+{
+  "id": 426,
+  "text": "Plenty of school children wanted to join the protesters in Birmingham, because they wanted to help.",
+  "translation": "أراد الكثير من أطفال المدارس الانضمام إلى المتظاهرين في برمنغهام، لأنهم أرادوا المساعدة."
+},
+{
+  "id": 427,
+  "text": "Freedom was as important to them as it was to their parents.",
+  "translation": "كانت الحرية مهمة لهم بقدر ما كانت مهمة لوالديهم."
+},
+{
+  "id": 428,
+  "text": "Some black leaders were worried about this plan.",
+  "translation": "كان بعض القادة السود قلقين بشأن هذه الخطة."
+},
+{
+  "id": 429,
+  "text": "'These young children will get hurt when the police attack,' they said.",
+  "translation": "قالوا: 'سيُصاب هؤلاء الأطفال الصغار عندما تهاجم الشرطة'."
+},
+{
+  "id": 430,
+  "text": "But King's reply was, 'Segregation will hurt them even more.'",
+  "translation": "لكن رد كينغ كان: 'الفصل العنصري سيؤذيهم أكثر'."
+},
+{
+  "id": 431,
+  "text": "On 2 May 1963, fifty children aged from six to eighteen marched to the centre of Birmingham.",
+  "translation": "في 2 مايو 1963، سار خمسون طفلاً تتراوح أعمارهم بين ستة وثمانية عشر عاماً إلى وسط برمنغهام."
+},
+{
+  "id": 432,
+  "text": "They were arrested and put into prison.",
+  "translation": "اعتُقلوا ووُضعوا في السجن."
+},
+{
+  "id": 433,
+  "text": "Then another fifty did the same.",
+  "translation": "ثم فعل خمسون آخرون الشيء نفسه."
+},
+{
+  "id": 434,
+  "text": "They were also arrested and put in prison.",
+  "translation": "اعتُقلوا أيضاً ووُضعوا في السجن."
+},
+{
+  "id": 435,
+  "text": "Then another fifty, then another.",
+  "translation": "ثم خمسون آخرون، ثم آخرون."
+},
+{
+  "id": 436,
+  "text": "By the end of the day a thousand children were in prison.",
+  "translation": "بحلول نهاية اليوم كان ألف طفل في السجن."
+},
+{
+  "id": 437,
+  "text": "Birmingham's prisons were full.",
+  "translation": "كانت سجون برمنغهام ممتلئة."
+},
+{
+  "id": 438,
+  "text": "At first the police were too surprised to do anything.",
+  "translation": "في البداية كانت الشرطة متفاجئة جداً لدرجة أنها لم تفعل شيئاً."
+},
+{
+  "id": 439,
+  "text": "But next day they came with police dogs and powerful water hoses.",
+  "translation": "لكن في اليوم التالي جاءوا بكلاب شرطة وخراطيم مياه قوية."
+},
+{
+  "id": 440,
+  "text": "Men, women, and children were knocked down by the power of the water and attacked by the dogs.",
+  "translation": "سقط الرجال والنساء والأطفال أرضاً بقوة المياه وهاجمتهم الكلاب."
+},
+{
+  "id": 441,
+  "text": "When the protests were shown on television, the violence of the Birmingham police shocked many Americans.",
+  "translation": "عندما عُرضت الاحتجاجات على التلفزيون، صدم عنف شرطة برمنغهام الكثير من الأمريكيين."
+},
+{
+  "id": 442,
+  "text": "Black people were attacked by police just because they wanted the same rights as white people.",
+  "translation": "هُوجم السود من قبل الشرطة فقط لأنهم أرادوا نفس حقوق البيض."
+},
+{
+  "id": 443,
+  "text": "People all over the country knew that this was not right.",
+  "translation": "عرف الناس في جميع أنحاء البلاد أن هذا ليس صواباً."
+},
+{
+  "id": 444,
+  "text": "They knew that things had to change.",
+  "translation": "عرفوا أن الأمور يجب أن تتغير."
+},
+{
+  "id": 445,
+  "text": "And people in other countries were shocked too.",
+  "translation": "وصُدم الناس في بلدان أخرى أيضاً."
+},
+{
+  "id": 446,
+  "text": "How was this possible in a country like the United States of America, the 'land of the free'?",
+  "translation": "كيف كان هذا ممكناً في بلد مثل الولايات المتحدة الأمريكية، 'أرض الأحرار'؟"
+},
+{
+  "id": 447,
+  "text": "People began to ask questions about freedom in America.",
+  "translation": "بدأ الناس يطرحون أسئلة حول الحرية في أمريكا."
+},
+{
+  "id": 448,
+  "text": "Was it only for white Americans?",
+  "translation": "هل كانت فقط للأمريكيين البيض؟"
+},
+{
+  "id": 449,
+  "text": "What about black Americans?",
+  "translation": "ماذا عن الأمريكيين السود؟"
+},
+{
+  "id": 450,
+  "text": "Birmingham agreed to stop segregation in its schools and on its buses.",
+  "translation": "وافقت برمنغهام على إنهاء الفصل العنصري في مدارسها وحافلاتها."
+},
+{
+  "id": 451,
+  "text": "King had won the battle.",
+  "translation": "كان كينغ قد فاز بالمعركة."
+},
+{
+  "id": 452,
+  "text": "Later in the year he had his finest moment.",
+  "translation": "في وقت لاحق من العام عاش أروع لحظاته."
+},
+{
+  "id": 453,
+  "text": "In the summer of 1963, President Kennedy tried to get a new civil rights law.",
+  "translation": "في صيف عام 1963، حاول الرئيس كينيدي الحصول على قانون جديد للحقوق المدنية."
+},
+{
+  "id": 454,
+  "text": "Civil rights leaders organized the biggest protest march of all to support the president.",
+  "translation": "نظم قادة الحقوق المدنية أكبر مسيرة احتجاجية على الإطلاق لدعم الرئيس."
+},
+{
+  "id": 455,
+  "text": "They wanted people from all over the country to go to Washington DC and ask for equal rights for black Americans.",
+  "translation": "أرادوا من الناس من جميع أنحاء البلاد الذهاب إلى واشنطن العاصمة والمطالبة بحقوق متساوية للأمريكيين السود."
+},
+{
+  "id": 456,
+  "text": "On 28 August 1963, more than 250,000 people came to Washington and marched to the Lincoln Memorial.",
+  "translation": "في 28 أغسطس 1963، جاء أكثر من 250,000 شخص إلى واشنطن وساروا إلى نصب لينكولن التذكاري."
+},
+{
+  "id": 457,
+  "text": "There were speeches and songs.",
+  "translation": "كانت هناك خطب وأغانٍ."
+},
+{
+  "id": 458,
+  "text": "Finally, Martin Luther King stood up and made the greatest speech of his life.",
+  "translation": "أخيراً، وقف مارتن لوثر كينغ وألقى أعظم خطاب في حياته."
+},
+{
+  "id": 459,
+  "text": "'I have a dream,' he said.",
+  "translation": "قال: 'لدي حلم'."
+},
+{
+  "id": 460,
+  "text": "In the America of his dream, blacks and whites were equal and lived together in peace.",
+  "translation": "في أمريكا حلمه، كان السود والبيض متساوين ويعيشون معاً في سلام."
+},
+{
+  "id": 461,
+  "text": "The speech was shown on television all over the world.",
+  "translation": "عُرض الخطاب على التلفزيون في جميع أنحاء العالم."
+},
+{
+  "id": 462,
+  "text": "People cried when they heard King's words.",
+  "translation": "بكى الناس عندما سمعوا كلمات كينغ."
+},
+{
+  "id": 463,
+  "text": "Surely things must change now, they thought.",
+  "translation": "بالتأكيد يجب أن تتغير الأمور الآن، فكروا."
+},
+{
+  "id": 464,
+  "text": "The country was full of hope for the future.",
+  "translation": "كان البلد مليئاً بالأمل في المستقبل."
+},
+{
+  "id": 465,
+  "text": "But later in that year, 1963, America was once again shocked by terrible violence.",
+  "translation": "لكن في وقت لاحق من ذلك العام، 1963، صُدمت أمريكا مرة أخرى بعنف رهيب."
+},
+{
+  "id": 466,
+  "text": "The 1960s were a time of great change in America.",
+  "translation": "كانت الستينيات فترة تغيير كبير في أمريكا."
+},
+{
+  "id": 467,
+  "text": "Young people all over America were asking questions about their country.",
+  "translation": "كان الشباب في جميع أنحاء أمريكا يطرحون أسئلة حول بلدهم."
+},
+{
+  "id": 468,
+  "text": "They did not always believe what their parents believed.",
+  "translation": "لم يكونوا دائماً يصدقون ما يعتقده آباؤهم."
+},
+{
+  "id": 469,
+  "text": "They wanted change.",
+  "translation": "أرادوا التغيير."
+},
+{
+  "id": 470,
+  "text": "At the march on Washington a young singer called Bob Dylan put the thoughts of young Americans into his song The Times They Are A-Changing'.",
+  "translation": "في مسيرة واشنطن، وضع مغنٍ شاب يُدعى بوب ديلان أفكار الشباب الأمريكي في أغنيته 'الأوقات تتغير'."
+},
+{
+  "id": 471,
+  "text": "Things are changing fast, the song said.",
+  "translation": "قالت الأغنية إن الأمور تتغير بسرعة."
+},
+{
+  "id": 472,
+  "text": "The old must listen to the young - and they cannot stop change.",
+  "translation": "يجب على الكبار الاستماع إلى الصغار - ولا يمكنهم إيقاف التغيير."
+},
+{
+  "id": 473,
+  "text": "Young blacks did not want to wait patiently for change.",
+  "translation": "لم يرد الشباب السود الانتظار بصبر من أجل التغيير."
+},
+{
+  "id": 474,
+  "text": "Although they knew that Martin Luther King had worked hard for equal rights, they thought that change was happening too slowly.",
+  "translation": "على الرغم من أنهم عرفوا أن مارتن لوثر كينغ عمل بجد من أجل حقوق متساوية، إلا أنهم اعتقدوا أن التغيير يحدث ببطء شديد."
+},
+{
+  "id": 475,
+  "text": "They wanted power for black people and they did not want to ask politely for it.",
+  "translation": "أرادوا السلطة للسود ولم يريدوا طلبها بأدب."
+},
+{
+  "id": 476,
+  "text": "Perhaps violence was necessary for change, they thought.",
+  "translation": "ربما كان العنف ضرورياً للتغيير، فكروا."
+},
+{
+  "id": 477,
+  "text": "In 1966 Bobby Seale and Huey Newton started the Black Panther Party.",
+  "translation": "في عام 1966 أسس بوبي سيل وهيوي نيوتن حزب الفهود السود."
+},
+{
+  "id": 478,
+  "text": "The Panthers did not agree with Martin Luther King about the use of non-violence.",
+  "translation": "لم يوافق الفهود مع مارتن لوثر كينغ بشأن استخدام اللاعنف."
+},
+{
+  "id": 479,
+  "text": "They said that blacks should buy guns to protect themselves from attacks by whites.",
+  "translation": "قالوا إن على السود شراء البنادق لحماية أنفسهم من هجمات البيض."
+},
+{
+  "id": 480,
+  "text": "Huey Newton said that the Civil Rights Law of 1964 was 'too little too late'.",
+  "translation": "قال هيوي نيوتن إن قانون الحقوق المدنية لعام 1964 كان 'قليلاً جداً ومتأخراً جداً'."
+},
+{
+  "id": 481,
+  "text": "After a fight between the Panthers and the police, Newton was arrested and put into prison because he killed a white police officer.",
+  "translation": "بعد معركة بين الفهود والشرطة، اعتُقل نيوتن ووُضع في السجن لأنه قتل ضابط شرطة أبيض."
+},
+{
+  "id": 482,
+  "text": "Crowds of Panther supporters marched through the streets, shouting 'Free Huey!'",
+  "translation": "سارت حشود من مؤيدي الفهود في الشوارع وهم يهتفون 'أطلقوا سراح هيوي!'"
+},
+{
+  "id": 483,
+  "text": "Other Panthers died in battles with the police.",
+  "translation": "مات فهود آخرون في معارك مع الشرطة."
+},
+{
+  "id": 484,
+  "text": "Most white Americans were afraid of the Black Panthers.",
+  "translation": "كان معظم الأمريكيين البيض خائفين من الفهود السود."
+},
+{
+  "id": 485,
+  "text": "They thought that they were violent criminals.",
+  "translation": "اعتقدوا أنهم مجرمون عنيفون."
+},
+{
+  "id": 486,
+  "text": "But the Panthers also did some good work.",
+  "translation": "لكن الفهود قاموا أيضاً ببعض العمل الجيد."
+},
+{
+  "id": 487,
+  "text": "They opened schools in poor black neighborhoods and gave food and clothes to blacks.",
+  "translation": "فتحوا مدارس في أحياء السود الفقيرة وقدموا الطعام والملابس للسود."
+},
+{
+  "id": 488,
+  "text": "After a few years, the Black Panther Party broke into smaller groups.",
+  "translation": "بعد بضع سنوات، انقسم حزب الفهود السود إلى مجموعات أصغر."
+},
+{
+  "id": 489,
+  "text": "But its message reached many young African-Americans and made them proud to be black.",
+  "translation": "لكن رسالته وصلت إلى العديد من الشباب الأمريكيين من أصل أفريقي وجعلتهم فخورين بكونهم سوداً."
+},
+{
+  "id": 490,
+  "text": "They started to learn about Africa, eat African food, and wear African clothes.",
+  "translation": "بدأوا في التعلم عن أفريقيا، وتناول الطعام الأفريقي، وارتداء الملابس الأفريقية."
+},
+{
+  "id": 491,
+  "text": "Another person who wanted a different America for blacks was Malcolm X.",
+  "translation": "شخص آخر أراد أمريكا مختلفة للسود كان مالكوم إكس."
+},
+{
+  "id": 492,
+  "text": "In the past, many blacks had the name of their slave owner as their last name, so Malcolm changed his last name from Little to X.",
+  "translation": "في الماضي، كان العديد من السود يحملون اسم مالك العبيد الخاص بهم كاسم عائلتهم، لذلك غيّر مالكوم اسم عائلته من ليتل إلى إكس."
+},
+{
+  "id": 493,
+  "text": "For him, it was a way of saying goodbye to slavery.",
+  "translation": "بالنسبة له، كانت طريقة لتوديع العبودية."
+},
+{
+  "id": 494,
+  "text": "Like the Black Panthers, Malcolm X did not agree with Martin Luther King about the use of violence.",
+  "translation": "مثل الفهود السود، لم يوافق مالكوم إكس مارتن لوثر كينغ بشأن استخدام العنف."
+},
+{
+  "id": 495,
+  "text": "Blacks should not ask for help from whites, he thought; blacks should help themselves.",
+  "translation": "اعتقد أن السود لا يجب أن يطلبوا المساعدة من البيض؛ بل يجب أن يساعد السود أنفسهم."
+},
+{
+  "id": 496,
+  "text": "Violence was necessary when you were fighting for your rights.",
+  "translation": "كان العنف ضرورياً عندما تقاتل من أجل حقوقك."
+},
+{
+  "id": 497,
+  "text": "Malcolm said that blacks should fight violence with violence - it was the only language that white racists understood.",
+  "translation": "قال مالكوم إن على السود محاربة العنف بالعنف - كانت اللغة الوحيدة التي يفهمها العنصريون البيض."
+},
+{
+  "id": 498,
+  "text": "'If a man speaks the language of violence,' said Malcolm, 'you can't speak to him in the language of peace.'",
+  "translation": "قال مالكوم: 'إذا تحدث رجل بلغة العنف، لا يمكنك التحدث إليه بلغة السلام'."
+},
+{
+  "id": 499,
+  "text": "He'll break you in two.",
+  "translation": "سيكسرك إلى نصفين."
+},
+{
+  "id": 500,
+  "text": "If a man speaks French, you can't speak to him in German.",
+  "translation": "إذا تحدث رجل بالفرنسية، لا يمكنك التحدث إليه بالألمانية."
+},
+{
+  "id": 501,
+  "text": "You have to find out what this man speaks.",
+  "translation": "عليك معرفة ما يتحدث به هذا الرجل."
+},
+{
+  "id": 502,
+  "text": "Once you know his language, learn how to speak his language.",
+  "translation": "بمجرد أن تعرف لغته، تعلم كيف تتحدث بلغته."
+},
+{
+  "id": 503,
+  "text": "Then we can talk.'",
+  "translation": "ثم يمكننا التحدث.'"
+},
+{
+  "id": 504,
+  "text": "Many young blacks agreed with Malcolm X more than with Martin Luther King.",
+  "translation": "وافق العديد من الشباب السود مالكوم إكس أكثر من مارتن لوثر كينغ."
+},
+{
+  "id": 505,
+  "text": "They were angry that they still did not have the same rights as whites.",
+  "translation": "كانوا غاضبين لأنهم لم يحصلوا بعد على نفس حقوق البيض."
+},
+{
+  "id": 506,
+  "text": "Poor blacks living in the big cities of the North wanted to vote, but they wanted other things too.",
+  "translation": "أراد السود الفقراء الذين يعيشون في المدن الكبرى في الشمال التصويت، لكنهم أرادوا أشياء أخرى أيضاً."
+},
+{
+  "id": 507,
+  "text": "They wanted better houses and more jobs.",
+  "translation": "أرادوا منازل أفضل ووظائف أكثر."
+},
+{
+  "id": 508,
+  "text": "In many of the poorer neighborhoods of America's big cities young blacks rioted.",
+  "translation": "في العديد من الأحياء الفقيرة في المدن الكبرى في أمريكا، أثار الشباب السود أعمال شغب."
+},
+{
+  "id": 509,
+  "text": "Many people died in these riots.",
+  "translation": "مات الكثير من الناس في هذه الأعمال الشغب."
+},
+{
+  "id": 510,
+  "text": "In the 60s, many important black writers and musicians became famous in America.",
+  "translation": "في الستينيات، أصبح العديد من الكتاب والموسيقيين السود المهمين مشهورين في أمريكا."
+},
+{
+  "id": 511,
+  "text": "Writers like James Baldwin and Toni Morrison showed Americans what the lives of black people were like.",
+  "translation": "أظهر كتاب مثل جيمس بالدوين وتوني موريسون للأمريكيين كيف كانت حياة السود."
+},
+{
+  "id": 512,
+  "text": "In his book The Fire Next Time, Baldwin warned of terrible violence in the future.",
+  "translation": "في كتابه 'النار في المرة القادمة'، حذر بالدوين من عنف رهيب في المستقبل."
+},
+{
+  "id": 513,
+  "text": "To stop this, whites must change their ways, he said.",
+  "translation": "قال إنه لوقف هذا، يجب على البيض تغيير طرقهم."
+},
+{
+  "id": 514,
+  "text": "The black musician Stevie Wonder sang about the difficulties of young blacks.",
+  "translation": "غنى الموسيقي الأسود ستيفي وندر عن صعوبات الشباب السود."
+},
+{
+  "id": 515,
+  "text": "One of his songs told the story of a young boy who was born in the South but moved to Chicago to find work.",
+  "translation": "أخبرت إحدى أغانيه قصة صبي صغير وُلد في الجنوب لكنه انتقل إلى شيكاغو للعثور على عمل."
+},
+{
+  "id": 516,
+  "text": "He finds that in the North he is free - but free only to be poor.",
+  "translation": "يكتشف أنه في الشمال حر - لكن حر فقط ليكون فقيراً."
+},
+{
+  "id": 517,
+  "text": "Why was anyone surprised that young blacks were angry?",
+  "translation": "لماذا كان أي شخص متفاجئاً من غضب الشباب السود؟"
+},
+{
+  "id": 518,
+  "text": "Perhaps the most famous black man in the 1960s was the boxer Muhammad Ali.",
+  "translation": "ربما كان أشهر رجل أسود في الستينيات هو الملاكم محمد علي."
+},
+{
+  "id": 519,
+  "text": "Born Cassius Marcellus Clay in 1942 in Louisville, Kentucky, young Clay won an Olympic gold medal in 1960.",
+  "translation": "وُلد كاسيوس مارسيلوس كلاي في عام 1942 في لويزفيل، كنتاكي، وفاز الشاب كلاي بميدالية ذهبية أولمبية في عام 1960."
+},
+{
+  "id": 520,
+  "text": "He fought the world champion Sonny Liston in 1964 and, to the surprise of most people, Clay won.",
+  "translation": "قاتل بطل العالم سوني ليستون في عام 1964، ولدهشة معظم الناس، فاز كلاي."
+},
+{
+  "id": 521,
+  "text": "After the fight, he surprised the world when he said that he had become a Muslim and had changed his name to Muhammad Ali.",
+  "translation": "بعد المباراة، فاجأ العالم عندما قال إنه أصبح مسلماً وغيّر اسمه إلى محمد علي."
+},
+{
+  "id": 522,
+  "text": "'Don't call me Cassius Clay,' he said.",
+  "translation": "قال: 'لا تنادوني كاسيوس كلاي'."
+},
+{
+  "id": 523,
+  "text": "'That's a slave name.'",
+  "translation": "'هذا اسم عبد'."
+},
+{
+  "id": 524,
+  "text": "Ali was loud and proud and clever.",
+  "translation": "كان علي صاخباً وفخوراً وذكياً."
+},
+{
+  "id": 525,
+  "text": "'I am the greatest', he said.",
+  "translation": "قال: 'أنا الأعظم'."
+},
+{
+  "id": 526,
+  "text": "And he was.",
+  "translation": "وكان كذلك."
+},
+{
+  "id": 527,
+  "text": "No one could beat him.",
+  "translation": "لم يستطع أحد هزيمته."
+},
+{
+  "id": 528,
+  "text": "He began to speak out against racism.",
+  "translation": "بدأ يتحدث علناً ضد العنصرية."
+},
+{
+  "id": 529,
+  "text": "In 1967 he refused to join the US Army and fight in Vietnam.",
+  "translation": "في عام 1967 رفض الانضمام إلى الجيش الأمريكي والقتال في فيتنام."
+},
+{
+  "id": 530,
+  "text": "Because of this he was put in prison and he was told that he was not the world champion any more.",
+  "translation": "بسبب هذا وُضع في السجن وقيل له إنه لم يعد بطل العالم."
+},
+{
+  "id": 531,
+  "text": "When he got out of prison, he beat George Foreman to become world champion again.",
+  "translation": "عندما خرج من السجن، هزم جورج فورمان ليصبح بطل العالم مرة أخرى."
+},
+{
+  "id": 532,
+  "text": "Ali said, 'When I refused to fight in Vietnam,... I wasn't a hero.'",
+  "translation": "قال علي: 'عندما رفضت القتال في فيتنام،... لم أكن بطلاً'."
+},
+{
+  "id": 533,
+  "text": "I just wanted to be free.",
+  "translation": "أردت فقط أن أكون حراً."
+},
+{
+  "id": 534,
+  "text": "I wanted America to be America.'",
+  "translation": "أردت أن تكون أمريكا أمريكا.'"
+},
+{
+  "id": 535,
+  "text": "The late 1960s were a time of change for Martin Luther King too.",
+  "translation": "كانت أواخر الستينيات فترة تغيير لمارتن لوثر كينغ أيضاً."
+},
+{
+  "id": 536,
+  "text": "Although he was always against violence, he began to see that there were many different kinds of violence.",
+  "translation": "على الرغم من أنه كان دائماً ضد العنف، إلا أنه بدأ يرى أن هناك العديد من الأنواع المختلفة من العنف."
+},
+{
+  "id": 537,
+  "text": "King was from the South and he wanted freedom and equal rights for the blacks of the South.",
+  "translation": "كان كينغ من الجنوب وأراد الحرية والحقوق المتساوية للسود في الجنوب."
+},
+{
+  "id": 538,
+  "text": "But life for blacks in Northern cities was not easy either.",
+  "translation": "لكن الحياة للسود في المدن الشمالية لم تكن سهلة أيضاً."
+},
+{
+  "id": 539,
+  "text": "Blacks in the North could go to the same schools as whites, but many black children did not finish school.",
+  "translation": "كان بإمكان السود في الشمال الذهاب إلى نفس مدارس البيض، لكن العديد من الأطفال السود لم يكملوا المدرسة."
+},
+{
+  "id": 540,
+  "text": "Most Northern blacks were poor.",
+  "translation": "كان معظم سود الشمال فقراء."
+},
+{
+  "id": 541,
+  "text": "Many could not find a job when they left school.",
+  "translation": "لم يستطع الكثير منهم العثور على عمل عندما تركوا المدرسة."
+},
+{
+  "id": 542,
+  "text": "Many came from one-parent families and lived in buildings that were old and dirty.",
+  "translation": "جاء الكثير منهم من أسر ذات والد واحد وعاشوا في مبانٍ قديمة وقذرة."
+},
+{
+  "id": 543,
+  "text": "It seemed to King that poverty was itself a kind of violence.",
+  "translation": "بدا لكينغ أن الفقر نفسه نوع من العنف."
+},
+{
+  "id": 544,
+  "text": "He began to think about the rights that all people should have.",
+  "translation": "بدأ يفكر في الحقوق التي يجب أن يتمتع بها جميع الناس."
+},
+{
+  "id": 545,
+  "text": "It was true that black people had the vote, true that they could eat in the same restaurants as whites.",
+  "translation": "كان صحيحاً أن السود لديهم حق التصويت، وصحيح أنهم يستطيعون الأكل في نفس مطاعم البيض."
+},
+{
+  "id": 546,
+  "text": "But it is one thing to be able to eat in a restaurant; it is another thing to have the job that gives you the money to eat there.",
+  "translation": "لكن شيء واحد أن تكون قادراً على الأكل في مطعم؛ شيء آخر أن تكون لديك وظيفة تمنحك المال للأكل هناك."
+},
+{
+  "id": 547,
+  "text": "King believed that a few rich people had too much money and millions of poor people had too little.",
+  "translation": "اعتقد كينغ أن قلة من الأغنياء لديهم الكثير من المال وملايين الفقراء لديهم القليل جداً."
+},
+{
+  "id": 548,
+  "text": "He wanted an end to poverty - and that meant that someone had to take money from the rich and give it to the poor.",
+  "translation": "أراد إنهاء الفقر - وهذا يعني أن على شخص ما أخذ المال من الأغنياء وإعطائه للفقراء."
+},
+{
+  "id": 549,
+  "text": "It was a strong message, and many people who supported King on civil rights were not sure about it.",
+  "translation": "كانت رسالة قوية، والكثير من الناس الذين دعموا كينغ في الحقوق المدنية لم يكونوا متأكدين منها."
+},
+{
+  "id": 550,
+  "text": "These new ideas seemed dangerous to many of his supporters.",
+  "translation": "بدت هذه الأفكار الجديدة خطيرة للكثير من مؤيديه."
+},
+{
+  "id": 551,
+  "text": "King took his marches and protests to the great Northern city of Chicago.",
+  "translation": "أخذ كينغ مسيراته واحتجاجاته إلى مدينة شيكاغو الشمالية الكبرى."
+},
+{
+  "id": 552,
+  "text": "He wanted to show America how black people lived in the cities of the North.",
+  "translation": "أراد أن يُظهر لأمريكا كيف يعيش السود في مدن الشمال."
+},
+{
+  "id": 553,
+  "text": "And he saw that it was not just black people in the big cities who were poor.",
+  "translation": "ورأى أنه ليس فقط السود في المدن الكبرى كانوا فقراء."
+},
+{
+  "id": 554,
+  "text": "There was poverty among whites too.",
+  "translation": "كان هناك فقر بين البيض أيضاً."
+},
+{
+  "id": 555,
+  "text": "King wanted to unite poor black and poor white people - to bring them together to end poverty.",
+  "translation": "أراد كينغ توحيد الفقراء السود والفقراء البيض - لجمعهم معاً لإنهاء الفقر."
+},
+{
+  "id": 556,
+  "text": "'Black and white, unite and fight!' he said.",
+  "translation": "قال: 'أسود وأبيض، اتحدوا وقاتلوا!'"
+},
+{
+  "id": 557,
+  "text": "He led marches through the streets of Chicago.",
+  "translation": "قاد مسيرات في شوارع شيكاغو."
+},
+{
+  "id": 558,
+  "text": "Just as in the South, the marchers were attacked by the police.",
+  "translation": "تماماً كما في الجنوب، هوجم المتظاهرون من قبل الشرطة."
+},
+{
+  "id": 559,
+  "text": "Sometimes it was worse than in the South.",
+  "translation": "في بعض الأحيان كان الأمر أسوأ مما كان عليه في الجنوب."
+},
+{
+  "id": 560,
+  "text": "The marchers were hit with sticks and bottles.",
+  "translation": "ضُرب المتظاهرون بالعصي والزجاجات."
+},
+{
+  "id": 561,
+  "text": "Some black leaders did not agree with King.",
+  "translation": "لم يوافق بعض القادة السود كينغ."
+},
+{
+  "id": 562,
+  "text": "They thought that he should only speak for black people.",
+  "translation": "اعتقدوا أنه يجب أن يتحدث فقط عن السود."
+},
+{
+  "id": 563,
+  "text": "Why should he speak for poor white people?",
+  "translation": "لماذا يجب أن يتحدث عن الفقراء البيض؟"
+},
+{
+  "id": 564,
+  "text": "Poor whites had their own leaders.",
+  "translation": "كان للفقراء البيض قادتهم."
+},
+{
+  "id": 565,
+  "text": "But King had decided what he wanted to do.",
+  "translation": "لكن كينغ قرر ما أراد فعله."
+},
+{
+  "id": 566,
+  "text": "He planned to lead a Poor People's March on Washington.",
+  "translation": "خطط لقيادة مسيرة الفقراء على واشنطن."
+},
+{
+  "id": 567,
+  "text": "And now everyone in America was thinking about a new problem: Vietnam.",
+  "translation": "والآن كان الجميع في أمريكا يفكرون في مشكلة جديدة: فيتنام."
+},
+{
+  "id": 568,
+  "text": "All through the 1960s America was at war in Vietnam.",
+  "translation": "طوال الستينيات كانت أمريكا في حالة حرب في فيتنام."
+},
+{
+  "id": 569,
+  "text": "Every year more and more American soldiers were sent to fight in Vietnam.",
+  "translation": "كل عام كان يتم إرسال المزيد والمزيد من الجنود الأمريكيين للقتال في فيتنام."
+},
+{
+  "id": 570,
+  "text": "By 1968 more than half a million American soldiers were fighting there.",
+  "translation": "بحلول عام 1968 كان أكثر من نصف مليون جندي أمريكي يقاتلون هناك."
+},
+{
+  "id": 571,
+  "text": "Many of these soldiers were black and came from poor families.",
+  "translation": "كان العديد من هؤلاء الجنود سوداً وجاءوا من عائلات فقيرة."
+},
+{
+  "id": 572,
+  "text": "In the end more than 58,000 American soldiers died in Vietnam.",
+  "translation": "في النهاية مات أكثر من 58,000 جندي أمريكي في فيتنام."
+},
+{
+  "id": 573,
+  "text": "Vietnam was a terrible war.",
+  "translation": "كانت فيتنام حرباً رهيبة."
+},
+{
+  "id": 574,
+  "text": "More than two million soldiers from North and South Vietnam were killed.",
+  "translation": "قُتل أكثر من مليوني جندي من شمال وجنوب فيتنام."
+},
+{
+  "id": 575,
+  "text": "More than two million Vietnamese who were not soldiers were killed or hurt.",
+  "translation": "قُتل أو أُصيب أكثر من مليوني فيتنامي لم يكونوا جنوداً."
+},
+{
+  "id": 576,
+  "text": "Thousands of villages were destroyed and rice fields were burned.",
+  "translation": "دُمّرت آلاف القرى وأُحرقت حقول الأرز."
+},
+{
+  "id": 577,
+  "text": "Many Americans were against the war.",
+  "translation": "كان الكثير من الأمريكيين ضد الحرب."
+},
+{
+  "id": 578,
+  "text": "They thought it was wrong for America to go to war with a small country like Vietnam.",
+  "translation": "اعتقدوا أنه من الخطأ أن تذهب أمريكا إلى الحرب مع بلد صغير مثل فيتنام."
+},
+{
+  "id": 579,
+  "text": "King agreed with them.",
+  "translation": "وافقهم كينغ."
+},
+{
+  "id": 580,
+  "text": "He was worried about what his country was doing.",
+  "translation": "كان قلقاً بشأن ما كان بلده يفعله."
+},
+{
+  "id": 581,
+  "text": "He decided to speak out against the war.",
+  "translation": "قرر التحدث علناً ضد الحرب."
+},
+{
+  "id": 582,
+  "text": "Some of his friends told him not to do this.",
+  "translation": "أخبره بعض أصدقائه بعدم القيام بذلك."
+},
+{
+  "id": 583,
+  "text": "They said the war was not his business.",
+  "translation": "قالوا إن الحرب ليست شأنه."
+},
+{
+  "id": 584,
+  "text": "He should only talk about the problems of black people.",
+  "translation": "يجب أن يتحدث فقط عن مشاكل السود."
+},
+{
+  "id": 585,
+  "text": "But on 4 April 1967 King made an important speech about Vietnam.",
+  "translation": "لكن في 4 أبريل 1967 ألقى كينغ خطاباً مهماً عن فيتنام."
+},
+{
+  "id": 586,
+  "text": "He said he could not be silent about the war any more.",
+  "translation": "قال إنه لم يعد يستطيع الصمت عن الحرب."
+},
+{
+  "id": 587,
+  "text": "People had said that he should not speak about peace - he should only speak about civil rights.",
+  "translation": "قال الناس إنه لا يجب أن يتحدث عن السلام - بل يجب أن يتحدث فقط عن الحقوق المدنية."
+},
+{
+  "id": 588,
+  "text": "'These people,' King said, 'do not know me.'",
+  "translation": "قال كينغ: 'هؤلاء الناس لا يعرفونني'."
+},
+{
+  "id": 589,
+  "text": "They do not know the world in which they live.'",
+  "translation": "إنهم لا يعرفون العالم الذي يعيشون فيه.'"
+},
+{
+  "id": 590,
+  "text": "Then he attacked the US government.",
+  "translation": "ثم هاجم الحكومة الأمريكية."
+},
+{
+  "id": 591,
+  "text": "He said the war on Vietnam was wrong.",
+  "translation": "قال إن الحرب على فيتنام خطأ."
+},
+{
+  "id": 592,
+  "text": "The burning and the bombing had to stop.",
+  "translation": "يجب أن يتوقف الحرق والقصف."
+},
+{
+  "id": 593,
+  "text": "The killing of Vietnamese men, women, and children had to stop.",
+  "translation": "يجب أن يتوقف قتل الرجال والنساء والأطفال الفيتناميين."
+},
+{
+  "id": 594,
+  "text": "'I speak as a child of God and as a brother to the poor.'",
+  "translation": "'أتحدث كابن لله وكأخ للفقراء'."
+},
+{
+  "id": 595,
+  "text": "I speak as an American.",
+  "translation": "أتحدث كأمريكي."
+},
+{
+  "id": 596,
+  "text": "The Vietnamese too are my brothers and sisters.",
+  "translation": "الفيتناميون أيضاً إخوتي وأخواتي."
+},
+{
+  "id": 597,
+  "text": "The American government must stop its violence against the Vietnamese people.",
+  "translation": "يجب على الحكومة الأمريكية وقف عنفها ضد الشعب الفيتنامي."
+},
+{
+  "id": 598,
+  "text": "War is not the answer.'",
+  "translation": "الحرب ليست الجواب.'"
+},
+{
+  "id": 599,
+  "text": "Martin Luther King was attacked for this speech.",
+  "translation": "هُوجم مارتن لوثر كينغ بسبب هذا الخطاب."
+},
+{
+  "id": 600,
+  "text": "What did he know about Vietnam?",
+  "translation": "ماذا كان يعرف عن فيتنام؟"
+},
+{
+  "id": 601,
+  "text": "Some newspapers said he was supporting the Vietnamese government when American soldiers were fighting and dying.",
+  "translation": "قالت بعض الصحف إنه كان يدعم الحكومة الفيتنامية بينما كان الجنود الأمريكيون يقاتلون ويموتون."
+},
+{
+  "id": 602,
+  "text": "But protests against the war grew.",
+  "translation": "لكن الاحتجاجات ضد الحرب نمت."
+},
+{
+  "id": 603,
+  "text": "All over America protesters fought with the police.",
+  "translation": "في جميع أنحاء أمريكا قاتل المتظاهرون مع الشرطة."
+},
+{
+  "id": 604,
+  "text": "University students who refused to join the army and fight in Vietnam rioted.",
+  "translation": "أثار طلاب الجامعات الذين رفضوا الانضمام إلى الجيش والقتال في فيتنام أعمال شغب."
+},
+{
+  "id": 605,
+  "text": "At Kent State University, Ohio, four white students were shot dead by the National Guard.",
+  "translation": "في جامعة كينت ستيت، أوهايو، أُطلق النار على أربعة طلاب بيض وقتلوا من قبل الحرس الوطني."
+},
+{
+  "id": 606,
+  "text": "'Now we know what it feels like to be black,' said one white student.",
+  "translation": "قال أحد الطلاب البيض: 'الآن نعرف كيف يكون الشعور بأن تكون أسود'."
+},
+{
+  "id": 607,
+  "text": "Many people who wanted to change America began to ask questions about Martin Luther King's policy of non-violence.",
+  "translation": "بدأ الكثير من الناس الذين أرادوا تغيير أمريكا يطرحون أسئلة حول سياسة اللاعنف لمارتن لوثر كينغ."
+},
+{
+  "id": 608,
+  "text": "Was it possible to change things in America peacefully?",
+  "translation": "هل كان من الممكن تغيير الأشياء في أمريكا سلمياً؟"
+},
+{
+  "id": 609,
+  "text": "The Black Panthers and the followers of Malcolm X did not think so.",
+  "translation": "لم يعتقد الفهود السود وأتباع مالكوم إكس ذلك."
+},
+{
+  "id": 610,
+  "text": "They thought that the only answer to white violence was black violence.",
+  "translation": "اعتقدوا أن الجواب الوحيد لعنف البيض هو عنف السود."
+},
+{
+  "id": 611,
+  "text": "One young black leader, H. Rap Brown, said that violence was 'as American as apple pie.'",
+  "translation": "قال أحد القادة السود الشباب، إتش. راب براون، إن العنف 'أ
