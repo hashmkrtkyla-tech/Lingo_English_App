@@ -1,14 +1,1208 @@
 {
-  "id": "a2_drive_5",
-  "title": "A2 Elementary Story 5",
+  "id": "a2_the_surprise",
+  "title": "The Surprise",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1mzGcUzgMCzR1KpF1zanEQ5RCPiQ2oVhl",
+  "audio_url": "assets/books/audio/a2_books/The_Surprise.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Enjoy interesting stories while improving your comprehension.",
-      "translation": "استمتع بقصص ممتعة أثناء تحسين فهمك للمحادتات."
+      "id": 1,
+      "text": "It's Saturday evening.",
+      "translation": "إنه مساء السبت."
+    },
+    {
+      "id": 2,
+      "text": "Mr and Mrs Phillips and their children, Roger and Helen, are playing cards in the living room.",
+      "translation": "السيد والسيدة فيليبس وأطفالهما، روجر وهيلين، يلعبون الورق في غرفة الجلوس."
+    },
+    {
+      "id": 3,
+      "text": "Suddenly the telephone rings in the hall.",
+      "translation": "فجأة يرن الهاتف في الردهة."
+    },
+    {
+      "id": 4,
+      "text": "Mr Phillips gets up and answers it.",
+      "translation": "يستيقظ السيد فيليبس ويرد عليه."
+    },
+    {
+      "id": 5,
+      "text": "When he comes back, he is smiling.",
+      "translation": "عندما يعود، يكون مبتسماً."
+    },
+    {
+      "id": 6,
+      "text": "\"That was your Aunt Elizabeth.",
+      "translation": "\"كانت تلك عمتك إليزابيث."
+    },
+    {
+      "id": 7,
+      "text": "She's back from Greenland.",
+      "translation": "لقد عادت من غرينلاند."
+    },
+    {
+      "id": 8,
+      "text": "She's coming to see us tomorrow morning.",
+      "translation": "ستأتي لرؤيتنا صباح الغد."
+    },
+    {
+      "id": 9,
+      "text": "And she's got a surprise for you two.\"",
+      "translation": "ولديها مفاجأة لكما.\""
+    },
+    {
+      "id": 10,
+      "text": "\"A surprise for us!",
+      "translation": "\"مفاجأة لنا!"
+    },
+    {
+      "id": 11,
+      "text": "What is it?\" Roger and Helen shout.",
+      "translation": "ما هي؟\" يصرخ روجر وهيلين."
+    },
+    {
+      "id": 12,
+      "text": "\"I don't know,\" says their dad.",
+      "translation": "\"لا أعرف\"، يقول والدهما."
+    },
+    {
+      "id": 13,
+      "text": "\"She says that it's a secret.",
+      "translation": "\"تقول إنها سر."
+    },
+    {
+      "id": 14,
+      "text": "And now it's time for bed.\"",
+      "translation": "والآن حان وقت النوم.\""
+    },
+    {
+      "id": 15,
+      "text": "\"Come on, dad, one more game.\"",
+      "translation": "\"هيا يا أبي، لعبة أخرى.\""
+    },
+    {
+      "id": 16,
+      "text": "\"Oh, okay.",
+      "translation": "\"أوه، حسناً."
+    },
+    {
+      "id": 17,
+      "text": "Then straight to bed!\"",
+      "translation": "ثم مباشرة إلى السرير!\""
+    },
+    {
+      "id": 18,
+      "text": "The next morning the doorbell rings.",
+      "translation": "في صباح اليوم التالي يرن جرس الباب."
+    },
+    {
+      "id": 19,
+      "text": "Roger and Helen run to open the door.",
+      "translation": "يركض روجر وهيلين لفتح الباب."
+    },
+    {
+      "id": 20,
+      "text": "It's Aunt Elizabeth, and she's got a big metal box.",
+      "translation": "إنها العمة إليزابيث، ومعها صندوق معدني كبير."
+    },
+    {
+      "id": 21,
+      "text": "She hugs the children.",
+      "translation": "تعانق الأطفال."
+    },
+    {
+      "id": 22,
+      "text": "Then she opens the box very carefully.",
+      "translation": "ثم تفتح الصندوق بعناية فائقة."
+    },
+    {
+      "id": 23,
+      "text": "It's full of small pieces of ice.",
+      "translation": "إنه مليء بقطع صغيرة من الجليد."
+    },
+    {
+      "id": 24,
+      "text": "She puts her hand into the ice and she slowly takes out a big egg.",
+      "translation": "تضع يدها في الجليد وتخرج ببطء بيضة كبيرة."
+    },
+    {
+      "id": 25,
+      "text": "\"This egg is from an ice cave in Greenland.",
+      "translation": "\"هذه البيضة من كهف جليدي في غرينلاند."
+    },
+    {
+      "id": 26,
+      "text": "It's very special.",
+      "translation": "إنها مميزة جداً."
+    },
+    {
+      "id": 27,
+      "text": "Now I need your help.\"",
+      "translation": "الآن أحتاج مساعدتكما.\""
+    },
+    {
+      "id": 28,
+      "text": "\"What do you want us to do?\" ask the children.",
+      "translation": "\"ماذا تريديننا أن نفعل؟\" يسأل الأطفال."
+    },
+    {
+      "id": 29,
+      "text": "\"I want to see what happens when we put the egg in a warm place.",
+      "translation": "\"أريد أن أرى ما يحدث عندما نضع البيضة في مكان دافئ."
+    },
+    {
+      "id": 30,
+      "text": "There is no heating in my office at the museum during the summer,\" says Aunt Elizabeth.",
+      "translation": "لا توجد تدفئة في مكتبي في المتحف خلال الصيف\"، تقول العمة إليزابيث."
+    },
+    {
+      "id": 31,
+      "text": "\"I thought I could leave it here.\"",
+      "translation": "\"فكرت أنني يمكن أن أتركها هنا.\""
+    },
+    {
+      "id": 32,
+      "text": "\"Yippee!",
+      "translation": "\"ييبي!"
+    },
+    {
+      "id": 33,
+      "text": "An experiment!\" shout the children.",
+      "translation": "تجربة!\" يصرخ الأطفال."
+    },
+    {
+      "id": 34,
+      "text": "They get a cardboard box and put the egg inside.",
+      "translation": "يحضرون صندوقاً من الكرتون ويضعون البيضة بداخله."
+    },
+    {
+      "id": 35,
+      "text": "Then they put the box next to the radiator in the kitchen.",
+      "translation": "ثم يضعون الصندوق بجانب المدفأة في المطبخ."
+    },
+    {
+      "id": 36,
+      "text": "Aunt Elizabeth comes to check the egg every day but nothing happens.",
+      "translation": "تأتي العمة إليزابيث لتفقد البيضة كل يوم لكن لا شيء يحدث."
+    },
+    {
+      "id": 37,
+      "text": "Then, one day while the children are having their breakfast, they hear a noise.",
+      "translation": "ثم، في أحد الأيام بينما يتناول الأطفال فطورهم، يسمعون ضجة."
+    },
+    {
+      "id": 38,
+      "text": "\"Look at the egg,\" shouts Helen.",
+      "translation": "\"انظر إلى البيضة\"، تصرخ هيلين."
+    },
+    {
+      "id": 39,
+      "text": "\"Something's happening.",
+      "translation": "\"شيء ما يحدث."
+    },
+    {
+      "id": 40,
+      "text": "It's cracking.\"",
+      "translation": "إنها تتشقق.\""
+    },
+    {
+      "id": 41,
+      "text": "Slowly a long beak appears.",
+      "translation": "ببطء يظهر منقار طويل."
+    },
+    {
+      "id": 42,
+      "text": "\"It's a bird,\" says Roger.",
+      "translation": "\"إنه طائر\"، يقول روجر."
+    },
+    {
+      "id": 43,
+      "text": "\"No, it isn't,\" answers Helen.",
+      "translation": "\"لا، ليس كذلك\"، تجيب هيلين."
+    },
+    {
+      "id": 44,
+      "text": "\"It hasn't got any feathers.\"",
+      "translation": "\"ليس لديه أي ريش.\""
+    },
+    {
+      "id": 45,
+      "text": "\"Of course it's a bird, stupid.",
+      "translation": "\"بالطبع إنه طائر، يا غبي."
+    },
+    {
+      "id": 46,
+      "text": "Baby birds haven't got feathers.\"",
+      "translation": "الطيور الصغيرة ليس لديها ريش.\""
+    },
+    {
+      "id": 47,
+      "text": "The animal opens its beak.",
+      "translation": "يفتح الحيوان منقاره."
+    },
+    {
+      "id": 48,
+      "text": "\"Let's give it a sausage,\" says Roger.",
+      "translation": "\"لنعطيه سجقاً\"، يقول روجر."
+    },
+    {
+      "id": 49,
+      "text": "Helen gives a sausage to the animal.",
+      "translation": "تعطي هيلين سجقاً للحيوان."
+    },
+    {
+      "id": 50,
+      "text": "The animal is very hungry.",
+      "translation": "الحيوان جائع جداً."
+    },
+    {
+      "id": 51,
+      "text": "It eats five sausages, two cooked tomatoes and six pieces of toast.",
+      "translation": "يأكل خمسة سجق، وحبتين من الطماطم المطبوخة، وست قطع من الخبز المحمص."
+    },
+    {
+      "id": 52,
+      "text": "A month later, the family are having dinner.",
+      "translation": "بعد شهر، تتناول العائلة العشاء."
+    },
+    {
+      "id": 53,
+      "text": "\"That thing's growing very fast,\" says mum.",
+      "translation": "\"هذا الشيء ينمو بسرعة كبيرة\"، تقول أمي."
+    },
+    {
+      "id": 54,
+      "text": "\"And it's always very hungry,\" answers Helen.",
+      "translation": "\"وهو دائماً جائع جداً\"، تجيب هيلين."
+    },
+    {
+      "id": 55,
+      "text": "\"Roger thinks that it's a bird, but I don't think so.",
+      "translation": "\"يعتقد روجر أنه طائر، لكنني لا أعتقد ذلك."
+    },
+    {
+      "id": 56,
+      "text": "It still hasn't got any feathers.\"",
+      "translation": "لا يزال ليس لديه أي ريش.\""
+    },
+    {
+      "id": 57,
+      "text": "\"What does Aunt Elizabeth say?\" asks mum.",
+      "translation": "\"ماذا تقول العمة إليزابيث؟\" تسأل أمي."
+    },
+    {
+      "id": 58,
+      "text": "\"I don't know, she's away on another trip and she isn't coming back for a few weeks.\"",
+      "translation": "\"لا أعرف، إنها في رحلة أخرى ولن تعود لبضعة أسابيع.\""
+    },
+    {
+      "id": 59,
+      "text": "\"Let's check what it is,\" dad says and gets up.",
+      "translation": "\"لنتحقق مما هو\"، يقول أبي ويستيقظ."
+    },
+    {
+      "id": 60,
+      "text": "At that moment, the animal spreads its wings, flies over to the table and grabs dad's fish.",
+      "translation": "في تلك اللحظة، ينشر الحيوان جناحيه، ويطير إلى الطاولة ويسرق سمكة أبي."
+    },
+    {
+      "id": 61,
+      "text": "The children laugh.",
+      "translation": "يضحك الأطفال."
+    },
+    {
+      "id": 62,
+      "text": "Mum is not so happy.",
+      "translation": "أمي ليست سعيدة جداً."
+    },
+    {
+      "id": 63,
+      "text": "\"Get off the table,\" she shouts.",
+      "translation": "\"انزل عن الطاولة\"، تصرخ."
+    },
+    {
+      "id": 64,
+      "text": "Dad goes to his computer.",
+      "translation": "يذهب أبي إلى حاسوبه."
+    },
+    {
+      "id": 65,
+      "text": "\"Hey, come and look!",
+      "translation": "\"هيا، تعالوا وانظروا!"
+    },
+    {
+      "id": 66,
+      "text": "I know what it is!",
+      "translation": "أعرف ما هو!"
+    },
+    {
+      "id": 67,
+      "text": "It's a pterodactyl.\"",
+      "translation": "إنه تيروداكتيل.\""
+    },
+    {
+      "id": 68,
+      "text": "\"A pterodactyl?\" shout the children.",
+      "translation": "\"تيروداكتيل؟\" يصرخ الأطفال."
+    },
+    {
+      "id": 69,
+      "text": "\"Yes, they lived a long, long time ago.",
+      "translation": "\"نعم، لقد عاشوا منذ زمن طويل جداً."
+    },
+    {
+      "id": 70,
+      "text": "They're a type of dinosaur.",
+      "translation": "إنهم نوع من الديناصورات."
+    },
+    {
+      "id": 71,
+      "text": "Pterodactyls can fly.\"",
+      "translation": "التيروداكتيل يمكنه الطيران.\""
+    },
+    {
+      "id": 72,
+      "text": "\"Yes, we know that, dad,\" say the children and laugh.",
+      "translation": "\"نعم، نعلم ذلك يا أبي\"، يقول الأطفال ويضحكون."
+    },
+    {
+      "id": 73,
+      "text": "Dad sits down at the table.",
+      "translation": "يجلس أبي على الطاولة."
+    },
+    {
+      "id": 74,
+      "text": "\"Where's my fish?\" he asks.",
+      "translation": "\"أين سمكتي؟\" يسأل."
+    },
+    {
+      "id": 75,
+      "text": "\"Look at Dacty, dad.",
+      "translation": "\"انظر إلى دكتي يا أبي."
+    },
+    {
+      "id": 76,
+      "text": "He's got it.\" Helen says.",
+      "translation": "لقد حصل عليها.\" تقول هيلين."
+    },
+    {
+      "id": 77,
+      "text": "\"Now he's got a name,\" says mum.",
+      "translation": "\"الآن أصبح لديه اسم\"، تقول أمي."
+    },
+    {
+      "id": 78,
+      "text": "\"Dacty sounds nice.",
+      "translation": "\"دكتي يبدو لطيفاً."
+    },
+    {
+      "id": 79,
+      "text": "It suits him.\"",
+      "translation": "إنه يناسبه.\""
+    },
+    {
+      "id": 80,
+      "text": "A few days later, the children are in Helen's room.",
+      "translation": "بعد بضعة أيام، يكون الأطفال في غرفة هيلين."
+    },
+    {
+      "id": 81,
+      "text": "\"What are you doing with the bandage?\" asks Roger.",
+      "translation": "\"ماذا تفعلين بالضمادة؟\" يسأل روجر."
+    },
+    {
+      "id": 82,
+      "text": "\"There is something wrong with Dacty's wing.",
+      "translation": "\"هناك شيء خطب في جناح دكتي."
+    },
+    {
+      "id": 83,
+      "text": "My room is too small and he keeps banging his wings against the walls and furniture.",
+      "translation": "غرفتي صغيرة جداً وهو يخبط بجناحيه على الجدران والأثاث."
+    },
+    {
+      "id": 84,
+      "text": "He can't fly.",
+      "translation": "لا يستطيع الطيران."
+    },
+    {
+      "id": 85,
+      "text": "I feel sorry for him.",
+      "translation": "أشعر بالأسف عليه."
+    },
+    {
+      "id": 86,
+      "text": "And he is always hungry.",
+      "translation": "وهو دائماً جائع."
+    },
+    {
+      "id": 87,
+      "text": "Can you get something for him from the kitchen?\"",
+      "translation": "هل يمكنك إحضار شيء له من المطبخ؟\""
+    },
+    {
+      "id": 88,
+      "text": "Roger goes into the kitchen and cooks a big plate of sausages.",
+      "translation": "يذهب روجر إلى المطبخ ويطبخ طبقاً كبيراً من السجق."
+    },
+    {
+      "id": 89,
+      "text": "Helen helps Dacty down from her wardrobe.",
+      "translation": "تساعد هيلين دكتي على النزول من خزانتها."
+    },
+    {
+      "id": 90,
+      "text": "Roger puts the plate with the sausages in front of Dacty and the pterodactyl quickly eats them all up.",
+      "translation": "يضع روجر الطبق مع السجق أمام دكتي ويأكل التيروداكتيل كل شيء بسرعة."
+    },
+    {
+      "id": 91,
+      "text": "Then he tries to fly on to the top of Helen's wardrobe, but he can't.",
+      "translation": "ثم يحاول الطيران إلى أعلى خزانة هيلين، لكنه لا يستطيع."
+    },
+    {
+      "id": 92,
+      "text": "\"Mum, we have to take Dacty to a vet.",
+      "translation": "\"أمي، يجب أن نأخذ دكتي إلى طبيب بيطري."
+    },
+    {
+      "id": 93,
+      "text": "He can't fly.",
+      "translation": "لا يستطيع الطيران."
+    },
+    {
+      "id": 94,
+      "text": "There's something wrong with his wing.",
+      "translation": "هناك شيء خطب في جناحه."
+    },
+    {
+      "id": 95,
+      "text": "Can you take us?\"",
+      "translation": "هل يمكنك أن تأخذينا؟\""
+    },
+    {
+      "id": 96,
+      "text": "\"All right.",
+      "translation": "\"حسناً."
+    },
+    {
+      "id": 97,
+      "text": "Put him into the big basket.\"",
+      "translation": "ضعيه في السلة الكبيرة.\""
+    },
+    {
+      "id": 98,
+      "text": "\"And mum, don't tell the vet that he is a pterodactyl,\" says Helen.",
+      "translation": "\"وأمي، لا تخبري الطبيب البيطري أنه تيروداكتيل\"، تقول هيلين."
+    },
+    {
+      "id": 99,
+      "text": "\"We don't want people to find out we've got a dinosaur in our house.",
+      "translation": "\"لا نريد أن يكتشف الناس أن لدينا ديناصوراً في منزلنا."
+    },
+    {
+      "id": 100,
+      "text": "There'll be stories in all the newspapers.\"",
+      "translation": "ستكون هناك قصص في جميع الصحف.\""
+    },
+    {
+      "id": 101,
+      "text": "\"Okay, I won't say a word,\" says mum.",
+      "translation": "\"حسناً، لن أقول كلمة\"، تقول أمي."
+    },
+    {
+      "id": 102,
+      "text": "When they get to the surgery, the vet looks very carefully at Dacty.",
+      "translation": "عندما يصلون إلى العيادة، ينظر الطبيب البيطري بعناية فائقة إلى دكتي."
+    },
+    {
+      "id": 103,
+      "text": "\"The wing is not broken, but it needs rest.",
+      "translation": "\"الجناح غير مكسور، لكنه يحتاج إلى راحة."
+    },
+    {
+      "id": 104,
+      "text": "I'll put a splint on it and it will be better soon.",
+      "translation": "سأضع جبيرة عليه وسيتحسن قريباً."
+    },
+    {
+      "id": 105,
+      "text": "But what sort of bird is this?",
+      "translation": "لكن أي نوع من الطيور هذا؟"
+    },
+    {
+      "id": 106,
+      "text": "What happened to his feathers?\"",
+      "translation": "ماذا حدث لريشه؟\""
+    },
+    {
+      "id": 107,
+      "text": "\"Oh, he's a special turkey from South America, and they don't have feathers,\" says Roger.",
+      "translation": "\"أوه، إنه ديك رومي مميز من أمريكا الجنوبية، وليس لديهم ريش\"، يقول روجر."
+    },
+    {
+      "id": 108,
+      "text": "\"Oh, yes, of course,\" says the vet.",
+      "translation": "\"أوه، نعم، بالطبع\"، يقول الطبيب البيطري."
+    },
+    {
+      "id": 109,
+      "text": "But she looks a little confused.",
+      "translation": "لكنها تبدو مرتبكة قليلاً."
+    },
+    {
+      "id": 110,
+      "text": "Two weeks later Dacty's wing is better.",
+      "translation": "بعد أسبوعين يتحسن جناح دكتي."
+    },
+    {
+      "id": 111,
+      "text": "Helen and Roger want to see if he can fly.",
+      "translation": "تريد هيلين وروجر رؤية ما إذا كان يستطيع الطيران."
+    },
+    {
+      "id": 112,
+      "text": "They wait until it is dark and they take Dacty outside into the garden in a big basket.",
+      "translation": "ينتظرون حتى يحل الظلام ويأخذون دكتي إلى الخارج في الحديقة في سلة كبيرة."
+    },
+    {
+      "id": 113,
+      "text": "\"Come on Dacty, now you can really fly,\" says Helen.",
+      "translation": "\"هيا يا دكتي، الآن يمكنك الطيران حقاً\"، تقول هيلين."
+    },
+    {
+      "id": 114,
+      "text": "But Dacty doesn't want to get out of the basket.",
+      "translation": "لكن دكتي لا يريد الخروج من السلة."
+    },
+    {
+      "id": 115,
+      "text": "He is holding his blanket in his beak.",
+      "translation": "إنه يمسك بطانيته في منقاره."
+    },
+    {
+      "id": 116,
+      "text": "\"I think he's cold,\" says Roger.",
+      "translation": "\"أعتقد أنه يشعر بالبرد\"، يقول روجر."
+    },
+    {
+      "id": 117,
+      "text": "\"I don't think so,\" says Helen.",
+      "translation": "\"لا أعتقد ذلك\"، تقول هيلين."
+    },
+    {
+      "id": 118,
+      "text": "\"He's afraid.\"",
+      "translation": "\"إنه خائف.\""
+    },
+    {
+      "id": 119,
+      "text": "Helen and Roger take Dacty out of the basket.",
+      "translation": "تخرج هيلين وروجر دكتي من السلة."
+    },
+    {
+      "id": 120,
+      "text": "Roger climbs a tree.",
+      "translation": "يتسلق روجر شجرة."
+    },
+    {
+      "id": 121,
+      "text": "\"Come on, Dacty,\" he shouts.",
+      "translation": "\"هيا يا دكتي\"، يصرخ."
+    },
+    {
+      "id": 122,
+      "text": "But Dacty quickly climbs back into the basket taking his blanket with him.",
+      "translation": "لكن دكتي يعود بسرعة إلى السلة آخذاً بطانيته معه."
+    },
+    {
+      "id": 123,
+      "text": "\"Let's take him back into the house and phone Aunt Elizabeth.",
+      "translation": "\"لنأخذه إلى المنزل ونتصل بالعمة إليزابيث."
+    },
+    {
+      "id": 124,
+      "text": "She came back yesterday,\" Helen says.",
+      "translation": "لقد عادت أمس\"، تقول هيلين."
+    },
+    {
+      "id": 125,
+      "text": "The children phone Aunt Elizabeth.",
+      "translation": "يتصل الأطفال بالعمة إليزابيث."
+    },
+    {
+      "id": 126,
+      "text": "They tell her that Dacty can't fly in Helen's room and he doesn't want to fly in the garden.",
+      "translation": "يخبرونها أن دكتي لا يستطيع الطيران في غرفة هيلين ولا يريد الطيران في الحديقة."
+    },
+    {
+      "id": 127,
+      "text": "Aunt Elizabeth tells them that pterodactyls lived at a time when it was very warm.",
+      "translation": "تخبرهم العمة إليزابيث أن التيروداكتيل عاش في وقت كان الجو فيه دافئاً جداً."
+    },
+    {
+      "id": 128,
+      "text": "\"There were jungles everywhere.",
+      "translation": "\"كانت هناك أدغال في كل مكان."
+    },
+    {
+      "id": 129,
+      "text": "Even in Greenland.",
+      "translation": "حتى في غرينلاند."
+    },
+    {
+      "id": 130,
+      "text": "So I think he likes warm temperatures,\" she says.",
+      "translation": "لذا أعتقد أنه يحب درجات الحرارة الدافئة\"، تقول."
+    },
+    {
+      "id": 131,
+      "text": "\"But he can't fly in the house.",
+      "translation": "\"لكنه لا يستطيع الطيران في المنزل."
+    },
+    {
+      "id": 132,
+      "text": "He's too big now and mum hates him flying around,\" says Roger.",
+      "translation": "لقد أصبح كبيراً جداً وأمي تكره طيرانه في الأرجاء\"، يقول روجر."
+    },
+    {
+      "id": 133,
+      "text": "\"We need to find somewhere else to keep him.\"",
+      "translation": "\"نحتاج إلى إيجاد مكان آخر لإبقائه فيه.\""
+    },
+    {
+      "id": 134,
+      "text": "\"Don't worry.",
+      "translation": "\"لا تقلقا."
+    },
+    {
+      "id": 135,
+      "text": "I'll think of something,\" answers Aunt Elizabeth.",
+      "translation": "سأفكر في شيء ما\"، تجيب العمة إليزابيث."
+    },
+    {
+      "id": 136,
+      "text": "An hour later, she phones Roger and Helen.",
+      "translation": "بعد ساعة، تتصل بروجر وهيلين."
+    },
+    {
+      "id": 137,
+      "text": "\"I've got an idea,\" she says.",
+      "translation": "\"لدي فكرة\"، تقول."
+    },
+    {
+      "id": 138,
+      "text": "\"Get Dacty ready.",
+      "translation": "\"جهزا دكتي."
+    },
+    {
+      "id": 139,
+      "text": "I'll pick you up in half an hour.\"",
+      "translation": "سأقلّكما بعد نصف ساعة.\""
+    },
+    {
+      "id": 140,
+      "text": "Half an hour later Aunt Elizabeth arrives in her car.",
+      "translation": "بعد نصف ساعة تصل العمة إليزابيث بسيارتها."
+    },
+    {
+      "id": 141,
+      "text": "The children take Dacty and sit in the back of the car with him.",
+      "translation": "يأخذ الأطفال دكتي ويجلسون في المقعد الخلفي للسيارة معه."
+    },
+    {
+      "id": 142,
+      "text": "\"Where are we going, Aunt Elizabeth?\" they ask.",
+      "translation": "\"إلى أين نحن ذاهبون يا عمة إليزابيث؟\" يسألون."
+    },
+    {
+      "id": 143,
+      "text": "\"To the museum.",
+      "translation": "\"إلى المتحف."
+    },
+    {
+      "id": 144,
+      "text": "My office is very big.",
+      "translation": "مكتبي كبير جداً."
+    },
+    {
+      "id": 145,
+      "text": "It's perfect for Dacty during the day.",
+      "translation": "إنه مثالي لدكتي خلال النهار."
+    },
+    {
+      "id": 146,
+      "text": "And at night, when the museum is empty, Dacty can fly around and look at all the wonderful things we have.",
+      "translation": "وفي الليل، عندما يكون المتحف فارغاً، يمكن لدكتي أن يطير ويلقي نظرة على كل الأشياء الرائعة التي لدينا."
+    },
+    {
+      "id": 147,
+      "text": "I can't believe I didn't think of it before!\"",
+      "translation": "لا أصدق أنني لم أفكر في ذلك من قبل!\""
+    },
+    {
+      "id": 148,
+      "text": "\"What will he eat?\" asks Helen.",
+      "translation": "\"ماذا سيأكل؟\" تسأل هيلين."
+    },
+    {
+      "id": 149,
+      "text": "\"There's a restaurant in the museum.",
+      "translation": "\"هناك مطعم في المتحف."
+    },
+    {
+      "id": 150,
+      "text": "The cook, Mrs Robinson, is my friend.",
+      "translation": "الطاهية، السيدة روبنسون، صديقتي."
+    },
+    {
+      "id": 151,
+      "text": "I can ask her to feed Dacty.\"",
+      "translation": "يمكنني أن أطلب منها إطعام دكتي.\""
+    },
+    {
+      "id": 152,
+      "text": "At the museum, they take Dacty out of the basket.",
+      "translation": "في المتحف، يخرجون دكتي من السلة."
+    },
+    {
+      "id": 153,
+      "text": "He stretches his wings and hops on top of a stone lion.",
+      "translation": "يمد جناحيه ويقفز فوق أسد حجري."
+    },
+    {
+      "id": 154,
+      "text": "\"Can he see in the dark?\" asks Roger.",
+      "translation": "\"هل يمكنه الرؤية في الظلام؟\" يسأل روجر."
+    },
+    {
+      "id": 155,
+      "text": "\"Yes, they see very well in the dark, just like owls\", explains Aunt Elizabeth.",
+      "translation": "\"نعم، إنهم يرون جيداً في الظلام، تماماً مثل البوم\"، تشرح العمة إليزابيث."
+    },
+    {
+      "id": 156,
+      "text": "\"Look,\" shouts Helen.",
+      "translation": "\"انظر\"، تصرخ هيلين."
+    },
+    {
+      "id": 157,
+      "text": "Dacty takes off and flies high up.",
+      "translation": "يقلع دكتي ويطير عالياً."
+    },
+    {
+      "id": 158,
+      "text": "Then he lands on a stone statue.",
+      "translation": "ثم يهبط على تمثال حجري."
+    },
+    {
+      "id": 159,
+      "text": "Aunt Elizabeth takes some sandwiches out of her bag.",
+      "translation": "تخرج العمة إليزابيث بعض السندويشات من حقيبتها."
+    },
+    {
+      "id": 160,
+      "text": "She holds them out to Dacty.",
+      "translation": "تمددها نحو دكتي."
+    },
+    {
+      "id": 161,
+      "text": "The pterodactyl flies down and takes them.",
+      "translation": "يطير التيروداكتيل إلى الأسفل ويأخذها."
+    },
+    {
+      "id": 162,
+      "text": "Then he flies up to the top of the statue again.",
+      "translation": "ثم يطير مرة أخرى إلى أعلى التمثال."
+    },
+    {
+      "id": 163,
+      "text": "\"He likes it here,\" says Helen.",
+      "translation": "\"إنه يحب هذا المكان\"، تقول هيلين."
+    },
+    {
+      "id": 164,
+      "text": "\"Bye, Dacty,\" they shout.",
+      "translation": "\"وداعاً يا دكتي\"، يصرخون."
+    },
+    {
+      "id": 165,
+      "text": "\"See you tomorrow.\"",
+      "translation": "\"أراك غداً.\""
+    },
+    {
+      "id": 166,
+      "text": "Six months pass and Dacty is very big now.",
+      "translation": "تمر ستة أشهر ودكتي أصبح كبيراً جداً الآن."
+    },
+    {
+      "id": 167,
+      "text": "During the day, he sleeps in Aunt Elizabeth's office and at night, he flies around the museum.",
+      "translation": "خلال النهار، ينام في مكتب العمة إليزابيث وفي الليل، يطير في أرجاء المتحف."
+    },
+    {
+      "id": 168,
+      "text": "But one night something strange happens.",
+      "translation": "لكن في إحدى الليالي يحدث شيء غريب."
+    },
+    {
+      "id": 169,
+      "text": "At midnight, Dacty sees lights moving inside the museum.",
+      "translation": "في منتصف الليل، يرى دكتي أضواء تتحرك داخل المتحف."
+    },
+    {
+      "id": 170,
+      "text": "He flies closer to see what is happening.",
+      "translation": "يطير أقرب ليرى ما يحدث."
+    },
+    {
+      "id": 171,
+      "text": "There are two men with torches inside the museum.",
+      "translation": "هناك رجلان بمشاعل داخل المتحف."
+    },
+    {
+      "id": 172,
+      "text": "They are wearing masks and they are trying to open a case.",
+      "translation": "يرتديان أقنعة ويحاولان فتح صندوق زجاجي."
+    },
+    {
+      "id": 173,
+      "text": "Inside the case, there is a mummy.",
+      "translation": "داخل الصندوق، هناك مومياء."
+    },
+    {
+      "id": 174,
+      "text": "Suddenly one man looks up and sees the pterodactyl.",
+      "translation": "فجأة يرفع أحد الرجال رأسه ويرى التيروداكتيل."
+    },
+    {
+      "id": 175,
+      "text": "He is very scared.",
+      "translation": "إنه خائف جداً."
+    },
+    {
+      "id": 176,
+      "text": "\"Look, Bert,\" he says to the other man.",
+      "translation": "\"انظر يا بيرت\"، يقول للرجل الآخر."
+    },
+    {
+      "id": 177,
+      "text": "\"There is a huge bird up there.\"",
+      "translation": "\"هناك طائر ضخم في الأعلى.\""
+    },
+    {
+      "id": 178,
+      "text": "The other man looks up, but Dacty doesn't move.",
+      "translation": "يرفع الرجل الآخر رأسه، لكن دكتي لا يتحرك."
+    },
+    {
+      "id": 179,
+      "text": "\"Shut up, Eric.",
+      "translation": "\"اصمت يا إريك."
+    },
+    {
+      "id": 180,
+      "text": "Don't be silly.",
+      "translation": "لا تكن سخيفاً."
+    },
+    {
+      "id": 181,
+      "text": "It's only a statue,\" the man says.",
+      "translation": "إنه مجرد تمثال\"، يقول الرجل."
+    },
+    {
+      "id": 182,
+      "text": "\"Come on.",
+      "translation": "\"هيا."
+    },
+    {
+      "id": 183,
+      "text": "I'll open the case.",
+      "translation": "سأفتح الصندوق."
+    },
+    {
+      "id": 184,
+      "text": "You look for the gold medallions.\"",
+      "translation": "ابحث أنت عن الميداليات الذهبية.\""
+    },
+    {
+      "id": 185,
+      "text": "While Bert tries to open the case, Dacty flies down and grabs Eric.",
+      "translation": "بينما يحاول بيرت فتح الصندوق، يطير دكتي إلى الأسفل ويمسك بإريك."
+    },
+    {
+      "id": 186,
+      "text": "The thief is so scared that he can't say a thing.",
+      "translation": "اللص خائف جداً لدرجة أنه لا يستطيع قول أي شيء."
+    },
+    {
+      "id": 187,
+      "text": "Dacty flies up and leaves him on top of a statue.",
+      "translation": "يطير دكتي إلى الأعلى ويتركه فوق تمثال."
+    },
+    {
+      "id": 188,
+      "text": "He's stuck.",
+      "translation": "إنه عالق."
+    },
+    {
+      "id": 189,
+      "text": "Bert is so busy opening the case that he doesn't see what is happening.",
+      "translation": "بيرت مشغول جداً بفتح الصندوق لدرجة أنه لا يرى ما يحدث."
+    },
+    {
+      "id": 190,
+      "text": "\"Hey, where's the drill?\" he says, but there is no answer.",
+      "translation": "\"هي، أين المثقاب؟\" يقول، لكن لا يوجد جواب."
+    },
+    {
+      "id": 191,
+      "text": "\"Eric?",
+      "translation": "\"إريك؟"
+    },
+    {
+      "id": 192,
+      "text": "Where are you, Eric?\" he asks.",
+      "translation": "أين أنت يا إريك؟\" يسأل."
+    },
+    {
+      "id": 193,
+      "text": "Then he looks up and sees his friend high above on the statue.",
+      "translation": "ثم يرفع رأسه ويرى صديقه عالياً فوق التمثال."
+    },
+    {
+      "id": 194,
+      "text": "Just then Dacty flies down again and grabs the second thief.",
+      "translation": "في تلك اللحظة يطير دكتي إلى الأسفل مرة أخرى ويمسك باللص الثاني."
+    },
+    {
+      "id": 195,
+      "text": "He lifts him in his beak and carries him up to the statue.",
+      "translation": "يرفعه بمنقاره ويحمله إلى التمثال."
+    },
+    {
+      "id": 196,
+      "text": "The two men are very afraid.",
+      "translation": "الرجلان خائفان جداً."
+    },
+    {
+      "id": 197,
+      "text": "They start shouting, but there is nobody there to hear them.",
+      "translation": "يبدآن بالصراخ، لكن لا يوجد أحد هناك ليسمعهما."
+    },
+    {
+      "id": 198,
+      "text": "In the morning when Aunt Elizabeth comes into the museum, she hears the men shouting.",
+      "translation": "في الصباح عندما تدخل العمة إليزابيث إلى المتحف، تسمع الرجال يصرخون."
+    },
+    {
+      "id": 199,
+      "text": "Then she sees the broken mummy case.",
+      "translation": "ثم ترى صندوق المومياء المكسور."
+    },
+    {
+      "id": 200,
+      "text": "\"Help!",
+      "translation": "\"النجدة!"
+    },
+    {
+      "id": 201,
+      "text": "Help!",
+      "translation": "النجدة!"
+    },
+    {
+      "id": 202,
+      "text": "There's a monster in here,\" the men shout while Dacty flies down to her.",
+      "translation": "هناك وحش هنا\"، يصرخ الرجال بينما يطير دكتي نحوها."
+    },
+    {
+      "id": 203,
+      "text": "\"First things first.\"",
+      "translation": "\"الأهم أولاً.\""
+    },
+    {
+      "id": 204,
+      "text": "Aunt Elizabeth says.",
+      "translation": "تقول العمة إليزابيث."
+    },
+    {
+      "id": 205,
+      "text": "She goes into the restaurant, opens the door of the fridge and takes out some fish.",
+      "translation": "تدخل إلى المطعم، وتفتح باب الثلاجة وتخرج بعض السمك."
+    },
+    {
+      "id": 206,
+      "text": "\"Here you are, Dacty,\" she says and pets his head.",
+      "translation": "\"ها أنت ذا يا دكتي\"، تقول وتربت على رأسه."
+    },
+    {
+      "id": 207,
+      "text": "\"Here's your breakfast.",
+      "translation": "\"هذا فطورك."
+    },
+    {
+      "id": 208,
+      "text": "Thank you very much, you did a great job.\"",
+      "translation": "شكراً جزيلاً، لقد قمت بعمل رائع.\""
+    },
+    {
+      "id": 209,
+      "text": "Then she phones the police.",
+      "translation": "ثم تتصل بالشرطة."
+    },
+    {
+      "id": 210,
+      "text": "The mayor shakes Dacty's wing and puts a big shiny medal over his head.",
+      "translation": "يصافح العمدة جناح دكتي ويضع ميدالية كبيرة لامعة فوق رأسه."
+    },
+    {
+      "id": 211,
+      "text": "\"Congratulations, you did a great job.\"",
+      "translation": "\"تهانينا، لقد قمت بعمل رائع.\""
+    },
+    {
+      "id": 212,
+      "text": "Then he turns to Aunt Elizabeth, \"What a great idea to have a big bird as a guard.\"",
+      "translation": "ثم يستدير نحو العمة إليزابيث، \"يا لها من فكرة رائعة أن يكون لديك طائر كبير كحارس.\""
+    },
+    {
+      "id": 213,
+      "text": "\"Dacty's not a bird,\" Roger says, \"He's a pterodactyl.\"",
+      "translation": "\"دكتي ليس طائراً\"، يقول روجر، \"إنه تيروداكتيل.\""
+    },
+    {
+      "id": 214,
+      "text": "\"Roger!\" says Helen.",
+      "translation": "\"روجر!\" تقول هيلين."
+    },
+    {
+      "id": 215,
+      "text": "\"Don't say anything!\"",
+      "translation": "\"لا تقل شيئاً!\""
+    },
+    {
+      "id": 216,
+      "text": "\"It doesn't matter, children,\" says Aunt Elizabeth.",
+      "translation": "\"لا يهم يا أطفال\"، تقول العمة إليزابيث."
+    },
+    {
+      "id": 217,
+      "text": "\"Dacty is a hero now.\"",
+      "translation": "\"دكتي بطل الآن.\""
+    },
+    {
+      "id": 218,
+      "text": "\"A pterodactyl?\" shouts another man.",
+      "translation": "\"تيروداكتيل؟\" يصرخ رجل آخر."
+    },
+    {
+      "id": 219,
+      "text": "\"Wow!",
+      "translation": "\"واو!"
+    },
+    {
+      "id": 220,
+      "text": "They love warm weather and jungles.",
+      "translation": "إنهم يحبون الطقس الدافئ والأدغال."
+    },
+    {
+      "id": 221,
+      "text": "I work in the Botanical Gardens.",
+      "translation": "أنا أعمل في الحدائق النباتية."
+    },
+    {
+      "id": 222,
+      "text": "We have a wonderful Palm House.",
+      "translation": "لدينا بيت نخيل رائع."
+    },
+    {
+      "id": 223,
+      "text": "It's big and warm and just like a jungle.",
+      "translation": "إنه كبير ودافئ تماماً مثل الأدغال."
+    },
+    {
+      "id": 224,
+      "text": "Your pterodactyl will love it there.",
+      "translation": "سوف يحب التيروداكتيل الخاص بك ذلك المكان."
+    },
+    {
+      "id": 225,
+      "text": "We can feed him well and you can come to visit when you want.\"",
+      "translation": "يمكننا إطعامه جيداً ويمكنكما القدوم للزيارة متى أردتما.\""
+    },
+    {
+      "id": 226,
+      "text": "So now, Dacty is living in the Palm House at the Botanical Gardens.",
+      "translation": "والآن، يعيش دكتي في بيت النخيل في الحدائق النباتية."
+    },
+    {
+      "id": 227,
+      "text": "Roger and Helen visit him every day after school and bring him nice things to eat.",
+      "translation": "يزوره روجر وهيلين كل يوم بعد المدرسة ويحضران له أشياء لذيذة ليأكلها."
+    },
+    {
+      "id": 228,
+      "text": "One evening Aunt Elizabeth comes with them.",
+      "translation": "في إحدى الأمسيات تأتي العمة إليزابيث معهما."
+    },
+    {
+      "id": 229,
+      "text": "\"I'm going to Greenland again,\" she says.",
+      "translation": "\"سأذهب إلى غرينلاند مرة أخرى\"، تقول."
+    },
+    {
+      "id": 230,
+      "text": "\"I want to look for another egg in the ice.",
+      "translation": "\"أريد البحث عن بيضة أخرى في الجليد."
+    },
+    {
+      "id": 231,
+      "text": "If I find the right egg maybe we can find a girlfriend for Dacty.\"",
+      "translation": "إذا وجدت البيضة المناسبة ربما يمكننا إيجاد صديقة لدكتي.\""
+    },
+    {
+      "id": 232,
+      "text": "\"And then we can have some baby Dacties, too!\" shout the children.",
+      "translation": "\"وبعد ذلك يمكن أن يكون لدينا بعض صغار دكتي أيضاً!\" يصرخ الأطفال."
+    },
+    {
+      "id": 233,
+      "text": "\"Can we come, too?\" they ask.",
+      "translation": "\"هل يمكننا المجيء أيضاً؟\" يسألون."
+    },
+    {
+      "id": 234,
+      "text": "Aunt Elizabeth smiles but she shakes her head.",
+      "translation": "تبتسم العمة إليزابيث لكنها تهز رأسها."
+    },
+    {
+      "id": 235,
+      "text": "\"Okay, Aunt Elizabeth,\" say the children.",
+      "translation": "\"حسناً يا عمة إليزابيث\"، يقول الأطفال."
+    },
+    {
+      "id": 236,
+      "text": "\"Don't worry, Dacty.",
+      "translation": "\"لا تقلق يا دكتي."
+    },
+    {
+      "id": 237,
+      "text": "We'll stay with you!\"",
+      "translation": "سنبقى معك!\""
+    },
+    {
+      "id": 238,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 239,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 240,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
