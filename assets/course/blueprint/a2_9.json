@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_41",
+      "exercises": [
+        {"t":"choice","c":"flat","dir":"t2n","big":true,"d":["kitchen","balcony"]},
+        {"t":"choice","c":"rent","dir":"n2t","d":["floor","landlord"]},
+        {"t":"match","cs":["flat","rent","landlord","kitchen"]},
+        {"t":"match","cs":["bedroom","bathroom","balcony","floor"]},
+        {"t":"build","c":"the_flat_has_a_big_balcony","dir":"n2t","d":["landlord","kitchen"]},
+        {"t":"build","c":"i_am_looking_for_a_flat","dir":"audio","d":["expensive","floor"]},
+        {"t":"fill","c":"the_kitchen_is_small_but_nice"},
+        {"t":"listenpick","c":"is_the_flat_furnished"},
+        {"t":"speak","c":"how_much_is_the_rent"},
+        {"t":"choice","c":"the_landlord_lives_downstairs","dir":"t2n","d":["it_is_on_the_third_floor","how_much_is_the_rent"]},
+        {"t":"typeword","c":"the_rent_is_too_expensive"},
+        {"t":"build","c":"i_am_looking_for_a_flat","dir":"t2n","d":["kitchen","floor"]},
+        {"t":"fill","c":"it_is_on_the_third_floor"},
+        {"t":"choice","c":"furnished","dir":"n2t","d":["expensive","bathroom"]},
+        {"t":"speak","c":"the_flat_has_a_big_balcony"}
+      ]
+    },
+    {
+      "id": "a2_42",
+      "exercises": [
+        {"t":"choice","c":"laundry","dir":"t2n","big":true,"d":["broom","chore"]},
+        {"t":"choice","c":"rubbish","dir":"n2t","d":["laundry","dishes"]},
+        {"t":"match","cs":["laundry","dishes","rubbish","broom"]},
+        {"t":"match","cs":["sweep","iron","wash","tidy"]},
+        {"t":"build","c":"she_does_the_laundry_on_sunday","dir":"n2t","d":["broom","rubbish"]},
+        {"t":"build","c":"please_take_out_the_rubbish","dir":"audio","d":["laundry","broom"]},
+        {"t":"fill","c":"i_wash_the_dishes_after_dinner"},
+        {"t":"listenpick","c":"i_need_to_iron_my_shirt"},
+        {"t":"speak","c":"we_tidy_the_room_together"},
+        {"t":"choice","c":"who_cleans_the_bathroom_today","dir":"t2n","d":["i_hate_this_boring_chore","he_sweeps_the_floor_every_day"]},
+        {"t":"typeword","c":"he_sweeps_the_floor_every_day"},
+        {"t":"build","c":"we_tidy_the_room_together","dir":"t2n","d":["wash","iron"]},
+        {"t":"fill","c":"i_hate_this_boring_chore"},
+        {"t":"choice","c":"broom","dir":"n2t","d":["laundry","dishes"]},
+        {"t":"speak","c":"please_take_out_the_rubbish"}
+      ]
+    },
+    {
+      "id": "a2_43",
+      "exercises": [
+        {"t":"choice","c":"neighbor","dir":"t2n","big":true,"d":["hospital","traffic"]},
+        {"t":"choice","c":"supermarket","dir":"n2t","d":["hospital","playground"]},
+        {"t":"match","cs":["neighbor","neighborhood","quiet","noise"]},
+        {"t":"match","cs":["supermarket","hospital","playground","traffic"]},
+        {"t":"build","c":"i_greet_my_neighbors_every_morning","dir":"n2t","d":["quiet","hospital"]},
+        {"t":"build","c":"children_play_in_the_playground","dir":"audio","d":["noise","traffic"]},
+        {"t":"fill","c":"there_is_a_hospital_nearby"},
+        {"t":"listenpick","c":"the_supermarket_is_near_my_house"},
+        {"t":"speak","c":"the_traffic_is_terrible_today"},
+        {"t":"choice","c":"my_neighbor_is_very_friendly","dir":"t2n","d":["the_noise_at_night_is_annoying","there_is_a_hospital_nearby"]},
+        {"t":"typeword","c":"our_neighborhood_is_quiet_at_night"},
+        {"t":"build","c":"the_traffic_is_terrible_today","dir":"t2n","d":["quiet","greet"]},
+        {"t":"fill","c":"children_play_in_the_playground"},
+        {"t":"choice","c":"greet","dir":"n2t","d":["quiet","noise"]},
+        {"t":"speak","c":"my_neighbor_is_very_friendly"}
+      ]
+    },
+    {
+      "id": "a2_44",
+      "exercises": [
+        {"t":"choice","c":"laptop","dir":"t2n","big":true,"d":["charger","screen"]},
+        {"t":"choice","c":"battery","dir":"n2t","d":["button","plug"]},
+        {"t":"match","cs":["laptop","charger","battery","screen"]},
+        {"t":"match","cs":["internet","button","update","signal"]},
+        {"t":"build","c":"i_forgot_my_charger_at_home","dir":"n2t","d":["battery","plug"]},
+        {"t":"build","c":"there_is_no_internet_here","dir":"audio","d":["screen","button"]},
+        {"t":"fill","c":"the_battery_is_almost_empty"},
+        {"t":"listenpick","c":"my_laptop_is_very_slow"},
+        {"t":"speak","c":"the_screen_is_broken"},
+        {"t":"choice","c":"press_the_red_button","dir":"t2n","d":["the_signal_is_very_weak","the_screen_is_broken"]},
+        {"t":"typeword","c":"i_need_to_download_this_update"},
+        {"t":"build","c":"my_laptop_is_very_slow","dir":"t2n","d":["charger","signal"]},
+        {"t":"fill","c":"there_is_no_internet_here"},
+        {"t":"choice","c":"update","dir":"n2t","d":["plug","signal"]},
+        {"t":"speak","c":"the_signal_is_very_weak"}
+      ]
+    },
+    {
+      "id": "a2_45",
+      "exercises": [
+        {"t":"choice","c":"number","dir":"t2n","big":true,"d":["voicemail","line"]},
+        {"t":"choice","c":"voicemail","dir":"n2t","d":["number","text"]},
+        {"t":"match","cs":["number","voicemail","ring","text"]},
+        {"t":"match","cs":["repeat","hear","wrong","line"]},
+        {"t":"build","c":"please_leave_a_message","dir":"n2t","d":["wrong","ring"]},
+        {"t":"build","c":"you_have_the_wrong_number","dir":"audio","d":["text","voicemail"]},
+        {"t":"fill","c":"can_you_repeat_that_please"},
+        {"t":"listenpick","c":"i_cannot_hear_you_well"},
+        {"t":"speak","c":"my_phone_is_ringing"},
+        {"t":"choice","c":"can_i_speak_to_anna","dir":"t2n","d":["the_line_is_very_bad","you_have_the_wrong_number"]},
+        {"t":"typeword","c":"i_will_text_you_later"},
+        {"t":"build","c":"please_leave_a_message","dir":"t2n","d":["number","wrong"]},
+        {"t":"fill","c":"the_line_is_very_bad"},
+        {"t":"choice","c":"repeat","dir":"n2t","d":["ring","line"]},
+        {"t":"speak","c":"can_you_repeat_that_please"}
+      ]
+    }
+  ]
+}
