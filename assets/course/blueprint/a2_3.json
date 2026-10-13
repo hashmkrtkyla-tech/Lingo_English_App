@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_11",
+      "exercises": [
+        {"t":"choice","c":"bigger","dir":"t2n","big":true,"d":["smaller","cheaper"]},
+        {"t":"choice","c":"taller","dir":"n2t","d":["older","easier"]},
+        {"t":"match","cs":["bigger","smaller","cheaper","faster"]},
+        {"t":"match","cs":["slower","older","taller","easier"]},
+        {"t":"build","c":"the_train_is_slower_than_the_plane","dir":"n2t","d":["bigger","cheaper"]},
+        {"t":"build","c":"a_car_is_faster_than_a_bike","dir":"audio","d":["older","taller"]},
+        {"t":"fill","c":"my_bag_is_bigger_than_yours"},
+        {"t":"listenpick","c":"this_phone_is_cheaper_than_that"},
+        {"t":"speak","c":"my_brother_is_taller_than_me"},
+        {"t":"choice","c":"this_book_is_easier_than_that_one","dir":"t2n","d":["this_house_is_older_than_mine","my_brother_is_taller_than_me"]},
+        {"t":"typeword","c":"this_house_is_older_than_mine"},
+        {"t":"build","c":"a_car_is_faster_than_a_bike","dir":"t2n","d":["smaller","slower"]},
+        {"t":"fill","c":"this_book_is_easier_than_that_one"},
+        {"t":"choice","c":"slower","dir":"n2t","d":["bigger","older"]},
+        {"t":"speak","c":"my_bag_is_bigger_than_yours"}
+      ]
+    },
+    {
+      "id": "a2_12",
+      "exercises": [
+        {"t":"choice","c":"best","dir":"t2n","big":true,"d":["mountain","river"]},
+        {"t":"choice","c":"tallest","dir":"n2t","d":["fastest","cheapest"]},
+        {"t":"match","cs":["best","worst","biggest","cheapest"]},
+        {"t":"match","cs":["fastest","oldest","tallest","mountain"]},
+        {"t":"build","c":"it_is_the_biggest_mountain_here","dir":"n2t","d":["river","worst"]},
+        {"t":"build","c":"she_is_the_fastest_runner","dir":"audio","d":["best","oldest"]},
+        {"t":"fill","c":"this_is_the_best_day"},
+        {"t":"listenpick","c":"that_was_the_worst_film"},
+        {"t":"speak","c":"he_is_the_tallest_boy"},
+        {"t":"choice","c":"who_is_the_oldest_person","dir":"t2n","d":["this_is_the_cheapest_shop","he_is_the_tallest_boy"]},
+        {"t":"typeword","c":"this_is_the_cheapest_shop"},
+        {"t":"build","c":"this_is_the_best_day","dir":"t2n","d":["river","mountain"]},
+        {"t":"fill","c":"who_is_the_oldest_person"},
+        {"t":"choice","c":"river","dir":"n2t","d":["mountain","tallest"]},
+        {"t":"speak","c":"it_is_the_biggest_mountain_here"}
+      ]
+    },
+    {
+      "id": "a2_13",
+      "exercises": [
+        {"t":"choice","c":"water","dir":"t2n","big":true,"d":["milk","sugar"]},
+        {"t":"choice","c":"bread","dir":"n2t","d":["rice","sugar"]},
+        {"t":"match","cs":["water","milk","sugar","money"]},
+        {"t":"match","cs":["eggs","rice","bread","enough"]},
+        {"t":"build","c":"there_is_enough_rice_for_everyone","dir":"n2t","d":["milk","sugar"]},
+        {"t":"build","c":"how_many_eggs_do_we_need","dir":"audio","d":["bread","money"]},
+        {"t":"fill","c":"how_much_water_do_you_drink"},
+        {"t":"listenpick","c":"do_you_have_any_milk"},
+        {"t":"speak","c":"how_many_people_are_there"},
+        {"t":"choice","c":"i_do_not_have_any_sugar","dir":"t2n","d":["i_have_some_money","how_many_people_are_there"]},
+        {"t":"typeword","c":"i_have_some_money"},
+        {"t":"build","c":"how_many_eggs_do_we_need","dir":"t2n","d":["water","rice"]},
+        {"t":"fill","c":"there_is_enough_rice_for_everyone"},
+        {"t":"choice","c":"any","dir":"n2t","d":["some","enough"]},
+        {"t":"speak","c":"how_much_water_do_you_drink"}
+      ]
+    },
+    {
+      "id": "a2_14",
+      "exercises": [
+        {"t":"choice","c":"chicken","dir":"t2n","big":true,"d":["cheese","soup"]},
+        {"t":"choice","c":"soup","dir":"n2t","d":["salad","chicken"]},
+        {"t":"match","cs":["chicken","meat","vegetables","salad"]},
+        {"t":"match","cs":["soup","cheese","spicy","sweet"]},
+        {"t":"build","c":"the_salad_was_fresh_and_delicious","dir":"n2t","d":["spicy","cheese"]},
+        {"t":"build","c":"i_do_not_eat_meat","dir":"audio","d":["soup","chicken"]},
+        {"t":"fill","c":"the_soup_is_too_spicy"},
+        {"t":"listenpick","c":"this_cake_is_very_sweet"},
+        {"t":"speak","c":"she_cooked_chicken_with_rice"},
+        {"t":"choice","c":"add_some_cheese_to_the_soup","dir":"t2n","d":["i_like_fresh_vegetables","this_cake_is_very_sweet"]},
+        {"t":"typeword","c":"i_like_fresh_vegetables"},
+        {"t":"build","c":"the_soup_is_too_spicy","dir":"t2n","d":["meat","cheese"]},
+        {"t":"fill","c":"she_cooked_chicken_with_rice"},
+        {"t":"choice","c":"fresh","dir":"n2t","d":["sweet","spicy"]},
+        {"t":"speak","c":"add_some_cheese_to_the_soup"}
+      ]
+    },
+    {
+      "id": "a2_15",
+      "exercises": [
+        {"t":"choice","c":"menu","dir":"t2n","big":true,"d":["bill","table"]},
+        {"t":"choice","c":"waiter","dir":"n2t","d":["dish","dessert"]},
+        {"t":"match","cs":["menu","waiter","bill","table"]},
+        {"t":"match","cs":["order","dish","tip","reservation"]},
+        {"t":"build","c":"i_have_a_reservation_for_tonight","dir":"n2t","d":["menu","tip"]},
+        {"t":"build","c":"can_we_have_the_bill_please","dir":"audio","d":["dessert","dish"]},
+        {"t":"fill","c":"i_would_like_to_order_now"},
+        {"t":"listenpick","c":"can_i_see_the_menu"},
+        {"t":"speak","c":"a_table_for_two_please"},
+        {"t":"choice","c":"what_is_the_main_dish_today","dir":"t2n","d":["the_waiter_brought_our_dessert","can_we_have_the_bill_please"]},
+        {"t":"typeword","c":"the_waiter_brought_our_dessert"},
+        {"t":"build","c":"can_i_see_the_menu","dir":"t2n","d":["order","tip"]},
+        {"t":"fill","c":"a_table_for_two_please"},
+        {"t":"choice","c":"bill","dir":"n2t","d":["tip","menu"]},
+        {"t":"speak","c":"what_is_the_main_dish_today"}
+      ]
+    }
+  ]
+        }
