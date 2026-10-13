@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_21",
+      "exercises": [
+        {"t":"choice","c":"bank","dir":"t2n","big":true,"d":["account","wallet"]},
+        {"t":"choice","c":"card","dir":"n2t","d":["cash","wallet"]},
+        {"t":"match","cs":["bank","account","cash","card"]},
+        {"t":"match","cs":["withdraw","deposit","save","spend"]},
+        {"t":"build","c":"i_put_my_money_in_the_bank","dir":"n2t","d":["pay","wallet"]},
+        {"t":"build","c":"i_want_to_withdraw_some_cash","dir":"audio","d":["save","wallet"]},
+        {"t":"fill","c":"i_need_to_open_an_account"},
+        {"t":"listenpick","c":"can_i_pay_by_card"},
+        {"t":"speak","c":"she_saves_money_every_month"},
+        {"t":"choice","c":"he_spent_too_much_money","dir":"t2n","d":["can_i_pay_by_card","my_wallet_is_empty"]},
+        {"t":"typeword","c":"my_wallet_is_empty"},
+        {"t":"build","c":"i_need_to_open_an_account","dir":"t2n","d":["card","cash"]},
+        {"t":"fill","c":"i_want_to_withdraw_some_cash"},
+        {"t":"choice","c":"deposit","dir":"n2t","d":["spend","wallet"]},
+        {"t":"speak","c":"i_put_my_money_in_the_bank"}
+      ]
+    },
+    {
+      "id": "a2_22",
+      "exercises": [
+        {"t":"choice","c":"left","dir":"t2n","big":true,"d":["right","straight"]},
+        {"t":"choice","c":"bridge","dir":"n2t","d":["corner","crossroads"]},
+        {"t":"match","cs":["left","right","straight","corner"]},
+        {"t":"match","cs":["bridge","opposite","behind","crossroads"]},
+        {"t":"build","c":"cross_the_bridge_and_turn_right","dir":"n2t","d":["behind","opposite"]},
+        {"t":"build","c":"take_the_second_street_on_the_right","dir":"audio","d":["bridge","corner"]},
+        {"t":"fill","c":"the_shop_is_opposite_the_park"},
+        {"t":"listenpick","c":"the_bank_is_behind_the_station"},
+        {"t":"speak","c":"how_do_i_get_to_the_museum"},
+        {"t":"choice","c":"go_straight_for_two_blocks","dir":"t2n","d":["stop_at_the_crossroads","the_shop_is_opposite_the_park"]},
+        {"t":"typeword","c":"turn_left_at_the_corner"},
+        {"t":"build","c":"cross_the_bridge_and_turn_right","dir":"t2n","d":["corner","behind"]},
+        {"t":"fill","c":"stop_at_the_crossroads"},
+        {"t":"choice","c":"turn","dir":"n2t","d":["cross","bridge"]},
+        {"t":"speak","c":"turn_left_at_the_corner"}
+      ]
+    },
+    {
+      "id": "a2_23",
+      "exercises": [
+        {"t":"choice","c":"ticket","dir":"t2n","big":true,"d":["station","platform"]},
+        {"t":"choice","c":"driver","dir":"n2t","d":["seat","stop"]},
+        {"t":"match","cs":["bus","subway","station","ticket"]},
+        {"t":"match","cs":["platform","driver","seat","stop"]},
+        {"t":"build","c":"i_need_a_ticket_to_the_station","dir":"n2t","d":["bus","seat"]},
+        {"t":"build","c":"the_train_leaves_from_platform_two","dir":"audio","d":["driver","change"]},
+        {"t":"fill","c":"i_missed_the_last_bus"},
+        {"t":"listenpick","c":"the_bus_stop_is_near_here"},
+        {"t":"speak","c":"is_this_seat_free"},
+        {"t":"choice","c":"which_bus_goes_to_the_airport","dir":"t2n","d":["change_at_the_next_station","the_bus_stop_is_near_here"]},
+        {"t":"typeword","c":"change_at_the_next_station"},
+        {"t":"build","c":"i_missed_the_last_bus","dir":"t2n","d":["ticket","driver"]},
+        {"t":"fill","c":"the_train_leaves_from_platform_two"},
+        {"t":"choice","c":"subway","dir":"n2t","d":["bus","station"]},
+        {"t":"speak","c":"is_this_seat_free"}
+      ]
+    },
+    {
+      "id": "a2_24",
+      "exercises": [
+        {"t":"choice","c":"passport","dir":"t2n","big":true,"d":["luggage","suitcase"]},
+        {"t":"choice","c":"flight","dir":"n2t","d":["booking","delay"]},
+        {"t":"match","cs":["passport","luggage","flight","booking"]},
+        {"t":"match","cs":["departure","arrival","return","delay"]},
+        {"t":"build","c":"i_want_to_book_a_flight","dir":"n2t","d":["passport","suitcase"]},
+        {"t":"build","c":"my_luggage_is_too_heavy","dir":"audio","d":["arrival","return"]},
+        {"t":"fill","c":"do_you_have_your_passport"},
+        {"t":"listenpick","c":"is_it_a_direct_flight"},
+        {"t":"speak","c":"i_want_a_return_ticket"},
+        {"t":"choice","c":"the_flight_has_a_long_delay","dir":"t2n","d":["my_flight_departs_at_nine","my_luggage_is_too_heavy"]},
+        {"t":"typeword","c":"my_flight_departs_at_nine"},
+        {"t":"build","c":"i_want_to_book_a_flight","dir":"t2n","d":["luggage","delay"]},
+        {"t":"fill","c":"i_want_a_return_ticket"},
+        {"t":"choice","c":"delay","dir":"n2t","d":["arrival","booking"]},
+        {"t":"speak","c":"do_you_have_your_passport"}
+      ]
+    },
+    {
+      "id": "a2_25",
+      "exercises": [
+        {"t":"choice","c":"towel","dir":"t2n","big":true,"d":["shower","breakfast"]},
+        {"t":"choice","c":"reception","dir":"n2t","d":["room","towel"]},
+        {"t":"match","cs":["reception","towel","breakfast","room"]},
+        {"t":"match","cs":["noisy","dirty","broken","clean"]},
+        {"t":"build","c":"can_i_have_another_towel","dir":"n2t","d":["noisy","dirty"]},
+        {"t":"build","c":"i_would_like_a_quiet_room","dir":"audio","d":["broken","shower"]},
+        {"t":"fill","c":"the_shower_is_not_working"},
+        {"t":"listenpick","c":"my_room_is_very_noisy"},
+        {"t":"speak","c":"please_call_the_reception"},
+        {"t":"choice","c":"what_time_is_breakfast_served","dir":"t2n","d":["the_window_is_broken","the_room_is_not_clean"]},
+        {"t":"typeword","c":"the_window_is_broken"},
+        {"t":"build","c":"please_call_the_reception","dir":"t2n","d":["towel","noisy"]},
+        {"t":"fill","c":"can_i_have_another_towel"},
+        {"t":"choice","c":"dirty","dir":"n2t","d":["noisy","broken"]},
+        {"t":"speak","c":"the_room_is_not_clean"}
+      ]
+    }
+  ]
+}
