@@ -1,14 +1,2120 @@
 {
-  "id": "a2_drive_11",
-  "title": "A2 Elementary Story 11",
+  "id": "a2_the_love_of_king",
+  "title": "The Love of King",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1KnGg1pPxEdLtIjZgJBLE7Vz_B1bAoS_Y",
+  "audio_url": "assets/books/audio/a2_books/The_Love_of_King.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Consistent audio exposure significantly sharpens your ear.",
-      "translation": "التعرض المستمر للصوتيات يصقل أذنك بشكل ملحوظ."
-    }
-  ]
-}
+      "id": 1,
+      "text": "Prince Edward was born in 1894.",
+      "translation": "وُلد الأمير إدوارد عام 1894."
+    },
+    {
+      "id": 2,
+      "text": "His father, King George V, was a tall, cold man who did not like children.",
+      "translation": "كان والده، الملك جورج الخامس، رجلاً طويلاً وبارداً لم يحب الأطفال."
+    },
+    {
+      "id": 3,
+      "text": "'Why does Edward talk all the time?' he once said.",
+      "translation": "قال ذات مرة: 'لماذا يتحدث إدوارد طوال الوقت؟'"
+    },
+    {
+      "id": 4,
+      "text": "'He's a very noisy child!'",
+      "translation": "'إنه طفل مزعج جداً!'"
+    },
+    {
+      "id": 5,
+      "text": "His mother, Queen Mary, agreed.",
+      "translation": "وافقته والدته، الملكة ماري، الرأي."
+    },
+    {
+      "id": 6,
+      "text": "'It doesn't matter if Edward is happy or unhappy,' she said.",
+      "translation": "قالت: 'لا يهم إن كان إدوارد سعيداً أم تعيساً'."
+    },
+    {
+      "id": 7,
+      "text": "'A child must be silent and strong.'",
+      "translation": "'يجب أن يكون الطفل صامتاً وقوياً'."
+    },
+    {
+      "id": 8,
+      "text": "The family lived in Buckingham Palace, which had 600 rooms.",
+      "translation": "عاشت العائلة في قصر باكنغهام، الذي كان يحتوي على 600 غرفة."
+    },
+    {
+      "id": 9,
+      "text": "There were 8 kitchens, 19 bathrooms, 24 toilets, 11 dining rooms, 17 bedrooms and 21 sitting rooms.",
+      "translation": "كان هناك 8 مطابخ، و19 حماماً، و24 مرحاضاً، و11 غرفة طعام، و17 غرفة نوم، و21 غرفة جلوس."
+    },
+    {
+      "id": 10,
+      "text": "Edward once told a story about the house:",
+      "translation": "حكى إدوارد ذات مرة قصة عن المنزل:"
+    },
+    {
+      "id": 11,
+      "text": "Buckingham Palace was very big, and people sometimes got lost.",
+      "translation": "كان قصر باكنغهام كبيراً جداً، وكان الناس يضيعون فيه أحياناً."
+    },
+    {
+      "id": 12,
+      "text": "One night my mother, my father and I were sitting in the dining room.",
+      "translation": "في إحدى الليالي، كنا أنا وأمي وأبي نجلس في غرفة الطعام."
+    },
+    {
+      "id": 13,
+      "text": "We were waiting for our dinner.",
+      "translation": "كنا ننتظر عشاءنا."
+    },
+    {
+      "id": 14,
+      "text": "We waited and we waited, but the food did not come.",
+      "translation": "انتظرنا وانتظرنا، لكن الطعام لم يأتِ."
+    },
+    {
+      "id": 15,
+      "text": "After twenty minutes, my father was very angry.",
+      "translation": "بعد عشرين دقيقة، غضب والدي بشدة."
+    },
+    {
+      "id": 16,
+      "text": "He stood up and went to the kitchen.",
+      "translation": "وقف وذهب إلى المطبخ."
+    },
+    {
+      "id": 17,
+      "text": "'Where is the cook?' he shouted, 'and where is my food?'",
+      "translation": "صرخ: 'أين الطاهي؟ وأين طعامي؟'"
+    },
+    {
+      "id": 18,
+      "text": "'But, Sir,' the cook replied, 'your dinner left the kitchen fifteen minutes ago.'",
+      "translation": "أجاب الطاهي: 'لكن يا سيدي، لقد غادر عشاؤك المطبخ منذ خمس عشرة دقيقة'."
+    },
+    {
+      "id": 19,
+      "text": "'Hasn't it arrived yet?'",
+      "translation": "'ألم يصل بعد؟'"
+    },
+    {
+      "id": 20,
+      "text": "'No, it hasn't,' my father shouted, 'and I'm hungry.'",
+      "translation": "صرخ والدي: 'لا، لم يصل، وأنا جائع'."
+    },
+    {
+      "id": 21,
+      "text": "The King left the kitchen and began to look for the food.",
+      "translation": "غادر الملك المطبخ وبدأ يبحث عن الطعام."
+    },
+    {
+      "id": 22,
+      "text": "Ten minutes later he saw a woman who was carrying three plates of meat and potatoes.",
+      "translation": "بعد عشر دقائق، رأى امرأة تحمل ثلاثة أطباق من اللحم والبطاطس."
+    },
+    {
+      "id": 23,
+      "text": "'What happened to you?' my father said.",
+      "translation": "قال والدي: 'ماذا حدث لك؟'"
+    },
+    {
+      "id": 24,
+      "text": "'Why didn't you bring us our dinner?'",
+      "translation": "'لماذا لم تحضري لنا عشاءنا؟'"
+    },
+    {
+      "id": 25,
+      "text": "'I'm sorry, Sir,' the woman replied.",
+      "translation": "أجابت المرأة: 'أنا آسفة يا سيدي'."
+    },
+    {
+      "id": 26,
+      "text": "'There are a lot of dining rooms.'",
+      "translation": "'هناك الكثير من غرف الطعام'."
+    },
+    {
+      "id": 27,
+      "text": "I couldn't remember where to go.",
+      "translation": "لم أستطع تذكر إلى أين أذهب."
+    },
+    {
+      "id": 28,
+      "text": "But if you return to the table, Sir, this time I can follow you to the right room.'",
+      "translation": "لكن إذا عدت إلى الطاولة يا سيدي، هذه المرة يمكنني أن أتبعك إلى الغرفة الصحيحة'."
+    },
+    {
+      "id": 29,
+      "text": "Edward did not go to school with other children.",
+      "translation": "لم يذهب إدوارد إلى المدرسة مع الأطفال الآخرين."
+    },
+    {
+      "id": 30,
+      "text": "He stayed in Buckingham Palace where he had a special classroom just for him.",
+      "translation": "بقي في قصر باكنغهام حيث كان لديه فصل دراسي خاص به وحده."
+    },
+    {
+      "id": 31,
+      "text": "This is how Edward described his lessons:",
+      "translation": "هكذا وصف إدوارد دروسه:"
+    },
+    {
+      "id": 32,
+      "text": "My teacher, Mr Hansell, was a thin man.",
+      "translation": "كان معلمي، السيد هانسل، رجلاً نحيفاً."
+    },
+    {
+      "id": 33,
+      "text": "He never smiled and his nose was very red.",
+      "translation": "لم يكن يبتسم أبداً وكان أنفه أحمر جداً."
+    },
+    {
+      "id": 34,
+      "text": "We had lots of books but they were all very boring.",
+      "translation": "كان لدينا الكثير من الكتب لكنها كانت كلها مملة جداً."
+    },
+    {
+      "id": 35,
+      "text": "They were full of words and they didn't have any pictures.",
+      "translation": "كانت مليئة بالكلمات ولم تحتوِ على أي صور."
+    },
+    {
+      "id": 36,
+      "text": "Sometimes I stopped reading and looked out of the window.",
+      "translation": "أحياناً كنت أتوقف عن القراءة وأنظر من النافذة."
+    },
+    {
+      "id": 37,
+      "text": "Mr Hansell got very angry.",
+      "translation": "كان السيد هانسل يغضب بشدة."
+    },
+    {
+      "id": 38,
+      "text": "He took a stick and hit me on the arm.",
+      "translation": "كان يأخذ عصا ويضربني على ذراعي."
+    },
+    {
+      "id": 39,
+      "text": "'Don't look out of the window, little boy,' he shouted.",
+      "translation": "كان يصرخ: 'لا تنظر من النافذة أيها الصبي الصغير'."
+    },
+    {
+      "id": 40,
+      "text": "'Look at the book.'",
+      "translation": "'انظر إلى الكتاب'."
+    },
+    {
+      "id": 41,
+      "text": "He hit me many times and my arm was red.",
+      "translation": "ضربني مرات عديدة وكان ذراعي أحمر."
+    },
+    {
+      "id": 42,
+      "text": "Every Friday the teacher took me to my father's room.",
+      "translation": "كل يوم جمعة كان المعلم يأخذني إلى غرفة والدي."
+    },
+    {
+      "id": 43,
+      "text": "'And what has my son learnt this week, Mr Hansell?' the King asked.",
+      "translation": "كان الملك يسأل: 'وماذا تعلم ابني هذا الأسبوع يا سيد هانسل؟'"
+    },
+    {
+      "id": 44,
+      "text": "And the answer was always: 'Not very much I'm afraid, Sir.'",
+      "translation": "وكانت الإجابة دائماً: 'ليس الكثير للأسف يا سيدي'."
+    },
+    {
+      "id": 45,
+      "text": "Edward doesn't like his lessons.",
+      "translation": "إدوارد لا يحب دروسه."
+    },
+    {
+      "id": 46,
+      "text": "He never listens to what I say.'",
+      "translation": "إنه لا يستمع أبداً لما أقوله'."
+    },
+    {
+      "id": 47,
+      "text": "When Mr Hansell left the room, my father was angry with me.",
+      "translation": "عندما غادر السيد هانسل الغرفة، كان والدي غاضباً مني."
+    },
+    {
+      "id": 48,
+      "text": "'What's wrong with you, child?' he said.",
+      "translation": "قال: 'ما خطبك يا child؟'"
+    },
+    {
+      "id": 49,
+      "text": "'Are you stupid?'",
+      "translation": "'هل أنت غبي؟'"
+    },
+    {
+      "id": 50,
+      "text": "Why can't you learn anything?'",
+      "translation": "لماذا لا تستطيع تعلم أي شيء؟'"
+    },
+    {
+      "id": 51,
+      "text": "'But the lessons are so boring, Sir,' I replied.",
+      "translation": "أجبت: 'لكن الدروس مملة جداً يا سيدي'."
+    },
+    {
+      "id": 52,
+      "text": "'And Mr Hansell hits me.'",
+      "translation": "'والسيد هانسل يضربني'."
+    },
+    {
+      "id": 53,
+      "text": "'I don't understand you, Edward.'",
+      "translation": "'أنا لا أفهمك يا إدوارد'."
+    },
+    {
+      "id": 54,
+      "text": "You're a baby.",
+      "translation": "أنت طفل."
+    },
+    {
+      "id": 55,
+      "text": "You're so weak.",
+      "translation": "أنت ضعيف جداً."
+    },
+    {
+      "id": 56,
+      "text": "You'll never be a good King.",
+      "translation": "لن تكون ملكاً جيداً أبداً."
+    },
+    {
+      "id": 57,
+      "text": "A King must be strong.",
+      "translation": "يجب أن يكون الملك قوياً."
+    },
+    {
+      "id": 58,
+      "text": "Go to your room and stay there until the morning.'",
+      "translation": "اذهب إلى غرفتك وابقَ هناك حتى الصباح'."
+    },
+    {
+      "id": 59,
+      "text": "'I spent many days alone in my room,' Edward wrote later.",
+      "translation": "كتب إدوارد لاحقاً: 'قضيت أياماً كثيرة وحدي في غرفتي'."
+    },
+    {
+      "id": 60,
+      "text": "'I never played with other children and I didn't have any friends.'",
+      "translation": "'لم ألعب أبداً مع أطفال آخرين ولم يكن لدي أي أصدقاء'."
+    },
+    {
+      "id": 61,
+      "text": "I lived in the most beautiful house in England but I was always lonely and sad.",
+      "translation": "عشت في أجمل منزل في إنجلترا لكنني كنت دائماً وحيداً وحزيناً."
+    },
+    {
+      "id": 62,
+      "text": "I saw my mother once a day at dinnertime and I saw my father three or four times a week, but they never gave me any love.",
+      "translation": "كنت أرى أمي مرة واحدة يومياً في وقت العشاء وأرى والدي ثلاث أو أربع مرات في الأسبوع، لكنهما لم يمنحاني أي حب أبداً."
+    },
+    {
+      "id": 63,
+      "text": "I was afraid of them and everything I did was wrong.'",
+      "translation": "كنت خائفاً منهما وكل ما فعلته كان خاطئاً'."
+    },
+    {
+      "id": 64,
+      "text": "In the spring of 1911, King George called Edward into his room and said:",
+      "translation": "في ربيع عام 1911، استدعى الملك جورج إدوارد إلى غرفته وقال:"
+    },
+    {
+      "id": 65,
+      "text": "'Next month I'll make you Prince of Wales and these are your clothes for the ceremony.'",
+      "translation": "'الشهر المقبل سأجعلك أمير ويلز وهذه هي ملابسك للحفل'."
+    },
+    {
+      "id": 66,
+      "text": "The King opened a small cupboard and Edward started to cry.",
+      "translation": "فتح الملك خزانة صغيرة وبدأ إدوارد في البكاء."
+    },
+    {
+      "id": 67,
+      "text": "'But father,' he said, 'I'm sixteen years old now.'",
+      "translation": "قال: 'لكن يا أبي، عمري الآن ستة عشر عاماً'."
+    },
+    {
+      "id": 68,
+      "text": "I can't wear soft shoes and a skirt.",
+      "translation": "لا يمكنني ارتداء أحذية ناعمة وتنورة."
+    },
+    {
+      "id": 69,
+      "text": "I'll look like a girl.",
+      "translation": "سأبدو مثل فتاة."
+    },
+    {
+      "id": 70,
+      "text": "Why can't I dress like other people?'",
+      "translation": "لماذا لا يمكنني ارتداء ملابس مثل الآخرين؟'"
+    },
+    {
+      "id": 71,
+      "text": "'Because you're different and special,' his father replied, 'and one day you'll be King.'",
+      "translation": "أجاب والده: 'لأنك مختلف ومميز، ويومًا ما ستكون ملكاً'."
+    },
+    {
+      "id": 72,
+      "text": "Edward cried for the next two days, but there was nothing he could do.",
+      "translation": "بكى إدوارد ليومين، لكن لم يكن هناك شيء يمكنه فعله."
+    },
+    {
+      "id": 73,
+      "text": "And so, on 10th June 1911, the family drove to Caernarvon Castle in North Wales and the ceremony began.",
+      "translation": "وهكذا، في 10 يونيو 1911، قادت العائلة إلى قلعة كارنارفون في شمال ويلز وبدأ الحفل."
+    },
+    {
+      "id": 74,
+      "text": "The King put a small gold crown on Edward's head.",
+      "translation": "وضع الملك تاجاً ذهبياً صغيراً على رأس إدوارد."
+    },
+    {
+      "id": 75,
+      "text": "There was music and dancing and the crowd began to shout.",
+      "translation": "كانت هناك موسيقى ورقص وبدأ الجمهور يهتف."
+    },
+    {
+      "id": 76,
+      "text": "The new Prince of Wales closed his eyes.",
+      "translation": "أغمض أمير ويلز الجديد عينيه."
+    },
+    {
+      "id": 77,
+      "text": "'I feel terrible,' he said.",
+      "translation": "قال: 'أشعر بضيق شديد'."
+    },
+    {
+      "id": 78,
+      "text": "'Can we go home now?'",
+      "translation": "'هل يمكننا العودة إلى المنزل الآن؟'"
+    },
+    {
+      "id": 79,
+      "text": "'Not yet,' the King replied.",
+      "translation": "أجاب الملك: 'ليس بعد'."
+    },
+    {
+      "id": 80,
+      "text": "'The people want to see you.'",
+      "translation": "'الناس يريدون رؤيتك'."
+    },
+    {
+      "id": 81,
+      "text": "Edward walked to the front of the castle and looked down at the crowd.",
+      "translation": "سار إدوارد إلى الجزء الأمامي من القلعة ونظر إلى الحشد بالأسفل."
+    },
+    {
+      "id": 82,
+      "text": "He was shaking and his face was red.",
+      "translation": "كان يرتجف وكان وجهه أحمر."
+    },
+    {
+      "id": 83,
+      "text": "'Smile, Edward,' the King said.",
+      "translation": "قال الملك: 'ابتسم يا إدوارد'."
+    },
+    {
+      "id": 84,
+      "text": "'You are happy!'",
+      "translation": "'أنت سعيد!'"
+    },
+    {
+      "id": 85,
+      "text": "A few hours later the family were driving back to Windsor.",
+      "translation": "بعد ساعات قليلة، كانت العائلة تقود سيارتها عائدة إلى وندسور."
+    },
+    {
+      "id": 86,
+      "text": "'Wasn't that a lovely day!' Queen Mary said.",
+      "translation": "قالت الملكة ماري: 'ألم يكن ذلك يوماً جميلاً!'"
+    },
+    {
+      "id": 87,
+      "text": "Edward took off his shoes and looked out of the window.",
+      "translation": "خلع إدوارد حذاءه ونظر من النافذة."
+    },
+    {
+      "id": 88,
+      "text": "'Never again,' he thought.",
+      "translation": "فكر: 'لن يتكرر هذا أبداً'."
+    },
+    {
+      "id": 89,
+      "text": "'Never again!'",
+      "translation": "'لن يتكرر أبداً!'"
+    },
+    {
+      "id": 90,
+      "text": "After a year at Oxford University, Edward went to fight in the First World War.",
+      "translation": "بعد عام في جامعة أكسفورد، ذهب إدوارد للقتال في الحرب العالمية الأولى."
+    },
+    {
+      "id": 91,
+      "text": "He wrote:",
+      "translation": "كتب:"
+    },
+    {
+      "id": 92,
+      "text": "I lived in a house with twenty-five other soldiers.",
+      "translation": "عشت في منزل مع خمسة وعشرين جندياً آخرين."
+    },
+    {
+      "id": 93,
+      "text": "At night, we talked about our lives and our families.",
+      "translation": "في الليل، تحدثنا عن حياتنا وعائلاتنا."
+    },
+    {
+      "id": 94,
+      "text": "It was very interesting.",
+      "translation": "كان ذلك مثيراً للاهتمام للغاية."
+    },
+    {
+      "id": 95,
+      "text": "I could speak freely to different people - rich and poor, young and old.",
+      "translation": "كان بإمكاني التحدث بحرية مع مختلف الناس - الأغنياء والفقراء، الصغار والكبار."
+    },
+    {
+      "id": 96,
+      "text": "But I also saw the blood and noise of war.",
+      "translation": "لكنني رأيت أيضاً الدماء وضجيج الحرب."
+    },
+    {
+      "id": 97,
+      "text": "One day in 1916, my driver took me to the town of Loos in Belgium.",
+      "translation": "في أحد أيام عام 1916، أخذني سائقي إلى بلدة لوس في بلجيكا."
+    },
+    {
+      "id": 98,
+      "text": "I got out of the car and walked to the top of the hill.",
+      "translation": "خرجت من السيارة وسرت إلى قمة التل."
+    },
+    {
+      "id": 99,
+      "text": "Down below me there was heavy fighting and I felt very sad.",
+      "translation": "في الأسفل كان هناك قتال عنيف وشعرت بحزن شديد."
+    },
+    {
+      "id": 100,
+      "text": "An hour later, I returned to my car.",
+      "translation": "بعد ساعة، عدت إلى سيارتي."
+    },
+    {
+      "id": 101,
+      "text": "I'll never forget what I saw.",
+      "translation": "لن أنسى أبداً ما رأيته."
+    },
+    {
+      "id": 102,
+      "text": "My driver was dead.",
+      "translation": "كان سائقي ميتاً."
+    },
+    {
+      "id": 103,
+      "text": "While I was away, somebody shot him in the neck.",
+      "translation": "بينما كنت بعيداً، أطلق أحدهم النار على رقبته."
+    },
+    {
+      "id": 104,
+      "text": "When the war finished in 1918, Edward returned to Buckingham Palace.",
+      "translation": "عندما انتهت الحرب عام 1918، عاد إدوارد إلى قصر باكنغهام."
+    },
+    {
+      "id": 105,
+      "text": "One night he was talking to his father in the dining room.",
+      "translation": "في إحدى الليالي كان يتحدث مع والده في غرفة الطعام."
+    },
+    {
+      "id": 106,
+      "text": "'I don't understand why countries fight,' the Prince said.",
+      "translation": "قال الأمير: 'لا أفهم لماذا تتقاتل الدول'."
+    },
+    {
+      "id": 107,
+      "text": "'The war has finished, but nothing has changed.'",
+      "translation": "'لقد انتهت الحرب، لكن لم يتغير شيء'."
+    },
+    {
+      "id": 108,
+      "text": "There are still millions of poor and hungry people.",
+      "translation": "لا يزال هناك ملايين الفقراء والجائعين."
+    },
+    {
+      "id": 109,
+      "text": "It's not right.",
+      "translation": "هذا ليس صواباً."
+    },
+    {
+      "id": 110,
+      "text": "Somebody must do something!'",
+      "translation": "يجب على أحدهم أن يفعل شيئاً!'"
+    },
+    {
+      "id": 111,
+      "text": "'Well,' King George replied, 'you can't change the world if you sit by the fire.'",
+      "translation": "أجاب الملك جورج: 'حسناً، لا يمكنك تغيير العالم إذا جلست بجانب النار'."
+    },
+    {
+      "id": 112,
+      "text": "You must travel.",
+      "translation": "يجب أن تسافر."
+    },
+    {
+      "id": 113,
+      "text": "Meet people.",
+      "translation": "قابل الناس."
+    },
+    {
+      "id": 114,
+      "text": "Talk to them.",
+      "translation": "تحدث إليهم."
+    },
+    {
+      "id": 115,
+      "text": "Listen to what they say.",
+      "translation": "استمع لما يقولون."
+    },
+    {
+      "id": 116,
+      "text": "And then, when you are King, you can make the world a better place.'",
+      "translation": "وبعد ذلك، عندما تصبح ملكاً، يمكنك جعل العالم مكاناً أفضل'."
+    },
+    {
+      "id": 117,
+      "text": "And so, in 1920, Edward left England again.",
+      "translation": "وهكذا، في عام 1920، غادر إدوارد إنجلترا مرة أخرى."
+    },
+    {
+      "id": 118,
+      "text": "During the next five years, he travelled 240,000 kilometres and visited 45 different countries.",
+      "translation": "خلال السنوات الخمس التالية، سافر 240,000 كيلومتر وزار 45 دولة مختلفة."
+    },
+    {
+      "id": 119,
+      "text": "He saw India, Argentina, Nigeria, Mexico, New Zealand, Germany, and Japan.",
+      "translation": "رأى الهند والأرجنتين ونيجيريا والمكسيك ونيوزيلندا وألمانيا واليابان."
+    },
+    {
+      "id": 120,
+      "text": "When he came to Toronto, in Canada, there were 500,000 people in the streets to meet him.",
+      "translation": "عندما وصل إلى تورونتو في كندا، كان هناك 500,000 شخص في الشوارع لاستقباله."
+    },
+    {
+      "id": 121,
+      "text": "Everywhere thousands of people waited to see him - there were crowds of 190,000 in Cape Town, 300,000 in Paris, 500,000 in New York, and 750,000 in Melbourne.",
+      "translation": "في كل مكان كان الآلاف ينتظرون لرؤيته - كان هناك حشود من 190,000 في كيب تاون، و300,000 في باريس، و500,000 في نيويورك، و750,000 في ملبورن."
+    },
+    {
+      "id": 122,
+      "text": "'Edward is the first royal star,' one newspaper wrote, 'and he is now the most famous man in the world.'",
+      "translation": "كتبت إحدى الصحف: 'إدوارد هو أول نجم ملكي، وهو الآن الرجل الأكثر شهرة في العالم'."
+    },
+    {
+      "id": 123,
+      "text": "In the old days princes were cold and bored.",
+      "translation": "في الأيام الخوالي كان الأمراء باردين وملولين."
+    },
+    {
+      "id": 124,
+      "text": "But Edward is different.",
+      "translation": "لكن إدوارد مختلف."
+    },
+    {
+      "id": 125,
+      "text": "He gets out of his car and walks down the street.",
+      "translation": "يخرج من سيارته ويسير في الشارع."
+    },
+    {
+      "id": 126,
+      "text": "Every two or three minutes he stops and speaks with the crowd.",
+      "translation": "كل دقيقتين أو ثلاث يتوقف ويتحدث مع الحشد."
+    },
+    {
+      "id": 127,
+      "text": "He laughs.",
+      "translation": "إنه يضحك."
+    },
+    {
+      "id": 128,
+      "text": "He smiles.",
+      "translation": "إنه يبتسم."
+    },
+    {
+      "id": 129,
+      "text": "He shakes a thousand hands.",
+      "translation": "يصافح ألف يد."
+    },
+    {
+      "id": 130,
+      "text": "He is a man of the people with a heart of gold.'",
+      "translation": "إنه رجل من الشعب بقلب من ذهب'."
+    },
+    {
+      "id": 131,
+      "text": "In the autumn of 1930, Edward went to stay with his friends Lord and Lady Furness.",
+      "translation": "في خريف عام 1930، ذهب إدوارد للإقامة مع صديقيه اللورد والليدي فيرنيس."
+    },
+    {
+      "id": 132,
+      "text": "This is how he described that weekend in a book called A King's Story:",
+      "translation": "هكذا وصف تلك العطلة الأسبوعية في كتاب بعنوان 'قصة ملك':"
+    },
+    {
+      "id": 133,
+      "text": "On Saturday, the weather was cold and windy.",
+      "translation": "يوم السبت، كان الطقس بارداً وعاصفاً."
+    },
+    {
+      "id": 134,
+      "text": "It was raining heavily so we could not ride our horses.",
+      "translation": "كانت تمطر بغزارة لذلك لم نتمكن من ركوب خيولنا."
+    },
+    {
+      "id": 135,
+      "text": "We decided to stay in the house and have an early lunch with some of Lady Furness' friends.",
+      "translation": "قررنا البقاء في المنزل وتناول غداء مبكر مع بعض أصدقاء الليدي فيرنيس."
+    },
+    {
+      "id": 136,
+      "text": "At one o'clock Wallis arrived with her husband.",
+      "translation": "في الساعة الواحدة وصلت واليس مع زوجها."
+    },
+    {
+      "id": 137,
+      "text": "She was beautifully dressed and she smiled all the time.",
+      "translation": "كانت ترتدي ملابس جميلة وكانت تبتسم طوال الوقت."
+    },
+    {
+      "id": 138,
+      "text": "She spoke with Lord Furness for a few minutes, and then Lady Furness brought her over to see me.",
+      "translation": "تحدثت مع اللورد فيرنيس لبضع دقائق، ثم أحضرتها الليدي فيرنيس لرؤيتي."
+    },
+    {
+      "id": 139,
+      "text": "'Sir, I would like you to meet one of my dearest and sweetest American friends, Mrs Wallis Simpson.'",
+      "translation": "'سيدي، أود أن تلتقي بأحد أعز صديقاتي الأمريكيات وأحلاهن، السيدة واليس سيمبسون'."
+    },
+    {
+      "id": 140,
+      "text": "'How do you do, Mrs Simpson,' I said.",
+      "translation": "قلت: 'كيف حالك يا سيدة سيمبسون'."
+    },
+    {
+      "id": 141,
+      "text": "'Please come and sit down.'",
+      "translation": "'تفضلي بالجلوس'."
+    },
+    {
+      "id": 142,
+      "text": "Lady Furness left us and we began to talk.",
+      "translation": "تركتنا الليدي فيرنيس وبدأنا نتحدث."
+    },
+    {
+      "id": 143,
+      "text": "I could see that Wallis was not feeling very well.",
+      "translation": "لاحظت أن واليس لم تكن تشعر بحالة جيدة."
+    },
+    {
+      "id": 144,
+      "text": "She had a bad cold and her eyes were red.",
+      "translation": "كانت مصابة بنزلة برد شديدة وعيناها حمراوان."
+    },
+    {
+      "id": 145,
+      "text": "'I'm afraid that our English houses aren't very warm,' I said.",
+      "translation": "قلت: 'أخشى أن منازلنا الإنجليزية ليست دافئة جداً'."
+    },
+    {
+      "id": 146,
+      "text": "'We don't have American central heating here.'",
+      "translation": "'ليس لدينا تدفئة مركزية أمريكية هنا'."
+    },
+    {
+      "id": 147,
+      "text": "There was a long silence.",
+      "translation": "كان هناك صمت طويل."
+    },
+    {
+      "id": 148,
+      "text": "Mrs Simpson turned her face and looked out of the window.",
+      "translation": "أدارت السيدة سيمبسون وجهها ونظرت من النافذة."
+    },
+    {
+      "id": 149,
+      "text": "Then she said: 'You have disappointed me, Sir.'",
+      "translation": "ثم قالت: 'لقد خيبت أملي يا سيدي'."
+    },
+    {
+      "id": 150,
+      "text": "'And why is that?' I asked.",
+      "translation": "سألت: 'ولماذا؟'"
+    },
+    {
+      "id": 151,
+      "text": "'Because everybody asks me about American central heating.'",
+      "translation": "'لأن الجميع يسألني عن التدفئة المركزية الأمريكية'."
+    },
+    {
+      "id": 152,
+      "text": "I thought that the Prince of Wales would talk about something more interesting.'",
+      "translation": "كنت أعتقد أن أمير ويلز سيتحدث عن شيء أكثر إثارة للاهتمام'."
+    },
+    {
+      "id": 153,
+      "text": "I began to laugh.",
+      "translation": "بدأت أضحك."
+    },
+    {
+      "id": 154,
+      "text": "'What's the matter, Sir?' Wallis asked.",
+      "translation": "سألت واليس: 'ما الأمر يا سيدي؟'"
+    },
+    {
+      "id": 155,
+      "text": "'Have I said something wrong?'",
+      "translation": "'هل قلت شيئاً خاطئاً؟'"
+    },
+    {
+      "id": 156,
+      "text": "'No,' I replied.",
+      "translation": "أجبت: 'لا'."
+    },
+    {
+      "id": 157,
+      "text": "'I'm laughing because you didn't lie to me.'",
+      "translation": "'أنا أضحك لأنك لم تكذبي عليّ'."
+    },
+    {
+      "id": 158,
+      "text": "You told me the truth.'",
+      "translation": "لقد أخبرتني بالحقيقة'."
+    },
+    {
+      "id": 159,
+      "text": "'But why is that funny?'",
+      "translation": "'لكن لماذا هذا مضحك؟'"
+    },
+    {
+      "id": 160,
+      "text": "Doesn't everybody do that?'",
+      "translation": "ألا يفعل الجميع ذلك؟'"
+    },
+    {
+      "id": 161,
+      "text": "'One day I'll be King of England,' I replied.",
+      "translation": "أجبت: 'يومًا ما سأكون ملك إنجلترا'."
+    },
+    {
+      "id": 162,
+      "text": "'And people are afraid of me.'",
+      "translation": "'والناس يخافون مني'."
+    },
+    {
+      "id": 163,
+      "text": "If I say that the sky is yellow, they say, 'Yes, Sir, you are right'.",
+      "translation": "إذا قلت إن السماء صفراء، يقولون: 'نعم يا سيدي، أنت محق'."
+    },
+    {
+      "id": 164,
+      "text": "If I say that Wednesday is the first day of the week, they say, 'Yes, Sir, you are right'.",
+      "translation": "إذا قلت إن الأربعاء هو أول أيام الأسبوع، يقولون: 'نعم يا سيدي، أنت محق'."
+    },
+    {
+      "id": 165,
+      "text": "And if I say that Scotland is bigger than Canada, they say, 'Yes, Sir, you are right'.",
+      "translation": "وإذا قلت إن اسكتلندا أكبر من كندا، يقولون: 'نعم يا سيدي، أنت محق'."
+    },
+    {
+      "id": 166,
+      "text": "But you told me that I was boring!",
+      "translation": "لكنك أخبرتني أنني ممل!"
+    },
+    {
+      "id": 167,
+      "text": "You told me the truth.",
+      "translation": "لقد أخبرتني بالحقيقة."
+    },
+    {
+      "id": 168,
+      "text": "I like that!'",
+      "translation": "أنا أحب ذلك!'"
+    },
+    {
+      "id": 169,
+      "text": "There was another silence and then Wallis began to laugh.",
+      "translation": "كان هناك صمت آخر ثم بدأت واليس تضحك."
+    },
+    {
+      "id": 170,
+      "text": "'Can I say one more thing, Sir?'",
+      "translation": "'هل يمكنني قول شيء آخر يا سيدي؟'"
+    },
+    {
+      "id": 171,
+      "text": "'Yes, Mrs Simpson, what is it?'",
+      "translation": "'نعم، سيدة سيمبسون، ما هو؟'"
+    },
+    {
+      "id": 172,
+      "text": "'It's your trousers, Sir.'",
+      "translation": "'إنه بنطالك يا سيدي'."
+    },
+    {
+      "id": 173,
+      "text": "'My trousers?'",
+      "translation": "'بنطالي؟'"
+    },
+    {
+      "id": 174,
+      "text": "'Yes, Sir.'",
+      "translation": "'نعم يا سيدي'."
+    },
+    {
+      "id": 175,
+      "text": "They are black and your shoes are brown.",
+      "translation": "إنه أسود وحذاؤك بني."
+    },
+    {
+      "id": 176,
+      "text": "These two colours don't look right together.'",
+      "translation": "هذان اللونان لا يبدوان متناسقين معاً'."
+    },
+    {
+      "id": 177,
+      "text": "I stood up and looked in the mirror.",
+      "translation": "وقفت ونظرت في المرآة."
+    },
+    {
+      "id": 178,
+      "text": "'Yes, Mrs Simpson, you're right.'",
+      "translation": "'نعم، سيدة سيمبسون، أنت محقة'."
+    },
+    {
+      "id": 179,
+      "text": "I look very strange.",
+      "translation": "أبدو غريباً جداً."
+    },
+    {
+      "id": 180,
+      "text": "The next time we meet, I will be better dressed.'",
+      "translation": "في المرة القادمة التي نلتقي فيها، سأكون أفضل ارتداءً'."
+    },
+    {
+      "id": 181,
+      "text": "When lunch was ready, we walked through into the dining room.",
+      "translation": "عندما أصبح الغداء جاهزاً، سِرنا إلى غرفة الطعام."
+    },
+    {
+      "id": 182,
+      "text": "I sat at one end of the table and Wallis sat at the other end.",
+      "translation": "جلست في أحد طرفي الطاولة وجلست واليس في الطرف الآخر."
+    },
+    {
+      "id": 183,
+      "text": "I was watching her very carefully.",
+      "translation": "كنت أراقبها بعناية شديدة."
+    },
+    {
+      "id": 184,
+      "text": "I thought how beautiful her hands were.",
+      "translation": "فكرت كم كانت يداها جميلتين."
+    },
+    {
+      "id": 185,
+      "text": "She began talking to Lady Furness and then, a few minutes later, she turned and smiled at me.",
+      "translation": "بدأت تتحدث مع الليدي فيرنيس ثم، بعد بضع دقائق، استدارت وابتسمت لي."
+    },
+    {
+      "id": 186,
+      "text": "I felt very happy.",
+      "translation": "شعرت بسعادة غامرة."
+    },
+    {
+      "id": 187,
+      "text": "After lunch, Wallis came over to say goodbye.",
+      "translation": "بعد الغداء، جاءت واليس لتودعني."
+    },
+    {
+      "id": 188,
+      "text": "'My husband and I have to leave now, Sir.'",
+      "translation": "'يجب أن أغادر أنا وزوجي الآن يا سيدي'."
+    },
+    {
+      "id": 189,
+      "text": "We're going to another party in London.'",
+      "translation": "سنذهب إلى حفلة أخرى في لندن'."
+    },
+    {
+      "id": 190,
+      "text": "I wanted to speak to her but I could not find the right words.",
+      "translation": "أردت التحدث إليها لكنني لم أجد الكلمات المناسبة."
+    },
+    {
+      "id": 191,
+      "text": "I don't know why.",
+      "translation": "لا أعرف لماذا."
+    },
+    {
+      "id": 192,
+      "text": "We shook hands and Wallis walked away.",
+      "translation": "تصافحنا وابتعدت واليس."
+    },
+    {
+      "id": 193,
+      "text": "I went into the next room and sat down near Lady Furness.",
+      "translation": "ذهبت إلى الغرفة المجاورة وجلست بالقرب من الليدي فيرنيس."
+    },
+    {
+      "id": 194,
+      "text": "'Tell me about Mrs Simpson,' I said.",
+      "translation": "قلت: 'أخبريني عن السيدة سيمبسون'."
+    },
+    {
+      "id": 195,
+      "text": "'What would you like to know?' she asked.",
+      "translation": "سألت: 'ماذا تود أن تعرف؟'"
+    },
+    {
+      "id": 196,
+      "text": "'Everything!' I said.",
+      "translation": "قلت: 'كل شيء!'"
+    },
+    {
+      "id": 197,
+      "text": "'Then perhaps, Sir, you would like to walk in the garden.'",
+      "translation": "'إذن ربما يا سيدي، تود التنزه في الحديقة'."
+    },
+    {
+      "id": 198,
+      "text": "We can talk more freely there.'",
+      "translation": "يمكننا التحدث بحرية أكبر هناك'."
+    },
+    {
+      "id": 199,
+      "text": "We stood up and left the house by the back door.",
+      "translation": "وقفنا وغادرنا المنزل من الباب الخلفي."
+    },
+    {
+      "id": 200,
+      "text": "We walked slowly through the trees, and Lady Furness told me about Wallis...",
+      "translation": "سِرنا ببطء بين الأشجار، وأخبرتني الليدي فيرنيس عن واليس..."
+    },
+    {
+      "id": 201,
+      "text": "This is how Lady Furness described Mrs Simpson's early life to Edward:",
+      "translation": "هكذا وصفت الليدي فيرنيس حياة السيدة سيمبسون المبكرة لإدوارد:"
+    },
+    {
+      "id": 202,
+      "text": "Wallis was born in Baltimore.",
+      "translation": "وُلدت واليس في بالتيمور."
+    },
+    {
+      "id": 203,
+      "text": "She never knew her father.",
+      "translation": "لم تعرف والدها أبداً."
+    },
+    {
+      "id": 204,
+      "text": "He died when she was five months old.",
+      "translation": "توفي عندما كان عمرها خمسة أشهر."
+    },
+    {
+      "id": 205,
+      "text": "But her mother was a strong and loving woman, and Wallis was a happy child.",
+      "translation": "لكن والدتها كانت امرأة قوية ومحبة، وكانت واليس طفلة سعيدة."
+    },
+    {
+      "id": 206,
+      "text": "When she was twenty, she married a man called Winfield Spencer.",
+      "translation": "عندما كان عمرها عشرين عاماً، تزوجت رجلاً يدعى وينفيلد سبنسر."
+    },
+    {
+      "id": 207,
+      "text": "For the first few years, they were happy together.",
+      "translation": "في السنوات الأولى، كانا سعيدين معاً."
+    },
+    {
+      "id": 208,
+      "text": "But one day Winfield lost some money in the street.",
+      "translation": "لكن في أحد الأيام فقد وينفيلد بعض المال في الشارع."
+    },
+    {
+      "id": 209,
+      "text": "He was very angry.",
+      "translation": "كان غاضباً جداً."
+    },
+    {
+      "id": 210,
+      "text": "When he came home, he took a bottle of whisky from a cupboard and began to drink.",
+      "translation": "عندما عاد إلى المنزل، أخذ زجاجة ويسكي من خزانة وبدأ يشرب."
+    },
+    {
+      "id": 211,
+      "text": "That night he hit Wallis in the mouth.",
+      "translation": "في تلك الليلة ضرب واليس على فمها."
+    },
+    {
+      "id": 212,
+      "text": "She screamed and he hit her again.",
+      "translation": "صرخت فضربها مرة أخرى."
+    },
+    {
+      "id": 213,
+      "text": "There was blood on her face and she was shaking like a leaf.",
+      "translation": "كان هناك دم على وجهها وكانت ترتجف مثل ورقة شجر."
+    },
+    {
+      "id": 214,
+      "text": "'Please, Winfield,' she said.",
+      "translation": "قالت: 'أرجوك يا وينفيلد'."
+    },
+    {
+      "id": 215,
+      "text": "'No more.'",
+      "translation": "'لا مزيد من ذلك'."
+    },
+    {
+      "id": 216,
+      "text": "But Winfield took her arm and pulled her up the stairs.",
+      "translation": "لكن وينفيلد أخذ ذراعها وسحبها إلى أعلى الدرج."
+    },
+    {
+      "id": 217,
+      "text": "'You're my prisoner,' he shouted at her, 'and you're not going to leave.'",
+      "translation": "صرخ في وجهها: 'أنت سجينتي، ولن تغادري'."
+    },
+    {
+      "id": 218,
+      "text": "Then he pushed her into the bathroom and locked the door.",
+      "translation": "ثم دفعها إلى الحمام وأغلق الباب."
+    },
+    {
+      "id": 219,
+      "text": "The next morning Wallis went back to her family.",
+      "translation": "في صباح اليوم التالي عادت واليس إلى عائلتها."
+    },
+    {
+      "id": 220,
+      "text": "'I can't stay with him,' she said.",
+      "translation": "قالت: 'لا يمكنني البقاء معه'."
+    },
+    {
+      "id": 221,
+      "text": "'I want a divorce.'",
+      "translation": "'أريد الطلاق'."
+    },
+    {
+      "id": 222,
+      "text": "'Poor Wallis,' Edward said.",
+      "translation": "قال إدوارد: 'واليس المسكينة'."
+    },
+    {
+      "id": 223,
+      "text": "'But what happened next, Lady Furness?'",
+      "translation": "'لكن ماذا حدث بعد ذلك يا ليدي فيرنيس؟'"
+    },
+    {
+      "id": 224,
+      "text": "'Well,' said Lady Furness, 'a few months later she met a fine man called Ernest Simpson.'",
+      "translation": "قالت الليدي فيرنيس: 'حسناً، بعد بضعة أشهر التقت برجل طيب يدعى إرنست سيمبسون'."
+    },
+    {
+      "id": 225,
+      "text": "He's quiet, but interesting.",
+      "translation": "إنه هادئ، لكنه مثير للاهتمام."
+    },
+    {
+      "id": 226,
+      "text": "They got married and they now live in a beautiful flat in the centre of London.'",
+      "translation": "تزوجا ويعيشان الآن في شقة جميلة في وسط لندن'."
+    },
+    {
+      "id": 227,
+      "text": "'And are they happy?' asked Edward.",
+      "translation": "سأل إدوارد: 'وهل هما سعيدان؟'"
+    },
+    {
+      "id": 228,
+      "text": "Lady Furness looked at the Prince and smiled.",
+      "translation": "نظرت الليدي فيرنيس إلى الأمير وابتسمت."
+    },
+    {
+      "id": 229,
+      "text": "'I don't know, Sir,' she said.",
+      "translation": "قالت: 'لا أعرف يا سيدي'."
+    },
+    {
+      "id": 230,
+      "text": "'I don't know.'",
+      "translation": "'لا أعرف'."
+    },
+    {
+      "id": 231,
+      "text": "During the next two years, the Prince saw Wallis once or twice a week.",
+      "translation": "خلال العامين التاليين، كان الأمير يرى واليس مرة أو مرتين في الأسبوع."
+    },
+    {
+      "id": 232,
+      "text": "They had the same friends, and they often met at parties.",
+      "translation": "كان لديهما نفس الأصدقاء، وكثيراً ما كانا يلتقيان في الحفلات."
+    },
+    {
+      "id": 233,
+      "text": "'Mrs Simpson knew a lot about life,' Edward once said.",
+      "translation": "قال إدوارد ذات مرة: 'كانت السيدة سيمبسون تعرف الكثير عن الحياة'."
+    },
+    {
+      "id": 234,
+      "text": "'She loved books, food, people, and travel.'",
+      "translation": "'كانت تحب الكتب والطعام والناس والسفر'."
+    },
+    {
+      "id": 235,
+      "text": "She was very beautiful and her eyes were full of fire.",
+      "translation": "كانت جميلة جداً وعيناها مليئتان بالحيوية."
+    },
+    {
+      "id": 236,
+      "text": "She was friendly and easy to talk to and, after a while, I opened up my heart.",
+      "translation": "كانت ودودة وسهلة التحدث معها، وبعد فترة فتحت لها قلبي."
+    },
+    {
+      "id": 237,
+      "text": "We had no secrets.",
+      "translation": "لم يكن لدينا أسرار."
+    },
+    {
+      "id": 238,
+      "text": "I told her everything.",
+      "translation": "أخبرتها بكل شيء."
+    },
+    {
+      "id": 239,
+      "text": "And that's how it all began.'",
+      "translation": "وهكذا بدأ كل شيء'."
+    },
+    {
+      "id": 240,
+      "text": "'His eyes were always sad,' Wallis said about Edward.",
+      "translation": "قالت واليس عن إدوارد: 'كانت عيناه دائماً حزينتين'."
+    },
+    {
+      "id": 241,
+      "text": "'And sometimes he looked like a child - so young, so quiet, so weak.'",
+      "translation": "'وأحياناً كان يبدو مثل طفل - صغير جداً، هادئ جداً، ضعيف جداً'."
+    },
+    {
+      "id": 242,
+      "text": "He had no real friends.",
+      "translation": "لم يكن لديه أصدقاء حقيقيون."
+    },
+    {
+      "id": 243,
+      "text": "Perhaps people were a little afraid of him.",
+      "translation": "ربما كان الناس يخافون منه قليلاً."
+    },
+    {
+      "id": 244,
+      "text": "But he was a warm and kind man.",
+      "translation": "لكنه كان رجلاً دافئاً وطيباً."
+    },
+    {
+      "id": 245,
+      "text": "When he talked to me, I felt my heart jump.",
+      "translation": "عندما كان يتحدث إليّ، شعرت بقلبي يقفز."
+    },
+    {
+      "id": 246,
+      "text": "I wanted to be alone with him, but I knew that wasn't possible.",
+      "translation": "أردت أن أكون وحدي معه، لكنني علمت أن ذلك غير ممكن."
+    },
+    {
+      "id": 247,
+      "text": "Did the Prince love me in those early days?",
+      "translation": "هل أحبني الأمير في تلك الأيام الأولى؟"
+    },
+    {
+      "id": 248,
+      "text": "No, I don't think so.",
+      "translation": "لا، لا أعتقد ذلك."
+    },
+    {
+      "id": 249,
+      "text": "But each time we met, we just felt closer and closer.'",
+      "translation": "لكن في كل مرة كنا نلتقي فيها، كنا نشعر بأننا أقرب وأقرب'."
+    },
+    {
+      "id": 250,
+      "text": "In June 1933 Edward gave a birthday party for Wallis, and during the next few months he visited the Simpsons' flat in London almost every day.",
+      "translation": "في يونيو 1933، أقام إدوارد حفلة عيد ميلاد لواليس، وخلال الأشهر القليلة التالية كان يزور شقة سيمبسون في لندن كل يوم تقريباً."
+    },
+    {
+      "id": 251,
+      "text": "One evening, the Prince asked Wallis and Ernest to go skiing in Austria.",
+      "translation": "في إحدى الأمسيات، دعا الأمير واليس وإرنست للذهاب للتزلج في النمسا."
+    },
+    {
+      "id": 252,
+      "text": "'I'm sorry, Sir,' Mr Simpson replied.",
+      "translation": "أجاب السيد سيمبسون: 'أنا آسف يا سيدي'."
+    },
+    {
+      "id": 253,
+      "text": "'I have to go to America on business.'",
+      "translation": "'يجب أن أذهب إلى أمريكا في رحلة عمل'."
+    },
+    {
+      "id": 254,
+      "text": "But perhaps Wallis and her aunt can come with you.'",
+      "translation": "لكن ربما يمكن لواليس وخالتها أن تأتيا معك'."
+    },
+    {
+      "id": 255,
+      "text": "'We went to Kitzbuhl as friends,' Wallis wrote later, 'but when we came home, we were in love.'",
+      "translation": "كتبت واليس لاحقاً: 'ذهبنا إلى كيتزبوهل كأصدقاء، لكن عندما عدنا إلى المنزل، كنا في حالة حب'."
+    },
+    {
+      "id": 256,
+      "text": "And a few months later the Prince asked me to marry him.",
+      "translation": "وبعد بضعة أشهر طلب مني الأمير الزواج."
+    },
+    {
+      "id": 257,
+      "text": "It was just like a dream!'",
+      "translation": "كان الأمر أشبه بحلم!'"
+    },
+    {
+      "id": 258,
+      "text": "In January 1936, Edward went to Windsor for a few weeks.",
+      "translation": "في يناير 1936، ذهب إدوارد إلى وندسور لبضعة أسابيع."
+    },
+    {
+      "id": 259,
+      "text": "He was tired of town life and he wanted to work in his garden and ride his horses.",
+      "translation": "كان قد سئم حياة المدينة وأراد العمل في حديقته وركوب خيوله."
+    },
+    {
+      "id": 260,
+      "text": "But then, one afternoon, there was a phone call from Queen Mary.",
+      "translation": "لكن بعد ذلك، في إحدى الأمسيات، جاءت مكالمة هاتفية من الملكة ماري."
+    },
+    {
+      "id": 261,
+      "text": "'Edward,' she said, 'you must come back immediately.'",
+      "translation": "قالت: 'إدوارد، يجب أن تعود فوراً'."
+    },
+    {
+      "id": 262,
+      "text": "Your father is very ill and I think he's going to die.'",
+      "translation": "والدك مريض جداً وأعتقد أنه سيموت'."
+    },
+    {
+      "id": 263,
+      "text": "When Edward arrived, he went straight to his father's room.",
+      "translation": "عندما وصل إدوارد، ذهب مباشرة إلى غرفة والده."
+    },
+    {
+      "id": 264,
+      "text": "He walked to the side of the bed and kissed his father's white face.",
+      "translation": "سار إلى جانب السرير وقبّل وجه والده الشاحب."
+    },
+    {
+      "id": 265,
+      "text": "The King opened his eyes and smiled.",
+      "translation": "فتح الملك عينيه وابتسم."
+    },
+    {
+      "id": 266,
+      "text": "Then he took his son's hand and said: 'Be a good King, Edward.'",
+      "translation": "ثم أخذ يد ابنه وقال: 'كن ملكاً صالحاً يا إدوارد'."
+    },
+    {
+      "id": 267,
+      "text": "And be good to your mother.'",
+      "translation": "وكن لطيفاً مع والدتك'."
+    },
+    {
+      "id": 268,
+      "text": "'Yes, father, I will.'",
+      "translation": "'نعم يا أبي، سأفعل'."
+    },
+    {
+      "id": 269,
+      "text": "The King closed his eyes and did not speak again.",
+      "translation": "أغمض الملك عينيه ولم يتحدث مرة أخرى."
+    },
+    {
+      "id": 270,
+      "text": "Just after midnight he died.",
+      "translation": "بعد منتصف الليل بقليل توفي."
+    },
+    {
+      "id": 271,
+      "text": "Then Queen Mary took Edward's hand and kissed it.",
+      "translation": "ثم أخذت الملكة ماري يد إدوارد وقبلتها."
+    },
+    {
+      "id": 272,
+      "text": "'My child, you are now King,' she said softly.",
+      "translation": "قالت بهدوء: 'يا child، أنت الآن الملك'."
+    },
+    {
+      "id": 273,
+      "text": "'God be with you.'",
+      "translation": "'ليكن الله معك'."
+    },
+    {
+      "id": 274,
+      "text": "His three brothers came to him, one by one, and they each kissed his hand.",
+      "translation": "جاء إخوته الثلاثة إليه، واحداً تلو الآخر، وقبل كل منهم يده."
+    },
+    {
+      "id": 275,
+      "text": "'The King is dead.'",
+      "translation": "'الملك مات'."
+    },
+    {
+      "id": 276,
+      "text": "Long live the King,' they said.",
+      "translation": "قالوا: 'عاش الملك'."
+    },
+    {
+      "id": 277,
+      "text": "At one o'clock Edward left the room to telephone Wallis.",
+      "translation": "في الساعة الواحدة غادر إدوارد الغرفة ليتصل بواليس."
+    },
+    {
+      "id": 278,
+      "text": "'My father is dead,' he said.",
+      "translation": "قال: 'والدي مات'."
+    },
+    {
+      "id": 279,
+      "text": "'I'm so sorry, Sir.'",
+      "translation": "'أنا آسفة جداً يا سيدي'."
+    },
+    {
+      "id": 280,
+      "text": "'I must stay here for a while,' Edward went on.",
+      "translation": "تابع إدوارد: 'يجب أن أبقى هنا لبعض الوقت'."
+    },
+    {
+      "id": 281,
+      "text": "'But I'll phone you at the weekend.'",
+      "translation": "'لكنني سأتصل بك في عطلة نهاية الأسبوع'."
+    },
+    {
+      "id": 282,
+      "text": "Nothing will change between you and me.",
+      "translation": "لن يتغير شيء بيني وبينك."
+    },
+    {
+      "id": 283,
+      "text": "I love you more than ever, and you will be my Queen.'",
+      "translation": "أحبك أكثر من أي وقت مضى، وستكونين ملكتي'."
+    },
+    {
+      "id": 284,
+      "text": "'Let's not talk about that now,' Wallis replied.",
+      "translation": "أجابت واليس: 'دعنا لا نتحدث عن ذلك الآن'."
+    },
+    {
+      "id": 285,
+      "text": "'You must go back to your family.'",
+      "translation": "'يجب أن تعود إلى عائلتك'."
+    },
+    {
+      "id": 286,
+      "text": "'But you are my family, Wallis.'",
+      "translation": "'لكنك عائلتي يا واليس'."
+    },
+    {
+      "id": 287,
+      "text": "You are everything to me.",
+      "translation": "أنت كل شيء بالنسبة لي."
+    },
+    {
+      "id": 288,
+      "text": "Goodnight.",
+      "translation": "تصبحين على خير."
+    },
+    {
+      "id": 289,
+      "text": "Sleep well.'",
+      "translation": "نومي جيداً'."
+    },
+    {
+      "id": 290,
+      "text": "When Wallis put the phone down that night, she suddenly felt afraid.",
+      "translation": "عندما وضعت واليس الهاتف تلك الليلة، شعرت فجأة بالخوف."
+    },
+    {
+      "id": 291,
+      "text": "'Edward is now King,' she thought, 'but what will happen to me?'",
+      "translation": "فكرت: 'إدوارد الآن ملك، لكن ماذا سيحدث لي؟'"
+    },
+    {
+      "id": 292,
+      "text": "In the spring of 1936, Mrs Simpson wrote a letter to her husband.",
+      "translation": "في ربيع عام 1936، كتبت السيدة سيمبسون رسالة إلى زوجها."
+    },
+    {
+      "id": 293,
+      "text": "'Dear Ernest,' she wrote.",
+      "translation": "كتبت: 'عزيزي إرنست'."
+    },
+    {
+      "id": 294,
+      "text": "'You have been very kind to me.'",
+      "translation": "'لقد كنت لطيفاً جداً معي'."
+    },
+    {
+      "id": 295,
+      "text": "You are a good and strong man.",
+      "translation": "أنت رجل صالح وقوي."
+    },
+    {
+      "id": 296,
+      "text": "But I must tell you that our marriage is finished.",
+      "translation": "لكن يجب أن أخبرك أن زواجنا قد انتهى."
+    },
+    {
+      "id": 297,
+      "text": "I am in love with the King and I want a divorce.",
+      "translation": "أنا أحب الملك وأريد الطلاق."
+    },
+    {
+      "id": 298,
+      "text": "Don't be angry.",
+      "translation": "لا تغضب."
+    },
+    {
+      "id": 299,
+      "text": "There is nothing you can do.",
+      "translation": "لا يوجد شيء يمكنك فعله."
+    },
+    {
+      "id": 300,
+      "text": "I'll never forget you, but I have to be free.'",
+      "translation": "لن أنساك أبداً، لكن يجب أن أكون حرة'."
+    },
+    {
+      "id": 301,
+      "text": "Ernest replied immediately: 'Your letter arrived this morning.'",
+      "translation": "رد إرنست فوراً: 'وصلت رسالتك هذا الصباح'."
+    },
+    {
+      "id": 302,
+      "text": "I will do what you ask, but I'll never stop loving you.",
+      "translation": "سأفعل ما تطلبينه، لكنني لن أتوقف عن حبك أبداً."
+    },
+    {
+      "id": 303,
+      "text": "And if you need me, I'll always be here.'",
+      "translation": "وإذا احتجت إليّ، سأكون هنا دائماً'."
+    },
+    {
+      "id": 304,
+      "text": "That night the King and Wallis met at a small restaurant in Piccadilly.",
+      "translation": "في تلك الليلة التقى الملك وواليس في مطعم صغير في بيكاديلي."
+    },
+    {
+      "id": 305,
+      "text": "Edward read Ernest's letter again and again.",
+      "translation": "قرأ إدوارد رسالة إرنست مراراً وتكراراً."
+    },
+    {
+      "id": 306,
+      "text": "'That's wonderful news,' he said.",
+      "translation": "قال: 'هذه أخبار رائعة'."
+    },
+    {
+      "id": 307,
+      "text": "'Nothing can stop us now!'",
+      "translation": "'لا شيء يمكن أن يوقفنا الآن!'"
+    },
+    {
+      "id": 308,
+      "text": "The next day, when Edward came down to breakfast, Gordon Lang, the Archbishop of Canterbury, was waiting for him.",
+      "translation": "في اليوم التالي، عندما نزل إدوارد لتناول الإفطار، كان غوردون لانغ، رئيس أساقفة كانتربري، في انتظاره."
+    },
+    {
+      "id": 309,
+      "text": "'Good morning, Gordon,' the King said.",
+      "translation": "قال الملك: 'صباح الخير يا غوردون'."
+    },
+    {
+      "id": 310,
+      "text": "'How nice to see you again.'",
+      "translation": "'كم هو جميل رؤيتك مرة أخرى'."
+    },
+    {
+      "id": 311,
+      "text": "And what can I do for you?'",
+      "translation": "وماذا يمكنني أن أفعل لك؟'"
+    },
+    {
+      "id": 312,
+      "text": "For a minute the Archbishop said nothing.",
+      "translation": "للدقيقة لم يقل رئيس الأساقفة شيئاً."
+    },
+    {
+      "id": 313,
+      "text": "Then he opened a small black bag and took out three newspapers.",
+      "translation": "ثم فتح حقيبة سوداء صغيرة وأخرج ثلاث صحف."
+    },
+    {
+      "id": 314,
+      "text": "'I have come to see you about Mrs Wallis Simpson,' he began.",
+      "translation": "بدأ قائلاً: 'لقد جئت لرؤيتك بشأن السيدة واليس سيمبسون'."
+    },
+    {
+      "id": 315,
+      "text": "'The newspapers say that you want to marry her.'",
+      "translation": "'تقول الصحف إنك تريد الزواج منها'."
+    },
+    {
+      "id": 316,
+      "text": "Are these stories true, Sir?'",
+      "translation": "هل هذه القصص صحيحة يا سيدي؟'"
+    },
+    {
+      "id": 317,
+      "text": "'Yes, Gordon, Wallis is going to be my wife.'",
+      "translation": "'نعم يا غوردون، واليس ستكون زوجتي'."
+    },
+    {
+      "id": 318,
+      "text": "'But that's not possible,' the Archbishop replied.",
+      "translation": "أجاب رئيس الأساقفة: 'لكن هذا غير ممكن'."
+    },
+    {
+      "id": 319,
+      "text": "'You know what the Church thinks about marriage and divorce.'",
+      "translation": "'أنت تعرف ما تفكر فيه الكنيسة بشأن الزواج والطلاق'."
+    },
+    {
+      "id": 320,
+      "text": "Divorce is wrong in the eyes of God!'",
+      "translation": "الطلاق خطأ في عيني الله!'"
+    },
+    {
+      "id": 321,
+      "text": "Edward smiled and then said: 'Can I ask you some questions about God, Mr Lang?'",
+      "translation": "ابتسم إدوارد ثم قال: 'هل يمكنني أن أسألك بعض الأسئلة عن الله يا سيد لانغ؟'"
+    },
+    {
+      "id": 322,
+      "text": "'Yes, of course, Sir.'",
+      "translation": "'نعم، بالطبع يا سيدي'."
+    },
+    {
+      "id": 323,
+      "text": "'Is God happy when two people fall in love?'",
+      "translation": "'هل يكون الله سعيداً عندما يقع شخصان في الحب؟'"
+    },
+    {
+      "id": 324,
+      "text": "'Yes, Sir, but...'",
+      "translation": "'نعم يا سيدي، لكن...'"
+    },
+    {
+      "id": 325,
+      "text": "'And is God happy when two people fall in love and get married?'",
+      "translation": "'وهل يكون الله سعيداً عندما يقع شخصان في الحب ويتزوجان؟'"
+    },
+    {
+      "id": 326,
+      "text": "'Yes, Sir, but...'",
+      "translation": "'نعم يا سيدي، لكن...'"
+    },
+    {
+      "id": 327,
+      "text": "'And is God happy when two people fall in love, get married, and live happily together?'",
+      "translation": "'وهل يكون الله سعيداً عندما يقع شخصان في الحب، ويتزوجان، ويعيشان معاً بسعادة؟'"
+    },
+    {
+      "id": 328,
+      "text": "'Yes, Sir, but...'",
+      "translation": "'نعم يا سيدي، لكن...'"
+    },
+    {
+      "id": 329,
+      "text": "'Then, Archbishop, Wallis and I will make God very happy.'",
+      "translation": "'إذن، يا رئيس الأساقفة، سأجعل أنا وواليس الله سعيداً جداً'."
+    },
+    {
+      "id": 330,
+      "text": "We are in love, we'll get married, and we'll live together happily!'",
+      "translation": "نحن في حالة حب، وسنتزوج، وسنعيش معاً بسعادة!'"
+    },
+    {
+      "id": 331,
+      "text": "'But you don't understand, Sir,' Mr Lang replied.",
+      "translation": "أجاب السيد لانغ: 'لكنك لا تفهم يا سيدي'."
+    },
+    {
+      "id": 332,
+      "text": "'The Church says that divorce is wrong.'",
+      "translation": "'تقول الكنيسة إن الطلاق خطأ'."
+    },
+    {
+      "id": 333,
+      "text": "Mrs Simpson cannot leave Mr Simpson and then marry you.",
+      "translation": "لا يمكن للسيدة سيمبسون أن تترك السيد سيمبسون ثم تتزوجك."
+    },
+    {
+      "id": 334,
+      "text": "You must forget about her and find another woman.",
+      "translation": "يجب أن تنساها وتجد امرأة أخرى."
+    },
+    {
+      "id": 335,
+      "text": "Please, Sir, I must ask you to think again.'",
+      "translation": "أرجوك يا سيدي، يجب أن أطلب منك التفكير مرة أخرى'."
+    },
+    {
+      "id": 336,
+      "text": "'That is not possible,' Edward said softly.",
+      "translation": "قال إدوارد بهدوء: 'هذا غير ممكن'."
+    },
+    {
+      "id": 337,
+      "text": "'When Wallis is free, I shall marry her.'",
+      "translation": "'عندما تصبح واليس حرة، سأتزوجها'."
+    },
+    {
+      "id": 338,
+      "text": "There was a long silence.",
+      "translation": "كان هناك صمت طويل."
+    },
+    {
+      "id": 339,
+      "text": "The Archbishop looked down at the floor and shook his head.",
+      "translation": "نظر رئيس الأساقفة إلى الأرض وهز رأسه."
+    },
+    {
+      "id": 340,
+      "text": "'You're making a big mistake, Sir,' he said.",
+      "translation": "قال: 'أنت ترتكب خطأً كبيراً يا سيدي'."
+    },
+    {
+      "id": 341,
+      "text": "'The Church is very strong, and we will not have this woman as our Queen!'",
+      "translation": "'الكنيسة قوية جداً، ولن نقبل بهذه المرأة ملكة لنا!'"
+    },
+    {
+      "id": 342,
+      "text": "Suddenly Edward stood up, his face red and angry.",
+      "translation": "فجأة وقف إدوارد، وكان وجهه أحمر وغاضباً."
+    },
+    {
+      "id": 343,
+      "text": "'Thank you for coming,' he said.",
+      "translation": "قال: 'شكراً لحضورك'."
+    },
+    {
+      "id": 344,
+      "text": "'But I have nothing more to say.'",
+      "translation": "'لكن ليس لدي المزيد لأقوله'."
+    },
+    {
+      "id": 345,
+      "text": "And I want to be alone.'",
+      "translation": "وأريد أن أكون وحدي'."
+    },
+    {
+      "id": 346,
+      "text": "The Archbishop stood up to go, but then turned and touched the King's arm.",
+      "translation": "وقف رئيس الأساقفة ليذهب، لكنه استدار ولمس ذراع الملك."
+    },
+    {
+      "id": 347,
+      "text": "'Please, Sir, think again.'",
+      "translation": "'أرجوك يا سيدي، فكر مرة أخرى'."
+    },
+    {
+      "id": 348,
+      "text": "The Church will be against you.'",
+      "translation": "ستكون الكنيسة ضدك'."
+    },
+    {
+      "id": 349,
+      "text": "'I don't care,' Edward replied.",
+      "translation": "أجاب إدوارد: 'لا أهتم'."
+    },
+    {
+      "id": 350,
+      "text": "'I have God on my side, and that is all I need.'",
+      "translation": "'لدي الله في جانبي، وهذا كل ما أحتاجه'."
+    },
+    {
+      "id": 351,
+      "text": "Goodbye, Mr Lang.'",
+      "translation": "وداعاً يا سيد لانغ'."
+    },
+    {
+      "id": 352,
+      "text": "In July and August Wallis and the King sailed the Mediterranean.",
+      "translation": "في يوليو وأغسطس، أبحرت واليس والملك في البحر الأبيض المتوسط."
+    },
+    {
+      "id": 353,
+      "text": "They met Prime Minister Metaxas in Greece, Kemal Ataturk in Turkey, and King Boris in Bulgaria.",
+      "translation": "التقيا برئيس الوزراء ميتاكساس في اليونان، وكمال أتاتورك في تركيا، والملك بوريس في بلغاريا."
+    },
+    {
+      "id": 354,
+      "text": "But that summer is famous for Edward's clothes.",
+      "translation": "لكن ذلك الصيف مشهور بملابس إدوارد."
+    },
+    {
+      "id": 355,
+      "text": "On the journey from Athens to Istanbul, the King took off his shirt to get brown in the sun.",
+      "translation": "في الرحلة من أثينا إلى إسطنبول، خلع الملك قميصه ليتسمر تحت الشمس."
+    },
+    {
+      "id": 356,
+      "text": "It was hot, and ten minutes later he was asleep.",
+      "translation": "كان الجو حاراً، وبعد عشر دقائق كان نائماً."
+    },
+    {
+      "id": 357,
+      "text": "So he did not see the young photographer who was now taking pictures of the King...",
+      "translation": "لذلك لم يرَ المصور الشاب الذي كان يلتقط صوراً للملك الآن..."
+    },
+    {
+      "id": 358,
+      "text": "When Edward returned from the Mediterranean, there was a letter waiting for him.",
+      "translation": "عندما عاد إدوارد من البحر الأبيض المتوسط، كانت هناك رسالة في انتظاره."
+    },
+    {
+      "id": 359,
+      "text": "It was from Mr Albert Thompson of Birmingham, who wrote: 'I saw a picture of you in the newspaper this morning and I felt very angry.'",
+      "translation": "كانت من السيد ألبرت طومسون من برمنغهام، كتب: 'رأيت صورة لك في الصحيفة هذا الصباح وشعرت بغضب شديد'."
+    },
+    {
+      "id": 360,
+      "text": "I have never seen a King dressed as badly as you were!",
+      "translation": "لم أرَ ملكاً يرتدي ملابس سيئة كما كنت ترتدي!"
+    },
+    {
+      "id": 361,
+      "text": "No shirt!",
+      "translation": "لا قميص!"
+    },
+    {
+      "id": 362,
+      "text": "And no tie, no socks, no hat... and in short trousers!",
+      "translation": "ولا ربطة عنق، ولا جوارب، ولا قبعة... وبنطال قصير!"
+    },
+    {
+      "id": 363,
+      "text": "How could you, Sir?'",
+      "translation": "كيف تجرؤ يا سيدي؟'"
+    },
+    {
+      "id": 364,
+      "text": "Edward showed this letter to Stanley Baldwin, the Prime Minister.",
+      "translation": "أظهر إدوارد هذه الرسالة لستانلي بالدوين، رئيس الوزراء."
+    },
+    {
+      "id": 365,
+      "text": "'What do you think of this?' the King asked.",
+      "translation": "سأل الملك: 'ما رأيك في هذا؟'"
+    },
+    {
+      "id": 366,
+      "text": "'Mr Thompson is right, Sir,' the Prime Minister replied.",
+      "translation": "أجاب رئيس الوزراء: 'السيد طومسون محق يا سيدي'."
+    },
+    {
+      "id": 367,
+      "text": "'You want to be modern, but the people don't like it.'",
+      "translation": "'تريد أن تكون عصرياً، لكن الناس لا يحبون ذلك'."
+    },
+    {
+      "id": 368,
+      "text": "Edward put the letter on the fire.",
+      "translation": "وضع إدوارد الرسالة على النار."
+    },
+    {
+      "id": 369,
+      "text": "'And do you think that divorce is 'modern', Mr Baldwin?'",
+      "translation": "'وهل تعتقد أن الطلاق 'عصري' يا سيد بالدوين؟'"
+    },
+    {
+      "id": 370,
+      "text": "The Prime Minister sat down.",
+      "translation": "جلس رئيس الوزراء."
+    },
+    {
+      "id": 371,
+      "text": "'Yes, Sir,' he began, 'I've read about this Mrs Simpson.'",
+      "translation": "بدأ قائلاً: 'نعم يا سيدي، لقد قرأت عن هذه السيدة سيمبسون'."
+    },
+    {
+      "id": 372,
+      "text": "She has two husbands still alive.",
+      "translation": "لديها زوجان لا يزالان على قيد الحياة."
+    },
+    {
+      "id": 373,
+      "text": "And you must understand what that means, Sir.",
+      "translation": "ويجب أن تفهم ما يعنيه ذلك يا سيدي."
+    },
+    {
+      "id": 374,
+      "text": "She cannot marry a King.'",
+      "translation": "لا يمكنها الزواج من ملك'."
+    },
+    {
+      "id": 375,
+      "text": "'But I cannot live without her,' Edward said.",
+      "translation": "قال إدوارد: 'لكنني لا أستطيع العيش بدونها'."
+    },
+    {
+      "id": 376,
+      "text": "'Then, Sir,' the Prime Minister replied, 'I can see there's a storm coming.'",
+      "translation": "أجاب رئيس الوزراء: 'إذن يا سيدي، أستطيع أن أرى أن هناك عاصفة قادمة'."
+    },
+    {
+      "id": 377,
+      "text": "I have talked to your family and to Archbishop Lang, and we will not have this woman as our Queen.'",
+      "translation": "لقد تحدثت مع عائلتك ومع رئيس الأساقفة لانغ، ولن نقبل بهذه المرأة ملكة لنا'."
+    },
+    {
+      "id": 378,
+      "text": "That night the Prime Minister and the King spoke for many hours.",
+      "translation": "في تلك الليلة تحدث رئيس الوزراء والملك لساعات عديدة."
+    },
+    {
+      "id": 379,
+      "text": "There were hundreds of questions, but only one answer.",
+      "translation": "كان هناك مئات الأسئلة، لكن إجابة واحدة فقط."
+    },
+    {
+      "id": 380,
+      "text": "And so, in the early hours of the next morning, Edward said:",
+      "translation": "وهكذا، في الساعات الأولى من صباح اليوم التالي، قال إدوارد:"
+    },
+    {
+      "id": 381,
+      "text": "'You tell me that Wallis cannot marry a King.'",
+      "translation": "'أنت تخبرني أن واليس لا يمكنها الزواج من ملك'."
+    },
+    {
+      "id": 382,
+      "text": "So there is only one thing that I can do.",
+      "translation": "لذلك هناك شيء واحد فقط يمكنني فعله."
+    },
+    {
+      "id": 383,
+      "text": "I will give the crown to my brother, and leave England.",
+      "translation": "سأعطي التاج لأخي، وأغادر إنجلترا."
+    },
+    {
+      "id": 384,
+      "text": "I must follow my heart.",
+      "translation": "يجب أن أتبع قلبي."
+    },
+    {
+      "id": 385,
+      "text": "You tell me that it's a crime to fall in love.",
+      "translation": "أنت تخبرني أن الوقوع في الحب جريمة."
+    },
+    {
+      "id": 386,
+      "text": "You tell me that it's wrong to be happy.",
+      "translation": "أنت تخبرني أن يكون المرء سعيداً خطأ."
+    },
+    {
+      "id": 387,
+      "text": "How strange this country is!'",
+      "translation": "كم هذا البلد غريب!'"
+    },
+    {
+      "id": 388,
+      "text": "An hour later Edward telephoned Wallis.",
+      "translation": "بعد ساعة اتصل إدوارد بواليس."
+    },
+    {
+      "id": 389,
+      "text": "'The Prime Minister says that a storm is coming,' Edward said.",
+      "translation": "قال إدوارد: 'يقول رئيس الوزراء إن عاصفة قادمة'."
+    },
+    {
+      "id": 390,
+      "text": "'So I want you to go away.'",
+      "translation": "'لذلك أريدك أن تذهبي بعيداً'."
+    },
+    {
+      "id": 391,
+      "text": "Wallis packed her bags and left for France.",
+      "translation": "حزمت واليس حقائبها وغادرت إلى فرنسا."
+    },
+    {
+      "id": 392,
+      "text": "Then Edward went to see his mother.",
+      "translation": "ثم ذهب إدوارد لرؤية والدته."
+    },
+    {
+      "id": 393,
+      "text": "It was a sad, strange, and angry meeting.",
+      "translation": "كان لقاءً حزيناً وغريباً وغاضباً."
+    },
+    {
+      "id": 394,
+      "text": "'Do you know what you are doing?' the Queen asked.",
+      "translation": "سألت الملكة: 'هل تعرف ما تفعله؟'"
+    },
+    {
+      "id": 395,
+      "text": "'Look out of that window.'",
+      "translation": "'انظر من تلك النافذة'."
+    },
+    {
+      "id": 396,
+      "text": "Outside this palace there are 400,000,000 people who call you King.",
+      "translation": "خارج هذا القصر هناك 400,000,000 شخص يسمونك ملكاً."
+    },
+    {
+      "id": 397,
+      "text": "They need you.",
+      "translation": "إنهم يحتاجون إليك."
+    },
+    {
+      "id": 398,
+      "text": "And you will leave all this for Mrs Simpson?'",
+      "translation": "وهل ستترك كل هذا من أجل السيدة سيمبسون؟'"
+    },
+    {
+      "id": 399,
+      "text": "'Yes, mother, I will.'",
+      "translation": "'نعم يا أمي، سأفعل'."
+    },
+    {
+      "id": 400,
+      "text": "I'm in love.'",
+      "translation": "أنا واقع في الحب'."
+    },
+    {
+      "id": 401,
+      "text": "'Love?' Queen Mary shouted.",
+      "translation": "صرخت الملكة ماري: 'حب؟'"
+    },
+    {
+      "id": 402,
+      "text": "'You're a King!'",
+      "translation": "'أنت ملك!'"
+    },
+    {
+      "id": 403,
+      "text": "You must love your country first!'",
+      "translation": "يجب أن تحب بلدك أولاً!'"
+    },
+    {
+      "id": 404,
+      "text": "'But I'm also a man,' Edward said softly, 'and there's nothing that I can do.'",
+      "translation": "قال إدوارد بهدوء: 'لكنني رجل أيضاً، ولا يوجد شيء يمكنني فعله'."
+    },
+    {
+      "id": 405,
+      "text": "That afternoon the King telephoned Winston Churchill, one of his closest friends.",
+      "translation": "بعد ظهر ذلك اليوم، اتصل الملك بوينستون تشرشل، أحد أقرب أصدقائه."
+    },
+    {
+      "id": 406,
+      "text": "'I have some sad news,' Edward began.",
+      "translation": "بدأ إدوارد: 'لدي بعض الأخبار الحزينة'."
+    },
+    {
+      "id": 407,
+      "text": "'Last night Mr Baldwin came to see me.'",
+      "translation": "'الليلة الماضية جاء السيد بالدوين لرؤيتي'."
+    },
+    {
+      "id": 408,
+      "text": "I have decided to go away next week.'",
+      "translation": "لقد قررت الرحيل الأسبوع المقبل'."
+    },
+    {
+      "id": 409,
+      "text": "'Do you mean on holiday, Sir?'",
+      "translation": "'هل تقصد في عطلة يا سيدي؟'"
+    },
+    {
+      "id": 410,
+      "text": "'No, Winston, I'm leaving England.'",
+      "translation": "'لا يا وينستون، أنا أغادر إنجلترا'."
+    },
+    {
+      "id": 411,
+      "text": "I'm never coming back.",
+      "translation": "لن أعود أبداً."
+    },
+    {
+      "id": 412,
+      "text": "George will be King.'",
+      "translation": "سيكون جورج هو الملك'."
+    },
+    {
+      "id": 413,
+      "text": "'But that's not right, Sir.'",
+      "translation": "'لكن هذا ليس صواباً يا سيدي'."
+    },
+    {
+      "id": 414,
+      "text": "You're a free man.",
+      "translation": "أنت رجل حر."
+    },
+    {
+      "id": 415,
+      "text": "You must stand and fight.'",
+      "translation": "يجب أن تقف وتقاتل'."
+    },
+    {
+      "id": 416,
+      "text": "'No,' the King said.",
+      "translation": "قال الملك: 'لا'."
+    },
+    {
+      "id": 417,
+      "text": "'I have seen war and it's a terrible thing.'",
+      "translation": "'لقد رأيت الحرب وهي شيء فظيع'."
+    },
+    {
+      "id": 418,
+      "text": "I don't want to fight again.'",
+      "translation": "لا أريد القتال مرة أخرى'."
+    },
+    {
+      "id": 419,
+      "text": "'But the people love you.'",
+      "translation": "'لكن الناس يحبونك'."
+    },
+    {
+      "id": 420,
+      "text": "And they want Wallis to be Queen.'",
+      "translation": "ويريدون أن تكون واليس ملكة'."
+    },
+    {
+      "id": 421,
+      "text": "'Perhaps they do,' Edward replied.",
+      "translation": "أجاب إدوارد: 'ربما يفعلون'."
+    },
+    {
+      "id": 422,
+      "text": "'But she cannot be Queen.'",
+      "translation": "'لكنها لا تستطيع أن تكون ملكة'."
+    },
+    {
+      "id": 423,
+      "text": "My enemies are stronger than I am.",
+      "translation": "أعدائي أقوى مني
