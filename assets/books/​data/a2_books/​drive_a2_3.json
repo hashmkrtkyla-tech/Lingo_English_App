@@ -1,14 +1,468 @@
 {
-  "id": "a2_drive_3",
-  "title": "A2 Elementary Story 3",
+  "id": "a2_footprints_in_the_snow",
+  "title": "Footprints in the Snow",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1ujkRoUjk8tvxYn6VNgxyr4OlIaeYMmx-",
+  "audio_url": "assets/books/audio/a2_books/Footprints_in_the_Snow-Lesley_Thompson.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Practice listening every day to improve your fluency.",
-      "translation": "تمارَن على الاستماع يومياً لتحسين طلقتك."
+      "id": 1,
+      "text": "My name's Sally.",
+      "translation": "اسمي سالي."
+    },
+    {
+      "id": 2,
+      "text": "When I was fourteen years old, my family and I lived in an old house near the hills in New Zealand.",
+      "translation": "عندما كان عمري أربعة عشر عاماً، عشت أنا وعائلتي في منزل قديم بالقرب من التلال في نيوزيلندا."
+    },
+    {
+      "id": 3,
+      "text": "There was me, Mum, Dad, my brother Richard, and my Gran.",
+      "translation": "كان هناك أنا، وأمي، وأبي، وأخي ريتشارد، وجدتي."
+    },
+    {
+      "id": 4,
+      "text": "My Gran was old - nearly eighty-two years old - and sometimes she told us strange stories.",
+      "translation": "كانت جدتي عجوزاً - تقرب من الثانية والثمانين - وأحياناً كانت تحكي لنا قصصاً غريبة."
+    },
+    {
+      "id": 5,
+      "text": "She loved talking about our grandfather, George.",
+      "translation": "كانت تحب التحدث عن جدنا، جورج."
+    },
+    {
+      "id": 6,
+      "text": "He died before I was born.",
+      "translation": "توفي قبل أن أولد."
+    },
+    {
+      "id": 7,
+      "text": "'He's always here with us,' she told me.",
+      "translation": "قالت لي: 'إنه دائماً هنا معنا'."
+    },
+    {
+      "id": 8,
+      "text": "'I sometimes hear him at night.'",
+      "translation": "'أسمعه أحياناً في الليل'."
+    },
+    {
+      "id": 9,
+      "text": "He walks about in the garden.'",
+      "translation": "إنه يتجول في الحديقة.'"
+    },
+    {
+      "id": 10,
+      "text": "Of course, I didn't believe her stories.",
+      "translation": "بالطبع، لم أصدق قصصها."
+    },
+    {
+      "id": 11,
+      "text": "'How do you know?' I asked her.",
+      "translation": "سألتها: 'كيف تعرفين؟'"
+    },
+    {
+      "id": 12,
+      "text": "'Perhaps it's an animal.'",
+      "translation": "'ربما يكون حيواناً'."
+    },
+    {
+      "id": 13,
+      "text": "'Because I can see his footprints,' Gran told me.",
+      "translation": "أخبرتني جدتي: 'لأنني أستطيع رؤية آثاره'."
+    },
+    {
+      "id": 14,
+      "text": "'George had very big feet.'",
+      "translation": "'كان لدى جورج قدمان كبيرتان جداً'."
+    },
+    {
+      "id": 15,
+      "text": "We always laughed about his big feet.'",
+      "translation": "كنا دائماً نضحك على قدميه الكبيرتين.'"
+    },
+    {
+      "id": 16,
+      "text": "But we never saw the footprints.",
+      "translation": "لكننا لم نرَ الآثار أبداً."
+    },
+    {
+      "id": 17,
+      "text": "'She's old and she can't see very well,' we all thought.",
+      "translation": "فكرنا جميعاً: 'إنها عجوز ولا تستطيع الرؤية جيداً'."
+    },
+    {
+      "id": 18,
+      "text": "When winter came, there was snow everywhere, and it was very cold.",
+      "translation": "عندما جاء الشتاء، كان الثلج في كل مكان، وكان الجو بارداً جداً."
+    },
+    {
+      "id": 19,
+      "text": "One morning I went to the kitchen to make breakfast.",
+      "translation": "في إحدى الصباحات ذهبت إلى المطبخ لإعداد الإفطار."
+    },
+    {
+      "id": 20,
+      "text": "But when I opened the kitchen door and walked into the room, I screamed.",
+      "translation": "لكن عندما فتحت باب المطبخ ودخلت الغرفة، صرخت."
+    },
+    {
+      "id": 21,
+      "text": "There were things all over the floor, and the kitchen window and the fridge door were open.",
+      "translation": "كانت هناك أشياء في كل مكان على الأرض، وكانت نافذة المطبخ وباب الثلاجة مفتوحين."
+    },
+    {
+      "id": 22,
+      "text": "Mum came into the kitchen after me.",
+      "translation": "جاءت أمي إلى المطبخ بعدي."
+    },
+    {
+      "id": 23,
+      "text": "'Oh, dear! What's this?' she said.",
+      "translation": "قالت: 'أوه، عزيزي! ما هذا؟'"
+    },
+    {
+      "id": 24,
+      "text": "She called Dad.",
+      "translation": "نادت أبي."
+    },
+    {
+      "id": 25,
+      "text": "'Look at all this! Who did it?'",
+      "translation": "'انظر إلى كل هذا! من فعل هذا؟'"
+    },
+    {
+      "id": 26,
+      "text": "'Perhaps it was the children,' Dad said, and he looked at me.",
+      "translation": "قال أبي: 'ربما كان الأطفال'، ونظر إليّ."
+    },
+    {
+      "id": 27,
+      "text": "'Don't look at me, Dad. I was in bed!' I said.",
+      "translation": "قلت: 'لا تنظر إليّ يا أبي. كنت في السرير!'"
+    },
+    {
+      "id": 28,
+      "text": "Just then, Gran walked into the kitchen.",
+      "translation": "في تلك اللحظة، دخلت جدتي إلى المطبخ."
+    },
+    {
+      "id": 29,
+      "text": "'Good morning, everybody. I - Oh! What's all this?'",
+      "translation": "'صباح الخير للجميع. أنا - أوه! ما كل هذا؟'"
+    },
+    {
+      "id": 30,
+      "text": "Everybody helped to put away the kitchen things.",
+      "translation": "ساعد الجميع في ترتيب أدوات المطبخ."
+    },
+    {
+      "id": 31,
+      "text": "When we finished, Dad looked in the fridge for something to eat.",
+      "translation": "عندما انتهينا، بحث أبي في الثلاجة عن شيء ليأكله."
+    },
+    {
+      "id": 32,
+      "text": "'Look at this!' he said.",
+      "translation": "قال: 'انظروا إلى هذا!'"
+    },
+    {
+      "id": 33,
+      "text": "Everything in the fridge was suddenly old and bad.",
+      "translation": "كل شيء في الثلاجة أصبح فجأة قديماً وفاسداً."
+    },
+    {
+      "id": 34,
+      "text": "The milk was yellow and the bread was green.",
+      "translation": "كان الحليب أصفر والخبز أخضر."
+    },
+    {
+      "id": 35,
+      "text": "'I don't believe it!' said Mum.",
+      "translation": "قالت أمي: 'لا أصدق هذا!'"
+    },
+    {
+      "id": 36,
+      "text": "'It was OK yesterday. What is happening?'",
+      "translation": "'كان بخير أمس. ماذا يحدث؟'"
+    },
+    {
+      "id": 37,
+      "text": "That night, we were all very tired and everybody went to bed early.",
+      "translation": "في تلك الليلة، كنا جميعاً متعبين جداً وذهب الجميع إلى السرير مبكراً."
+    },
+    {
+      "id": 38,
+      "text": "It was not a good night.",
+      "translation": "لم تكن ليلة جيدة."
+    },
+    {
+      "id": 39,
+      "text": "At three o'clock in the morning, my brother Richard ran into my room.",
+      "translation": "في الساعة الثالثة صباحاً، ركض أخي ريتشارد إلى غرفتي."
+    },
+    {
+      "id": 40,
+      "text": "'Come quickly!' he cried. 'There's somebody in my room!'",
+      "translation": "صرخ: 'تعالي بسرعة! هناك شخص ما في غرفتي!'"
+    },
+    {
+      "id": 41,
+      "text": "I ran after him, and Mum and Dad followed.",
+      "translation": "ركضت خلفه، وتبعنا أمي وأبي."
+    },
+    {
+      "id": 42,
+      "text": "Richard's room looked bad.",
+      "translation": "بدت غرفة ريتشارد سيئة."
+    },
+    {
+      "id": 43,
+      "text": "His computer was on the floor and his books were everywhere.",
+      "translation": "كان حاسوبه على الأرض وكتبه في كل مكان."
+    },
+    {
+      "id": 44,
+      "text": "'I heard somebody in my room, Dad,' said Richard.",
+      "translation": "قال ريتشارد: 'سمعت شخصاً ما في غرفتي يا أبي'."
+    },
+    {
+      "id": 45,
+      "text": "'They took all the things off my table and put them on the floor!'",
+      "translation": "'أخذوا كل الأشياء من على طاولتي ووضعوها على الأرض!'"
+    },
+    {
+      "id": 46,
+      "text": "'I'm going to phone the police,' said Dad.",
+      "translation": "قال أبي: 'سأتصل بالشرطة'."
+    },
+    {
+      "id": 47,
+      "text": "'Perhaps there are some bad people in the hills near our house.'",
+      "translation": "'ربما هناك بعض الأشخاص السيئين في التلال القريبة من منزلنا'."
+    },
+    {
+      "id": 48,
+      "text": "But, when the police came, they didn't know about any bad people in the hills.",
+      "translation": "لكن عندما جاءت الشرطة، لم تكن تعرف عن أي أشخاص سيئين في التلال."
+    },
+    {
+      "id": 49,
+      "text": "Nothing strange happened for two days.",
+      "translation": "لم يحدث شيء غريب لمدة يومين."
+    },
+    {
+      "id": 50,
+      "text": "But on the third day, the radio began to make unusual noises.",
+      "translation": "لكن في اليوم الثالث، بدأ الراديو يصدر أصواتاً غير عادية."
+    },
+    {
+      "id": 51,
+      "text": "Then the TV broke down.",
+      "translation": "ثم تعطل التلفزيون."
+    },
+    {
+      "id": 52,
+      "text": "And when we all sat down for dinner, the lights suddenly went out.",
+      "translation": "وعندما جلسنا جميعاً لتناول العشاء، انطفأت الأضواء فجأة."
+    },
+    {
+      "id": 53,
+      "text": "Mum screamed, but Dad got angry.",
+      "translation": "صرخت أمي، لكن أبي غضب."
+    },
+    {
+      "id": 54,
+      "text": "'What is going on?' he asked.",
+      "translation": "سأل: 'ما الذي يحدث؟'"
+    },
+    {
+      "id": 55,
+      "text": "'Perhaps it's George,' said Gran.",
+      "translation": "قالت جدتي: 'ربما يكون جورج'."
+    },
+    {
+      "id": 56,
+      "text": "'Oh, Gran,' said Dad. 'We don't believe in ghosts.'",
+      "translation": "قال أبي: 'أوه، جدتي. نحن لا نؤمن بالأشباح'."
+    },
+    {
+      "id": 57,
+      "text": "Later that night, I heard some very strange noises.",
+      "translation": "في وقت لاحق من تلك الليلة، سمعت بعض الأصوات الغريبة جداً."
+    },
+    {
+      "id": 58,
+      "text": "They came from the living room.",
+      "translation": "جاءت من غرفة الجلوس."
+    },
+    {
+      "id": 59,
+      "text": "'Somebody's moving the table and chairs,' I thought.",
+      "translation": "فكرت: 'شخص ما يحرك الطاولة والكراسي'."
+    },
+    {
+      "id": 60,
+      "text": "Quickly, I went into Richard's room.",
+      "translation": "بسرعة، ذهبت إلى غرفة ريتشارد."
+    },
+    {
+      "id": 61,
+      "text": "'Listen,' I said. 'Someone's downstairs.'",
+      "translation": "قلت: 'اسمع. هناك شخص في الطابق السفلي'."
+    },
+    {
+      "id": 62,
+      "text": "We ran down to the living room and opened the door.",
+      "translation": "ركضنا إلى غرفة الجلوس وفتحنا الباب."
+    },
+    {
+      "id": 63,
+      "text": "Nobody was there.",
+      "translation": "لم يكن هناك أحد."
+    },
+    {
+      "id": 64,
+      "text": "But the chairs were all up on the table, the pictures, the radio and the TV were all on the floor, and the door to the garden was open.",
+      "translation": "لكن الكراسي كانت كلها على الطاولة، والصور والراديو والتلفزيون كانت كلها على الأرض، وكان باب الحديقة مفتوحاً."
+    },
+    {
+      "id": 65,
+      "text": "Mum, Dad and Gran soon came downstairs, too.",
+      "translation": "سرعان ما نزلت أمي وأبي وجدتي أيضاً."
+    },
+    {
+      "id": 66,
+      "text": "'Someone's in the garden,' said Dad.",
+      "translation": "قال أبي: 'هناك شخص في الحديقة'."
+    },
+    {
+      "id": 67,
+      "text": "'I'm going after him.'",
+      "translation": "'سأذهب خلفه'."
+    },
+    {
+      "id": 68,
+      "text": "'Be careful!' called Mum.",
+      "translation": "نادت أمي: 'كن حذراً!'"
+    },
+    {
+      "id": 69,
+      "text": "The lights went out again, and there were more strange noises.",
+      "translation": "انطفأت الأضواء مرة أخرى، وكانت هناك المزيد من الأصوات الغريبة."
+    },
+    {
+      "id": 70,
+      "text": "We were all very scared by now.",
+      "translation": "كنا جميعاً خائفين جداً الآن."
+    },
+    {
+      "id": 71,
+      "text": "'Follow Dad!' Mum screamed.",
+      "translation": "صرخت أمي: 'اتبعوا أبيكم!'"
+    },
+    {
+      "id": 72,
+      "text": "So we all ran out into the garden.",
+      "translation": "فركضنا جميعاً إلى الحديقة."
+    },
+    {
+      "id": 73,
+      "text": "Just then, the ground began to move under our feet.",
+      "translation": "في تلك اللحظة، بدأت الأرض تتحرك تحت أقدامنا."
+    },
+    {
+      "id": 74,
+      "text": "Then there was a very big noise.",
+      "translation": "ثم كان هناك صوت كبير جداً."
+    },
+    {
+      "id": 75,
+      "text": "'It's an earthquake!' screamed Dad.",
+      "translation": "صرخ أبي: 'إنه زلزال!'"
+    },
+    {
+      "id": 76,
+      "text": "The ground moved again and again.",
+      "translation": "تحركت الأرض مراراً وتكراراً."
+    },
+    {
+      "id": 77,
+      "text": "We stopped running and looked back at our house.",
+      "translation": "توقفنا عن الجري ونظرنا إلى منزلنا."
+    },
+    {
+      "id": 78,
+      "text": "It suddenly fell to the ground in front of our eyes.",
+      "translation": "سقط فجأة على الأرض أمام أعيننا."
+    },
+    {
+      "id": 79,
+      "text": "After the earthquake finished, we all stood quietly for some minutes.",
+      "translation": "بعد انتهاء الزلزال، وقفنا جميعاً بهدوء لبعض الدقائق."
+    },
+    {
+      "id": 80,
+      "text": "Then Gran spoke.",
+      "translation": "ثم تحدثت جدتي."
+    },
+    {
+      "id": 81,
+      "text": "'Well, we lost our house, but we're all alive!' she said quietly.",
+      "translation": "قالت بهدوء: 'حسناً، لقد فقدنا منزلنا، لكننا جميعاً أحياء!'"
+    },
+    {
+      "id": 82,
+      "text": "'It was George. He helped us.'",
+      "translation": "'كان جورج. لقد ساعدنا'."
+    },
+    {
+      "id": 83,
+      "text": "'He took us out of the house.'",
+      "translation": "'لقد أخرجنا من المنزل'."
+    },
+    {
+      "id": 84,
+      "text": "Look, there are his footprints in the snow.'",
+      "translation": "انظروا، هناك آثاره في الثلج.'"
+    },
+    {
+      "id": 85,
+      "text": "We all looked down at the ground.",
+      "translation": "نظرنا جميعاً إلى الأرض."
+    },
+    {
+      "id": 86,
+      "text": "It was dark, but we could see some footprints in the snow.",
+      "translation": "كان الجو مظلماً، لكننا استطعنا رؤية بعض الآثار في الثلج."
+    },
+    {
+      "id": 87,
+      "text": "They were the footprints of very big feet.",
+      "translation": "كانت آثار أقدام كبيرة جداً."
+    },
+    {
+      "id": 88,
+      "text": "'Thank you, Grandad,' I said quietly.",
+      "translation": "قلت بهدوء: 'شكراً لك يا جدي'."
+    },
+    {
+      "id": 89,
+      "text": "'Thank you for helping us.'",
+      "translation": "'شكراً لمساعدتنا'."
+    },
+    {
+      "id": 90,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 91,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 92,
+      "text": "Come back to https://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى https://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
