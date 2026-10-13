@@ -1,14 +1,1067 @@
-{
-  "id": "a2_drive_12",
-  "title": "A2 Elementary Story 12",
-  "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=14R6JEpm9vxhHLJFQJpXTwXckzzi6b69D",
-  "sentences": [
-    {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Congratulations on completing the A2 level collection.",
-      "translation": "تهانينا على إكمال مجموعة المستوى A2."
-    }
-  ]
-}
+"sentences": [
+  {
+    "id": 424,
+    "text": "I am just a sailor.",
+    "translation": "أنا مجرد بحار."
+  },
+  {
+    "id": 425,
+    "text": "And when the winds change, the sea moves and it takes my boat away.'",
+    "translation": "وعندما تتغير الرياح، يتحرك البحر ويأخذ قاربي بعيداً.'"
+  },
+  {
+    "id": 426,
+    "text": "A few days later Mr Churchill came to see Edward at Buckingham Palace.",
+    "translation": "بعد بضعة أيام جاء السيد تشرشل لرؤية إدوارد في قصر باكنغهام."
+  },
+  {
+    "id": 427,
+    "text": "At first, the King was quiet.",
+    "translation": "في البداية، كان الملك هادئاً."
+  },
+  {
+    "id": 428,
+    "text": "Then he said: 'This is my last night in England, Winston.'",
+    "translation": "ثم قال: 'هذه ليلتي الأخيرة في إنجلترا يا وينستون'."
+  },
+  {
+    "id": 429,
+    "text": "I love this country.",
+    "translation": "أنا أحب هذا البلد."
+  },
+  {
+    "id": 430,
+    "text": "I wanted to be a modern, kind King.",
+    "translation": "أردت أن أكون ملكاً عصرياً وطيباً."
+  },
+  {
+    "id": 431,
+    "text": "I wanted to change the world, but they stopped me.",
+    "translation": "أردت تغيير العالم، لكنهم أوقفوني."
+  },
+  {
+    "id": 432,
+    "text": "And now I have to leave.'",
+    "translation": "والآن يجب أن أرحل.'"
+  },
+  {
+    "id": 433,
+    "text": "It was ten o'clock.",
+    "translation": "كانت الساعة العاشرة."
+  },
+  {
+    "id": 434,
+    "text": "Edward stood up and walked over to the window.",
+    "translation": "وقف إدوارد وسار نحو النافذة."
+  },
+  {
+    "id": 435,
+    "text": "In the dark streets below there were hundreds of people.",
+    "translation": "في الشوارع المظلمة بالأسفل كان هناك مئات الأشخاص."
+  },
+  {
+    "id": 436,
+    "text": "They were singing and calling his name: 'Edward, Edward, we love Edward!' they shouted.",
+    "translation": "كانوا يغنون وينادون باسمه: 'إدوارد، إدوارد، نحب إدوارد!' صرخوا."
+  },
+  {
+    "id": 437,
+    "text": "'Long live the King!'",
+    "translation": "'عاش الملك!'"
+  },
+  {
+    "id": 438,
+    "text": "'Long live love!'",
+    "translation": "'عاش الحب!'"
+  },
+  {
+    "id": 439,
+    "text": "Suddenly the King turned to Mr Churchill.",
+    "translation": "فجأة استدار الملك نحو السيد تشرشل."
+  },
+  {
+    "id": 440,
+    "text": "'Why is this happening to me, Winston?' he cried.",
+    "translation": "صرخ: 'لماذا يحدث هذا لي يا وينستون؟'"
+  },
+  {
+    "id": 441,
+    "text": "'What have I done wrong?'",
+    "translation": "'ما الخطأ الذي فعلته؟'"
+  },
+  {
+    "id": 442,
+    "text": "He sat down and put his head in his hands.",
+    "translation": "جلس ووضع رأسه في يديه."
+  },
+  {
+    "id": 443,
+    "text": "There was a silence in the room, but through the open window came the shouting from the street.",
+    "translation": "كان هناك صمت في الغرفة، لكن من خلال النافذة المفتوحة جاء الصراخ من الشارع."
+  },
+  {
+    "id": 444,
+    "text": "'Long live Edward!'",
+    "translation": "'عاش إدوارد!'"
+  },
+  {
+    "id": 445,
+    "text": "'Long live love!'",
+    "translation": "'عاش الحب!'"
+  },
+  {
+    "id": 446,
+    "text": "'Long live Edward!'",
+    "translation": "'عاش إدوارد!'"
+  },
+  {
+    "id": 447,
+    "text": "'Long live love!'",
+    "translation": "'عاش الحب!'"
+  },
+  {
+    "id": 448,
+    "text": "Mr Churchill came over and put his hand on the King's arm.",
+    "translation": "جاء السيد تشرشل ووضع يده على ذراع الملك."
+  },
+  {
+    "id": 449,
+    "text": "Edward looked up.",
+    "translation": "رفع إدوارد رأسه."
+  },
+  {
+    "id": 450,
+    "text": "'Thank you, Winston,' he said.",
+    "translation": "قال: 'شكراً لك يا وينستون'."
+  },
+  {
+    "id": 451,
+    "text": "'You were a good friend to me.'",
+    "translation": "'كنت صديقاً جيداً لي'."
+  },
+  {
+    "id": 452,
+    "text": "'Thank you, Sir.'",
+    "translation": "'شكراً لك يا سيدي'."
+  },
+  {
+    "id": 453,
+    "text": "'And you were a good King.'",
+    "translation": "'وكنت ملكاً صالحاً'."
+  },
+  {
+    "id": 454,
+    "text": "At ten o'clock the next morning the telephone rang in Edward's bedroom.",
+    "translation": "في الساعة العاشرة من صباح اليوم التالي رن الهاتف في غرفة نوم إدوارد."
+  },
+  {
+    "id": 455,
+    "text": "'They're ready for you now, Sir,' a voice said.",
+    "translation": "قال صوت: 'إنهم مستعدون لك الآن يا سيدي'."
+  },
+  {
+    "id": 456,
+    "text": "The King walked slowly down the stairs.",
+    "translation": "نزل الملك ببطء على الدرج."
+  },
+  {
+    "id": 457,
+    "text": "In front of him, there was an open door.",
+    "translation": "أمامه، كان هناك باب مفتوح."
+  },
+  {
+    "id": 458,
+    "text": "The family were waiting for him.",
+    "translation": "كانت العائلة في انتظاره."
+  },
+  {
+    "id": 459,
+    "text": "His mother sat near the window, dressed in black.",
+    "translation": "جلست والدته قرب النافذة، مرتدية الأسود."
+  },
+  {
+    "id": 460,
+    "text": "His brothers stood beside her.",
+    "translation": "وقف إخوته بجانبها."
+  },
+  {
+    "id": 461,
+    "text": "'How close they are!' the King thought.",
+    "translation": "فكر الملك: 'كم هم قريبون من بعضهم!'"
+  },
+  {
+    "id": 462,
+    "text": "On a small table in the centre of the room, there was a piece of paper.",
+    "translation": "على طاولة صغيرة في وسط الغرفة، كانت هناك قطعة ورق."
+  },
+  {
+    "id": 463,
+    "text": "Edward sat down and read these words:",
+    "translation": "جلس إدوارد وقرأ هذه الكلمات:"
+  },
+  {
+    "id": 464,
+    "text": "I, Edward the Eighth, King of Great Britain, King of India, King of Australia, King of New Zealand, King of Canada, King of Kenya, King of Nigeria, King of Burma, King of Malaya, King of Singapore, and King of thirty-two other countries, have today given the crown to my brother George.",
+    "translation": "أنا، إدوارد الثامن، ملك بريطانيا العظمى، وملك الهند، وملك أستراليا، وملك نيوزيلندا، وملك كندا، وملك كينيا، وملك نيجيريا، وملك بورما، وملك مالايا، وملك سنغافورة، وملك اثنتين وثلاثين دولة أخرى، قد أعطيت اليوم التاج لأخي جورج."
+  },
+  {
+    "id": 465,
+    "text": "God be with him and all his people, 10th December 1936.",
+    "translation": "ليكن الله معه ومع كل شعبه، 10 ديسمبر 1936."
+  },
+  {
+    "id": 466,
+    "text": "Edward took a pen and wrote his name at the bottom of the page.",
+    "translation": "أخذ إدوارد قلماً وكتب اسمه في أسفل الصفحة."
+  },
+  {
+    "id": 467,
+    "text": "Then he stood up and kissed his brother's hand.",
+    "translation": "ثم وقف وقبّل يد أخيه."
+  },
+  {
+    "id": 468,
+    "text": "'I never wanted this to happen,' George said.",
+    "translation": "قال جورج: 'لم أرد أبداً أن يحدث هذا'."
+  },
+  {
+    "id": 469,
+    "text": "'This is the worst day of my life.'",
+    "translation": "'هذا أسوأ يوم في حياتي'."
+  },
+  {
+    "id": 470,
+    "text": "Edward walked over to his mother.",
+    "translation": "سار إدوارد نحو والدته."
+  },
+  {
+    "id": 471,
+    "text": "'Before I kiss you,' she said, 'there are some things that I want to say.'",
+    "translation": "قالت: 'قبل أن أقبلك، هناك بعض الأشياء التي أريد قولها'."
+  },
+  {
+    "id": 472,
+    "text": "I have never understood you, child.",
+    "translation": "لم أفهمك أبداً يا child."
+  },
+  {
+    "id": 473,
+    "text": "This morning you were a King.",
+    "translation": "هذا الصباح كنت ملكاً."
+  },
+  {
+    "id": 474,
+    "text": "But tonight, you'll run from England like a thief.",
+    "translation": "لكن الليلة، ستهرب من إنجلترا مثل لص."
+  },
+  {
+    "id": 475,
+    "text": "Alone. Angry. Afraid.",
+    "translation": "وحيداً. غاضباً. خائفاً."
+  },
+  {
+    "id": 476,
+    "text": "You think that you're free.",
+    "translation": "تعتقد أنك حر."
+  },
+  {
+    "id": 477,
+    "text": "But you're not. You cannot be free.",
+    "translation": "لكنك لست كذلك. لا يمكنك أن تكون حراً."
+  },
+  {
+    "id": 478,
+    "text": "'Everyone needs their family.'",
+    "translation": "'كل شخص يحتاج عائلته'."
+  },
+  {
+    "id": 479,
+    "text": "Everyone needs their home.",
+    "translation": "كل شخص يحتاج منزله."
+  },
+  {
+    "id": 480,
+    "text": "And tonight you have lost both those things.",
+    "translation": "والليلة فقدت كلا هذين الشيئين."
+  },
+  {
+    "id": 481,
+    "text": "'I love you.'",
+    "translation": "'أنا أحبك'."
+  },
+  {
+    "id": 482,
+    "text": "I am your mother and nothing can change that.",
+    "translation": "أنا أمك ولا شيء يمكن أن يغير ذلك."
+  },
+  {
+    "id": 483,
+    "text": "But if you marry that woman, you will break my heart.",
+    "translation": "لكن إذا تزوجت تلك المرأة، ستحطم قلبي."
+  },
+  {
+    "id": 484,
+    "text": "Go now. It is all very sad.'",
+    "translation": "اذهب الآن. كل هذا محزن جداً.'"
+  },
+  {
+    "id": 485,
+    "text": "Edward kissed Queen Mary's hand.",
+    "translation": "قبّل إدوارد يد الملكة ماري."
+  },
+  {
+    "id": 486,
+    "text": "Then he turned and walked away.",
+    "translation": "ثم استدار وابتعد."
+  },
+  {
+    "id": 487,
+    "text": "The next day Edward returned to Windsor Castle.",
+    "translation": "في اليوم التالي عاد إدوارد إلى قلعة وندسور."
+  },
+  {
+    "id": 488,
+    "text": "He went into a small, cold room at the top of the building.",
+    "translation": "دخل غرفة صغيرة باردة في أعلى المبنى."
+  },
+  {
+    "id": 489,
+    "text": "From there, he spoke on BBC radio to Britain and the world.",
+    "translation": "من هناك، تحدث عبر راديو BBC إلى بريطانيا والعالم."
+  },
+  {
+    "id": 490,
+    "text": "This is what he said:",
+    "translation": "هذا ما قاله:"
+  },
+  {
+    "id": 491,
+    "text": "Tonight, for the first time, I can say a few words to you.",
+    "translation": "الليلة، للمرة الأولى، يمكنني أن أقول بضع كلمات لكم."
+  },
+  {
+    "id": 492,
+    "text": "Earlier today, I gave the crown to my brother George.",
+    "translation": "في وقت سابق اليوم، أعطيت التاج لأخي جورج."
+  },
+  {
+    "id": 493,
+    "text": "He is now your King.",
+    "translation": "إنه الآن ملككم."
+  },
+  {
+    "id": 494,
+    "text": "I will soon leave this country and travel to France.",
+    "translation": "سأغادر هذا البلد قريباً وأسافر إلى فرنسا."
+  },
+  {
+    "id": 495,
+    "text": "My heart is with Wallis and I cannot live without the woman I love.",
+    "translation": "قلبي مع واليس ولا أستطيع العيش بدون المرأة التي أحبها."
+  },
+  {
+    "id": 496,
+    "text": "I don't know what will happen to me.",
+    "translation": "لا أعرف ما سيحدث لي."
+  },
+  {
+    "id": 497,
+    "text": "Perhaps I will never see England again.",
+    "translation": "ربما لن أرى إنجلترا مرة أخرى."
+  },
+  {
+    "id": 498,
+    "text": "But think of me tonight when I sail across the sea.",
+    "translation": "لكن فكروا بي الليلة عندما أبحر عبر البحر."
+  },
+  {
+    "id": 499,
+    "text": "God be with you.",
+    "translation": "ليكن الله معكم."
+  },
+  {
+    "id": 500,
+    "text": "Long live King George!'",
+    "translation": "عاش الملك جورج!'"
+  },
+  {
+    "id": 501,
+    "text": "Edward left Windsor Castle and got into a large black car.",
+    "translation": "غادر إدوارد قلعة وندسور وركب سيارة سوداء كبيرة."
+  },
+  {
+    "id": 502,
+    "text": "It was now midnight and it was just beginning to rain.",
+    "translation": "كان منتصف الليل للتو وبدأت تمطر."
+  },
+  {
+    "id": 503,
+    "text": "'Take me away as quickly as you can,' he said.",
+    "translation": "قال: 'خذني بعيداً بأسرع ما يمكنك'."
+  },
+  {
+    "id": 504,
+    "text": "The car moved off into the darkness and the rain.",
+    "translation": "انطلقت السيارة في الظلام والمطر."
+  },
+  {
+    "id": 505,
+    "text": "'What a night!' said the driver.",
+    "translation": "قال السائق: 'يا لها من ليلة!'"
+  },
+  {
+    "id": 506,
+    "text": "'I think the sky is crying, Sir.'",
+    "translation": "'أعتقد أن السماء تبكي يا سيدي'."
+  },
+  {
+    "id": 507,
+    "text": "At 1.30 a.m. they arrived at Portsmouth.",
+    "translation": "في الساعة 1:30 صباحاً وصلوا إلى بورتسموث."
+  },
+  {
+    "id": 508,
+    "text": "Edward got out of the car and a voice said: 'The King is here!'",
+    "translation": "خرج إدوارد من السيارة وقال صوت: 'الملك هنا!'"
+  },
+  {
+    "id": 509,
+    "text": "Edward stopped and looked out across the open sea.",
+    "translation": "توقف إدوارد ونظر عبر البحر المفتوح."
+  },
+  {
+    "id": 510,
+    "text": "There was a thin, cold smile on his face.",
+    "translation": "كانت هناك ابتسامة رقيقة باردة على وجهه."
+  },
+  {
+    "id": 511,
+    "text": "'King?' he said.",
+    "translation": "قال: 'ملك؟'"
+  },
+  {
+    "id": 512,
+    "text": "'No, I am not the King. I am just a man in love.'",
+    "translation": "'لا، أنا لست الملك. أنا مجرد رجل واقع في الحب'."
+  },
+  {
+    "id": 513,
+    "text": "Then he turned and walked onto the ship and into the night.",
+    "translation": "ثم استدار وصعد إلى السفينة وإلى داخل الليل."
+  },
+  {
+    "id": 514,
+    "text": "The next morning Edward telephoned Wallis from Boulogne.",
+    "translation": "في صباح اليوم التالي اتصل إدوارد بواليس من بولونيا."
+  },
+  {
+    "id": 515,
+    "text": "'Did you listen to me on the radio?' he asked.",
+    "translation": "سأل: 'هل استمعت إليّ في الراديو؟'"
+  },
+  {
+    "id": 516,
+    "text": "'Yes, of course,' she said.",
+    "translation": "قالت: 'نعم، بالطبع'."
+  },
+  {
+    "id": 517,
+    "text": "'And how did you feel?'",
+    "translation": "'وكيف شعرت؟'"
+  },
+  {
+    "id": 518,
+    "text": "'I was sitting in my room alone,' Wallis said.",
+    "translation": "قالت واليس: 'كنت جالسة في غرفتي وحدي'."
+  },
+  {
+    "id": 519,
+    "text": "'And when I listened to your words, I felt so sad.'",
+    "translation": "'وعندما استمعت إلى كلماتك، شعرت بحزن شديد'."
+  },
+  {
+    "id": 520,
+    "text": "I put my hands over my eyes and I just cried.",
+    "translation": "وضعت يدي على عيني وبكيت فقط."
+  },
+  {
+    "id": 521,
+    "text": "I couldn't stop myself.",
+    "translation": "لم أستطع إيقاف نفسي."
+  },
+  {
+    "id": 522,
+    "text": "You have left everything for me.",
+    "translation": "لقد تركت كل شيء من أجلي."
+  },
+  {
+    "id": 523,
+    "text": "But I love you so much, Edward, and with me, you'll be the happiest man in the world.'",
+    "translation": "لكنني أحبك كثيراً يا إدوارد، ومعي، ستكون أسعد رجل في العالم.'"
+  },
+  {
+    "id": 524,
+    "text": "'I am that already,' he replied.",
+    "translation": "أجاب: 'أنا كذلك بالفعل'."
+  },
+  {
+    "id": 525,
+    "text": "'You are all that matters in my life.'",
+    "translation": "'أنت كل ما يهم في حياتي'."
+  },
+  {
+    "id": 526,
+    "text": "Edward married Wallis Simpson six months later, on 3rd June 1937.",
+    "translation": "تزوج إدوارد من واليس سيمبسون بعد ستة أشهر، في 3 يونيو 1937."
+  },
+  {
+    "id": 527,
+    "text": "None of the Royal Family came to the wedding.",
+    "translation": "لم يحضر أحد من العائلة المالكة حفل الزفاف."
+  },
+  {
+    "id": 528,
+    "text": "Edward was forty-three.",
+    "translation": "كان إدوارد في الثالثة والأربعين."
+  },
+  {
+    "id": 529,
+    "text": "Wallis was forty-one.",
+    "translation": "كانت واليس في الحادية والأربعين."
+  },
+  {
+    "id": 530,
+    "text": "And they now took a new name - the Duke and Duchess of Windsor.",
+    "translation": "واتخذا الآن اسماً جديداً - دوق ودوقة وندسور."
+  },
+  {
+    "id": 531,
+    "text": "A few weeks later Edward wrote to his brother King George.",
+    "translation": "بعد بضعة أسابيع كتب إدوارد إلى أخيه الملك جورج."
+  },
+  {
+    "id": 532,
+    "text": "'I was surprised that you didn't come to the wedding,' he wrote.",
+    "translation": "كتب: 'فوجئت أنك لم تأتِ إلى حفل الزفاف'."
+  },
+  {
+    "id": 533,
+    "text": "'But Wallis is now my wife and nothing can change that.'",
+    "translation": "'لكن واليس الآن زوجتي ولا شيء يمكن أن يغير ذلك'."
+  },
+  {
+    "id": 534,
+    "text": "As you know, we have a house in Paris.",
+    "translation": "كما تعلم، لدينا منزل في باريس."
+  },
+  {
+    "id": 535,
+    "text": "But France is not my home, and I want to live again at Windsor with Wallis by my side.'",
+    "translation": "لكن فرنسا ليست وطني، وأريد أن أعيش مرة أخرى في وندسور مع واليس بجانبي.'"
+  },
+  {
+    "id": 536,
+    "text": "'I'm sorry, Edward,' King George wrote back.",
+    "translation": "رد الملك جورج: 'أنا آسف يا إدوارد'."
+  },
+  {
+    "id": 537,
+    "text": "'But you know how I feel about that woman.'",
+    "translation": "'لكنك تعرف كيف أشعر تجاه تلك المرأة'."
+  },
+  {
+    "id": 538,
+    "text": "I do not like her. I will never like her.",
+    "translation": "أنا لا أحبها. لن أحبها أبداً."
+  },
+  {
+    "id": 539,
+    "text": "You can live here, but Wallis cannot.'",
+    "translation": "يمكنك العيش هنا، لكن واليس لا تستطيع.'"
+  },
+  {
+    "id": 540,
+    "text": "'My brother', Edward said later, 'pushed me away like a dog.'",
+    "translation": "قال إدوارد لاحقاً: 'أخي دفعني بعيداً مثل كلب'."
+  },
+  {
+    "id": 541,
+    "text": "I will never forget what he did.",
+    "translation": "لن أنسى أبداً ما فعله."
+  },
+  {
+    "id": 542,
+    "text": "And after that I decided that I didn't want my family.",
+    "translation": "وبعد ذلك قررت أنني لا أريد عائلتي."
+  },
+  {
+    "id": 543,
+    "text": "They didn't want Wallis, and so I didn't want them.'",
+    "translation": "لم يريدوا واليس، لذلك لم أردهم.'"
+  },
+  {
+    "id": 544,
+    "text": "For the next thirty years, the Duke and Duchess lived in Paris.",
+    "translation": "على مدى الثلاثين عاماً التالية، عاش الدوق والدوقة في باريس."
+  },
+  {
+    "id": 545,
+    "text": "They gave parties and travelled round the world, but they never went back to Buckingham Palace.",
+    "translation": "أقاموا الحفلات وسافروا حول العالم، لكنهم لم يعودوا أبداً إلى قصر باكنغهام."
+  },
+  {
+    "id": 546,
+    "text": "When King George died in 1952 and Queen Mary died in 1961, Edward returned to Windsor for a few days.",
+    "translation": "عندما توفي الملك جورج عام 1952 وتوفيت الملكة ماري عام 1961، عاد إدوارد إلى وندسور لبضعة أيام."
+  },
+  {
+    "id": 547,
+    "text": "But Wallis stayed in France.",
+    "translation": "لكن واليس بقيت في فرنسا."
+  },
+  {
+    "id": 548,
+    "text": "'It's your family,' she said.",
+    "translation": "قالت: 'إنها عائلتك'."
+  },
+  {
+    "id": 549,
+    "text": "'Not mine.'",
+    "translation": "'ليست عائلتي'."
+  },
+  {
+    "id": 550,
+    "text": "But then, in 1966, the Duke and Duchess met Queen Elizabeth (the daughter of King George) at a small party in London.",
+    "translation": "لكن بعد ذلك، في عام 1966، التقى الدوق والدوقة بالملكة إليزابيث (ابنة الملك جورج) في حفلة صغيرة في لندن."
+  },
+  {
+    "id": 551,
+    "text": "After thirty long years it was time to forget the past.",
+    "translation": "بعد ثلاثين عاماً طويلة حان الوقت لنسيان الماضي."
+  },
+  {
+    "id": 552,
+    "text": "Elizabeth kissed the Duchess and touched her arm.",
+    "translation": "قبّلت إليزابيث الدوقة ولمست ذراعها."
+  },
+  {
+    "id": 553,
+    "text": "Then she turned to the Duke and said: 'Wallis is so beautiful, uncle.'",
+    "translation": "ثم استدارت نحو الدوق وقالت: 'واليس جميلة جداً يا عمي'."
+  },
+  {
+    "id": 554,
+    "text": "I think you're a lucky man.'",
+    "translation": "أعتقد أنك رجل محظوظ.'"
+  },
+  {
+    "id": 555,
+    "text": "'That day Elizabeth was very kind to us,' Edward wrote later.",
+    "translation": "كتب إدوارد لاحقاً: 'في ذلك اليوم كانت إليزابيث لطيفة جداً معنا'."
+  },
+  {
+    "id": 556,
+    "text": "'But why couldn't my mother or my brother say those words to me?'",
+    "translation": "'لكن لماذا لم تستطع أمي أو أخي قول تلك الكلمات لي؟'"
+  },
+  {
+    "id": 557,
+    "text": "On BBC television in 1969, the Duke and Duchess spoke about their life together.",
+    "translation": "على تلفزيون BBC في عام 1969، تحدث الدوق والدوقة عن حياتهما معاً."
+  },
+  {
+    "id": 558,
+    "text": "'Do you argue?' someone asked them.",
+    "translation": "سألهم أحدهم: 'هل تتجادلان؟'"
+  },
+  {
+    "id": 559,
+    "text": "'No, not really,' the Duchess replied.",
+    "translation": "أجابت الدوقة: 'لا، ليس حقاً'."
+  },
+  {
+    "id": 560,
+    "text": "'But there's one thing about my husband that I really don't like.'",
+    "translation": "'لكن هناك شيء واحد في زوجي لا أحبه حقاً'."
+  },
+  {
+    "id": 561,
+    "text": "He is always late.",
+    "translation": "إنه دائماً متأخر."
+  },
+  {
+    "id": 562,
+    "text": "It doesn't matter if he's meeting a queen, a president, or a film star.",
+    "translation": "لا يهم إذا كان يلتقي ملكة أو رئيساً أو نجماً سينمائياً."
+  },
+  {
+    "id": 563,
+    "text": "He can never arrive on time.",
+    "translation": "لا يمكنه أبداً الوصول في الوقت المحدد."
+  },
+  {
+    "id": 564,
+    "text": "I don't know why.",
+    "translation": "لا أعرف لماذا."
+  },
+  {
+    "id": 565,
+    "text": "I have tried to change him, but it's just not possible.'",
+    "translation": "حاولت تغييره، لكن هذا غير ممكن.'"
+  },
+  {
+    "id": 566,
+    "text": "The Duke smiled and touched her hand.",
+    "translation": "ابتسم الدوق ولمس يدها."
+  },
+  {
+    "id": 567,
+    "text": "'I know that I'm often late,' he said.",
+    "translation": "قال: 'أعلم أنني غالباً ما أتأخر'."
+  },
+  {
+    "id": 568,
+    "text": "'But on our wedding day, I arrived at the church twenty minutes before you.'",
+    "translation": "'لكن في يوم زفافنا، وصلت إلى الكنيسة قبل عشرين دقيقة منك'."
+  },
+  {
+    "id": 569,
+    "text": "I was early and you were late.'",
+    "translation": "كنت مبكراً وكنت متأخرة.'"
+  },
+  {
+    "id": 570,
+    "text": "'Yes, that's true,' the Duchess said.",
+    "translation": "قالت الدوقة: 'نعم، هذا صحيح'."
+  },
+  {
+    "id": 571,
+    "text": "And they both laughed.",
+    "translation": "وضحكا معاً."
+  },
+  {
+    "id": 572,
+    "text": "'You could see real love in their eyes,' one newspaper wrote.",
+    "translation": "كتبت إحدى الصحف: 'يمكنك رؤية الحب الحقيقي في عيونهما'."
+  },
+  {
+    "id": 573,
+    "text": "'They were on television, but they forgot about the cameras and the millions of people who were watching.'",
+    "translation": "'كانا على التلفزيون، لكنهما نسيا الكاميرات وملايين الأشخاص الذين كانوا يشاهدون'."
+  },
+  {
+    "id": 574,
+    "text": "They were just two people in love.'",
+    "translation": "كانا مجرد شخصين واقعين في الحب.'"
+  },
+  {
+    "id": 575,
+    "text": "The Duchess was famous for her jewellery.",
+    "translation": "كانت الدوقة مشهورة بمجوهراتها."
+  },
+  {
+    "id": 576,
+    "text": "'After my husband,' she once said, 'I love jewellery more than anything else in the world.'",
+    "translation": "قالت ذات مرة: 'بعد زوجي، أحب المجوهرات أكثر من أي شيء آخر في العالم'."
+  },
+  {
+    "id": 577,
+    "text": "And after thirty-five years with the Duke she had hundreds of pieces, which came from all over the world.",
+    "translation": "وبعد خمس وثلاثين سنة مع الدوق كان لديها مئات القطع، التي جاءت من جميع أنحاء العالم."
+  },
+  {
+    "id": 578,
+    "text": "'I have never met a more beautiful woman than Wallis,' Edward wrote, 'and I love giving her presents.'",
+    "translation": "كتب إدوارد: 'لم أقابل امرأة أجمل من واليس، وأحب إعطاءها الهدايا'."
+  },
+  {
+    "id": 579,
+    "text": "She has given me so much happiness.",
+    "translation": "لقد منحتني الكثير من السعادة."
+  },
+  {
+    "id": 580,
+    "text": "I buy her jewels to say 'thank you'.'",
+    "translation": "أشتري لها المجوهرات لأقول 'شكراً'.'"
+  },
+  {
+    "id": 581,
+    "text": "In May 1972, the Duke became ill.",
+    "translation": "في مايو 1972، مرض الدوق."
+  },
+  {
+    "id": 582,
+    "text": "When the doctor arrived, he listened to Edward's heart and then said: 'How many cigarettes do you have a day, Sir?'",
+    "translation": "عندما وصل الطبيب، استمع إلى قلب إدوارد ثم قال: 'كم سيجارة تدخن في اليوم يا سيدي؟'"
+  },
+  {
+    "id": 583,
+    "text": "'About forty or fifty,' the Duke replied.",
+    "translation": "أجاب الدوق: 'حوالي أربعين أو خمسين'."
+  },
+  {
+    "id": 584,
+    "text": "'But please don't ask me to stop.'",
+    "translation": "'لكن أرجوك لا تطلب مني التوقف'."
+  },
+  {
+    "id": 585,
+    "text": "I've smoked for sixty years and I cannot change now.'",
+    "translation": "لقد دخنت لمدة ستين عاماً ولا أستطيع التغيير الآن.'"
+  },
+  {
+    "id": 586,
+    "text": "That night Edward called Wallis into the room.",
+    "translation": "في تلك الليلة استدعى إدوارد واليس إلى الغرفة."
+  },
+  {
+    "id": 587,
+    "text": "'I feel very tired,' he said.",
+    "translation": "قال: 'أشعر بتعب شديد'."
+  },
+  {
+    "id": 588,
+    "text": "'And I'm afraid.'",
+    "translation": "'وأنا خائف'."
+  },
+  {
+    "id": 589,
+    "text": "I love you.",
+    "translation": "أنا أحبك."
+  },
+  {
+    "id": 590,
+    "text": "I have been very happy with you, and you have been a wonderful wife.",
+    "translation": "لقد كنت سعيداً جداً معك، وكنت زوجة رائعة."
+  },
+  {
+    "id": 591,
+    "text": "When I die, I want you to take my body back to Windsor.",
+    "translation": "عندما أموت، أريدك أن تأخذي جسدي إلى وندسور."
+  },
+  {
+    "id": 592,
+    "text": "Will you do that for me?'",
+    "translation": "هل ستفعلين ذلك من أجلي؟'"
+  },
+  {
+    "id": 593,
+    "text": "'Yes, of course,' she said.",
+    "translation": "قالت: 'نعم، بالطبع'."
+  },
+  {
+    "id": 594,
+    "text": "And they both began to cry.",
+    "translation": "وبدأ كلاهما في البكاء."
+  },
+  {
+    "id": 595,
+    "text": "The Duke of Windsor died one hour later with Wallis by his side.",
+    "translation": "توفي دوق وندسور بعد ساعة واحدة وواليس بجانبه."
+  },
+  {
+    "id": 596,
+    "text": "Three days later, a blue aeroplane arrived in Paris.",
+    "translation": "بعد ثلاثة أيام، وصلت طائرة زرقاء إلى باريس."
+  },
+  {
+    "id": 597,
+    "text": "Wallis went back to England with the Duke's body and, for the first time in her life, she entered Buckingham Palace.",
+    "translation": "عادت واليس إلى إنجلترا مع جثمان الدوق، وللمرة الأولى في حياتها، دخلت قصر باكنغهام."
+  },
+  {
+    "id": 598,
+    "text": "A week later, the Duchess returned to France, and for the next fourteen years she lived alone in Paris.",
+    "translation": "بعد أسبوع، عادت الدوقة إلى فرنسا، وعاشت الأربعة عشر عاماً التالية وحدها في باريس."
+  },
+  {
+    "id": 599,
+    "text": "The big house was dark.",
+    "translation": "كان المنزل الكبير مظلماً."
+  },
+  {
+    "id": 600,
+    "text": "The doors were locked and she did not go out.",
+    "translation": "كانت الأبواب مغلقة ولم تكن تخرج."
+  },
+  {
+    "id": 601,
+    "text": "In the afternoons, she sat in the dining room with Edward's love letters.",
+    "translation": "في فترات بعد الظهر، كانت تجلس في غرفة الطعام مع رسائل حب إدوارد."
+  },
+  {
+    "id": 602,
+    "text": "'They were so beautiful,' she said.",
+    "translation": "قالت: 'كانت جميلة جداً'."
+  },
+  {
+    "id": 603,
+    "text": "'I read them again and again.'",
+    "translation": "'قرأتها مراراً وتكراراً'."
+  },
+  {
+    "id": 604,
+    "text": "But then, in 1986, Wallis became ill.",
+    "translation": "لكن بعد ذلك، في عام 1986، مرضت واليس."
+  },
+  {
+    "id": 605,
+    "text": "She went to a small hospital near the house, and a few days later she died.",
+    "translation": "ذهبت إلى مستشفى صغير بالقرب من المنزل، وبعد بضعة أيام توفيت."
+  },
+  {
+    "id": 606,
+    "text": "'Without Edward,' she once wrote, 'my life was empty.'",
+    "translation": "كتبت ذات مرة: 'بدون إدوارد، كانت حياتي فارغة'."
+  },
+  {
+    "id": 607,
+    "text": "She was buried in England next to her husband at Windsor.",
+    "translation": "دُفنت في إنجلترا بجانب زوجها في وندسور."
+  },
+  {
+    "id": 608,
+    "text": "'It's a strange thing,' one newspaper wrote.",
+    "translation": "كتبت إحدى الصحف: 'إنه شيء غريب'."
+  },
+  {
+    "id": 609,
+    "text": "'When they were alive, the Duke and Duchess could never live in Britain.'",
+    "translation": "'عندما كانا على قيد الحياة، لم يستطع الدوق والدوقة العيش في بريطانيا أبداً'."
+  },
+  {
+    "id": 610,
+    "text": "It was only in death that they could be there together.'",
+    "translation": "فقط في الموت تمكنا من أن يكونا هناك معاً.'"
+  },
+  {
+    "id": 611,
+    "text": "In 1970, two years before his death, Edward said:",
+    "translation": "في عام 1970، قبل عامين من وفاته، قال إدوارد:"
+  },
+  {
+    "id": 612,
+    "text": "There are some people who think that I was wrong to give away my crown.",
+    "translation": "هناك بعض الناس الذين يعتقدون أنني أخطأت بالتخلي عن تاجي."
+  },
+  {
+    "id": 613,
+    "text": "But they don't understand true love.",
+    "translation": "لكنهم لا يفهمون الحب الحقيقي."
+  },
+  {
+    "id": 614,
+    "text": "When I was young, I lived in Buckingham Palace.",
+    "translation": "عندما كنت صغيراً، عشت في قصر باكنغهام."
+  },
+  {
+    "id": 615,
+    "text": "I could have anything that I wanted.",
+    "translation": "كان بإمكاني الحصول على أي شيء أريده."
+  },
+  {
+    "id": 616,
+    "text": "But I wasn't happy because my heart was empty.",
+    "translation": "لكنني لم أكن سعيداً لأن قلبي كان فارغاً."
+  },
+  {
+    "id": 617,
+    "text": "Then I met Wallis and everything changed.",
+    "translation": "ثم قابلت واليس وتغير كل شيء."
+  },
+  {
+    "id": 618,
+    "text": "For half of my life I have lived here with the most beautiful woman in the world.",
+    "translation": "لنصف حياتي عشت هنا مع أجمل امرأة في العالم."
+  },
+  {
+    "id": 619,
+    "text": "And she is everything to me.",
+    "translation": "وهي كل شيء بالنسبة لي."
+  },
+  {
+    "id": 620,
+    "text": "When I sit in my garden with the Duchess by my side, I sometimes think about my early life.",
+    "translation": "عندما أجلس في حديقتي والدوقة بجانبي، أفكر أحياناً في حياتي المبكرة."
+  },
+  {
+    "id": 621,
+    "text": "I remember the days alone in my bedroom.",
+    "translation": "أتذكر الأيام وحدي في غرفة نومي."
+  },
+  {
+    "id": 622,
+    "text": "I remember the teacher who hit me with a stick.",
+    "translation": "أتذكر المعلم الذي ضربني بعصا."
+  },
+  {
+    "id": 623,
+    "text": "I remember the war and my travels around the world.",
+    "translation": "أتذكر الحرب وأسفاري حول العالم."
+  },
+  {
+    "id": 624,
+    "text": "And then I remember the crowds of people below my window, who shouted: 'Long live love!'",
+    "translation": "ثم أتذكر حشود الناس أسفل نافذتي، الذين صرخوا: 'عاش الحب!'"
+  },
+  {
+    "id": 625,
+    "text": "On my last night in London, I spoke with Winston Churchill.",
+    "translation": "في ليلتي الأخيرة في لندن، تحدثت مع وينستون تشرشل."
+  },
+  {
+    "id": 626,
+    "text": "In the middle of our conversation, he said: 'I think, Sir, that the best things in life are free.'",
+    "translation": "في منتصف حديثنا، قال: 'أعتقد يا سيدي، أن أفضل الأشياء في الحياة مجانية'."
+  },
+  {
+    "id": 627,
+    "text": "I have never forgotten those words.",
+    "translation": "لم أنسَ تلك الكلمات أبداً."
+  },
+  {
+    "id": 628,
+    "text": "And now, many years later, I understand what they mean.",
+    "translation": "والآن، بعد سنوات عديدة، أفهم ما تعنيه."
+  },
+  {
+    "id": 629,
+    "text": "You cannot buy happiness.",
+    "translation": "لا يمكنك شراء السعادة."
+  },
+  {
+    "id": 630,
+    "text": "And you cannot buy love.",
+    "translation": "ولا يمكنك شراء الحب."
+  },
+  {
+    "id": 631,
+    "text": "To be happy deep inside your heart is the most wonderful thing in the world.",
+    "translation": "أن تكون سعيداً في أعماق قلبك هو أروع شيء في العالم."
+  },
+  {
+    "id": 632,
+    "text": "I have been a lucky man.",
+    "translation": "لقد كنت رجلاً محظوظاً."
+  },
+  {
+    "id": 633,
+    "text": "And so I say: Thank God for Wallis, and LONG LIVE LOVE!'",
+    "translation": "ولذلك أقول: الحمد لله على واليس، وعاش الحب!'"
+  },
+  {
+    "id": 634,
+    "text": "- THE END -",
+    "translation": "- النهاية -"
+  },
+  {
+    "id": 635,
+    "text": "Hope you have enjoyed the reading!",
+    "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+  },
+  {
+    "id": 636,
+    "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+    "translation": "عد إلى http://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
+  }
+    ]
