@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_06",
+      "exercises": [
+        {"t":"choice","c":"tomorrow","dir":"t2n","big":true,"d":["tonight","soon"]},
+        {"t":"choice","c":"weekend","dir":"n2t","d":["ready","promise"]},
+        {"t":"match","cs":["tomorrow","tonight","soon","later"]},
+        {"t":"match","cs":["maybe","promise","ready","weekend"]},
+        {"t":"build","c":"he_will_send_the_email_later","dir":"n2t","d":["bring","promise"]},
+        {"t":"build","c":"we_will_bring_some_food","dir":"audio","d":["ready","weekend"]},
+        {"t":"fill","c":"she_will_be_ready_soon"},
+        {"t":"listenpick","c":"i_will_call_you_tomorrow"},
+        {"t":"speak","c":"they_will_travel_next_week"},
+        {"t":"choice","c":"it_will_be_sunny_tomorrow","dir":"t2n","d":["we_will_bring_some_food","she_will_be_ready_soon"]},
+        {"t":"typeword","c":"maybe_it_will_rain_tonight"},
+        {"t":"build","c":"i_promise_i_will_come","dir":"t2n","d":["tomorrow","soon"]},
+        {"t":"fill","c":"they_will_travel_next_week"},
+        {"t":"choice","c":"send","dir":"n2t","d":["ready","weekend"]},
+        {"t":"speak","c":"i_will_call_you_tomorrow"}
+      ]
+    },
+    {
+      "id": "a2_07",
+      "exercises": [
+        {"t":"choice","c":"plan","dir":"t2n","big":true,"d":["exam","summer"]},
+        {"t":"choice","c":"exam","dir":"n2t","d":["summer","birthday"]},
+        {"t":"match","cs":["plan","exam","summer","birthday"]},
+        {"t":"match","cs":["learn","start","move","visit"]},
+        {"t":"build","c":"we_are_going_to_visit_anna","dir":"n2t","d":["learn","move"]},
+        {"t":"build","c":"he_is_going_to_take_an_exam","dir":"audio","d":["plan","summer"]},
+        {"t":"fill","c":"i_am_going_to_learn_to_swim"},
+        {"t":"listenpick","c":"they_are_going_to_move_soon"},
+        {"t":"speak","c":"what_are_you_going_to_do"},
+        {"t":"choice","c":"it_is_going_to_rain","dir":"t2n","d":["i_am_going_to_learn_to_swim","they_are_going_to_move_soon"]},
+        {"t":"typeword","c":"he_is_going_to_take_an_exam"},
+        {"t":"build","c":"she_is_going_to_start_a_new_job","dir":"t2n","d":["exam","plan"]},
+        {"t":"fill","c":"it_is_going_to_rain"},
+        {"t":"choice","c":"birthday","dir":"n2t","d":["summer","plan"]},
+        {"t":"speak","c":"we_are_going_to_visit_anna"}
+      ]
+    },
+    {
+      "id": "a2_08",
+      "exercises": [
+        {"t":"choice","c":"appointment","dir":"t2n","big":true,"d":["dentist","morning"]},
+        {"t":"choice","c":"friday","dir":"n2t","d":["monday","afternoon"]},
+        {"t":"match","cs":["appointment","dentist","morning","afternoon"]},
+        {"t":"match","cs":["monday","friday","cancel","book"]},
+        {"t":"build","c":"i_need_to_cancel_my_appointment","dir":"n2t","d":["busy","free"]},
+        {"t":"build","c":"can_i_book_an_appointment","dir":"audio","d":["monday","morning"]},
+        {"t":"fill","c":"i_have_a_dentist_appointment"},
+        {"t":"listenpick","c":"i_am_busy_this_afternoon"},
+        {"t":"speak","c":"my_appointment_is_on_monday"},
+        {"t":"choice","c":"are_you_free_on_monday","dir":"t2n","d":["i_am_free_on_friday","i_have_a_dentist_appointment"]},
+        {"t":"typeword","c":"see_you_on_friday_morning"},
+        {"t":"build","c":"i_am_free_on_friday","dir":"t2n","d":["cancel","book"]},
+        {"t":"fill","c":"are_you_free_on_monday"},
+        {"t":"choice","c":"cancel","dir":"n2t","d":["book","dentist"]},
+        {"t":"speak","c":"i_need_to_cancel_my_appointment"}
+      ]
+    },
+    {
+      "id": "a2_09",
+      "exercises": [
+        {"t":"choice","c":"invitation","dir":"t2n","big":true,"d":["dinner","coffee"]},
+        {"t":"choice","c":"dinner","dir":"n2t","d":["coffee","cinema"]},
+        {"t":"match","cs":["invitation","dinner","coffee","cinema"]},
+        {"t":"match","cs":["join","accept","sorry","picnic"]},
+        {"t":"build","c":"would_you_like_to_join_us","dir":"n2t","d":["coffee","picnic"]},
+        {"t":"build","c":"lets_have_dinner_tonight","dir":"audio","d":["cinema","sorry"]},
+        {"t":"fill","c":"would_you_like_some_coffee"},
+        {"t":"listenpick","c":"thank_you_for_the_invitation"},
+        {"t":"speak","c":"i_would_love_to_come"},
+        {"t":"choice","c":"lets_go_to_the_cinema","dir":"t2n","d":["i_would_love_to_come","thank_you_for_the_invitation"]},
+        {"t":"typeword","c":"i_am_sorry_i_cannot_come"},
+        {"t":"build","c":"lets_have_dinner_tonight","dir":"t2n","d":["accept","picnic"]},
+        {"t":"fill","c":"would_you_like_to_join_us"},
+        {"t":"choice","c":"accept","dir":"n2t","d":["sorry","picnic"]},
+        {"t":"speak","c":"lets_go_to_the_cinema"}
+      ]
+    },
+    {
+      "id": "a2_10",
+      "exercises": [
+        {"t":"choice","c":"idea","dir":"t2n","big":true,"d":["park","market"]},
+        {"t":"choice","c":"museum","dir":"n2t","d":["market","walk"]},
+        {"t":"match","cs":["idea","walk","park","museum"]},
+        {"t":"match","cs":["market","together","great","rest"]},
+        {"t":"build","c":"why_dont_we_go_to_the_park","dir":"n2t","d":["museum","market"]},
+        {"t":"build","c":"shall_we_take_a_walk","dir":"audio","d":["rest","great"]},
+        {"t":"fill","c":"shall_we_go_to_the_market"},
+        {"t":"listenpick","c":"that_is_a_great_idea"},
+        {"t":"speak","c":"why_dont_we_go_to_the_park"},
+        {"t":"choice","c":"how_about_a_short_rest","dir":"t2n","d":["shall_we_take_a_walk","lets_visit_the_museum_together"]},
+        {"t":"typeword","c":"lets_visit_the_museum_together"},
+        {"t":"build","c":"that_is_a_great_idea","dir":"t2n","d":["park","walk"]},
+        {"t":"fill","c":"how_about_a_short_rest"},
+        {"t":"choice","c":"together","dir":"n2t","d":["market","rest"]},
+        {"t":"speak","c":"shall_we_go_to_the_market"}
+      ]
+    }
+  ]
+}
