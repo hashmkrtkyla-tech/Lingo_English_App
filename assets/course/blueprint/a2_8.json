@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_36",
+      "exercises": [
+        {"t":"choice","c":"permission","dir":"t2n","big":true,"d":["favor","window"]},
+        {"t":"choice","c":"pen","dir":"n2t","d":["window","favor"]},
+        {"t":"match","cs":["permission","favor","window","pen"]},
+        {"t":"match","cs":["borrow","lend","open","close"]},
+        {"t":"build","c":"could_you_open_the_window","dir":"n2t","d":["borrow","lend"]},
+        {"t":"build","c":"may_i_borrow_your_pen","dir":"audio","d":["favor","close"]},
+        {"t":"fill","c":"could_you_close_the_door"},
+        {"t":"listenpick","c":"can_you_lend_me_some_money"},
+        {"t":"speak","c":"do_you_mind_if_i_sit_here"},
+        {"t":"choice","c":"could_i_ask_you_something","dir":"t2n","d":["can_you_lend_me_some_money","of_course_go_ahead"]},
+        {"t":"typeword","c":"do_you_mind_if_i_sit_here"},
+        {"t":"build","c":"could_you_open_the_window","dir":"t2n","d":["pen","favor"]},
+        {"t":"fill","c":"may_i_borrow_your_pen"},
+        {"t":"choice","c":"favor","dir":"n2t","d":["pen","window"]},
+        {"t":"speak","c":"could_you_close_the_door"}
+      ]
+    },
+    {
+      "id": "a2_37",
+      "exercises": [
+        {"t":"choice","c":"engineer","dir":"t2n","big":true,"d":["nurse","farmer"]},
+        {"t":"choice","c":"salary","dir":"n2t","d":["office","factory"]},
+        {"t":"match","cs":["engineer","nurse","farmer","chef"]},
+        {"t":"match","cs":["salary","boss","colleague","office"]},
+        {"t":"build","c":"he_works_in_a_factory","dir":"n2t","d":["mechanic","nurse"]},
+        {"t":"build","c":"my_father_is_a_farmer","dir":"audio","d":["office","chef"]},
+        {"t":"fill","c":"she_works_as_a_nurse"},
+        {"t":"listenpick","c":"i_want_a_better_salary"},
+        {"t":"speak","c":"what_do_you_do_for_a_living"},
+        {"t":"choice","c":"she_is_an_engineer","dir":"t2n","d":["my_boss_is_very_kind","my_colleague_is_a_chef"]},
+        {"t":"typeword","c":"my_colleague_is_a_chef"},
+        {"t":"build","c":"my_father_is_a_farmer","dir":"t2n","d":["boss","office"]},
+        {"t":"fill","c":"he_works_in_a_factory"},
+        {"t":"choice","c":"mechanic","dir":"n2t","d":["chef","boss"]},
+        {"t":"speak","c":"she_works_as_a_nurse"}
+      ]
+    },
+    {
+      "id": "a2_38",
+      "exercises": [
+        {"t":"choice","c":"interview","dir":"t2n","big":true,"d":["resume","position"]},
+        {"t":"choice","c":"experience","dir":"n2t","d":["strength","position"]},
+        {"t":"match","cs":["interview","experience","resume","position"]},
+        {"t":"match","cs":["apply","hire","strength","available"]},
+        {"t":"build","c":"i_want_to_apply_for_this_position","dir":"n2t","d":["hire","strength"]},
+        {"t":"build","c":"why_do_you_want_this_job","dir":"audio","d":["resume","available"]},
+        {"t":"fill","c":"i_have_two_years_of_experience"},
+        {"t":"listenpick","c":"thank_you_for_the_interview"},
+        {"t":"speak","c":"tell_me_about_yourself"},
+        {"t":"choice","c":"when_can_you_start","dir":"t2n","d":["my_strength_is_working_in_a_team","tell_me_about_yourself"]},
+        {"t":"typeword","c":"i_am_available_to_start_monday"},
+        {"t":"build","c":"why_do_you_want_this_job","dir":"t2n","d":["apply","hire"]},
+        {"t":"fill","c":"when_can_you_start"},
+        {"t":"choice","c":"hire","dir":"n2t","d":["apply","resume"]},
+        {"t":"speak","c":"thank_you_for_the_interview"}
+      ]
+    },
+    {
+      "id": "a2_39",
+      "exercises": [
+        {"t":"choice","c":"email","dir":"t2n","big":true,"d":["subject","regards"]},
+        {"t":"choice","c":"attachment","dir":"n2t","d":["reply","delete"]},
+        {"t":"match","cs":["email","subject","attachment","reply"]},
+        {"t":"match","cs":["forward","message","regards","delete"]},
+        {"t":"build","c":"can_you_forward_this_email","dir":"n2t","d":["delete","regards"]},
+        {"t":"build","c":"i_will_reply_to_your_email","dir":"audio","d":["attachment","forward"]},
+        {"t":"fill","c":"the_subject_is_very_important"},
+        {"t":"listenpick","c":"i_sent_you_a_message"},
+        {"t":"speak","c":"best_regards_anna"},
+        {"t":"choice","c":"thank_you_for_your_quick_reply","dir":"t2n","d":["please_see_the_attached_file","i_deleted_the_old_message"]},
+        {"t":"typeword","c":"please_see_the_attached_file"},
+        {"t":"build","c":"i_sent_you_a_message","dir":"t2n","d":["subject","regards"]},
+        {"t":"fill","c":"i_will_reply_to_your_email"},
+        {"t":"choice","c":"forward","dir":"n2t","d":["delete","reply"]},
+        {"t":"speak","c":"i_deleted_the_old_message"}
+      ]
+    },
+    {
+      "id": "a2_40",
+      "exercises": [
+        {"t":"choice","c":"meeting","dir":"t2n","big":true,"d":["report","project"]},
+        {"t":"choice","c":"deadline","dir":"n2t","d":["agenda","project"]},
+        {"t":"match","cs":["meeting","agenda","report","project"]},
+        {"t":"match","cs":["deadline","discuss","agree","decide"]},
+        {"t":"build","c":"lets_discuss_the_new_project","dir":"n2t","d":["agree","decide"]},
+        {"t":"build","c":"please_send_me_the_report","dir":"audio","d":["agenda","deadline"]},
+        {"t":"fill","c":"the_meeting_starts_at_ten"},
+        {"t":"listenpick","c":"the_deadline_is_next_friday"},
+        {"t":"speak","c":"i_am_sorry_i_am_late"},
+        {"t":"choice","c":"what_is_on_the_agenda","dir":"t2n","d":["we_need_to_decide_today","i_agree_with_your_idea"]},
+        {"t":"typeword","c":"we_need_to_decide_today"},
+        {"t":"build","c":"please_send_me_the_report","dir":"t2n","d":["project","meeting"]},
+        {"t":"fill","c":"i_agree_with_your_idea"},
+        {"t":"choice","c":"discuss","dir":"n2t","d":["agree","project"]},
+        {"t":"speak","c":"the_deadline_is_next_friday"}
+      ]
+    }
+  ]
+}
