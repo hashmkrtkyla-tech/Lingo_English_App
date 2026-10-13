@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_01",
+      "exercises": [
+        {"t":"choice","c":"played","dir":"t2n","big":true,"d":["watched","cooked"]},
+        {"t":"choice","c":"cleaned","dir":"n2t","d":["worked","called"]},
+        {"t":"match","cs":["played","watched","cooked","cleaned"]},
+        {"t":"match","cs":["worked","visited","studied","yesterday"]},
+        {"t":"build","c":"i_played_football_yesterday","dir":"n2t","d":["cleaned","visited"]},
+        {"t":"build","c":"i_watched_a_film","dir":"audio","d":["cooked","helped"]},
+        {"t":"fill","c":"she_cooked_dinner_for_us"},
+        {"t":"listenpick","c":"we_cleaned_the_house"},
+        {"t":"speak","c":"he_worked_all_day"},
+        {"t":"choice","c":"they_visited_their_friends","dir":"t2n","d":["we_cleaned_the_house","i_studied_for_the_test"]},
+        {"t":"typeword","c":"i_studied_for_the_test"},
+        {"t":"build","c":"i_called_my_friend","dir":"t2n","d":["worked","visited"]},
+        {"t":"fill","c":"i_watched_a_film"},
+        {"t":"choice","c":"visited","dir":"n2t","d":["studied","helped"]},
+        {"t":"speak","c":"i_called_my_friend"}
+      ]
+    },
+    {
+      "id": "a2_02",
+      "exercises": [
+        {"t":"choice","c":"went","dir":"t2n","big":true,"d":["saw","ate"]},
+        {"t":"choice","c":"bought","dir":"n2t","d":["took","met"]},
+        {"t":"match","cs":["went","saw","ate","bought"]},
+        {"t":"match","cs":["took","met","trip","lunch"]},
+        {"t":"build","c":"we_went_to_the_beach","dir":"n2t","d":["ate","met"]},
+        {"t":"build","c":"i_saw_an_old_castle","dir":"audio","d":["bought","took"]},
+        {"t":"fill","c":"we_ate_fish_for_lunch"},
+        {"t":"listenpick","c":"she_bought_a_new_hat"},
+        {"t":"speak","c":"he_took_many_photos"},
+        {"t":"choice","c":"i_met_my_old_friend","dir":"t2n","d":["we_went_to_the_beach","the_trip_was_great"]},
+        {"t":"typeword","c":"we_drove_home_at_night"},
+        {"t":"build","c":"the_trip_was_great","dir":"t2n","d":["lunch","photos"]},
+        {"t":"fill","c":"i_saw_an_old_castle"},
+        {"t":"choice","c":"drove","dir":"n2t","d":["photos","trip"]},
+        {"t":"speak","c":"i_met_my_old_friend"}
+      ]
+    },
+    {
+      "id": "a2_03",
+      "exercises": [
+        {"t":"choice","c":"forget","dir":"t2n","big":true,"d":["wait","sleep"]},
+        {"t":"choice","c":"finish","dir":"n2t","d":["answer","buy"]},
+        {"t":"match","cs":["forget","wait","sleep","finish"]},
+        {"t":"match","cs":["answer","remember","phone","keys"]},
+        {"t":"build","c":"i_didnt_forget_my_keys","dir":"n2t","d":["wait","sleep"]},
+        {"t":"build","c":"she_didnt_answer_the_phone","dir":"audio","d":["buy","call"]},
+        {"t":"fill","c":"we_didnt_wait_for_him"},
+        {"t":"listenpick","c":"he_didnt_sleep_last_night"},
+        {"t":"speak","c":"they_didnt_finish_the_work"},
+        {"t":"choice","c":"i_didnt_buy_anything","dir":"t2n","d":["we_didnt_wait_for_him","i_didnt_remember_his_name"]},
+        {"t":"typeword","c":"you_didnt_call_me"},
+        {"t":"build","c":"i_didnt_remember_his_name","dir":"t2n","d":["phone","keys"]},
+        {"t":"fill","c":"she_didnt_answer_the_phone"},
+        {"t":"choice","c":"remember","dir":"n2t","d":["buy","wait"]},
+        {"t":"speak","c":"i_didnt_forget_my_keys"}
+      ]
+    },
+    {
+      "id": "a2_04",
+      "exercises": [
+        {"t":"choice","c":"where","dir":"t2n","big":true,"d":["when","why"]},
+        {"t":"choice","c":"party","dir":"n2t","d":["movie","late"]},
+        {"t":"match","cs":["where","when","why","who"]},
+        {"t":"match","cs":["how","party","movie","late"]},
+        {"t":"build","c":"did_you_go_to_the_party","dir":"n2t","d":["movie","late"]},
+        {"t":"build","c":"when_did_he_arrive_home","dir":"audio","d":["why","who"]},
+        {"t":"fill","c":"why_did_you_stay_home"},
+        {"t":"listenpick","c":"did_she_like_the_movie"},
+        {"t":"speak","c":"where_did_you_go_yesterday"},
+        {"t":"choice","c":"who_did_you_meet_there","dir":"t2n","d":["did_they_come_late","why_did_you_stay_home"]},
+        {"t":"typeword","c":"how_did_you_get_home"},
+        {"t":"build","c":"did_they_come_late","dir":"t2n","d":["where","how"]},
+        {"t":"fill","c":"did_you_go_to_the_party"},
+        {"t":"choice","c":"movie","dir":"n2t","d":["party","late"]},
+        {"t":"speak","c":"who_did_you_meet_there"}
+      ]
+    },
+    {
+      "id": "a2_05",
+      "exercises": [
+        {"t":"choice","c":"holiday","dir":"t2n","big":true,"d":["hotel","island"]},
+        {"t":"choice","c":"swam","dir":"n2t","d":["stayed","enjoyed"]},
+        {"t":"match","cs":["holiday","hotel","island","week"]},
+        {"t":"match","cs":["stayed","swam","relaxed","sunny"]},
+        {"t":"build","c":"we_stayed_in_a_small_hotel","dir":"n2t","d":["island","week"]},
+        {"t":"build","c":"we_swam_in_the_sea","dir":"audio","d":["hotel","souvenirs"]},
+        {"t":"fill","c":"i_relaxed_on_the_beach"},
+        {"t":"listenpick","c":"the_weather_was_sunny"},
+        {"t":"speak","c":"my_holiday_was_wonderful"},
+        {"t":"choice","c":"we_visited_a_small_island","dir":"t2n","d":["i_enjoyed_every_day","we_swam_in_the_sea"]},
+        {"t":"typeword","c":"i_bought_some_souvenirs"},
+        {"t":"build","c":"i_enjoyed_every_day","dir":"t2n","d":["hotel","island"]},
+        {"t":"fill","c":"we_stayed_in_a_small_hotel"},
+        {"t":"choice","c":"island","dir":"n2t","d":["hotel","souvenirs"]},
+        {"t":"speak","c":"the_weather_was_sunny"}
+      ]
+    }
+  ]
+}
