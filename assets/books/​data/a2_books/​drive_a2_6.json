@@ -1,14 +1,1668 @@
 {
-  "id": "a2_drive_6",
-  "title": "A2 Elementary Story 6",
+  "id": "a2_remember_atita",
+  "title": "Remember Atita",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1zT2Mx04KkmO7CbCLIRCrSf7DuvYtPLyB",
+  "audio_url": "assets/books/audio/a2_books/Remember_Atita-Jackee_Budesta_Batanda.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Listen carefully to master the clear pronunciation.",
-      "translation": "استمع بتركيز لإتقان النطق الواضح."
+      "id": 1,
+      "text": "When there is war in a country, it is easy to lose people.",
+      "translation": "عندما تكون هناك حرب في بلد ما، يكون من السهل فقدان الناس."
+    },
+    {
+      "id": 2,
+      "text": "Mothers lose children, children lose parents, sisters lose brothers, friends lose friends...",
+      "translation": "الأمهات يفقدن أطفالهن، والأطفال يفقدون والديهم، والأخوات يفقدن إخوتهن، والأصدقاء يفقدون أصدقاءهم..."
+    },
+    {
+      "id": 3,
+      "text": "Atita is in Gulu town, looking for her friends.",
+      "translation": "أتيتا في بلدة غولو، تبحث عن صديقاتها."
+    },
+    {
+      "id": 4,
+      "text": "All she has is an old photograph, taken eighteen years ago.",
+      "translation": "كل ما تملكه هو صورة قديمة، التُقطت منذ ثمانية عشر عاماً."
+    },
+    {
+      "id": 5,
+      "text": "At night she sleeps on shop verandas, with all the children from the villages, who are hiding from the rebels.",
+      "translation": "في الليل تنام على شرفات المتاجر، مع جميع الأطفال من القرى، الذين يختبئون من المتمردين."
+    },
+    {
+      "id": 6,
+      "text": "It is a hopeless search, but Atita does not stop hoping...",
+      "translation": "إنه بحث يائس، لكن أتيتا لا تتوقف عن الأمل..."
+    },
+    {
+      "id": 7,
+      "text": "We're five of the Ten Green Bottles in the nursery rhyme that we sang all those years ago in 1985.",
+      "translation": "نحن خمسة من زجاجات 'عشر زجاجات خضراء' في أغنية الأطفال التي كنا نغنيها كل تلك السنوات الماضية في عام 1985."
+    },
+    {
+      "id": 8,
+      "text": "Five Green Bottles standing on the wall of life.",
+      "translation": "خمس زجاجات خضراء تقف على جدار الحياة."
+    },
+    {
+      "id": 9,
+      "text": "Five bright smiling faces stare out of the old black and white photo.",
+      "translation": "خمسة وجوه مشرقة مبتسمة تحدق من الصورة القديمة بالأبيض والأسود."
+    },
+    {
+      "id": 10,
+      "text": "Our arms are round each other's shoulders, and we're looking towards the camera, our eyes shining.",
+      "translation": "أذرعنا حول أكتاف بعضنا البعض، ونحن ننظر نحو الكاميرا، وعيوننا تلمع."
+    },
+    {
+      "id": 11,
+      "text": "We don't notice the torn clothes that we're wearing.",
+      "translation": "لا نلاحظ الملابس الممزقة التي نرتديها."
+    },
+    {
+      "id": 12,
+      "text": "Our legs are covered with brown soil.",
+      "translation": "أرجلنا مغطاة بالتراب البني."
+    },
+    {
+      "id": 13,
+      "text": "We smile through our missing teeth.",
+      "translation": "نبتسم من خلال أسناننا المفقودة."
+    },
+    {
+      "id": 14,
+      "text": "2003. The photo of my past lies in my hands, with the edges torn.",
+      "translation": "2003. صورة ماضيّ تقع في يدي، وحوافها ممزقة."
+    },
+    {
+      "id": 15,
+      "text": "It's brown with age.",
+      "translation": "إنها بنية اللون بفعل الزمن."
+    },
+    {
+      "id": 16,
+      "text": "It doesn't shine in the light from the shop signpost above me.",
+      "translation": "إنها لا تلمع في الضوء المنبعث من لافتة المتجر فوقي."
+    },
+    {
+      "id": 17,
+      "text": "I pass the photo to Okema, who sits next to me with his legs crossed.",
+      "translation": "أمرر الصورة إلى أوكيما، الذي يجلس بجانبي وساقاه متقاطعتان."
+    },
+    {
+      "id": 18,
+      "text": "There are a lot of us here, sitting on the floor of the shop veranda.",
+      "translation": "هناك الكثير منا هنا، جالسين على أرضية شرفة المتجر."
+    },
+    {
+      "id": 19,
+      "text": "A radio is playing loud music.",
+      "translation": "راديو يشغل موسيقى صاخبة."
+    },
+    {
+      "id": 20,
+      "text": "I'm trying to explain to Okema why I've travelled back to Gulu town to search for the girls in the photo.",
+      "translation": "أحاول شرح لأوكيما لماذا عدت إلى بلدة غولو للبحث عن الفتيات في الصورة."
+    },
+    {
+      "id": 21,
+      "text": "We sit on the veranda because it's safer to spend the night in the town.",
+      "translation": "نجلس على الشرفة لأنه من الأكثر أماناً قضاء الليل في البلدة."
+    },
+    {
+      "id": 22,
+      "text": "The LRA rebels don't come to Gulu town; they only attack the villages.",
+      "translation": "متمردو جيش الرب للمقاومة لا يأتون إلى بلدة غولو؛ إنهم يهاجمون القرى فقط."
+    },
+    {
+      "id": 23,
+      "text": "We talk quietly because we don't want to wake the other children, who are sleeping.",
+      "translation": "نتحدث بهدوء لأننا لا نريد إيقاظ الأطفال الآخرين النائمين."
+    },
+    {
+      "id": 24,
+      "text": "Okema and I are kept awake by the fear of the night.",
+      "translation": "أوكيما وأنا نبقى مستيقظين بسبب الخوف من الليل."
+    },
+    {
+      "id": 25,
+      "text": "We talk to hold this fear back.",
+      "translation": "نتحدث لكبح هذا الخوف."
+    },
+    {
+      "id": 26,
+      "text": "In the distance we hear gunshots from time to time.",
+      "translation": "في المسافة نسمع طلقات نارية من وقت لآخر."
+    },
+    {
+      "id": 27,
+      "text": "The faces in the photo are like strangers.",
+      "translation": "الوجوه في الصورة تبدو كالغرباء."
+    },
+    {
+      "id": 28,
+      "text": "I've been away too long.",
+      "translation": "لقد ابتعدت لفترة طويلة جداً."
+    },
+    {
+      "id": 29,
+      "text": "I'm not sure they'll recognize me when we meet.",
+      "translation": "لست متأكدة من أنهم سيتعرفون عليّ عندما نلتقي."
+    },
+    {
+      "id": 30,
+      "text": "I begin to get an empty feeling inside me.",
+      "translation": "بدأ ينتابني شعور بالفراغ بداخلي."
+    },
+    {
+      "id": 31,
+      "text": "Tears fill my eyes.",
+      "translation": "تمتلئ عيناي بالدموع."
+    },
+    {
+      "id": 32,
+      "text": "Okema takes my hand and whispers, 'It's all right to cry.'",
+      "translation": "يأخذ أوكيما يدي ويهمس: 'لا بأس في البكاء'."
+    },
+    {
+      "id": 33,
+      "text": "Our eyes meet.",
+      "translation": "تلتقي أعيننا."
+    },
+    {
+      "id": 34,
+      "text": "I smile.",
+      "translation": "أبتسم."
+    },
+    {
+      "id": 35,
+      "text": "My finger trembles as I pick out the faces.",
+      "translation": "يرتجف إصبعي وأنا أتفحص الوجوه."
+    },
+    {
+      "id": 36,
+      "text": "Laker stands close to me in the photo.",
+      "translation": "تقف لاكر بالقرب مني في الصورة."
+    },
+    {
+      "id": 37,
+      "text": "She and I were born on the same day.",
+      "translation": "وُلدنا هي وأنا في نفس اليوم."
+    },
+    {
+      "id": 38,
+      "text": "We were more like sisters than friends.",
+      "translation": "كنا أشبه بالأخوات أكثر من الصديقات."
+    },
+    {
+      "id": 39,
+      "text": "We had such fun together!",
+      "translation": "لقد استمتعنا كثيراً معاً!"
+    },
+    {
+      "id": 40,
+      "text": "She was the leader of the group, and always had the craziest ideas.",
+      "translation": "كانت قائدة المجموعة، وكانت دائماً لديها أفكار مجنونة."
+    },
+    {
+      "id": 41,
+      "text": "I wonder what she looks like now.",
+      "translation": "أتساءل كيف تبدو الآن."
+    },
+    {
+      "id": 42,
+      "text": "Perhaps she's tall and beautiful.",
+      "translation": "ربما تكون طويلة وجميلة."
+    },
+    {
+      "id": 43,
+      "text": "'Why did you leave Gulu?' Okema asks.",
+      "translation": "يسأل أوكيما: 'لماذا تركت غولو؟'"
+    },
+    {
+      "id": 44,
+      "text": "I am not sure how to answer.",
+      "translation": "لست متأكدة كيف أجيب."
+    },
+    {
+      "id": 45,
+      "text": "We leave places because we need to start a new life.",
+      "translation": "نترك الأماكن لأننا نحتاج لبدء حياة جديدة."
+    },
+    {
+      "id": 46,
+      "text": "I left because my grandfather, Won Okech, died.",
+      "translation": "رحلت لأن جدي، وون أوكيتش، مات."
+    },
+    {
+      "id": 47,
+      "text": "I had lived in his house since my parents' death, and after his death there was no one to take care of me.",
+      "translation": "كنت أعيش في منزله منذ وفاة والديّ، وبعد وفاته لم يكن هناك أحد ليعتني بي."
+    },
+    {
+      "id": 48,
+      "text": "Then my mother's cousin, min Komakech, appeared like a rain cloud and took me away to help with her children.",
+      "translation": "ثم ظهرت ابنة عم والدتي، مين كوماكيتش، مثل سحابة مطر وأخذتني بعيداً لمساعدتها في رعاية أطفالها."
+    },
+    {
+      "id": 49,
+      "text": "'I don't know,' I lie.",
+      "translation": "أكذب: 'لا أعرف'."
+    },
+    {
+      "id": 50,
+      "text": "I quickly start talking about something else.",
+      "translation": "أبدأ بسرعة في الحديث عن شيء آخر."
+    },
+    {
+      "id": 51,
+      "text": "'How many children are left in your family?'",
+      "translation": "'كم عدد الأطفال المتبقين في عائلتك؟'"
+    },
+    {
+      "id": 52,
+      "text": "'I'm the last of them,' he says.",
+      "translation": "يقول: 'أنا آخرهم'."
+    },
+    {
+      "id": 53,
+      "text": "'That's why my mother makes sure I come to town every evening.'",
+      "translation": "'لهذا السبب تتأكد والدتي من مجيئي إلى البلدة كل مساء'."
+    },
+    {
+      "id": 54,
+      "text": "'I'm the only one in my family too,' I say.",
+      "translation": "أقول: 'أنا أيضاً الوحيدة في عائلتي'."
+    },
+    {
+      "id": 55,
+      "text": "We are two lonely stars.",
+      "translation": "نحن نجمان وحيدان."
+    },
+    {
+      "id": 56,
+      "text": "Sometimes I think this search is hopeless.",
+      "translation": "أحياناً أعتقد أن هذا البحث يائس."
+    },
+    {
+      "id": 57,
+      "text": "So much has happened since I last saw my friends.",
+      "translation": "حدث الكثير منذ آخر مرة رأيت فيها صديقاتي."
+    },
+    {
+      "id": 58,
+      "text": "Perhaps they have died or the rebels have taken them away.",
+      "translation": "ربما ماتوا أو أخذهم المتمردون بعيداً."
+    },
+    {
+      "id": 59,
+      "text": "But I know I have to find Laker.",
+      "translation": "لكنني أعلم أنه يجب عليّ العثور على لاكر."
+    },
+    {
+      "id": 60,
+      "text": "I know she needs me.",
+      "translation": "أعلم أنها تحتاجني."
+    },
+    {
+      "id": 61,
+      "text": "All I have is this old photo, which no one recognizes.",
+      "translation": "كل ما لدي هو هذه الصورة القديمة، التي لا يتعرف عليها أحد."
+    },
+    {
+      "id": 62,
+      "text": "I spend my days under the sun, moving from place to place, but I get no answers.",
+      "translation": "أقضي أيامي تحت الشمس، متنقلة من مكان إلى آخر، لكنني لا أحصل على إجابات."
+    },
+    {
+      "id": 63,
+      "text": "Okema is asleep.",
+      "translation": "أوكيما نائم."
+    },
+    {
+      "id": 64,
+      "text": "I'd like to sleep too, but I can't.",
+      "translation": "أود النوم أيضاً، لكنني لا أستطيع."
+    },
+    {
+      "id": 65,
+      "text": "Okema gives a frightened cry in his sleep.",
+      "translation": "يطلق أوكيما صرخة خائفة في نومه."
+    },
+    {
+      "id": 66,
+      "text": "I know he has the same dream every night.",
+      "translation": "أعلم أنه يرى نفس الحلم كل ليلة."
+    },
+    {
+      "id": 67,
+      "text": "In his dream the rebels attack his home and take him away from his mother.",
+      "translation": "في حلمه يهاجم المتمردون منزله ويأخذونه بعيداً عن والدته."
+    },
+    {
+      "id": 68,
+      "text": "That's what happened to all his brothers and sisters.",
+      "translation": "هذا ما حدث لجميع إخوته وأخواته."
+    },
+    {
+      "id": 69,
+      "text": "And as they take him away, he can hear his mother's screams.",
+      "translation": "وبينما يأخذونه بعيداً، يمكنه سماع صرخات والدته."
+    },
+    {
+      "id": 70,
+      "text": "He always wakes up then, and finds me staring at him.",
+      "translation": "يستيقظ دائماً حينها، ويجدني أحدق فيه."
+    },
+    {
+      "id": 71,
+      "text": "I tell him that he's safe, and that the rebels are only a bad dream.",
+      "translation": "أخبره أنه بأمان، وأن المتمردين مجرد حلم سيئ."
+    },
+    {
+      "id": 72,
+      "text": "I pull him to me, put my arms around him and start singing quietly,",
+      "translation": "أضمه إليّ، وأضع ذراعي حوله وأبدأ في الغناء بهدوء،"
+    },
+    {
+      "id": 73,
+      "text": "Ten green bottles standing on the wall,",
+      "translation": "عشر زجاجات خضراء تقف على الحائط،"
+    },
+    {
+      "id": 74,
+      "text": "Ten green bottles standing on the wall,",
+      "translation": "عشر زجاجات خضراء تقف على الحائط،"
+    },
+    {
+      "id": 75,
+      "text": "If one green bottle should accidentally fall...",
+      "translation": "إذا سقطت زجاجة خضراء عن طريق الخطأ..."
+    },
+    {
+      "id": 76,
+      "text": "Soon he stops crying and goes to sleep again.",
+      "translation": "سرعان ما يتوقف عن البكاء وينام مرة أخرى."
+    },
+    {
+      "id": 77,
+      "text": "I know he has slept on verandas in town for almost a year now, hiding from the rebels that attack the villages.",
+      "translation": "أعلم أنه نام على شرفات في البلدة لما يقرب من عام الآن، مختبئاً من المتمردين الذين يهاجمون القرى."
+    },
+    {
+      "id": 78,
+      "text": "When the sun rises, he'll run home to his mother, who'll send him off to school.",
+      "translation": "عندما تشرق الشمس، سيركض إلى المنزل لوالدته، التي سترسله إلى المدرسة."
+    },
+    {
+      "id": 79,
+      "text": "He's reading for his school-leaving examinations.",
+      "translation": "إنه يدرس لامتحانات نهاية المدرسة."
+    },
+    {
+      "id": 80,
+      "text": "'I shall become President and end the war,' he says when he's feeling hopeful.",
+      "translation": "يقول عندما يشعر بالأمل: 'سأصبح رئيساً وأنهي الحرب'."
+    },
+    {
+      "id": 81,
+      "text": "'I want to see my mother smile again,' he says when he's feeling miserable.",
+      "translation": "يقول عندما يشعر بالبؤس: 'أريد أن أرى والدتي تبتسم مرة أخرى'."
+    },
+    {
+      "id": 82,
+      "text": "I go on singing the nursery rhyme as I look at the photo.",
+      "translation": "أستمر في غناء أغنية الأطفال وأنا أنظر إلى الصورة."
+    },
+    {
+      "id": 83,
+      "text": "We are five of the ten green bottles on the wall.",
+      "translation": "نحن خمسة من عشر زجاجات خضراء على الحائط."
+    },
+    {
+      "id": 84,
+      "text": "And if one green bottle should accidentally fall... Which of us fell first?",
+      "translation": "وإذا سقطت زجاجة خضراء عن طريق الخطأ... من منا سقط أولاً؟"
+    },
+    {
+      "id": 85,
+      "text": "Gulu Hospital.",
+      "translation": "مستشفى غولو."
+    },
+    {
+      "id": 86,
+      "text": "I'm shaking with excitement.",
+      "translation": "أرتجف من الإثارة."
+    },
+    {
+      "id": 87,
+      "text": "Laker is here.",
+      "translation": "لاكر هنا."
+    },
+    {
+      "id": 88,
+      "text": "Someone guides me through the hospital, past patients lying on the floor.",
+      "translation": "يرشدني شخص ما عبر المستشفى، ماراً بمرضى مستلقين على الأرض."
+    },
+    {
+      "id": 89,
+      "text": "There are flies everywhere.",
+      "translation": "هناك ذباب في كل مكان."
+    },
+    {
+      "id": 90,
+      "text": "I pass a bed where a little girl lies, crying with pain.",
+      "translation": "أمر بسرير حيث ترقد طفلة صغيرة، تبكي من الألم."
+    },
+    {
+      "id": 91,
+      "text": "She has no legs.",
+      "translation": "ليس لديها أرجل."
+    },
+    {
+      "id": 92,
+      "text": "An older woman sits beside her and tries to keep off the flies.",
+      "translation": "تجلس امرأة مسنة بجانبها وتحاول إبعاد الذباب."
+    },
+    {
+      "id": 93,
+      "text": "'A landmine,' the guide whispers to me.",
+      "translation": "يهمس لي المرشد: 'لغم أرضي'."
+    },
+    {
+      "id": 94,
+      "text": "I stare straight ahead and try to walk faster.",
+      "translation": "أحدق أمامي مباشرة وأحاول السير بشكل أسرع."
+    },
+    {
+      "id": 95,
+      "text": "When we reach Laker's bed, I see that she's asleep.",
+      "translation": "عندما نصل إلى سرير لاكر، أرى أنها نائمة."
+    },
+    {
+      "id": 96,
+      "text": "We stand silently and wait.",
+      "translation": "نقف بصمت وننتظر."
+    },
+    {
+      "id": 97,
+      "text": "The smiling child in the photo has become this poor, sick woman.",
+      "translation": "الطفلة المبتسمة في الصورة أصبحت هذه المرأة الفقيرة المريضة."
+    },
+    {
+      "id": 98,
+      "text": "A torn blue blanket covers her body.",
+      "translation": "بطانية زرقاء ممزقة تغطي جسدها."
+    },
+    {
+      "id": 99,
+      "text": "The sheet on the bed is brown with dirt.",
+      "translation": "الملاءة على السرير بنية من الأوساخ."
+    },
+    {
+      "id": 100,
+      "text": "I have waited four weeks for this moment.",
+      "translation": "انتظرت أربعة أسابيع لهذه اللحظة."
+    },
+    {
+      "id": 101,
+      "text": "I was hoping we would laugh and talk about old times together.",
+      "translation": "كنت آمل أن نضحك ونتحدث عن الأوقات القديمة معاً."
+    },
+    {
+      "id": 102,
+      "text": "I did not expect our meeting to be in a hospital.",
+      "translation": "لم أتوقع أن يكون لقاؤنا في مستشفى."
+    },
+    {
+      "id": 103,
+      "text": "I hold out my hand to touch her, but the guide stops me.",
+      "translation": "أمد يدي لألمسها، لكن المرشد يوقفني."
+    },
+    {
+      "id": 104,
+      "text": "'She's still sleeping,' he says.",
+      "translation": "يقول: 'إنها لا تزال نائمة'."
+    },
+    {
+      "id": 105,
+      "text": "I say nothing.",
+      "translation": "لا أقول شيئاً."
+    },
+    {
+      "id": 106,
+      "text": "I wait.",
+      "translation": "أنتظر."
+    },
+    {
+      "id": 107,
+      "text": "Suddenly Laker's eyes fly open.",
+      "translation": "فجأة تنفتح عينا لاكر."
+    },
+    {
+      "id": 108,
+      "text": "She stares at us, with no expression.",
+      "translation": "تحدق بنا، دون أي تعبير."
+    },
+    {
+      "id": 109,
+      "text": "I smile at her.",
+      "translation": "أبتسم لها."
+    },
+    {
+      "id": 110,
+      "text": "She continues to stare at me.",
+      "translation": "تستمر في التحديق بي."
+    },
+    {
+      "id": 111,
+      "text": "Her thin face frightens me.",
+      "translation": "وجهها النحيف يخيفني."
+    },
+    {
+      "id": 112,
+      "text": "Her skin is oily and wet.",
+      "translation": "بشرتها دهنية ومبللة."
+    },
+    {
+      "id": 113,
+      "text": "The heat is awful.",
+      "translation": "الحرارة مروعة."
+    },
+    {
+      "id": 114,
+      "text": "Surely the blanket is too hot for her?",
+      "translation": "بالتأكيد البطانية دافئة جداً عليها؟"
+    },
+    {
+      "id": 115,
+      "text": "I move closer.",
+      "translation": "أقترب أكثر."
+    },
+    {
+      "id": 116,
+      "text": "'Laker,' I whisper, holding her thin hand.",
+      "translation": "أهمس وأنا أمسك يدها النحيفة: 'لاكر'."
+    },
+    {
+      "id": 117,
+      "text": "I don't think she remembers me.",
+      "translation": "لا أعتقد أنها تتذكرني."
+    },
+    {
+      "id": 118,
+      "text": "'It's me, Atita,' I say.",
+      "translation": "أقول: 'إنها أنا، أتيتا'."
+    },
+    {
+      "id": 119,
+      "text": "'Won Okech's granddaughter, Atita.'",
+      "translation": "'حفيدة وون أوكيتش، أتيتا'."
+    },
+    {
+      "id": 120,
+      "text": "I'm close to her, but I can't reach her.",
+      "translation": "أنا قريبة منها، لكنني لا أستطيع الوصول إليها."
+    },
+    {
+      "id": 121,
+      "text": "She opens her mouth.",
+      "translation": "تفتح فمها."
+    },
+    {
+      "id": 122,
+      "text": "'Otoo. Won Okech otoo.'",
+      "translation": "'أوتو. وون أوكيتش أوتو'."
+    },
+    {
+      "id": 123,
+      "text": "She's right.",
+      "translation": "إنها محقة."
+    },
+    {
+      "id": 124,
+      "text": "Won Okech is dead.",
+      "translation": "وون أوكيتش مات."
+    },
+    {
+      "id": 125,
+      "text": "He died over ten years ago.",
+      "translation": "توفي منذ أكثر من عشر سنوات."
+    },
+    {
+      "id": 126,
+      "text": "No one could forget Won Okech.",
+      "translation": "لا يمكن لأحد أن ينسى وون أوكيتش."
+    },
+    {
+      "id": 127,
+      "text": "I remember once I told him about a game that we had played with some older boys.",
+      "translation": "أتذكر ذات مرة أخبرته عن لعبة لعبناها مع بعض الأولاد الأكبر سناً."
+    },
+    {
+      "id": 128,
+      "text": "We called it playing 'mummy and daddy'.",
+      "translation": "أطلقنا عليها لعبة 'ماما وبابا'."
+    },
+    {
+      "id": 129,
+      "text": "When Won Okech heard that, he was very angry and beat the five of us girls very hard with his stick.",
+      "translation": "عندما سمع وون أوكيتش ذلك، غضب بشدة وضربنا نحن الفتيات الخمس بقسوة بعصاه."
+    },
+    {
+      "id": 130,
+      "text": "We couldn't walk or sit for a week.",
+      "translation": "لم نستطع المشي أو الجلوس لمدة أسبوع."
+    },
+    {
+      "id": 131,
+      "text": "My friends told me to keep my big mouth shut in future.",
+      "translation": "أخبرني أصدقائي أن أغلق فمي الكبير في المستقبل."
+    },
+    {
+      "id": 132,
+      "text": "'Yes. Won Okech is dead,' I reply.",
+      "translation": "أجيب: 'نعم. وون أوكيتش مات'."
+    },
+    {
+      "id": 133,
+      "text": "I want to know what happened to the others, but Laker still doesn't seem to recognize me.",
+      "translation": "أريد معرفة ما حدث للآخرين، لكن لاكر لا تزال لا تبدو متعرفة عليّ."
+    },
+    {
+      "id": 134,
+      "text": "The guide tells me it's time to leave.",
+      "translation": "يخبرني المرشد أن الوقت قد حان للمغادرة."
+    },
+    {
+      "id": 135,
+      "text": "I want to stay, but he won't let me.",
+      "translation": "أريد البقاء، لكنه لا يسمح لي."
+    },
+    {
+      "id": 136,
+      "text": "I bend down and whisper into Laker's ear, 'Laker, please remember Atita.'",
+      "translation": "أنحني وأهمس في أذن لاكر: 'لاكر، أرجوك تذكري أتيتا'."
+    },
+    {
+      "id": 137,
+      "text": "That evening on the shop veranda, Okema asks, 'Did you and she talk together? Did she remember you?'",
+      "translation": "في تلك الأمسية على شرفة المتجر، يسأل أوكيما: 'هل تحدثتما معاً؟ هل تذكرتك؟'"
+    },
+    {
+      "id": 138,
+      "text": "'No.'",
+      "translation": "'لا'."
+    },
+    {
+      "id": 139,
+      "text": "'Don't worry, I remember you. Look, I kept a sleeping place for you on the veranda.'",
+      "translation": "'لا تقلقي، أنا أتذكرك. انظري، لقد حجزت لك مكاناً للنوم على الشرفة'."
+    },
+    {
+      "id": 140,
+      "text": "'She said my Won Okech was dead.'",
+      "translation": "'قالت إن وون أوكيتش مات'."
+    },
+    {
+      "id": 141,
+      "text": "'So that means she remembers...'",
+      "translation": "'إذن هذا يعني أنها تتذكر...'"
+    },
+    {
+      "id": 142,
+      "text": "'No,' I say coldly, 'she doesn't. I want her to remember me. I want her to remember Atita.'",
+      "translation": "أقول ببرود: 'لا، إنها لا تتذكر. أريدها أن تتذكرني. أريدها أن تتذكر أتيتا'."
+    },
+    {
+      "id": 143,
+      "text": "'I'm sorry,' says Okema.",
+      "translation": "يقول أوكيما: 'أنا آسف'."
+    },
+    {
+      "id": 144,
+      "text": "'Let's not talk about it.'",
+      "translation": "'لنتحدث عن شيء آخر'."
+    },
+    {
+      "id": 145,
+      "text": "The other children are restless.",
+      "translation": "الأطفال الآخرون مضطربون."
+    },
+    {
+      "id": 146,
+      "text": "Sometimes a figure passes by our veranda or a dog runs past.",
+      "translation": "أحياناً يمر شخص بجوار شرفتنا أو يركض كلب."
+    },
+    {
+      "id": 147,
+      "text": "But most of the time the town square where we sit is empty.",
+      "translation": "لكن في معظم الأوقات تكون ساحة البلدة حيث نجلس فارغة."
+    },
+    {
+      "id": 148,
+      "text": "The townspeople are locked up in their homes.",
+      "translation": "سكان البلدة محتجزون في منازلهم."
+    },
+    {
+      "id": 149,
+      "text": "I stare ahead.",
+      "translation": "أحدق أمامي."
+    },
+    {
+      "id": 150,
+      "text": "Laker doesn't remember me.",
+      "translation": "لاكر لا تتذكرني."
+    },
+    {
+      "id": 151,
+      "text": "Laker doesn't remember Atita.",
+      "translation": "لاكر لا تتذكر أتيتا."
+    },
+    {
+      "id": 152,
+      "text": "Perhaps I have changed too much.",
+      "translation": "ربما تغيرت كثيراً."
+    },
+    {
+      "id": 153,
+      "text": "I am a stranger to her.",
+      "translation": "أنا غريبة بالنسبة لها."
+    },
+    {
+      "id": 154,
+      "text": "I am not the same Atita who she played with years ago.",
+      "translation": "أنا لست نفس أتيتا التي لعبت معها منذ سنوات."
+    },
+    {
+      "id": 155,
+      "text": "Time and distance have made us different people.",
+      "translation": "الزمن والمسافة جعلانا شخصين مختلفين."
+    },
+    {
+      "id": 156,
+      "text": "It's the price that we have to pay in the game called life.",
+      "translation": "إنه الثمن الذي يجب أن ندفعه في لعبة تسمى الحياة."
+    },
+    {
+      "id": 157,
+      "text": "I haven't found out why she's in Gulu Hospital.",
+      "translation": "لم أكتشف سبب وجودها في مستشفى غولو."
+    },
+    {
+      "id": 158,
+      "text": "Perhaps a serious illness has made her forget everything.",
+      "translation": "ربما مرض خطير جعلها تنسى كل شيء."
+    },
+    {
+      "id": 159,
+      "text": "It's raining now, and a strong wind blows.",
+      "translation": "إنها تمطر الآن، وتهب رياح قوية."
+    },
+    {
+      "id": 160,
+      "text": "Loud thunder sends Okema running to me.",
+      "translation": "الرعد العالي يجعل أوكيما يركض نحوي."
+    },
+    {
+      "id": 161,
+      "text": "I hold him close to me.",
+      "translation": "أضمه بقوة إليّ."
+    },
+    {
+      "id": 162,
+      "text": "What is he afraid of?",
+      "translation": "مم يخاف؟"
+    },
+    {
+      "id": 163,
+      "text": "'The rebels came when there was thunder,' he tells me later.",
+      "translation": "يخبرني لاحقاً: 'جاء المتمردون عندما كان هناك رعد'."
+    },
+    {
+      "id": 164,
+      "text": "We stand because the veranda is so wet.",
+      "translation": "نقف لأن الشرفة مبللة جداً."
+    },
+    {
+      "id": 165,
+      "text": "One of the children starts singing.",
+      "translation": "يبدأ أحد الأطفال في الغناء."
+    },
+    {
+      "id": 166,
+      "text": "'Min latin do, tedo i dye wor... My mother is cooking at night.'",
+      "translation": "'مين لاتين دو، تيدو آي داي وور... أمي تطبخ في الليل'."
+    },
+    {
+      "id": 167,
+      "text": "I join in, happily.",
+      "translation": "أشاركهم بسعادة."
+    },
+    {
+      "id": 168,
+      "text": "It's a song that Laker and I used to sing when we were young.",
+      "translation": "إنها أغنية كانت لاكر وأنا نغنيها عندما كنا صغيرات."
+    },
+    {
+      "id": 169,
+      "text": "Soon we are all singing.",
+      "translation": "سرعان ما نغني جميعاً."
+    },
+    {
+      "id": 170,
+      "text": "The night is cold and wet, but the song helps us feel warm, and we are safe in town away from the rebels.",
+      "translation": "الليل بارد ومبلل، لكن الأغنية تساعدنا على الشعور بالدفء، ونحن بأمان في البلدة بعيداً عن المتمردين."
+    },
+    {
+      "id": 171,
+      "text": "In the morning it feels good to be still alive.",
+      "translation": "في الصباح يكون الشعور جيداً بأنك لا تزال على قيد الحياة."
+    },
+    {
+      "id": 172,
+      "text": "As Okema and the others run home to get ready for school, I go to Gulu Hospital again.",
+      "translation": "بينما يركض أوكيما والآخرون إلى المنزل للاستعداد للمدرسة، أذهب إلى مستشفى غولو مرة أخرى."
+    },
+    {
+      "id": 173,
+      "text": "I can't take anything to give Laker.",
+      "translation": "لا يمكنني أخذ أي شيء لأعطيه للاكر."
+    },
+    {
+      "id": 174,
+      "text": "There isn't much food around and I have no more money.",
+      "translation": "لا يوجد الكثير من الطعام هنا وليس لدي المزيد من المال."
+    },
+    {
+      "id": 175,
+      "text": "Today, as I sit beside her bed, I hold her hands and repeatedly tell her, 'I'm Won Okech's Atita.'",
+      "translation": "اليوم، بينما أجلس بجانب سريرها، أمسك يديها وأخبرها مراراً وتكراراً: 'أنا أتيتا وون أوكيتش'."
+    },
+    {
+      "id": 176,
+      "text": "'Otoo. Won Okech otoo,' she replies.",
+      "translation": "تجيب: 'أوتو. وون أوكيتش أوتو'."
+    },
+    {
+      "id": 177,
+      "text": "'Yes. Won Okech is dead,' I say.",
+      "translation": "أقول: 'نعم. وون أوكيتش مات'."
+    },
+    {
+      "id": 178,
+      "text": "She reaches out to feel my face.",
+      "translation": "تمتد لتلمس وجهي."
+    },
+    {
+      "id": 179,
+      "text": "I hope that today she'll remember me.",
+      "translation": "آمل أن تتذكرني اليوم."
+    },
+    {
+      "id": 180,
+      "text": "Her hands move over my face and stop at the scar under my chin.",
+      "translation": "تتحرك يداها على وجهي وتتوقفان عند الندبة تحت ذقني."
+    },
+    {
+      "id": 181,
+      "text": "Is she remembering?",
+      "translation": "هل تتذكر؟"
+    },
+    {
+      "id": 182,
+      "text": "I got that scar when I fell off a seesaw once.",
+      "translation": "أصبت بتلك الندبة عندما سقطت من الأرجوحة ذات مرة."
+    },
+    {
+      "id": 183,
+      "text": "Then she looks at my neck.",
+      "translation": "ثم تنظر إلى رقبتي."
+    },
+    {
+      "id": 184,
+      "text": "She used to like the lines round my neck.",
+      "translation": "كانت تحب الخطوط حول رقبتي."
+    },
+    {
+      "id": 185,
+      "text": "She always said I didn't need to wear a necklace because I had a natural one.",
+      "translation": "كانت تقول دائماً إنني لست بحاجة لارتداء قلادة لأن لدي واحدة طبيعية."
+    },
+    {
+      "id": 186,
+      "text": "She used to say to me, 'Atita, Atita, bangle-necked Atita.'",
+      "translation": "كانت تقول لي: 'أتيتا، أتيتا، أتيتا ذات الرقبة كالأسورة'."
+    },
+    {
+      "id": 187,
+      "text": "If she says it now, I will know that she has remembered me.",
+      "translation": "إذا قالتها الآن، سأعرف أنها تذكرتني."
+    },
+    {
+      "id": 188,
+      "text": "I watch her face and wait, hoping and hoping for a smile, which will tell me that she knows me.",
+      "translation": "أراقب وجهها وأنتظر، آملاً وآملاً في ابتسامة تخبرني أنها تعرفني."
+    },
+    {
+      "id": 189,
+      "text": "Suddenly she pulls away from me.",
+      "translation": "فجأة تبتعد عني."
+    },
+    {
+      "id": 190,
+      "text": "Her eyes are empty, without expression.",
+      "translation": "عيناها فارغتان، بلا تعبير."
+    },
+    {
+      "id": 191,
+      "text": "I want to sit here until she remembers me.",
+      "translation": "أريد الجلوس هنا حتى تتذكرني."
+    },
+    {
+      "id": 192,
+      "text": "I've learnt she was found lying in the street near the hospital.",
+      "translation": "علمت أنها وُجدت ملقاة في الشارع بالقرب من المستشفى."
+    },
+    {
+      "id": 193,
+      "text": "No one knows her story, but it will be the usual one.",
+      "translation": "لا أحد يعرف قصتها، لكنها ستكون القصة المعتادة."
+    },
+    {
+      "id": 194,
+      "text": "If she can remember the past and the good times, perhaps it will help her get better.",
+      "translation": "إذا استطاعت تذكر الماضي والأوقات الجيدة، فربما سيساعدها ذلك على التحسن."
+    },
+    {
+      "id": 195,
+      "text": "She hasn't talked since she came here.",
+      "translation": "لم تتحدث منذ وصولها إلى هنا."
+    },
+    {
+      "id": 196,
+      "text": "'Laker,' I call.",
+      "translation": "أنادي: 'لاكر'."
+    },
+    {
+      "id": 197,
+      "text": "No answer, nothing.",
+      "translation": "لا جواب، لا شيء."
+    },
+    {
+      "id": 198,
+      "text": "'I have something to show you,' I say.",
+      "translation": "أقول: 'لدي شيء لأريكِ إياه'."
+    },
+    {
+      "id": 199,
+      "text": "I take out the photo and hold it before her eyes.",
+      "translation": "أخرج الصورة وأمسكها أمام عينيها."
+    },
+    {
+      "id": 200,
+      "text": "I hold my breath, hoping she will remember.",
+      "translation": "أحبس أنفاسي، آملة أن تتذكر."
+    },
+    {
+      "id": 201,
+      "text": "She stares at it.",
+      "translation": "تحدق فيها."
+    },
+    {
+      "id": 202,
+      "text": "'Do you remember?'",
+      "translation": "'هل تتذكرين؟'"
+    },
+    {
+      "id": 203,
+      "text": "I point to the faces.",
+      "translation": "أشير إلى الوجوه."
+    },
+    {
+      "id": 204,
+      "text": "'See, you're here in the photo. I am beside you. Atita. See, there are the others - Oyella, Adongping, Lamwaka.'",
+      "translation": "'انظري، أنتِ هنا في الصورة. أنا بجانبك. أتيتا. انظري، هناك الأخريات - أوييلا، أدونغبينغ، لامواكا'."
+    },
+    {
+      "id": 205,
+      "text": "I'm getting restless.",
+      "translation": "أصبحت مضطربة."
+    },
+    {
+      "id": 206,
+      "text": "Perhaps Laker will never remember anything.",
+      "translation": "ربما لن تتذكر لاكر أي شيء أبداً."
+    },
+    {
+      "id": 207,
+      "text": "But I'm sure she can tell me about the others.",
+      "translation": "لكنني متأكدة أنها يمكنها إخباري عن الأخريات."
+    },
+    {
+      "id": 208,
+      "text": "Five bright smiling faces in a photo... Five green bottles standing on a wall... Which of us fell first?",
+      "translation": "خمسة وجوه مشرقة مبتسمة في صورة... خمس زجاجات خضراء تقف على حائط... من منا سقط أولاً؟"
+    },
+    {
+      "id": 209,
+      "text": "I come here every day.",
+      "translation": "آتي إلى هنا كل يوم."
+    },
+    {
+      "id": 210,
+      "text": "I have to help Laker.",
+      "translation": "يجب أن أساعد لاكر."
+    },
+    {
+      "id": 211,
+      "text": "Each time I say Won Okech, she gives the same reply,",
+      "translation": "في كل مرة أقول وون أوكيتش، تعطي نفس الرد،"
+    },
+    {
+      "id": 212,
+      "text": "'Otoo. Won Okech otoo.'",
+      "translation": "'أوتو. وون أوكيتش أوتو'."
+    },
+    {
+      "id": 213,
+      "text": "'Yes. Won Okech otoo.' I repeat her words, but I'd like to tell her about my little friend, Okema, who wants to become President and end the war.",
+      "translation": "أكرر كلماتها: 'نعم. وون أوكيتش أوتو'، لكنني أود إخبارها عن صديقي الصغير، أوكيما، الذي يريد أن يصبح رئيساً وينهي الحرب."
+    },
+    {
+      "id": 214,
+      "text": "No more sleeping on verandas to escape the rebels.",
+      "translation": "لا مزيد من النوم على الشرفات للهروب من المتمردين."
+    },
+    {
+      "id": 215,
+      "text": "A life when we can laugh and grow fat from being lazy.",
+      "translation": "حياة يمكننا فيها الضحك والسمنة من الكسل."
+    },
+    {
+      "id": 216,
+      "text": "Okema wants to make that happen.",
+      "translation": "يريد أوكيما أن يحقق ذلك."
+    },
+    {
+      "id": 217,
+      "text": "Another evening on the veranda.",
+      "translation": "أمسية أخرى على الشرفة."
+    },
+    {
+      "id": 218,
+      "text": "Okema asks about Laker.",
+      "translation": "يسأل أوكيما عن لاكر."
+    },
+    {
+      "id": 219,
+      "text": "'She's fine,' I say without looking at him.",
+      "translation": "أقول دون النظر إليه: 'إنها بخير'."
+    },
+    {
+      "id": 220,
+      "text": "'Nearly fine.'",
+      "translation": "'بخير تقريباً'."
+    },
+    {
+      "id": 221,
+      "text": "'You should leave Gulu,' Okema says, 'and go back to your comfortable life, where you lived before.'",
+      "translation": "يقول أوكيما: 'يجب أن تتركي غولو، وتعودي إلى حياتك المريحة، حيث كنت تعيشين من قبل'."
+    },
+    {
+      "id": 222,
+      "text": "'It's crazy looking for friends who won't remember you.'",
+      "translation": "'من الجنون البحث عن أصدقاء لن يتذكروك'."
+    },
+    {
+      "id": 223,
+      "text": "I spend the nights on the veranda because my friends lived like this while I slept safe and warm.",
+      "translation": "أقضي الليالي على الشرفة لأن صديقاتي عشن هكذا بينما كنت أنام بأمان ودفء."
+    },
+    {
+      "id": 224,
+      "text": "I am ashamed that I was not with them.",
+      "translation": "أشعر بالخجل لأنني لم أكن معهن."
+    },
+    {
+      "id": 225,
+      "text": "The rain washes away the pain in my heart.",
+      "translation": "المطر يغسل الألم في قلبي."
+    },
+    {
+      "id": 226,
+      "text": "I tell Okema he cannot understand why I visit Laker every day.",
+      "translation": "أخبر أوكيما أنه لا يستطيع فهم سبب زيارتي للاكر كل يوم."
+    },
+    {
+      "id": 227,
+      "text": "A cameraman walks past, and takes pictures of us.",
+      "translation": "يمر مصور ويلتقط صوراً لنا."
+    },
+    {
+      "id": 228,
+      "text": "Okema spits at him.",
+      "translation": "يبصق أوكيما عليه."
+    },
+    {
+      "id": 229,
+      "text": "'Why did you spit at him?' I ask.",
+      "translation": "أسأل: 'لماذا بصقت عليه؟'"
+    },
+    {
+      "id": 230,
+      "text": "'He's making money out of our misery.'",
+      "translation": "'إنه يجني المال من بؤسنا'."
+    },
+    {
+      "id": 231,
+      "text": "'Perhaps he's from the newspapers.'",
+      "translation": "'ربما يكون من الصحف'."
+    },
+    {
+      "id": 232,
+      "text": "'You're new to this business of homelessness.'",
+      "translation": "'أنت جديدة في مجال التشرد هذا'."
+    },
+    {
+      "id": 233,
+      "text": "Okema is right.",
+      "translation": "أوكيما محق."
+    },
+    {
+      "id": 234,
+      "text": "I know nothing about this nightlife.",
+      "translation": "لا أعرف شيئاً عن هذه الحياة الليلية."
+    },
+    {
+      "id": 235,
+      "text": "Tonight we hear heavy gunshots.",
+      "translation": "الليلة نسمع طلقات نارية كثيفة."
+    },
+    {
+      "id": 236,
+      "text": "The voices of the other children stop, and the radio is turned off.",
+      "translation": "تتوقف أصوات الأطفال الآخرين، ويُطفأ الراديو."
+    },
+    {
+      "id": 237,
+      "text": "Okema recognizes the kind of gun.",
+      "translation": "يتعرف أوكيما على نوع البندقية."
+    },
+    {
+      "id": 238,
+      "text": "He knows all the different guns and the sounds they make.",
+      "translation": "إنه يعرف كل البنادق المختلفة والأصوات التي تصدرها."
+    },
+    {
+      "id": 239,
+      "text": "Laker manages a smile today.",
+      "translation": "تنجح لاكر في الابتسام اليوم."
+    },
+    {
+      "id": 240,
+      "text": "She's a little friendlier.",
+      "translation": "إنها أكثر وداً قليلاً."
+    },
+    {
+      "id": 241,
+      "text": "Again her fingers feel my face and the scar under my chin.",
+      "translation": "مرة أخرى تتحسس أصابعها وجهي والندبة تحت ذقني."
+    },
+    {
+      "id": 242,
+      "text": "She touches it with one finger... Perhaps the scar is saying something to her.",
+      "translation": "تلمسها بإصبع واحد... ربما الندبة تقول لها شيئاً."
+    },
+    {
+      "id": 243,
+      "text": "She smiles.",
+      "translation": "إنها تبتسم."
+    },
+    {
+      "id": 244,
+      "text": "'Atita?' she whispers.",
+      "translation": "تهمس: 'أتيتا؟'"
+    },
+    {
+      "id": 245,
+      "text": "'Yes, Atita, Won Okech's Atita.' I take her hand.",
+      "translation": "أمسك يدها: 'نعم، أتيتا، أتيتا وون أوكيتش'."
+    },
+    {
+      "id": 246,
+      "text": "'Otoo. Won Okech otoo.'",
+      "translation": "'أوتو. وون أوكيتش أوتو'."
+    },
+    {
+      "id": 247,
+      "text": "'I'm here,' I whisper.",
+      "translation": "أهمس: 'أنا هنا'."
+    },
+    {
+      "id": 248,
+      "text": "Laker pulls away her hand and starts rocking on the bed.",
+      "translation": "تسحب لاكر يدها وتبدأ في التأرجح على السرير."
+    },
+    {
+      "id": 249,
+      "text": "I look in her eyes and find myself travelling down a dirt road.",
+      "translation": "أنظر في عينيها وأجد نفسي أسافر في طريق ترابي."
+    },
+    {
+      "id": 250,
+      "text": "Now I'm behind Won Okech's house.",
+      "translation": "الآن أنا خلف منزل وون أوكيتش."
+    },
+    {
+      "id": 251,
+      "text": "The five of us are standing under a mango tree, laughing.",
+      "translation": "نحن الخمسة نقف تحت شجرة مانجو، نضحك."
+    },
+    {
+      "id": 252,
+      "text": "We have just made a seesaw.",
+      "translation": "لقد صنعنا للتو أرجوحة."
+    },
+    {
+      "id": 253,
+      "text": "I sit on one end, then Laker jumps on the other.",
+      "translation": "أجلس على أحد الطرفين، ثم تقفز لاكر على الطرف الآخر."
+    },
+    {
+      "id": 254,
+      "text": "As the seesaw goes up, I fall off and my chin hits the ground.",
+      "translation": "بينما ترتفع الأرجوحة، أسقط ويصطدم ذقني بالأرض."
+    },
+    {
+      "id": 255,
+      "text": "I scream in pain.",
+      "translation": "أصرخ من الألم."
+    },
+    {
+      "id": 256,
+      "text": "Laker stops rocking.",
+      "translation": "تتوقف لاكر عن التأرجح."
+    },
+    {
+      "id": 257,
+      "text": "Her eyes are empty again.",
+      "translation": "عيناها فارغتان مرة أخرى."
+    },
+    {
+      "id": 258,
+      "text": "My heart is beating fast, as I remember what happened that day.",
+      "translation": "قلبي ينبض بسرعة، وأنا أتذكر ما حدث ذلك اليوم."
+    },
+    {
+      "id": 259,
+      "text": "Okema sits on the veranda, studying.",
+      "translation": "يجلس أوكيما على الشرفة، يدرس."
+    },
+    {
+      "id": 260,
+      "text": "His examination is soon.",
+      "translation": "امتحانه قريب."
+    },
+    {
+      "id": 261,
+      "text": "I don't talk to him this evening.",
+      "translation": "لا أتحدث معه هذا المساء."
+    },
+    {
+      "id": 262,
+      "text": "I let him read.",
+      "translation": "أدعه يقرأ."
+    },
+    {
+      "id": 263,
+      "text": "He has to work on his dream of becoming President.",
+      "translation": "عليه أن يعمل على حلمه في أن يصبح رئيساً."
+    },
+    {
+      "id": 264,
+      "text": "Who knows?",
+      "translation": "من يدري؟"
+    },
+    {
+      "id": 265,
+      "text": "He may bring us the peace that he promises.",
+      "translation": "قد يجلب لنا السلام الذي يعد به."
+    },
+    {
+      "id": 266,
+      "text": "When I visit Laker next morning, it's like the first day.",
+      "translation": "عندما أزور لاكر في صباح اليوم التالي، يكون الأمر كما في اليوم الأول."
+    },
+    {
+      "id": 267,
+      "text": "There is no expression on her face.",
+      "translation": "لا يوجد تعبير على وجهها."
+    },
+    {
+      "id": 268,
+      "text": "And I have so many questions to ask her!",
+      "translation": "ولدي الكثير من الأسئلة لأطرحها عليها!"
+    },
+    {
+      "id": 269,
+      "text": "I help her to sit up and drink some black tea.",
+      "translation": "أساعدها على الجلوس وشرب بعض الشاي الأسود."
+    },
+    {
+      "id": 270,
+      "text": "I pull out the torn photo and point to the other girls.",
+      "translation": "أخرج الصورة الممزقة وأشير إلى الفتيات الأخريات."
+    },
+    {
+      "id": 271,
+      "text": "'Laker, tell me about Oyella?'",
+      "translation": "'لاكر، أخبريني عن أوييلا؟'"
+    },
+    {
+      "id": 272,
+      "text": "She looks at me.",
+      "translation": "تنظر إليّ."
+    },
+    {
+      "id": 273,
+      "text": "Her eyes tell me she recognizes the name.",
+      "translation": "تخبرني عيناها أنها تتعرف على الاسم."
+    },
+    {
+      "id": 274,
+      "text": "'What happened to Oyella?' I ask.",
+      "translation": "أسأل: 'ماذا حدث لأوييلا؟'"
+    },
+    {
+      "id": 275,
+      "text": "She suddenly seems to be in pain.",
+      "translation": "تبدو فجأة وكأنها تتألم."
+    },
+    {
+      "id": 276,
+      "text": "She starts rocking.",
+      "translation": "تبدأ في التأرجح."
+    },
+    {
+      "id": 277,
+      "text": "I try to calm her, but she only rocks faster.",
+      "translation": "أحاول تهدئتها، لكنها تتأرجح بشكل أسرع."
+    },
+    {
+      "id": 278,
+      "text": "Her eyes take on a dreamy look, and her words are hurried and strange.",
+      "translation": "تأخذ عيناها نظرة حالمة، وكلماتها متعجلة وغريبة."
+    },
+    {
+      "id": 279,
+      "text": "The men came to the village and took them away.",
+      "translation": "جاء الرجال إلى القرية وأخذوهم بعيداً."
+    },
+    {
+      "id": 280,
+      "text": "They tied them with ropes and made them walk a long way.",
+      "translation": "ربطوهم بالحبال وجعلوهم يسيرون لمسافة طويلة."
+    },
+    {
+      "id": 281,
+      "text": "Some of the men hit the girls with sticks or with their guns, to make them go faster.",
+      "translation": "ضرب بعض الرجال الفتيات بالعصي أو ببنادقهم، لجعلهن يسرن بشكل أسرع."
+    },
+    {
+      "id": 282,
+      "text": "Someone fell, and stayed on the ground.",
+      "translation": "سقط أحدهم، وبقي على الأرض."
+    },
+    {
+      "id": 283,
+      "text": "She turned her face.",
+      "translation": "أدارت وجهها."
+    },
+    {
+      "id": 284,
+      "text": "OYELLA. Our Oyella.",
+      "translation": "أوييلا. أوييلا خاصتنا."
+    },
+    {
+      "id": 285,
+      "text": "One of the gunmen shouted to her to get up.",
+      "translation": "صرخ عليها أحد المسلحين لتقف."
+    },
+    {
+      "id": 286,
+      "text": "On her face was fear, and then, nothing.",
+      "translation": "كان على وجهها الخوف، ثم لا شيء."
+    },
+    {
+      "id": 287,
+      "text": "She was ready to die.",
+      "translation": "كانت مستعدة للموت."
+    },
+    {
+      "id": 288,
+      "text": "-Do you want to rest? the man asked.",
+      "translation": "-هل تريدين الراحة؟ سأل الرجل."
+    },
+    {
+      "id": 289,
+      "text": "-Yes, she said in a weak voice.",
+      "translation": "-نعم، قالت بصوت ضعيف."
+    },
+    {
+      "id": 290,
+      "text": "-You can have your wish, he laughed as he shot her between the eyes.",
+      "translation": "-يمكنك تحقيق أمنيتك، ضحك وهو يطلق النار بين عينيها."
+    },
+    {
+      "id": 291,
+      "text": "She made no sound.",
+      "translation": "لم تصدر أي صوت."
+    },
+    {
+      "id": 292,
+      "text": "Later, the other girl ran away and came to Gulu Hospital.'",
+      "translation": "لاحقاً، هربت الفتاة الأخرى وجاءت إلى مستشفى غولو.'"
+    },
+    {
+      "id": 293,
+      "text": "Laker stops rocking.",
+      "translation": "تتوقف لاكر عن التأرجح."
+    },
+    {
+      "id": 294,
+      "text": "She's breathing fast.",
+      "translation": "إنها تتنفس بسرعة."
+    },
+    {
+      "id": 295,
+      "text": "She starts laughing wildly, crazily.",
+      "translation": "تبدأ في الضحك بجنون، بجنون."
+    },
+    {
+      "id": 296,
+      "text": "I leave her bedside and run outside.",
+      "translation": "أترك سريرها وأركض إلى الخارج."
+    },
+    {
+      "id": 297,
+      "text": "I cry.",
+      "translation": "أبكي."
+    },
+    {
+      "id": 298,
+      "text": "In the photo Oyella's smile has gone and so has her face.",
+      "translation": "في الصورة اختفت ابتسامة أوييلا واختفى وجهها."
+    },
+    {
+      "id": 299,
+      "text": "Instead, there's a patch of grey.",
+      "translation": "بدلاً من ذلك، هناك بقعة رمادية."
+    },
+    {
+      "id": 300,
+      "text": "I stare at the sky.",
+      "translation": "أحدق في السماء."
+    },
+    {
+      "id": 301,
+      "text": "It's still blue, and the hospital still stands there.",
+      "translation": "لا تزال زرقاء، والمستشفى لا يزال قائماً هناك."
+    },
+    {
+      "id": 302,
+      "text": "'Oyella is dead,' I tell Okema that evening.",
+      "translation": "أخبر أوكيما في تلك الأمسية: 'أوييلا ماتت'."
+    },
+    {
+      "id": 303,
+      "text": "'I'm sorry,' he says and holds my hand.",
+      "translation": "يقول وهو يمسك يدي: 'أنا آسف'."
+    },
+    {
+      "id": 304,
+      "text": "We sit close together on the veranda.",
+      "translation": "نجلس متجاورين على الشرفة."
+    },
+    {
+      "id": 305,
+      "text": "It's another cold, starry night.",
+      "translation": "إنها ليلة باردة أخرى مليئة بالنجوم."
+    },
+    {
+      "id": 306,
+      "text": "I look up at the sky and see a full moon.",
+      "translation": "أنظر إلى السماء وأرى البدر."
+    },
+    {
+      "id": 307,
+      "text": "Perhaps the gods up there are looking down at us and laughing at our misery.",
+      "translation": "ربما الآلهة في الأعلى ينظرون إلينا ويسخرون من بؤسنا."
+    },
+    {
+      "id": 308,
+      "text": "'One day this will end,' Okema says.",
+      "translation": "يقول أوكيما: 'يومًا ما سينتهي هذا'."
+    },
+    {
+      "id": 309,
+      "text": "'Yes,' I say hopelessly.",
+      "translation": "أقول بيأس: 'نعم'."
+    },
+    {
+      "id": 310,
+      "text": "Today Laker smiles brightly when she sees me.",
+      "translation": "اليوم تبتسم لاكر بشكل مشرق عندما تراني."
+    },
+    {
+      "id": 311,
+      "text": "She looks different now, with her hair cut and clean.",
+      "translation": "تبدو مختلفة الآن، شعرها مقصوص ونظيف."
+    },
+    {
+      "id": 312,
+      "text": "The wild look has gone.",
+      "translation": "لقد اختفت النظرة الجامحة."
+    },
+    {
+      "id": 313,
+      "text": "As I sit beside her, she touches the scar under my chin.",
+      "translation": "بينما أجلس بجانبها، تلمس الندبة تحت ذقني."
+    },
+    {
+      "id": 314,
+      "text": "I help her off the bed.",
+      "translation": "أساعدها على النزول من السرير."
+    },
+    {
+      "id": 315,
+      "text": "We walk slowly to the door and go outside, where we sit under the large mango tree.",
+      "translation": "نسير ببطء إلى الباب ونخرج، حيث نجلس تحت شجرة المانجو الكبيرة."
+    },
+    {
+      "id": 316,
+      "text": "She likes it here, and lies on her back with her head on my knees.",
+      "translation": "تحب المكان هنا، وتستلقي على ظهرها ورأسها على ركبتي."
+    },
+    {
+      "id": 317,
+      "text": "I don't know how long we sit there under the mango tree.",
+      "translation": "لا أعرف كم من الوقت جلسنا هناك تحت شجرة المانجو."
+    },
+    {
+      "id": 318,
+      "text": "We watch the sun disappear and see the shadows get longer as they fall on the hospital windows.",
+      "translation": "نشاهد الشمس تختفي ونرى الظلال تطول وهي تسقط على نوافذ المستشفى."
+    },
+    {
+      "id": 319,
+      "text": "Laker lifts her head and looks at me.",
+      "translation": "ترفع لاكر رأسها وتنظر إليّ."
+    },
+    {
+      "id": 320,
+      "text": "'What's that song we used to sing?' she asks.",
+      "translation": "تسأل: 'ما هي تلك الأغنية التي كنا نغنيها؟'"
+    },
+    {
+      "id": 321,
+      "text": "I smile.",
+      "translation": "أبتسم."
+    },
+    {
+      "id": 322,
+      "text": "'Min latin do, tedo i dye wor... My mother is cooking at night,' I sing quietly.",
+      "translation": "أغني بهدوء: 'مين لاتين دو، تيدو آي داي وور... أمي تطبخ في الليل'."
+    },
+    {
+      "id": 323,
+      "text": "She closes her eyes and listens to me.",
+      "translation": "تغمض عينيها وتستمع إليّ."
+    },
+    {
+      "id": 324,
+      "text": "Then she opens her eyes.",
+      "translation": "ثم تفتح عينيها."
+    },
+    {
+      "id": 325,
+      "text": "I feel her looking fixedly at my scar, then at my neck.",
+      "translation": "أشعر بها تنظر بثبات إلى الندبة، ثم إلى رقبتي."
+    },
+    {
+      "id": 326,
+      "text": "She laughs lightly.",
+      "translation": "تضحك بخفة."
+    },
+    {
+      "id": 327,
+      "text": "'Atita, bangle-necked Atita,' she whispers.",
+      "translation": "تهمس: 'أتيتا، أتيتا ذات الرقبة كالأسورة'."
+    },
+    {
+      "id": 328,
+      "text": "A smile comes to her lips, very slowly, it lights up, and burns brightly like a flame.",
+      "translation": "تأتي ابتسامة على شفتيها، ببطء شديد، تضيء، وتشتعل بشكل مشرق مثل اللهب."
+    },
+    {
+      "id": 329,
+      "text": "She remembered!",
+      "translation": "لقد تذكرت!"
+    },
+    {
+      "id": 330,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 331,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 332,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
