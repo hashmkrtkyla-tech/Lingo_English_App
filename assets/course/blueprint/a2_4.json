@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_16",
+      "exercises": [
+        {"t":"choice","c":"salt","dir":"t2n","big":true,"d":["oil","onion"]},
+        {"t":"choice","c":"pan","dir":"n2t","d":["bowl","oven"]},
+        {"t":"match","cs":["cut","mix","boil","fry"]},
+        {"t":"match","cs":["pan","bowl","oil","oven"]},
+        {"t":"build","c":"boil_the_water_for_ten_minutes","dir":"n2t","d":["pan","bowl"]},
+        {"t":"build","c":"heat_the_oil_in_a_pan","dir":"audio","d":["salt","onion"]},
+        {"t":"fill","c":"cut_the_onion_into_small_pieces"},
+        {"t":"listenpick","c":"put_the_cake_in_the_oven"},
+        {"t":"speak","c":"fry_the_chicken_until_it_is_brown"},
+        {"t":"choice","c":"mix_the_eggs_with_some_milk","dir":"t2n","d":["add_a_little_salt_and_pepper","put_the_cake_in_the_oven"]},
+        {"t":"typeword","c":"add_a_little_salt_and_pepper"},
+        {"t":"build","c":"heat_the_oil_in_a_pan","dir":"t2n","d":["cut","mix"]},
+        {"t":"fill","c":"boil_the_water_for_ten_minutes"},
+        {"t":"choice","c":"boil","dir":"n2t","d":["fry","mix"]},
+        {"t":"speak","c":"mix_the_eggs_with_some_milk"}
+      ]
+    },
+    {
+      "id": "a2_17",
+      "exercises": [
+        {"t":"choice","c":"tall","dir":"t2n","big":true,"d":["short","thin"]},
+        {"t":"choice","c":"beard","dir":"n2t","d":["glasses","hair"]},
+        {"t":"match","cs":["tall","short","young","thin"]},
+        {"t":"match","cs":["hair","eyes","beard","glasses"]},
+        {"t":"build","c":"she_has_long_black_hair","dir":"n2t","d":["beard","eyes"]},
+        {"t":"build","c":"she_wears_big_round_glasses","dir":"audio","d":["tall","thin"]},
+        {"t":"fill","c":"my_father_has_a_beard"},
+        {"t":"listenpick","c":"he_has_brown_eyes"},
+        {"t":"speak","c":"he_is_tall_and_thin"},
+        {"t":"choice","c":"what_does_your_sister_look_like","dir":"t2n","d":["my_father_has_a_beard","he_has_brown_eyes"]},
+        {"t":"typeword","c":"she_is_young_and_has_curly_hair"},
+        {"t":"build","c":"he_is_tall_and_thin","dir":"t2n","d":["curly","brown"]},
+        {"t":"fill","c":"she_has_long_black_hair"},
+        {"t":"choice","c":"young","dir":"n2t","d":["short","thin"]},
+        {"t":"speak","c":"she_wears_big_round_glasses"}
+      ]
+    },
+    {
+      "id": "a2_18",
+      "exercises": [
+        {"t":"choice","c":"shy","dir":"t2n","big":true,"d":["lazy","clever"]},
+        {"t":"choice","c":"clever","dir":"n2t","d":["serious","honest"]},
+        {"t":"match","cs":["friendly","shy","funny","kind"]},
+        {"t":"match","cs":["polite","lazy","clever","serious"]},
+        {"t":"build","c":"she_is_funny_and_very_kind","dir":"n2t","d":["shy","lazy"]},
+        {"t":"build","c":"my_teacher_is_very_friendly","dir":"audio","d":["honest","patient"]},
+        {"t":"fill","c":"he_is_shy_with_new_people"},
+        {"t":"listenpick","c":"he_always_tells_the_truth"},
+        {"t":"speak","c":"you_need_to_be_patient"},
+        {"t":"choice","c":"what_is_your_best_friend_like","dir":"t2n","d":["be_polite_to_your_neighbors","my_brother_is_lazy_but_clever"]},
+        {"t":"typeword","c":"my_brother_is_lazy_but_clever"},
+        {"t":"build","c":"you_need_to_be_patient","dir":"t2n","d":["shy","lazy"]},
+        {"t":"fill","c":"be_polite_to_your_neighbors"},
+        {"t":"choice","c":"honest","dir":"n2t","d":["serious","clever"]},
+        {"t":"speak","c":"she_is_funny_and_very_kind"}
+      ]
+    },
+    {
+      "id": "a2_19",
+      "exercises": [
+        {"t":"choice","c":"size","dir":"t2n","big":true,"d":["jacket","shoes"]},
+        {"t":"choice","c":"jeans","dir":"n2t","d":["jacket","shoes"]},
+        {"t":"match","cs":["size","small","large","tight"]},
+        {"t":"match","cs":["loose","jacket","jeans","shoes"]},
+        {"t":"build","c":"can_i_try_this_jacket_on","dir":"n2t","d":["tight","loose"]},
+        {"t":"build","c":"do_you_have_a_smaller_size","dir":"audio","d":["jeans","shoes"]},
+        {"t":"fill","c":"these_jeans_are_too_tight"},
+        {"t":"listenpick","c":"these_shoes_do_not_fit_me"},
+        {"t":"speak","c":"what_size_do_you_wear"},
+        {"t":"choice","c":"i_want_to_buy_new_shoes","dir":"t2n","d":["this_jacket_is_too_large","what_size_do_you_wear"]},
+        {"t":"typeword","c":"this_jacket_is_too_large"},
+        {"t":"build","c":"these_jeans_are_too_tight","dir":"t2n","d":["small","large"]},
+        {"t":"fill","c":"can_i_try_this_jacket_on"},
+        {"t":"choice","c":"loose","dir":"n2t","d":["tight","small"]},
+        {"t":"speak","c":"do_you_have_a_smaller_size"}
+      ]
+    },
+    {
+      "id": "a2_20",
+      "exercises": [
+        {"t":"choice","c":"discount","dir":"t2n","big":true,"d":["price","refund"]},
+        {"t":"choice","c":"cart","dir":"n2t","d":["website","address"]},
+        {"t":"match","cs":["website","delivery","discount","cart"]},
+        {"t":"match","cs":["price","payment","address","password"]},
+        {"t":"build","c":"the_delivery_takes_three_days","dir":"n2t","d":["review","refund"]},
+        {"t":"build","c":"add_the_shoes_to_your_cart","dir":"audio","d":["price","payment"]},
+        {"t":"fill","c":"is_there_a_discount_today"},
+        {"t":"listenpick","c":"i_forgot_my_password_again"},
+        {"t":"speak","c":"can_i_get_a_refund"},
+        {"t":"choice","c":"the_price_is_too_high","dir":"t2n","d":["please_enter_your_address","i_found_it_on_a_website"]},
+        {"t":"typeword","c":"please_enter_your_address"},
+        {"t":"build","c":"i_found_it_on_a_website","dir":"t2n","d":["price","discount"]},
+        {"t":"fill","c":"the_delivery_takes_three_days"},
+        {"t":"choice","c":"review","dir":"n2t","d":["refund","payment"]},
+        {"t":"speak","c":"the_price_is_too_high"}
+      ]
+    }
+  ]
+        }
