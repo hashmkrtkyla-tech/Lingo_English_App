@@ -1,14 +1,1208 @@
 {
-  "id": "a2_drive_4",
-  "title": "A2 Elementary Story 4",
+  "id": "a2_the_truly_married_woman",
+  "title": "The Truly Married Woman",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1qez-BG52fsXCQIWMT611Xdyhb-Ku_w-K",
+  "audio_url": "assets/books/audio/a2_books/The_Truly_Married_Woman-Lesley_Thompson.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Every sentence brings new phrases to practice.",
-      "translation": "كل جملة تجلب عبارات جديدة للتدرب عليها."
+      "id": 1,
+      "text": "People who live together get used to each other.",
+      "translation": "الناس الذين يعيشون معاً يعتادون على بعضهم البعض."
+    },
+    {
+      "id": 2,
+      "text": "They have daily routines, and the usual patterns of life go on without much change.",
+      "translation": "لديهم روتين يومي، وتستمر أنماط الحياة المعتادة دون تغيير كبير."
+    },
+    {
+      "id": 3,
+      "text": "Ajayi and Ayo have been together for twelve years.",
+      "translation": "أجايي وأيو معاً منذ اثني عشر عاماً."
+    },
+    {
+      "id": 4,
+      "text": "They are not married; Ajayi had meant to marry Ayo but somehow the right moment never came.",
+      "translation": "إنهما غير متزوجين؛ كان أجايي ينوي الزواج من أيو لكن اللحظة المناسبة لم تأتِ أبداً."
+    },
+    {
+      "id": 5,
+      "text": "He is quite comfortable with things as they are, maybe a little too comfortable...",
+      "translation": "إنه مرتاح تماماً مع الأمور كما هي، ربما مرتاح أكثر من اللازم..."
+    },
+    {
+      "id": 6,
+      "text": "Ajayi sat up and looked at the cheap alarm clock on the chair by his bedside.",
+      "translation": "جلس أجايي ونظر إلى ساعة المنبه الرخيصة على الكرسي بجانب سريره."
+    },
+    {
+      "id": 7,
+      "text": "It was six fifteen, and light outside already; the African town was slowly waking to life.",
+      "translation": "كانت الساعة السادسة والربع، والضوء في الخارج بالفعل؛ كانت البلدة الأفريقية تستيقظ ببطء للحياة."
+    },
+    {
+      "id": 8,
+      "text": "The night watchmen, hurriedly shaking themselves out of sleep, were busily banging the locks of shops and houses, to prove to their employers that they were at work.",
+      "translation": "كان حراس الليل، وهم يطردون النوم عن أنفسهم على عجل، يطرقون أقفال المتاجر والمنازل بجد، ليثبتوا لأصحاب عملهم أنهم في العمل."
+    },
+    {
+      "id": 9,
+      "text": "Village women were walking through the streets to the market place, arguing and gossiping.",
+      "translation": "كانت نساء القرية يسيرن في الشوارع إلى السوق، يتجادلن ويتنمنمن."
+    },
+    {
+      "id": 10,
+      "text": "Ajayi tasted his cup of morning tea.",
+      "translation": "تذوق أجايي كوب الشاي الصباحي."
+    },
+    {
+      "id": 11,
+      "text": "It was as he liked it, weak and sugary, without milk.",
+      "translation": "كان كما يحبه، خفيفاً ومسكراً، بدون حليب."
+    },
+    {
+      "id": 12,
+      "text": "He got up and walked to the window, and took six deep breaths.",
+      "translation": "قام وسار إلى النافذة، وأخذ ست أنفاس عميقة."
+    },
+    {
+      "id": 13,
+      "text": "Doing this daily, he believed, would prevent diseases of the chest.",
+      "translation": "كان يعتقد أن القيام بذلك يومياً يمنع أمراض الصدر."
+    },
+    {
+      "id": 14,
+      "text": "Then he took a quick bath, taking water from a bucket with a metal cup.",
+      "translation": "ثم أخذ حماماً سريعاً، آخذاً الماء من دلو بكوب معدني."
+    },
+    {
+      "id": 15,
+      "text": "By then Ayo had laid out his breakfast.",
+      "translation": "بحلول ذلك الوقت كانت أيو قد جهزت فطوره."
+    },
+    {
+      "id": 16,
+      "text": "Ayo was his wife.",
+      "translation": "كانت أيو زوجته."
+    },
+    {
+      "id": 17,
+      "text": "Not really a wife, he would explain to close friends, but a mistress.",
+      "translation": "ليست زوجة حقاً، كان يشرح لأصدقائه المقربين، بل عشيقة."
+    },
+    {
+      "id": 18,
+      "text": "A good one.",
+      "translation": "عشيقة جيدة."
+    },
+    {
+      "id": 19,
+      "text": "She had given him three children and was now pregnant with another.",
+      "translation": "لقد أنجبت له ثلاثة أطفال وكانت الآن حاملاً بطفل آخر."
+    },
+    {
+      "id": 20,
+      "text": "They had been together for twelve years.",
+      "translation": "كانا معاً منذ اثني عشر عاماً."
+    },
+    {
+      "id": 21,
+      "text": "She was a patient, handsome woman, very dark with very white teeth and open honest eyes.",
+      "translation": "كانت امرأة صبورة وجميلة، شديدة السواد ذات أسنان بيضاء جداً وعيون صادقة مفتوحة."
+    },
+    {
+      "id": 22,
+      "text": "Her hair was always neat and tidy.",
+      "translation": "كان شعرها دائماً أنيقاً ومرتباً."
+    },
+    {
+      "id": 23,
+      "text": "When she first came to him - against her parents' wishes - he had truly meant to marry her as soon as she had had their first child, but he had never quite found time to do it.",
+      "translation": "عندما جاءت إليه أول مرة - ضد رغبة والديها - كان ينوي حقاً الزواج منها بمجرد ولادة طفلهما الأول، لكنه لم يجد الوقت الكافي أبداً للقيام بذلك."
+    },
+    {
+      "id": 24,
+      "text": "In the first year or so she would tell him in detail about the marriages of her friends, looking at him with hopeful eyes, but he would attack her friends' wild spending and the huge cost of the ceremony, and soon she stopped.",
+      "translation": "في السنة الأولى أو نحو ذلك كانت تخبره بالتفصيل عن زواجات صديقاتها، ناظرة إليه بعيون مفعمة بالأمل، لكنه كان ينتقد إنفاق صديقاتها الباذخ والتكلفة الباهظة للحفل، وسرعان ما توقفت."
+    },
+    {
+      "id": 25,
+      "text": "Ajayi and Ayo went to church regularly, and two or three times a year the priest would speak out violently against unmarried couples living together.",
+      "translation": "كان أجايي وأيو يذهبان إلى الكنيسة بانتظام، ومرتين أو ثلاث مرات في السنة كان الكاهن يتحدث بقوة ضد الأزواج غير المتزوجين الذين يعيشون معاً."
+    },
+    {
+      "id": 26,
+      "text": "Then their friends would feel sorry for them, and the men would say that the church should keep out of people's private lives.",
+      "translation": "عندها كان أصدقاؤهم يشعرون بالأسف عليهم، وكان الرجال يقولون إن الكنيسة يجب أن تبتعد عن حياة الناس الخاصة."
+    },
+    {
+      "id": 27,
+      "text": "Ajayi would stay away from church for a few weeks, but would go back after a while because he liked the singing and he knew secretly that the priest was right.",
+      "translation": "كان أجايي يبتعد عن الكنيسة لبضعة أسابيع، لكنه كان يعود بعد فترة لأنه أحب الترتيل وكان يعرف في سريرته أن الكاهن محق."
+    },
+    {
+      "id": 28,
+      "text": "Ayo was a good mistress.",
+      "translation": "كانت أيو عشيقة جيدة."
+    },
+    {
+      "id": 29,
+      "text": "Her father had hoped she would marry a high-school teacher at least, but instead she had chosen a government clerk.",
+      "translation": "كان والدها يأمل أن تتزوج على الأقل مدرساً في المدرسة الثانوية، لكنها اختارت بدلاً من ذلك موظفاً حكومياً."
+    },
+    {
+      "id": 30,
+      "text": "But Ayo loved Ajayi, and was happy in her own slow, private way.",
+      "translation": "لكن أيو أحبت أجايي، وكانت سعيدة بطريقتها البطيئة والخاصة."
+    },
+    {
+      "id": 31,
+      "text": "She cooked his meals and bore him children.",
+      "translation": "كانت تطبخ وجباته وتنجب له الأطفال."
+    },
+    {
+      "id": 32,
+      "text": "In what free time she had she did a little buying and selling, or visited friends, or gossiped with Omo, the woman next door.",
+      "translation": "في وقت فراغها القليل كانت تقوم ببعض البيع والشراء، أو تزور الأصدقاء، أو تتنمنم مع أومو، الجارة المجاورة."
+    },
+    {
+      "id": 33,
+      "text": "With his towel round his waist, Ajayi marched back to the bedroom, dried himself and dressed quickly in his pink silk suit.",
+      "translation": "بمنشفته حول خصره، سار أجايي عائداً إلى غرفة النوم، وجفف نفسه وارتدى بسرعة بدلته الحريرية الوردية."
+    },
+    {
+      "id": 34,
+      "text": "He got down the new bottle of medicine which one of his friends had suggested to him.",
+      "translation": "نزل زجاجة الدواء الجديدة التي اقترحها عليه أحد أصدقائه."
+    },
+    {
+      "id": 35,
+      "text": "Ajayi believed that to keep healthy, a man must regularly take medicine.",
+      "translation": "اعتقد أجايي أنه للحفاظ على الصحة، يجب على الرجل تناول الدواء بانتظام."
+    },
+    {
+      "id": 36,
+      "text": "On the bottle were listed about twenty very different diseases and illnesses.",
+      "translation": "على الزجاجة كانت مدرجة حوالي عشرين مرضاً وعلة مختلفة جداً."
+    },
+    {
+      "id": 37,
+      "text": "All of these conditions would disappear if the patient took this medicine daily.",
+      "translation": "كل هذه الحالات ستختفي إذا تناول المريض هذا الدواء يومياً."
+    },
+    {
+      "id": 38,
+      "text": "Ajayi believed that he had, or was about to have, at least six of these diseases.",
+      "translation": "اعتقد أجايي أنه مصاب، أو على وشك الإصابة، بستة من هذه الأمراض على الأقل."
+    },
+    {
+      "id": 39,
+      "text": "It also said on the bottle that a teaspoonful of the medicine should be taken three times a day.",
+      "translation": "كما قيل على الزجاجة إن ملعقة صغيرة من الدواء يجب أن تؤخذ ثلاث مرات يومياً."
+    },
+    {
+      "id": 40,
+      "text": "But Ajayi only remembered to take it in the morning, so he took a big drink from the bottle.",
+      "translation": "لكن أجايي تذكر فقط تناوله في الصباح، فأخذ رشفة كبيرة من الزجاجة."
+    },
+    {
+      "id": 41,
+      "text": "The medicine had a bitter taste, and Ajayi was pleased - that obviously meant that it was good strong medicine.",
+      "translation": "كان للدواء طعم مر، وكان أجايي سعيداً - من الواضح أن هذا يعني أنه دواء قوي جيد."
+    },
+    {
+      "id": 42,
+      "text": "He went in to breakfast.",
+      "translation": "ذهب لتناول الإفطار."
+    },
+    {
+      "id": 43,
+      "text": "When he had finished, he beat his eldest son, a ten-year-old boy, for wetting his sleeping-mat in the night.",
+      "translation": "عندما انتهى، ضرب ابنه الأكبر، صبياً في العاشرة من عمره، لتبليله حصيرة نومه في الليل."
+    },
+    {
+      "id": 44,
+      "text": "Ayo came in after the boy had run screaming out of the door.",
+      "translation": "دخلت أيو بعد أن ركض الصبي صارخاً خارج الباب."
+    },
+    {
+      "id": 45,
+      "text": "'Ajayi, you beat Oju too much,' she said.",
+      "translation": "قالت: 'أجايي، أنت تضرب أوجو كثيراً'."
+    },
+    {
+      "id": 46,
+      "text": "'He should stop wetting the sleeping-mat, he is a big boy,' he replied.",
+      "translation": "أجاب: 'يجب أن يتوقف عن تبليل حصيرة النوم، إنه صبي كبير'."
+    },
+    {
+      "id": 47,
+      "text": "'Anyway, no one is going to tell me how to bring up my son.'",
+      "translation": "'على أي حال، لن يخبرني أحد كيف أربي ابني'."
+    },
+    {
+      "id": 48,
+      "text": "'He is mine too,' Ayo said.",
+      "translation": "قالت أيو: 'إنه ابني أيضاً'."
+    },
+    {
+      "id": 49,
+      "text": "She did not often disagree with him unless she felt strongly about something.",
+      "translation": "لم تكن تختلف معه غالباً إلا إذا شعرت بقوة تجاه شيء ما."
+    },
+    {
+      "id": 50,
+      "text": "'He has not stopped wetting although you beat him every time he does.'",
+      "translation": "'لم يتوقف عن التبليل رغم أنك تضربه في كل مرة يفعل ذلك'."
+    },
+    {
+      "id": 51,
+      "text": "In fact, he is doing it more and more now.",
+      "translation": "في الواقع، إنه يفعل ذلك أكثر وأكثر الآن."
+    },
+    {
+      "id": 52,
+      "text": "Perhaps if you stopped beating him, he would get better.'",
+      "translation": "ربما إذا توقفت عن ضربه، سيتحسن.'"
+    },
+    {
+      "id": 53,
+      "text": "'Did I beat him to begin doing it?' Ajayi asked.",
+      "translation": "سأل أجايي: 'هل ضربته ليبدأ في فعل ذلك؟'"
+    },
+    {
+      "id": 54,
+      "text": "'No.'",
+      "translation": "'لا'."
+    },
+    {
+      "id": 55,
+      "text": "'Well, if I stop beating him, how will that stop him doing it?' Ajayi said, pleased with his own cleverness.",
+      "translation": "قال أجايي، مسروراً بذكائه: 'حسناً، إذا توقفت عن ضربه، كيف سيمنعه ذلك من فعلها؟'"
+    },
+    {
+      "id": 56,
+      "text": "'You may have your own opinion,' Ayo said, 'but our own countrywoman Bimbóla, who has studied nursing in England and America, told us in a women's group meeting that it was wrong to punish children for such things.'",
+      "translation": "قالت أيو: 'قد يكون لديك رأيك الخاص، لكن مواطنتنا بيمبولا، التي درست التمريض في إنجلترا وأمريكا، أخبرتنا في اجتماع مجموعة نسائية أنه من الخطأ معاقبة الأطفال على مثل هذه الأشياء'."
+    },
+    {
+      "id": 57,
+      "text": "'All right, I'll see,' he said, reaching for his sun hat.",
+      "translation": "قال وهو يمد يده لأخذ قبعة الشمس: 'حسناً، سأرى'."
+    },
+    {
+      "id": 58,
+      "text": "All that day at the office he thought about this.",
+      "translation": "طوال ذلك اليوم في المكتب فكر في هذا."
+    },
+    {
+      "id": 59,
+      "text": "So Ayo had been attending women's meetings.",
+      "translation": "إذن كانت أيو تحضر اجتماعات النساء."
+    },
+    {
+      "id": 60,
+      "text": "That was a surprise.",
+      "translation": "كانت هذه مفاجأة."
+    },
+    {
+      "id": 61,
+      "text": "Always looking so quiet, and then telling him about the modern ideas of overseas doctors.",
+      "translation": "تبدو دائماً هادئة جداً، ثم تخبره عن الأفكار الحديثة لأطباء الخارج."
+    },
+    {
+      "id": 62,
+      "text": "He smiled.",
+      "translation": "ابتسم."
+    },
+    {
+      "id": 63,
+      "text": "Yes, Ayo was certainly a woman to be proud of.",
+      "translation": "نعم، كانت أيو بالتأكيد امرأة يُفتخر بها."
+    },
+    {
+      "id": 64,
+      "text": "Perhaps it was wrong to beat the boy.",
+      "translation": "ربما كان من الخطأ ضرب الصبي."
+    },
+    {
+      "id": 65,
+      "text": "He decided not to do so again.",
+      "translation": "قرر ألا يفعل ذلك مرة أخرى."
+    },
+    {
+      "id": 66,
+      "text": "Towards closing time the chief clerk sent for him.",
+      "translation": "قرب وقت الإغلاق أرسل رئيس الموظفين في طلبه."
+    },
+    {
+      "id": 67,
+      "text": "Wondering what trouble he was in, he hurried along to the office.",
+      "translation": "متسائلاً في أي مشكلة وقع، أسرع إلى المكتب."
+    },
+    {
+      "id": 68,
+      "text": "There were three white men sitting on chairs by the chief clerk, who was an older African man dressed very correctly.",
+      "translation": "كان هناك ثلاثة رجال بيض يجلسون على كراسي بجانب رئيس الموظفين، الذي كان رجلاً أفريقياً مسناً يرتدي ملابس أنيقة جداً."
+    },
+    {
+      "id": 69,
+      "text": "Ajayi's heart started to beat loudly.",
+      "translation": "بدأ قلب أجايي ينبض بقوة."
+    },
+    {
+      "id": 70,
+      "text": "The police, he thought; oh God, what have I done?",
+      "translation": "الشرطة، فكر؛ يا إلهي، ماذا فعلت؟"
+    },
+    {
+      "id": 71,
+      "text": "'Mr Ajayi, these gentlemen have asked for you,' the chief clerk said.",
+      "translation": "قال رئيس الموظفين: 'سيد أجايي، هؤلاء السادة طلبوك'."
+    },
+    {
+      "id": 72,
+      "text": "'Pleased to meet you, Mr Ajayi,' the tallest said, with a smile.",
+      "translation": "قال الأطول بابتسامة: 'سعيد بلقائك، سيد أجايي'."
+    },
+    {
+      "id": 73,
+      "text": "'We belong to the World Gospel Crusading Alliance from Minnesota in the USA.'",
+      "translation": "'نحن ننتمي إلى تحالف الدعوة الإنجيلية العالمي من مينيسوتا في الولايات المتحدة الأمريكية'."
+    },
+    {
+      "id": 74,
+      "text": "My name is Jonathan Olsen.'",
+      "translation": "اسمي جوناثان أولسن.'"
+    },
+    {
+      "id": 75,
+      "text": "Ajayi shook hands and the other two men were introduced.",
+      "translation": "صافح أجايي وتم تقديم الرجلين الآخرين."
+    },
+    {
+      "id": 76,
+      "text": "'You expressed an interest in our work a year ago and we have not forgotten.'",
+      "translation": "'لقد أبديت اهتماماً بعملنا منذ عام ولم ننسَ'."
+    },
+    {
+      "id": 77,
+      "text": "We are on our way to India and we thought we would come and see you personally.'",
+      "translation": "نحن في طريقنا إلى الهند وفكرنا أن نأتي ونراك شخصياً.'"
+    },
+    {
+      "id": 78,
+      "text": "The boat on which the men were travelling had stopped for a few hours near Ajayi's town.",
+      "translation": "توقفت السفينة التي كان الرجال يسافرون عليها لبضع ساعات بالقرب من بلدة أجايي."
+    },
+    {
+      "id": 79,
+      "text": "The chief clerk looked at Ajayi with new respect.",
+      "translation": "نظر رئيس الموظفين إلى أجايي باحترام جديد."
+    },
+    {
+      "id": 80,
+      "text": "Ajayi tried desperately to remember any contact with WGCA (as Olsen now called it) while he made polite conversation with them.",
+      "translation": "حاول أجايي يائساً تذكر أي اتصال مع WGCA (كما أطلق عليها أولسن الآن) بينما كان يتبادل الحديث المهذب معهم."
+    },
+    {
+      "id": 81,
+      "text": "Then suddenly he remembered.",
+      "translation": "ثم تذكر فجأة."
+    },
+    {
+      "id": 82,
+      "text": "Some time ago a friend who worked at the United States Information Service had given him a magazine which contained an invitation to join the WGCA.",
+      "translation": "منذ некоторое время أعطاه صديق يعمل في خدمة الإعلام الأمريكية مجلة تحتوي على دعوة للانضمام إلى WGCA."
+    },
+    {
+      "id": 83,
+      "text": "He had written to the WGCA asking for information, but really hoping that they would send free Bibles which he could give away or sell.",
+      "translation": "كان قد كتب إلى WGCA طالباً معلومات، لكنه كان يأمل حقاً أن يرسلوا له كتباً مقدسة مجانية يمكنه التبرع بها أو بيعها."
+    },
+    {
+      "id": 84,
+      "text": "He hoped at least for large religious pictures which he could put up on his bedroom wall.",
+      "translation": "كان يأمل على الأقل في صور دينية كبيرة يمكنه تعليقها على جدار غرفة نومه."
+    },
+    {
+      "id": 85,
+      "text": "But nothing had happened and he had forgotten about it.",
+      "translation": "لكن لم يحدث شيء ونسي الأمر."
+    },
+    {
+      "id": 86,
+      "text": "Now here was WGCA in person.",
+      "translation": "الآن ها هو WGCA شخصياً."
+    },
+    {
+      "id": 87,
+      "text": "Three persons.",
+      "translation": "ثلاثة أشخاص."
+    },
+    {
+      "id": 88,
+      "text": "At once he invited all three and the chief clerk to come to his house for a cold drink.",
+      "translation": "فوراً دعا الثلاثة جميعاً ورئيس الموظفين للحضور إلى منزله لتناول مشروب بارد."
+    },
+    {
+      "id": 89,
+      "text": "They all agreed.",
+      "translation": "وافقوا جميعاً."
+    },
+    {
+      "id": 90,
+      "text": "Olsen suggested a taxi, but Ajayi quickly told him that the roads were too bad.",
+      "translation": "اقترح أولسن سيارة أجرة، لكن أجايي أخبره بسرعة أن الطرق سيئة جداً."
+    },
+    {
+      "id": 91,
+      "text": "He had already whispered to another clerk to hurry home on a bicycle and warn Ayo.",
+      "translation": "كان قد همس بالفعل لموظف آخر ليسرع إلى المنزل على دراجة ويحذر أيو."
+    },
+    {
+      "id": 92,
+      "text": "'Tell her I'm coming in half an hour with white men, and she should clean up and get fruit drinks.'",
+      "translation": "'أخبرها أنني قادم بعد نصف ساعة مع رجال بيض، وعليها تنظيف المنزل وإحضار عصائر فواكه'."
+    },
+    {
+      "id": 93,
+      "text": "Ayo was confused by this message, as she believed all white men drank only whisky and iced beer.",
+      "translation": "كانت أيو مرتبكة من هذه الرسالة، لأنها اعتقدت أن جميع الرجال البيض يشربون فقط الويسكي والبيرة المثلجة."
+    },
+    {
+      "id": 94,
+      "text": "But the messenger said the visitors were friendly, religious-looking men, and he suspected that perhaps they were missionaries.",
+      "translation": "لكن الرسول قال إن الزوار كانوا رجالاً ودودين يبدون متدينين، واشتبه في أنهم ربما مبشرون."
+    },
+    {
+      "id": 95,
+      "text": "Also, they were walking instead of being in a car.",
+      "translation": "كما أنهم كانوا يسيرون على الأقدام بدلاً من أن يكونوا في سيارة."
+    },
+    {
+      "id": 96,
+      "text": "That explained everything to Ayo, and she started work at once.",
+      "translation": "فسر ذلك كل شيء لأيو، وبدأت العمل فوراً."
+    },
+    {
+      "id": 97,
+      "text": "Oju was sent with a basket on his head to buy fruit drinks.",
+      "translation": "أُرسل أوجو بسلة على رأسه لشراء عصائر الفواكه."
+    },
+    {
+      "id": 98,
+      "text": "Quickly she took down the calendars with pictures of lightly clothed women, and put up the family photographs instead.",
+      "translation": "بسرعة أنزلت التقاويم التي تحمل صور نساء شبه عاريات، وعلقت صور العائلة بدلاً منها."
+    },
+    {
+      "id": 99,
+      "text": "She removed the magazines and put out religious books, and hid the wine glasses under the sofa.",
+      "translation": "أزالت المجلات ووضعت كتباً دينية، وأخفت كؤوس النبيذ تحت الأريكة."
+    },
+    {
+      "id": 100,
+      "text": "She just had time to change to her Sunday dress and borrow a wedding ring from her neighbour when Ajayi and the visitors arrived.",
+      "translation": "كان لديها وقت فقط لتغيير ملابسها إلى فستان الأحد واستعارة خاتم زفاف من جارتها عندما وصل أجايي والزوار."
+    },
+    {
+      "id": 101,
+      "text": "The chief clerk was rather surprised at the change in the room - which he had visited before - and in Ayo's dress and ring.",
+      "translation": "كان رئيس الموظفين مندهشاً إلى حد ما من التغيير في الغرفة - التي كان قد زارها من قبل - وفي فستان أيو وخاتمها."
+    },
+    {
+      "id": 102,
+      "text": "But he hid his feelings.",
+      "translation": "لكنه أخفى مشاعره."
+    },
+    {
+      "id": 103,
+      "text": "Ayo was introduced and made a little conversation in English.",
+      "translation": "تم تقديم أيو وأجرت محادثة صغيرة بالإنجليزية."
+    },
+    {
+      "id": 104,
+      "text": "This pleased Ajayi greatly.",
+      "translation": "أسعد هذا أجايي كثيراً."
+    },
+    {
+      "id": 105,
+      "text": "The children too had been changed into Sunday suits, faces washed and hair brushed.",
+      "translation": "تم تغيير الأطفال أيضاً إلى بدلات الأحد، وغسلت وجوههم ومشطت شعورهم."
+    },
+    {
+      "id": 106,
+      "text": "Olsen was delighted and took photographs for the WGCA magazine.",
+      "translation": "كان أولسن مسروراً والتقط صوراً لمجلة WGCA."
+    },
+    {
+      "id": 107,
+      "text": "Ayo served drinks and then left the room, leaving the men to discuss serious matters.",
+      "translation": "قدمت أيو المشروبات ثم غادرت الغرفة، تاركة الرجال لمناقشة الأمور الجادة."
+    },
+    {
+      "id": 108,
+      "text": "Olsen began to talk enthusiastically about Ajayi's future as a missionary.",
+      "translation": "بدأ أولسن يتحدث بحماس عن مستقبل أجايي كمبشر."
+    },
+    {
+      "id": 109,
+      "text": "The visit went well and soon the missionaries left to catch their boat.",
+      "translation": "سارت الزيارة على ما يرام وسرعان ما غادر المبشرون للحاق بسفينتهم."
+    },
+    {
+      "id": 110,
+      "text": "Ajayi had been saved from a life as a missionary by the chief clerk, who explained that it was against the rules for government workers.",
+      "translation": "تم إنقاذ أجايي من حياة كمبشر من قبل رئيس الموظفين، الذي شرح أن ذلك مخالف للقواعد بالنسبة للعاملين في الحكومة."
+    },
+    {
+      "id": 111,
+      "text": "Ajayi could even be sent to prison, he said.",
+      "translation": "قال إن أجايي يمكن أن يُرسل حتى إلى السجن."
+    },
+    {
+      "id": 112,
+      "text": "The missionaries were saddened but not surprised by this news.",
+      "translation": "حزن المبشرون لكنهم لم يتفاجأوا بهذا الخبر."
+    },
+    {
+      "id": 113,
+      "text": "The next day Ajayi took the chief clerk a carefully wrapped bottle of beer as a present for his help with the visitors.",
+      "translation": "في اليوم التالي أخذ أجايي لرئيس الموظفين زجاجة بيرة ملفوفة بعناية كهدية لمساعدته مع الزوار."
+    },
+    {
+      "id": 114,
+      "text": "They discussed happily the friendliness and interest the white men had shown.",
+      "translation": "ناقشا بسعادة الود والاهتمام الذي أبداه الرجال البيض."
+    },
+    {
+      "id": 115,
+      "text": "This visit, and Ayo's protest about the beating, made Ajayi very thoughtful for a week.",
+      "translation": "جعلت هذه الزيارة، واحتجاج أيو على الضرب، أجايي مفكراً جداً لمدة أسبوع."
+    },
+    {
+      "id": 116,
+      "text": "He decided to marry Ayo.",
+      "translation": "قرر الزواج من أيو."
+    },
+    {
+      "id": 117,
+      "text": "Another reason was the photo that Olsen had taken for his magazine.",
+      "translation": "كان سبب آخر هو الصورة التي التقطها أولسن لمجلته."
+    },
+    {
+      "id": 118,
+      "text": "In some strange way Ajayi felt he and Ayo should marry, as millions of Americans would see their picture as 'one god-loving and happy African family'.",
+      "translation": "بطريقة غريبة شعر أجايي أنه هو وأيو يجب أن يتزوجا، حيث سيرى ملايين الأمريكيين صورتهما كـ 'عائلة أفريقية واحدة محبة لله وسعيدة'."
+    },
+    {
+      "id": 119,
+      "text": "He told Ayo about his marriage intentions one evening after a particularly good meal.",
+      "translation": "أخبر أيو عن نواياه بالزواج في إحدى الأمسيات بعد وجبة جيدة بشكل خاص."
+    },
+    {
+      "id": 120,
+      "text": "Ayo at once became worried about him.",
+      "translation": "فوراً أصبحت أيو قلقة عليه."
+    },
+    {
+      "id": 121,
+      "text": "Was he ill? she asked.",
+      "translation": "سألت: هل هو مريض؟"
+    },
+    {
+      "id": 122,
+      "text": "Was there anything wrong at the office?",
+      "translation": "هل هناك أي خطب في المكتب؟"
+    },
+    {
+      "id": 123,
+      "text": "No, he answered, there was nothing wrong with wanting to get married, was there?",
+      "translation": "لا، أجاب، لا يوجد خطب في الرغبة في الزواج، أليس كذلك؟"
+    },
+    {
+      "id": 124,
+      "text": "Or was she thinking of marrying somebody else?",
+      "translation": "أم أنها كانت تفكر في الزواج من شخص آخر؟"
+    },
+    {
+      "id": 125,
+      "text": "Ayo laughed.",
+      "translation": "ضحكت أيو."
+    },
+    {
+      "id": 126,
+      "text": "'As you like,' she said; 'let us get married, but do not say I made you do it.'",
+      "translation": "قالت: 'كما تشاء؛ لنتزوج، لكن لا تقل إنني جعلتك تفعل ذلك'."
+    },
+    {
+      "id": 127,
+      "text": "They discussed the wedding that night.",
+      "translation": "ناقشا حفل الزفاف تلك الليلة."
+    },
+    {
+      "id": 128,
+      "text": "Ajayi wanted Ayo to have a traditional white wedding dress, with a veil, and flowers, but Ayo decided, sadly, that it was not right for a mother of three to wear white at her wedding.",
+      "translation": "أراد أجايي أن ترتدي أيو فستان زفاف أبيض تقليدي، مع حجاب وزهور، لكن أيو قررت بحزن أنه ليس من المناسب لأم لثلاثة أطفال أن ترتدي الأبيض في زفافها."
+    },
+    {
+      "id": 129,
+      "text": "They agreed on grey.",
+      "translation": "اتفقا على الرمادي."
+    },
+    {
+      "id": 130,
+      "text": "Ayo particularly wanted a corset because she did not want to look too huge; Ajayi gave in on this.",
+      "translation": "أرادت أيو بشكل خاص ارتداء كورسيه لأنها لم ترد أن تبدو ضخمة جداً؛ استسلم أجايي لهذا."
+    },
+    {
+      "id": 131,
+      "text": "But there would be no holiday after the wedding; he said they could not afford it, and one bed was as good as another.",
+      "translation": "لكن لن تكون هناك عطلة بعد الزفاف؛ قال إنهم لا يستطيعون تحمل تكاليفها، وسرير واحد جيد مثل الآخر."
+    },
+    {
+      "id": 132,
+      "text": "Ayo gave in on that.",
+      "translation": "استسلمت أيو لذلك."
+    },
+    {
+      "id": 133,
+      "text": "But they agreed on a church wedding.",
+      "translation": "لكنهما اتفقا على حفل زفاف في الكنيسة."
+    },
+    {
+      "id": 134,
+      "text": "That evening Ajayi, excited by the idea and the talk about the wedding, pulled Ayo to him as they lay in bed.",
+      "translation": "في تلك الأمسية، سحب أجايي، المتحمس للفكرة والحديث عن الزفاف، أيو إليه بينما كانا مستلقيين في السرير."
+    },
+    {
+      "id": 135,
+      "text": "'No,' said Ayo shyly, pushing him back gently, 'you mustn't.'",
+      "translation": "قالت أيو بخجل وهي تدفعه برفق: 'لا، لا يجب عليك'."
+    },
+    {
+      "id": 136,
+      "text": "Wait until after the marriage.'",
+      "translation": "انتظر حتى بعد الزواج.'"
+    },
+    {
+      "id": 137,
+      "text": "'Why?' said Ajayi, rather surprised, but obedient.",
+      "translation": "قال أجايي، مندهشاً بعض الشيء، لكنه مطيع: 'لماذا؟'"
+    },
+    {
+      "id": 138,
+      "text": "'Because it will not be right,' Ayo replied seriously.",
+      "translation": "أجابت أيو بجدية: 'لأنه لن يكون صواباً'."
+    },
+    {
+      "id": 139,
+      "text": "When Ayo's father heard of the coming marriage, he made Ayo move herself and everything she owned back to his house.",
+      "translation": "عندما سمع والد أيو عن الزواج القادم، جعل أيو تنقل نفسها وكل ما تملكه إلى منزله."
+    },
+    {
+      "id": 140,
+      "text": "The children were sent to Ayo's married sister.",
+      "translation": "أُرسل الأطفال إلى أخت أيو المتزوجة."
+    },
+    {
+      "id": 141,
+      "text": "Most of Ajayi's family welcomed the idea, except his sister, who was worried that Ayo would become more important in the family than she was.",
+      "translation": "رحبت معظم عائلة أجايي بالفكرة، باستثناء أخته، التي كانت قلقة من أن تصبح أيو أكثر أهمية في العائلة منها."
+    },
+    {
+      "id": 142,
+      "text": "She advised Ajayi to ask a soothsayer to look into the future.",
+      "translation": "نصحت أجايي بسؤال عراف للنظر في المستقبل."
+    },
+    {
+      "id": 143,
+      "text": "As Ayo heard about this from friends in the market, she saw the soothsayer first and fixed things.",
+      "translation": "عندما سمعت أيو عن هذا من صديقاتها في السوق، رأت العراف أولاً وأصلحت الأمور."
+    },
+    {
+      "id": 144,
+      "text": "When Ajayi and his sister called at night to see him, the soothsayer looked into Ajayi's future and saw a happy marriage, but avoided the sister's eye.",
+      "translation": "عندما زاره أجايي وأخته ليلاً، نظر العراف في مستقبل أجايي ورأى زواجاً سعيداً، لكنه تجنب النظر في عين الأخت."
+    },
+    {
+      "id": 145,
+      "text": "She smiled bitterly and accepted defeat.",
+      "translation": "ابتسمت بمرارة وقبلت الهزيمة."
+    },
+    {
+      "id": 146,
+      "text": "The only other problem was Ayo's neighbour Omo, who had always lent Ayo her wedding ring when Ayo needed one in a hurry.",
+      "translation": "كانت المشكلة الأخرى الوحيدة هي جارة أيو أومو، التي كانت دائماً تعير أيو خاتم زفافها عندما تحتاج واحداً على عجل."
+    },
+    {
+      "id": 147,
+      "text": "She had suddenly turned cold, particularly when Ayo showed her the wedding presents Ajayi was going to give her.",
+      "translation": "فجأة أصبحت باردة، خاصة عندما أرت أيو هدايا الزفاف التي كان أجايي سيعطيها لها."
+    },
+    {
+      "id": 148,
+      "text": "Omo's face was both jealous and angry as she touched the silky, see-through material.",
+      "translation": "كان وجه أومو غيوراً وغاضباً وهي تلمس القماش الحريري الشفاف."
+    },
+    {
+      "id": 149,
+      "text": "'Do you mean you are going to wear these?' she asked.",
+      "translation": "سألت: 'هل تعنين أنك سترتدين هذه؟'"
+    },
+    {
+      "id": 150,
+      "text": "'Yes,' Ayo replied simply.",
+      "translation": "أجابت أيو ببساطة: 'نعم'."
+    },
+    {
+      "id": 151,
+      "text": "'But, my sister,' she protested, 'suppose you had an accident and all those doctors lifted your clothes in hospital.'",
+      "translation": "احتجت: 'لكن، يا أختي، افترضي أنك تعرضت لحادث ورفع كل هؤلاء الأطباء ملابسك في المستشفى'."
+    },
+    {
+      "id": 152,
+      "text": "They will see everything through these.'",
+      "translation": "سيرون كل شيء من خلال هذه.'"
+    },
+    {
+      "id": 153,
+      "text": "'I never have accidents,' Ayo answered, and added, 'Ajayi says all the Hollywood cinema women wear these.'",
+      "translation": "أجابت أيو: 'لم أتعرض لحادث أبداً'، وأضافت: 'يقول أجايي إن جميع نساء سينما هوليوود يرتدين هذه'."
+    },
+    {
+      "id": 154,
+      "text": "'These are awful; they hide nothing, you should be ashamed to wear them,' the jealous girl said, pushing them angrily back over the wall to Ayo.",
+      "translation": "قالت الفتاة الغيورة وهي تدفعها بغضب مرة أخرى فوق الجدار إلى أيو: 'هذه مروعة؛ لا تخفي شيئاً، يجب أن تخجلي من ارتدائها'."
+    },
+    {
+      "id": 155,
+      "text": "'Why should I want to hide anything from my husband when we are married?' Ayo said, winning the argument and moving happily back to her own kitchen.",
+      "translation": "قالت أيو، وهي تكسب الجدال وتعود بسعادة إلى مطبخها: 'لماذا يجب أن أخفي أي شيء عن زوجي عندما نتزوج؟'"
+    },
+    {
+      "id": 156,
+      "text": "The arrangements had to be made quickly, since time and the tightness of the corset were both against them.",
+      "translation": "كان يجب إجراء الترتيبات بسرعة، لأن الوقت وضيق الكورسيه كانا ضدهما."
+    },
+    {
+      "id": 157,
+      "text": "Ajayi missed his normal life, particularly his morning cup of tea.",
+      "translation": "افتقد أجايي حياته الطبيعية، وخاصة كوب الشاي الصباحي."
+    },
+    {
+      "id": 158,
+      "text": "He borrowed a lot of money to pay for the music, the food, and the dresses that Ayo and her sisters would wear on the wedding day.",
+      "translation": "استعار الكثير من المال لدفع ثمن الموسيقى والطعام والفساتين التي سترتديها أيو وأخواتها في يوم الزفاف."
+    },
+    {
+      "id": 159,
+      "text": "The day before the wedding, Ajayi's uncle and other relations took a Bible and a ring to Ayo's father.",
+      "translation": "في اليوم السابق للزفاف، أخذ عم أجايي وأقارب آخرون كتاباً مقدساً وخاتماً إلى والد أيو."
+    },
+    {
+      "id": 160,
+      "text": "They took with them two small girls carrying on their heads large gourds, which contained things like pins, small coins, fruit, and nuts.",
+      "translation": "أخذوا معهم طفلتين صغيرتين تحملان على رأسيهما قرعاً كبيراً، يحتوي على أشياء مثل الدبابيس والعملات الصغيرة والفواكه والمكسرات."
+    },
+    {
+      "id": 161,
+      "text": "These were traditional gifts to the bride from the bridegroom, so that in future arguments Ayo could not say, 'This terrible man has given me neither a pin nor a coin since we got married.'",
+      "translation": "كانت هذه هدايا تقليدية للعروس من العريس، حتى لا تستطيع أيو في الجدالات المستقبلية أن تقول: 'هذا الرجل الفظيع لم يعطني لا دبوساً ولا عملة منذ أن تزوجنا'."
+    },
+    {
+      "id": 162,
+      "text": "On arrival at Ayo's father's house, the small group passed it first, pretending to be uncertain, then returned to it.",
+      "translation": "عند الوصول إلى منزل والد أيو، مرت المجموعة الصغيرة به أولاً، متظاهرة بعدم التأكد، ثم عادت إليه."
+    },
+    {
+      "id": 163,
+      "text": "Ajayi's uncle then knocked several times.",
+      "translation": "ثم طرق عم أجايي عدة مرات."
+    },
+    {
+      "id": 164,
+      "text": "Voices from inside asked for his name, the name of his family, and his reason for coming.",
+      "translation": "سألت أصوات من الداخل عن اسمه، واسم عائلته، وسبب مجيئه."
+    },
+    {
+      "id": 165,
+      "text": "He told them.",
+      "translation": "أخبرهم."
+    },
+    {
+      "id": 166,
+      "text": "Half an hour of discussion and argument followed.",
+      "translation": "تبع ذلك نصف ساعة من المناقشة والجدال."
+    },
+    {
+      "id": 167,
+      "text": "Was Ajayi's family good enough?",
+      "translation": "هل كانت عائلة أجايي جيدة بما فيه الكفاية؟"
+    },
+    {
+      "id": 168,
+      "text": "Ajayi himself was waiting at home, but his relations enjoyed the argument and pretended to be frightened.",
+      "translation": "كان أجايي نفسه ينتظر في المنزل، لكن أقاربه استمتعوا بالجدال وتظاهروا بالخوف."
+    },
+    {
+      "id": 169,
+      "text": "At last Ayo's father opened the door.",
+      "translation": "أخيراً فتح والد أيو الباب."
+    },
+    {
+      "id": 170,
+      "text": "It should now be clear to Ajayi's relations that this was a family that was proud, difficult, and above the ordinary.",
+      "translation": "يجب أن يكون واضحاً الآن لأقارب أجايي أن هذه عائلة فخورة وصعبة وفوق العادي."
+    },
+    {
+      "id": 171,
+      "text": "'Why have you come here?' asked Ayo's father.",
+      "translation": "سأل والد أيو: 'لماذا جئتم هنا؟'"
+    },
+    {
+      "id": 172,
+      "text": "Ajayi's uncle answered:",
+      "translation": "أجاب عم أجايي:"
+    },
+    {
+      "id": 173,
+      "text": "'We have come to pick a red, red rose That in your beautiful garden grows, Which never has been picked before, So lovelier than any other.'",
+      "translation": "'لقد جئنا لقطف وردة حمراء، حمراء في حديقتك الجميلة تنمو، لم تُقطف من قبل، أجمل من أي أخرى.'"
+    },
+    {
+      "id": 174,
+      "text": "'Will you be able to take good care of our lovely rose?' asked another relation.",
+      "translation": "سأل قريب آخر: 'هل ستتمكنون من العناية الجيدة بوردة جميلتنا؟'"
+    },
+    {
+      "id": 175,
+      "text": "Ajayi's family replied:",
+      "translation": "أجابت عائلة أجايي:"
+    },
+    {
+      "id": 176,
+      "text": "'Such good care shall we take of your rose That many others will grow from it.'",
+      "translation": "'سنعتني بوردة بهذه العناية الجيدة حتى ينمو منها الكثيرون.'"
+    },
+    {
+      "id": 177,
+      "text": "They were finally allowed into the house; drinks were served, the gifts were accepted, and others given.",
+      "translation": "سُمح لهم أخيراً بالدخول إلى المنزل؛ قُدمت المشروبات، وقُبلت الهدايا، وأُعطيت أخرى."
+    },
+    {
+      "id": 178,
+      "text": "For thirty minutes they talked about everything except the wedding.",
+      "translation": "لمدة ثلاثين دقيقة تحدثوا عن كل شيء ما عدا الزفاف."
+    },
+    {
+      "id": 179,
+      "text": "All through this, Ayo and her sisters and some other young women were kept hidden in a bedroom.",
+      "translation": "طوال هذا الوقت، تم إخفاء أيو وأخواتها وبعض الشابات الأخريات في غرفة نوم."
+    },
+    {
+      "id": 180,
+      "text": "Finally Ayo's father asked what brought Ajayi's family to his house.",
+      "translation": "أخيراً سأل والد أيو ما الذي جاء بعائلة أجايي إلى منزله."
+    },
+    {
+      "id": 181,
+      "text": "'We have heard of a beautiful, obedient woman known as Ayo,' said Ajayi's uncle.",
+      "translation": "قال عم أجايي: 'سمعنا عن امرأة جميلة ومطيعة تُدعى أيو'."
+    },
+    {
+      "id": 182,
+      "text": "'We ask for her as a wife for Ajayi.'",
+      "translation": "'نطلبها زوجة لأجايي.'"
+    },
+    {
+      "id": 183,
+      "text": "Ayo's father opened the bedroom door and brought out Ayo's sister.",
+      "translation": "فتح والد أيو باب غرفة النوم وأخرج أخت أيو."
+    },
+    {
+      "id": 184,
+      "text": "'Is this the one?' he asked.",
+      "translation": "سأل: 'هل هذه هي؟'"
+    },
+    {
+      "id": 185,
+      "text": "Ajayi's relations looked at her carefully.",
+      "translation": "نظر أقارب أجايي إليها بعناية."
+    },
+    {
+      "id": 186,
+      "text": "'No, this one is too short to be Ayo.'",
+      "translation": "'لا، هذه قصيرة جداً لتكون أيو.'"
+    },
+    {
+      "id": 187,
+      "text": "Then a cousin was brought out.",
+      "translation": "ثم أُخرجت ابنة عم."
+    },
+    {
+      "id": 188,
+      "text": "'Is this the right woman?'",
+      "translation": "'هل هذه هي المرأة الصحيحة؟'"
+    },
+    {
+      "id": 189,
+      "text": "'No, this one is too fat.'",
+      "translation": "'لا، هذه سمينة جداً.'"
+    },
+    {
+      "id": 190,
+      "text": "About ten women were brought out, but none was the right one.",
+      "translation": "أُخرجت حوالي عشر نساء، لكن لم تكن أياً منهن الصحيحة."
+    },
+    {
+      "id": 191,
+      "text": "'It was a good thing we asked to see her,' said Ajayi's uncle, turning to his relations, 'or we could get the wrong woman.'",
+      "translation": "قال عم أجايي، متوجهاً إلى أقاربه: 'كان شيئاً جيداً أننا طلبنا رؤيتها، وإلا كنا سنحصل على المرأة الخطأ'."
+    },
+    {
+      "id": 192,
+      "text": "The relations agreed.",
+      "translation": "وافق الأقارب."
+    },
+    {
+      "id": 193,
+      "text": "'All right,' said Ayo's father.",
+      "translation": "قال والد أيو: 'حسناً'."
+    },
+    {
+      "id": 194,
+      "text": "'Don't be impatient; I wanted to be sure that you knew who you wanted.'",
+      "translation": "'لا تكونوا متعجلين؛ أردت التأكد من أنكم تعرفون من تريدون'."
+    },
+    {
+      "id": 195,
+      "text": "With tears in his eyes he called Ayo out from the bedroom, kissed her, and showed her to Ajayi's family.",
+      "translation": "وبدموع في عينيه نادى أيو من غرفة النوم، وقبلها، وأراها لعائلة أجايي."
+    },
+    {
+      "id": 196,
+      "text": "'Is this the girl you want?' he asked.",
+      "translation": "سأل: 'هل هذه هي الفتاة التي تريدونها؟'"
+    },
+    {
+      "id": 197,
+      "text": "'This is the very one,' Ajayi's uncle replied with joy.",
+      "translation": "أجاب عم أجايي بفرح: 'هذه هي بالتحديد'."
+    },
+    {
+      "id": 198,
+      "text": "'Hip, hip, hooray,' everyone shouted, dancing in a circle round Ayo as the music started.",
+      "translation": "هتف الجميع: 'هيب، هيب، هوراي'، ورقصوا في دائرة حول أيو مع بدء الموسيقى."
+    },
+    {
+      "id": 199,
+      "text": "And as she stood in the center, a woman in her mid-thirties with slightly grey hair, in a ceremony that she had often seen but had stopped dreaming of for herself, Ayo cried with joy, and her unborn child moved inside her for the first time.",
+      "translation": "وبينما وقفت في المركز، امرأة في منتصف الثلاثينيات بشعر رمادي قليلاً، في حفل كانت قد رأته كثيراً لكنها توقفت عن الحلم به لنفسها، بكت أيو من الفرح، وتحرك طفلها الذي لم يولد بعد داخلها للمرة الأولى."
+    },
+    {
+      "id": 200,
+      "text": "The next morning the women of her family helped her to wash and dress.",
+      "translation": "في صباح اليوم التالي ساعدتها نساء عائلتها على الاغتسال وارتداء الملابس."
+    },
+    {
+      "id": 201,
+      "text": "Her father gave her away at the marriage ceremony in church, a quiet wedding with about sixty people present.",
+      "translation": "زوجها والدها في حفل الزفاف في الكنيسة، حفل زفاف هادئ بحضور حوالي ستين شخصاً."
+    },
+    {
+      "id": 202,
+      "text": "Afterwards they went to Ayo's family home for the wedding meal.",
+      "translation": "بعد ذلك ذهبوا إلى منزل عائلة أيو لتناول وجبة الزفاف."
+    },
+    {
+      "id": 203,
+      "text": "At the door one of Ayo's old aunts met them and gave them a glass of water to drink from - first Ajayi, then Ayo.",
+      "translation": "عند الباب استقبلتهم إحدى عمات أيو المسنات وأعطتهم كوب ماء ليشربوا منه - أولاً أجايي، ثم أيو."
+    },
+    {
+      "id": 204,
+      "text": "'Do not be too friendly with other women,' she told Ayo, 'because they will steal your husband.'",
+      "translation": "قالت لأيو: 'لا تكوني ودودة جداً مع النساء الأخريات، لأنهن سيسرقن زوجك'."
+    },
+    {
+      "id": 205,
+      "text": "Live peacefully together, and do not let the sun go down on an argument between you.",
+      "translation": "عيشا معاً بسلام، ولا تدعا الشمس تغيب على جدال بينكما."
+    },
+    {
+      "id": 206,
+      "text": "And you, Ajayi, remember that a wife can be just as exciting as a mistress!",
+      "translation": "وأنت يا أجايي، تذكر أن الزوجة يمكن أن تكون مثيرة تماماً مثل العشيقة!"
+    },
+    {
+      "id": 207,
+      "text": "And do not use violence against our daughter, who is now your wife.'",
+      "translation": "ولا تستخدم العنف ضد ابنتنا، التي هي الآن زوجتك.'"
+    },
+    {
+      "id": 208,
+      "text": "By now everyone had arrived, and they went into the house for the European part of the ceremony.",
+      "translation": "الآن كان الجميع قد وصلوا، وذهبوا إلى المنزل للجزء الأوروبي من الحفل."
+    },
+    {
+      "id": 209,
+      "text": "The wedding cake (which Ayo had made) was cut, and then Ajayi left for his own family home.",
+      "translation": "قُطعت كعكة الزفاف (التي صنعتها أيو)، ثم غادر أجايي إلى منزل عائلته."
+    },
+    {
+      "id": 210,
+      "text": "Later he returned for Ayo.",
+      "translation": "لاحقاً عاد لأخذ أيو."
+    },
+    {
+      "id": 211,
+      "text": "The women cried as they said goodbye to her.",
+      "translation": "بكت النساء وهن يودعنها."
+    },
+    {
+      "id": 212,
+      "text": "'When it comes to the true work of a woman - having children - nobody can say that you are not enthusiastic,' said Ayo's mother through her tears.",
+      "translation": "قالت والدة أيو عبر دموعها: 'عندما يتعلق الأمر بالعمل الحقيقي للمرأة - إنجاب الأطفال - لا يمكن لأحد أن يقول إنك غير متحمسة'."
+    },
+    {
+      "id": 213,
+      "text": "Ajayi and Ayo visited various relations on both sides of the family and at last they were home.",
+      "translation": "زار أجايي وأيو أقارب مختلفين من كلا الجانبين من العائلة وأخيراً عادا إلى المنزل."
+    },
+    {
+      "id": 214,
+      "text": "Ayo seemed different in Ajayi's eyes.",
+      "translation": "بدت أيو مختلفة في عيني أجايي."
+    },
+    {
+      "id": 215,
+      "text": "He had never really looked at her carefully before.",
+      "translation": "لم ينظر إليها بعناية حقاً من قبل."
+    },
+    {
+      "id": 216,
+      "text": "Now he saw her proud head, her long neck, her handsome shoulders, and he held her to him lovingly.",
+      "translation": "الآن رأى رأسها المرفوع، ورقبتها الطويلة، وكتفيها الجميلين، وضمها إليه بحب."
+    },
+    {
+      "id": 217,
+      "text": "The next morning, as his alarm clock went off, he reached for his morning cup of tea.",
+      "translation": "في صباح اليوم التالي، عندما انطلق منبه، مد يده لأخذ كوب الشاي الصباحي."
+    },
+    {
+      "id": 218,
+      "text": "It was not there.",
+      "translation": "لم يكن هناك."
+    },
+    {
+      "id": 219,
+      "text": "He sat up quickly and looked.",
+      "translation": "جلس بسرعة ونظر."
+    },
+    {
+      "id": 220,
+      "text": "Nothing.",
+      "translation": "لا شيء."
+    },
+    {
+      "id": 221,
+      "text": "He listened for Ayo's footsteps outside in the kitchen.",
+      "translation": "استمع لخطوات أيو في الخارج في المطبخ."
+    },
+    {
+      "id": 222,
+      "text": "Nothing.",
+      "translation": "لا شيء."
+    },
+    {
+      "id": 223,
+      "text": "He turned to look beside him.",
+      "translation": "استدار لينظر بجانبه."
+    },
+    {
+      "id": 224,
+      "text": "Ayo was there.",
+      "translation": "كانت أيو هناك."
+    },
+    {
+      "id": 225,
+      "text": "She must be ill, he thought, all that excitement yesterday.",
+      "translation": "فكر: لا بد أنها مريضة، كل ذلك الإثارة أمس."
+    },
+    {
+      "id": 226,
+      "text": "'Ayo, Ayo,' he cried, 'are you ill?'",
+      "translation": "صرخ: 'أيو، أيو، هل أنت مريضة؟'"
+    },
+    {
+      "id": 227,
+      "text": "She turned round slowly, still lying down, and looked at him.",
+      "translation": "استدارت ببطء، وهي لا تزال مستلقية، ونظرت إليه."
+    },
+    {
+      "id": 228,
+      "text": "She moved her feet under the cotton bedcover, getting comfortable.",
+      "translation": "حركت قدميها تحت غطاء السرير القطني، لتستريح."
+    },
+    {
+      "id": 229,
+      "text": "There was a terrible calm about her.",
+      "translation": "كان هناك هدوء رهيب حولها."
+    },
+    {
+      "id": 230,
+      "text": "'No, Ajayi,' she replied, 'are you?'",
+      "translation": "أجابت: 'لا يا أجايي، هل أنت مريض؟'"
+    },
+    {
+      "id": 231,
+      "text": "Is something wrong with your legs?'",
+      "translation": "هل هناك شيء خطب في ساقيك؟'"
+    },
+    {
+      "id": 232,
+      "text": "'No,' he said.",
+      "translation": "قال: 'لا'."
+    },
+    {
+      "id": 233,
+      "text": "He was alarmed, thinking that all the excitement had made her go a little crazy.",
+      "translation": "كان قلقاً، معتقداً أن كل الإثارة جعلتها تصاب ببعض الجنون."
+    },
+    {
+      "id": 234,
+      "text": "'Ajayi, my husband,' she said, 'for twelve years I have got up every morning at five to make tea for you and breakfast.'",
+      "translation": "قالت: 'أجايي، زوجي، لمدة اثني عشر عاماً استيقظت كل صباح في الخامسة لأصنع لك الشاي والفطور'."
+    },
+    {
+      "id": 235,
+      "text": "Now I am a truly married woman, you must behave towards me with a little more respect.",
+      "translation": "الآن أنا امرأة متزوجة حقاً، يجب أن تعاملني بقدر أكبر من الاحترام."
+    },
+    {
+      "id": 236,
+      "text": "You are now a husband and not a lover.",
+      "translation": "أنت الآن زوج وليس عشيقاً."
+    },
+    {
+      "id": 237,
+      "text": "Get up and make yourself a cup of tea.'",
+      "translation": "انهض واصنع لنفسك كوب شاي.'"
+    },
+    {
+      "id": 238,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 239,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 240,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
