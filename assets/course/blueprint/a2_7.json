@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_31",
+      "exercises": [
+        {"t":"choice","c":"gym","dir":"t2n","big":true,"d":["coach","team"]},
+        {"t":"choice","c":"strong","dir":"n2t","d":["weak","muscle"]},
+        {"t":"match","cs":["gym","coach","team","muscle"]},
+        {"t":"match","cs":["strong","weak","lift","jog"]},
+        {"t":"build","c":"my_team_won_the_match_yesterday","dir":"n2t","d":["gym","coach"]},
+        {"t":"build","c":"we_jog_in_the_park_every_morning","dir":"audio","d":["muscle","coach"]},
+        {"t":"fill","c":"he_trains_with_a_good_coach"},
+        {"t":"listenpick","c":"i_go_to_the_gym_twice_a_week"},
+        {"t":"speak","c":"do_you_exercise_every_day"},
+        {"t":"choice","c":"i_want_to_be_strong","dir":"t2n","d":["do_you_exercise_every_day","exercise_makes_your_muscles_strong"]},
+        {"t":"typeword","c":"my_team_won_the_match_yesterday"},
+        {"t":"build","c":"he_trains_with_a_good_coach","dir":"t2n","d":["strong","weak"]},
+        {"t":"fill","c":"exercise_makes_your_muscles_strong"},
+        {"t":"choice","c":"coach","dir":"n2t","d":["team","gym"]},
+        {"t":"speak","c":"we_jog_in_the_park_every_morning"}
+      ]
+    },
+    {
+      "id": "a2_32",
+      "exercises": [
+        {"t":"choice","c":"habit","dir":"t2n","big":true,"d":["fruit","stress"]},
+        {"t":"choice","c":"healthy","dir":"n2t","d":["daily","early"]},
+        {"t":"match","cs":["habit","healthy","fruit","stress"]},
+        {"t":"match","cs":["early","avoid","drink","daily"]},
+        {"t":"build","c":"try_to_avoid_too_much_sugar","dir":"n2t","d":["fruit","habit"]},
+        {"t":"build","c":"he_goes_to_bed_early","dir":"audio","d":["stress","daily"]},
+        {"t":"fill","c":"i_drink_water_every_day"},
+        {"t":"listenpick","c":"she_eats_fruit_every_morning"},
+        {"t":"speak","c":"i_walk_to_work_every_day"},
+        {"t":"choice","c":"a_healthy_breakfast_gives_you_energy","dir":"t2n","d":["she_eats_fruit_every_morning","good_habits_help_you_stay_healthy"]},
+        {"t":"typeword","c":"good_habits_help_you_stay_healthy"},
+        {"t":"build","c":"i_drink_water_every_day","dir":"t2n","d":["fruit","stress"]},
+        {"t":"fill","c":"a_healthy_breakfast_gives_you_energy"},
+        {"t":"choice","c":"avoid","dir":"n2t","d":["drink","early"]},
+        {"t":"speak","c":"he_goes_to_bed_early"}
+      ]
+    },
+    {
+      "id": "a2_33",
+      "exercises": [
+        {"t":"choice","c":"advice","dir":"t2n","big":true,"d":["mistake","coat"]},
+        {"t":"choice","c":"coat","dir":"n2t","d":["advice","mistake"]},
+        {"t":"match","cs":["advice","careful","hurry","worry"]},
+        {"t":"match","cs":["listen","warm","coat","mistake"]},
+        {"t":"build","c":"you_should_wear_a_warm_coat","dir":"n2t","d":["worry","hurry"]},
+        {"t":"build","c":"he_should_listen_to_his_teacher","dir":"audio","d":["coat","advice"]},
+        {"t":"fill","c":"you_should_not_worry_so_much"},
+        {"t":"listenpick","c":"be_careful_on_the_stairs"},
+        {"t":"speak","c":"what_should_i_do"},
+        {"t":"choice","c":"you_should_drink_more_water","dir":"t2n","d":["that_was_a_big_mistake","be_careful_on_the_stairs"]},
+        {"t":"typeword","c":"that_was_a_big_mistake"},
+        {"t":"build","c":"what_should_i_do","dir":"t2n","d":["coat","warm"]},
+        {"t":"fill","c":"you_should_drink_more_water"},
+        {"t":"choice","c":"worry","dir":"n2t","d":["hurry","listen"]},
+        {"t":"speak","c":"you_should_wear_a_warm_coat"}
+      ]
+    },
+    {
+      "id": "a2_34",
+      "exercises": [
+        {"t":"choice","c":"rule","dir":"t2n","big":true,"d":["helmet","speed"]},
+        {"t":"choice","c":"helmet","dir":"n2t","d":["belt","speed"]},
+        {"t":"match","cs":["rule","law","belt","speed"]},
+        {"t":"match","cs":["helmet","obey","allowed","forbidden"]},
+        {"t":"build","c":"do_not_drive_over_the_speed_limit","dir":"n2t","d":["helmet","belt"]},
+        {"t":"build","c":"drivers_must_obey_the_law","dir":"audio","d":["helmet","forbidden"]},
+        {"t":"fill","c":"you_must_wear_a_helmet"},
+        {"t":"listenpick","c":"smoking_is_not_allowed_here"},
+        {"t":"speak","c":"you_have_to_stop_here"},
+        {"t":"choice","c":"i_have_to_work_on_saturday","dir":"t2n","d":["do_i_have_to_pay","you_must_wear_a_helmet"]},
+        {"t":"typeword","c":"do_i_have_to_pay"},
+        {"t":"build","c":"you_have_to_stop_here","dir":"t2n","d":["helmet","belt"]},
+        {"t":"fill","c":"drivers_must_obey_the_law"},
+        {"t":"choice","c":"allowed","dir":"n2t","d":["obey","speed"]},
+        {"t":"speak","c":"smoking_is_not_allowed_here"}
+      ]
+    },
+    {
+      "id": "a2_35",
+      "exercises": [
+        {"t":"choice","c":"swim","dir":"t2n","big":true,"d":["dance","climb"]},
+        {"t":"choice","c":"climb","dir":"n2t","d":["cook","sing"]},
+        {"t":"match","cs":["swim","ride","drive","sing"]},
+        {"t":"match","cs":["dance","cook","climb","skill"]},
+        {"t":"build","c":"she_can_sing_and_dance","dir":"n2t","d":["swim","cook"]},
+        {"t":"build","c":"my_mother_can_cook_very_well","dir":"audio","d":["ride","climb"]},
+        {"t":"fill","c":"i_can_swim_very_well"},
+        {"t":"listenpick","c":"can_you_ride_a_bike"},
+        {"t":"speak","c":"he_could_not_drive_last_year"},
+        {"t":"choice","c":"when_i_was_ten_i_could_climb_trees","dir":"t2n","d":["i_cannot_play_the_guitar","she_can_sing_and_dance"]},
+        {"t":"typeword","c":"i_cannot_play_the_guitar"},
+        {"t":"build","c":"i_can_swim_very_well","dir":"t2n","d":["dance","skill"]},
+        {"t":"fill","c":"he_could_not_drive_last_year"},
+        {"t":"choice","c":"sing","dir":"n2t","d":["swim","ride"]},
+        {"t":"speak","c":"my_mother_can_cook_very_well"}
+      ]
+    }
+  ]
+        }
