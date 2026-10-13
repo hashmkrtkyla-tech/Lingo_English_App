@@ -1,14 +1,993 @@
 {
-  "id": "a2_drive_7",
-  "title": "A2 Elementary Story 7",
+  "id": "a2_delivery",
+  "title": "Delivery",
   "level": "A2",
-  "audio_url": "https://drive.google.com/uc?export=download&id=1VNkDVJU_dwIuYt4rtdzwgVsaa6BIwjoH",
+  "audio_url": "assets/books/audio/a2_books/Delivery.mp3",
   "sentences": [
     {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "Elementary stories make language learning fun and engaging.",
-      "translation": "القصص المبتدئة تجعل تعلم اللغة ممتعاً ومشوقاً."
+      "id": 1,
+      "text": "In her house outside the town, Mrs Kennedy writes her diary, paints the views from her windows, and finds no comfort in the world.",
+      "translation": "في منزلها خارج البلدة، تكتب السيدة كينيدي مذكراتها، وترسم المناظر من نوافذها، ولا تجد عزاءً في العالم."
+    },
+    {
+      "id": 2,
+      "text": "Every week Charlie Blue delivers a box of groceries to her door, but she never appears.",
+      "translation": "كل أسبوع، يوصل تشارلي بلو صندوقاً من البقالة إلى بابها، لكنها لا تظهر أبداً."
+    },
+    {
+      "id": 3,
+      "text": "It is now one year since the accident...",
+      "translation": "لقد مر عام الآن على الحادث..."
+    },
+    {
+      "id": 4,
+      "text": "On Thursdays, after the last delivery of the long day, which was to the mad Kennedy woman, Charlie Blue was allowed to keep the van for the night.",
+      "translation": "في أيام الخميس، بعد آخر توصيل في اليوم الطويل، الذي كان إلى امرأة كينيدي المجنونة، سُمح لتشارلي بلو بالاحتفاظ بالشاحنة ليلاً."
+    },
+    {
+      "id": 5,
+      "text": "He could drive home to his mother, proud behind the wheel of the yellow van, waving to any of the boys from his schooldays he might happen to see in their long gardens, playing with their children or cutting their midsummer grass.",
+      "translation": "يمكنه القيادة إلى منزل والدته، فخوراً خلف مقود الشاحنة الصفراء، ملوحاً لأي من الأولاد من أيام مدرسته قد يصادف رؤيتهم في حدائقهم الطويلة، يلعبون مع أطفالهم أو يقصون عشب منتصف الصيف."
+    },
+    {
+      "id": 6,
+      "text": "The arrangement suited his mother.",
+      "translation": "ناسب هذا الترتيب والدته."
+    },
+    {
+      "id": 7,
+      "text": "She would have the dinner ready for him and then, after watching their favourite TV programme Coronation Street together, he would drive her into town to Horan's Hotel for her weekly game of cards.",
+      "translation": "كانت تحضر له العشاء ثم، بعد مشاهدة برنامجهم التلفزيوني المفضل 'شارع كورونيشن' معاً، كان يوصلها إلى البلدة إلى فندق هوران للعب الورق الأسبوعي."
+    },
+    {
+      "id": 8,
+      "text": "Tommy Horan also owned the grocery store and she thought he was a great man, a generous man to let her son have the van so that she could get to her game of cards.",
+      "translation": "كان تومي هوران يملك أيضاً متجر البقالة وكانت تعتقد أنه رجل عظيم، رجل كريم لتركه لابنها الشاحنة حتى تتمكن من الوصول إلى لعبة الورق."
+    },
+    {
+      "id": 9,
+      "text": "Charlie said nothing, but knew Tommy Horan to be a bit of a bollocks, selling his tired vegetables and soft tomatoes and eggs that were no longer fresh.",
+      "translation": "لم يقل تشارلي شيئاً، لكنه كان يعرف أن تومي هوران أحمق بعض الشيء، يبيع خضرواته الذابلة وطماطمه الطرية وبيضه الذي لم يعد طازجاً."
+    },
+    {
+      "id": 10,
+      "text": "He said nothing because his mother could become as nasty as her twelve-year-old dog, which she allowed to sit on her knees while she fed it with the better bits of meat from her dinner plate.",
+      "translation": "لم يقل شيئاً لأن والدته يمكن أن تصبح شرسة مثل كلبها البالغ من العمر اثني عشر عاماً، الذي كانت تسمح له بالجلوس على ركبتيها بينما تطعمه بقطع اللحم الأفضل من طبق عشائها."
+    },
+    {
+      "id": 11,
+      "text": "There was a light shower of rain as Charlie was driving to Mrs Kennedy's.",
+      "translation": "كانت هناك زخة خفيفة من المطر بينما كان تشارلي يقود إلى منزل السيدة كينيدي."
+    },
+    {
+      "id": 12,
+      "text": "The sun appeared strongly again from behind the clouds, the road shone blackly, and the smells of fresh-cut grass and warm earth rose from the fields and came in through the open window of the van.",
+      "translation": "ظهرت الشمس بقوة مرة أخرى من خلف السحب، ولامع الطريق بشكل أسود، وارتفعت روائح العشب المقطوع حديثاً والتربة الدافئة من الحقول وجاءت عبر النافذة المفتوحة للشاحنة."
+    },
+    {
+      "id": 13,
+      "text": "With one hand, Charlie took out a cigarette from a packet and lit it with his Horan's Hotel cigarette lighter.",
+      "translation": "بيد واحدة، أخرج تشارلي سيجارة من العلبة وأشعلها بولاعة فندق هوران."
+    },
+    {
+      "id": 14,
+      "text": "He felt lucky.",
+      "translation": "شعر أنه محظوظ."
+    },
+    {
+      "id": 15,
+      "text": "Lucky to have his driver's licence, lucky to have his mother still alive, lucky to be working for Tommy Horan, even if he was an old bollocks.",
+      "translation": "محظوظ لأنه يملك رخصة قيادة، محظوظ لأن والدته لا تزال على قيد الحياة، محظوظ لأنه يعمل عند تومي هوران، حتى لو كان أحمق عجوزاً."
+    },
+    {
+      "id": 16,
+      "text": "August 20",
+      "translation": "20 أغسطس"
+    },
+    {
+      "id": 17,
+      "text": "A month already.",
+      "translation": "مر شهر بالفعل."
+    },
+    {
+      "id": 18,
+      "text": "A day just as lovely as that day, the clouds low over the hills.",
+      "translation": "يوم جميل تماماً مثل ذلك اليوم، السحب منخفضة فوق التلال."
+    },
+    {
+      "id": 19,
+      "text": "Light seed balls blowing across the land like a first snow.",
+      "translation": "كرات البذور الخفيفة تتطاير عبر الأرض مثل أول تساقط للثلوج."
+    },
+    {
+      "id": 20,
+      "text": "And I hate this beauty because Bobby cannot see it.",
+      "translation": "وأنا أكره هذا الجمال لأن بوبي لا يستطيع رؤيته."
+    },
+    {
+      "id": 21,
+      "text": "I paint it but I hate it.",
+      "translation": "أرسمه لكنني أكرهه."
+    },
+    {
+      "id": 22,
+      "text": "With their sharp wings, the birds cut open the sky and I am delighted to see it bleed.",
+      "translation": "بأجنحتها الحادة، تشق الطيور السماء وأنا سعيدة لرؤيتها تنزف."
+    },
+    {
+      "id": 23,
+      "text": "From my window, I can see the gate and the red wallflowers, staining the stones with their blood.",
+      "translation": "من نافذتي، أستطيع رؤية البوابة وزهور الحائط الحمراء، تصبغ الحجارة بدمها."
+    },
+    {
+      "id": 24,
+      "text": "At night, the screams of hunted animals comfort me.",
+      "translation": "في الليل، صرخات الحيوانات المطاردة تريحني."
+    },
+    {
+      "id": 25,
+      "text": "I am not the only one in pain.",
+      "translation": "أنا لست الوحيدة التي تتألم."
+    },
+    {
+      "id": 26,
+      "text": "In the morning, I cannot bear to dress, and prefer to wear only shadows.",
+      "translation": "في الصباح، لا أستطيع تحمل ارتداء الملابس، وأفضل ارتداء الظلال فقط."
+    },
+    {
+      "id": 27,
+      "text": "I go to each of my fifteen windows and decide which view to paint today.",
+      "translation": "أذهب إلى كل من نوافذي الخمسة عشر وأقرر أي منظر سأرسمه اليوم."
+    },
+    {
+      "id": 28,
+      "text": "I might eat, if my body lets me, and then I move to my chosen window and start to paint.",
+      "translation": "قد آكل، إذا سمح لي جسدي، ثم أنتقل إلى نافذتي المختارة وأبدأ في الرسم."
+    },
+    {
+      "id": 29,
+      "text": "Charlie drove carefully around the last bend before the Kennedy house.",
+      "translation": "قاد تشارلي بحذر حول المنحنى الأخير قبل منزل كينيدي."
+    },
+    {
+      "id": 30,
+      "text": "It was a year to the day, he realized, since poor old Foley lost control of his tractor on this very bend and killed Mrs Kennedy's young son.",
+      "translation": "أدرك أنه مر عام بالضبط على اليوم الذي فقد فيه فولي المسكين السيطرة على جراره عند هذا المنحنى بالذات وقتل ابن السيدة كينيدي الصغير."
+    },
+    {
+      "id": 31,
+      "text": "Bobby was his name, only four or five years of age.",
+      "translation": "كان اسمه بوبي، وعمره أربع أو خمس سنوات فقط."
+    },
+    {
+      "id": 32,
+      "text": "He and his mother were planting flowers at the foot of the big stone pillars either side of the gate, when around the corner came Foley, shouting about the brakes.",
+      "translation": "كان هو ووالدته يزرعان الزهور عند سفح الأعمدة الحجرية الكبيرة على جانبي البوابة، عندما جاء فولي من حول الزاوية، صارخاً بشأن الفرامل."
+    },
+    {
+      "id": 33,
+      "text": "The front of the tractor was already too close to the pillar on the left, throwing up grass and earth into the sky.",
+      "translation": "كان الجزء الأمامي من الجرار قريباً جداً من العمود على اليسار، يقذف العشب والتراب في السماء."
+    },
+    {
+      "id": 34,
+      "text": "Mikey Tuohy, who saw the whole thing from his field above the road, told the police in detail what happened.",
+      "translation": "أخبر مايكي تووهي، الذي رأى الأمر برمته من حقله فوق الطريق، الشرطة بالتفصيل بما حدث."
+    },
+    {
+      "id": 35,
+      "text": "His story earned him free beer in the pub for a long time afterwards.",
+      "translation": "أكسبته قصته بيرة مجانية في الحانة لفترة طويلة بعد ذلك."
+    },
+    {
+      "id": 36,
+      "text": "He said the screams of the mother nearly stopped his heart.",
+      "translation": "قال إن صرخات الأم كادت توقف قلبه."
+    },
+    {
+      "id": 37,
+      "text": "She picked up the boy's body before Tuohy could get there, and she ran all the way up the long driveway to the big house, screaming the whole time as the boy's head dropped lifelessly against her arm and shoulder.",
+      "translation": "التقطت جثة الصبي قبل أن يتمكن تووهي من الوصول، وركضت طوال الطريق الطويل إلى المنزل الكبير، صارخة طوال الوقت بينما سقط رأس الصبي بلا حياة على ذراعها وكتفها."
+    },
+    {
+      "id": 38,
+      "text": "Poor old Foley sat on the grass and put his head in his hands and didn't even recognize Tuohy when he reached him.",
+      "translation": "جلس فولي المسكين على العشب ووضع رأسه في يديه ولم يتعرف حتى على تووهي عندما وصل إليه."
+    },
+    {
+      "id": 39,
+      "text": "Tuohy said Foley shouldn't have been allowed on the road, not even on a bike, because the old boy was half-blind.",
+      "translation": "قال تووهي إنه ما كان ينبغي السماح لفولي بالوجود على الطريق، ولا حتى على دراجة، لأن العجوز كان نصف أعمى."
+    },
+    {
+      "id": 40,
+      "text": "September 3",
+      "translation": "3 سبتمبر"
+    },
+    {
+      "id": 41,
+      "text": "Horan's got somebody new to deliver the groceries.",
+      "translation": "وظف هوران شخصاً جديداً لتوصيل البقالة."
+    },
+    {
+      "id": 42,
+      "text": "I recognized him: Charles Cullen.",
+      "translation": "تعرفت عليه: تشارلز كولين."
+    },
+    {
+      "id": 43,
+      "text": "He knocked and stood at the door and stared out for a long time, out beyond the fields.",
+      "translation": "طرق الباب ووقف عنده وحدق في الخارج لفترة طويلة، خارج الحقول."
+    },
+    {
+      "id": 44,
+      "text": "At what, I don't know.",
+      "translation": "في ماذا، لا أعرف."
+    },
+    {
+      "id": 45,
+      "text": "He stretched his arms out wide like Christ on the cross, to take the whole world to his heart, perhaps.",
+      "translation": "مد ذراعيه على نطاق واسع مثل المسيح على الصليب، ليأخذ العالم كله إلى قلبه، ربما."
+    },
+    {
+      "id": 46,
+      "text": "Then he yawned and knocked again.",
+      "translation": "ثم تثاءب وطرق مرة أخرى."
+    },
+    {
+      "id": 47,
+      "text": "He lifted his T-shirt and scratched his stomach.",
+      "translation": "رفع قميصه وخدش بطنه."
+    },
+    {
+      "id": 48,
+      "text": "With his toe he pushed the box nearer the wall, and left slowly, looking back occasionally at the door.",
+      "translation": "بإصبعه دفع الصندوق أقرب إلى الحائط، وغادر ببطء، ناظراً إلى الباب من حين لآخر."
+    },
+    {
+      "id": 49,
+      "text": "While I was emptying the box afterwards I discovered a box of chocolates I hadn't asked for.",
+      "translation": "بينما كنت أفرغ الصندوق بعد ذلك اكتشفت علبة شوكولاتة لم أطلبها."
+    },
+    {
+      "id": 50,
+      "text": "I must remember not to pay for that.",
+      "translation": "يجب أن أتذكر ألا أدفع ثمن ذلك."
+    },
+    {
+      "id": 51,
+      "text": "Now, at the end of summer, the land is bled dry and colours are slowly returning to brown.",
+      "translation": "الآن، في نهاية الصيف، أصبحت الأرض جافة ونزفت، والألوان تعود ببطء إلى البني."
+    },
+    {
+      "id": 52,
+      "text": "The cooler air moves against my skin like long grass.",
+      "translation": "الهواء البارد يتحرك على بشرتي مثل العشب الطويل."
+    },
+    {
+      "id": 53,
+      "text": "When the night enters the house, I look for Bobby.",
+      "translation": "عندما يدخل الليل إلى المنزل، أبحث عن بوبي."
+    },
+    {
+      "id": 54,
+      "text": "I want to run a bath and pour warm water over his small, smooth back.",
+      "translation": "أريد تحضير حمام وسكب ماء دافئ على ظهره الصغير الناعم."
+    },
+    {
+      "id": 55,
+      "text": "I want to turn back his soft sheet and lift him into bed and bring the edge of the sheet to his chin.",
+      "translation": "أريد ثني ملاءته الناعمة ورفعه إلى السرير وإحضار حافة الملاءة إلى ذقنه."
+    },
+    {
+      "id": 56,
+      "text": "I want to kiss his eyelids as he sleeps.",
+      "translation": "أريد تقبيل جفونيه وهو نائم."
+    },
+    {
+      "id": 57,
+      "text": "Instead, the darkness tears at my own.",
+      "translation": "بدلاً من ذلك، يمزق الظلام جفوني."
+    },
+    {
+      "id": 58,
+      "text": "Once, last autumn, as darkness was falling, Charlie saw an owl standing on the right-pillar of Mrs Kennedy's gate.",
+      "translation": "ذات مرة، في الخريف الماضي، بينما كان الظلام يحل، رأى تشارلي بومة تقف على العمود الأيمن لبوابة السيدة كينيدي."
+    },
+    {
+      "id": 59,
+      "text": "It didn't move as Charlie edged the van past the ruined left pillar and wall, and then past the gate still on its side since the accident.",
+      "translation": "لم تتحرك بينما جعل تشارلي الشاحنة تتجاوز العمود الأيسر والجدار المدمرين، ثم تتجاوز البوابة التي لا تزال على جانبها منذ الحادث."
+    },
+    {
+      "id": 60,
+      "text": "At first, he thought it was a shadow.",
+      "translation": "في البداية، ظن أنه ظل."
+    },
+    {
+      "id": 61,
+      "text": "He had stopped by the pillar and quietly rolled down the window, when the top of the fat, dark shape turned towards him.",
+      "translation": "كان قد توقف عند العمود وأنزل النافذة بهدوء، عندما استدار الجزء العلوي من الشكل الداكن السمين نحوه."
+    },
+    {
+      "id": 62,
+      "text": "From the centre of two wide circles two eyes stared evenly at him, daring him to move, and then with two or three movements of its surprisingly wide wings it slowly, coldly, flew off low over the field towards the trees.",
+      "translation": "من مركز دائرتين واسعتين حدقت عينان فيه بالتساوي، تتحداه أن يتحرك، ثم بحركتين أو ثلاث من أجنحتها الواسعة بشكل مدهش، طارت ببطء وبرود على ارتفاع منخفض فوق الحقل نحو الأشجار."
+    },
+    {
+      "id": 63,
+      "text": "Charlie remembered feeling uncomfortable, judged in some way.",
+      "translation": "تذكر تشارلي أنه شعر بعدم الارتياح، وكأنه محكوم عليه بطريقة ما."
+    },
+    {
+      "id": 64,
+      "text": "October 9",
+      "translation": "9 أكتوبر"
+    },
+    {
+      "id": 65,
+      "text": "Charles still brings the groceries.",
+      "translation": "لا يزال تشارلز يحضر البقالة."
+    },
+    {
+      "id": 66,
+      "text": "For the same reason, I both hate and love him being at my door each week.",
+      "translation": "لنفس السبب، أكره وأحب وجوده على بابي كل أسبوع."
+    },
+    {
+      "id": 67,
+      "text": "He reminds me of a better life.",
+      "translation": "إنه يذكرني بحياة أفضل."
+    },
+    {
+      "id": 68,
+      "text": "I so clearly remember Charles in my class, tall and clumsy at his desk.",
+      "translation": "أتذكر تشارلز بوضوح في صفي، طويلاً وأخرق على مكتبه."
+    },
+    {
+      "id": 69,
+      "text": "I had to let him stand in the end.",
+      "translation": "كان عليّ أن أتركه يقف في النهاية."
+    },
+    {
+      "id": 70,
+      "text": "He was freer that way.",
+      "translation": "كان أكثر حرية بهذه الطريقة."
+    },
+    {
+      "id": 71,
+      "text": "And the day I decided, he had a gift, it comes back so clearly.",
+      "translation": "واليوم الذي قررت فيه، كان لديه هدية، يعود الأمر بوضوح شديد."
+    },
+    {
+      "id": 72,
+      "text": "(I hate the way I can remember every detail of my life before Bobby and Bobby's death!)",
+      "translation": "(أكره الطريقة التي أتذكر بها كل تفاصيل حياتي قبل بوبي ووفاة بوبي!)"
+    },
+    {
+      "id": 73,
+      "text": "He brought his finished painting up to my desk and at first, I was disappointed.",
+      "translation": "أحضر لوحته المنتهية إلى مكتبي وفي البداية، شعرت بخيبة أمل."
+    },
+    {
+      "id": 74,
+      "text": "'A Beach in Summer' it was called, but everything in Charles's painting was a different shade of blue, not just the sea: blue sand, blue hills, blue boat, and what I thought was a blue sun.",
+      "translation": "كانت تسمى 'شاطئ في الصيف'، لكن كل شيء في لوحة تشارلز كان درجة مختلفة من الأزرق، ليس البحر فقط: رمل أزرق، تلال زرقاء، قارب أزرق، وما ظننت أنه شمس زرقاء."
+    },
+    {
+      "id": 75,
+      "text": "I asked Charles why he hadn't used other colours, and he said in that frightened way he had, 'Well, Miss, it's a beach at night-time, you see.'",
+      "translation": "سألت تشارلز لماذا لم يستخدم ألواناً أخرى، فقال بطريقته الخائفة: 'حسناً يا آنسة، إنه شاطئ في الليل، كما ترين'."
+    },
+    {
+      "id": 76,
+      "text": "Charlie Blue they called him after that.",
+      "translation": "أطلقوا عليه تشارلي بلو بعد ذلك."
+    },
+    {
+      "id": 77,
+      "text": "Maybe he still paints.",
+      "translation": "ربما لا يزال يرسم."
+    },
+    {
+      "id": 78,
+      "text": "I hope so.",
+      "translation": "آمل ذلك."
+    },
+    {
+      "id": 79,
+      "text": "When the police arrived, Mrs Kennedy wouldn't let them into the house, Tuohy said.",
+      "translation": "قال تووهي إنه عندما وصلت الشرطة، لم تسمح لهم السيدة كينيدي بالدخول إلى المنزل."
+    },
+    {
+      "id": 80,
+      "text": "Nor the priest either.",
+      "translation": "ولا الكاهن أيضاً."
+    },
+    {
+      "id": 81,
+      "text": "In the end, the police had to break a window and get in that way.",
+      "translation": "في النهاية، اضطرت الشرطة لكسر نافذة والدخول من هناك."
+    },
+    {
+      "id": 82,
+      "text": "They found her upstairs washing the child in the bath.",
+      "translation": "وجدوها في الطابق العلوي تغسل الطفل في حوض الاستحمام."
+    },
+    {
+      "id": 83,
+      "text": "The bloodstained water went everywhere, over the walls and the mirror, wetting the priest and the doctor as they forced the dead boy out of her arms.",
+      "translation": "انتشر الماء الملوث بالدم في كل مكان، على الجدران والمرآة، مبللاً الكاهن والطبيب وهما ينتزعان الصبي الميت من ذراعيها."
+    },
+    {
+      "id": 84,
+      "text": "Dr Murphy phoned his wife, who came over and stayed in the house.",
+      "translation": "اتصل الدكتور ميرفي بزوجته، التي جاءت وبقيت في المنزل."
+    },
+    {
+      "id": 85,
+      "text": "Mrs Kennedy didn't come out of the bathroom until the next morning.",
+      "translation": "لم تخرج السيدة كينيدي من الحمام حتى صباح اليوم التالي."
+    },
+    {
+      "id": 86,
+      "text": "She came downstairs still covered in blood and told Mrs Murphy to kindly leave her house.",
+      "translation": "نزلت وهي لا تزال مغطاة بالدم وأخبرت السيدة ميرفي بلطف أن تترك منزلها."
+    },
+    {
+      "id": 87,
+      "text": "Hasn't been seen outside her house and garden since the child was buried.",
+      "translation": "لم تُرَ خارج منزلها وحديقتها منذ دفن الطفل."
+    },
+    {
+      "id": 88,
+      "text": "From the high field Tuohy says he sometimes sees her sitting all day at one of her windows.",
+      "translation": "يقول تووهي من الحقل المرتفع إنه يراها أحياناً جالسة طوال اليوم عند إحدى نوافذها."
+    },
+    {
+      "id": 89,
+      "text": "Or walking naked to the woodpile or throwing bits of food out for her cats.",
+      "translation": "أو تمشي عارية إلى كومة الحطب أو ترمي قطعاً من الطعام لقططها."
+    },
+    {
+      "id": 90,
+      "text": "As Charlie drove the van up the driveway, he looked around for her, as he always did.",
+      "translation": "بينما كان تشارلي يقود الشاحنة على الممر، نظر حوله بحثاً عنها، كما كان يفعل دائماً."
+    },
+    {
+      "id": 91,
+      "text": "He threw the end of his cigarette out of the window, thinking to himself that he had only two cigarettes left and that the old bollocks wouldn't be paying him until tomorrow evening.",
+      "translation": "رمى عقب سيجارته من النافذة، مفكراً في نفسه أنه لم يتبق لديه سوى سيجارتين وأن الأحمق العجوز لن يدفع له حتى مساء الغد."
+    },
+    {
+      "id": 92,
+      "text": "He'd better save them.",
+      "translation": "من الأفضل له أن يوفرهما."
+    },
+    {
+      "id": 93,
+      "text": "He looked up at the high field behind Mrs Kennedy's and guessed that Tuohy was probably spending a lot more time up there than he needed to.",
+      "translation": "نظر إلى الحقل المرتفع خلف منزل السيدة كينيدي وخمن أن تووهي ربما يقضي وقتاً أطول بكثير هناك مما يحتاج."
+    },
+    {
+      "id": 94,
+      "text": "December 25",
+      "translation": "25 ديسمبر"
+    },
+    {
+      "id": 95,
+      "text": "I found a Christmas cake I hadn't ordered in the box of groceries yesterday.",
+      "translation": "وجدت كعكة عيد الميلاد لم أطلبها في صندوق البقالة أمس."
+    },
+    {
+      "id": 96,
+      "text": "Sometimes a man comes to the gate and stands there, staring up at the house.",
+      "translation": "أحياناً يأتي رجل إلى البوابة ويقف هناك، محدقاً في المنزل."
+    },
+    {
+      "id": 97,
+      "text": "Who is he?",
+      "translation": "من هو؟"
+    },
+    {
+      "id": 98,
+      "text": "I wonder.",
+      "translation": "أتساءل."
+    },
+    {
+      "id": 99,
+      "text": "He was there last week and again today.",
+      "translation": "كان هناك الأسبوع الماضي ومرة أخرى اليوم."
+    },
+    {
+      "id": 100,
+      "text": "I feel Bobby's presence strongly today.",
+      "translation": "أشعر بحضور بوبي بقوة اليوم."
+    },
+    {
+      "id": 101,
+      "text": "I fetched the Christmas tree from the cellar and put it in the front room, with coloured lights and pretty glass balls on it.",
+      "translation": "أحضرت شجرة عيد الميلاد من القبو ووضعتها في الغرفة الأمامية، مع أضواء ملونة وكرات زجاجية جميلة عليها."
+    },
+    {
+      "id": 102,
+      "text": "I write in its red and blue and green light.",
+      "translation": "أكتب في ضوئها الأحمر والأزرق والأخضر."
+    },
+    {
+      "id": 103,
+      "text": "I have wrapped his favourite toys and placed them under the tree.",
+      "translation": "لقد غلفت ألعابه المفضلة ووضعتها تحت الشجرة."
+    },
+    {
+      "id": 104,
+      "text": "I close my eyes and he is there, lying on the carpet by the tree, opening his presents, turning his blond head around to smile up at me, not minding a bit that they're the same presents as last year.",
+      "translation": "أغمض عيني وهو هناك، مستلقياً على السجادة بجانب الشجرة، يفتح هداياه، ويدير رأسه الأشقر ليبتسم لي، غير مهتم قليلاً بأنها نفس هدايا العام الماضي."
+    },
+    {
+      "id": 105,
+      "text": "I drink my wine and eat a piece of Christmas cake.",
+      "translation": "أشرب نبيذي وآكل قطعة من كعكة عيد الميلاد."
+    },
+    {
+      "id": 106,
+      "text": "Too rich for you, Bobby, too rich.",
+      "translation": "غنية جداً عليك يا بوبي، غنية جداً."
+    },
+    {
+      "id": 107,
+      "text": "Charlie couldn't imagine his former art teacher naked.",
+      "translation": "لم يستطع تشارلي تخيل معلمة الفنون السابقة عارية."
+    },
+    {
+      "id": 108,
+      "text": "Every other woman in town had spent time naked in his dreams, even Mrs Simpson in the post office.",
+      "translation": "كل امرأة أخرى في البلدة قضت وقتاً عارية في أحلامه، حتى السيدة سيمبسون في مكتب البريد."
+    },
+    {
+      "id": 109,
+      "text": "Mrs Kennedy was older than her but not by a million years, she could only be forty or so, and she had had a good shape back then during his time at school, even if it was hidden by long dresses and colourful baggy jackets.",
+      "translation": "كانت السيدة كينيدي أكبر منها لكن ليس بمليون عام، يمكن أن تكون في الأربعين أو نحو ذلك، وكان لديها قوام جيد آنذاك خلال فترة وجوده في المدرسة، حتى لو كان مخفياً بفساتين طويلة وسترات فضفاضة ملونة."
+    },
+    {
+      "id": 110,
+      "text": "He had liked her.",
+      "translation": "لقد أحبها."
+    },
+    {
+      "id": 111,
+      "text": "She hadn't laughed at him for being stupid.",
+      "translation": "لم تضحك عليه لأنه غبي."
+    },
+    {
+      "id": 112,
+      "text": "She had put up a painting he had done of a beach at nighttime, right up beside the board where everybody could see it.",
+      "translation": "علقت لوحة رسمها لشاطئ في الليل، بجانب اللوحة حيث يمكن للجميع رؤيتها."
+    },
+    {
+      "id": 113,
+      "text": "That was good.",
+      "translation": "كان ذلك جيداً."
+    },
+    {
+      "id": 114,
+      "text": "It was worth being called Charlie Blue for that.",
+      "translation": "كان يستحق أن يُلقب بتشارلي بلو من أجل ذلك."
+    },
+    {
+      "id": 115,
+      "text": "February 18",
+      "translation": "18 فبراير"
+    },
+    {
+      "id": 116,
+      "text": "This week Charlie hid a couple of oranges in the box.",
+      "translation": "هذا الأسبوع أخفى تشارلي بضع برتقالات في الصندوق."
+    },
+    {
+      "id": 117,
+      "text": "I love him for these small presents, the only kisses I receive.",
+      "translation": "أحبه من أجل هذه الهدايا الصغيرة، القبلات الوحيدة التي أتلقاها."
+    },
+    {
+      "id": 118,
+      "text": "Today the stranger walked up the driveway to the door.",
+      "translation": "اليوم سار الغريب على الممر إلى الباب."
+    },
+    {
+      "id": 119,
+      "text": "I saw him clearly through the glass, tall, blond-haired, blue-eyed.",
+      "translation": "رأيته بوضوح من خلال الزجاج، طويلاً، أشقر الشعر، أزرق العينين."
+    },
+    {
+      "id": 120,
+      "text": "Serious.",
+      "translation": "جدي."
+    },
+    {
+      "id": 121,
+      "text": "He just stood there for a long time, unmoving.",
+      "translation": "وقف هناك لفترة طويلة، بلا حراك."
+    },
+    {
+      "id": 122,
+      "text": "One of the cats scratched at the kitchen window and I looked away for a moment.",
+      "translation": "خدشت إحدى القطط نافذة المطبخ ونظرت بعيداً للحظة."
+    },
+    {
+      "id": 123,
+      "text": "When I looked back, he was gone.",
+      "translation": "عندما نظرت مرة أخرى، كان قد ذهب."
+    },
+    {
+      "id": 124,
+      "text": "Snow fell again today but a hard sun drove it into the hungry grass.",
+      "translation": "تساقطت الثلوج مرة أخرى اليوم لكن شمساً قوية دفعتها إلى العشب الجائع."
+    },
+    {
+      "id": 125,
+      "text": "Charlie felt sorry for the thin grey mother cat.",
+      "translation": "شعر تشارلي بالأسف على القطة الأم الرمادية النحيفة."
+    },
+    {
+      "id": 126,
+      "text": "She came up to him as he pulled back the side door of the van.",
+      "translation": "جاءت إليه بينما كان يفتح الباب الجانبي للشاحنة."
+    },
+    {
+      "id": 127,
+      "text": "He reached down to scratch her head and she replied by rubbing her whole body against the leg of his jeans.",
+      "translation": "انحنى لخدش رأسها فردت بفرك جسدها كله بساق بنطاله الجينز."
+    },
+    {
+      "id": 128,
+      "text": "It's not much of a life for you, Charlie said, not like you used to have, anyway.",
+      "translation": "قال تشارلي: 'ليست حياة كبيرة لك، ليست مثل التي اعتدت عليها على أي حال'."
+    },
+    {
+      "id": 129,
+      "text": "He was halfway to the front door when he saw last week's box exactly where he had left it.",
+      "translation": "كان في منتصف الطريق إلى الباب الأمامي عندما رأى صندوق الأسبوع الماضي بالضبط حيث تركه."
+    },
+    {
+      "id": 130,
+      "text": "A busy line of black ants led from the box to a hole in the front wall of the house.",
+      "translation": "خط مزدحم من النمل الأسود امتد من الصندوق إلى ثقب في الجدار الأمامي للمنزل."
+    },
+    {
+      "id": 131,
+      "text": "Confused, he walked up and down for a while, looking at the front door and windows.",
+      "translation": "مرتبكاً، سار ذهاباً وإياباً لفترة، ناظراً إلى الباب الأمامي والنوافذ."
+    },
+    {
+      "id": 132,
+      "text": "He put the box he was carrying back into the van, lifted his T-shirt and scratched his stomach.",
+      "translation": "أعاد الصندوق الذي كان يحمله إلى الشاحنة، ورفع قميصه وخدش بطنه."
+    },
+    {
+      "id": 133,
+      "text": "Near the corner of the house, he saw a torn egg-box and a pile of clean chicken bones.",
+      "translation": "بالقرب من زاوية المنزل، رأى علبة بيض ممزقة وكومة من عظام الدجاج النظيفة."
+    },
+    {
+      "id": 134,
+      "text": "April 28",
+      "translation": "28 أبريل"
+    },
+    {
+      "id": 135,
+      "text": "I feel so heavy.",
+      "translation": "أشعر بثقل شديد."
+    },
+    {
+      "id": 136,
+      "text": "As the world outside grows lighter and fills with hope, I become heavier.",
+      "translation": "بينما يصبح العالم الخارجي أكثر إشراقاً ويمتلئ بالأمل، أصبح أنا أثقل."
+    },
+    {
+      "id": 137,
+      "text": "My paintings are still in winter, almost colourless.",
+      "translation": "لوحاتي لا تزال في الشتاء، بلا لون تقريباً."
+    },
+    {
+      "id": 138,
+      "text": "I paint from one window now, from Bobby's room, which gives the best view of the gate.",
+      "translation": "أرسم من نافذة واحدة الآن، من غرفة بوبي، التي تعطي أفضل منظر للبوابة."
+    },
+    {
+      "id": 139,
+      "text": "My handsome stranger is making good progress.",
+      "translation": "غريبي الوسيم يحقق تقدماً جيداً."
+    },
+    {
+      "id": 140,
+      "text": "He began by laying out the stones in rows and writing numbers on them.",
+      "translation": "بدأ بوضع الحجارة في صفوف وكتابة أرقام عليها."
+    },
+    {
+      "id": 141,
+      "text": "Sometimes he stood up and looked back up at me, serious as always, his blond hair not quite visible from where I sit.",
+      "translation": "أحياناً كان يقف وينظر إليّ، جديًا كما هو دائماً، وشعره الأشقر لا يكاد يكون مرئياً من حيث أجلس."
+    },
+    {
+      "id": 142,
+      "text": "The wall is finished.",
+      "translation": "الجدار انتهى."
+    },
+    {
+      "id": 143,
+      "text": "All that remains are the pillar and the gate.",
+      "translation": "كل ما تبقى هو العمود والبوابة."
+    },
+    {
+      "id": 144,
+      "text": "Charlie smoked a cigarette, then knocked on the door for the first time since he began deliveries to Mrs Kennedy nearly a year before.",
+      "translation": "دخن تشارلي سيجارة، ثم طرق الباب للمرة الأولى منذ أن بدأ التوصيل إلى السيدة كينيدي قبل عام تقريباً."
+    },
+    {
+      "id": 145,
+      "text": "Just leave the box by the door and she'll bring the groceries in herself, Horan had said.",
+      "translation": "قال هوران: 'فقط اترك الصندوق عند الباب وستحضر البقالة بنفسها'."
+    },
+    {
+      "id": 146,
+      "text": "But Charlie couldn't just drop the new box down beside the old one and let the ants run all over it.",
+      "translation": "لكن تشارلي لم يستطع مجرد إسقاط الصندوق الجديد بجانب القديم والسماح للنمل بالجري فوقه."
+    },
+    {
+      "id": 147,
+      "text": "When he knocked, the door opened.",
+      "translation": "عندما طرق، انفتح الباب."
+    },
+    {
+      "id": 148,
+      "text": "It hadn't been properly shut.",
+      "translation": "لم يكن مغلقاً بإحكام."
+    },
+    {
+      "id": 149,
+      "text": "'Mrs Kennedy?' he called into the shadowy hall.",
+      "translation": "نادى في الردهة المظللة: 'سيدة كينيدي؟'"
+    },
+    {
+      "id": 150,
+      "text": "May 21",
+      "translation": "21 مايو"
+    },
+    {
+      "id": 151,
+      "text": "Charlie still leaves his small offerings.",
+      "translation": "لا يزال تشارلي يترك هداياه الصغيرة."
+    },
+    {
+      "id": 152,
+      "text": "Yesterday it was a packet of sweets.",
+      "translation": "أمس كانت علبة حلويات."
+    },
+    {
+      "id": 153,
+      "text": "I cannot eat them but I feel grateful and that feeds me.",
+      "translation": "لا أستطيع أكلها لكنني أشعر بالامتنان وهذا يغذيني."
+    },
+    {
+      "id": 154,
+      "text": "I heard the owl call again last night.",
+      "translation": "سمعت البومة تنادي مرة أخرى الليلة الماضية."
+    },
+    {
+      "id": 155,
+      "text": "Closer this time.",
+      "translation": "أقرب هذه المرة."
+    },
+    {
+      "id": 156,
+      "text": "In my head I could see his long brown body diving from the sky, the terrified movements of the small animal he caught, the slow beat of his wings as he rose into the nighttime trees.",
+      "translation": "في رأسي استطعت رؤية جسده البني الطويل يغوص من السماء، والحركات المذعورة للحيوان الصغير الذي اصطاده، والخفقان البطيء لجناحيه وهو يرتفع إلى أشجار الليل."
+    },
+    {
+      "id": 157,
+      "text": "The pillar is almost finished.",
+      "translation": "العمود شبه منتهي."
+    },
+    {
+      "id": 158,
+      "text": "The gate lies on its side on the grass, ready to be put back in place.",
+      "translation": "البوابة ملقاة على جانبها على العشب، جاهزة لإعادتها إلى مكانها."
+    },
+    {
+      "id": 159,
+      "text": "Charlie felt cold.",
+      "translation": "شعر تشارلي بالبرد."
+    },
+    {
+      "id": 160,
+      "text": "These thick-walled country houses were impossible to heat, from a single wood fire, anyway.",
+      "translation": "كان من المستحيل تدفئة هذه المنازل الريفية ذات الجدران السميكة، من موقد حطب واحد، على أي حال."
+    },
+    {
+      "id": 161,
+      "text": "His eyes got used to the darkness.",
+      "translation": "اعتادت عيناه على الظلام."
+    },
+    {
+      "id": 162,
+      "text": "'Mrs Kennedy?' he called again.",
+      "translation": "نادى مرة أخرى: 'سيدة كينيدي؟'"
+    },
+    {
+      "id": 163,
+      "text": "He went into the front room.",
+      "translation": "دخل الغرفة الأمامية."
+    },
+    {
+      "id": 164,
+      "text": "There was a painting she had been working on, and others standing against a wall, which was papered in a flower pattern.",
+      "translation": "كانت هناك لوحة كانت تعمل عليها، وأخرى واقفة ضد جدار، كان مكسواً بنقشة زهور."
+    },
+    {
+      "id": 165,
+      "text": "An untidy pile of silver knives and forks on the carpet.",
+      "translation": "كومة غير مرتبة من السكاكين والشوك الفضية على السجادة."
+    },
+    {
+      "id": 166,
+      "text": "He closed the door and moved towards the back of the house, where the kitchen was, he supposed.",
+      "translation": "أغلق الباب وتحرك نحو الجزء الخلفي من المنزل، حيث كان المطبخ، كما افترض."
+    },
+    {
+      "id": 167,
+      "text": "This door was open.",
+      "translation": "كان هذا الباب مفتوحاً."
+    },
+    {
+      "id": 168,
+      "text": "He switched on the light.",
+      "translation": "أشعل الضوء."
+    },
+    {
+      "id": 169,
+      "text": "There was a fridge in the corner, still working.",
+      "translation": "كانت هناك ثلاجة في الزاوية، لا تزال تعمل."
+    },
+    {
+      "id": 170,
+      "text": "Three bananas blackened in a glass bowl.",
+      "translation": "ثلاث موزات اسودت في وعاء زجاجي."
+    },
+    {
+      "id": 171,
+      "text": "He could see that rats had been here; they had eaten into the bread and the butter and there were even tooth marks in a piece of pink soap in a dish.",
+      "translation": "استطاع رؤية أن الجرذان كانت هنا؛ لقد أكلت من الخبز والزبدة وكانت هناك حتى علامات أسنان في قطعة صابون وردية في طبق."
+    },
+    {
+      "id": 172,
+      "text": "Charlie went back out into the hall and stood at the bottom of the stairs.",
+      "translation": "عاد تشارلي إلى الردهة ووقف عند أسفل الدرج."
+    },
+    {
+      "id": 173,
+      "text": "He felt colder than ever.",
+      "translation": "شعر بالبرد أكثر من أي وقت مضى."
+    },
+    {
+      "id": 174,
+      "text": "'Mrs Kennedy?' he called and started up the stairs.",
+      "translation": "نادى: 'سيدة كينيدي؟' وبدأ يصعد الدرج."
+    },
+    {
+      "id": 175,
+      "text": "June 20",
+      "translation": "20 يونيو"
+    },
+    {
+      "id": 176,
+      "text": "The days are like children, unwilling to come in from their play, and tonight the sky is a gentle purple, as smooth and as tight as the skin of an aubergine.",
+      "translation": "الأيام مثل الأطفال، غير راغبين في العودة من لعبهم، والليلة السماء أرجوانية لطيفة، ناعمة ومشدودة مثل قشرة الباذنجان."
+    },
+    {
+      "id": 177,
+      "text": "I have washed all my brushes for the last time.",
+      "translation": "لقد غسلت كل فرشاتي للمرة الأخيرة."
+    },
+    {
+      "id": 178,
+      "text": "Each one left its own history of colour on my hands.",
+      "translation": "كل واحدة تركت تاريخها الخاص من الألوان على يدي."
+    },
+    {
+      "id": 179,
+      "text": "I emptied the wooden knife-and-fork box and put them into it, along with all my paints.",
+      "translation": "أفرغت صندوق السكاكين والشوك الخشبي ووضعتهم فيه، مع كل ألواني."
+    },
+    {
+      "id": 180,
+      "text": "My present to you, Charlie Blue.",
+      "translation": "هديتي لك، تشارلي بلو."
+    },
+    {
+      "id": 181,
+      "text": "Tomorrow I will walk through the gate.",
+      "translation": "غداً سأمشي عبر البوابة."
+    },
+    {
+      "id": 182,
+      "text": "The smell of paint-cleaner hangs in the air.",
+      "translation": "رائحة منظف الطلاء معلقة في الهواء."
+    },
+    {
+      "id": 183,
+      "text": "While Charlie waited for O'Reilly the policeman and Dr Murphy to finish inside, he smoked his last cigarette, leaning against the side of the van, looking out over the trees to the distant, darkening hills.",
+      "translation": "بينما انتظر تشارلي الشرطي أورايلي والدكتور ميرفي لينتهيا في الداخل، دخن سيجارته الأخيرة، مستنداً إلى جانب الشاحنة، ناظراً عبر الأشجار إلى التلال البعيدة المظلمة."
+    },
+    {
+      "id": 184,
+      "text": "A yellow light came from the open doorway and upstairs window of the house.",
+      "translation": "جاء ضوء أصفر من الباب المفتوح والنافذة العلوية للمنزل."
+    },
+    {
+      "id": 185,
+      "text": "He had just finished his cigarette when O'Reilly came out and handed him a small wooden box, told him to go on home, that the ambulance could take over an hour to get there from Ballinasloe and that there was no point in waiting.",
+      "translation": "كان قد أنهى سيجارته للتو عندما خرج أورايلي وسلمه صندوقاً خشبياً صغيراً، وأخبره أن يعود إلى المنزل، وأن سيارة الإسعاف قد تستغرق ساعة للوصول من باليناسلو وأنه لا فائدة من الانتظار."
+    },
+    {
+      "id": 186,
+      "text": "O'Reilly would see him tomorrow.",
+      "translation": "سيراه أورايلي غداً."
+    },
+    {
+      "id": 187,
+      "text": "Ambulances never hurry for the already dead.",
+      "translation": "سيارات الإسعاف لا تستعجل أبداً من أجل الموتى."
+    },
+    {
+      "id": 188,
+      "text": "Charlie drove back into town and parked outside Horan's Hotel.",
+      "translation": "قاد تشارلي عائداً إلى البلدة ووقف خارج فندق هوران."
+    },
+    {
+      "id": 189,
+      "text": "The bollocks could keep his van.",
+      "translation": "يمكن للأحمق الاحتفاظ بشاحنته."
+    },
+    {
+      "id": 190,
+      "text": "Through the hotel window, he could see his mother at her card game, the dog at her feet.",
+      "translation": "من خلال نافذة الفندق، استطاع رؤية والدته في لعبة الورق، والكلب عند قدميها."
+    },
+    {
+      "id": 191,
+      "text": "She must have asked a neighbour to bring her into town.",
+      "translation": "لا بد أنها طلبت من جار أن يحضرها إلى البلدة."
+    },
+    {
+      "id": 192,
+      "text": "The dog sensed his presence, looked out but did not move.",
+      "translation": "شعر الكلب بوجوده، ونظر إلى الخارج لكنه لم يتحرك."
+    },
+    {
+      "id": 193,
+      "text": "He reached into the van and took out Mrs Kennedy's box of brushes and paints from the passenger seat.",
+      "translation": "مد يده إلى الشاحنة وأخرج صندوق فرش وألوان السيدة كينيدي من مقعد الراكب."
+    },
+    {
+      "id": 194,
+      "text": "Shutting the door with his shoulder, he put her present under his arm and walked on, out past the last lights of the town and into the blue shadows of the moonlit countryside, feeling nervous but welcomed, like a stranger at home in what was once a foreign land.",
+      "translation": "أغلق الباب بكتفه، ووضع هديتها تحت ذراعه وسار، خارجاً من آخر أضواء البلدة وإلى الظلال الزرقاء للريف المضاء بنور القمر، شاعراً بالتوتر لكنه مرحب به، مثل غريب في وطنه في ما كان ذات يوم أرضاً أجنبية."
+    },
+    {
+      "id": 195,
+      "text": "- THE END -",
+      "translation": "- النهاية -"
+    },
+    {
+      "id": 196,
+      "text": "Hope you have enjoyed the reading!",
+      "translation": "أتمنى أن تكون قد استمتعت بالقراءة!"
+    },
+    {
+      "id": 197,
+      "text": "Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!",
+      "translation": "عد إلى http://english-e-reader.net/ لتجد المزيد من القصص الرائعة والمثيرة!"
     }
   ]
-}
+    }
