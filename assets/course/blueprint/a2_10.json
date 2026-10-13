@@ -1,0 +1,105 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "id": "a2_46",
+      "exercises": [
+        {"t":"choice","c":"news","dir":"t2n","big":true,"d":["accident","concert"]},
+        {"t":"choice","c":"festival","dir":"n2t","d":["crowd","winner"]},
+        {"t":"match","cs":["news","accident","concert","festival"]},
+        {"t":"match","cs":["police","winner","newspaper","crowd"]},
+        {"t":"build","c":"many_people_came_to_the_festival","dir":"n2t","d":["police","winner"]},
+        {"t":"build","c":"there_was_an_accident_downtown","dir":"audio","d":["concert","crowd"]},
+        {"t":"fill","c":"the_concert_starts_at_eight"},
+        {"t":"listenpick","c":"the_police_arrived_quickly"},
+        {"t":"speak","c":"what_happened_yesterday"},
+        {"t":"choice","c":"i_read_the_news_online","dir":"t2n","d":["the_winner_was_very_happy","the_police_arrived_quickly"]},
+        {"t":"typeword","c":"she_reads_the_newspaper_daily"},
+        {"t":"build","c":"what_happened_yesterday","dir":"t2n","d":["newspaper","crowd"]},
+        {"t":"fill","c":"the_winner_was_very_happy"},
+        {"t":"choice","c":"accident","dir":"n2t","d":["police","concert"]},
+        {"t":"speak","c":"many_people_came_to_the_festival"}
+      ]
+    },
+    {
+      "id": "a2_47",
+      "exercises": [
+        {"t":"choice","c":"forecast","dir":"t2n","big":true,"d":["season","storm"]},
+        {"t":"choice","c":"winter","dir":"n2t","d":["autumn","snow"]},
+        {"t":"match","cs":["forecast","season","winter","autumn"]},
+        {"t":"match","cs":["cloudy","windy","snow","storm"]},
+        {"t":"build","c":"the_forecast_says_it_will_rain","dir":"n2t","d":["winter","snow"]},
+        {"t":"build","c":"a_big_storm_is_coming_tomorrow","dir":"audio","d":["cloudy","windy"]},
+        {"t":"fill","c":"it_is_cloudy_and_windy_today"},
+        {"t":"listenpick","c":"the_temperature_is_five_degrees"},
+        {"t":"speak","c":"winter_is_my_favorite_season"},
+        {"t":"choice","c":"it_will_be_freezing_tonight","dir":"t2n","d":["leaves_fall_in_autumn","a_big_storm_is_coming_tomorrow"]},
+        {"t":"typeword","c":"winter_is_my_favorite_season"},
+        {"t":"build","c":"the_forecast_says_it_will_rain","dir":"t2n","d":["temperature","season"]},
+        {"t":"fill","c":"leaves_fall_in_autumn"},
+        {"t":"choice","c":"temperature","dir":"n2t","d":["forecast","season"]},
+        {"t":"speak","c":"it_is_cloudy_and_windy_today"}
+      ]
+    },
+    {
+      "id": "a2_48",
+      "exercises": [
+        {"t":"choice","c":"hobby","dir":"t2n","big":true,"d":["garden","chess"]},
+        {"t":"choice","c":"puzzle","dir":"n2t","d":["painting","music"]},
+        {"t":"match","cs":["hobby","interest","painting","music"]},
+        {"t":"match","cs":["collect","garden","chess","puzzle"]},
+        {"t":"build","c":"we_play_chess_on_weekends","dir":"n2t","d":["garden","music"]},
+        {"t":"build","c":"she_loves_working_in_the_garden","dir":"audio","d":["hobby","puzzle"]},
+        {"t":"fill","c":"i_collect_old_coins"},
+        {"t":"listenpick","c":"i_enjoy_solving_difficult_puzzles"},
+        {"t":"speak","c":"what_do_you_do_in_your_free_time"},
+        {"t":"choice","c":"my_hobby_is_painting","dir":"t2n","d":["i_am_interested_in_music","do_you_like_taking_photos"]},
+        {"t":"typeword","c":"do_you_like_taking_photos"},
+        {"t":"build","c":"we_play_chess_on_weekends","dir":"t2n","d":["collect","hobby"]},
+        {"t":"fill","c":"i_am_interested_in_music"},
+        {"t":"choice","c":"collect","dir":"n2t","d":["garden","puzzle"]},
+        {"t":"speak","c":"she_loves_working_in_the_garden"}
+      ]
+    },
+    {
+      "id": "a2_49",
+      "exercises": [
+        {"t":"choice","c":"story","dir":"t2n","big":true,"d":["forest","village"]},
+        {"t":"choice","c":"forest","dir":"n2t","d":["village","hide"]},
+        {"t":"match","cs":["story","forest","village","hide"]},
+        {"t":"match","cs":["suddenly","finally","afraid","lucky"]},
+        {"t":"build","c":"finally_i_saw_a_small_village","dir":"n2t","d":["hide","afraid"]},
+        {"t":"build","c":"i_hid_behind_a_big_tree","dir":"audio","d":["story","lucky"]},
+        {"t":"fill","c":"i_was_afraid_and_i_ran"},
+        {"t":"listenpick","c":"suddenly_i_heard_a_strange_sound"},
+        {"t":"speak","c":"last_summer_i_walked_in_a_forest"},
+        {"t":"choice","c":"i_was_lucky_that_day","dir":"t2n","d":["the_people_there_were_very_kind","i_was_afraid_and_i_ran"]},
+        {"t":"typeword","c":"the_people_there_were_very_kind"},
+        {"t":"build","c":"last_summer_i_walked_in_a_forest","dir":"t2n","d":["suddenly","finally"]},
+        {"t":"fill","c":"it_was_the_end_of_my_story"},
+        {"t":"choice","c":"lucky","dir":"n2t","d":["afraid","hide"]},
+        {"t":"speak","c":"finally_i_saw_a_small_village"}
+      ]
+    },
+    {
+      "id": "a2_50",
+      "exercises": [
+        {"t":"choice","c":"went","dir":"t2n","big":true,"d":["saw","ate"]},
+        {"t":"choice","c":"ticket","dir":"n2t","d":["bus","station"]},
+        {"t":"match","cs":["tomorrow","plan","appointment","invitation"]},
+        {"t":"match","cs":["idea","bigger","soup","menu"]},
+        {"t":"build","c":"they_are_going_to_move_soon","dir":"n2t","d":["exam","summer"]},
+        {"t":"build","c":"i_will_call_you_tomorrow","dir":"audio","d":["dinner","coffee"]},
+        {"t":"fill","c":"i_have_a_dentist_appointment"},
+        {"t":"listenpick","c":"would_you_like_some_coffee"},
+        {"t":"speak","c":"that_is_a_great_idea"},
+        {"t":"choice","c":"my_bag_is_bigger_than_yours","dir":"t2n","d":["the_soup_is_too_spicy","can_i_see_the_menu"]},
+        {"t":"typeword","c":"i_am_busy_this_afternoon"},
+        {"t":"build","c":"we_went_to_the_beach","dir":"t2n","d":["park","market"]},
+        {"t":"fill","c":"she_will_be_ready_soon"},
+        {"t":"choice","c":"menu","dir":"n2t","d":["bill","salad"]},
+        {"t":"speak","c":"i_need_a_ticket_to_the_station"}
+      ]
+    }
+  ]
+}
