@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_36",
+      "exercises": [
+        {"t":"choice","c":"i_read_the_news","dir":"t2n","big":true,"d":["i_always_check_two","breaking_news_interrupted_my"]},
+        {"t":"choice","c":"the_headline_caught_my","dir":"n2t","d":["i_prefer_watching_the","the_president_gave_a"]},
+        {"t":"match","cs":["headline","journalist","newspaper","broadcast"]},
+        {"t":"build","c":"journalists_must_check_their","dir":"n2t","d":["headline","journalist"]},
+        {"t":"listenpick","c":"this_channel_broadcasts_news"},
+        {"t":"build","c":"my_grandfather_still_buys","dir":"audio","d":["broadcast","source"]},
+        {"t":"fill","c":"not_everything_online_is"},
+        {"t":"speak","c":"fake_news_can_cause"},
+        {"t":"choice","c":"the_interview_will_be","dir":"t2n","d":["newspapers_are_losing_readers","i_always_check_two"]},
+        {"t":"typeword","c":"i_prefer_watching_the"},
+        {"t":"build","c":"the_report_was_published","dir":"t2n","d":["source","reliable"]},
+        {"t":"match","cs":["source","reliable","fake","channel"]},
+        {"t":"fill","c":"many_people_get_news"},
+        {"t":"listenpick","c":"the_president_gave_a"},
+        {"t":"speak","c":"newspapers_are_losing_readers"}
+      ]
+    },
+    {
+      "id": "b1_37",
+      "exercises": [
+        {"t":"choice","c":"pollution_is_a_serious","dir":"t2n","big":true,"d":["i_bring_my_own","everyone_must_do_something"]},
+        {"t":"choice","c":"we_should_recycle_paper","dir":"n2t","d":["we_must_protect_endangered","the_air_quality_has"]},
+        {"t":"match","cs":["pollution","recycle","climate","energy"]},
+        {"t":"build","c":"climate_change_is_affecting","dir":"n2t","d":["pollution","recycle"]},
+        {"t":"listenpick","c":"i_try_to_save"},
+        {"t":"build","c":"plastic_waste_is_harming","dir":"audio","d":["climate","energy"]},
+        {"t":"fill","c":"many_forests_are_disappearing"},
+        {"t":"speak","c":"solar_energy_is_clean"},
+        {"t":"choice","c":"i_walk_to_work","dir":"t2n","d":["planting_trees_can_reduce","i_bring_my_own"]},
+        {"t":"typeword","c":"we_must_protect_endangered"},
+        {"t":"build","c":"using_less_water_helps","dir":"t2n","d":["waste","forest"]},
+        {"t":"match","cs":["waste","forest","protect","planet"]},
+        {"t":"fill","c":"plastic_bags_are_banned"},
+        {"t":"listenpick","c":"the_air_quality_has"},
+        {"t":"speak","c":"planting_trees_can_reduce"}
+      ]
+    },
+    {
+      "id": "b1_38",
+      "exercises": [
+        {"t":"choice","c":"i_exercise_three_times","dir":"t2n","big":true,"d":["yoga_helps_me_relax","staying_active_makes_me"]},
+        {"t":"choice","c":"getting_enough_sleep_is","dir":"n2t","d":["drinking_water_keeps_you","keeping_a_balance_between"]},
+        {"t":"match","cs":["exercise","sleep","stress","routine"]},
+        {"t":"build","c":"i_try_to_avoid","dir":"n2t","d":["exercise","sleep"]},
+        {"t":"listenpick","c":"a_short_walk_clears"},
+        {"t":"build","c":"she_goes_jogging_before","dir":"audio","d":["stress","routine"]},
+        {"t":"fill","c":"bad_habits_are_hard"},
+        {"t":"speak","c":"i_never_skip_my"},
+        {"t":"choice","c":"swimming_is_great_for","dir":"t2n","d":["we_take_the_stairs","yoga_helps_me_relax"]},
+        {"t":"typeword","c":"drinking_water_keeps_you"},
+        {"t":"build","c":"i_stopped_smoking_two","dir":"t2n","d":["habit","lifestyle"]},
+        {"t":"match","cs":["habit","lifestyle","balance","fit"]},
+        {"t":"fill","c":"my_doctor_says_i"},
+        {"t":"listenpick","c":"keeping_a_balance_between"},
+        {"t":"speak","c":"we_take_the_stairs"}
+      ]
+    },
+    {
+      "id": "b1_39",
+      "exercises": [
+        {"t":"choice","c":"a_balanced_diet_includes","dir":"t2n","big":true,"d":["i_eat_plenty_of","read_the_label_before"]},
+        {"t":"choice","c":"fruit_and_vegetables_contain","dir":"n2t","d":["i'm_allergic_to_nuts","cooking_at_home_is"]},
+        {"t":"match","cs":["protein","vitamins","calories","fiber"]},
+        {"t":"build","c":"chicken_and_fish_are","dir":"n2t","d":["vitamins","calories"]},
+        {"t":"listenpick","c":"too_much_sugar_is"},
+        {"t":"build","c":"i_try_to_eat","dir":"audio","d":["calories","fiber"]},
+        {"t":"fill","c":"breakfast_is_the_most"},
+        {"t":"speak","c":"whole_grains_give_you"},
+        {"t":"choice","c":"she_counts_calories_to","dir":"t2n","d":["drink_at_least_two","i_eat_plenty_of"]},
+        {"t":"typeword","c":"i'm_allergic_to_nuts"},
+        {"t":"build","c":"fiber_helps_your_body","dir":"t2n","d":["sugar","vegetable"]},
+        {"t":"match","cs":["sugar","vegetable","balanced","meal"]},
+        {"t":"fill","c":"don't_skip_meals_if"},
+        {"t":"listenpick","c":"cooking_at_home_is"},
+        {"t":"speak","c":"drink_at_least_two"}
+      ]
+    },
+    {
+      "id": "b1_40",
+      "exercises": [
+        {"t":"choice","c":"living_in_a_city_is","dir":"t2n","big":true,"d":["my_neighbors_are_friendly","the_city_never_sleeps"]},
+        {"t":"choice","c":"traffic_is_terrible_during","dir":"n2t","d":["public_transport_here_is","parking_is_almost_impossible"]},
+        {"t":"match","cs":["traffic","crowded","noise","suburb"]},
+        {"t":"build","c":"i_commute_to_work","dir":"n2t","d":["traffic","crowded"]},
+        {"t":"listenpick","c":"the_streets_are_crowded"},
+        {"t":"build","c":"it's_hard_to_sleep","dir":"audio","d":["suburb","rent"]},
+        {"t":"fill","c":"rent_is_rising_faster"},
+        {"t":"speak","c":"i_prefer_living_in"},
+        {"t":"choice","c":"there_are_always_many","dir":"t2n","d":["city_parks_give_people","my_neighbors_are_friendly"]},
+        {"t":"typeword","c":"public_transport_here_is"},
+        {"t":"build","c":"downtown_is_full_of","dir":"t2n","d":["rent","downtown"]},
+        {"t":"match","cs":["rent","downtown","commute","lively"]},
+        {"t":"fill","c":"i_miss_the_fresh"},
+        {"t":"listenpick","c":"parking_is_almost_impossible"},
+        {"t":"speak","c":"city_parks_give_people"}
+      ]
+    }
+  ]
+}
