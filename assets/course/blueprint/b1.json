@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_01",
+      "exercises": [
+        {"t":"choice","c":"i_have_visited_three","dir":"t2n","big":true,"d":["they_have_built_a","i_have_read_this"]},
+        {"t":"choice","c":"she_has_learned_to","dir":"n2t","d":["my_sister_has_broken","our_team_has_won"]},
+        {"t":"match","cs":["visited","tried","learned","met"]},
+        {"t":"build","c":"we_have_met_many","dir":"n2t","d":["visited","tried"]},
+        {"t":"listenpick","c":"he_has_tried_sushi"},
+        {"t":"build","c":"they_have_seen_that","dir":"audio","d":["learned","met"]},
+        {"t":"fill","c":"i_have_written_a"},
+        {"t":"speak","c":"my_brother_has_worked"},
+        {"t":"choice","c":"we_have_eaten_at","dir":"t2n","d":["she_has_taken_many","they_have_built_a"]},
+        {"t":"typeword","c":"my_sister_has_broken"},
+        {"t":"build","c":"i_have_lost_my","dir":"t2n","d":["seen","eaten"]},
+        {"t":"match","cs":["seen","eaten","written","lost"]},
+        {"t":"fill","c":"you_have_grown_so"},
+        {"t":"listenpick","c":"our_team_has_won"},
+        {"t":"speak","c":"she_has_taken_many"}
+      ]
+    },
+    {
+      "id": "b1_02",
+      "exercises": [
+        {"t":"choice","c":"have_you_ever_been","dir":"t2n","big":true,"d":["my_parents_have_never","she_has_been_to"]},
+        {"t":"choice","c":"yes_i_have_been","dir":"n2t","d":["we_have_never_met","i_have_never_been"]},
+        {"t":"match","cs":["ever","never","before","once"]},
+        {"t":"build","c":"no_i_have_never","dir":"n2t","d":["ever","before"]},
+        {"t":"listenpick","c":"have_you_ever_eaten"},
+        {"t":"build","c":"she_has_never_flown","dir":"audio","d":["before","once"]},
+        {"t":"fill","c":"have_they_ever_climbed"},
+        {"t":"speak","c":"i_have_never_seen"},
+        {"t":"choice","c":"has_he_ever_driven","dir":"t2n","d":["have_you_ever_spoken","my_parents_have_never"]},
+        {"t":"typeword","c":"we_have_never_met"},
+        {"t":"build","c":"have_you_ever_lost","dir":"t2n","d":["twice","flown"]},
+        {"t":"match","cs":["twice","flown","climbed","driven"]},
+        {"t":"fill","c":"yes_i_have_and"},
+        {"t":"listenpick","c":"i_have_never_been"},
+        {"t":"speak","c":"have_you_ever_spoken"}
+      ]
+    },
+    {
+      "id": "b1_03",
+      "exercises": [
+        {"t":"choice","c":"i_have_lived_here","dir":"t2n","big":true,"d":["how_long_have_you","i_have_been_awake"]},
+        {"t":"choice","c":"she_has_worked_here","dir":"n2t","d":["we_have_waited_for","our_teacher_has_been"]},
+        {"t":"match","cs":["for","since","hours","weeks"]},
+        {"t":"build","c":"we_have_known_each","dir":"n2t","d":["since","hours"]},
+        {"t":"listenpick","c":"he_has_studied_english"},
+        {"t":"build","c":"they_have_been_married","dir":"audio","d":["hours","weeks"]},
+        {"t":"fill","c":"i_have_had_this"},
+        {"t":"speak","c":"it_has_rained_for"},
+        {"t":"choice","c":"my_father_has_been","dir":"t2n","d":["they_have_played_football","how_long_have_you"]},
+        {"t":"typeword","c":"we_have_waited_for"},
+        {"t":"build","c":"she_has_lived_alone","dir":"t2n","d":["years","months"]},
+        {"t":"match","cs":["years","months","monday","childhood"]},
+        {"t":"fill","c":"i_have_not_seen"},
+        {"t":"listenpick","c":"our_teacher_has_been"},
+        {"t":"speak","c":"they_have_played_football"}
+      ]
+    },
+    {
+      "id": "b1_04",
+      "exercises": [
+        {"t":"choice","c":"i_have_just_finished","dir":"t2n","big":true,"d":["have_you_packed_your","he_has_just_gone"]},
+        {"t":"choice","c":"she_has_already_left","dir":"n2t","d":["has_the_film_started","she_hasn't_answered_my"]},
+        {"t":"match","cs":["just","already","yet","still"]},
+        {"t":"build","c":"have_you_called_your","dir":"n2t","d":["just","already"]},
+        {"t":"listenpick","c":"we_have_not_eaten"},
+        {"t":"build","c":"the_train_has_just","dir":"audio","d":["yet","still"]},
+        {"t":"fill","c":"he_has_already_booked"},
+        {"t":"speak","c":"i_haven't_read_the"},
+        {"t":"choice","c":"they_have_just_started","dir":"t2n","d":["we_have_already_seen","have_you_packed_your"]},
+        {"t":"typeword","c":"has_the_film_started"},
+        {"t":"build","c":"my_friends_have_already","dir":"t2n","d":["finished","arrived"]},
+        {"t":"match","cs":["finished","arrived","left","started"]},
+        {"t":"fill","c":"i_have_just_heard"},
+        {"t":"listenpick","c":"she_hasn't_answered_my"},
+        {"t":"speak","c":"we_have_already_seen"}
+      ]
+    },
+    {
+      "id": "b1_05",
+      "exercises": [
+        {"t":"choice","c":"i_was_born_in","dir":"t2n","big":true,"d":["when_did_you_start","i_have_learned_a"]},
+        {"t":"choice","c":"we_moved_to_the","dir":"n2t","d":["i_have_traveled_to","they_bought_this_house"]},
+        {"t":"match","cs":["born","moved","graduated","married"]},
+        {"t":"build","c":"i_have_lived_here_x","dir":"n2t","d":["born","moved"]},
+        {"t":"listenpick","c":"she_graduated_from_university"},
+        {"t":"build","c":"she_has_worked_as","dir":"audio","d":["graduated","married"]},
+        {"t":"fill","c":"i_met_my_husband"},
+        {"t":"speak","c":"we_have_been_married"},
+        {"t":"choice","c":"last_summer_i_traveled","dir":"t2n","d":["they_have_repaired_the","when_did_you_start"]},
+        {"t":"typeword","c":"i_have_traveled_to"},
+        {"t":"build","c":"he_lost_his_job","dir":"t2n","d":["yesterday","recently"]},
+        {"t":"match","cs":["ago","yesterday","recently","since"]},
+        {"t":"fill","c":"he_has_found_a"},
+        {"t":"listenpick","c":"they_bought_this_house"},
+        {"t":"speak","c":"they_have_repaired_the"}
+      ]
+    }
+  ]
+}
