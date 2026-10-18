@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_46",
+      "exercises": [
+        {"t":"choice","c":"we_celebrate_eid_with","dir":"t2n","big":true,"d":["we_visit_our_relatives","it_was_the_happiest"]},
+        {"t":"choice","c":"congratulations_on_your_new","dir":"n2t","d":["happy_birthday_i_hope","the_streets_were_full"]},
+        {"t":"match","cs":["gift","guests","decorations","fireworks"]},
+        {"t":"build","c":"i_received_an_invitation","dir":"n2t","d":["gift","guests"]},
+        {"t":"listenpick","c":"the_children_love_opening"},
+        {"t":"build","c":"we_decorated_the_house","dir":"audio","d":["decorations","fireworks"]},
+        {"t":"fill","c":"everyone_gathers_for_a"},
+        {"t":"speak","c":"the_fireworks_started_at"},
+        {"t":"choice","c":"my_mother_cooks_a","dir":"t2n","d":["she_baked_a_huge","we_visit_our_relatives"]},
+        {"t":"typeword","c":"happy_birthday_i_hope"},
+        {"t":"build","c":"we_raised_our_glasses","dir":"t2n","d":["feast","congratulations"]},
+        {"t":"match","cs":["feast","congratulations","invitation","toast"]},
+        {"t":"fill","c":"people_wear_new_clothes"},
+        {"t":"listenpick","c":"the_streets_were_full"},
+        {"t":"speak","c":"she_baked_a_huge"}
+      ]
+    },
+    {
+      "id": "b1_47",
+      "exercises": [
+        {"t":"choice","c":"the_room_is_cleaned","dir":"t2n","big":true,"d":["smoking_is_not_allowed","the_keys_were_found"]},
+        {"t":"choice","c":"this_bridge_was_built","dir":"n2t","d":["dinner_has_already_been","were_you_invited_to"]},
+        {"t":"match","cs":["invented","discovered","produced","painted"]},
+        {"t":"build","c":"english_is_spoken_all","dir":"n2t","d":["invented","discovered"]},
+        {"t":"listenpick","c":"the_telephone_was_invented"},
+        {"t":"build","c":"my_car_is_being","dir":"audio","d":["produced","painted"]},
+        {"t":"fill","c":"the_letters_will_be"},
+        {"t":"speak","c":"this_cheese_is_produced"},
+        {"t":"choice","c":"the_window_was_broken","dir":"t2n","d":["the_company_was_founded","smoking_is_not_allowed"]},
+        {"t":"typeword","c":"dinner_has_already_been"},
+        {"t":"build","c":"the_mona_lisa_was","dir":"t2n","d":["founded","delivered"]},
+        {"t":"match","cs":["founded","delivered","cleaned","repaired"]},
+        {"t":"fill","c":"many_new_houses_are"},
+        {"t":"listenpick","c":"were_you_invited_to"},
+        {"t":"speak","c":"the_company_was_founded"}
+      ]
+    },
+    {
+      "id": "b1_48",
+      "exercises": [
+        {"t":"choice","c":"she_said_she_was","dir":"t2n","big":true,"d":["she_said_she_had","they_asked_us_whether"]},
+        {"t":"choice","c":"he_told_me_he","dir":"n2t","d":["they_told_me_they","he_promised_that_he"]},
+        {"t":"match","cs":["said","told","asked","explained"]},
+        {"t":"build","c":"they_said_they_had","dir":"n2t","d":["told","asked"]},
+        {"t":"listenpick","c":"i_asked_her_where"},
+        {"t":"build","c":"the_teacher_said_we","dir":"audio","d":["asked","explained"]},
+        {"t":"fill","c":"she_asked_me_if"},
+        {"t":"speak","c":"he_said_he_couldn't"},
+        {"t":"choice","c":"my_boss_told_us","dir":"t2n","d":["the_doctor_said_i","she_said_she_had"]},
+        {"t":"typeword","c":"they_told_me_they"},
+        {"t":"build","c":"i_asked_him_what","dir":"t2n","d":["announced","admitted"]},
+        {"t":"match","cs":["announced","admitted","promised","warned"]},
+        {"t":"fill","c":"she_explained_that_the"},
+        {"t":"listenpick","c":"he_promised_that_he"},
+        {"t":"speak","c":"the_doctor_said_i"}
+      ]
+    },
+    {
+      "id": "b1_49",
+      "exercises": [
+        {"t":"choice","c":"i_stayed_home_because","dir":"t2n","big":true,"d":["despite_being_young_she","i_was_hungry_so"]},
+        {"t":"choice","c":"it_was_raining_however","dir":"n2t","d":["i_can't_come_because","although_it_was_late"]},
+        {"t":"match","cs":["because","therefore","despite","besides"]},
+        {"t":"build","c":"although_he_was_tired","dir":"n2t","d":["because","therefore"]},
+        {"t":"listenpick","c":"she_studied_hard_so"},
+        {"t":"build","c":"despite_the_rain_we","dir":"audio","d":["besides","moreover"]},
+        {"t":"fill","c":"i_like_tea_whereas"},
+        {"t":"speak","c":"the_hotel_was_cheap"},
+        {"t":"choice","c":"he_missed_the_bus","dir":"t2n","d":["we_took_a_taxi","despite_being_young_she"]},
+        {"t":"typeword","c":"i_can't_come_because"},
+        {"t":"build","c":"besides_being_cheap_the","dir":"t2n","d":["moreover","whereas"]},
+        {"t":"match","cs":["moreover","whereas","so","but"]},
+        {"t":"fill","c":"she_was_nervous_but"},
+        {"t":"listenpick","c":"although_it_was_late"},
+        {"t":"speak","c":"we_took_a_taxi"}
+      ]
+    },
+    {
+      "id": "b1_50",
+      "exercises": [
+        {"t":"choice","c":"i_have_visited_three","dir":"t2n","big":true,"d":["i_wish_i_had","she_may_be_late"]},
+        {"t":"choice","c":"have_you_ever_been","dir":"n2t","d":["i_think_it_will","if_it_rains_we"]},
+        {"t":"match","cs":["ever","never","since","just"]},
+        {"t":"build","c":"she_has_worked_here","dir":"n2t","d":["ever","never"]},
+        {"t":"listenpick","c":"she_has_already_left"},
+        {"t":"build","c":"she_graduated_from_university","dir":"audio","d":["since","just"]},
+        {"t":"fill","c":"she_was_cooking_dinner"},
+        {"t":"speak","c":"i_was_sleeping_when"},
+        {"t":"choice","c":"we_used_to_visit","dir":"t2n","d":["if_i_were_you","i_wish_i_had"]},
+        {"t":"typeword","c":"i_think_it_will"},
+        {"t":"build","c":"we_are_flying_to","dir":"t2n","d":["already","yet"]},
+        {"t":"match","cs":["already","yet","when","while"]},
+        {"t":"fill","c":"i_promise_i_will"},
+        {"t":"listenpick","c":"if_it_rains_we"},
+        {"t":"speak","c":"if_i_were_you"}
+      ]
+    }
+  ]
+        }
