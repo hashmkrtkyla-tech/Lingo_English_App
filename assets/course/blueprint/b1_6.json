@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_26",
+      "exercises": [
+        {"t":"choice","c":"i_wish_i_had","dir":"t2n","big":true,"d":["if_only_we_had","i_wish_the_weekend"]},
+        {"t":"choice","c":"i_wish_i_could","dir":"n2t","d":["i_wish_you_would","she_wishes_she_had"]},
+        {"t":"match","cs":["wish","regret","hope","unfortunately"]},
+        {"t":"build","c":"she_wishes_she_lived","dir":"n2t","d":["wish","regret"]},
+        {"t":"listenpick","c":"i_wish_it_weren't"},
+        {"t":"build","c":"he_wishes_he_had","dir":"audio","d":["hope","unfortunately"]},
+        {"t":"fill","c":"i_wish_i_hadn't"},
+        {"t":"speak","c":"if_only_i_knew"},
+        {"t":"choice","c":"we_wish_we_could","dir":"t2n","d":["i_wish_i_were","if_only_we_had"]},
+        {"t":"typeword","c":"i_wish_you_would"},
+        {"t":"build","c":"they_wish_they_had","dir":"t2n","d":["shame","realize"]},
+        {"t":"match","cs":["shame","realize","change","past"]},
+        {"t":"fill","c":"i_wish_my_brother"},
+        {"t":"listenpick","c":"she_wishes_she_had"},
+        {"t":"speak","c":"i_wish_i_were"}
+      ]
+    },
+    {
+      "id": "b1_27",
+      "exercises": [
+        {"t":"choice","c":"it_might_rain_later","dir":"t2n","big":true,"d":["your_phone_might_be","they_might_have_missed"]},
+        {"t":"choice","c":"she_may_be_late","dir":"n2t","d":["she_could_win_if","we_might_move_to"]},
+        {"t":"match","cs":["possible","likely","certain","uncertain"]},
+        {"t":"build","c":"we_could_go_to","dir":"n2t","d":["possible","likely"]},
+        {"t":"listenpick","c":"he_might_not_know"},
+        {"t":"build","c":"you_may_park_your","dir":"audio","d":["certain","uncertain"]},
+        {"t":"fill","c":"they_could_be_stuck"},
+        {"t":"speak","c":"i_might_change_my"},
+        {"t":"choice","c":"that_may_not_be","dir":"t2n","d":["the_shop_may_be","your_phone_might_be"]},
+        {"t":"typeword","c":"she_could_win_if"},
+        {"t":"build","c":"it_could_be_dangerous","dir":"t2n","d":["doubt","guess"]},
+        {"t":"match","cs":["doubt","guess","suspect","option"]},
+        {"t":"fill","c":"he_may_have_forgotten"},
+        {"t":"listenpick","c":"we_might_move_to"},
+        {"t":"speak","c":"the_shop_may_be"}
+      ]
+    },
+    {
+      "id": "b1_28",
+      "exercises": [
+        {"t":"choice","c":"i_have_a_degree","dir":"t2n","big":true,"d":["i_managed_a_team","i_enjoy_learning_new"]},
+        {"t":"choice","c":"i_graduated_from_cairo","dir":"n2t","d":["my_objective_is_to","please_find_my_cv"]},
+        {"t":"match","cs":["education","qualification","reference","employer"]},
+        {"t":"build","c":"i_worked_as_a","dir":"n2t","d":["education","qualification"]},
+        {"t":"listenpick","c":"my_strengths_are_teamwork"},
+        {"t":"build","c":"i_speak_english_and","dir":"audio","d":["reference","employer"]},
+        {"t":"fill","c":"i'm_applying_for_the"},
+        {"t":"speak","c":"references_are_available_upon"},
+        {"t":"choice","c":"i_volunteered_at_a","dir":"t2n","d":["i_have_five_years","i_managed_a_team"]},
+        {"t":"typeword","c":"my_objective_is_to"},
+        {"t":"build","c":"i_completed_a_training","dir":"t2n","d":["apply","position"]},
+        {"t":"match","cs":["apply","position","volunteer","strength"]},
+        {"t":"fill","c":"i'm_good_at_solving"},
+        {"t":"listenpick","c":"please_find_my_cv"},
+        {"t":"speak","c":"i_have_five_years"}
+      ]
+    },
+    {
+      "id": "b1_29",
+      "exercises": [
+        {"t":"choice","c":"thank_you_for_inviting","dir":"t2n","big":true,"d":["yes_what_are_the","we_will_contact_you"]},
+        {"t":"choice","c":"tell_me_about_yourself","dir":"n2t","d":["where_do_you_see","i_can_start_at"]},
+        {"t":"match","cs":["interview","candidate","hire","weakness"]},
+        {"t":"build","c":"why_do_you_want","dir":"n2t","d":["interview","candidate"]},
+        {"t":"listenpick","c":"i'm_interested_in_this"},
+        {"t":"build","c":"what_is_your_biggest","dir":"audio","d":["hire","confident"]},
+        {"t":"fill","c":"i_sometimes_work_too"},
+        {"t":"speak","c":"can_you_work_under"},
+        {"t":"choice","c":"yes_i_stay_calm","dir":"t2n","d":["do_you_have_any","yes_what_are_the"]},
+        {"t":"typeword","c":"where_do_you_see"},
+        {"t":"build","c":"i'd_like_to_become","dir":"t2n","d":["confident","available"]},
+        {"t":"match","cs":["confident","available","reply","schedule"]},
+        {"t":"fill","c":"when_would_you_be"},
+        {"t":"listenpick","c":"i_can_start_at"},
+        {"t":"speak","c":"do_you_have_any"}
+      ]
+    },
+    {
+      "id": "b1_30",
+      "exercises": [
+        {"t":"choice","c":"my_colleagues_are_friendly","dir":"t2n","big":true,"d":["i_usually_have_lunch","good_teamwork_makes_every"]},
+        {"t":"choice","c":"i_start_work_at","dir":"n2t","d":["i'm_in_charge_of","the_workload_has_increased"]},
+        {"t":"match","cs":["colleague","boss","deadline","office"]},
+        {"t":"build","c":"we_have_a_team","dir":"n2t","d":["colleague","boss"]},
+        {"t":"listenpick","c":"the_deadline_for_this"},
+        {"t":"build","c":"my_boss_gave_me","dir":"audio","d":["deadline","office"]},
+        {"t":"fill","c":"i_often_work_late"},
+        {"t":"speak","c":"our_office_has_a"},
+        {"t":"choice","c":"please_send_me_the","dir":"t2n","d":["she_was_promoted_to","i_usually_have_lunch"]},
+        {"t":"typeword","c":"i'm_in_charge_of"},
+        {"t":"build","c":"we_share_one_printer","dir":"t2n","d":["project","task"]},
+        {"t":"match","cs":["project","task","teamwork","workload"]},
+        {"t":"fill","c":"i_get_along_well"},
+        {"t":"listenpick","c":"the_workload_has_increased"},
+        {"t":"speak","c":"she_was_promoted_to"}
+      ]
+    }
+  ]
+}
