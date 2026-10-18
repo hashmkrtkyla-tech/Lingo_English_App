@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_21",
+      "exercises": [
+        {"t":"choice","c":"you_should_drink_more","dir":"t2n","big":true,"d":["you'd_better_not_drive","should_i_take_the"]},
+        {"t":"choice","c":"you'd_better_take_an","dir":"n2t","d":["you_ought_to_apologize","my_advice_is_to"]},
+        {"t":"match","cs":["advice","suggest","recommend","should"]},
+        {"t":"build","c":"i_suggest_we_leave","dir":"n2t","d":["advice","recommend"]},
+        {"t":"listenpick","c":"why_don't_you_talk"},
+        {"t":"build","c":"you_shouldn't_stay_up","dir":"audio","d":["recommend","should"]},
+        {"t":"fill","c":"you_had_better_see"},
+        {"t":"speak","c":"how_about_trying_a"},
+        {"t":"choice","c":"i_recommend_reading_this","dir":"t2n","d":["maybe_you_could_ask","you'd_better_not_drive"]},
+        {"t":"typeword","c":"you_ought_to_apologize"},
+        {"t":"build","c":"let's_take_a_short","dir":"t2n","d":["rest","careful"]},
+        {"t":"match","cs":["rest","careful","wise","sensible"]},
+        {"t":"fill","c":"you_shouldn't_spend_all"},
+        {"t":"listenpick","c":"my_advice_is_to"},
+        {"t":"speak","c":"maybe_you_could_ask"}
+      ]
+    },
+    {
+      "id": "b1_22",
+      "exercises": [
+        {"t":"choice","c":"i_see_your_point","dir":"t2n","big":true,"d":["please_don't_take_this","we_may_simply_see"]},
+        {"t":"choice","c":"with_respect_i_think","dir":"n2t","d":["i_respect_your_opinion","that's_a_fair_point"]},
+        {"t":"match","cs":["respect","perhaps","understand","however"]},
+        {"t":"build","c":"i_understand_but_i","dir":"n2t","d":["respect","perhaps"]},
+        {"t":"listenpick","c":"perhaps_we_could_look"},
+        {"t":"build","c":"i'm_not_sure_i","dir":"audio","d":["understand","however"]},
+        {"t":"fill","c":"that's_interesting_but_i"},
+        {"t":"speak","c":"although_you're_right_there's"},
+        {"t":"choice","c":"forgive_me_but_i","dir":"t2n","d":["i_hear_you_but","please_don't_take_this"]},
+        {"t":"typeword","c":"i_respect_your_opinion"},
+        {"t":"build","c":"could_i_offer_a","dir":"t2n","d":["although","politely"]},
+        {"t":"match","cs":["although","politely","mistaken","concern"]},
+        {"t":"fill","c":"i'm_afraid_the_facts"},
+        {"t":"listenpick","c":"that's_a_fair_point"},
+        {"t":"speak","c":"i_hear_you_but"}
+      ]
+    },
+    {
+      "id": "b1_23",
+      "exercises": [
+        {"t":"choice","c":"if_it_rains_we","dir":"t2n","big":true,"d":["if_you_don't_hurry","i'll_lend_you_money"]},
+        {"t":"choice","c":"if_you_study_hard","dir":"n2t","d":["what_will_you_do","if_the_shop_is"]},
+        {"t":"match","cs":["if","unless","otherwise","happen"]},
+        {"t":"build","c":"i'll_call_you_if","dir":"n2t","d":["unless","otherwise"]},
+        {"t":"listenpick","c":"if_he_comes_i"},
+        {"t":"build","c":"we'll_miss_the_train","dir":"audio","d":["otherwise","happen"]},
+        {"t":"fill","c":"if_she_calls_i'll"},
+        {"t":"speak","c":"unless_you_leave_now"},
+        {"t":"choice","c":"if_we_win_we","dir":"t2n","d":["she'll_be_angry_if","if_you_don't_hurry"]},
+        {"t":"typeword","c":"what_will_you_do"},
+        {"t":"build","c":"if_i_find_your","dir":"t2n","d":["miss","wait"]},
+        {"t":"match","cs":["miss","wait","call","hurry"]},
+        {"t":"fill","c":"take_a_jacket_otherwise"},
+        {"t":"listenpick","c":"if_the_shop_is"},
+        {"t":"speak","c":"she'll_be_angry_if"}
+      ]
+    },
+    {
+      "id": "b1_24",
+      "exercises": [
+        {"t":"choice","c":"if_i_were_you","dir":"t2n","big":true,"d":["if_i_were_famous","they_would_move_if"]},
+        {"t":"choice","c":"if_i_had_more","dir":"n2t","d":["if_i_were_rich","she'd_learn_faster_if"]},
+        {"t":"match","cs":["pretend","could","instead","suppose"]},
+        {"t":"build","c":"if_she_were_taller","dir":"n2t","d":["pretend","could"]},
+        {"t":"listenpick","c":"what_would_you_do"},
+        {"t":"build","c":"if_i_lived_near","dir":"audio","d":["instead","suppose"]},
+        {"t":"fill","c":"if_he_were_braver"},
+        {"t":"speak","c":"i_wouldn't_buy_that"},
+        {"t":"choice","c":"if_we_had_a","dir":"t2n","d":["if_it_were_up","if_i_were_famous"]},
+        {"t":"typeword","c":"if_i_were_rich"},
+        {"t":"build","c":"would_you_go_if","dir":"t2n","d":["unlikely","rich"]},
+        {"t":"match","cs":["unlikely","rich","famous","brave"]},
+        {"t":"fill","c":"if_i_knew_the"},
+        {"t":"listenpick","c":"she'd_learn_faster_if"},
+        {"t":"speak","c":"if_it_were_up"}
+      ]
+    },
+    {
+      "id": "b1_25",
+      "exercises": [
+        {"t":"choice","c":"what_if_it_rains","dir":"t2n","big":true,"d":["what_if_there_is","what_if_we_get"]},
+        {"t":"choice","c":"what_if_we_miss","dir":"n2t","d":["what_if_the_power","what_if_she_says"]},
+        {"t":"match","cs":["suppose","scenario","consequence","prepared"]},
+        {"t":"build","c":"what_if_nobody_comes","dir":"n2t","d":["suppose","scenario"]},
+        {"t":"listenpick","c":"what_would_happen_if"},
+        {"t":"build","c":"suppose_you_lost_your","dir":"audio","d":["consequence","prepared"]},
+        {"t":"fill","c":"what_if_the_plan"},
+        {"t":"speak","c":"what_if_he_finds"},
+        {"t":"choice","c":"what_if_we_had","dir":"t2n","d":["what_if_we_are","what_if_there_is"]},
+        {"t":"typeword","c":"what_if_the_power"},
+        {"t":"build","c":"what_if_i_made","dir":"t2n","d":["worst","backup"]},
+        {"t":"match","cs":["worst","backup","emergency","chance"]},
+        {"t":"fill","c":"imagine_what_would_happen"},
+        {"t":"listenpick","c":"what_if_she_says"},
+        {"t":"speak","c":"what_if_we_are"}
+      ]
+    }
+  ]
+        }
