@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_16",
+      "exercises": [
+        {"t":"choice","c":"in_ten_years_i","dir":"t2n","big":true,"d":["i_will_not_be","in_a_decade_everything"]},
+        {"t":"choice","c":"hopefully_i_will_own","dir":"n2t","d":["i_hope_i_will","robots_will_probably_do"]},
+        {"t":"match","cs":["decade","hopefully","retire","wealthy"]},
+        {"t":"build","c":"by_then_i_will","dir":"n2t","d":["decade","hopefully"]},
+        {"t":"listenpick","c":"my_children_will_be"},
+        {"t":"build","c":"i_imagine_i_will","dir":"audio","d":["retire","wealthy"]},
+        {"t":"fill","c":"she_will_probably_be"},
+        {"t":"speak","c":"cities_will_be_cleaner"},
+        {"t":"choice","c":"we_will_travel_by","dir":"t2n","d":["will_you_still_live","i_will_not_be"]},
+        {"t":"typeword","c":"i_hope_i_will"},
+        {"t":"build","c":"my_parents_will_have","dir":"t2n","d":["healthy","settled"]},
+        {"t":"match","cs":["healthy","settled","imagine","someday"]},
+        {"t":"fill","c":"i_will_have_saved"},
+        {"t":"listenpick","c":"robots_will_probably_do"},
+        {"t":"speak","c":"will_you_still_live"}
+      ]
+    },
+    {
+      "id": "b1_17",
+      "exercises": [
+        {"t":"choice","c":"in_my_opinion_learning","dir":"t2n","big":true,"d":["i_strongly_believe_honesty","if_you_ask_me"]},
+        {"t":"choice","c":"i_believe_children_should","dir":"n2t","d":["it_seems_to_me","i'm_not_sure_but"]},
+        {"t":"match","cs":["opinion","believe","honestly","personally"]},
+        {"t":"build","c":"personally_i_prefer_studying","dir":"n2t","d":["opinion","believe"]},
+        {"t":"listenpick","c":"as_far_as_i'm"},
+        {"t":"build","c":"i_think_the_film","dir":"audio","d":["honestly","personally"]},
+        {"t":"fill","c":"to_be_honest_i"},
+        {"t":"speak","c":"from_my_point_of"},
+        {"t":"choice","c":"i_feel_that_people","dir":"t2n","d":["in_my_view_public","i_strongly_believe_honesty"]},
+        {"t":"typeword","c":"it_seems_to_me"},
+        {"t":"build","c":"i'm_convinced_that_this","dir":"t2n","d":["important","true"]},
+        {"t":"match","cs":["important","true","wrong","view"]},
+        {"t":"fill","c":"what_is_your_opinion"},
+        {"t":"listenpick","c":"i'm_not_sure_but"},
+        {"t":"speak","c":"in_my_view_public"}
+      ]
+    },
+    {
+      "id": "b1_18",
+      "exercises": [
+        {"t":"choice","c":"i_completely_agree_with","dir":"t2n","big":true,"d":["i_couldn't_agree_more","sorry_but_i_see"]},
+        {"t":"choice","c":"that's_exactly_what_i","dir":"n2t","d":["neither_do_i_i","we'll_have_to_agree"]},
+        {"t":"match","cs":["agree","disagree","exactly","absolutely"]},
+        {"t":"build","c":"i'm_afraid_i_don't","dir":"n2t","d":["disagree","exactly"]},
+        {"t":"listenpick","c":"you_have_a_good"},
+        {"t":"build","c":"i_see_what_you","dir":"audio","d":["exactly","absolutely"]},
+        {"t":"fill","c":"i_partly_agree_but"},
+        {"t":"speak","c":"absolutely_that's_a_brilliant"},
+        {"t":"choice","c":"i_don't_think_that's","dir":"t2n","d":["that_may_be_true","i_couldn't_agree_more"]},
+        {"t":"typeword","c":"neither_do_i_i"},
+        {"t":"build","c":"you're_right_i_hadn't","dir":"t2n","d":["partly","point"]},
+        {"t":"match","cs":["partly","point","argue","convince"]},
+        {"t":"fill","c":"i'd_say_the_opposite"},
+        {"t":"listenpick","c":"we'll_have_to_agree"},
+        {"t":"speak","c":"that_may_be_true"}
+      ]
+    },
+    {
+      "id": "b1_19",
+      "exercises": [
+        {"t":"choice","c":"one_advantage_is_that","dir":"t2n","big":true,"d":["studying_abroad_is_expensive","weighing_the_pros_and"]},
+        {"t":"choice","c":"a_big_disadvantage_is","dir":"n2t","d":["living_in_a_city","the_biggest_benefit_is"]},
+        {"t":"match","cs":["advantage","disadvantage","benefit","drawback"]},
+        {"t":"build","c":"working_from_home_has","dir":"n2t","d":["advantage","disadvantage"]},
+        {"t":"listenpick","c":"on_the_other_hand"},
+        {"t":"build","c":"cars_are_convenient_but","dir":"audio","d":["benefit","drawback"]},
+        {"t":"fill","c":"the_main_drawback_is"},
+        {"t":"speak","c":"online_shopping_is_quick"},
+        {"t":"choice","c":"however_you_cannot_touch","dir":"t2n","d":["a_disadvantage_of_the","studying_abroad_is_expensive"]},
+        {"t":"typeword","c":"living_in_a_city"},
+        {"t":"build","c":"there_is_always_a","dir":"t2n","d":["cost","convenient"]},
+        {"t":"match","cs":["cost","risk","convenient","quick"]},
+        {"t":"fill","c":"public_transport_is_cheaper"},
+        {"t":"listenpick","c":"the_biggest_benefit_is"},
+        {"t":"speak","c":"a_disadvantage_of_the"}
+      ]
+    },
+    {
+      "id": "b1_20",
+      "exercises": [
+        {"t":"choice","c":"this_bag_is_as","dir":"t2n","big":true,"d":["my_phone_is_slightly","nobody_is_as_patient"]},
+        {"t":"choice","c":"she_isn't_as_tall","dir":"n2t","d":["it's_the_least_expensive","the_harder_we_work"]},
+        {"t":"match","cs":["equal","same","different","similar"]},
+        {"t":"build","c":"the_more_i_practice","dir":"n2t","d":["equal","same"]},
+        {"t":"listenpick","c":"the_earlier_you_leave"},
+        {"t":"build","c":"the_more_you_read","dir":"audio","d":["different","similar"]},
+        {"t":"fill","c":"this_test_was_much"},
+        {"t":"speak","c":"cairo_is_not_nearly"},
+        {"t":"choice","c":"he_drives_more_carefully","dir":"t2n","d":["life_here_is_twice","my_phone_is_slightly"]},
+        {"t":"typeword","c":"it's_the_least_expensive"},
+        {"t":"build","c":"this_is_by_far","dir":"t2n","d":["more","less"]},
+        {"t":"match","cs":["more","less","most","least"]},
+        {"t":"fill","c":"her_english_is_getting"},
+        {"t":"listenpick","c":"the_harder_we_work"},
+        {"t":"speak","c":"life_here_is_twice"}
+      ]
+    }
+  ]
+        }
