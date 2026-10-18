@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_11",
+      "exercises": [
+        {"t":"choice","c":"first_i_woke_up","dir":"t2n","big":true,"d":["let_me_tell_you","it_was_the_strangest"]},
+        {"t":"choice","c":"then_i_walked_to","dir":"n2t","d":["the_king_was_surprised","in_the_end_everyone"]},
+        {"t":"match","cs":["first","then","next","finally"]},
+        {"t":"build","c":"next_i_realized_i","dir":"n2t","d":["first","then"]},
+        {"t":"listenpick","c":"i_ran_back_home"},
+        {"t":"build","c":"finally_i_caught_the","dir":"audio","d":["next","suddenly"]},
+        {"t":"fill","c":"once_upon_a_time"},
+        {"t":"speak","c":"he_lived_alone_in"},
+        {"t":"choice","c":"one_day_a_stranger","dir":"t2n","d":["that_story_always_makes","let_me_tell_you"]},
+        {"t":"typeword","c":"the_king_was_surprised"},
+        {"t":"build","c":"after_a_long_talk","dir":"t2n","d":["suddenly","story"]},
+        {"t":"match","cs":["suddenly","story","beginning","ending"]},
+        {"t":"fill","c":"they_traveled_together_to"},
+        {"t":"listenpick","c":"in_the_end_everyone"},
+        {"t":"speak","c":"that_story_always_makes"}
+      ]
+    },
+    {
+      "id": "b1_12",
+      "exercises": [
+        {"t":"choice","c":"i_think_it_will","dir":"t2n","big":true,"d":["in_the_future_people","she_is_going_to"]},
+        {"t":"choice","c":"look_at_those_clouds","dir":"n2t","d":["i'm_sure_you_will","our_team_is_going"]},
+        {"t":"match","cs":["probably","maybe","certainly","soon"]},
+        {"t":"build","c":"she_will_probably_pass","dir":"n2t","d":["maybe","certainly"]},
+        {"t":"listenpick","c":"i_think_technology_will"},
+        {"t":"build","c":"he_is_going_to","dir":"audio","d":["certainly","tomorrow"]},
+        {"t":"fill","c":"we_won't_arrive_before"},
+        {"t":"speak","c":"maybe_they_will_move"},
+        {"t":"choice","c":"be_careful_the_baby","dir":"t2n","d":["i_don't_think_he","in_the_future_people"]},
+        {"t":"typeword","c":"i'm_sure_you_will"},
+        {"t":"build","c":"prices_will_certainly_go","dir":"t2n","d":["tomorrow","future"]},
+        {"t":"match","cs":["tomorrow","future","tonight","expect"]},
+        {"t":"fill","c":"do_you_think_it"},
+        {"t":"listenpick","c":"our_team_is_going"},
+        {"t":"speak","c":"i_don't_think_he"}
+      ]
+    },
+    {
+      "id": "b1_13",
+      "exercises": [
+        {"t":"choice","c":"i'm_meeting_my_manager","dir":"t2n","big":true,"d":["is_he_picking_you","i'm_not_doing_anything"]},
+        {"t":"choice","c":"we_are_flying_to","dir":"n2t","d":["are_you_working_on","she's_starting_her_new"]},
+        {"t":"match","cs":["appointment","meeting","flight","weekend"]},
+        {"t":"build","c":"she's_seeing_the_dentist","dir":"n2t","d":["appointment","meeting"]},
+        {"t":"listenpick","c":"what_are_you_doing"},
+        {"t":"build","c":"they_are_getting_married","dir":"audio","d":["flight","weekend"]},
+        {"t":"fill","c":"i'm_having_dinner_with"},
+        {"t":"speak","c":"he_isn't_coming_to"},
+        {"t":"choice","c":"we_are_moving_to","dir":"t2n","d":["we're_visiting_the_museum","is_he_picking_you"]},
+        {"t":"typeword","c":"are_you_working_on"},
+        {"t":"build","c":"my_parents_are_arriving","dir":"t2n","d":["tickets","dentist"]},
+        {"t":"match","cs":["tickets","dentist","party","plans"]},
+        {"t":"fill","c":"i've_booked_the_tickets"},
+        {"t":"listenpick","c":"she's_starting_her_new"},
+        {"t":"speak","c":"we're_visiting_the_museum"}
+      ]
+    },
+    {
+      "id": "b1_14",
+      "exercises": [
+        {"t":"choice","c":"i_promise_i_will","dir":"t2n","big":true,"d":["you_can_trust_me","i'll_give_you_my"]},
+        {"t":"choice","c":"i'll_help_you_with","dir":"n2t","d":["i'll_pay_for_dinner","let_me_repair_your"]},
+        {"t":"match","cs":["promise","offer","help","carry"]},
+        {"t":"build","c":"shall_i_open_the","dir":"n2t","d":["promise","offer"]},
+        {"t":"listenpick","c":"don't_worry_i'll_carry"},
+        {"t":"build","c":"i_will_never_tell","dir":"audio","d":["help","carry"]},
+        {"t":"fill","c":"we'll_pick_you_up"},
+        {"t":"speak","c":"i_promise_i_won't"},
+        {"t":"choice","c":"would_you_like_some","dir":"t2n","d":["i'll_do_the_dishes","you_can_trust_me"]},
+        {"t":"typeword","c":"i'll_pay_for_dinner"},
+        {"t":"build","c":"can_i_give_you","dir":"t2n","d":["repair","return"]},
+        {"t":"match","cs":["repair","return","secret","trust"]},
+        {"t":"fill","c":"i'll_return_your_book"},
+        {"t":"listenpick","c":"let_me_repair_your"},
+        {"t":"speak","c":"i'll_do_the_dishes"}
+      ]
+    },
+    {
+      "id": "b1_15",
+      "exercises": [
+        {"t":"choice","c":"my_main_goal_is","dir":"t2n","big":true,"d":["to_succeed_you_must","i'd_like_to_start"]},
+        {"t":"choice","c":"i_want_to_build","dir":"n2t","d":["i_hope_to_earn","i_intend_to_learn"]},
+        {"t":"match","cs":["career","goal","promotion","salary"]},
+        {"t":"build","c":"she_hopes_to_get","dir":"n2t","d":["career","goal"]},
+        {"t":"listenpick","c":"i'm_planning_to_study"},
+        {"t":"build","c":"he_dreams_of_opening","dir":"audio","d":["promotion","salary"]},
+        {"t":"fill","c":"i_need_to_improve"},
+        {"t":"speak","c":"she_would_like_to"},
+        {"t":"choice","c":"my_dream_job_is","dir":"t2n","d":["she_is_working_hard","to_succeed_you_must"]},
+        {"t":"typeword","c":"i_hope_to_earn"},
+        {"t":"build","c":"we_aim_to_finish","dir":"t2n","d":["experience","skills"]},
+        {"t":"match","cs":["experience","skills","company","dream"]},
+        {"t":"fill","c":"he_is_looking_for"},
+        {"t":"listenpick","c":"i_intend_to_learn"},
+        {"t":"speak","c":"she_is_working_hard"}
+      ]
+    }
+  ]
+}
