@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_06",
+      "exercises": [
+        {"t":"choice","c":"i_have_passed_my","dir":"t2n","big":true,"d":["my_students_have_improved","they_have_won_first"]},
+        {"t":"choice","c":"she_has_finished_her","dir":"n2t","d":["i_have_learned_to","she_has_published_her"]},
+        {"t":"match","cs":["passed","won","achieved","completed"]},
+        {"t":"build","c":"we_have_completed_the","dir":"n2t","d":["passed","won"]},
+        {"t":"listenpick","c":"he_has_achieved_all"},
+        {"t":"build","c":"i_am_proud_of","dir":"audio","d":["achieved","completed"]},
+        {"t":"fill","c":"my_team_has_finally"},
+        {"t":"speak","c":"she_has_run_three"},
+        {"t":"choice","c":"they_have_raised_money","dir":"t2n","d":["i_have_never_given","my_students_have_improved"]},
+        {"t":"typeword","c":"i_have_learned_to"},
+        {"t":"build","c":"he_has_become_the","dir":"t2n","d":["proud","prize"]},
+        {"t":"match","cs":["proud","prize","degree","finally"]},
+        {"t":"fill","c":"we_have_saved_enough"},
+        {"t":"listenpick","c":"she_has_published_her"},
+        {"t":"speak","c":"i_have_never_given"}
+      ]
+    },
+    {
+      "id": "b1_07",
+      "exercises": [
+        {"t":"choice","c":"i_was_sleeping_at","dir":"t2n","big":true,"d":["who_was_he_talking","i_was_thinking_about"]},
+        {"t":"choice","c":"what_were_you_doing","dir":"n2t","d":["were_you_studying_all","she_was_wearing_a"]},
+        {"t":"match","cs":["sleeping","cooking","waiting","watching"]},
+        {"t":"build","c":"she_was_cooking_dinner","dir":"n2t","d":["sleeping","waiting"]},
+        {"t":"listenpick","c":"they_were_watching_a"},
+        {"t":"build","c":"it_was_raining_all","dir":"audio","d":["waiting","watching"]},
+        {"t":"fill","c":"we_were_waiting_for"},
+        {"t":"speak","c":"he_was_driving_too"},
+        {"t":"choice","c":"i_wasn't_listening_to","dir":"t2n","d":["we_were_playing_cards","who_was_he_talking"]},
+        {"t":"typeword","c":"were_you_studying_all"},
+        {"t":"build","c":"the_children_were_laughing","dir":"t2n","d":["driving","studying"]},
+        {"t":"match","cs":["driving","studying","laughing","thinking"]},
+        {"t":"fill","c":"my_parents_were_traveling"},
+        {"t":"listenpick","c":"she_was_wearing_a"},
+        {"t":"speak","c":"we_were_playing_cards"}
+      ]
+    },
+    {
+      "id": "b1_08",
+      "exercises": [
+        {"t":"choice","c":"i_was_sleeping_when","dir":"t2n","big":true,"d":["the_baby_woke_up","what_were_you_doing_when"]},
+        {"t":"choice","c":"she_was_cooking_while","dir":"n2t","d":["they_were_laughing_when","when_he_heard_the"]},
+        {"t":"match","cs":["when","while","suddenly","then"]},
+        {"t":"build","c":"when_i_arrived_they","dir":"n2t","d":["while","suddenly"]},
+        {"t":"listenpick","c":"the_phone_rang_while"},
+        {"t":"build","c":"suddenly_the_lights_went","dir":"audio","d":["then","after"]},
+        {"t":"fill","c":"he_fell_while_he"},
+        {"t":"speak","c":"when_the_rain_stopped"},
+        {"t":"choice","c":"i_met_my_best","dir":"t2n","d":["we_were_walking_home","the_baby_woke_up"]},
+        {"t":"typeword","c":"they_were_laughing_when"},
+        {"t":"build","c":"she_was_crossing_the","dir":"t2n","d":["after","later"]},
+        {"t":"match","cs":["after","later","during","until"]},
+        {"t":"fill","c":"while_i_was_waiting"},
+        {"t":"listenpick","c":"when_he_heard_the"},
+        {"t":"speak","c":"we_were_walking_home"}
+      ]
+    },
+    {
+      "id": "b1_09",
+      "exercises": [
+        {"t":"choice","c":"i_used_to_play","dir":"t2n","big":true,"d":["he_used_to_wear","i_miss_the_way"]},
+        {"t":"choice","c":"we_used_to_visit","dir":"n2t","d":["i_used_to_hate","we_used_to_swim"]},
+        {"t":"match","cs":["used","memories","grandparents","toys"]},
+        {"t":"build","c":"she_used_to_be","dir":"n2t","d":["memories","grandparents"]},
+        {"t":"listenpick","c":"he_didn't_use_to"},
+        {"t":"build","c":"did_you_use_to","dir":"audio","d":["grandparents","toys"]},
+        {"t":"fill","c":"we_used_to_live"},
+        {"t":"speak","c":"my_father_used_to"},
+        {"t":"choice","c":"they_used_to_collect","dir":"t2n","d":["our_neighbors_used_to","he_used_to_wear"]},
+        {"t":"typeword","c":"i_used_to_hate"},
+        {"t":"build","c":"there_used_to_be","dir":"t2n","d":["neighborhood","school"]},
+        {"t":"match","cs":["neighborhood","school","summer","childhood"]},
+        {"t":"fill","c":"she_used_to_cry"},
+        {"t":"listenpick","c":"we_used_to_swim"},
+        {"t":"speak","c":"our_neighbors_used_to"}
+      ]
+    },
+    {
+      "id": "b1_10",
+      "exercises": [
+        {"t":"choice","c":"my_sister_got_married","dir":"t2n","big":true,"d":["my_first_day_at","we_took_many_photos"]},
+        {"t":"choice","c":"the_wedding_was_held","dir":"n2t","d":["they_celebrated_their_anniversary","he_became_a_father"]},
+        {"t":"match","cs":["wedding","birthday","graduation","festival"]},
+        {"t":"build","c":"we_celebrated_my_graduation","dir":"n2t","d":["wedding","birthday"]},
+        {"t":"listenpick","c":"it_was_the_most"},
+        {"t":"build","c":"my_grandfather_died_when","dir":"audio","d":["graduation","festival"]},
+        {"t":"fill","c":"we_moved_to_a"},
+        {"t":"speak","c":"she_won_an_important"},
+        {"t":"choice","c":"the_festival_takes_place","dir":"t2n","d":["hundreds_of_people_attended","my_first_day_at"]},
+        {"t":"typeword","c":"they_celebrated_their_anniversary"},
+        {"t":"build","c":"i_will_never_forget","dir":"t2n","d":["anniversary","ceremony"]},
+        {"t":"match","cs":["anniversary","ceremony","memorable","celebrated"]},
+        {"t":"fill","c":"the_ceremony_started_at"},
+        {"t":"listenpick","c":"he_became_a_father"},
+        {"t":"speak","c":"hundreds_of_people_attended"}
+      ]
+    }
+  ]
+        }
