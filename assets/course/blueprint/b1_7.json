@@ -1,0 +1,105 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "id": "b1_31",
+      "exercises": [
+        {"t":"choice","c":"i_am_writing_to","dir":"t2n","big":true,"d":["i_am_attaching_my","should_you_need_anything"]},
+        {"t":"choice","c":"please_find_the_attached","dir":"n2t","d":["please_let_me_know","i_am_available_for"]},
+        {"t":"match","cs":["attachment","regards","sincerely","inform"]},
+        {"t":"build","c":"i_would_be_grateful","dir":"n2t","d":["attachment","regards"]},
+        {"t":"listenpick","c":"thank_you_for_your"},
+        {"t":"build","c":"i_look_forward_to","dir":"audio","d":["sincerely","inform"]},
+        {"t":"fill","c":"i_am_sorry_for"},
+        {"t":"speak","c":"could_you_kindly_confirm"},
+        {"t":"choice","c":"i_would_like_to","dir":"t2n","d":["please_accept_my_sincere","i_am_attaching_my"]},
+        {"t":"typeword","c":"please_let_me_know"},
+        {"t":"build","c":"we_regret_to_inform","dir":"t2n","d":["request","inquiry"]},
+        {"t":"match","cs":["request","inquiry","kindly","response"]},
+        {"t":"fill","c":"best_regards_and_thank"},
+        {"t":"listenpick","c":"i_am_available_for"},
+        {"t":"speak","c":"please_accept_my_sincere"}
+      ]
+    },
+    {
+      "id": "b1_32",
+      "exercises": [
+        {"t":"choice","c":"good_morning_everyone_and","dir":"t2n","big":true,"d":["i_will_now_hand","our_topic_today_is"]},
+        {"t":"choice","c":"today_i'm_going_to","dir":"n2t","d":["does_anyone_have_any","i'd_like_to_thank"]},
+        {"t":"match","cs":["audience","slide","topic","summary"]},
+        {"t":"build","c":"my_presentation_has_three","dir":"n2t","d":["audience","slide"]},
+        {"t":"listenpick","c":"first_let_me_give"},
+        {"t":"build","c":"as_you_can_see","dir":"audio","d":["topic","summary"]},
+        {"t":"fill","c":"this_chart_shows_the"},
+        {"t":"speak","c":"let_me_move_on"},
+        {"t":"choice","c":"to_summarize_we_have","dir":"t2n","d":["please_feel_free_to","i_will_now_hand"]},
+        {"t":"typeword","c":"does_anyone_have_any"},
+        {"t":"build","c":"that_brings_me_to","dir":"t2n","d":["introduce","conclusion"]},
+        {"t":"match","cs":["introduce","conclusion","chart","example"]},
+        {"t":"fill","c":"for_example_many_people"},
+        {"t":"listenpick","c":"i'd_like_to_thank"},
+        {"t":"speak","c":"please_feel_free_to"}
+      ]
+    },
+    {
+      "id": "b1_33",
+      "exercises": [
+        {"t":"choice","c":"i_want_to_study","dir":"t2n","big":true,"d":["studying_abroad_changed_my","i_will_return_home"]},
+        {"t":"choice","c":"she_won_a_scholarship","dir":"n2t","d":["i'm_learning_about_a","my_professor_speaks_very"]},
+        {"t":"match","cs":["scholarship","campus","tuition","dormitory"]},
+        {"t":"build","c":"the_tuition_fees_are","dir":"n2t","d":["scholarship","campus"]},
+        {"t":"listenpick","c":"i_live_in_a"},
+        {"t":"build","c":"at_first_i_felt","dir":"audio","d":["tuition","dormitory"]},
+        {"t":"fill","c":"making_friends_helped_me"},
+        {"t":"speak","c":"i_have_to_improve"},
+        {"t":"choice","c":"the_campus_is_beautiful","dir":"t2n","d":["i_share_an_apartment","studying_abroad_changed_my"]},
+        {"t":"typeword","c":"i'm_learning_about_a"},
+        {"t":"build","c":"applying_for_a_student","dir":"t2n","d":["homesick","foreign"]},
+        {"t":"match","cs":["homesick","foreign","culture","adapt"]},
+        {"t":"fill","c":"i_miss_my_family"},
+        {"t":"listenpick","c":"my_professor_speaks_very"},
+        {"t":"speak","c":"i_share_an_apartment"}
+      ]
+    },
+    {
+      "id": "b1_34",
+      "exercises": [
+        {"t":"choice","c":"technology_makes_our_daily","dir":"t2n","big":true,"d":["artificial_intelligence_is_changing","we_should_not_depend"]},
+        {"t":"choice","c":"i_use_my_phone","dir":"n2t","d":["children_spend_too_many","i_forgot_my_password"]},
+        {"t":"match","cs":["device","software","battery","download"]},
+        {"t":"build","c":"my_battery_dies_very","dir":"n2t","d":["device","software"]},
+        {"t":"listenpick","c":"please_update_the_app"},
+        {"t":"build","c":"i_downloaded_a_new","dir":"audio","d":["battery","download"]},
+        {"t":"fill","c":"the_internet_is_down"},
+        {"t":"speak","c":"many_jobs_will_be"},
+        {"t":"choice","c":"i_can't_live_without","dir":"t2n","d":["video_calls_help_me","artificial_intelligence_is_changing"]},
+        {"t":"typeword","c":"children_spend_too_many"},
+        {"t":"build","c":"online_banking_is_safe","dir":"t2n","d":["update","screen"]},
+        {"t":"match","cs":["update","screen","digital","internet"]},
+        {"t":"fill","c":"smart_watches_can_track"},
+        {"t":"listenpick","c":"i_forgot_my_password"},
+        {"t":"speak","c":"video_calls_help_me"}
+      ]
+    },
+    {
+      "id": "b1_35",
+      "exercises": [
+        {"t":"choice","c":"i_post_photos_on","dir":"t2n","big":true,"d":["i_deleted_that_app","always_think_before_you"]},
+        {"t":"choice","c":"she_has_over_ten","dir":"n2t","d":["fake_news_spreads_very","my_profile_picture_is"]},
+        {"t":"match","cs":["post","follow","share","comment"]},
+        {"t":"build","c":"i_follow_many_travel","dir":"n2t","d":["post","share"]},
+        {"t":"listenpick","c":"don't_share_your_password"},
+        {"t":"build","c":"he_got_a_thousand","dir":"audio","d":["share","comment"]},
+        {"t":"fill","c":"privacy_settings_protect_your"},
+        {"t":"speak","c":"some_people_compare_themselves"},
+        {"t":"choice","c":"i_spend_an_hour","dir":"t2n","d":["teenagers_use_social_media","i_deleted_that_app"]},
+        {"t":"typeword","c":"fake_news_spreads_very"},
+        {"t":"build","c":"she_wrote_a_kind","dir":"t2n","d":["privacy","profile"]},
+        {"t":"match","cs":["privacy","profile","account","message"]},
+        {"t":"fill","c":"social_media_helps_me"},
+        {"t":"listenpick","c":"my_profile_picture_is"},
+        {"t":"speak","c":"teenagers_use_social_media"}
+      ]
+    }
+  ]
+        }
