@@ -1,0 +1,866 @@
+{
+  "titles": {
+    "a1_01": "Hallo, wereld",
+    "a1_02": "Mijn naam, mijn land",
+    "a1_03": "Mijn familie",
+    "a1_04": "Getallen van één tot tien",
+    "a1_05": "Kleuren om me heen",
+    "a1_06": "Wat eet ik?",
+    "a1_07": "Eten bestellen",
+    "a1_08": "De dagen van de week",
+    "a1_09": "Tijd en klok",
+    "a1_10": "Mijn huis",
+    "a1_11": "Mijn dagelijkse bezigheden",
+    "a1_12": "Hoe ik me voel",
+    "a1_13": "Wat trek ik aan?",
+    "a1_14": "Het weer",
+    "a1_15": "In de stad",
+    "a1_16": "Mijn lichaam",
+    "a1_17": "Mijn gezondheid",
+    "a1_18": "Beroepen",
+    "a1_19": "Op het werk",
+    "a1_20": "Winkelen en prijzen",
+    "a1_21": "Eenvoudige opdrachten",
+    "a1_22": "Mijn eerste vragen",
+    "a1_23": "Dit en dat",
+    "a1_24": "Mijn spullen",
+    "a1_25": "Ik heb, ik heb niet"
+  },
+  "c": {
+    "hello": "Hallo!",
+    "thanks": "Dank je",
+    "yes": "Ja",
+    "hi": "Hoi!",
+    "goodbye": "Tot ziens!",
+    "please": "Alsjeblieft",
+    "good_morning": {
+      "t": "Goede morgen",
+      "g": [
+        1
+      ]
+    },
+    "good_night": "Goedenacht",
+    "how_are_you": {
+      "t": "Hoe gaat het met je?",
+      "g": [
+        1
+      ]
+    },
+    "no": "Nee",
+    "im_fine": {
+      "t": "Het gaat goed",
+      "g": [
+        2
+      ]
+    },
+    "sorry": "Sorry",
+    "welcome": {
+      "t": "Graag gedaan",
+      "g": [
+        1
+      ]
+    },
+    "my_name_is": {
+      "t": "Mijn naam is Anna",
+      "g": [
+        1
+      ]
+    },
+    "i_am_from": {
+      "t": "Ik kom uit Egypte",
+      "g": [
+        3
+      ]
+    },
+    "whats_your_name": {
+      "t": "Hoe heet je?",
+      "g": [
+        1
+      ]
+    },
+    "where_from": "Waar kom je vandaan?",
+    "nice_meet": {
+      "t": "Leuk je te ontmoeten",
+      "g": [
+        3
+      ]
+    },
+    "name": "naam",
+    "country": "land",
+    "friend": "vriend",
+    "you": "jij",
+    "i_am_student": "Ik ben student",
+    "i": "ik",
+    "student": "student",
+    "mom": "mama",
+    "dad": "papa",
+    "sister": "zus",
+    "brother": "broer",
+    "this_is_my_mom": {
+      "t": "Dit is mijn mama",
+      "g": [
+        3
+      ]
+    },
+    "this_is_my_dad": "Dit is mijn papa",
+    "this_is_my_sister": {
+      "t": "Dit is mijn zus",
+      "g": [
+        3
+      ]
+    },
+    "this_is_my_brother": {
+      "t": "Dit is mijn broer",
+      "g": [
+        3
+      ]
+    },
+    "family": "familie",
+    "grandma": "oma",
+    "mom_and_dad": {
+      "t": "Mijn mama en mijn papa",
+      "g": [
+        4
+      ]
+    },
+    "grandpa": "opa",
+    "have_sister": {
+      "t": "Ik heb een zus",
+      "g": [
+        3
+      ]
+    },
+    "i_love_family": "Ik hou van mijn familie",
+    "one": "een",
+    "two": "twee",
+    "three": "drie",
+    "four": "vier",
+    "five": "vijf",
+    "six": "zes",
+    "seven": "zeven",
+    "eight": "acht",
+    "nine": "negen",
+    "ten": "tien",
+    "count_1_5": "Een, twee, drie, vier, vijf",
+    "i_have_two_brothers": "Ik heb twee broers",
+    "i_am_ten": {
+      "t": "Ik ben tien jaar oud",
+      "g": [
+        2
+      ]
+    },
+    "i_have_five_books": {
+      "t": "Ik heb vijf boeken",
+      "g": [
+        2
+      ]
+    },
+    "red": "rood",
+    "blue": "blauw",
+    "green": "groen",
+    "yellow": "geel",
+    "black": "zwart",
+    "white": "wit",
+    "color": "kleur",
+    "apple": "appel",
+    "sky_blue": {
+      "t": "De lucht is blauw",
+      "g": [
+        3
+      ]
+    },
+    "apple_red": {
+      "t": "De appel is rood",
+      "g": [
+        3
+      ]
+    },
+    "i_like_green": {
+      "t": "Ik hou van groen",
+      "g": [
+        3
+      ]
+    },
+    "what_color": {
+      "t": "Welke kleur is het?",
+      "g": [
+        1
+      ]
+    },
+    "it_is_yellow": "Het is geel",
+    "water": "water",
+    "milk": "melk",
+    "tea": "thee",
+    "bread": "brood",
+    "rice": "rijst",
+    "egg": "ei",
+    "coffee": "koffie",
+    "breakfast": "ontbijt",
+    "i_eat_bread": {
+      "t": "Ik eet brood",
+      "g": [
+        1
+      ]
+    },
+    "i_drink_water": "Ik drink water",
+    "i_like_milk": {
+      "t": "Ik hou van melk",
+      "g": [
+        3
+      ]
+    },
+    "do_you_like_tea": {
+      "t": "Hou je van thee?",
+      "g": [
+        3
+      ]
+    },
+    "i_want_coffee": {
+      "t": "Ik wil een koffie",
+      "g": [
+        3
+      ]
+    },
+    "she_eats_rice": "Zij eet rijst",
+    "menu": "menukaart",
+    "bill": "rekening",
+    "waiter": "ober",
+    "hungry": "hongerig",
+    "thirsty": "dorstig",
+    "delicious": "lekker",
+    "i_am_hungry": "Ik heb honger",
+    "can_i_see_menu": {
+      "t": "Mag ik de menukaart zien?",
+      "g": [
+        3
+      ]
+    },
+    "id_like_water": {
+      "t": "Ik wil graag wat water",
+      "g": [
+        4
+      ]
+    },
+    "table_for_two": {
+      "t": "Een tafel voor twee, alstublieft",
+      "g": [
+        3
+      ]
+    },
+    "the_bill_please": "De rekening, alstublieft",
+    "i_am_thirsty": "Ik heb dorst",
+    "it_is_delicious": {
+      "t": "Het is lekker",
+      "g": [
+        2
+      ]
+    },
+    "thank_you_very_much": "Hartelijk dank",
+    "monday": "maandag",
+    "tuesday": "dinsdag",
+    "sunday": "zondag",
+    "friday": "vrijdag",
+    "thursday": "donderdag",
+    "saturday": "zaterdag",
+    "wednesday": "woensdag",
+    "week": "week",
+    "today": "vandaag",
+    "tomorrow": "morgen",
+    "yesterday": "gisteren",
+    "today_is_monday": {
+      "t": "Vandaag is het maandag",
+      "g": [
+        3
+      ]
+    },
+    "tomorrow_is_friday": "Morgen is het vrijdag",
+    "i_work_monday": {
+      "t": "Ik werk op maandag",
+      "g": [
+        3
+      ]
+    },
+    "what_day_today": {
+      "t": "Welke dag is het vandaag?",
+      "g": [
+        1
+      ]
+    },
+    "week_seven": {
+      "t": "Een week heeft zeven dagen",
+      "g": [
+        3
+      ]
+    },
+    "morning": "ochtend",
+    "night": "nacht",
+    "evening": "avond",
+    "clock": "klok",
+    "now": "nu",
+    "afternoon": "middag",
+    "early": "vroeg",
+    "late": "laat",
+    "what_time": {
+      "t": "Hoe laat is het?",
+      "g": [
+        1
+      ]
+    },
+    "its_three": {
+      "t": "Het is drie uur",
+      "g": [
+        2
+      ]
+    },
+    "wake_at_seven": {
+      "t": "Ik word om zeven uur wakker",
+      "g": [
+        3
+      ]
+    },
+    "see_you_evening": {
+      "t": "Tot vanavond",
+      "g": [
+        1
+      ]
+    },
+    "good_evening": "Goedenavond",
+    "im_late": "Ik ben te laat",
+    "house": "huis",
+    "room": "kamer",
+    "kitchen": "keuken",
+    "door": "deur",
+    "window": "raam",
+    "table": "tafel",
+    "bed": "bed",
+    "chair": "stoel",
+    "this_is_my_house": "Dit is mijn huis",
+    "open_the_door": "Doe de deur open, alsjeblieft",
+    "my_room_is_small": {
+      "t": "Mijn kamer is klein",
+      "g": [
+        3
+      ]
+    },
+    "the_kitchen_is_big": {
+      "t": "De keuken is groot",
+      "g": [
+        3
+      ]
+    },
+    "the_book_on_table": {
+      "t": "Het boek ligt op de tafel",
+      "g": [
+        5
+      ]
+    },
+    "sit_on_chair": "Ga op de stoel zitten, alsjeblieft",
+    "read": "lezen",
+    "write": "schrijven",
+    "sleep": "slapen",
+    "run": "rennen",
+    "walk": "wandelen",
+    "play": "spelen",
+    "study": "studeren",
+    "book": "boek",
+    "i_read_book": "Ik lees een boek",
+    "school": "school",
+    "we_walk_school": {
+      "t": "Wij lopen naar school",
+      "g": [
+        3
+      ]
+    },
+    "i_write_letter": {
+      "t": "Ik schrijf een brief",
+      "g": [
+        1
+      ]
+    },
+    "she_runs_fast": {
+      "t": "Zij rent snel",
+      "g": [
+        1
+      ]
+    },
+    "i_sleep_night": "Ik slaap elke nacht",
+    "they_play_football": "Zij spelen voetbal",
+    "do_you_read_daily": {
+      "t": "Lees je elke dag?",
+      "g": [
+        3
+      ]
+    },
+    "happy": "blij",
+    "sad": "verdrietig",
+    "tired": "moe",
+    "angry": "boos",
+    "scared": "bang",
+    "excited": "enthousiast",
+    "i_am_happy": "Ik ben blij",
+    "why_are_you_sad": "Waarom ben je verdrietig?",
+    "she_is_sad": {
+      "t": "Zij is verdrietig",
+      "g": [
+        2
+      ]
+    },
+    "are_you_okay": {
+      "t": "Gaat het goed met je?",
+      "g": [
+        2
+      ]
+    },
+    "i_am_not_angry": {
+      "t": "Ik ben niet boos",
+      "g": [
+        3
+      ]
+    },
+    "he_is_tired": "Hij is moe",
+    "we_are_excited": {
+      "t": "Wij zijn enthousiast",
+      "g": [
+        2
+      ]
+    },
+    "shirt": "overhemd",
+    "shoes": "schoenen",
+    "hat": "hoed",
+    "dress": "jurk",
+    "pants": "broek",
+    "jacket": "jas",
+    "i_wear_shirt": "Ik draag een blauw overhemd",
+    "she_has_red_dress": {
+      "t": "Zij heeft een rode jurk",
+      "g": [
+        4
+      ]
+    },
+    "my_shoes_are_black": {
+      "t": "Mijn schoenen zijn zwart",
+      "g": [
+        3
+      ]
+    },
+    "the_hat_is_white": {
+      "t": "De hoed is wit",
+      "g": [
+        3
+      ]
+    },
+    "put_on_jacket": "Trek je jas aan",
+    "it_is_cold": {
+      "t": "Het is koud",
+      "g": [
+        2
+      ]
+    },
+    "sun": "zon",
+    "rain": "regen",
+    "snow": "sneeuw",
+    "wind": "wind",
+    "cloud": "wolk",
+    "hot": "heet",
+    "cold": "koud",
+    "summer": "zomer",
+    "it_is_raining": {
+      "t": "Het regent",
+      "g": [
+        1
+      ]
+    },
+    "weather_today": {
+      "t": "Hoe is het weer?",
+      "g": [
+        3
+      ]
+    },
+    "summer_is_hot": {
+      "t": "De zomer is heet",
+      "g": [
+        3
+      ]
+    },
+    "it_is_sunny": {
+      "t": "Het is vandaag zonnig",
+      "g": [
+        3
+      ]
+    },
+    "bring_umbrella": "Neem een paraplu mee",
+    "i_like_snow": "Ik hou van sneeuw",
+    "winter_cold": {
+      "t": "De winter is koud",
+      "g": [
+        3
+      ]
+    },
+    "winter": "winter",
+    "street": "straat",
+    "shop": "winkel",
+    "park": "park",
+    "hospital": "ziekenhuis",
+    "bank": "bank",
+    "bus": "bus",
+    "car": "auto",
+    "where_is_bank": "Waar is de bank?",
+    "the_park_is_near": {
+      "t": "Het park is dichtbij",
+      "g": [
+        3
+      ]
+    },
+    "i_take_bus": {
+      "t": "Ik neem de bus",
+      "g": [
+        3
+      ]
+    },
+    "the_shop_is_open": {
+      "t": "De winkel is open",
+      "g": [
+        3
+      ]
+    },
+    "turn_left": "Ga naar links",
+    "go_straight": "Ga rechtdoor",
+    "hospital_far": {
+      "t": "Het ziekenhuis is ver",
+      "g": [
+        3
+      ]
+    },
+    "head": "hoofd",
+    "hand": "hand",
+    "foot": "voet",
+    "eye": "oog",
+    "ear": "oor",
+    "nose": "neus",
+    "mouth": "mond",
+    "i_have_two_eyes": {
+      "t": "Ik heb twee ogen",
+      "g": [
+        3
+      ]
+    },
+    "raise_hand": "Steek je hand op",
+    "wash_hands": {
+      "t": "Was je handen",
+      "g": [
+        2
+      ]
+    },
+    "touch_nose": {
+      "t": "Raak je neus aan",
+      "g": [
+        2
+      ]
+    },
+    "my_head_hurts": "Mijn hoofd doet pijn",
+    "i_hear_ears": {
+      "t": "Ik hoor met mijn oren",
+      "g": [
+        4
+      ]
+    },
+    "doctor": "dokter",
+    "medicine": "medicijn",
+    "fever": "koorts",
+    "headache": "hoofdpijn",
+    "sick": "ziek",
+    "healthy": "gezond",
+    "i_have_headache": "Ik heb hoofdpijn",
+    "call_doctor": {
+      "t": "Bel een dokter, alsjeblieft",
+      "g": [
+        2
+      ]
+    },
+    "take_medicine": {
+      "t": "Neem je medicijn",
+      "g": [
+        2
+      ]
+    },
+    "healthy_food": {
+      "t": "Ik hou van gezond eten",
+      "g": [
+        3
+      ]
+    },
+    "i_feel_sick": "Ik voel me ziek",
+    "sleep_early": {
+      "t": "Ik probeer vroeg te slapen",
+      "g": [
+        4
+      ]
+    },
+    "drink_water_often": "Drink elke dag water",
+    "teacher": "leraar",
+    "driver": "chauffeur",
+    "engineer": "ingenieur",
+    "nurse": "verpleegster",
+    "farmer": "boer",
+    "chef": "kok",
+    "my_father_teacher": "Mijn vader is leraar",
+    "she_is_nurse": "Zij is verpleegster",
+    "my_mother_doctor": {
+      "t": "Mijn moeder is dokter",
+      "g": [
+        3
+      ]
+    },
+    "i_am_engineer": {
+      "t": "Ik ben ingenieur",
+      "g": [
+        2
+      ]
+    },
+    "what_do_you_do": {
+      "t": "Wat voor werk doe je?",
+      "g": [
+        2
+      ]
+    },
+    "they_are_teachers": "Zij zijn leraren",
+    "he_is_driver": {
+      "t": "Hij is buschauffeur",
+      "g": [
+        2
+      ]
+    },
+    "office": "kantoor",
+    "meeting": "vergadering",
+    "boss": "baas",
+    "colleague": "collega",
+    "computer": "computer",
+    "work": "werk",
+    "i_work_in_office": "Ik werk op een kantoor",
+    "the_meeting_is_at_ten": "De vergadering is om tien uur",
+    "i_help_colleagues": {
+      "t": "Ik help vaak mijn collega's",
+      "g": [
+        4
+      ]
+    },
+    "i_arrive_on_time": {
+      "t": "Ik kom op tijd op mijn werk",
+      "g": [
+        1
+      ]
+    },
+    "i_respect_coworkers": "Ik respecteer mijn collega's",
+    "teamwork_easier": {
+      "t": "Samenwerken maakt werk makkelijker",
+      "g": [
+        3
+      ]
+    },
+    "where_is_boss": {
+      "t": "Waar is de baas?",
+      "g": [
+        3
+      ]
+    },
+    "price": "prijs",
+    "money": "geld",
+    "bag": "tas",
+    "cheap": "goedkoop",
+    "expensive": "duur",
+    "how_much_is_it": "Hoeveel kost het?",
+    "it_is_expensive": {
+      "t": "Het is te duur",
+      "g": [
+        3
+      ]
+    },
+    "i_want_this": {
+      "t": "Ik wil dit",
+      "g": [
+        1
+      ]
+    },
+    "i_save_money": {
+      "t": "Ik probeer geld te sparen",
+      "g": [
+        2
+      ]
+    },
+    "i_need_this": "Ik heb dit nodig",
+    "i_like_it": "Ik vind het mooi",
+    "i_dont_want": "Ik wil dit niet",
+    "i_compare_prices": {
+      "t": "Ik vergelijk de prijzen",
+      "g": [
+        1
+      ]
+    },
+    "sit": "ga zitten",
+    "stand": "sta op",
+    "wait": "wacht",
+    "look": "kijk",
+    "listen": "luister",
+    "come": "kom",
+    "go": "ga",
+    "come_with_me": {
+      "t": "Kom met mij",
+      "g": [
+        2
+      ]
+    },
+    "wait_minute": "Wacht een minuut",
+    "look_at_this": {
+      "t": "Kijk naar dit",
+      "g": [
+        2
+      ]
+    },
+    "lets_eat": {
+      "t": "Laten we eten",
+      "g": [
+        2
+      ]
+    },
+    "come_here": "Kom hier",
+    "listen_to_me": "Luister naar me",
+    "sit_down": {
+      "t": "Ga zitten, alsjeblieft",
+      "g": [
+        2
+      ]
+    },
+    "lets_go": "Laten we gaan",
+    "where": "waar",
+    "what": "wat",
+    "who": "wie",
+    "why": "waarom",
+    "when": "wanneer",
+    "how": "hoe",
+    "what_is_this": {
+      "t": "Wat is dit?",
+      "g": [
+        2
+      ]
+    },
+    "how_old": {
+      "t": "Hoe oud ben je?",
+      "g": [
+        1
+      ]
+    },
+    "when_is_class": {
+      "t": "Wanneer is de les?",
+      "g": [
+        3
+      ]
+    },
+    "why_are_you_late": {
+      "t": "Waarom ben je te laat?",
+      "g": [
+        4
+      ]
+    },
+    "where_is_it": "Waar is het?",
+    "who_is_he": "Wie is hij?",
+    "i_dont_know": "Ik weet het niet",
+    "pen": "pen",
+    "cat": "kat",
+    "dog": "hond",
+    "tree": "boom",
+    "this": "dit",
+    "that": "dat",
+    "this_is_my_book": "Dit is mijn boek",
+    "that_is_pen": "Dat is een pen",
+    "this_is_chair": {
+      "t": "Dit is een stoel",
+      "g": [
+        3
+      ]
+    },
+    "that_is_table": {
+      "t": "Dat is een tafel",
+      "g": [
+        3
+      ]
+    },
+    "it_is_cat": "Het is een kat",
+    "what_is_that": {
+      "t": "Wat is dat?",
+      "g": [
+        2
+      ]
+    },
+    "this_is_my_dog": {
+      "t": "Dit is mijn hond",
+      "g": [
+        3
+      ]
+    },
+    "i_like_that_tree": {
+      "t": "Ik hou van die boom",
+      "g": [
+        4
+      ]
+    },
+    "phone": "telefoon",
+    "keys": "sleutels",
+    "wallet": "portemonnee",
+    "glasses": "bril",
+    "notebook": "schrift",
+    "i_have_phone": "Ik heb een telefoon",
+    "where_are_keys": "Waar zijn mijn sleutels?",
+    "this_is_my_wallet": {
+      "t": "Dit is mijn portemonnee",
+      "g": [
+        3
+      ]
+    },
+    "i_need_glasses": {
+      "t": "Ik heb mijn bril nodig",
+      "g": [
+        3
+      ]
+    },
+    "my_phone_is_new": "Mijn telefoon is nieuw",
+    "i_write_in_notebook": {
+      "t": "Ik schrijf in mijn schrift",
+      "g": [
+        4
+      ]
+    },
+    "put_phone_in_bag": {
+      "t": "Doe de telefoon in de tas",
+      "g": [
+        5
+      ]
+    },
+    "time": "tijd",
+    "he_has_car": "Hij heeft een auto",
+    "she_has_bag": {
+      "t": "Zij heeft een tas",
+      "g": [
+        3
+      ]
+    },
+    "i_dont_have_time": {
+      "t": "Ik heb geen tijd",
+      "g": [
+        3
+      ]
+    },
+    "i_have_one_brother": {
+      "t": "Ik heb een broer",
+      "g": [
+        3
+      ]
+    },
+    "do_you_have_pen": {
+      "t": "Heb je een pen?",
+      "g": [
+        3
+      ]
+    },
+    "i_have_two_sisters": "Ik heb twee zussen"
+  }
+}
