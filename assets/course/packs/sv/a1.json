@@ -1,0 +1,866 @@
+{
+  "titles": {
+    "a1_01": "Hej, världen",
+    "a1_02": "Mitt namn, mitt land",
+    "a1_03": "Min familj",
+    "a1_04": "Siffror från ett till tio",
+    "a1_05": "Färger omkring mig",
+    "a1_06": "Vad äter jag?",
+    "a1_07": "Beställa mat",
+    "a1_08": "Veckans dagar",
+    "a1_09": "Tid och klocka",
+    "a1_10": "Mitt hem",
+    "a1_11": "Mina dagliga handlingar",
+    "a1_12": "Hur jag mår",
+    "a1_13": "Vad har jag på mig?",
+    "a1_14": "Vädret",
+    "a1_15": "I staden",
+    "a1_16": "Min kropp",
+    "a1_17": "Min hälsa",
+    "a1_18": "Yrken",
+    "a1_19": "På jobbet",
+    "a1_20": "Shopping och priser",
+    "a1_21": "Enkla kommandon",
+    "a1_22": "Mina första frågor",
+    "a1_23": "Det här och det där",
+    "a1_24": "Mina saker",
+    "a1_25": "Jag har, jag har inte"
+  },
+  "c": {
+    "hello": "Hej!",
+    "thanks": "Tack",
+    "yes": "Ja",
+    "hi": "Hallå!",
+    "goodbye": "Hejdå!",
+    "please": "Snälla",
+    "good_morning": {
+      "t": "God morgon",
+      "g": [
+        1
+      ]
+    },
+    "good_night": "God natt",
+    "how_are_you": {
+      "t": "Hur mår du?",
+      "g": [
+        1
+      ]
+    },
+    "no": "Nej",
+    "im_fine": {
+      "t": "Jag mår bra",
+      "g": [
+        2
+      ]
+    },
+    "sorry": "Förlåt",
+    "welcome": {
+      "t": "Ingen orsak",
+      "g": [
+        1
+      ]
+    },
+    "my_name_is": {
+      "t": "Jag heter Anna",
+      "g": [
+        1
+      ]
+    },
+    "i_am_from": {
+      "t": "Jag kommer från Egypten",
+      "g": [
+        3
+      ]
+    },
+    "whats_your_name": {
+      "t": "Vad heter du?",
+      "g": [
+        1
+      ]
+    },
+    "where_from": "Var kommer du ifrån?",
+    "nice_meet": {
+      "t": "Trevligt att träffas",
+      "g": [
+        2
+      ]
+    },
+    "name": "namn",
+    "country": "land",
+    "friend": "vän",
+    "you": "du",
+    "i_am_student": "Jag är student",
+    "i": "jag",
+    "student": "student",
+    "mom": "mamma",
+    "dad": "pappa",
+    "sister": "syster",
+    "brother": "bror",
+    "this_is_my_mom": {
+      "t": "Det här är min mamma",
+      "g": [
+        4
+      ]
+    },
+    "this_is_my_dad": "Det här är min pappa",
+    "this_is_my_sister": {
+      "t": "Det här är min syster",
+      "g": [
+        4
+      ]
+    },
+    "this_is_my_brother": {
+      "t": "Det här är min bror",
+      "g": [
+        4
+      ]
+    },
+    "family": "familj",
+    "grandma": "mormor",
+    "mom_and_dad": {
+      "t": "Min mamma och min pappa",
+      "g": [
+        4
+      ]
+    },
+    "grandpa": "morfar",
+    "have_sister": {
+      "t": "Jag har en syster",
+      "g": [
+        3
+      ]
+    },
+    "i_love_family": "Jag älskar min familj",
+    "one": "ett",
+    "two": "två",
+    "three": "tre",
+    "four": "fyra",
+    "five": "fem",
+    "six": "sex",
+    "seven": "sju",
+    "eight": "åtta",
+    "nine": "nio",
+    "ten": "tio",
+    "count_1_5": "Ett, två, tre, fyra, fem",
+    "i_have_two_brothers": "Jag har två bröder",
+    "i_am_ten": {
+      "t": "Jag är tio år gammal",
+      "g": [
+        2
+      ]
+    },
+    "i_have_five_books": {
+      "t": "Jag har fem böcker",
+      "g": [
+        2
+      ]
+    },
+    "red": "röd",
+    "blue": "blå",
+    "green": "grön",
+    "yellow": "gul",
+    "black": "svart",
+    "white": "vit",
+    "color": "färg",
+    "apple": "äpple",
+    "sky_blue": {
+      "t": "Himlen är blå",
+      "g": [
+        2
+      ]
+    },
+    "apple_red": {
+      "t": "Äpplet är rött",
+      "g": [
+        2
+      ]
+    },
+    "i_like_green": {
+      "t": "Jag gillar grönt",
+      "g": [
+        2
+      ]
+    },
+    "what_color": {
+      "t": "Vilken färg är det?",
+      "g": [
+        1
+      ]
+    },
+    "it_is_yellow": "Det är gult",
+    "water": "vatten",
+    "milk": "mjölk",
+    "tea": "te",
+    "bread": "bröd",
+    "rice": "ris",
+    "egg": "ägg",
+    "coffee": "kaffe",
+    "breakfast": "frukost",
+    "i_eat_bread": {
+      "t": "Jag äter bröd",
+      "g": [
+        1
+      ]
+    },
+    "i_drink_water": "Jag dricker vatten",
+    "i_like_milk": {
+      "t": "Jag gillar mjölk",
+      "g": [
+        2
+      ]
+    },
+    "do_you_like_tea": {
+      "t": "Gillar du te?",
+      "g": [
+        0
+      ]
+    },
+    "i_want_coffee": {
+      "t": "Jag vill ha kaffe",
+      "g": [
+        3
+      ]
+    },
+    "she_eats_rice": "Hon äter ris",
+    "menu": "meny",
+    "bill": "nota",
+    "waiter": "servitör",
+    "hungry": "hungrig",
+    "thirsty": "törstig",
+    "delicious": "utsökt",
+    "i_am_hungry": "Jag är hungrig",
+    "can_i_see_menu": {
+      "t": "Kan jag få se menyn?",
+      "g": [
+        4
+      ]
+    },
+    "id_like_water": {
+      "t": "Jag skulle vilja ha lite vatten",
+      "g": [
+        5
+      ]
+    },
+    "table_for_two": {
+      "t": "Ett bord för två, tack",
+      "g": [
+        3
+      ]
+    },
+    "the_bill_please": "Notan, tack",
+    "i_am_thirsty": "Jag är törstig",
+    "it_is_delicious": {
+      "t": "Det är utsökt",
+      "g": [
+        2
+      ]
+    },
+    "thank_you_very_much": "Tack så mycket",
+    "monday": "måndag",
+    "tuesday": "tisdag",
+    "sunday": "söndag",
+    "friday": "fredag",
+    "thursday": "torsdag",
+    "saturday": "lördag",
+    "wednesday": "onsdag",
+    "week": "vecka",
+    "today": "idag",
+    "tomorrow": "imorgon",
+    "yesterday": "igår",
+    "today_is_monday": {
+      "t": "Idag är det måndag",
+      "g": [
+        3
+      ]
+    },
+    "tomorrow_is_friday": "Imorgon är det fredag",
+    "i_work_monday": {
+      "t": "Jag arbetar på måndagar",
+      "g": [
+        3
+      ]
+    },
+    "what_day_today": {
+      "t": "Vilken dag är det idag?",
+      "g": [
+        1
+      ]
+    },
+    "week_seven": {
+      "t": "En vecka har sju dagar",
+      "g": [
+        3
+      ]
+    },
+    "morning": "morgon",
+    "night": "natt",
+    "evening": "kväll",
+    "clock": "klocka",
+    "now": "nu",
+    "afternoon": "eftermiddag",
+    "early": "tidigt",
+    "late": "sent",
+    "what_time": {
+      "t": "Vad är klockan?",
+      "g": [
+        2
+      ]
+    },
+    "its_three": {
+      "t": "Klockan är tre",
+      "g": [
+        2
+      ]
+    },
+    "wake_at_seven": {
+      "t": "Jag vaknar klockan sju",
+      "g": [
+        3
+      ]
+    },
+    "see_you_evening": {
+      "t": "Vi ses i kväll",
+      "g": [
+        3
+      ]
+    },
+    "good_evening": "God kväll",
+    "im_late": "Jag är sen",
+    "house": "hus",
+    "room": "rum",
+    "kitchen": "kök",
+    "door": "dörr",
+    "window": "fönster",
+    "table": "bord",
+    "bed": "säng",
+    "chair": "stol",
+    "this_is_my_house": "Det här är mitt hus",
+    "open_the_door": "Öppna dörren, snälla",
+    "my_room_is_small": {
+      "t": "Mitt rum är litet",
+      "g": [
+        3
+      ]
+    },
+    "the_kitchen_is_big": {
+      "t": "Köket är stort",
+      "g": [
+        2
+      ]
+    },
+    "the_book_on_table": {
+      "t": "Boken ligger på bordet",
+      "g": [
+        3
+      ]
+    },
+    "sit_on_chair": "Sätt dig på stolen, snälla",
+    "read": "läsa",
+    "write": "skriva",
+    "sleep": "sova",
+    "run": "springa",
+    "walk": "promenera",
+    "play": "spela",
+    "study": "studera",
+    "book": "bok",
+    "i_read_book": "Jag läser en bok",
+    "school": "skola",
+    "we_walk_school": {
+      "t": "Vi går till skolan",
+      "g": [
+        3
+      ]
+    },
+    "i_write_letter": {
+      "t": "Jag skriver ett brev",
+      "g": [
+        1
+      ]
+    },
+    "she_runs_fast": {
+      "t": "Hon springer snabbt",
+      "g": [
+        1
+      ]
+    },
+    "i_sleep_night": "Jag sover på natten",
+    "they_play_football": "De spelar fotboll",
+    "do_you_read_daily": {
+      "t": "Läser du varje dag?",
+      "g": [
+        0
+      ]
+    },
+    "happy": "glad",
+    "sad": "ledsen",
+    "tired": "trött",
+    "angry": "arg",
+    "scared": "rädd",
+    "excited": "upphetsad",
+    "i_am_happy": "Jag är glad",
+    "why_are_you_sad": "Varför är du ledsen?",
+    "she_is_sad": {
+      "t": "Hon är ledsen",
+      "g": [
+        2
+      ]
+    },
+    "are_you_okay": {
+      "t": "Mår du bra?",
+      "g": [
+        2
+      ]
+    },
+    "i_am_not_angry": {
+      "t": "Jag är inte arg",
+      "g": [
+        3
+      ]
+    },
+    "he_is_tired": "Han är trött",
+    "we_are_excited": {
+      "t": "Vi är upphetsade",
+      "g": [
+        2
+      ]
+    },
+    "shirt": "skjorta",
+    "shoes": "skor",
+    "hat": "hatt",
+    "dress": "klänning",
+    "pants": "byxor",
+    "jacket": "jacka",
+    "i_wear_shirt": "Jag har på mig en blå skjorta",
+    "she_has_red_dress": {
+      "t": "Hon har en röd klänning",
+      "g": [
+        4
+      ]
+    },
+    "my_shoes_are_black": {
+      "t": "Mina skor är svarta",
+      "g": [
+        3
+      ]
+    },
+    "the_hat_is_white": {
+      "t": "Hatten är vit",
+      "g": [
+        2
+      ]
+    },
+    "put_on_jacket": "Ta på dig jackan",
+    "it_is_cold": {
+      "t": "Det är kallt",
+      "g": [
+        2
+      ]
+    },
+    "sun": "sol",
+    "rain": "regn",
+    "snow": "snö",
+    "wind": "vind",
+    "cloud": "moln",
+    "hot": "varm",
+    "cold": "kall",
+    "summer": "sommar",
+    "it_is_raining": {
+      "t": "Det regnar",
+      "g": [
+        1
+      ]
+    },
+    "weather_today": {
+      "t": "Hur är vädret?",
+      "g": [
+        2
+      ]
+    },
+    "summer_is_hot": {
+      "t": "Sommaren är varm",
+      "g": [
+        2
+      ]
+    },
+    "it_is_sunny": {
+      "t": "Det är soligt idag",
+      "g": [
+        2
+      ]
+    },
+    "bring_umbrella": "Ta med ett paraply",
+    "i_like_snow": "Jag gillar snö",
+    "winter_cold": {
+      "t": "Vintern är kall",
+      "g": [
+        2
+      ]
+    },
+    "winter": "vinter",
+    "street": "gata",
+    "shop": "affär",
+    "park": "park",
+    "hospital": "sjukhus",
+    "bank": "bank",
+    "bus": "buss",
+    "car": "bil",
+    "where_is_bank": "Var ligger banken?",
+    "the_park_is_near": {
+      "t": "Parken är nära",
+      "g": [
+        2
+      ]
+    },
+    "i_take_bus": {
+      "t": "Jag tar bussen",
+      "g": [
+        2
+      ]
+    },
+    "the_shop_is_open": {
+      "t": "Affären är öppen",
+      "g": [
+        2
+      ]
+    },
+    "turn_left": "Sväng vänster",
+    "go_straight": "Gå rakt fram",
+    "hospital_far": {
+      "t": "Sjukhuset är långt bort",
+      "g": [
+        2
+      ]
+    },
+    "head": "huvud",
+    "hand": "hand",
+    "foot": "fot",
+    "eye": "öga",
+    "ear": "öra",
+    "nose": "näsa",
+    "mouth": "mun",
+    "i_have_two_eyes": {
+      "t": "Jag har två ögon",
+      "g": [
+        3
+      ]
+    },
+    "raise_hand": "Räck upp handen",
+    "wash_hands": {
+      "t": "Tvätta händerna",
+      "g": [
+        1
+      ]
+    },
+    "touch_nose": {
+      "t": "Rör vid din näsa",
+      "g": [
+        3
+      ]
+    },
+    "my_head_hurts": "Mitt huvud gör ont",
+    "i_hear_ears": {
+      "t": "Jag hör med mina öron",
+      "g": [
+        4
+      ]
+    },
+    "doctor": "läkare",
+    "medicine": "medicin",
+    "fever": "feber",
+    "headache": "huvudvärk",
+    "sick": "sjuk",
+    "healthy": "frisk",
+    "i_have_headache": "Jag har huvudvärk",
+    "call_doctor": {
+      "t": "Ring en läkare, snälla",
+      "g": [
+        2
+      ]
+    },
+    "take_medicine": {
+      "t": "Ta din medicin",
+      "g": [
+        2
+      ]
+    },
+    "healthy_food": {
+      "t": "Jag gillar nyttig mat",
+      "g": [
+        2
+      ]
+    },
+    "i_feel_sick": "Jag känner mig sjuk",
+    "sleep_early": {
+      "t": "Jag försöker sova tidigt",
+      "g": [
+        2
+      ]
+    },
+    "drink_water_often": "Drick vatten varje dag",
+    "teacher": "lärare",
+    "driver": "förare",
+    "engineer": "ingenjör",
+    "nurse": "sjuksköterska",
+    "farmer": "bonde",
+    "chef": "kock",
+    "my_father_teacher": "Min pappa är lärare",
+    "she_is_nurse": "Hon är sjuksköterska",
+    "my_mother_doctor": {
+      "t": "Min mamma är läkare",
+      "g": [
+        3
+      ]
+    },
+    "i_am_engineer": {
+      "t": "Jag är ingenjör",
+      "g": [
+        2
+      ]
+    },
+    "what_do_you_do": {
+      "t": "Vad har du för yrke?",
+      "g": [
+        4
+      ]
+    },
+    "they_are_teachers": "De är lärare",
+    "he_is_driver": {
+      "t": "Han är bussförare",
+      "g": [
+        2
+      ]
+    },
+    "office": "kontor",
+    "meeting": "möte",
+    "boss": "chef",
+    "colleague": "kollega",
+    "computer": "dator",
+    "work": "arbete",
+    "i_work_in_office": "Jag arbetar på ett kontor",
+    "the_meeting_is_at_ten": "Mötet är klockan tio",
+    "i_help_colleagues": {
+      "t": "Jag hjälper ofta mina kollegor",
+      "g": [
+        4
+      ]
+    },
+    "i_arrive_on_time": {
+      "t": "Jag kommer i tid till jobbet",
+      "g": [
+        1
+      ]
+    },
+    "i_respect_coworkers": "Jag respekterar mina kollegor",
+    "teamwork_easier": {
+      "t": "Teamwork gör arbetet lättare",
+      "g": [
+        3
+      ]
+    },
+    "where_is_boss": {
+      "t": "Var är chefen?",
+      "g": [
+        2
+      ]
+    },
+    "price": "pris",
+    "money": "pengar",
+    "bag": "väska",
+    "cheap": "billig",
+    "expensive": "dyr",
+    "how_much_is_it": "Hur mycket kostar det?",
+    "it_is_expensive": {
+      "t": "Det är för dyrt",
+      "g": [
+        3
+      ]
+    },
+    "i_want_this": {
+      "t": "Jag vill ha det här",
+      "g": [
+        1
+      ]
+    },
+    "i_save_money": {
+      "t": "Jag försöker spara pengar",
+      "g": [
+        2
+      ]
+    },
+    "i_need_this": "Jag behöver det här",
+    "i_like_it": "Jag gillar det",
+    "i_dont_want": "Jag vill inte ha det här",
+    "i_compare_prices": {
+      "t": "Jag jämför priserna",
+      "g": [
+        1
+      ]
+    },
+    "sit": "sitt",
+    "stand": "stå",
+    "wait": "vänta",
+    "look": "titta",
+    "listen": "lyssna",
+    "come": "kom",
+    "go": "gå",
+    "come_with_me": {
+      "t": "Följ med mig",
+      "g": [
+        2
+      ]
+    },
+    "wait_minute": "Vänta en minut",
+    "look_at_this": {
+      "t": "Titta på detta",
+      "g": [
+        2
+      ]
+    },
+    "lets_eat": {
+      "t": "Ska vi äta?",
+      "g": [
+        2
+      ]
+    },
+    "come_here": "Kom hit",
+    "listen_to_me": "Lyssna på mig",
+    "sit_down": {
+      "t": "Sätt dig, snälla",
+      "g": [
+        2
+      ]
+    },
+    "lets_go": "Nu går vi",
+    "where": "var",
+    "what": "vad",
+    "who": "vem",
+    "why": "varför",
+    "when": "när",
+    "how": "hur",
+    "what_is_this": {
+      "t": "Vad är detta?",
+      "g": [
+        2
+      ]
+    },
+    "how_old": {
+      "t": "Hur gammal är du?",
+      "g": [
+        1
+      ]
+    },
+    "when_is_class": {
+      "t": "När är lektionen?",
+      "g": [
+        2
+      ]
+    },
+    "why_are_you_late": {
+      "t": "Varför är du sen?",
+      "g": [
+        3
+      ]
+    },
+    "where_is_it": "Var är det?",
+    "who_is_he": "Vem är han?",
+    "i_dont_know": "Jag vet inte",
+    "pen": "penna",
+    "cat": "katt",
+    "dog": "hund",
+    "tree": "träd",
+    "this": "detta",
+    "that": "det där",
+    "this_is_my_book": "Det här är min bok",
+    "that_is_pen": "Det där är en penna",
+    "this_is_chair": {
+      "t": "Detta är en stol",
+      "g": [
+        3
+      ]
+    },
+    "that_is_table": {
+      "t": "Det där är ett bord",
+      "g": [
+        4
+      ]
+    },
+    "it_is_cat": "Det är en katt",
+    "what_is_that": {
+      "t": "Vad är det där?",
+      "g": [
+        2
+      ]
+    },
+    "this_is_my_dog": {
+      "t": "Det här är min hund",
+      "g": [
+        4
+      ]
+    },
+    "i_like_that_tree": {
+      "t": "Jag gillar det trädet",
+      "g": [
+        3
+      ]
+    },
+    "phone": "telefon",
+    "keys": "nycklar",
+    "wallet": "plånbok",
+    "glasses": "glasögon",
+    "notebook": "anteckningsbok",
+    "i_have_phone": "Jag har en telefon",
+    "where_are_keys": "Var är mina nycklar?",
+    "this_is_my_wallet": {
+      "t": "Det här är min plånbok",
+      "g": [
+        4
+      ]
+    },
+    "i_need_glasses": {
+      "t": "Jag behöver mina glasögon",
+      "g": [
+        3
+      ]
+    },
+    "my_phone_is_new": "Min telefon är ny",
+    "i_write_in_notebook": {
+      "t": "Jag skriver i min anteckningsbok",
+      "g": [
+        4
+      ]
+    },
+    "put_phone_in_bag": {
+      "t": "Lägg telefonen i väskan",
+      "g": [
+        3
+      ]
+    },
+    "time": "tid",
+    "he_has_car": "Han har en bil",
+    "she_has_bag": {
+      "t": "Hon har en väska",
+      "g": [
+        3
+      ]
+    },
+    "i_dont_have_time": {
+      "t": "Jag har ingen tid",
+      "g": [
+        3
+      ]
+    },
+    "i_have_one_brother": {
+      "t": "Jag har en bror",
+      "g": [
+        3
+      ]
+    },
+    "do_you_have_pen": {
+      "t": "Har du en penna?",
+      "g": [
+        3
+      ]
+    },
+    "i_have_two_sisters": "Jag har två systrar"
+  }
+}
