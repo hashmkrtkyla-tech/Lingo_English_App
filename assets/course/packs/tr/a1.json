@@ -1,0 +1,886 @@
+{
+  "titles": {
+    "a1_01": "Merhaba, dünya",
+    "a1_02": "Adım, ülkem",
+    "a1_03": "Ailem",
+    "a1_04": "Birden ona kadar sayılar",
+    "a1_05": "Etrafımdaki renkler",
+    "a1_06": "Ne yerim?",
+    "a1_07": "Yemek sipariş etme",
+    "a1_08": "Haftanın günleri",
+    "a1_09": "Saat ve zaman",
+    "a1_10": "Evim",
+    "a1_11": "Günlük hareketlerim",
+    "a1_12": "Nasıl hissediyorum",
+    "a1_13": "Ne giyiyorum?",
+    "a1_14": "Hava durumu",
+    "a1_15": "Şehirde",
+    "a1_16": "Vücudum",
+    "a1_17": "Sağlığım",
+    "a1_18": "Meslekler",
+    "a1_19": "İş yerinde",
+    "a1_20": "Alışveriş ve fiyatlar",
+    "a1_21": "Basit komutlar",
+    "a1_22": "İlk sorularım",
+    "a1_23": "Bu ve şu",
+    "a1_24": "Eşyalarım",
+    "a1_25": "Var, yok"
+  },
+  "c": {
+    "hello": "Merhaba!",
+    "thanks": "Teşekkürler",
+    "yes": "Evet",
+    "hi": "Selam!",
+    "goodbye": "Hoşça kal!",
+    "please": "Lütfen",
+    "good_morning": {
+      "t": "Hayırlı sabahlar",
+      "g": [
+        1
+      ]
+    },
+    "good_night": "İyi geceler",
+    "how_are_you": {
+      "t": "Halin nasıl?",
+      "g": [
+        1
+      ]
+    },
+    "no": "Hayır",
+    "im_fine": {
+      "t": "Ben iyiyim",
+      "g": [
+        1
+      ]
+    },
+    "sorry": "Özür dilerim",
+    "welcome": {
+      "t": "Rica ederim",
+      "g": [
+        1
+      ]
+    },
+    "my_name_is": {
+      "t": "Benim adım Anna",
+      "g": [
+        1
+      ]
+    },
+    "i_am_from": {
+      "t": "Ben Mısır'dan geliyorum",
+      "g": [
+        1
+      ]
+    },
+    "whats_your_name": {
+      "t": "Senin adın ne?",
+      "g": [
+        1
+      ]
+    },
+    "where_from": "Sen nerelisin?",
+    "nice_meet": {
+      "t": "Tanıştığımıza memnun oldum",
+      "g": [
+        1
+      ]
+    },
+    "name": "isim",
+    "country": "ülke",
+    "friend": "arkadaş",
+    "you": "sen",
+    "i_am_student": "Ben öğrenciyim",
+    "i": "ben",
+    "student": "öğrenci",
+    "mom": "anne",
+    "dad": "baba",
+    "sister": "kız kardeş",
+    "brother": "erkek kardeş",
+    "this_is_my_mom": {
+      "t": "Bu benim annem",
+      "g": [
+        2
+      ]
+    },
+    "this_is_my_dad": "Bu benim babam",
+    "this_is_my_sister": {
+      "t": "Bu benim kız kardeşim",
+      "g": [
+        3
+      ]
+    },
+    "this_is_my_brother": {
+      "t": "Bu benim erkek kardeşim",
+      "g": [
+        3
+      ]
+    },
+    "family": "aile",
+    "grandma": "büyükanne",
+    "mom_and_dad": {
+      "t": "Annem ve babam",
+      "g": [
+        2
+      ]
+    },
+    "grandpa": "büyükbaba",
+    "have_sister": {
+      "t": "Bir kız kardeşim var",
+      "g": [
+        2
+      ]
+    },
+    "i_love_family": "Ailemi seviyorum",
+    "one": "bir",
+    "two": "iki",
+    "three": "üç",
+    "four": "dört",
+    "five": "beş",
+    "six": "altı",
+    "seven": "yedi",
+    "eight": "sekiz",
+    "nine": "dokuz",
+    "ten": "on",
+    "count_1_5": "Bir, iki, üç, dört, beş",
+    "i_have_two_brothers": "İki erkek kardeşim var",
+    "i_am_ten": {
+      "t": "Ben on yaşındayım",
+      "g": [
+        2
+      ]
+    },
+    "i_have_five_books": {
+      "t": "Beş kitabım var",
+      "g": [
+        0
+      ]
+    },
+    "red": "kırmızı",
+    "blue": "mavi",
+    "green": "yeşil",
+    "yellow": "sarı",
+    "black": "siyah",
+    "white": "beyaz",
+    "color": "renk",
+    "apple": "elma",
+    "sky_blue": {
+      "t": "Gökyüzü mavi",
+      "g": [
+        1
+      ]
+    },
+    "apple_red": {
+      "t": "Elma kırmızı",
+      "g": [
+        1
+      ]
+    },
+    "i_like_green": {
+      "t": "Yeşili severim",
+      "g": [
+        1
+      ]
+    },
+    "what_color": {
+      "t": "Bu hangi renk?",
+      "g": [
+        2
+      ]
+    },
+    "it_is_yellow": "Bu sarı",
+    "water": "su",
+    "milk": "süt",
+    "tea": "çay",
+    "bread": "ekmek",
+    "rice": "pirinç",
+    "egg": "yumurta",
+    "coffee": "kahve",
+    "breakfast": "kahvaltı",
+    "i_eat_bread": {
+      "t": "Ekmek yerim",
+      "g": [
+        0
+      ]
+    },
+    "i_drink_water": "Su içerim",
+    "i_like_milk": {
+      "t": "Süt severim",
+      "g": [
+        1
+      ]
+    },
+    "do_you_like_tea": {
+      "t": "Çay sever misin?",
+      "g": [
+        1
+      ]
+    },
+    "i_want_coffee": {
+      "t": "Bir kahve istiyorum",
+      "g": [
+        1
+      ]
+    },
+    "she_eats_rice": "O pirinç yer",
+    "menu": "menü",
+    "bill": "hesap",
+    "waiter": "garson",
+    "hungry": "aç",
+    "thirsty": "susuz",
+    "delicious": "lezzetli",
+    "i_am_hungry": "Ben açım",
+    "can_i_see_menu": {
+      "t": "Menüye bakabilir miyim?",
+      "g": [
+        0
+      ]
+    },
+    "id_like_water": {
+      "t": "Biraz su istiyorum",
+      "g": [
+        2
+      ]
+    },
+    "table_for_two": {
+      "t": "İki kişilik masa, lütfen",
+      "g": [
+        2
+      ]
+    },
+    "the_bill_please": "Hesap, lütfen",
+    "i_am_thirsty": "Ben susadım",
+    "it_is_delicious": {
+      "t": "Çok lezzetli",
+      "g": [
+        1
+      ]
+    },
+    "thank_you_very_much": "Çok teşekkür ederim",
+    "monday": "pazartesi",
+    "tuesday": "salı",
+    "sunday": "pazar",
+    "friday": "cuma",
+    "thursday": "perşembe",
+    "saturday": "cumartesi",
+    "wednesday": "çarşamba",
+    "week": "hafta",
+    "today": "bugün",
+    "tomorrow": "yarın",
+    "yesterday": "dün",
+    "today_is_monday": {
+      "t": "Bugün pazartesi",
+      "g": [
+        1
+      ]
+    },
+    "tomorrow_is_friday": "Yarın cuma",
+    "i_work_monday": {
+      "t": "Pazartesi çalışırım",
+      "g": [
+        1
+      ]
+    },
+    "what_day_today": {
+      "t": "Bugün hangi gün?",
+      "g": [
+        2
+      ]
+    },
+    "week_seven": {
+      "t": "Bir haftada yedi gün var",
+      "g": [
+        2
+      ]
+    },
+    "morning": "sabah",
+    "night": "gece",
+    "evening": "akşam",
+    "clock": "saat",
+    "now": "şimdi",
+    "afternoon": "öğleden sonra",
+    "early": "erken",
+    "late": "geç",
+    "what_time": {
+      "t": "Saat kaç?",
+      "g": [
+        1
+      ]
+    },
+    "its_three": {
+      "t": "Saat üç",
+      "g": [
+        0
+      ]
+    },
+    "wake_at_seven": {
+      "t": "Saat yedide uyanırım",
+      "g": [
+        1
+      ]
+    },
+    "see_you_evening": {
+      "t": "Akşam görüşürüz",
+      "g": [
+        0
+      ]
+    },
+    "good_evening": "İyi akşamlar",
+    "im_late": "Geç kaldım",
+    "house": "ev",
+    "room": "oda",
+    "kitchen": "mutfak",
+    "door": "kapı",
+    "window": "pencere",
+    "table": "masa",
+    "bed": "yatak",
+    "chair": "sandalye",
+    "this_is_my_house": "Bu benim evim",
+    "open_the_door": "Lütfen kapıyı aç",
+    "my_room_is_small": {
+      "t": "Odam küçük",
+      "g": [
+        1
+      ]
+    },
+    "the_kitchen_is_big": {
+      "t": "Mutfak büyük",
+      "g": [
+        1
+      ]
+    },
+    "the_book_on_table": {
+      "t": "Kitap masanın üstünde",
+      "g": [
+        1
+      ]
+    },
+    "sit_on_chair": "Lütfen sandalyeye otur",
+    "read": "okumak",
+    "write": "yazmak",
+    "sleep": "uyumak",
+    "run": "koşmak",
+    "walk": "yürümek",
+    "play": "oynamak",
+    "study": "ders çalışmak",
+    "book": "kitap",
+    "i_read_book": "Bir kitap okuyorum",
+    "school": "okul",
+    "we_walk_school": {
+      "t": "Okula yürüyerek gidiyoruz",
+      "g": [
+        1
+      ]
+    },
+    "i_write_letter": {
+      "t": "Bir mektup yazıyorum",
+      "g": [
+        1
+      ]
+    },
+    "she_runs_fast": {
+      "t": "O hızlı koşuyor",
+      "g": [
+        2
+      ]
+    },
+    "i_sleep_night": "Geceleri uyurum",
+    "they_play_football": {
+      "t": "Onlar futbol oynuyor",
+      "g": [
+        2
+      ]
+    },
+    "do_you_read_daily": {
+      "t": "Her gün okuyor musun?",
+      "g": [
+        2
+      ]
+    },
+    "happy": "mutlu",
+    "sad": "üzgün",
+    "tired": "yorgun",
+    "angry": "kızgın",
+    "scared": "korkmuş",
+    "excited": "heyecanlı",
+    "i_am_happy": "Ben mutluyum",
+    "why_are_you_sad": {
+      "t": "Neden üzgünsün?",
+      "g": [
+        1
+      ]
+    },
+    "she_is_sad": {
+      "t": "O üzgün",
+      "g": [
+        1
+      ]
+    },
+    "are_you_okay": {
+      "t": "İyi misin?",
+      "g": [
+        0
+      ]
+    },
+    "i_am_not_angry": {
+      "t": "Ben kızgın değilim",
+      "g": [
+        1
+      ]
+    },
+    "he_is_tired": "O yorgun",
+    "we_are_excited": {
+      "t": "Biz heyecanlıyız",
+      "g": [
+        1
+      ]
+    },
+    "shirt": "gömlek",
+    "shoes": "ayakkabı",
+    "hat": "şapka",
+    "dress": "elbise",
+    "pants": "pantolon",
+    "jacket": "ceket",
+    "i_wear_shirt": "Mavi bir gömlek giyiyorum",
+    "she_has_red_dress": {
+      "t": "Onun kırmızı bir elbisesi var",
+      "g": [
+        3
+      ]
+    },
+    "my_shoes_are_black": {
+      "t": "Ayakkabılarım siyah",
+      "g": [
+        1
+      ]
+    },
+    "the_hat_is_white": {
+      "t": "Şapka beyaz",
+      "g": [
+        1
+      ]
+    },
+    "put_on_jacket": "Ceketini giy",
+    "it_is_cold": {
+      "t": "Hava soğuk",
+      "g": [
+        1
+      ]
+    },
+    "sun": "güneş",
+    "rain": "yağmur",
+    "snow": "kar",
+    "wind": "rüzgar",
+    "cloud": "bulut",
+    "hot": "sıcak",
+    "cold": "soğuk",
+    "summer": "yaz",
+    "it_is_raining": {
+      "t": "Yağmur yağıyor",
+      "g": [
+        0
+      ]
+    },
+    "weather_today": {
+      "t": "Bugün hava nasıl?",
+      "g": [
+        2
+      ]
+    },
+    "summer_is_hot": {
+      "t": "Yaz sıcak",
+      "g": [
+        1
+      ]
+    },
+    "it_is_sunny": {
+      "t": "Bugün hava güneşli",
+      "g": [
+        2
+      ]
+    },
+    "bring_umbrella": "Şemsiye al",
+    "i_like_snow": "Karı severim",
+    "winter_cold": {
+      "t": "Kış soğuk",
+      "g": [
+        1
+      ]
+    },
+    "winter": "kış",
+    "street": "sokak",
+    "shop": "dükkan",
+    "park": "park",
+    "hospital": "hastane",
+    "bank": "banka",
+    "bus": "otobüs",
+    "car": "araba",
+    "where_is_bank": {
+      "t": "Banka nerede?",
+      "g": [
+        1
+      ]
+    },
+    "the_park_is_near": {
+      "t": "Park buraya yakın",
+      "g": [
+        2
+      ]
+    },
+    "i_take_bus": {
+      "t": "Otobüse biniyorum",
+      "g": [
+        0
+      ]
+    },
+    "the_shop_is_open": {
+      "t": "Dükkan açık",
+      "g": [
+        1
+      ]
+    },
+    "turn_left": "Sola dön",
+    "go_straight": "Düz git",
+    "hospital_far": {
+      "t": "Hastane uzak",
+      "g": [
+        1
+      ]
+    },
+    "head": "baş",
+    "hand": "el",
+    "foot": "ayak",
+    "eye": "göz",
+    "ear": "kulak",
+    "nose": "burun",
+    "mouth": "ağız",
+    "i_have_two_eyes": {
+      "t": "İki gözüm var",
+      "g": [
+        1
+      ]
+    },
+    "raise_hand": "Elini kaldır",
+    "wash_hands": {
+      "t": "Ellerini yıka",
+      "g": [
+        0
+      ]
+    },
+    "touch_nose": {
+      "t": "Burnuna dokun",
+      "g": [
+        0
+      ]
+    },
+    "my_head_hurts": "Başım ağrıyor",
+    "i_hear_ears": {
+      "t": "Kulaklarımla duyuyorum",
+      "g": [
+        1
+      ]
+    },
+    "doctor": "doktor",
+    "medicine": "ilaç",
+    "fever": "ateş",
+    "headache": "baş ağrısı",
+    "sick": "hasta",
+    "healthy": "sağlıklı",
+    "i_have_headache": "Baş ağrım var",
+    "call_doctor": {
+      "t": "Lütfen bir doktor çağır",
+      "g": [
+        2
+      ]
+    },
+    "take_medicine": {
+      "t": "İlacını al",
+      "g": [
+        0
+      ]
+    },
+    "healthy_food": {
+      "t": "Sağlıklı yemeği severim",
+      "g": [
+        0
+      ]
+    },
+    "i_feel_sick": "Kendimi hasta hissediyorum",
+    "sleep_early": {
+      "t": "Erken yatmaya çalışıyorum",
+      "g": [
+        1
+      ]
+    },
+    "drink_water_often": "Her gün su iç",
+    "teacher": "öğretmen",
+    "driver": "şoför",
+    "engineer": "mühendis",
+    "nurse": "hemşire",
+    "farmer": "çiftçi",
+    "chef": "aşçı",
+    "my_father_teacher": "Babam öğretmen",
+    "she_is_nurse": "O hemşire",
+    "my_mother_doctor": {
+      "t": "Annem doktor",
+      "g": [
+        1
+      ]
+    },
+    "i_am_engineer": {
+      "t": "Ben mühendisim",
+      "g": [
+        1
+      ]
+    },
+    "what_do_you_do": {
+      "t": "Mesleğin nedir?",
+      "g": [
+        1
+      ]
+    },
+    "they_are_teachers": "Onlar öğretmen",
+    "he_is_driver": {
+      "t": "O otobüs şoförü",
+      "g": [
+        2
+      ]
+    },
+    "office": "ofis",
+    "meeting": "toplantı",
+    "boss": "patron",
+    "colleague": "meslektaş",
+    "computer": "bilgisayar",
+    "work": "iş",
+    "i_work_in_office": "Bir ofiste çalışıyorum",
+    "the_meeting_is_at_ten": "Toplantı saat onda",
+    "i_help_colleagues": {
+      "t": "Meslektaşlarıma sık sık yardım ederim",
+      "g": [
+        3
+      ]
+    },
+    "i_arrive_on_time": {
+      "t": "İşe zamanında varırım",
+      "g": [
+        2
+      ]
+    },
+    "i_respect_coworkers": "İş arkadaşlarıma saygı duyarım",
+    "teamwork_easier": {
+      "t": "Takım çalışması işi kolaylaştırır",
+      "g": [
+        3
+      ]
+    },
+    "where_is_boss": {
+      "t": "Patron nerede?",
+      "g": [
+        1
+      ]
+    },
+    "price": "fiyat",
+    "money": "para",
+    "bag": "çanta",
+    "cheap": "ucuz",
+    "expensive": "pahalı",
+    "how_much_is_it": "Bu ne kadar?",
+    "it_is_expensive": {
+      "t": "Bu çok pahalı",
+      "g": [
+        2
+      ]
+    },
+    "i_want_this": {
+      "t": "Bunu istiyorum",
+      "g": [
+        1
+      ]
+    },
+    "i_save_money": {
+      "t": "Para biriktirmeye çalışıyorum",
+      "g": [
+        1
+      ]
+    },
+    "i_need_this": "Buna ihtiyacım var",
+    "i_like_it": "Hoşuma gitti",
+    "i_dont_want": "Bunu istemiyorum",
+    "i_compare_prices": {
+      "t": "Fiyatları karşılaştırırım",
+      "g": [
+        1
+      ]
+    },
+    "sit": "otur",
+    "stand": "kalk",
+    "wait": "bekle",
+    "look": "bak",
+    "listen": "dinle",
+    "come": "gel",
+    "go": "git",
+    "come_with_me": {
+      "t": "Benimle gel",
+      "g": [
+        1
+      ]
+    },
+    "wait_minute": "Bir dakika bekle",
+    "look_at_this": {
+      "t": "Şuna bak",
+      "g": [
+        1
+      ]
+    },
+    "lets_eat": {
+      "t": "Hadi yemek yiyelim",
+      "g": [
+        1
+      ]
+    },
+    "come_here": "Buraya gel",
+    "listen_to_me": "Beni dinle",
+    "sit_down": {
+      "t": "Lütfen otur",
+      "g": [
+        1
+      ]
+    },
+    "lets_go": "Hadi gidelim",
+    "where": "nerede",
+    "what": "ne",
+    "who": "kim",
+    "why": "neden",
+    "when": "ne zaman",
+    "how": "nasıl",
+    "what_is_this": {
+      "t": "Bu nedir?",
+      "g": [
+        1
+      ]
+    },
+    "how_old": {
+      "t": "Kaç yaşındasın?",
+      "g": [
+        1
+      ]
+    },
+    "when_is_class": {
+      "t": "Ders ne zaman?",
+      "g": [
+        2
+      ]
+    },
+    "why_are_you_late": {
+      "t": "Neden geç kaldın?",
+      "g": [
+        1
+      ]
+    },
+    "where_is_it": "O nerede?",
+    "who_is_he": "O kim?",
+    "i_dont_know": "Bilmiyorum",
+    "pen": "kalem",
+    "cat": "kedi",
+    "dog": "köpek",
+    "tree": "ağaç",
+    "this": "bu",
+    "that": "şu",
+    "this_is_my_book": "Bu benim kitabım",
+    "that_is_pen": "Şu bir kalem",
+    "this_is_chair": {
+      "t": "Bu bir sandalye",
+      "g": [
+        2
+      ]
+    },
+    "that_is_table": {
+      "t": "Şu bir masa",
+      "g": [
+        2
+      ]
+    },
+    "it_is_cat": "Bu bir kedi",
+    "what_is_that": {
+      "t": "Şu nedir?",
+      "g": [
+        1
+      ]
+    },
+    "this_is_my_dog": {
+      "t": "Bu benim köpeğim",
+      "g": [
+        2
+      ]
+    },
+    "i_like_that_tree": {
+      "t": "O ağacı severim",
+      "g": [
+        2
+      ]
+    },
+    "phone": "telefon",
+    "keys": "anahtarlar",
+    "wallet": "cüzdan",
+    "glasses": "gözlük",
+    "notebook": "defter",
+    "i_have_phone": "Bir telefonum var",
+    "where_are_keys": {
+      "t": "Anahtarlarım nerede?",
+      "g": [
+        1
+      ]
+    },
+    "this_is_my_wallet": {
+      "t": "Bu benim cüzdanım",
+      "g": [
+        2
+      ]
+    },
+    "i_need_glasses": {
+      "t": "Gözlüğüme ihtiyacım var",
+      "g": [
+        0
+      ]
+    },
+    "my_phone_is_new": "Telefonum yeni",
+    "i_write_in_notebook": {
+      "t": "Defterime yazıyorum",
+      "g": [
+        1
+      ]
+    },
+    "put_phone_in_bag": {
+      "t": "Telefonu çantaya koy",
+      "g": [
+        1
+      ]
+    },
+    "time": "zaman",
+    "he_has_car": "Onun bir arabası var",
+    "she_has_bag": {
+      "t": "Onun bir çantası var",
+      "g": [
+        2
+      ]
+    },
+    "i_dont_have_time": {
+      "t": "Zamanım yok",
+      "g": [
+        0
+      ]
+    },
+    "i_have_one_brother": {
+      "t": "Bir erkek kardeşim var",
+      "g": [
+        2
+      ]
+    },
+    "do_you_have_pen": {
+      "t": "Bir kalemin var mı?",
+      "g": [
+        1
+      ]
+    },
+    "i_have_two_sisters": "İki kız kardeşim var"
+  }
+}
