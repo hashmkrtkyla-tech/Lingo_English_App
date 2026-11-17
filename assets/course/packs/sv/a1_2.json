@@ -1,0 +1,842 @@
+{
+  "titles": {
+    "a1_26": "Jag, du, vi, de",
+    "a1_27": "Jag gillar, jag gillar inte",
+    "a1_28": "Jag vill, jag behöver",
+    "a1_29": "Förstår du mig?",
+    "a1_30": "Tack och förlåt",
+    "a1_31": "Min morgon",
+    "a1_32": "Min väg till jobbet",
+    "a1_33": "Kväll hemma",
+    "a1_34": "Laga mat hemma",
+    "a1_35": "På marknaden",
+    "a1_36": "Frukt och grönsaker",
+    "a1_37": "Helgen",
+    "a1_38": "Mina hobbyer",
+    "a1_39": "Sport",
+    "a1_40": "Min telefon",
+    "a1_41": "Ett telefonsamtal",
+    "a1_42": "På flygplatsen",
+    "a1_43": "På hotellet",
+    "a1_44": "På caféet",
+    "a1_45": "Transport",
+    "a1_46": "Skola och universitet",
+    "a1_47": "Mina vänner",
+    "a1_48": "Jag lär mig varje dag",
+    "a1_49": "Mina drömmar",
+    "a1_50": "Stor repetition"
+  },
+  "c": {
+    "we": "vi",
+    "they": "de",
+    "he": "han",
+    "she": "hon",
+    "we_are_students": "Vi är studenter",
+    "he_is_my_friend": {
+      "t": "Han är min vän",
+      "g": [
+        3
+      ]
+    },
+    "we_live_together": {
+      "t": "Vi bor tillsammans",
+      "g": [
+        2
+      ]
+    },
+    "you_are_kind": {
+      "t": "Du är snäll",
+      "g": [
+        2
+      ]
+    },
+    "she_is_my_sister": {
+      "t": "Hon är min syster",
+      "g": [
+        3
+      ]
+    },
+    "they_are_here": "De är här",
+    "music": "musik",
+    "movies": "filmer",
+    "juice": "juice",
+    "chocolate": "choklad",
+    "i_like_coffee": {
+      "t": "Jag gillar kaffe",
+      "g": [
+        2
+      ]
+    },
+    "do_you_like_movies": {
+      "t": "Gillar du filmer?",
+      "g": [
+        2
+      ]
+    },
+    "i_like_apples": {
+      "t": "Jag gillar äpplen",
+      "g": [
+        2
+      ]
+    },
+    "i_love_music": {
+      "t": "Jag älskar musik",
+      "g": [
+        2
+      ]
+    },
+    "i_dont_like_it": "Jag gillar det inte",
+    "she_likes_juice": {
+      "t": "Hon gillar juice",
+      "g": [
+        1
+      ]
+    },
+    "i_dont_like_cold": {
+      "t": "Jag gillar inte kallt väder",
+      "g": [
+        3
+      ]
+    },
+    "help": "hjälp",
+    "cup": "kopp",
+    "home": "hem",
+    "i_need_help": "Jag behöver hjälp",
+    "i_want_to_sleep": "Jag vill sova",
+    "i_need_water": {
+      "t": "Jag behöver vatten",
+      "g": [
+        1
+      ]
+    },
+    "do_you_need_help": {
+      "t": "Behöver du hjälp?",
+      "g": [
+        2
+      ]
+    },
+    "what_do_you_want": {
+      "t": "Vad vill du ha?",
+      "g": [
+        1
+      ]
+    },
+    "i_dont_want_that": "Jag vill inte ha det där",
+    "i_want_tea": {
+      "t": "Jag vill ha en kopp te",
+      "g": [
+        4
+      ]
+    },
+    "he_wants_home": {
+      "t": "Han vill gå hem",
+      "g": [
+        3
+      ]
+    },
+    "understand": "förstå",
+    "repeat": "upprepa",
+    "word": "ord",
+    "slowly": "långsamt",
+    "fast": "snabb",
+    "speak_slowly": {
+      "t": "Tala långsamt, snälla",
+      "g": [
+        1
+      ]
+    },
+    "can_you_help_me": "Kan du hjälpa mig?",
+    "i_dont_understand": {
+      "t": "Jag förstår inte",
+      "g": [
+        1
+      ]
+    },
+    "please_repeat": {
+      "t": "Upprepa det, snälla",
+      "g": [
+        0
+      ]
+    },
+    "do_you_understand_me": "Förstår du mig?",
+    "i_understand": "Jag förstår",
+    "how_do_you_say": {
+      "t": "Hur säger man det här?",
+      "g": [
+        1
+      ]
+    },
+    "what_does_it_mean": {
+      "t": "Vad betyder det här ordet?",
+      "g": [
+        1
+      ]
+    },
+    "excuse_me": "Ursäkta mig",
+    "no_problem": {
+      "t": "Inga problem",
+      "g": [
+        1
+      ]
+    },
+    "thats_okay": {
+      "t": "Det är okej",
+      "g": [
+        2
+      ]
+    },
+    "thanks_for_help": {
+      "t": "Tack för din hjälp",
+      "g": [
+        3
+      ]
+    },
+    "sorry_late": "Förlåt, jag är sen",
+    "see_you_later": {
+      "t": "Vi ses senare",
+      "g": [
+        2
+      ]
+    },
+    "have_nice_day": {
+      "t": "Ha en bra dag",
+      "g": [
+        3
+      ]
+    },
+    "im_sorry": {
+      "t": "Jag ber om ursäkt",
+      "g": [
+        3
+      ]
+    },
+    "see_you_tomorrow": {
+      "t": "Vi ses imorgon",
+      "g": [
+        2
+      ]
+    },
+    "alarm": "väckarklocka",
+    "towel": "handduk",
+    "soap": "tvål",
+    "shower": "dusch",
+    "teeth": "tänder",
+    "i_wake_up_early": "Jag vaknar tidigt",
+    "i_brush_teeth": "Jag borstar tänderna",
+    "i_take_shower": {
+      "t": "Jag tar en dusch",
+      "g": [
+        3
+      ]
+    },
+    "alarm_rings": {
+      "t": "Väckarklockan ringer klockan sex",
+      "g": [
+        0
+      ]
+    },
+    "i_eat_breakfast": {
+      "t": "Jag äter frukost klockan sju",
+      "g": [
+        2
+      ]
+    },
+    "i_make_bed": "Jag bäddar sängen",
+    "i_drink_coffee": {
+      "t": "Jag dricker kaffe på morgonen",
+      "g": [
+        2
+      ]
+    },
+    "train": "tåg",
+    "taxi": "taxi",
+    "ticket": "biljett",
+    "station": "station",
+    "traffic": "trafik",
+    "minute": "minut",
+    "i_take_train": {
+      "t": "Jag åker tåg till jobbet",
+      "g": [
+        2
+      ]
+    },
+    "it_takes_thirty": "Det tar trettio minuter",
+    "where_is_station": {
+      "t": "Var är stationen?",
+      "g": [
+        2
+      ]
+    },
+    "traffic_is_heavy": {
+      "t": "Trafiken är tät",
+      "g": [
+        2
+      ]
+    },
+    "take_taxi": "Vi tar en taxi",
+    "i_buy_ticket": {
+      "t": "Jag köper en biljett",
+      "g": [
+        3
+      ]
+    },
+    "i_listen_music_way": "Jag lyssnar på musik på vägen",
+    "dinner": "middag",
+    "lamp": "lampa",
+    "sofa": "soffa",
+    "tv": "tv",
+    "we_eat_dinner": {
+      "t": "Vi äter middag tillsammans",
+      "g": [
+        3
+      ]
+    },
+    "i_watch_tv": "Jag tittar på tv på kvällen",
+    "i_relax_sofa": {
+      "t": "Jag slappnar av i soffan",
+      "g": [
+        4
+      ]
+    },
+    "i_read_before_bed": {
+      "t": "Jag läser en bok innan jag sover",
+      "g": [
+        3
+      ]
+    },
+    "i_go_to_bed": {
+      "t": "Jag lägger mig klockan tio",
+      "g": [
+        4
+      ]
+    },
+    "turn_off_lamp": "Släck lampan",
+    "spoon": "sked",
+    "fork": "gaffel",
+    "knife": "kniv",
+    "plate": "tallrik",
+    "pot": "kastrull",
+    "salt": "salt",
+    "i_cook_at_home": {
+      "t": "Jag lagar ofta mat hemma",
+      "g": [
+        1
+      ]
+    },
+    "add_salt": "Tillsätt lite salt",
+    "the_plate_is_clean": {
+      "t": "Tallriken är ren",
+      "g": [
+        2
+      ]
+    },
+    "i_eat_outside": {
+      "t": "Ibland äter jag ute",
+      "g": [
+        3
+      ]
+    },
+    "i_avoid_fast_food": "Jag undviker snabbmat",
+    "use_fork_and_knife": "Använd gaffel och kniv",
+    "cook_in_pot": {
+      "t": "Jag kokar ris i en kastrull",
+      "g": [
+        5
+      ]
+    },
+    "market": "marknad",
+    "basket": "korg",
+    "kilo": "kilo",
+    "fresh": "färsk",
+    "i_buy_fresh_bread": {
+      "t": "Jag köper färskt bröd",
+      "g": [
+        2
+      ]
+    },
+    "one_kilo": "Ett kilo ris, tack",
+    "put_in_basket": {
+      "t": "Lägg det i korgen",
+      "g": [
+        3
+      ]
+    },
+    "is_it_fresh": {
+      "t": "Är det färskt?",
+      "g": [
+        2
+      ]
+    },
+    "i_go_to_market": "Jag går till marknaden på lördagar",
+    "how_much_kilo": {
+      "t": "Hur mycket kostar ett kilo?",
+      "g": [
+        4
+      ]
+    },
+    "banana": "banan",
+    "orange": "apelsin",
+    "grapes": "vindruvor",
+    "tomato": "tomat",
+    "potato": "potatis",
+    "carrot": "morot",
+    "vegetables": "grönsaker",
+    "i_buy_potatoes": "Jag köper potatis och morötter",
+    "fruit": "frukt",
+    "i_eat_banana": {
+      "t": "Jag äter en banan varje dag",
+      "g": [
+        3
+      ]
+    },
+    "tomatoes_are_red": {
+      "t": "Tomater är röda",
+      "g": [
+        2
+      ]
+    },
+    "do_you_like_grapes": {
+      "t": "Gillar du vindruvor?",
+      "g": [
+        2
+      ]
+    },
+    "fruit_is_healthy": "Frukt är nyttigt",
+    "i_like_oranges": "Jag gillar apelsinjuice",
+    "vegetables_fresh": {
+      "t": "De här grönsakerna är färska",
+      "g": [
+        4
+      ]
+    },
+    "weekend": "helg",
+    "beach": "strand",
+    "cinema": "bio",
+    "picnic": "picknick",
+    "i_rest_weekend": {
+      "t": "På helgen vilar jag",
+      "g": [
+        2
+      ]
+    },
+    "we_go_to_beach": "Vi går till stranden på fredagar",
+    "lets_go_cinema": {
+      "t": "Vi går på bio",
+      "g": [
+        3
+      ]
+    },
+    "picnic_in_park": {
+      "t": "Vi har en picknick i parken",
+      "g": [
+        3
+      ]
+    },
+    "have_a_good_weekend": "Trevlig helg",
+    "i_visit_family": "Jag besöker min familj",
+    "i_sleep_late": {
+      "t": "Jag sover länge på lördagar",
+      "g": [
+        2
+      ]
+    },
+    "hobby": "hobby",
+    "guitar": "gitarr",
+    "drawing": "teckning",
+    "singing": "sång",
+    "reading": "läsning",
+    "cooking": "matlagning",
+    "i_like_drawing": "Jag gillar att rita",
+    "i_play_guitar": "Jag spelar gitarr",
+    "my_hobby_is_reading": {
+      "t": "Min hobby är läsning",
+      "g": [
+        3
+      ]
+    },
+    "she_likes_singing": {
+      "t": "Hon gillar att sjunga",
+      "g": [
+        3
+      ]
+    },
+    "what_is_your_hobby": {
+      "t": "Vad är din hobby?",
+      "g": [
+        3
+      ]
+    },
+    "in_free_time_read": "På fritiden läser jag böcker",
+    "i_enjoy_learning": {
+      "t": "Jag gillar att lära mig nya saker",
+      "g": [
+        3
+      ]
+    },
+    "ball": "boll",
+    "team": "lag",
+    "game": "match",
+    "sport": "sport",
+    "swimming": "simning",
+    "tennis": "tennis",
+    "i_play_football": {
+      "t": "Jag spelar fotboll på fredagar",
+      "g": [
+        2
+      ]
+    },
+    "our_team_wins": "Vårt lag vinner",
+    "he_plays_tennis": {
+      "t": "Han spelar tennis med sin vän",
+      "g": [
+        2
+      ]
+    },
+    "i_like_swimming": {
+      "t": "Jag gillar simning",
+      "g": [
+        2
+      ]
+    },
+    "sports_weekend": "Jag idrottar på helgen",
+    "the_game_is_at_five": "Matchen är klockan fem",
+    "throw_the_ball": {
+      "t": "Kasta bollen",
+      "g": [
+        1
+      ]
+    },
+    "battery": "batteri",
+    "charger": "laddare",
+    "screen": "skärm",
+    "message": "meddelande",
+    "app": "app",
+    "i_need_charger": "Jag behöver en laddare",
+    "i_send_message": "Jag skickar ett meddelande",
+    "my_battery_low": {
+      "t": "Mitt batteri är nästan slut",
+      "g": [
+        1
+      ]
+    },
+    "i_use_apps": {
+      "t": "Jag använder appar för att lära mig",
+      "g": [
+        2
+      ]
+    },
+    "reduce_screen_time": "Jag försöker minska skärmtiden",
+    "i_check_phone": {
+      "t": "Jag tittar för ofta på telefonen",
+      "g": [
+        3
+      ]
+    },
+    "call_me_later": {
+      "t": "Ring mig senare",
+      "g": [
+        0
+      ]
+    },
+    "call": "samtal",
+    "number": "nummer",
+    "answer": "svara",
+    "busy": "upptagen",
+    "whats_your_number": {
+      "t": "Vad är ditt telefonnummer?",
+      "g": [
+        3
+      ]
+    },
+    "hello_who_is_this": "Hallå, vem är det?",
+    "i_will_call_you": {
+      "t": "Jag ringer dig imorgon",
+      "g": [
+        1
+      ]
+    },
+    "can_i_call_later": {
+      "t": "Kan jag ringa dig senare?",
+      "g": [
+        2
+      ]
+    },
+    "this_is_anna_speaking": "Det är Anna",
+    "im_busy_now": {
+      "t": "Jag är upptagen nu",
+      "g": [
+        2
+      ]
+    },
+    "please_answer": "Svara i telefonen, snälla",
+    "airport": "flygplats",
+    "plane": "flygplan",
+    "gate": "gate",
+    "passport": "pass",
+    "suitcase": "resväska",
+    "flight": "flyg",
+    "here_is_passport": "Här är mitt pass",
+    "my_flight_at_nine": "Mitt flyg går klockan nio",
+    "where_is_gate": {
+      "t": "Var är gaten?",
+      "g": [
+        2
+      ]
+    },
+    "the_plane_is_late": {
+      "t": "Flyget är försenat",
+      "g": [
+        2
+      ]
+    },
+    "welcome_to_airport": {
+      "t": "Välkommen till flygplatsen",
+      "g": [
+        2
+      ]
+    },
+    "i_have_one_suitcase": "Jag har en resväska",
+    "i_need_ticket": {
+      "t": "Jag behöver min biljett",
+      "g": [
+        3
+      ]
+    },
+    "hotel": "hotell",
+    "reservation": "bokning",
+    "key": "nyckel",
+    "floor": "våning",
+    "elevator": "hiss",
+    "i_have_reservation": {
+      "t": "Jag har en bokning",
+      "g": [
+        3
+      ]
+    },
+    "here_is_key": "Här är din nyckel",
+    "where_is_elevator": {
+      "t": "Var är hissen?",
+      "g": [
+        2
+      ]
+    },
+    "breakfast_at_seven": {
+      "t": "Frukosten är klockan sju",
+      "g": [
+        3
+      ]
+    },
+    "the_room_is_clean": "Rummet är rent",
+    "room_on_third_floor": {
+      "t": "Rummet ligger på tredje våningen",
+      "g": [
+        4
+      ]
+    },
+    "room_for_two": {
+      "t": "Ett rum för två nätter",
+      "g": [
+        4
+      ]
+    },
+    "cake": "tårta",
+    "sandwich": "smörgås",
+    "sugar": "socker",
+    "cafe": "café",
+    "a_coffee_please": "Ett kaffe, tack",
+    "with_sugar": "Med socker, tack",
+    "i_want_cake": {
+      "t": "Jag vill ha en bit tårta",
+      "g": [
+        5
+      ]
+    },
+    "the_coffee_is_hot": {
+      "t": "Kaffet är varmt",
+      "g": [
+        2
+      ]
+    },
+    "is_there_wifi": {
+      "t": "Finns det wifi här?",
+      "g": [
+        2
+      ]
+    },
+    "table_by_window": {
+      "t": "Ett bord vid fönstret",
+      "g": [
+        3
+      ]
+    },
+    "a_sandwich_and_juice": {
+      "t": "En smörgås och en juice",
+      "g": [
+        1
+      ]
+    },
+    "bicycle": "cykel",
+    "boat": "båt",
+    "metro": "tunnelbana",
+    "map": "karta",
+    "road": "väg",
+    "left": "vänster",
+    "right": "höger",
+    "i_ride_bicycle": {
+      "t": "Jag åker cykel till skolan",
+      "g": [
+        2
+      ]
+    },
+    "turn_right_road": "Sväng höger på vägen",
+    "boat_is_slow": {
+      "t": "Båten är långsam",
+      "g": [
+        0
+      ]
+    },
+    "take_metro": {
+      "t": "Ta tunnelbanan",
+      "g": [
+        1
+      ]
+    },
+    "how_do_you_travel": "Hur reser du?",
+    "look_at_map": "Titta på kartan",
+    "fast_train": {
+      "t": "Tåget är snabbt",
+      "g": [
+        0
+      ]
+    },
+    "exam": "prov",
+    "homework": "läxa",
+    "lesson": "lektion",
+    "university": "universitet",
+    "class": "klass",
+    "i_study_university": "Jag studerar på universitetet",
+    "the_class_starts": "Lektionen börjar klockan åtta",
+    "i_do_homework": {
+      "t": "Jag gör min läxa",
+      "g": [
+        3
+      ]
+    },
+    "teacher_explains": {
+      "t": "Läraren förklarar lektionen",
+      "g": [
+        1
+      ]
+    },
+    "open_your_book": "Öppna din bok",
+    "exam_tomorrow": "Provet är imorgon",
+    "i_ask_questions": {
+      "t": "Jag frågar när jag inte förstår",
+      "g": [
+        1
+      ]
+    },
+    "neighbor": "granne",
+    "funny": "rolig",
+    "kind": "snäll",
+    "smart": "smart",
+    "tall": "lång",
+    "he_is_my_best_friend": {
+      "t": "Han är min bästa vän",
+      "g": [
+        4
+      ]
+    },
+    "we_play_together": "Vi leker tillsammans efter skolan",
+    "she_is_funny": {
+      "t": "Hon är mycket rolig",
+      "g": [
+        3
+      ]
+    },
+    "my_friend_is_tall": {
+      "t": "Min vän är lång",
+      "g": [
+        3
+      ]
+    },
+    "i_call_my_friend": "Jag ringer min vän varje dag",
+    "my_neighbor_is_kind": "Min granne är snäll",
+    "he_is_smart": {
+      "t": "Han är smart",
+      "g": [
+        2
+      ]
+    },
+    "practice": "övning",
+    "goal": "mål",
+    "mistake": "misstag",
+    "progress": "framsteg",
+    "patient": "tålmodig",
+    "learn": "lära sig",
+    "i_set_goals": "Jag sätter små mål",
+    "i_learn_every_day": "Jag lär mig något nytt varje dag",
+    "i_write_new_words": {
+      "t": "Jag skriver nya ord i min anteckningsbok",
+      "g": [
+        6
+      ]
+    },
+    "repetition_helps": {
+      "t": "Repetition hjälper mig att komma ihåg",
+      "g": [
+        4
+      ]
+    },
+    "i_practice_speaking": {
+      "t": "Jag övar på att tala högt",
+      "g": [
+        4
+      ]
+    },
+    "mistakes_are_normal": "Att göra misstag är en del av lärandet",
+    "i_am_patient": {
+      "t": "Jag förblir tålmodig",
+      "g": [
+        2
+      ]
+    },
+    "dream": "dröm",
+    "future": "framtid",
+    "success": "framgång",
+    "world": "värld",
+    "plan": "plan",
+    "i_want_travel": {
+      "t": "Jag vill resa runt i världen",
+      "g": [
+        2
+      ]
+    },
+    "i_have_a_dream": "Jag har en stor dröm",
+    "every_day_new_chance": {
+      "t": "Varje dag är en ny chans",
+      "g": [
+        5
+      ]
+    },
+    "small_steps": {
+      "t": "Små steg leder till stora resultat",
+      "g": [
+        1
+      ]
+    },
+    "i_believe_myself": "Jag tror på mig själv",
+    "i_am_proud": {
+      "t": "Jag är stolt över mina framsteg",
+      "g": [
+        2
+      ]
+    },
+    "my_plan_is_simple": {
+      "t": "Min plan är enkel",
+      "g": [
+        3
+      ]
+    }
+  }
+}
