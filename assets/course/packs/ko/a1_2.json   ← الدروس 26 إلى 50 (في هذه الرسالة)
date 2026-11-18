@@ -1,0 +1,842 @@
+{
+  "titles": {
+    "a1_26": "나, 너, 우리, 그들",
+    "a1_27": "좋아해요, 싫어해요",
+    "a1_28": "원해요, 필요해요",
+    "a1_29": "제 말을 이해해요?",
+    "a1_30": "감사와 사과",
+    "a1_31": "나의 아침",
+    "a1_32": "출근길",
+    "a1_33": "집에서의 저녁",
+    "a1_34": "집에서 요리하기",
+    "a1_35": "시장에서",
+    "a1_36": "과일과 채소",
+    "a1_37": "주말",
+    "a1_38": "나의 취미",
+    "a1_39": "운동",
+    "a1_40": "내 휴대폰",
+    "a1_41": "전화 통화",
+    "a1_42": "공항에서",
+    "a1_43": "호텔에서",
+    "a1_44": "카페에서",
+    "a1_45": "교통",
+    "a1_46": "학교와 대학",
+    "a1_47": "내 친구들",
+    "a1_48": "매일 배워요",
+    "a1_49": "나의 꿈",
+    "a1_50": "큰 복습"
+  },
+  "c": {
+    "we": "우리",
+    "they": "그들",
+    "he": "그",
+    "she": "그녀",
+    "we_are_students": "우리는 학생이에요",
+    "he_is_my_friend": {
+      "t": "그는 제 친구예요",
+      "g": [
+        2
+      ]
+    },
+    "we_live_together": {
+      "t": "우리는 같이 살아요",
+      "g": [
+        1
+      ]
+    },
+    "you_are_kind": {
+      "t": "당신은 친절해요",
+      "g": [
+        1
+      ]
+    },
+    "she_is_my_sister": {
+      "t": "그녀는 제 여동생이에요",
+      "g": [
+        2
+      ]
+    },
+    "they_are_here": "그들은 여기에 있어요",
+    "music": "음악",
+    "movies": "영화",
+    "juice": "주스",
+    "chocolate": "초콜릿",
+    "i_like_coffee": {
+      "t": "저는 커피를 좋아해요",
+      "g": [
+        1
+      ]
+    },
+    "do_you_like_movies": {
+      "t": "영화를 좋아해요?",
+      "g": [
+        0
+      ]
+    },
+    "i_like_apples": {
+      "t": "저는 사과를 좋아해요",
+      "g": [
+        1
+      ]
+    },
+    "i_love_music": {
+      "t": "저는 음악을 아주 좋아해요",
+      "g": [
+        1
+      ]
+    },
+    "i_dont_like_it": "저는 그것을 좋아하지 않아요",
+    "she_likes_juice": {
+      "t": "그녀는 주스를 좋아해요",
+      "g": [
+        2
+      ]
+    },
+    "i_dont_like_cold": {
+      "t": "저는 추운 날씨를 좋아하지 않아요",
+      "g": [
+        1
+      ]
+    },
+    "help": "도움",
+    "cup": "컵",
+    "home": "가정",
+    "i_need_help": "저는 도움이 필요해요",
+    "i_want_to_sleep": "저는 자고 싶어요",
+    "i_need_water": {
+      "t": "저는 물이 필요해요",
+      "g": [
+        1
+      ]
+    },
+    "do_you_need_help": {
+      "t": "도움이 필요해요?",
+      "g": [
+        0
+      ]
+    },
+    "what_do_you_want": {
+      "t": "무엇을 원해요?",
+      "g": [
+        1
+      ]
+    },
+    "i_dont_want_that": "저는 그것을 원하지 않아요",
+    "i_want_tea": {
+      "t": "저는 차 한 잔을 원해요",
+      "g": [
+        3
+      ]
+    },
+    "he_wants_home": {
+      "t": "그는 집에 가고 싶어요",
+      "g": [
+        1
+      ]
+    },
+    "understand": "이해하다",
+    "repeat": "반복하다",
+    "word": "단어",
+    "slowly": "천천히",
+    "fast": "빠른",
+    "speak_slowly": {
+      "t": "천천히 말해 주세요",
+      "g": [
+        0
+      ]
+    },
+    "can_you_help_me": "저를 도와줄 수 있어요?",
+    "i_dont_understand": {
+      "t": "저는 이해하지 못해요",
+      "g": [
+        1
+      ]
+    },
+    "please_repeat": {
+      "t": "다시 말해 주세요",
+      "g": [
+        1
+      ]
+    },
+    "do_you_understand_me": "제 말을 이해해요?",
+    "i_understand": "저는 이해해요",
+    "how_do_you_say": {
+      "t": "이것을 어떻게 말해요?",
+      "g": [
+        2
+      ]
+    },
+    "what_does_it_mean": {
+      "t": "이 단어는 무슨 뜻이에요?",
+      "g": [
+        3
+      ]
+    },
+    "excuse_me": "실례합니다",
+    "no_problem": {
+      "t": "문제 없어요",
+      "g": [
+        1
+      ]
+    },
+    "thats_okay": {
+      "t": "괜찮아요, 걱정 마세요",
+      "g": [
+        0
+      ]
+    },
+    "thanks_for_help": {
+      "t": "도와줘서 감사합니다",
+      "g": [
+        1
+      ]
+    },
+    "sorry_late": "죄송해요, 늦었어요",
+    "see_you_later": {
+      "t": "나중에 봐요",
+      "g": [
+        1
+      ]
+    },
+    "have_nice_day": {
+      "t": "좋은 하루 보내세요",
+      "g": [
+        1
+      ]
+    },
+    "im_sorry": {
+      "t": "정말 죄송해요",
+      "g": [
+        1
+      ]
+    },
+    "see_you_tomorrow": {
+      "t": "내일 봐요",
+      "g": [
+        0
+      ]
+    },
+    "alarm": "알람",
+    "towel": "수건",
+    "soap": "비누",
+    "shower": "샤워",
+    "teeth": "이",
+    "i_wake_up_early": "저는 일찍 일어나요",
+    "i_brush_teeth": "저는 이를 닦아요",
+    "i_take_shower": {
+      "t": "저는 샤워를 해요",
+      "g": [
+        1
+      ]
+    },
+    "alarm_rings": {
+      "t": "알람이 여섯 시에 울려요",
+      "g": [
+        0
+      ]
+    },
+    "i_eat_breakfast": {
+      "t": "저는 일곱 시에 아침을 먹어요",
+      "g": [
+        3
+      ]
+    },
+    "i_make_bed": "저는 침대를 정리해요",
+    "i_drink_coffee": {
+      "t": "저는 아침에 커피를 마셔요",
+      "g": [
+        2
+      ]
+    },
+    "train": "기차",
+    "taxi": "택시",
+    "ticket": "표",
+    "station": "역",
+    "traffic": "교통",
+    "minute": "분",
+    "i_take_train": {
+      "t": "저는 기차를 타고 출근해요",
+      "g": [
+        1
+      ]
+    },
+    "it_takes_thirty": "삼십 분 걸려요",
+    "where_is_station": {
+      "t": "역이 어디에 있어요?",
+      "g": [
+        0
+      ]
+    },
+    "traffic_is_heavy": {
+      "t": "교통이 복잡해요",
+      "g": [
+        1
+      ]
+    },
+    "take_taxi": "택시를 타요",
+    "i_buy_ticket": {
+      "t": "저는 표를 사요",
+      "g": [
+        1
+      ]
+    },
+    "i_listen_music_way": "저는 가는 길에 음악을 들어요",
+    "dinner": "저녁 식사",
+    "lamp": "전등",
+    "sofa": "소파",
+    "tv": "텔레비전",
+    "we_eat_dinner": {
+      "t": "우리는 같이 저녁을 먹어요",
+      "g": [
+        1
+      ]
+    },
+    "i_watch_tv": "저는 저녁에 텔레비전을 봐요",
+    "i_relax_sofa": {
+      "t": "저는 소파에서 쉬어요",
+      "g": [
+        1
+      ]
+    },
+    "i_read_before_bed": {
+      "t": "저는 자기 전에 책을 읽어요",
+      "g": [
+        3
+      ]
+    },
+    "i_go_to_bed": {
+      "t": "저는 열 시에 자요",
+      "g": [
+        3
+      ]
+    },
+    "turn_off_lamp": "전등을 꺼 주세요",
+    "spoon": "숟가락",
+    "fork": "포크",
+    "knife": "칼",
+    "plate": "접시",
+    "pot": "냄비",
+    "salt": "소금",
+    "i_cook_at_home": {
+      "t": "저는 보통 집에서 요리해요",
+      "g": [
+        3
+      ]
+    },
+    "add_salt": "소금을 조금 넣으세요",
+    "the_plate_is_clean": {
+      "t": "접시가 깨끗해요",
+      "g": [
+        1
+      ]
+    },
+    "i_eat_outside": {
+      "t": "저는 가끔 밖에서 먹어요",
+      "g": [
+        2
+      ]
+    },
+    "i_avoid_fast_food": "저는 패스트푸드를 피해요",
+    "use_fork_and_knife": "포크와 칼을 사용하세요",
+    "cook_in_pot": {
+      "t": "저는 냄비에 밥을 지어요",
+      "g": [
+        1
+      ]
+    },
+    "market": "시장",
+    "basket": "바구니",
+    "kilo": "킬로",
+    "fresh": "신선한",
+    "i_buy_fresh_bread": {
+      "t": "저는 신선한 빵을 사요",
+      "g": [
+        1
+      ]
+    },
+    "one_kilo": "쌀 일 킬로 주세요",
+    "put_in_basket": {
+      "t": "바구니에 넣으세요",
+      "g": [
+        0
+      ]
+    },
+    "is_it_fresh": {
+      "t": "이것은 신선해요?",
+      "g": [
+        1
+      ]
+    },
+    "i_go_to_market": "저는 토요일에 시장에 가요",
+    "how_much_kilo": {
+      "t": "일 킬로에 얼마예요?",
+      "g": [
+        1
+      ]
+    },
+    "banana": "바나나",
+    "orange": "오렌지",
+    "grapes": "포도",
+    "tomato": "토마토",
+    "potato": "감자",
+    "carrot": "당근",
+    "vegetables": "채소",
+    "i_buy_potatoes": "저는 감자와 당근을 사요",
+    "fruit": "과일",
+    "i_eat_banana": {
+      "t": "저는 매일 바나나를 먹어요",
+      "g": [
+        2
+      ]
+    },
+    "tomatoes_are_red": {
+      "t": "토마토는 빨간색이에요",
+      "g": [
+        1
+      ]
+    },
+    "do_you_like_grapes": {
+      "t": "포도를 좋아해요?",
+      "g": [
+        0
+      ]
+    },
+    "fruit_is_healthy": "과일은 건강에 좋아요",
+    "i_like_oranges": "저는 오렌지 주스를 좋아해요",
+    "vegetables_fresh": {
+      "t": "이 채소는 신선해요",
+      "g": [
+        2
+      ]
+    },
+    "weekend": "주말",
+    "beach": "해변",
+    "cinema": "영화관",
+    "picnic": "소풍",
+    "i_rest_weekend": {
+      "t": "저는 주말에 쉬어요",
+      "g": [
+        2
+      ]
+    },
+    "we_go_to_beach": "우리는 금요일에 해변에 가요",
+    "lets_go_cinema": {
+      "t": "영화관에 가요",
+      "g": [
+        0
+      ]
+    },
+    "picnic_in_park": {
+      "t": "우리는 공원에서 소풍을 가요",
+      "g": [
+        2
+      ]
+    },
+    "have_a_good_weekend": "좋은 주말 보내세요",
+    "i_visit_family": "저는 가족을 방문해요",
+    "i_sleep_late": {
+      "t": "저는 토요일에 늦게 자요",
+      "g": [
+        2
+      ]
+    },
+    "hobby": "취미",
+    "guitar": "기타",
+    "drawing": "그림",
+    "singing": "노래",
+    "reading": "독서",
+    "cooking": "요리",
+    "i_like_drawing": "저는 그림 그리기를 좋아해요",
+    "i_play_guitar": "저는 기타를 쳐요",
+    "my_hobby_is_reading": {
+      "t": "제 취미는 독서예요",
+      "g": [
+        2
+      ]
+    },
+    "she_likes_singing": {
+      "t": "그녀는 노래하는 것을 좋아해요",
+      "g": [
+        1
+      ]
+    },
+    "what_is_your_hobby": {
+      "t": "취미가 뭐예요?",
+      "g": [
+        1
+      ]
+    },
+    "in_free_time_read": "저는 시간이 있을 때 책을 읽어요",
+    "i_enjoy_learning": {
+      "t": "저는 새로운 것을 배우는 것을 좋아해요",
+      "g": [
+        3
+      ]
+    },
+    "ball": "공",
+    "team": "팀",
+    "game": "경기",
+    "sport": "운동",
+    "swimming": "수영",
+    "tennis": "테니스",
+    "i_play_football": {
+      "t": "저는 금요일에 축구를 해요",
+      "g": [
+        2
+      ]
+    },
+    "our_team_wins": "우리 팀이 이겨요",
+    "he_plays_tennis": {
+      "t": "그는 친구와 테니스를 쳐요",
+      "g": [
+        2
+      ]
+    },
+    "i_like_swimming": {
+      "t": "저는 수영을 좋아해요",
+      "g": [
+        1
+      ]
+    },
+    "sports_weekend": "저는 주말에 운동해요",
+    "the_game_is_at_five": "경기는 다섯 시예요",
+    "throw_the_ball": {
+      "t": "공을 던지세요",
+      "g": [
+        0
+      ]
+    },
+    "battery": "배터리",
+    "charger": "충전기",
+    "screen": "화면",
+    "message": "메시지",
+    "app": "앱",
+    "i_need_charger": "저는 충전기가 필요해요",
+    "i_send_message": "저는 메시지를 보내요",
+    "my_battery_low": {
+      "t": "배터리가 거의 없어요",
+      "g": [
+        0
+      ]
+    },
+    "i_use_apps": {
+      "t": "저는 배우려고 앱을 써요",
+      "g": [
+        2
+      ]
+    },
+    "reduce_screen_time": "저는 화면 보는 시간을 줄이려고 해요",
+    "i_check_phone": {
+      "t": "저는 휴대폰을 너무 자주 봐요",
+      "g": [
+        3
+      ]
+    },
+    "call_me_later": {
+      "t": "나중에 전화해 주세요",
+      "g": [
+        1
+      ]
+    },
+    "call": "통화",
+    "number": "번호",
+    "answer": "받다",
+    "busy": "바쁜",
+    "whats_your_number": {
+      "t": "전화번호가 뭐예요?",
+      "g": [
+        1
+      ]
+    },
+    "hello_who_is_this": "여보세요, 누구세요?",
+    "i_will_call_you": {
+      "t": "내일 전화할게요",
+      "g": [
+        1
+      ]
+    },
+    "can_i_call_later": {
+      "t": "나중에 전화해도 돼요?",
+      "g": [
+        1
+      ]
+    },
+    "this_is_anna_speaking": "저는 안나예요",
+    "im_busy_now": {
+      "t": "저는 지금 바빠요",
+      "g": [
+        2
+      ]
+    },
+    "please_answer": "전화를 받아 주세요",
+    "airport": "공항",
+    "plane": "비행기",
+    "gate": "탑승구",
+    "passport": "여권",
+    "suitcase": "여행 가방",
+    "flight": "항공편",
+    "here_is_passport": "여기 제 여권이에요",
+    "my_flight_at_nine": "제 항공편은 아홉 시예요",
+    "where_is_gate": {
+      "t": "탑승구가 어디에 있어요?",
+      "g": [
+        0
+      ]
+    },
+    "the_plane_is_late": {
+      "t": "비행기가 늦어요",
+      "g": [
+        1
+      ]
+    },
+    "welcome_to_airport": {
+      "t": "공항에 오신 것을 환영합니다",
+      "g": [
+        0
+      ]
+    },
+    "i_have_one_suitcase": "저는 가방이 한 개 있어요",
+    "i_need_ticket": {
+      "t": "저는 표가 필요해요",
+      "g": [
+        1
+      ]
+    },
+    "hotel": "호텔",
+    "reservation": "예약",
+    "key": "키",
+    "floor": "층",
+    "elevator": "엘리베이터",
+    "i_have_reservation": {
+      "t": "저는 예약이 있어요",
+      "g": [
+        1
+      ]
+    },
+    "here_is_key": "여기 키가 있어요",
+    "where_is_elevator": {
+      "t": "엘리베이터가 어디에 있어요?",
+      "g": [
+        0
+      ]
+    },
+    "breakfast_at_seven": {
+      "t": "아침 식사는 일곱 시예요",
+      "g": [
+        2
+      ]
+    },
+    "the_room_is_clean": "방이 깨끗해요",
+    "room_on_third_floor": {
+      "t": "방은 삼 층에 있어요",
+      "g": [
+        2
+      ]
+    },
+    "room_for_two": {
+      "t": "이틀 묵을 방을 주세요",
+      "g": [
+        1
+      ]
+    },
+    "cake": "케이크",
+    "sandwich": "샌드위치",
+    "sugar": "설탕",
+    "cafe": "카페",
+    "a_coffee_please": "커피 한 잔 주세요",
+    "with_sugar": "설탕을 넣어 주세요",
+    "i_want_cake": {
+      "t": "저는 케이크 한 조각을 원해요",
+      "g": [
+        1
+      ]
+    },
+    "the_coffee_is_hot": {
+      "t": "커피가 뜨거워요",
+      "g": [
+        1
+      ]
+    },
+    "is_there_wifi": {
+      "t": "여기에 와이파이가 있어요?",
+      "g": [
+        1
+      ]
+    },
+    "table_by_window": {
+      "t": "창가 자리 주세요",
+      "g": [
+        0
+      ]
+    },
+    "a_sandwich_and_juice": {
+      "t": "샌드위치와 주스 주세요",
+      "g": [
+        0
+      ]
+    },
+    "bicycle": "자전거",
+    "boat": "배",
+    "metro": "지하철",
+    "map": "지도",
+    "road": "도로",
+    "left": "왼쪽",
+    "right": "오른쪽",
+    "i_ride_bicycle": {
+      "t": "저는 자전거로 학교에 가요",
+      "g": [
+        1
+      ]
+    },
+    "turn_right_road": "도로에서 오른쪽으로 가세요",
+    "boat_is_slow": {
+      "t": "배는 느려요",
+      "g": [
+        0
+      ]
+    },
+    "take_metro": {
+      "t": "지하철을 타세요",
+      "g": [
+        0
+      ]
+    },
+    "how_do_you_travel": "어떻게 여행해요?",
+    "look_at_map": "지도를 보세요",
+    "fast_train": {
+      "t": "기차는 빨라요",
+      "g": [
+        0
+      ]
+    },
+    "exam": "시험",
+    "homework": "숙제",
+    "lesson": "수업",
+    "university": "대학교",
+    "class": "반",
+    "i_study_university": "저는 대학교에서 공부해요",
+    "the_class_starts": "수업은 여덟 시에 시작해요",
+    "i_do_homework": {
+      "t": "저는 숙제를 해요",
+      "g": [
+        1
+      ]
+    },
+    "teacher_explains": {
+      "t": "선생님이 수업을 설명해요",
+      "g": [
+        2
+      ]
+    },
+    "open_your_book": "책을 펴세요",
+    "exam_tomorrow": "시험은 내일이에요",
+    "i_ask_questions": {
+      "t": "저는 이해하지 못하면 질문해요",
+      "g": [
+        3
+      ]
+    },
+    "neighbor": "이웃",
+    "funny": "웃기는",
+    "kind": "친절한",
+    "smart": "똑똑한",
+    "tall": "키 큰",
+    "he_is_my_best_friend": {
+      "t": "그는 제 가장 좋은 친구예요",
+      "g": [
+        4
+      ]
+    },
+    "we_play_together": "우리는 방과 후에 같이 놀아요",
+    "she_is_funny": {
+      "t": "그녀는 아주 웃겨요",
+      "g": [
+        2
+      ]
+    },
+    "my_friend_is_tall": {
+      "t": "제 친구는 키가 커요",
+      "g": [
+        2
+      ]
+    },
+    "i_call_my_friend": "저는 매일 친구에게 전화해요",
+    "my_neighbor_is_kind": "제 이웃은 친절해요",
+    "he_is_smart": {
+      "t": "그는 똑똑해요",
+      "g": [
+        1
+      ]
+    },
+    "practice": "연습",
+    "goal": "목표",
+    "mistake": "실수",
+    "progress": "발전",
+    "patient": "인내심 있는",
+    "learn": "배우다",
+    "i_set_goals": "저는 작은 목표를 세워요",
+    "i_learn_every_day": "저는 매일 새로운 것을 배워요",
+    "i_write_new_words": {
+      "t": "저는 새 단어를 공책에 써요",
+      "g": [
+        3
+      ]
+    },
+    "repetition_helps": {
+      "t": "반복은 기억하는 데 도움이 돼요",
+      "g": [
+        1
+      ]
+    },
+    "i_practice_speaking": {
+      "t": "저는 소리 내어 말하는 연습을 해요",
+      "g": [
+        3
+      ]
+    },
+    "mistakes_are_normal": "실수는 배움의 일부예요",
+    "i_am_patient": {
+      "t": "저는 인내심을 가져요",
+      "g": [
+        1
+      ]
+    },
+    "dream": "꿈",
+    "future": "미래",
+    "success": "성공",
+    "world": "세계",
+    "plan": "계획",
+    "i_want_travel": {
+      "t": "저는 세계를 여행하고 싶어요",
+      "g": [
+        2
+      ]
+    },
+    "i_have_a_dream": "저는 큰 꿈이 있어요",
+    "every_day_new_chance": {
+      "t": "매일이 새로운 기회예요",
+      "g": [
+        2
+      ]
+    },
+    "small_steps": {
+      "t": "작은 걸음이 큰 결과를 만들어요",
+      "g": [
+        1
+      ]
+    },
+    "i_believe_myself": "저는 저를 믿어요",
+    "i_am_proud": {
+      "t": "저는 제 발전이 자랑스러워요",
+      "g": [
+        3
+      ]
+    },
+    "my_plan_is_simple": {
+      "t": "제 계획은 간단해요",
+      "g": [
+        2
+      ]
+    }
+  }
+}
