@@ -24,7 +24,10 @@ const List<LanguageOption> availableLanguages = [
   LanguageOption(code: 'tr', name: 'التركية', flagEmoji: '🇹🇷', isAvailable: true),
   LanguageOption(code: 'ru', name: 'الروسية', flagEmoji: '🇷🇺', isAvailable: true),
   LanguageOption(code: 'pt', name: 'البرتغالية', flagEmoji: '🇵🇹', isAvailable: true),
-  LanguageOption(code: 'zh', name: 'الصينية', flagEmoji: '🇨🇳'), // مقفولة حاليًا لحد ما تجهز محتواها
+  LanguageOption(code: 'zh', name: 'الصينية', flagEmoji: '🇨🇳', isAvailable: true),
+  LanguageOption(code: 'hi', name: 'الهندية', flagEmoji: '🇮🇳', isAvailable: true),
+  LanguageOption(code: 'nl', name: 'الهولندية', flagEmoji: '🇳🇱', isAvailable: true),
+  LanguageOption(code: 'sv', name: 'السويدية', flagEmoji: '🇸🇪', isAvailable: true),
 ];
 
 // حفظ اللغة المختارة حاليًا (بسيط الآن، سنطوره لاحقًا بالتخزين الدائم)
