@@ -85,3 +85,16 @@ flutter:
     - assets/course/blueprint/
     - assets/course/packs/ar/
     - assets/course/packs/en/
+    - assets/course/packs/es/
+    - assets/course/packs/fr/
+    - assets/course/packs/de/
+    - assets/course/packs/it/
+    - assets/course/packs/pt/
+    - assets/course/packs/ru/
+    - assets/course/packs/tr/
+    - assets/course/packs/nl/
+    - assets/course/packs/sv/
+    - assets/course/packs/ko/
+    - assets/course/packs/ja/
+    - assets/course/packs/zh/
+    - assets/course/packs/hi/
