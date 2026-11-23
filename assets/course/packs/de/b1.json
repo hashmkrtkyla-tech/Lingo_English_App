@@ -1,0 +1,1250 @@
+{
+  "titles": {
+    "b1_01": "Meine Erfahrungen",
+    "b1_02": "Hast du jemals...?",
+    "b1_03": "Seit und für",
+    "b1_04": "Gerade, schon, noch",
+    "b1_05": "Meine Lebensgeschichte",
+    "b1_06": "Meine Erfolge",
+    "b1_07": "Ich war dabei zu...",
+    "b1_08": "Als es passierte",
+    "b1_09": "Kindheitserinnerungen",
+    "b1_10": "Wichtige Ereignisse",
+    "b1_11": "Eine Geschichte erzählen",
+    "b1_12": "Vorhersagen",
+    "b1_13": "Feste Vereinbarungen",
+    "b1_14": "Versprechen und Angebote",
+    "b1_15": "Meine Karriereziele",
+    "b1_16": "In zehn Jahren",
+    "b1_17": "Meiner Meinung nach",
+    "b1_18": "Zustimmen und widersprechen",
+    "b1_19": "Vor- und Nachteile",
+    "b1_20": "Fortgeschrittene Vergleiche",
+    "b1_21": "Ratschläge und Vorschläge",
+    "b1_22": "Höflicher Widerspruch",
+    "b1_23": "Wenn das passiert",
+    "b1_24": "Wenn ich du wäre",
+    "b1_25": "Was ist, wenn...?"
+  },
+  "c": {
+    "i_have_visited_three": "Ich habe drei verschiedene Länder besucht.",
+    "they_have_built_a": "Sie haben ein neues Haus am Meer gebaut.",
+    "i_have_read_this": "Ich habe dieses Buch dreimal gelesen.",
+    "she_has_learned_to": "Sie hat gelernt, italienisch zu kochen.",
+    "my_sister_has_broken": {
+      "t": "Meine Schwester hat ihr Handy wieder zerbrochen.",
+      "g": [
+        6
+      ]
+    },
+    "our_team_has_won": {
+      "t": "Unser Team hat mehrere wichtige Preise gewonnen.",
+      "g": [
+        5
+      ]
+    },
+    "visited": "besuchen",
+    "tried": "ausprobieren",
+    "learned": "lernen",
+    "met": "treffen",
+    "we_have_met_many": "Wir haben viele interessante Leute getroffen.",
+    "he_has_tried_sushi": {
+      "t": "Er hat mehrmals Sushi probiert.",
+      "g": [
+        3
+      ]
+    },
+    "they_have_seen_that": "Sie haben diesen Film zweimal gesehen.",
+    "i_have_written_a": {
+      "t": "Ich habe ein paar kurze Geschichten geschrieben.",
+      "g": [
+        6
+      ]
+    },
+    "my_brother_has_worked": "Mein Bruder hat in drei Firmen gearbeitet.",
+    "we_have_eaten_at": "Wir haben schon einmal in diesem Restaurant gegessen.",
+    "she_has_taken_many": "Sie hat viele schöne Fotos gemacht.",
+    "i_have_lost_my": "Ich habe heute Morgen meine Schlüssel verloren.",
+    "seen": "sehen",
+    "eaten": "essen",
+    "written": "schreiben",
+    "lost": "verlieren",
+    "you_have_grown_so": {
+      "t": "Du bist so gewachsen, Sara!",
+      "g": [
+        3
+      ]
+    },
+    "have_you_ever_been": "Warst du schon einmal in Japan?",
+    "my_parents_have_never": "Meine Eltern haben noch nie ein Familienessen verpasst.",
+    "she_has_been_to": "Sie war zweimal in Spanien.",
+    "yes_i_have_been": "Ja, ich war einmal dort.",
+    "we_have_never_met": {
+      "t": "Wir haben deine Eltern noch nie getroffen.",
+      "g": [
+        3
+      ]
+    },
+    "i_have_never_been": {
+      "t": "Ich war noch nie so müde.",
+      "g": [
+        5
+      ]
+    },
+    "ever": "jemals",
+    "never": "nie",
+    "before": "vorher",
+    "once": "einmal",
+    "no_i_have_never": "Nein, ich war noch nie im Ausland.",
+    "have_you_ever_eaten": {
+      "t": "Hast du schon einmal indisches Essen gegessen?",
+      "g": [
+        4
+      ]
+    },
+    "she_has_never_flown": "Sie ist noch nie geflogen.",
+    "have_they_ever_climbed": {
+      "t": "Haben sie schon einmal einen hohen Berg bestiegen?",
+      "g": [
+        6
+      ]
+    },
+    "i_have_never_seen": "Ich habe noch nie Schnee gesehen.",
+    "has_he_ever_driven": "Ist er schon einmal einen großen Lastwagen gefahren?",
+    "have_you_ever_spoken": "Hast du schon einmal mit einer berühmten Person gesprochen?",
+    "have_you_ever_lost": "Hast du schon einmal deinen Pass verloren?",
+    "twice": "zweimal",
+    "flown": "fliegen",
+    "climbed": "besteigen",
+    "driven": "fahren",
+    "yes_i_have_and": {
+      "t": "Ja, und es war schrecklich.",
+      "g": [
+        4
+      ]
+    },
+    "i_have_lived_here": "Ich wohne seit fünf Jahren hier.",
+    "how_long_have_you": "Wie lange wohnst du schon in Kairo?",
+    "i_have_been_awake": "Ich bin seit fünf Uhr wach.",
+    "she_has_worked_here": "Sie arbeitet seit Januar hier.",
+    "we_have_waited_for": {
+      "t": "Wir haben eine Stunde lang auf den Bus gewartet.",
+      "g": [
+        8
+      ]
+    },
+    "our_teacher_has_been": {
+      "t": "Unser Lehrer ist seit Montag krank.",
+      "g": [
+        5
+      ]
+    },
+    "for": "für",
+    "since": "seit",
+    "hours": "Stunden",
+    "weeks": "Wochen",
+    "we_have_known_each": "Wir kennen uns schon sehr lange.",
+    "he_has_studied_english": {
+      "t": "Er lernt seit letztem Jahr Englisch.",
+      "g": [
+        1
+      ]
+    },
+    "they_have_been_married": "Sie sind seit zwanzig Jahren verheiratet.",
+    "i_have_had_this": {
+      "t": "Ich habe dieses Handy seit 2022.",
+      "g": [
+        3
+      ]
+    },
+    "it_has_rained_for": "Es regnet jetzt schon seit drei Tagen.",
+    "my_father_has_been": "Mein Vater ist seit 1995 Arzt.",
+    "they_have_played_football": "Sie spielen seit der Kindheit zusammen Fußball.",
+    "she_has_lived_alone": "Sie lebt allein, seit ihre Schwester gegangen ist.",
+    "years": "Jahre",
+    "months": "Monate",
+    "monday": "Montag",
+    "childhood": "Kindheit",
+    "i_have_not_seen": {
+      "t": "Ich habe ihn seit Monaten nicht gesehen.",
+      "g": [
+        6
+      ]
+    },
+    "i_have_just_finished": "Ich habe gerade meine Hausaufgaben beendet.",
+    "have_you_packed_your": "Hast du deinen Koffer schon gepackt?",
+    "he_has_just_gone": "Er ist gerade zum Mittagessen gegangen.",
+    "she_has_already_left": {
+      "t": "Sie hat das Büro schon verlassen.",
+      "g": [
+        3
+      ]
+    },
+    "has_the_film_started": {
+      "t": "Hat der Film schon angefangen?",
+      "g": [
+        2
+      ]
+    },
+    "she_hasn't_answered_my": {
+      "t": "Sie hat meine Nachricht noch nicht beantwortet.",
+      "g": [
+        6
+      ]
+    },
+    "just": "gerade",
+    "already": "schon",
+    "yet": "noch",
+    "still": "immer noch",
+    "have_you_called_your": "Hast du deine Mutter schon angerufen?",
+    "we_have_not_eaten": {
+      "t": "Wir haben das Abendessen noch nicht gegessen.",
+      "g": [
+        3
+      ]
+    },
+    "the_train_has_just": "Der Zug ist gerade an Gleis zwei angekommen.",
+    "he_has_already_booked": {
+      "t": "Er hat das Hotelzimmer schon gebucht.",
+      "g": [
+        5
+      ]
+    },
+    "i_haven't_read_the": "Ich habe heute noch keine Nachrichten gelesen.",
+    "they_have_just_started": "Sie haben gerade ein neues Geschäft eröffnet.",
+    "we_have_already_seen": "Wir haben schon alle Zimmer gesehen.",
+    "my_friends_have_already": "Meine Freunde haben die Rechnung schon bezahlt.",
+    "finished": "beenden",
+    "arrived": "ankommen",
+    "left": "verlassen",
+    "started": "anfangen",
+    "i_have_just_heard": {
+      "t": "Ich habe gerade tolle Neuigkeiten gehört.",
+      "g": [
+        3
+      ]
+    },
+    "i_was_born_in": "Ich wurde in einem kleinen Dorf geboren.",
+    "when_did_you_start": "Wann hast du angefangen, Englisch zu lernen?",
+    "i_have_learned_a": "Ich habe viel über mich selbst gelernt.",
+    "we_moved_to_the": "Wir sind 2010 in die Stadt gezogen.",
+    "i_have_traveled_to": {
+      "t": "Seitdem bin ich in viele Länder gereist.",
+      "g": [
+        5
+      ]
+    },
+    "they_bought_this_house": {
+      "t": "Sie haben dieses Haus 2015 gekauft.",
+      "g": [
+        5
+      ]
+    },
+    "born": "geboren",
+    "moved": "umziehen",
+    "graduated": "abschließen",
+    "married": "heiraten",
+    "i_have_lived_here_x": "Ich wohne seit jenem Jahr hier.",
+    "she_graduated_from_university": {
+      "t": "Sie hat vor drei Jahren ihr Studium abgeschlossen.",
+      "g": [
+        7
+      ]
+    },
+    "she_has_worked_as": "Sie arbeitet seitdem als Krankenschwester.",
+    "i_met_my_husband": {
+      "t": "Ich habe meinen Mann kennengelernt, als ich zwanzig war.",
+      "g": [
+        3
+      ]
+    },
+    "we_have_been_married": "Wir sind seit acht Jahren verheiratet.",
+    "last_summer_i_traveled": "Letzten Sommer bin ich allein in die Türkei gereist.",
+    "they_have_repaired_the": "Sie haben das Dach schon zweimal repariert.",
+    "he_lost_his_job": "Er hat vor zwei Jahren seine Arbeit verloren.",
+    "yesterday": "gestern",
+    "recently": "kürzlich",
+    "ago": "vor",
+    "he_has_found_a": {
+      "t": "Er hat kürzlich eine bessere Arbeit gefunden.",
+      "g": [
+        6
+      ]
+    },
+    "i_have_passed_my": "Ich habe meine Fahrprüfung bestanden.",
+    "my_students_have_improved": "Meine Schüler haben ihr Englisch sehr verbessert.",
+    "they_have_won_first": "Sie haben den ersten Preis im Wettbewerb gewonnen.",
+    "she_has_finished_her": "Sie hat ihr Universitätsstudium abgeschlossen.",
+    "i_have_learned_to": {
+      "t": "Ich habe gelernt, Gitarre zu spielen.",
+      "g": [
+        3
+      ]
+    },
+    "she_has_published_her": {
+      "t": "Sie hat ihren ersten Roman veröffentlicht.",
+      "g": [
+        4
+      ]
+    },
+    "passed": "bestehen",
+    "won": "gewinnen",
+    "achieved": "erreichen",
+    "completed": "fertigstellen",
+    "we_have_completed_the": "Wir haben das Projekt pünktlich fertiggestellt.",
+    "he_has_achieved_all": {
+      "t": "Er hat alle seine Ziele erreicht.",
+      "g": [
+        5
+      ]
+    },
+    "i_am_proud_of": "Ich bin stolz auf das, was ich geschafft habe.",
+    "my_team_has_finally": {
+      "t": "Mein Team hat es endlich an die Spitze geschafft.",
+      "g": [
+        4
+      ]
+    },
+    "she_has_run_three": "Sie ist bisher drei Marathons gelaufen.",
+    "they_have_raised_money": "Sie haben Geld für ein Krankenhaus gesammelt.",
+    "i_have_never_given": "Ich habe meine Träume nie aufgegeben.",
+    "he_has_become_the": "Er ist der beste Spieler hier geworden.",
+    "proud": "stolz",
+    "prize": "Preis",
+    "degree": "Abschluss",
+    "finally": "endlich",
+    "we_have_saved_enough": {
+      "t": "Wir haben genug Geld für die Reise gespart.",
+      "g": [
+        2
+      ]
+    },
+    "i_was_sleeping_at": "Ich habe gestern Nacht um Mitternacht geschlafen.",
+    "who_was_he_talking": "Mit wem hat er am Telefon gesprochen?",
+    "i_was_thinking_about": "Ich habe heute Morgen an dich gedacht.",
+    "what_were_you_doing": "Was hast du gestern um acht Uhr gemacht?",
+    "were_you_studying_all": {
+      "t": "Hast du die ganze Nacht für die Prüfung gelernt?",
+      "g": [
+        7
+      ]
+    },
+    "she_was_wearing_a": {
+      "t": "Sie trug ein schönes rotes Kleid.",
+      "g": [
+        5
+      ]
+    },
+    "sleeping": "schlafen",
+    "cooking": "kochen",
+    "waiting": "warten",
+    "watching": "ansehen",
+    "she_was_cooking_dinner": {
+      "t": "Sie hat für ihre Gäste das Abendessen gekocht.",
+      "g": [
+        7
+      ]
+    },
+    "they_were_watching_a": {
+      "t": "Sie haben zu Hause einen Film angesehen.",
+      "g": [
+        6
+      ]
+    },
+    "it_was_raining_all": "Gestern hat es den ganzen Nachmittag geregnet.",
+    "we_were_waiting_for": {
+      "t": "Wir haben zusammen auf den Bus gewartet.",
+      "g": [
+        6
+      ]
+    },
+    "he_was_driving_too": "Er ist auf der Autobahn zu schnell gefahren.",
+    "i_wasn't_listening_to": "Ich habe dem Lehrer nicht aufmerksam zugehört.",
+    "we_were_playing_cards": "Wir haben bis Mitternacht Karten gespielt.",
+    "the_children_were_laughing": "Die Kinder haben im Garten gelacht.",
+    "driving": "Auto fahren",
+    "studying": "studieren",
+    "laughing": "lachen",
+    "thinking": "denken",
+    "my_parents_were_traveling": {
+      "t": "Meine Eltern waren letzten Monat in Italien unterwegs.",
+      "g": [
+        7
+      ]
+    },
+    "i_was_sleeping_when": "Ich habe geschlafen, als du angerufen hast.",
+    "the_baby_woke_up": "Das Baby ist aufgewacht, während ich gekocht habe.",
+    "what_were_you_doing_when": "Was hast du gemacht, als ich dich angerufen habe?",
+    "she_was_cooking_while": "Sie hat gekocht, während er gelesen hat.",
+    "they_were_laughing_when": {
+      "t": "Sie haben gelacht, als der Lehrer hereinkam.",
+      "g": [
+        5
+      ]
+    },
+    "when_he_heard_the": {
+      "t": "Als er die Nachricht hörte, weinte er.",
+      "g": [
+        3
+      ]
+    },
+    "when": "als",
+    "while": "während",
+    "suddenly": "plötzlich",
+    "then": "dann",
+    "when_i_arrived_they": "Als ich ankam, aßen sie schon.",
+    "the_phone_rang_while": {
+      "t": "Das Telefon klingelte, während wir zu Abend aßen.",
+      "g": [
+        2
+      ]
+    },
+    "suddenly_the_lights_went": "Plötzlich ging das Licht aus.",
+    "after": "nachher",
+    "he_fell_while_he": {
+      "t": "Er ist gefallen, während er auf einen Baum kletterte.",
+      "g": [
+        8
+      ]
+    },
+    "when_the_rain_stopped": "Als der Regen aufhörte, gingen wir nach draußen.",
+    "i_met_my_best": "Ich habe meinen besten Freund im Auslandsstudium kennengelernt.",
+    "we_were_walking_home": "Wir gingen nach Hause, als es zu regnen begann.",
+    "she_was_crossing_the": "Sie überquerte die Straße, als es passierte.",
+    "later": "später",
+    "during": "im Verlauf",
+    "until": "bis",
+    "while_i_was_waiting": {
+      "t": "Während ich wartete, las ich eine Zeitschrift.",
+      "g": [
+        6
+      ]
+    },
+    "i_used_to_play": "Ich habe früher jeden Tag draußen gespielt.",
+    "he_used_to_wear": "Als Kind trug er eine Brille.",
+    "i_miss_the_way": "Ich vermisse die Art, wie wir früher gelebt haben.",
+    "we_used_to_visit": "Wir haben unsere Großeltern früher oft besucht.",
+    "i_used_to_hate": {
+      "t": "Früher habe ich es gehasst, früh aufzustehen.",
+      "g": [
+        4
+      ]
+    },
+    "we_used_to_swim": {
+      "t": "Früher sind wir im Fluss geschwommen.",
+      "g": [
+        4
+      ]
+    },
+    "used": "früher",
+    "memories": "Erinnerungen",
+    "grandparents": "Großeltern",
+    "toys": "Spielzeug",
+    "she_used_to_be": "Sie hatte früher Angst vor Hunden.",
+    "he_didn't_use_to": {
+      "t": "Früher mochte er kein Gemüse.",
+      "g": [
+        4
+      ]
+    },
+    "did_you_use_to": "Bist du früher zu Fuß zur Schule gegangen?",
+    "we_used_to_live": {
+      "t": "Wir haben früher in einem kleinen Dorf gelebt.",
+      "g": [
+        6
+      ]
+    },
+    "my_father_used_to": "Mein Vater hat uns früher Geschichten erzählt.",
+    "they_used_to_collect": "Sie haben früher alte Münzen gesammelt.",
+    "our_neighbors_used_to": "Unsere Nachbarn haben uns früher Süßigkeiten gegeben.",
+    "there_used_to_be": "Früher gab es hier einen Park.",
+    "neighborhood": "Nachbarschaft",
+    "school": "Schule",
+    "summer": "Sommer",
+    "she_used_to_cry": {
+      "t": "An ihrem ersten Tag hat sie oft geweint.",
+      "g": [
+        7
+      ]
+    },
+    "my_sister_got_married": "Meine Schwester hat letztes Jahr geheiratet.",
+    "my_first_day_at": "Mein erster Arbeitstag war aufregend.",
+    "we_took_many_photos": "Wir haben auf der Party viele Fotos gemacht.",
+    "the_wedding_was_held": "Die Hochzeit fand am Meer statt.",
+    "they_celebrated_their_anniversary": {
+      "t": "Sie haben ihren Jahrestag in einem Restaurant gefeiert.",
+      "g": [
+        3
+      ]
+    },
+    "he_became_a_father": {
+      "t": "Er ist vor zwei Jahren Vater geworden.",
+      "g": [
+        5
+      ]
+    },
+    "wedding": "Hochzeit",
+    "birthday": "Geburtstag",
+    "graduation": "Abschlussfeier",
+    "festival": "Festival",
+    "we_celebrated_my_graduation": "Wir haben meine Abschlussfeier mit der Familie gefeiert.",
+    "it_was_the_most": {
+      "t": "Es war der unvergesslichste Tag überhaupt.",
+      "g": [
+        3
+      ]
+    },
+    "my_grandfather_died_when": "Mein Großvater starb, als ich zehn war.",
+    "we_moved_to_a": {
+      "t": "Wir sind 2018 in ein neues Land gezogen.",
+      "g": [
+        6
+      ]
+    },
+    "she_won_an_important": "Sie hat im letzten Frühling einen wichtigen Preis gewonnen.",
+    "the_festival_takes_place": "Das Festival findet jeden Herbst statt.",
+    "hundreds_of_people_attended": "Hunderte von Menschen besuchten das Konzert.",
+    "i_will_never_forget": "Ich werde diesen Tag nie vergessen.",
+    "anniversary": "Jahrestag",
+    "ceremony": "Zeremonie",
+    "memorable": "unvergesslich",
+    "celebrated": "feiern",
+    "the_ceremony_started_at": {
+      "t": "Die Zeremonie begann um sechs Uhr.",
+      "g": [
+        1
+      ]
+    },
+    "first_i_woke_up": "Zuerst bin ich aufgewacht und habe Kaffee gemacht.",
+    "let_me_tell_you": "Lass mich dir erzählen, was gestern passiert ist.",
+    "it_was_the_strangest": "Es war der seltsamste Tag meines Lebens.",
+    "then_i_walked_to": "Dann bin ich zur Bushaltestelle gelaufen.",
+    "the_king_was_surprised": {
+      "t": "Der König war überrascht und ein bisschen ängstlich.",
+      "g": [
+        3
+      ]
+    },
+    "in_the_end_everyone": {
+      "t": "Am Ende waren alle glücklich.",
+      "g": [
+        3
+      ]
+    },
+    "first": "zuerst",
+    "next": "als Nächstes",
+    "next_i_realized_i": "Als Nächstes merkte ich, dass ich meine Brieftasche vergessen hatte.",
+    "i_ran_back_home": {
+      "t": "Ich bin so schnell wie möglich nach Hause gerannt.",
+      "g": [
+        8
+      ]
+    },
+    "finally_i_caught_the": "Schließlich habe ich den Bus gerade noch rechtzeitig erwischt.",
+    "once_upon_a_time": {
+      "t": "Es war einmal ein König.",
+      "g": [
+        4
+      ]
+    },
+    "he_lived_alone_in": "Er lebte allein in einem riesigen Schloss.",
+    "one_day_a_stranger": "Eines Tages klopfte ein Fremder an die Tür.",
+    "that_story_always_makes": "Diese Geschichte bringt meine Kinder immer zum Lächeln.",
+    "after_a_long_talk": "Nach einem langen Gespräch wurden sie gute Freunde.",
+    "story": "Geschichte",
+    "beginning": "Anfang",
+    "ending": "Ende",
+    "they_traveled_together_to": {
+      "t": "Sie reisten zusammen in viele ferne Länder.",
+      "g": [
+        5
+      ]
+    },
+    "i_think_it_will": {
+      "t": "Ich glaube, morgen wird es regnen.",
+      "g": [
+        5
+      ]
+    },
+    "in_the_future_people": "In Zukunft werden die Menschen länger leben.",
+    "she_is_going_to": "Sie bekommt im Mai ein Baby.",
+    "look_at_those_clouds": "Sieh dir die Wolken an, es wird regnen.",
+    "i'm_sure_you_will": {
+      "t": "Ich bin sicher, du wirst diesen Film lieben.",
+      "g": [
+        6
+      ]
+    },
+    "our_team_is_going": {
+      "t": "Unser Team wird heute gewinnen.",
+      "g": [
+        4
+      ]
+    },
+    "probably": "wahrscheinlich",
+    "maybe": "vielleicht",
+    "certainly": "sicherlich",
+    "soon": "bald",
+    "she_will_probably_pass": "Sie wird die Prüfung wahrscheinlich leicht bestehen.",
+    "i_think_technology_will": {
+      "t": "Ich glaube, Technologie wird unser Leben verändern.",
+      "g": [
+        2
+      ]
+    },
+    "he_is_going_to": "Er wird bald Vater.",
+    "tomorrow": "morgen",
+    "we_won't_arrive_before": {
+      "t": "Wir werden nicht vor neun Uhr ankommen.",
+      "g": [
+        6
+      ]
+    },
+    "maybe_they_will_move": "Vielleicht ziehen sie in eine andere Stadt um.",
+    "be_careful_the_baby": "Vorsicht, das Baby wird gleich fallen!",
+    "i_don't_think_he": "Ich glaube nicht, dass er kommt.",
+    "prices_will_certainly_go": "Die Preise werden nächstes Jahr sicherlich steigen.",
+    "future": "Zukunft",
+    "tonight": "heute Abend",
+    "expect": "erwarten",
+    "do_you_think_it": {
+      "t": "Glaubst du, es wird heute Abend schneien?",
+      "g": [
+        6
+      ]
+    },
+    "i'm_meeting_my_manager": "Ich treffe morgen um zehn Uhr meinen Chef.",
+    "is_he_picking_you": "Holt er dich mittags ab?",
+    "i'm_not_doing_anything": "Ich habe morgen Abend nichts Besonderes vor.",
+    "we_are_flying_to": "Wir fliegen am Freitag nach Dubai.",
+    "are_you_working_on": {
+      "t": "Arbeitest du am Samstag?",
+      "g": [
+        0
+      ]
+    },
+    "she's_starting_her_new": {
+      "t": "Sie fängt am Montag ihre neue Stelle an.",
+      "g": [
+        1
+      ]
+    },
+    "appointment": "Termin",
+    "meeting": "Besprechung",
+    "flight": "Flug",
+    "weekend": "Wochenende",
+    "she's_seeing_the_dentist": "Sie geht heute Nachmittag zum Zahnarzt.",
+    "what_are_you_doing": {
+      "t": "Was machst du dieses Wochenende?",
+      "g": [
+        4
+      ]
+    },
+    "they_are_getting_married": "Sie heiraten im Juni.",
+    "i'm_having_dinner_with": {
+      "t": "Ich habe heute Abend ein Abendessen mit Freunden.",
+      "g": [
+        5
+      ]
+    },
+    "he_isn't_coming_to": "Er kommt nicht zur Party.",
+    "we_are_moving_to": "Wir ziehen in ein größeres Haus um.",
+    "we're_visiting_the_museum": "Wir besuchen das Museum mit unserem Lehrer.",
+    "my_parents_are_arriving": "Meine Eltern kommen am Montagmorgen an.",
+    "tickets": "Tickets",
+    "dentist": "Zahnarzt",
+    "party": "Party",
+    "plans": "Pläne",
+    "i've_booked_the_tickets": {
+      "t": "Ich habe die Tickets für nächsten Sonntag gebucht.",
+      "g": [
+        3
+      ]
+    },
+    "i_promise_i_will": {
+      "t": "Ich verspreche, dass ich dich heute Abend anrufe.",
+      "g": [
+        1
+      ]
+    },
+    "you_can_trust_me": "Du kannst mir vertrauen, ich werde es nicht vergessen.",
+    "i'll_give_you_my": "Ich gebe dir bis Freitag meine Antwort.",
+    "i'll_help_you_with": "Ich helfe dir bei deinen Hausaufgaben.",
+    "i'll_pay_for_dinner": {
+      "t": "Diesmal bezahle ich das Abendessen.",
+      "g": [
+        1
+      ]
+    },
+    "let_me_repair_your": {
+      "t": "Lass mich dein Fahrrad dieses Wochenende reparieren.",
+      "g": [
+        6
+      ]
+    },
+    "promise": "Versprechen",
+    "offer": "Angebot",
+    "help": "helfen",
+    "carry": "tragen",
+    "shall_i_open_the": "Soll ich dir das Fenster öffnen?",
+    "don't_worry_i'll_carry": {
+      "t": "Keine Sorge, ich trage deine Taschen.",
+      "g": [
+        3
+      ]
+    },
+    "i_will_never_tell": "Ich werde nie jemandem dein Geheimnis verraten.",
+    "we'll_pick_you_up": {
+      "t": "Wir holen dich am Flughafen ab.",
+      "g": [
+        4
+      ]
+    },
+    "i_promise_i_won't": "Ich verspreche, nie wieder zu spät zu kommen.",
+    "would_you_like_some": "Möchtest du etwas Tee oder Kaffee?",
+    "i'll_do_the_dishes": "Ich spüle ab, wenn du kochst.",
+    "can_i_give_you": "Kann ich dich nach Hause fahren?",
+    "repair": "reparieren",
+    "return": "zurückgeben",
+    "secret": "Geheimnis",
+    "trust": "vertrauen",
+    "i'll_return_your_book": {
+      "t": "Ich gebe dir dein Buch am Montag zurück.",
+      "g": [
+        7
+      ]
+    },
+    "my_main_goal_is": "Mein Hauptziel ist es, Arzt zu werden.",
+    "to_succeed_you_must": "Um erfolgreich zu sein, darfst du nie aufhören zu lernen.",
+    "i'd_like_to_start": "Ich möchte mein eigenes Unternehmen gründen.",
+    "i_want_to_build": "Ich möchte eine erfolgreiche Karriere aufbauen.",
+    "i_hope_to_earn": {
+      "t": "Ich hoffe, ein besseres Gehalt zu bekommen.",
+      "g": [
+        4
+      ]
+    },
+    "i_intend_to_learn": {
+      "t": "Ich habe vor, drei Sprachen zu lernen.",
+      "g": [
+        4
+      ]
+    },
+    "career": "Karriere",
+    "goal": "Ziel",
+    "promotion": "Beförderung",
+    "salary": "Gehalt",
+    "she_hopes_to_get": "Sie hofft, bald eine Beförderung zu bekommen.",
+    "i'm_planning_to_study": {
+      "t": "Ich plane, nächstes Jahr Betriebswirtschaft zu studieren.",
+      "g": [
+        4
+      ]
+    },
+    "he_dreams_of_opening": "Er träumt davon, eine eigene Firma zu eröffnen.",
+    "i_need_to_improve": {
+      "t": "Ich muss meine Computerkenntnisse verbessern.",
+      "g": [
+        3
+      ]
+    },
+    "she_would_like_to": "Sie würde eines Tages gern im Ausland arbeiten.",
+    "my_dream_job_is": "Mein Traumberuf ist Pilot.",
+    "she_is_working_hard": "Sie arbeitet hart, um ihre Ziele zu erreichen.",
+    "we_aim_to_finish": "Wir wollen das Projekt früh abschließen.",
+    "experience": "Erfahrung",
+    "skills": "Fähigkeiten",
+    "company": "Firma",
+    "dream": "Traum",
+    "he_is_looking_for": {
+      "t": "Er sucht mehr Berufserfahrung.",
+      "g": [
+        3
+      ]
+    },
+    "in_ten_years_i": "In zehn Jahren werde ich dreißig sein.",
+    "i_will_not_be": "Ich werde keine Angst vor dem Scheitern haben.",
+    "in_a_decade_everything": "In einem Jahrzehnt wird alles anders aussehen.",
+    "hopefully_i_will_own": "Hoffentlich besitze ich eine kleine Bäckerei.",
+    "i_hope_i_will": {
+      "t": "Ich hoffe, ich bin noch gesund.",
+      "g": [
+        5
+      ]
+    },
+    "robots_will_probably_do": {
+      "t": "Roboter werden wahrscheinlich die meiste Hausarbeit erledigen.",
+      "g": [
+        5
+      ]
+    },
+    "decade": "Jahrzehnt",
+    "hopefully": "hoffentlich",
+    "retire": "in Rente gehen",
+    "wealthy": "wohlhabend",
+    "by_then_i_will": "Bis dahin werde ich die Universität abgeschlossen haben.",
+    "my_children_will_be": {
+      "t": "Meine Kinder werden dann Teenager sein.",
+      "g": [
+        4
+      ]
+    },
+    "i_imagine_i_will": "Ich stelle mir vor, dass ich im Ausland leben werde.",
+    "she_will_probably_be": {
+      "t": "Sie wird wahrscheinlich als Ingenieurin arbeiten.",
+      "g": [
+        4
+      ]
+    },
+    "cities_will_be_cleaner": "Städte werden sauberer und viel ruhiger sein.",
+    "we_will_travel_by": "Eines Tages werden wir mit fliegenden Autos reisen.",
+    "will_you_still_live": "Wirst du noch in dieser Stadt wohnen?",
+    "my_parents_will_have": "Meine Eltern werden dann schon in Rente sein.",
+    "healthy": "gesund",
+    "settled": "etabliert",
+    "imagine": "sich vorstellen",
+    "someday": "eines Tages",
+    "i_will_have_saved": {
+      "t": "Ich werde genug Geld zum Reisen gespart haben.",
+      "g": [
+        6
+      ]
+    },
+    "in_my_opinion_learning": "Meiner Meinung nach ist Sprachenlernen wichtig.",
+    "i_strongly_believe_honesty": "Ich bin fest überzeugt, dass Ehrlichkeit am längsten währt.",
+    "if_you_ask_me": "Wenn du mich fragst, ist es eine tolle Idee.",
+    "i_believe_children_should": "Ich glaube, Kinder sollten jeden Tag lesen.",
+    "it_seems_to_me": {
+      "t": "Mir scheint, dass er recht hat.",
+      "g": [
+        1
+      ]
+    },
+    "i'm_not_sure_but": {
+      "t": "Ich bin nicht sicher, aber ich glaube schon.",
+      "g": [
+        3
+      ]
+    },
+    "opinion": "Meinung",
+    "believe": "glauben",
+    "honestly": "ehrlich gesagt",
+    "personally": "persönlich",
+    "personally_i_prefer_studying": "Persönlich lerne ich lieber morgens.",
+    "as_far_as_i'm": {
+      "t": "Was mich betrifft, ist es zu teuer.",
+      "g": [
+        6
+      ]
+    },
+    "i_think_the_film": "Ich finde, der Film war ein bisschen langweilig.",
+    "to_be_honest_i": {
+      "t": "Ehrlich gesagt mag ich kein scharfes Essen.",
+      "g": [
+        5
+      ]
+    },
+    "from_my_point_of": "Aus meiner Sicht ist Bewegung unverzichtbar.",
+    "i_feel_that_people": "Ich habe das Gefühl, die Leute verbringen zu viel Zeit online.",
+    "in_my_view_public": "Meiner Ansicht nach sollten öffentliche Verkehrsmittel billiger sein.",
+    "i'm_convinced_that_this": "Ich bin überzeugt, dass dieser Plan funktionieren wird.",
+    "important": "wichtig",
+    "true": "wahr",
+    "wrong": "falsch",
+    "view": "Ansicht",
+    "what_is_your_opinion": {
+      "t": "Was ist deine Meinung zu sozialen Medien?",
+      "g": [
+        3
+      ]
+    },
+    "i_completely_agree_with": "Da stimme ich dir völlig zu.",
+    "i_couldn't_agree_more": "Ich könnte deiner Idee nicht mehr zustimmen.",
+    "sorry_but_i_see": "Entschuldigung, aber ich sehe das anders.",
+    "that's_exactly_what_i": "Genau das habe ich gerade gedacht.",
+    "neither_do_i_i": {
+      "t": "Ich auch nicht. Ich empfinde das Gleiche.",
+      "g": [
+        6
+      ]
+    },
+    "we'll_have_to_agree": {
+      "t": "Wir werden wohl verschiedener Meinung bleiben.",
+      "g": [
+        3
+      ]
+    },
+    "agree": "zustimmen",
+    "disagree": "widersprechen",
+    "exactly": "genau",
+    "absolutely": "absolut",
+    "i'm_afraid_i_don't": "Ich fürchte, dem stimme ich nicht zu.",
+    "you_have_a_good": {
+      "t": "Da hast du einen guten Punkt.",
+      "g": [
+        5
+      ]
+    },
+    "i_see_what_you": "Ich verstehe, was du meinst, aber ich widerspreche.",
+    "i_partly_agree_but": {
+      "t": "Ich stimme teilweise zu, aber so einfach ist es nicht.",
+      "g": [
+        2
+      ]
+    },
+    "absolutely_that's_a_brilliant": "Absolut! Das ist eine brillante Idee.",
+    "i_don't_think_that's": "Ich glaube nicht, dass das ganz stimmt.",
+    "that_may_be_true": "Das mag stimmen, aber denk an die Kosten.",
+    "you're_right_i_hadn't": "Du hast recht, daran hatte ich nicht gedacht.",
+    "partly": "teilweise",
+    "point": "Punkt",
+    "argue": "argumentieren",
+    "convince": "überzeugen",
+    "i'd_say_the_opposite": {
+      "t": "Ich würde eigentlich das Gegenteil sagen.",
+      "g": [
+        4
+      ]
+    },
+    "one_advantage_is_that": "Ein Vorteil ist, dass es Zeit spart.",
+    "studying_abroad_is_expensive": "Im Ausland zu studieren ist teuer, aber es lohnt sich.",
+    "weighing_the_pros_and": "Das Abwägen von Vor- und Nachteilen braucht Zeit.",
+    "a_big_disadvantage_is": "Ein großer Nachteil sind die hohen Kosten.",
+    "living_in_a_city": {
+      "t": "In einer Stadt zu leben hat mehrere Vorteile.",
+      "g": [
+        7
+      ]
+    },
+    "the_biggest_benefit_is": {
+      "t": "Der größte Vorteil ist, neue Leute kennenzulernen.",
+      "g": [
+        6
+      ]
+    },
+    "advantage": "Vorteil",
+    "disadvantage": "Nachteil",
+    "benefit": "Nutzen",
+    "drawback": "Schwachstelle",
+    "working_from_home_has": "Von zu Hause zu arbeiten hat viele Vorteile.",
+    "on_the_other_hand": {
+      "t": "Andererseits kann es einsam sein.",
+      "g": [
+        3
+      ]
+    },
+    "cars_are_convenient_but": "Autos sind praktisch, aber sie verschmutzen die Luft.",
+    "the_main_drawback_is": {
+      "t": "Der Hauptnachteil ist die lange Wartezeit.",
+      "g": [
+        5
+      ]
+    },
+    "online_shopping_is_quick": "Online-Shopping ist schnell und einfach.",
+    "however_you_cannot_touch": "Allerdings kann man die Produkte nicht anfassen.",
+    "a_disadvantage_of_the": "Ein Nachteil des Plans ist der Lärm.",
+    "there_is_always_a": "Es besteht immer ein Risiko des Scheiterns.",
+    "cost": "Kosten",
+    "convenient": "praktisch",
+    "risk": "Risiko",
+    "quick": "schnell",
+    "public_transport_is_cheaper": {
+      "t": "Öffentliche Verkehrsmittel sind billiger, als ein Auto zu besitzen.",
+      "g": [
+        8
+      ]
+    },
+    "this_bag_is_as": "Diese Tasche ist so schwer wie jene.",
+    "my_phone_is_slightly": "Mein Handy ist etwas billiger als deins.",
+    "nobody_is_as_patient": "Niemand ist so geduldig wie meine Mutter.",
+    "she_isn't_as_tall": "Sie ist nicht so groß wie ihr Bruder.",
+    "it's_the_least_expensive": {
+      "t": "Es ist das günstigste Hotel der Stadt.",
+      "g": [
+        3
+      ]
+    },
+    "the_harder_we_work": {
+      "t": "Je härter wir arbeiten, desto früher sind wir fertig.",
+      "g": [
+        5
+      ]
+    },
+    "equal": "gleichwertig",
+    "same": "derselbe",
+    "different": "verschieden",
+    "similar": "ähnlich",
+    "the_more_i_practice": "Je mehr ich übe, desto besser werde ich.",
+    "the_earlier_you_leave": {
+      "t": "Je früher du losgehst, desto schneller kommst du an.",
+      "g": [
+        5
+      ]
+    },
+    "the_more_you_read": "Je mehr du liest, desto mehr lernst du.",
+    "this_test_was_much": {
+      "t": "Dieser Test war viel schwerer als der letzte.",
+      "g": [
+        4
+      ]
+    },
+    "cairo_is_not_nearly": "Kairo ist bei Weitem nicht so kalt wie Moskau.",
+    "he_drives_more_carefully": "Er fährt vorsichtiger als sein Vater.",
+    "life_here_is_twice": "Das Leben hier ist doppelt so teuer wie früher.",
+    "this_is_by_far": "Das ist bei Weitem das beste Restaurant hier.",
+    "more": "mehr",
+    "less": "weniger",
+    "most": "am meisten",
+    "least": "am wenigsten",
+    "her_english_is_getting": {
+      "t": "Ihr Englisch wird immer besser.",
+      "g": [
+        4
+      ]
+    },
+    "you_should_drink_more": "Du solltest jeden Tag mehr Wasser trinken.",
+    "you'd_better_not_drive": "Du solltest besser nicht fahren, wenn du müde bist.",
+    "should_i_take_the": "Soll ich den Zug oder den Bus nehmen?",
+    "you'd_better_take_an": "Nimm heute besser einen Regenschirm mit.",
+    "you_ought_to_apologize": {
+      "t": "Du solltest dich bei ihr entschuldigen.",
+      "g": [
+        5
+      ]
+    },
+    "my_advice_is_to": {
+      "t": "Mein Rat ist, früh anzufangen.",
+      "g": [
+        1
+      ]
+    },
+    "advice": "Rat",
+    "suggest": "vorschlagen",
+    "recommend": "empfehlen",
+    "should": "sollte",
+    "i_suggest_we_leave": "Ich schlage vor, dass wir vor dem Verkehr losfahren.",
+    "why_don't_you_talk": {
+      "t": "Warum sprichst du nicht mit deinem Lehrer?",
+      "g": [
+        1
+      ]
+    },
+    "you_shouldn't_stay_up": "Du solltest nicht so lange aufbleiben.",
+    "you_had_better_see": {
+      "t": "Du solltest bald besser einen Arzt aufsuchen.",
+      "g": [
+        5
+      ]
+    },
+    "how_about_trying_a": "Wie wäre es mit einem anderen Restaurant?",
+    "i_recommend_reading_this": "Ich empfehle, dieses Buch zuerst zu lesen.",
+    "maybe_you_could_ask": "Vielleicht könntest du deine Nachbarn um Hilfe bitten.",
+    "let's_take_a_short": "Machen wir jetzt eine kurze Pause.",
+    "rest": "Ruhe",
+    "careful": "vorsichtig",
+    "wise": "weise",
+    "sensible": "vernünftig",
+    "you_shouldn't_spend_all": {
+      "t": "Du solltest nicht all deine Ersparnisse ausgeben.",
+      "g": [
+        5
+      ]
+    },
+    "i_see_your_point": "Ich verstehe deinen Punkt, aber ich sehe es anders.",
+    "please_don't_take_this": "Nimm das bitte nicht falsch auf.",
+    "we_may_simply_see": "Vielleicht sehen wir die Dinge einfach unterschiedlich.",
+    "with_respect_i_think": "Bei allem Respekt, ich glaube, du irrst dich.",
+    "i_respect_your_opinion": {
+      "t": "Ich respektiere deine Meinung, aber ich sehe es anders.",
+      "g": [
+        1
+      ]
+    },
+    "that's_a_fair_point": {
+      "t": "Das ist ein berechtigter Punkt, aber bedenke Folgendes.",
+      "g": [
+        6
+      ]
+    },
+    "respect": "Respekt",
+    "perhaps": "eventuell",
+    "understand": "verstehen",
+    "however": "jedoch",
+    "i_understand_but_i": "Ich verstehe, aber ich habe eine andere Ansicht.",
+    "perhaps_we_could_look": {
+      "t": "Vielleicht könnten wir es anders betrachten.",
+      "g": [
+        4
+      ]
+    },
+    "i'm_not_sure_i": "Ich bin nicht sicher, ob ich dem zustimme.",
+    "that's_interesting_but_i": {
+      "t": "Das ist interessant, aber ich sehe es anders.",
+      "g": [
+        2
+      ]
+    },
+    "although_you're_right_there's": "Obwohl du recht hast, gibt es noch eine andere Seite.",
+    "forgive_me_but_i": "Verzeih mir, aber so sehe ich das nicht.",
+    "i_hear_you_but": "Ich höre dich, aber ich bin nicht überzeugt.",
+    "could_i_offer_a": "Darf ich hier eine andere Perspektive anbieten?",
+    "although": "obwohl",
+    "politely": "höflich",
+    "mistaken": "im Irrtum",
+    "concern": "Sorge",
+    "i'm_afraid_the_facts": {
+      "t": "Ich fürchte, die Fakten sagen etwas anderes.",
+      "g": [
+        3
+      ]
+    },
+    "if_it_rains_we": {
+      "t": "Wenn es regnet, bleiben wir zu Hause.",
+      "g": [
+        2
+      ]
+    },
+    "if_you_don't_hurry": "Wenn du dich nicht beeilst, verpasst du den Bus.",
+    "i'll_lend_you_money": "Ich leihe dir Geld, wenn du es versprichst.",
+    "if_you_study_hard": "Wenn du fleißig lernst, wirst du bestehen.",
+    "what_will_you_do": {
+      "t": "Was machst du, wenn du durchfällst?",
+      "g": [
+        5
+      ]
+    },
+    "if_the_shop_is": {
+      "t": "Wenn der Laden geschlossen ist, bestellen wir online.",
+      "g": [
+        3
+      ]
+    },
+    "if": "wenn",
+    "unless": "es sei denn",
+    "otherwise": "sonst",
+    "happen": "passieren",
+    "i'll_call_you_if": "Ich rufe dich an, wenn ich zu spät bin.",
+    "if_he_comes_i": {
+      "t": "Wenn er kommt, sage ich es ihm.",
+      "g": [
+        2
+      ]
+    },
+    "we'll_miss_the_train": "Wir verpassen den Zug, es sei denn, wir beeilen uns.",
+    "if_she_calls_i'll": {
+      "t": "Wenn sie anruft, antworte ich sofort.",
+      "g": [
+        2
+      ]
+    },
+    "unless_you_leave_now": "Wenn du nicht jetzt gehst, kommst du zu spät.",
+    "if_we_win_we": "Wenn wir gewinnen, feiern wir heute Abend.",
+    "she'll_be_angry_if": "Sie wird wütend sein, wenn du es kaputt machst.",
+    "if_i_find_your": "Wenn ich deine Schlüssel finde, sage ich dir Bescheid.",
+    "miss": "verpassen",
+    "wait": "abwarten",
+    "call": "anrufen",
+    "hurry": "sich beeilen",
+    "take_a_jacket_otherwise": {
+      "t": "Nimm eine Jacke mit, sonst frierst du.",
+      "g": [
+        4
+      ]
+    },
+    "if_i_were_you": "Wenn ich du wäre, würde ich mich entschuldigen.",
+    "if_i_were_famous": "Wenn ich berühmt wäre, wäre ich nervös.",
+    "they_would_move_if": "Sie würden umziehen, wenn die Miete niedriger wäre.",
+    "if_i_had_more": "Wenn ich mehr Geld hätte, würde ich reisen.",
+    "if_i_were_rich": {
+      "t": "Wenn ich reich wäre, würde ich allen helfen.",
+      "g": [
+        2
+      ]
+    },
+    "she'd_learn_faster_if": {
+      "t": "Sie würde schneller lernen, wenn sie mehr üben würde.",
+      "g": [
+        7
+      ]
+    },
+    "pretend": "so tun als ob",
+    "could": "könnte",
+    "instead": "stattdessen",
+    "suppose": "annehmen",
+    "if_she_were_taller": "Wenn sie größer wäre, würde sie Basketball spielen.",
+    "what_would_you_do": {
+      "t": "Was würdest du tun, wenn du gewinnen würdest?",
+      "g": [
+        6
+      ]
+    },
+    "if_i_lived_near": "Wenn ich am Meer wohnte, würde ich täglich schwimmen.",
+    "if_he_were_braver": {
+      "t": "Wenn er mutiger wäre, würde er sich äußern.",
+      "g": [
+        2
+      ]
+    },
+    "i_wouldn't_buy_that": "An deiner Stelle würde ich dieses Auto nicht kaufen.",
+    "if_we_had_a": "Wenn wir einen Garten hätten, würden wir Tomaten anbauen.",
+    "if_it_were_up": "Wenn es nach mir ginge, würde ich bleiben.",
+    "would_you_go_if": "Würdest du gehen, wenn sie dich einladen würden?",
+    "unlikely": "unwahrscheinlich",
+    "rich": "reich",
+    "famous": "berühmt",
+    "brave": "mutig",
+    "if_i_knew_the": {
+      "t": "Wenn ich die Antwort wüsste, würde ich es dir sagen.",
+      "g": [
+        4
+      ]
+    },
+    "what_if_it_rains": "Was ist, wenn es auf unserer Hochzeit regnet?",
+    "what_if_there_is": "Was ist, wenn es heute Abend einen Notfall gibt?",
+    "what_if_we_get": "Was ist, wenn wir noch eine Chance bekommen?",
+    "what_if_we_miss": "Was ist, wenn wir den letzten Zug verpassen?",
+    "what_if_the_power": {
+      "t": "Was ist, wenn heute Abend der Strom ausfällt?",
+      "g": [
+        6
+      ]
+    },
+    "what_if_she_says": {
+      "t": "Was ist, wenn sie zu meinem Angebot ja sagt?",
+      "g": [
+        6
+      ]
+    },
+    "scenario": "Szenario",
+    "consequence": "Folge",
+    "prepared": "vorbereitet",
+    "what_if_nobody_comes": "Was ist, wenn niemand zur Party kommt?",
+    "what_would_happen_if": {
+      "t": "Was würde passieren, wenn ich nein sagte?",
+      "g": [
+        2
+      ]
+    },
+    "suppose_you_lost_your": "Stell dir vor, du verlierst morgen deine Arbeit.",
+    "what_if_the_plan": {
+      "t": "Was ist, wenn der Plan nicht funktioniert?",
+      "g": [
+        4
+      ]
+    },
+    "what_if_he_finds": "Was ist, wenn er die Wahrheit herausfindet?",
+    "what_if_we_had": "Was ist, wenn wir einen Ersatzplan hätten?",
+    "what_if_we_are": "Was ist, wenn wir nicht vorbereitet sind?",
+    "what_if_i_made": "Was ist, wenn ich einen großen Fehler gemacht habe?",
+    "worst": "am schlimmsten",
+    "backup": "Ersatzplan",
+    "emergency": "Notfall",
+    "chance": "Gelegenheit",
+    "imagine_what_would_happen": {
+      "t": "Stell dir vor, was passieren würde, wenn alle helfen würden.",
+      "g": [
+        8
+      ]
+    }
+  }
+  }
