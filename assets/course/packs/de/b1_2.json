@@ -1,0 +1,1183 @@
+{
+  "titles": {
+    "b1_26": "Ich wünschte",
+    "b1_27": "Vielleicht, könnte, dürfte",
+    "b1_28": "Mein Lebenslauf",
+    "b1_29": "Ein Vorstellungsgespräch",
+    "b1_30": "Am Arbeitsplatz",
+    "b1_31": "Formelle E-Mails",
+    "b1_32": "Präsentationen",
+    "b1_33": "Im Ausland studieren",
+    "b1_34": "Technologie in unserem Leben",
+    "b1_35": "Soziale Medien",
+    "b1_36": "Nachrichten und Medien",
+    "b1_37": "Die Umwelt",
+    "b1_38": "Ein gesunder Lebensstil",
+    "b1_39": "Ernährung",
+    "b1_40": "Leben in der Stadt",
+    "b1_41": "Eine Reise planen",
+    "b1_42": "Reiseprobleme und Beschwerden",
+    "b1_43": "Kulturen und Traditionen",
+    "b1_44": "Kunst und Film",
+    "b1_45": "Bücher und Lesen",
+    "b1_46": "Feiern",
+    "b1_47": "Das Passiv",
+    "b1_48": "Die indirekte Rede",
+    "b1_49": "Verbindungswörter",
+    "b1_50": "Große Wiederholung B1"
+  },
+  "c": {
+    "i_wish_i_had": "Ich wünschte, ich hätte mehr Freizeit.",
+    "if_only_we_had": "Hätten wir nur früher aufgebrochen!",
+    "i_wish_the_weekend": "Ich wünschte, das Wochenende wäre länger.",
+    "i_wish_i_could": "Ich wünschte, ich könnte fließend Französisch sprechen.",
+    "i_wish_you_would": {
+      "t": "Ich wünschte, du würdest mir zuhören.",
+      "g": [
+        5
+      ]
+    },
+    "she_wishes_she_had": {
+      "t": "Sie wünscht sich eine größere Küche.",
+      "g": [
+        5
+      ]
+    },
+    "wish": "wünschen",
+    "regret": "Bedauern",
+    "hope": "hoffen",
+    "unfortunately": "leider",
+    "she_wishes_she_lived": "Sie wünscht sich, am Strand zu wohnen.",
+    "i_wish_it_weren't": {
+      "t": "Ich wünschte, es wäre heute nicht so kalt.",
+      "g": [
+        7
+      ]
+    },
+    "he_wishes_he_had": "Er wünscht sich, er hätte mehr gelernt.",
+    "i_wish_i_hadn't": {
+      "t": "Ich wünschte, ich hätte diese Worte nicht gesagt.",
+      "g": [
+        5
+      ]
+    },
+    "if_only_i_knew": "Wüsste ich nur die richtige Antwort!",
+    "we_wish_we_could": "Wir wünschten, wir könnten länger bleiben.",
+    "i_wish_i_were": "Ich wünschte, ich wäre zehn Jahre jünger.",
+    "they_wish_they_had": "Sie wünschen sich, sie hätten die Tickets gekauft.",
+    "shame": "Schade",
+    "realize": "erkennen",
+    "change": "ändern",
+    "past": "Vergangenheit",
+    "i_wish_my_brother": {
+      "t": "Ich wünschte, mein Bruder wohnte näher bei uns.",
+      "g": [
+        5
+      ]
+    },
+    "it_might_rain_later": "Es könnte heute Nachmittag später regnen.",
+    "your_phone_might_be": "Dein Handy liegt vielleicht im Auto.",
+    "they_might_have_missed": "Sie haben vielleicht den letzten Bus verpasst.",
+    "she_may_be_late": "Sie kommt vielleicht zu spät zur Besprechung.",
+    "she_could_win_if": {
+      "t": "Sie könnte gewinnen, wenn sie übt.",
+      "g": [
+        5
+      ]
+    },
+    "we_might_move_to": {
+      "t": "Vielleicht ziehen wir nächstes Jahr nach Kanada.",
+      "g": [
+        6
+      ]
+    },
+    "possible": "möglich",
+    "likely": "voraussichtlich",
+    "certain": "sicher",
+    "uncertain": "unsicher",
+    "we_could_go_to": "Wir könnten heute Abend ins Kino gehen.",
+    "he_might_not_know": {
+      "t": "Er weiß vielleicht nichts von der Party.",
+      "g": [
+        1
+      ]
+    },
+    "you_may_park_your": "Du darfst dein Auto draußen parken.",
+    "they_could_be_stuck": {
+      "t": "Sie stecken vielleicht im Stau fest.",
+      "g": [
+        5
+      ]
+    },
+    "i_might_change_my": "Vielleicht ändere ich morgen meine Meinung.",
+    "that_may_not_be": "Das ist vielleicht nicht die beste Idee.",
+    "the_shop_may_be": "Der Laden hat sonntags vielleicht geschlossen.",
+    "it_could_be_dangerous": "Es könnte gefährlich sein, hier zu schwimmen.",
+    "doubt": "Zweifel",
+    "guess": "vermuten",
+    "suspect": "verdächtigen",
+    "option": "Option",
+    "he_may_have_forgotten": {
+      "t": "Er hat unseren Termin vielleicht vergessen.",
+      "g": [
+        5
+      ]
+    },
+    "i_have_a_degree": "Ich habe einen Abschluss in Informatik.",
+    "i_managed_a_team": "Ich habe ein Team von zehn Personen geleitet.",
+    "i_enjoy_learning_new": "Ich lerne gern neue Computerprogramme.",
+    "i_graduated_from_cairo": "Ich habe 2020 an der Universität Kairo meinen Abschluss gemacht.",
+    "my_objective_is_to": {
+      "t": "Mein Ziel ist es, in ein wachsendes Unternehmen einzutreten.",
+      "g": [
+        1
+      ]
+    },
+    "please_find_my_cv": {
+      "t": "Meinen Lebenslauf finden Sie unten anbei.",
+      "g": [
+        5
+      ]
+    },
+    "education": "Bildung",
+    "qualification": "Qualifikation",
+    "reference": "Referenz",
+    "employer": "Arbeitgeber",
+    "i_worked_as_a": "Ich habe als Verkaufsassistent gearbeitet.",
+    "my_strengths_are_teamwork": {
+      "t": "Meine Stärken sind Teamarbeit und Geduld.",
+      "g": [
+        3
+      ]
+    },
+    "i_speak_english_and": "Ich spreche fließend Englisch und Spanisch.",
+    "i'm_applying_for_the": {
+      "t": "Ich bewerbe mich um die Stelle als Manager.",
+      "g": [
+        1
+      ]
+    },
+    "references_are_available_upon": "Referenzen sind auf Anfrage erhältlich.",
+    "i_volunteered_at_a": "Ich habe in einem örtlichen Krankenhaus ehrenamtlich gearbeitet.",
+    "i_have_five_years": "Ich habe fünf Jahre Büroerfahrung.",
+    "i_completed_a_training": "Ich habe eine Weiterbildung im Marketing abgeschlossen.",
+    "apply": "sich bewerben",
+    "position": "Stelle",
+    "volunteer": "ehrenamtlich arbeiten",
+    "strength": "Stärke",
+    "i'm_good_at_solving": {
+      "t": "Ich bin gut darin, Probleme schnell zu lösen.",
+      "g": [
+        7
+      ]
+    },
+    "thank_you_for_inviting": "Danke, dass Sie mich heute eingeladen haben.",
+    "yes_what_are_the": "Ja, wie sind die Arbeitszeiten?",
+    "we_will_contact_you": "Wir melden uns bis nächsten Freitag bei Ihnen.",
+    "tell_me_about_yourself": "Erzählen Sie mir bitte etwas über sich.",
+    "where_do_you_see": {
+      "t": "Wo sehen Sie sich in fünf Jahren?",
+      "g": [
+        5
+      ]
+    },
+    "i_can_start_at": {
+      "t": "Ich kann zu Beginn des nächsten Monats anfangen.",
+      "g": [
+        3
+      ]
+    },
+    "interview": "Vorstellungsgespräch",
+    "candidate": "Kandidat",
+    "hire": "einstellen",
+    "weakness": "Schwäche",
+    "why_do_you_want": "Warum möchten Sie diese Stelle?",
+    "i'm_interested_in_this": {
+      "t": "Ich bin an dieser Stelle interessiert, wegen der Wachstumschancen.",
+      "g": [
+        5
+      ]
+    },
+    "what_is_your_biggest": "Was ist Ihre größte Schwäche?",
+    "confident": "selbstbewusst",
+    "i_sometimes_work_too": {
+      "t": "Ich arbeite manchmal zu hart.",
+      "g": [
+        2
+      ]
+    },
+    "can_you_work_under": "Können Sie unter Druck arbeiten?",
+    "yes_i_stay_calm": "Ja, ich bleibe in schwierigen Situationen ruhig.",
+    "do_you_have_any": "Haben Sie Fragen an uns?",
+    "i'd_like_to_become": "Ich möchte Teamleiter werden.",
+    "available": "verfügbar",
+    "reply": "antworten",
+    "schedule": "Zeitplan",
+    "when_would_you_be": {
+      "t": "Wann wären Sie in der Lage, anzufangen?",
+      "g": [
+        5
+      ]
+    },
+    "my_colleagues_are_friendly": "Meine Kollegen sind freundlich und hilfsbereit.",
+    "i_usually_have_lunch": "Ich esse normalerweise an meinem Schreibtisch zu Mittag.",
+    "good_teamwork_makes_every": "Gute Teamarbeit macht jedes Projekt einfacher.",
+    "i_start_work_at": "Ich fange jeden Morgen um neun Uhr an zu arbeiten.",
+    "i'm_in_charge_of": {
+      "t": "Ich bin für den Kundendienst zuständig.",
+      "g": [
+        5
+      ]
+    },
+    "the_workload_has_increased": {
+      "t": "Die Arbeitsbelastung ist diesen Monat gestiegen.",
+      "g": [
+        1
+      ]
+    },
+    "colleague": "Kollege",
+    "boss": "Chef",
+    "deadline": "Frist",
+    "office": "Büro",
+    "we_have_a_team": "Wir haben montags eine Teambesprechung.",
+    "the_deadline_for_this": {
+      "t": "Die Frist für dieses Projekt ist Freitag.",
+      "g": [
+        1
+      ]
+    },
+    "my_boss_gave_me": "Mein Chef hat mir eine neue Aufgabe gegeben.",
+    "i_often_work_late": {
+      "t": "Ich arbeite oft lange, um die Berichte fertigzustellen.",
+      "g": [
+        6
+      ]
+    },
+    "our_office_has_a": "Unser Büro hat eine kleine Küche.",
+    "please_send_me_the": "Bitte schicken Sie mir den Bericht bis mittags.",
+    "she_was_promoted_to": "Sie wurde zur Senior-Managerin befördert.",
+    "we_share_one_printer": "Wir teilen uns einen Drucker mit allen.",
+    "project": "Projekt",
+    "task": "Aufgabe",
+    "teamwork": "Teamarbeit",
+    "workload": "Arbeitsbelastung",
+    "i_get_along_well": {
+      "t": "Ich verstehe mich gut mit meinem Team.",
+      "g": [
+        1
+      ]
+    },
+    "i_am_writing_to": "Ich schreibe Ihnen, um mich nach der Stelle zu erkundigen.",
+    "i_am_attaching_my": "Ich füge meinen Lebenslauf zur Durchsicht bei.",
+    "should_you_need_anything": "Sollten Sie noch etwas benötigen, kontaktieren Sie mich bitte.",
+    "please_find_the_attached": "Bitte finden Sie das beigefügte Dokument.",
+    "please_let_me_know": {
+      "t": "Bitte sagen Sie mir Bescheid, wenn sich etwas ändert.",
+      "g": [
+        8
+      ]
+    },
+    "i_am_available_for": {
+      "t": "Ich bin am Dienstag für ein Telefonat verfügbar.",
+      "g": [
+        3
+      ]
+    },
+    "attachment": "Anhang",
+    "regards": "Grüße",
+    "sincerely": "aufrichtig",
+    "inform": "informieren",
+    "i_would_be_grateful": "Ich wäre Ihnen für Ihre Antwort dankbar.",
+    "thank_you_for_your": {
+      "t": "Vielen Dank für Ihre schnelle Rückmeldung.",
+      "g": [
+        4
+      ]
+    },
+    "i_look_forward_to": "Ich freue mich darauf, von Ihnen zu hören.",
+    "i_am_sorry_for": {
+      "t": "Es tut mir leid für die späte Antwort.",
+      "g": [
+        6
+      ]
+    },
+    "could_you_kindly_confirm": "Könnten Sie bitte den Termin der Besprechung bestätigen?",
+    "i_would_like_to": "Ich möchte einige Informationen anfragen.",
+    "please_accept_my_sincere": "Bitte nehmen Sie meine aufrichtige Entschuldigung für die Unannehmlichkeiten an.",
+    "we_regret_to_inform": "Wir bedauern, Sie über die Verspätung zu informieren.",
+    "request": "Anfrage",
+    "inquiry": "Erkundigung",
+    "kindly": "freundlicherweise",
+    "response": "Rückmeldung",
+    "best_regards_and_thank": {
+      "t": "Viele Grüße und vielen Dank für Ihre Zeit.",
+      "g": [
+        1
+      ]
+    },
+    "good_morning_everyone_and": "Guten Morgen zusammen, und willkommen zu meinem Vortrag.",
+    "i_will_now_hand": "Ich übergebe jetzt an meinen Kollegen.",
+    "our_topic_today_is": "Unser Thema heute ist gesunde Ernährung.",
+    "today_i'm_going_to": "Heute werde ich über Recycling sprechen.",
+    "does_anyone_have_any": {
+      "t": "Hat jemand bisher Fragen?",
+      "g": [
+        1
+      ]
+    },
+    "i'd_like_to_thank": {
+      "t": "Ich möchte Ihnen für Ihr Zuhören danken.",
+      "g": [
+        5
+      ]
+    },
+    "audience": "Publikum",
+    "slide": "Folie",
+    "topic": "Thema",
+    "summary": "Zusammenfassung",
+    "my_presentation_has_three": "Meine Präsentation hat drei Hauptteile.",
+    "first_let_me_give": {
+      "t": "Zuerst möchte ich Ihnen etwas Hintergrund geben.",
+      "g": [
+        5
+      ]
+    },
+    "as_you_can_see": "Wie Sie auf dieser Folie sehen, sind die Verkäufe gestiegen.",
+    "this_chart_shows_the": {
+      "t": "Dieses Diagramm zeigt die Ergebnisse deutlich.",
+      "g": [
+        1
+      ]
+    },
+    "let_me_move_on": "Ich gehe jetzt zum nächsten Punkt über.",
+    "to_summarize_we_have": "Zusammengefasst haben wir drei Optionen.",
+    "please_feel_free_to": "Unterbrechen Sie mich bitte jederzeit.",
+    "that_brings_me_to": "Das bringt mich zu meiner Schlussfolgerung.",
+    "introduce": "vorstellen",
+    "conclusion": "Schlussfolgerung",
+    "chart": "Diagramm",
+    "example": "Beispiel",
+    "for_example_many_people": {
+      "t": "Zum Beispiel vergessen viele Menschen ihre Passwörter.",
+      "g": [
+        6
+      ]
+    },
+    "i_want_to_study": "Ich möchte nächstes Jahr im Ausland studieren.",
+    "studying_abroad_changed_my": "Das Studium im Ausland hat meine Denkweise verändert.",
+    "i_will_return_home": "Ich kehre nach meinem Abschluss nach Hause zurück.",
+    "she_won_a_scholarship": "Sie hat ein Stipendium für eine britische Universität gewonnen.",
+    "i'm_learning_about_a": {
+      "t": "Ich lerne eine völlig andere Kultur kennen.",
+      "g": [
+        5
+      ]
+    },
+    "my_professor_speaks_very": {
+      "t": "Mein Professor spricht manchmal sehr schnell.",
+      "g": [
+        1
+      ]
+    },
+    "scholarship": "Stipendium",
+    "campus": "Campus",
+    "tuition": "Studiengebühren",
+    "dormitory": "Studentenwohnheim",
+    "the_tuition_fees_are": "Die Studiengebühren sind ziemlich hoch.",
+    "i_live_in_a": {
+      "t": "Ich wohne in einem Studentenwohnheim.",
+      "g": [
+        4
+      ]
+    },
+    "at_first_i_felt": "Zuerst hatte ich großes Heimweh.",
+    "making_friends_helped_me": {
+      "t": "Freunde zu finden hat mir geholfen, mich schnell anzupassen.",
+      "g": [
+        8
+      ]
+    },
+    "i_have_to_improve": "Ich muss mein akademisches Schreiben verbessern.",
+    "the_campus_is_beautiful": "Der Campus ist schön und sehr ruhig.",
+    "i_share_an_apartment": "Ich teile mir eine Wohnung mit zwei Kommilitonen.",
+    "applying_for_a_student": "Ein Studentenvisum zu beantragen dauert Wochen.",
+    "homesick": "heimwehkrank",
+    "foreign": "fremd",
+    "culture": "Kultur",
+    "adapt": "sich anpassen",
+    "i_miss_my_family": {
+      "t": "Ich vermisse meine Familie, aber ich bin glücklich.",
+      "g": [
+        1
+      ]
+    },
+    "technology_makes_our_daily": "Technologie macht unser tägliches Leben viel einfacher.",
+    "artificial_intelligence_is_changing": "Künstliche Intelligenz verändert die Welt schnell.",
+    "we_should_not_depend": "Wir sollten nicht zu sehr von Technologie abhängen.",
+    "i_use_my_phone": "Ich benutze mein Handy für fast alles.",
+    "children_spend_too_many": {
+      "t": "Kinder verbringen zu viele Stunden vor Bildschirmen.",
+      "g": [
+        6
+      ]
+    },
+    "i_forgot_my_password": {
+      "t": "Ich habe leider schon wieder mein Passwort vergessen.",
+      "g": [
+        6
+      ]
+    },
+    "device": "Gerät",
+    "software": "Software",
+    "battery": "Akku",
+    "download": "herunterladen",
+    "my_battery_dies_very": "Mein Akku ist in diesen Tagen sehr schnell leer.",
+    "please_update_the_app": {
+      "t": "Bitte aktualisiere die App, bevor du anfängst.",
+      "g": [
+        1
+      ]
+    },
+    "i_downloaded_a_new": "Ich habe eine neue Sprachlern-App heruntergeladen.",
+    "the_internet_is_down": {
+      "t": "Das Internet ist heute schon wieder ausgefallen.",
+      "g": [
+        1
+      ]
+    },
+    "many_jobs_will_be": "Viele Arbeitsplätze werden durch Maschinen ersetzt werden.",
+    "i_can't_live_without": "Ich kann ohne meinen Laptop nicht leben.",
+    "video_calls_help_me": "Videoanrufe helfen mir, meine Familie zu sehen.",
+    "online_banking_is_safe": "Online-Banking ist sicher, wenn du vorsichtig bist.",
+    "update": "Aktualisierung",
+    "screen": "Bildschirm",
+    "digital": "digital",
+    "internet": "Internet",
+    "smart_watches_can_track": {
+      "t": "Smartwatches können deinen Puls messen.",
+      "g": [
+        4
+      ]
+    },
+    "i_post_photos_on": "Ich poste jede Woche Fotos in den sozialen Medien.",
+    "i_deleted_that_app": "Ich habe diese App gelöscht, um Zeit zu sparen.",
+    "always_think_before_you": "Denke immer nach, bevor du etwas online postest.",
+    "she_has_over_ten": "Sie hat über zehntausend Follower.",
+    "fake_news_spreads_very": {
+      "t": "Falschmeldungen verbreiten sich in den sozialen Medien sehr schnell.",
+      "g": [
+        1
+      ]
+    },
+    "my_profile_picture_is": {
+      "t": "Mein Profilbild ist ein Familienfoto.",
+      "g": [
+        1
+      ]
+    },
+    "post": "Beitrag",
+    "follow": "folgen",
+    "share": "teilen",
+    "comment": "Kommentar",
+    "i_follow_many_travel": "Ich folge vielen Reiseaccounts online.",
+    "don't_share_your_password": {
+      "t": "Teile dein Passwort mit niemandem.",
+      "g": [
+        0
+      ]
+    },
+    "he_got_a_thousand": "Er hat tausend Likes für diesen Beitrag bekommen.",
+    "privacy_settings_protect_your": {
+      "t": "Datenschutzeinstellungen schützen deine persönlichen Daten.",
+      "g": [
+        0
+      ]
+    },
+    "some_people_compare_themselves": "Manche Leute vergleichen sich online mit anderen.",
+    "i_spend_an_hour": "Ich verbringe täglich eine Stunde mit Scrollen.",
+    "teenagers_use_social_media": "Jugendliche nutzen soziale Medien mehr als Erwachsene.",
+    "she_wrote_a_kind": "Sie hat einen netten Kommentar unter mein Foto geschrieben.",
+    "privacy": "Datenschutz",
+    "profile": "Profil",
+    "account": "Konto",
+    "message": "Nachricht",
+    "social_media_helps_me": {
+      "t": "Soziale Medien helfen mir, in Kontakt zu bleiben.",
+      "g": [
+        5
+      ]
+    },
+    "i_read_the_news": "Ich lese jeden Morgen die Nachrichten.",
+    "i_always_check_two": "Ich prüfe immer zwei Quellen, bevor ich etwas glaube.",
+    "breaking_news_interrupted_my": "Eine Eilmeldung hat meine Lieblingssendung unterbrochen.",
+    "the_headline_caught_my": "Die Schlagzeile hat sofort meine Aufmerksamkeit erregt.",
+    "i_prefer_watching_the": {
+      "t": "Ich sehe die Nachrichten lieber im Fernsehen.",
+      "g": [
+        6
+      ]
+    },
+    "the_president_gave_a": {
+      "t": "Der Präsident hielt gestern eine kurze Rede.",
+      "g": [
+        6
+      ]
+    },
+    "headline": "Schlagzeile",
+    "journalist": "Journalist",
+    "newspaper": "Zeitung",
+    "broadcast": "Sendung",
+    "journalists_must_check_their": "Journalisten müssen ihre Quellen sorgfältig prüfen.",
+    "this_channel_broadcasts_news": {
+      "t": "Dieser Sender sendet den ganzen Tag Nachrichten.",
+      "g": [
+        2
+      ]
+    },
+    "my_grandfather_still_buys": "Mein Großvater kauft immer noch jeden Tag eine Zeitung.",
+    "source": "Quelle",
+    "not_everything_online_is": {
+      "t": "Nicht alles im Internet ist eine zuverlässige Information.",
+      "g": [
+        6
+      ]
+    },
+    "fake_news_can_cause": "Falschmeldungen können ernste Probleme verursachen.",
+    "the_interview_will_be": "Das Interview wird heute Abend gesendet.",
+    "newspapers_are_losing_readers": "Zeitungen verlieren jedes Jahr Leser.",
+    "the_report_was_published": "Der Bericht wurde heute Morgen veröffentlicht.",
+    "reliable": "zuverlässig",
+    "fake": "gefälscht",
+    "channel": "Sender",
+    "many_people_get_news": {
+      "t": "Viele Menschen beziehen ihre Nachrichten aus sozialen Medien.",
+      "g": [
+        1
+      ]
+    },
+    "pollution_is_a_serious": "Verschmutzung ist ein ernstes Problem in Großstädten.",
+    "i_bring_my_own": "Ich bringe meine eigene Tasche in die Geschäfte mit.",
+    "everyone_must_do_something": "Jeder muss etwas für unseren Planeten tun.",
+    "we_should_recycle_paper": "Wir sollten Papier, Glas und Plastik recyceln.",
+    "we_must_protect_endangered": {
+      "t": "Wir müssen jetzt gefährdete Tiere schützen.",
+      "g": [
+        3
+      ]
+    },
+    "the_air_quality_has": {
+      "t": "Die Luftqualität hat sich dieses Jahr verbessert.",
+      "g": [
+        1
+      ]
+    },
+    "pollution": "Verschmutzung",
+    "recycle": "recyceln",
+    "climate": "Klima",
+    "energy": "Energie",
+    "climate_change_is_affecting": "Der Klimawandel betrifft den ganzen Planeten.",
+    "i_try_to_save": {
+      "t": "Ich versuche, zu Hause Energie zu sparen.",
+      "g": [
+        4
+      ]
+    },
+    "plastic_waste_is_harming": "Plastikmüll schadet den Ozeanen.",
+    "many_forests_are_disappearing": {
+      "t": "Viele Wälder verschwinden sehr schnell.",
+      "g": [
+        2
+      ]
+    },
+    "solar_energy_is_clean": "Solarenergie ist sauber und erneuerbar.",
+    "i_walk_to_work": "Ich gehe zu Fuß zur Arbeit, statt zu fahren.",
+    "planting_trees_can_reduce": "Bäume zu pflanzen kann die globale Erwärmung verringern.",
+    "using_less_water_helps": "Weniger Wasser zu verbrauchen hilft der Umwelt.",
+    "waste": "Abfall",
+    "forest": "Wald",
+    "protect": "schützen",
+    "planet": "Planet",
+    "plastic_bags_are_banned": {
+      "t": "Plastiktüten sind in unserer Stadt verboten.",
+      "g": [
+        5
+      ]
+    },
+    "i_exercise_three_times": "Ich treibe dreimal pro Woche Sport.",
+    "yoga_helps_me_relax": "Yoga hilft mir, nach einem langen Tag zu entspannen.",
+    "staying_active_makes_me": "Aktiv zu bleiben lässt mich viel jünger fühlen.",
+    "getting_enough_sleep_is": "Genug Schlaf zu bekommen ist sehr wichtig.",
+    "drinking_water_keeps_you": {
+      "t": "Wasser trinken hält dich den ganzen Tag energiegeladen.",
+      "g": [
+        7
+      ]
+    },
+    "keeping_a_balance_between": {
+      "t": "Ein Gleichgewicht zwischen Arbeit und Ruhe zu halten ist wichtig.",
+      "g": [
+        1
+      ]
+    },
+    "exercise": "Sport treiben",
+    "sleep": "Schlaf",
+    "stress": "Stress",
+    "routine": "Routine",
+    "i_try_to_avoid": "Ich versuche, zu viel Stress zu vermeiden.",
+    "a_short_walk_clears": {
+      "t": "Ein kurzer Spaziergang macht meinen Kopf frei.",
+      "g": [
+        5
+      ]
+    },
+    "she_goes_jogging_before": "Sie geht jeden Tag vor dem Frühstück joggen.",
+    "bad_habits_are_hard": {
+      "t": "Schlechte Gewohnheiten sind schwer abzulegen.",
+      "g": [
+        1
+      ]
+    },
+    "i_never_skip_my": "Ich lasse meine Morgenroutine nie aus.",
+    "swimming_is_great_for": "Schwimmen ist gut für den ganzen Körper.",
+    "we_take_the_stairs": "Wir nehmen die Treppe statt des Aufzugs.",
+    "i_stopped_smoking_two": "Ich habe vor zwei Jahren mit dem Rauchen aufgehört.",
+    "habit": "Gewohnheit",
+    "lifestyle": "Lebensstil",
+    "balance": "Gleichgewicht",
+    "fit": "fit",
+    "my_doctor_says_i": {
+      "t": "Mein Arzt sagt, ich brauche mehr Bewegung.",
+      "g": [
+        1
+      ]
+    },
+    "a_balanced_diet_includes": "Eine ausgewogene Ernährung umfasst viele verschiedene Lebensmittel.",
+    "i_eat_plenty_of": "Ich esse täglich viel frisches Obst.",
+    "read_the_label_before": "Lies das Etikett, bevor du verpackte Lebensmittel kaufst.",
+    "fruit_and_vegetables_contain": "Obst und Gemüse enthalten wichtige Vitamine.",
+    "i'm_allergic_to_nuts": {
+      "t": "Ich bin allergisch gegen Nüsse, also meide ich sie.",
+      "g": [
+        2
+      ]
+    },
+    "cooking_at_home_is": {
+      "t": "Zu Hause zu kochen ist billiger und gesünder.",
+      "g": [
+        7
+      ]
+    },
+    "protein": "Protein",
+    "vitamins": "Vitamine",
+    "calories": "Kalorien",
+    "fiber": "Ballaststoffe",
+    "chicken_and_fish_are": "Hähnchen und Fisch sind gute Proteinquellen.",
+    "too_much_sugar_is": {
+      "t": "Zu viel Zucker ist schlecht für dich.",
+      "g": [
+        2
+      ]
+    },
+    "i_try_to_eat": "Ich versuche, weniger Fastfood zu essen.",
+    "breakfast_is_the_most": {
+      "t": "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+      "g": [
+        4
+      ]
+    },
+    "whole_grains_give_you": "Vollkornprodukte geben dir stundenlang Energie.",
+    "she_counts_calories_to": "Sie zählt Kalorien, um abzunehmen.",
+    "drink_at_least_two": "Trink mindestens zwei Liter Wasser.",
+    "fiber_helps_your_body": "Ballaststoffe helfen deinem Körper, Nahrung zu verdauen.",
+    "sugar": "Zucker",
+    "vegetable": "Gemüse",
+    "balanced": "ausgewogen",
+    "meal": "Mahlzeit",
+    "don't_skip_meals_if": {
+      "t": "Lass keine Mahlzeiten aus, wenn du Energie willst.",
+      "g": [
+        0
+      ]
+    },
+    "living_in_a_city_is": "In einer Stadt zu leben ist aufregend, aber teuer.",
+    "my_neighbors_are_friendly": "Meine Nachbarn sind freundlich, obwohl wir selten reden.",
+    "the_city_never_sleeps": "Die Stadt schläft nie, und ich liebe es.",
+    "traffic_is_terrible_during": "Der Verkehr ist zur Hauptverkehrszeit schrecklich.",
+    "public_transport_here_is": {
+      "t": "Der öffentliche Verkehr hier ist billig und zuverlässig.",
+      "g": [
+        5
+      ]
+    },
+    "parking_is_almost_impossible": {
+      "t": "Parken ist in dieser Gegend fast unmöglich.",
+      "g": [
+        6
+      ]
+    },
+    "traffic": "Verkehr",
+    "crowded": "überfüllt",
+    "noise": "Lärm",
+    "suburb": "Vorort",
+    "i_commute_to_work": "Ich fahre mit der U-Bahn zur Arbeit.",
+    "the_streets_are_crowded": {
+      "t": "Die Straßen sind am Wochenende überfüllt.",
+      "g": [
+        5
+      ]
+    },
+    "it's_hard_to_sleep": "Bei dem ganzen Lärm ist es schwer zu schlafen.",
+    "rent": "Miete",
+    "rent_is_rising_faster": {
+      "t": "Die Mieten steigen schneller als die Gehälter.",
+      "g": [
+        6
+      ]
+    },
+    "i_prefer_living_in": "Ich wohne lieber in einem ruhigen Vorort.",
+    "there_are_always_many": "Es gibt immer viel zu tun.",
+    "city_parks_give_people": "Stadtparks geben den Menschen einen Ort zum Entspannen.",
+    "downtown_is_full_of": "Die Innenstadt ist voller Geschäfte und Cafés.",
+    "downtown": "Innenstadt",
+    "commute": "pendeln",
+    "lively": "lebhaft",
+    "i_miss_the_fresh": {
+      "t": "Ich vermisse die frische Luft auf dem Land.",
+      "g": [
+        7
+      ]
+    },
+    "we_are_planning_a": "Wir planen eine Reise nach Italien.",
+    "which_season_is_the": "Welche Jahreszeit ist am besten zum Besuchen?",
+    "i'm_saving_money_for": "Ich spare Geld für einen Sommerurlaub.",
+    "first_we_need_to": "Zuerst müssen wir ein Reiseziel auswählen.",
+    "is_breakfast_included_in": {
+      "t": "Ist das Frühstück im Zimmerpreis inbegriffen?",
+      "g": [
+        5
+      ]
+    },
+    "travel_insurance_is_worth": {
+      "t": "Die Reiseversicherung ist das zusätzliche Geld wert.",
+      "g": [
+        1
+      ]
+    },
+    "itinerary": "Reiseplan",
+    "destination": "Reiseziel",
+    "accommodation": "Unterkunft",
+    "luggage": "Gepäck",
+    "i_booked_a_hotel": "Ich habe ein Hotel in Strandnähe gebucht.",
+    "how_long_will_the": {
+      "t": "Wie lange dauert die Reise?",
+      "g": [
+        1
+      ]
+    },
+    "we_should_compare_flight": "Wir sollten die Flugpreise online vergleichen.",
+    "i_need_to_exchange": {
+      "t": "Ich muss zuerst etwas Währung umtauschen.",
+      "g": [
+        4
+      ]
+    },
+    "don't_forget_to_pack": "Vergiss nicht, deinen Pass einzupacken.",
+    "our_itinerary_includes_three": "Unser Reiseplan umfasst drei verschiedene Städte.",
+    "we'll_leave_early_to": "Wir fahren früh los, um den Menschenmassen zu entgehen.",
+    "we_will_rent_a": "Wir mieten am Flughafen ein Auto.",
+    "booking": "Buchung",
+    "tourist": "Tourist",
+    "sightseeing": "Sightseeing",
+    "currency": "Währung",
+    "i'd_like_to_visit": {
+      "t": "Ich möchte die Altstadt besuchen.",
+      "g": [
+        4
+      ]
+    },
+    "our_flight_has_been": "Unser Flug wurde schon wieder verspätet.",
+    "we_deserve_some_compensation": "Wir verdienen eine Entschädigung für dieses Problem.",
+    "sorry_but_we_missed": "Entschuldigung, aber wir haben unseren Anschlussflug verpasst.",
+    "the_airline_lost_my": "Die Fluggesellschaft hat gestern meinen Koffer verloren.",
+    "my_bag_arrived_damaged": {
+      "t": "Meine Tasche kam beschädigt und nass an.",
+      "g": [
+        3
+      ]
+    },
+    "i'm_afraid_there's_been": {
+      "t": "Ich fürchte, es ist ein schrecklicher Fehler passiert.",
+      "g": [
+        6
+      ]
+    },
+    "complaint": "Beschwerde",
+    "refund": "Rückerstattung",
+    "delayed": "verspätet",
+    "cancelled": "gestrichen",
+    "i_would_like_to_make": "Ich möchte mich beschweren.",
+    "the_room_was_dirty": {
+      "t": "Das Zimmer war schmutzig und sehr laut.",
+      "g": [
+        3
+      ]
+    },
+    "excuse_me_the_air": "Entschuldigung, die Klimaanlage funktioniert nicht.",
+    "i'd_like_a_refund": {
+      "t": "Ich möchte eine Rückerstattung für dieses Ticket.",
+      "g": [
+        3
+      ]
+    },
+    "our_train_was_cancelled": "Unser Zug wurde ohne jede Vorwarnung gestrichen.",
+    "the_hotel_gave_us": "Das Hotel hat uns das falsche Zimmer gegeben.",
+    "the_service_at_that": "Der Service in diesem Restaurant war furchtbar.",
+    "we_waited_two_hours": "Wir haben zwei Stunden auf den Bus gewartet.",
+    "missing": "vermisst",
+    "damaged": "beschädigt",
+    "compensation": "Entschädigung",
+    "service": "Service",
+    "could_you_please_speak": {
+      "t": "Könnten Sie bitte mit dem Manager sprechen?",
+      "g": [
+        5
+      ]
+    },
+    "every_country_has_its": "Jedes Land hat seine eigenen Traditionen.",
+    "sharing_food_is_a": "Essen zu teilen ist ein Zeichen von Freundschaft.",
+    "i_love_learning_about": "Ich lerne gern andere Lebensweisen kennen.",
+    "in_japan_people_bow": "In Japan verbeugen sich die Menschen zur Begrüßung.",
+    "our_ancestors_passed_down": {
+      "t": "Unsere Vorfahren haben diese Geschichten weitergegeben.",
+      "g": [
+        1
+      ]
+    },
+    "visitors_should_learn_the": {
+      "t": "Besucher sollten die örtlichen Bräuche lernen.",
+      "g": [
+        4
+      ]
+    },
+    "tradition": "Tradition",
+    "custom": "Brauch",
+    "heritage": "Erbe",
+    "ancestors": "Vorfahren",
+    "it's_polite_to_remove": "Es ist höflich, dort die Schuhe auszuziehen.",
+    "my_grandmother_wears_a": {
+      "t": "Meine Großmutter trägt ein traditionelles Kleid.",
+      "g": [
+        4
+      ]
+    },
+    "arabic_hospitality_is_famous": "Arabische Gastfreundschaft ist weltweit berühmt.",
+    "we_celebrate_this_holiday": {
+      "t": "Wir feiern diesen Feiertag jeden Winter.",
+      "g": [
+        1
+      ]
+    },
+    "different_cultures_have_different": "Verschiedene Kulturen haben verschiedene Tischsitten.",
+    "tipping_is_expected_in": "In manchen Ländern wird Trinkgeld erwartet.",
+    "people_dress_up_for": "Die Leute machen sich hier für das Festival schick.",
+    "music_is_a_big": "Musik ist ein großer Teil unseres Erbes.",
+    "costume": "Tracht",
+    "ritual": "Ritual",
+    "greet": "begrüßen",
+    "generous": "großzügig",
+    "in_some_cultures_it's": {
+      "t": "In manchen Kulturen ist es unhöflich, mit dem Finger zu zeigen.",
+      "g": [
+        5
+      ]
+    },
+    "i_watched_an_amazing": "Ich habe gestern Abend einen tollen Film gesehen.",
+    "music_can_express_feelings": "Musik kann Gefühle ohne Worte ausdrücken.",
+    "overall_i_give_it": "Insgesamt gebe ich ihm vier Sterne.",
+    "the_plot_was_clever": "Die Handlung war clever und überraschend.",
+    "the_main_actor_deserves": {
+      "t": "Der Hauptdarsteller verdient einen Preis.",
+      "g": [
+        2
+      ]
+    },
+    "it_was_a_bit": {
+      "t": "Er war allerdings etwas zu lang.",
+      "g": [
+        5
+      ]
+    },
+    "plot": "Handlung",
+    "actor": "Schauspieler",
+    "scene": "Szene",
+    "director": "Regisseur",
+    "in_my_opinion_the": "Meiner Meinung nach war die schauspielerische Leistung hervorragend.",
+    "the_soundtrack_made_the": {
+      "t": "Die Filmmusik machte die Szene unvergesslich.",
+      "g": [
+        1
+      ]
+    },
+    "i_didn't_enjoy_the": "Das Ende hat mir nicht so gut gefallen.",
+    "the_director_has_made": {
+      "t": "Der Regisseur hat zehn Filme gedreht.",
+      "g": [
+        1
+      ]
+    },
+    "we_visited_a_modern": "Wir haben eine Galerie für moderne Kunst besucht.",
+    "this_painting_was_created": "Dieses Gemälde wurde 1890 geschaffen.",
+    "she_plays_the_violin": "Sie spielt Geige in einem Orchester.",
+    "i_would_recommend_this": "Ich würde diesen Film allen empfehlen.",
+    "soundtrack": "Filmmusik",
+    "painting": "Gemälde",
+    "gallery": "Galerie",
+    "review": "Kritik",
+    "the_special_effects_looked": {
+      "t": "Die Spezialeffekte sahen sehr realistisch aus.",
+      "g": [
+        4
+      ]
+    },
+    "i_try_to_read": "Ich versuche, vor dem Schlafengehen zu lesen.",
+    "the_ending_of_the": "Das Ende der Geschichte hat mich überrascht.",
+    "let's_meet_at_the": "Lass uns am Samstag in der Buchhandlung treffen.",
+    "this_author_writes_wonderful": "Dieser Autor schreibt wunderbare Abenteuergeschichten.",
+    "reading_improves_your_vocabulary": {
+      "t": "Lesen verbessert deinen Wortschatz und deine Fantasie.",
+      "g": [
+        3
+      ]
+    },
+    "this_bestseller_has_been": {
+      "t": "Dieser Bestseller wurde in zwanzig Sprachen übersetzt.",
+      "g": [
+        6
+      ]
+    },
+    "author": "Autor",
+    "chapter": "Kapitel",
+    "character": "Figur",
+    "library": "Bibliothek",
+    "the_first_chapter_was": "Das erste Kapitel war etwas langsam.",
+    "my_favorite_character_is": {
+      "t": "Meine Lieblingsfigur ist ein mutiger Detektiv.",
+      "g": [
+        5
+      ]
+    },
+    "i_borrow_books_from": "Ich leihe Bücher aus der öffentlichen Bibliothek aus.",
+    "fiction": "Belletristik",
+    "she_prefers_fiction_to": {
+      "t": "Sie bevorzugt Belletristik gegenüber Sachbüchern.",
+      "g": [
+        1
+      ]
+    },
+    "biographies_teach_us_about": "Biografien lehren uns etwas über echte Leben.",
+    "i_couldn't_put_the": "Ich konnte das Buch nicht aus der Hand legen.",
+    "i_highlight_important_sentences": "Ich markiere wichtige Sätze mit einem Stift.",
+    "he_reads_an_ebook": "Er liest im Zug ein E-Book.",
+    "biography": "Biografie",
+    "genre": "Genre",
+    "bookstore": "Buchhandlung",
+    "which_genre_do_you": {
+      "t": "Welches Genre gefällt dir am besten?",
+      "g": [
+        1
+      ]
+    },
+    "we_celebrate_eid_with": "Wir feiern das Eid-Fest mit unserer ganzen Familie.",
+    "we_visit_our_relatives": "Wir besuchen in den Ferien unsere Verwandten.",
+    "it_was_the_happiest": "Es war die glücklichste Feier meines Lebens.",
+    "congratulations_on_your_new": "Herzlichen Glückwunsch zu deiner neuen Stelle!",
+    "happy_birthday_i_hope": {
+      "t": "Alles Gute zum Geburtstag! Ich hoffe, alle deine Wünsche gehen in Erfüllung.",
+      "g": [
+        8
+      ]
+    },
+    "the_streets_were_full": {
+      "t": "Die Straßen waren voller Musik und Lachen.",
+      "g": [
+        6
+      ]
+    },
+    "gift": "Geschenk",
+    "guests": "Gäste",
+    "decorations": "Dekoration",
+    "fireworks": "Feuerwerk",
+    "i_received_an_invitation": "Ich habe eine Einladung zu ihrer Hochzeit bekommen.",
+    "the_children_love_opening": {
+      "t": "Die Kinder lieben es, ihre Geschenke auszupacken.",
+      "g": [
+        5
+      ]
+    },
+    "we_decorated_the_house": "Wir haben das Haus mit bunten Lichtern geschmückt.",
+    "everyone_gathers_for_a": {
+      "t": "Alle versammeln sich zu einem großen Familienessen.",
+      "g": [
+        1
+      ]
+    },
+    "the_fireworks_started_at": "Das Feuerwerk begann genau um Mitternacht.",
+    "my_mother_cooks_a": "Meine Mutter kocht jedes Jahr ein besonderes Festmahl.",
+    "she_baked_a_huge": "Sie hat einen riesigen Kuchen für die Party gebacken.",
+    "we_raised_our_glasses": "Wir haben die Gläser zum Anstoßen erhoben.",
+    "feast": "Festmahl",
+    "congratulations": "Glückwunsch",
+    "invitation": "Einladung",
+    "toast": "Trinkspruch",
+    "people_wear_new_clothes": {
+      "t": "An diesem Feiertag tragen die Leute neue Kleidung.",
+      "g": [
+        7
+      ]
+    },
+    "the_room_is_cleaned": "Das Zimmer wird jeden Morgen gereinigt.",
+    "smoking_is_not_allowed": "In diesem Gebäude ist Rauchen nicht erlaubt.",
+    "the_keys_were_found": "Die Schlüssel wurden unter dem Sofa gefunden.",
+    "this_bridge_was_built": "Diese Brücke wurde 1932 gebaut.",
+    "dinner_has_already_been": {
+      "t": "Das Abendessen wurde schon für uns zubereitet.",
+      "g": [
+        6
+      ]
+    },
+    "were_you_invited_to": {
+      "t": "Wurdest du zur Party eingeladen?",
+      "g": [
+        4
+      ]
+    },
+    "invented": "erfunden",
+    "discovered": "entdeckt",
+    "produced": "hergestellt",
+    "painted": "gemalt",
+    "english_is_spoken_all": "Englisch wird auf der ganzen Welt gesprochen.",
+    "the_telephone_was_invented": {
+      "t": "Das Telefon wurde von Bell erfunden.",
+      "g": [
+        5
+      ]
+    },
+    "my_car_is_being": "Mein Auto wird gerade repariert.",
+    "the_letters_will_be": {
+      "t": "Die Briefe werden morgen geliefert.",
+      "g": [
+        4
+      ]
+    },
+    "this_cheese_is_produced": "Dieser Käse wird in der Schweiz hergestellt.",
+    "the_window_was_broken": "Das Fenster wurde vom Sturm zerbrochen.",
+    "the_company_was_founded": "Die Firma wurde 1998 gegründet.",
+    "the_mona_lisa_was": "Die Mona Lisa wurde von Leonardo gemalt.",
+    "founded": "gegründet",
+    "delivered": "geliefert",
+    "cleaned": "gereinigt",
+    "repaired": "repariert",
+    "many_new_houses_are": {
+      "t": "Hier werden viele neue Häuser gebaut.",
+      "g": [
+        4
+      ]
+    },
+    "she_said_she_was": "Sie sagte, sie sei sehr müde.",
+    "she_said_she_had": "Sie sagte, sie sei nie im Ausland gewesen.",
+    "they_asked_us_whether": "Sie fragten uns, ob wir Hilfe brauchten.",
+    "he_told_me_he": "Er sagte mir, er gehe weg.",
+    "they_told_me_they": {
+      "t": "Sie sagten mir, sie hätten den Zug verpasst.",
+      "g": [
+        7
+      ]
+    },
+    "he_promised_that_he": {
+      "t": "Er versprach, dass er mich anrufen würde.",
+      "g": [
+        1
+      ]
+    },
+    "said": "sagte",
+    "told": "erzählte",
+    "asked": "fragte",
+    "explained": "erklärte",
+    "they_said_they_had": "Sie sagten, sie hätten schon gegessen.",
+    "i_asked_her_where": {
+      "t": "Ich fragte sie, wo sie wohnte.",
+      "g": [
+        5
+      ]
+    },
+    "the_teacher_said_we": "Der Lehrer sagte, wir würden einen Test schreiben.",
+    "she_asked_me_if": {
+      "t": "Sie fragte mich, ob ich Kaffee mochte.",
+      "g": [
+        6
+      ]
+    },
+    "he_said_he_couldn't": "Er sagte, er könne nicht zur Party kommen.",
+    "my_boss_told_us": "Mein Chef sagte uns, wir sollten früh Schluss machen.",
+    "the_doctor_said_i": "Der Arzt sagte, ich solle mich mehr ausruhen.",
+    "i_asked_him_what": "Ich fragte ihn, wie spät es sei.",
+    "announced": "kündigte an",
+    "admitted": "gab zu",
+    "promised": "versprach",
+    "warned": "warnte",
+    "she_explained_that_the": {
+      "t": "Sie erklärte, dass der Laden geschlossen war.",
+      "g": [
+        1
+      ]
+    },
+    "i_stayed_home_because": "Ich bin zu Hause geblieben, weil ich krank war.",
+    "despite_being_young_she": "Trotz ihrer Jugend ist sie sehr weise.",
+    "i_was_hungry_so": "Ich hatte Hunger, also habe ich Sandwiches gemacht.",
+    "it_was_raining_however": "Es regnete; trotzdem gingen wir hinaus.",
+    "i_can't_come_because": {
+      "t": "Ich kann nicht kommen, weil ich Arbeit habe.",
+      "g": [
+        6
+      ]
+    },
+    "although_it_was_late": {
+      "t": "Obwohl es spät war, redeten wir weiter.",
+      "g": [
+        4
+      ]
+    },
+    "because": "weil",
+    "therefore": "deshalb",
+    "despite": "trotz",
+    "besides": "neben",
+    "although_he_was_tired": "Obwohl er müde war, arbeitete er weiter.",
+    "she_studied_hard_so": {
+      "t": "Sie hat fleißig gelernt, also hat sie bestanden.",
+      "g": [
+        7
+      ]
+    },
+    "despite_the_rain_we": "Trotz des Regens haben wir die Reise genossen.",
+    "moreover": "außerdem",
+    "i_like_tea_whereas": {
+      "t": "Ich mag Tee, wohingegen mein Bruder Kaffee bevorzugt.",
+      "g": [
+        3
+      ]
+    },
+    "the_hotel_was_cheap": "Das Hotel war billig; außerdem war es sauber.",
+    "he_missed_the_bus": "Er hat den Bus verpasst; deshalb kam er zu spät.",
+    "we_took_a_taxi": "Wir haben ein Taxi genommen, weil es regnete.",
+    "besides_being_cheap_the": "Neben dem günstigen Preis ist das Handy zuverlässig.",
+    "whereas": "wohingegen",
+    "so": "also",
+    "but": "aber",
+    "she_was_nervous_but": {
+      "t": "Sie war nervös, aber sie sprach deutlich.",
+      "g": [
+        6
+      ]
+    }
+  }
+    }
